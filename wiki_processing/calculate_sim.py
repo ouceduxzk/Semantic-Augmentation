@@ -27,22 +27,26 @@ def getIndexOfPklFile(pkls, ind):
             return i
     return 0
 
-
 def cal_sim(concept, pkls, i, ind, ind2title, topn = 100):
     doc_tfidfs = [pickle.load(open(pkl, 'r')) for pkl in pkls]
     doc_ids = [ int(x.split('/')[-1][3:].split('.')[0]) for x in pkls ]
+    print(doc_ids)
     src_tfidf = doc_tfidfs[i][ind,:]
     for i, (doc_tfidf, doc_id) in enumerate(zip(doc_tfidfs, doc_ids)):
         if i == 0 :
             total_sim = cosine_similarity(src_tfidf, doc_tfidf)
         else:
-            part_sim = cosine_similarity(src_tfidf , doc_tfidf[doc_id[i-1]:,:])
-            total_sim = np.vstack([total_sim, part_sim])
+            part_sim = cosine_similarity(src_tfidf , doc_tfidf[doc_ids[i-1]:,:])
+            print(total_sim.shape, part_sim.shape)
+            total_sim = np.hstack([total_sim, part_sim])
             print(part_sim.shape)
-    top_n_indices = np.argsort(total_sim)[:topn].tolist()
+    top_n_indices = np.argsort(total_sim[0,:])[::-1][:topn].tolist()
+    top_n_sims = [ total_sim[0][x] for x in top_n_indices]
+    print(top_n_indices)
     top_n_concepts = [ ind2title[x] for x in top_n_indices]
     print('the top {} concepts similiar to {} is'.format(str(topn),  concept))
-    print(top_n_concepts)
+    print(zip(top_n_concepts, top_n_sims))
+
 
 def doc_sim_by_cosine(concept):
     most_sim_concepts = []
@@ -52,11 +56,10 @@ def doc_sim_by_cosine(concept):
     pkls = glob.glob('sp_tfidf/*pkl')
     pkls = sorted(pkls, key = lambda v: int(v.split('/')[-1].split('.')[0].split('sp_')[1]))
     print(pkls)
-
     ind_pkl = getIndexOfPklFile(pkls, ind)
-    pkls = pkls[:3]
+    pkls = pkls[:2]
     cal_sim(concept, pkls, ind_pkl, ind, ind2title)
     return most_sim_concepts
 
 if __name__ == '__main__':
-    doc_sim_by_cosine('Autism')
+    doc_sim_by_cosine('Anarchism')
