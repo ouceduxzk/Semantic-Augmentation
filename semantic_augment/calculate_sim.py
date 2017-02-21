@@ -5,7 +5,16 @@ from sklearn.metrics.pairwise import cosine_similarity
 
 pkls = glob.glob('sp_tfidf/*pkl')
 pkls = sorted(pkls, key = lambda v: int(v.split('/')[-1].split('.')[0].split('sp_')[1]))
-doc_tfidfs = [pickle.load(open(pkl, 'r')) for pkl in pkls]
+print(pkls)
+doc_tfidfs = []
+
+for pkl in pkls : 
+   try : 
+	tmp = pickle.load(open(pkl, 'rb'))
+        doc_tfidfs.append(tmp)
+   except:
+	print(pkl)
+
 
 def getDict():
     title2ind, ind2title = {}, {}
@@ -43,7 +52,7 @@ def cal_sim_topn(pkls, i, ind, ind2title, topn = 1000):
             part_sim = cosine_similarity(src_tfidf , doc_tfidf[doc_ids[i-1]:,:])
             #print(total_sim.shape, part_sim.shape)
             total_sim = np.hstack([total_sim, part_sim])
-            print(part_sim.shape)
+            print(total_sim.shape)
 
     sim_dec_order = np.argsort(total_sim[0, :])[::-1]
     top_n_indices = sim_dec_order[:topn].tolist()
@@ -52,7 +61,7 @@ def cal_sim_topn(pkls, i, ind, ind2title, topn = 1000):
     top_n_concepts = [ ind2title[x] for x in top_n_indices]
 
     #total_concepts = [ ind2title[x] for x in sim_dec_order]
-    pickle.dump(zip(top_n_concepts, top_n_sims), open(concept + '.pkl', 'rb'))
+    pickle.dump(zip(top_n_concepts, top_n_sims), open(concept + '.pkl', 'wb'))
     print('the top {} concepts similiar to {} is'.format(str(topn),  concept))
     print(zip(top_n_concepts, top_n_sims))
 
