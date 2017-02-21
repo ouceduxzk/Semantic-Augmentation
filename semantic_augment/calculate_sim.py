@@ -3,10 +3,6 @@ import os, pickle
 import glob
 from sklearn.metrics.pairwise import cosine_similarity
 
-pkls = glob.glob('sp_tfidf/*pkl')
-pkls = sorted(pkls, key = lambda v: int(v.split('/')[-1].split('.')[0].split('sp_')[1]))
-print(pkls)
-doc_tfidfs = []
 
 for pkl in pkls : 
    try : 
@@ -81,6 +77,11 @@ def doc_sim_by_cosine(concept):
     return most_sim_concepts
 
 if __name__ == '__main__':
+    pkls = glob.glob('sp_tfidf/*pkl')
+    pkls = sorted(pkls, key=lambda v: int(v.split('/')[-1].split('.')[0].split('sp_')[1]))
+    print(pkls)
+    doc_tfidfs = []
+
     title2ind, ind2title = getDict()
     random_list_concepts = np.random.choice(title2ind.keys(), 1000)
 
