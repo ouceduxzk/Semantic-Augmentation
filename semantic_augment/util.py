@@ -1,29 +1,55 @@
-from sklearn.metrics.pairwise import cosine_similarity
+import pickle, os
+import re
+import matplotlib.pyplot as plt
 import pickle
-from gensim.corpora.mmcorpus import  MmCorpus
-from gensim.corpora import wikicorpus
-from gensim.models import TfidfModel
-from gensim.similarities import Similarity, SparseMatrixSimilarity
+import numpy as np
 
-def cosine_similarity(matrix):
-    result = cosine_similarity(matrix, matrix)
-    return result
+def plot_query_result(pkl_fn, outputfn):
+    data = pickle.load(open(pkl_fn, 'rb'))
+    concetps = [x[0] for x in data]
+    sims =     [x[1] for x in data]
+    plt.plot(sims)
+    if not os.path.exists('query_sim'):
+        os.mkdir('query_sim')
 
-def read_tfidfi_model():
-    tfidf_fn = 'wiki_tfidf/_tfidf.mm'
-    tfidf_mm = MmCorpus(tfidf_fn)
-    #sim = Similarity('./', tfidf_mm, len(tfidf_mm))
-    print(dir(tfidf_mm))
-    index = SparseMatrixSimilarity(tfidf_mm)
-    vec = [(1, 1), (4, 1)]
-    print(tfidf_mm[vec])
-    sims = index[tfidf_mm[vec]]
-    print(list(enumerate(sims)))
-    #pickle.dump(sim, open('tfidf_cosine.pkl', 'wb'))
+    #plt.savefig('query_sim/' + outputfn)
+    ##plt.close()
+
+def check_wierd_query(pkl_fn):
+    data = pickle.load(open(pkl_fn, 'rb'))
+    concetps = [x[0] for x in data]
+    sims = [x[1] for x in data]
+    if np.mean(sims) > 0.8:
+        print(pkl_fn, data)
+
+def generate_query_doc_vector(idx):
+    os.system('grep "^' + str(idx) + '" > tmp.txt')
+    lines = open('tmp.txt', 'rb').readlines()
+    vec = [0] * 100000
+    indices = []
+    for line in lines :
+        docid, word_id, tfidf = line.strip().split()
+        vec[int(word_id)] = tfidf 
+    return vec 
 
 def extract_title():
-    data = wikicorpus.extract_pages('enwiki-latest-pages-articles.xml.bz2')
+    #data = wikicorpus.extract_pages('enwiki-latest-pages-articles.xml.bz2')
+    data = open('title.txt', 'rb').readlines()
+    title2ind = dict([ (x, i+1) for i, x in enumerate(data)])
+    pickle.dump(title2ind, open('title2ind.pkl', 'wb'))
 
+def calculate_idf_all():
 
+    f = open('wiki_tfidf/_bow.mm')
+    result = {}
+    for piece in read_in_chunks(f):
+        tmp = piece.strip().split()
+        if re.search('[a-zA-Z]', tmp[1]):
+            continue
+        word = tmp[1]
+        if word in result.keys():
+            result[word] += 1
+        else:
+            result[word] = 1
 
-read_tfidfi_model()
+    pickle.dump(result, open('idf.pkl', 'wb'))
