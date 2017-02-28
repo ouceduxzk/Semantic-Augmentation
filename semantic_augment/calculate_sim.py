@@ -1,8 +1,9 @@
+
 import numpy as np
 import os, pickle
 import glob
 from sklearn.metrics.pairwise import cosine_similarity
-
+from util import getDict
 doc_tfidfs = []
 
 pkls = glob.glob('sp_tfidf/*pkl')
@@ -15,24 +16,6 @@ for pkl in pkls:
     except:
         print(pkl)
 
-
-def getDict():
-    title2ind, ind2title = {}, {}
-    if not os._exists('title_map.pkl'):
-        lines = open('title.txt', 'r').readlines()
-        lines = [x.strip() for x in lines]
-        ind2title = dict(enumerate(lines))
-        title2ind = dict([(line, i) for i, line in enumerate(lines)])
-
-        with open('title_map.pkl', 'w') as fp :
-            pickle.dump(title2ind, fp)
-            pickle.dump(ind2title,  fp)
-    else:
-        with open('title_map.pkl', 'r') as fp :
-            pickle.load(title2ind, fp)
-            pickle.load(ind2title, fp)
-    return title2ind, ind2title
-
 def getIndexOfPklFile(pkls, ind):
     doc_numbers = [ int(x.split('/')[-1][3:].split('.')[0]) for x in pkls ]
     for i, doc_n in enumerate(doc_numbers):
@@ -40,7 +23,7 @@ def getIndexOfPklFile(pkls, ind):
             return i
     return 0
 
-def cal_sim_topn(pkls, i, ind, ind2title, topn = 1000):
+def cal_sim_topn(pkls, i, ind, ind2title, topn = 300):
     concept = ind2title[ind]
     doc_ids = [ int(x.split('/')[-1][3:].split('.')[0]) for x in pkls ]
     #print(doc_ids)
@@ -63,7 +46,7 @@ def cal_sim_topn(pkls, i, ind, ind2title, topn = 1000):
     #total_concepts = [ ind2title[x] for x in sim_dec_order]
     pickle.dump(zip(top_n_concepts, top_n_sims), open(concept + '.pkl', 'wb'))
     print('the top {} concepts similiar to {} is'.format(str(topn),  concept))
-    print(zip(top_n_concepts, top_n_sims))
+    return [top_n_indices, top_n_concepts, top_n_sims]
 
 def doc_sim_from_index(ind, top_n):
     title2ind, ind2title = getDict()
@@ -73,19 +56,27 @@ def doc_sim_from_index(ind, top_n):
     return cal_sim_topn(pkls, ind_pkl, ind, ind2title, 1+ top_n)[1][1]
 
 def doc_sim_by_cosine(concept):
-    most_sim_concepts = []
     title2ind, ind2title = getDict()
     ind = title2ind[concept]
     ind_pkl = getIndexOfPklFile(pkls, ind)
     cal_sim_topn(pkls, ind_pkl, ind, ind2title)
-    return most_sim_concepts
+
+def get_concept_samples():
+    lines = open('concept_samplex.txt', 'r').readlines()
+    return [ x.strip() for x in lines]
+
 
 if __name__ == '__main__':
 
     doc_tfidfs = []
 
     title2ind, ind2title = getDict()
-    random_list_concepts = np.random.choice(title2ind.keys(), 1000)
+    #random_list_concepts = np.random.choice(title2ind.keys(), 1000)
+    r = []
+    list_concepts = get_concept_samples()
+    for query in list_concepts:
+         tmp = doc_sim_by_cosine(query)
+         r.append(tmp)
 
-    for query in random_list_concepts:
-        doc_sim_by_cosine(query)
+    pickle.dump(r, open('concept_AI.pkl', 'wb'))
+
