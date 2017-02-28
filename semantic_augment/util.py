@@ -21,6 +21,11 @@ def getDict():
             pickle.load(ind2title, fp)
     return title2ind, ind2title
 
+
+def get_concept_samples():
+    lines = open('concept_samples.txt', 'r').readlines()
+    return [ x.strip() for x in lines]
+
 def get_query_result(pkl_fn):
     data = pickle.load(open(pkl_fn, 'rb'))
     concepts = [x[0] for x in data]

@@ -3,7 +3,7 @@ import numpy as np
 import os, pickle
 import glob
 from sklearn.metrics.pairwise import cosine_similarity
-from util import getDict
+from util import getDict, get_concept_samples
 doc_tfidfs = []
 
 pkls = glob.glob('sp_tfidf/*pkl')
@@ -44,7 +44,7 @@ def cal_sim_topn(pkls, i, ind, ind2title, topn = 300):
     top_n_concepts = [ ind2title[x] for x in top_n_indices]
 
     #total_concepts = [ ind2title[x] for x in sim_dec_order]
-    pickle.dump(zip(top_n_concepts, top_n_sims), open(concept + '.pkl', 'wb'))
+    #pickle.dump(zip(top_n_concepts, top_n_sims), open(concept + '.pkl', 'wb'))
     print('the top {} concepts similiar to {} is'.format(str(topn),  concept))
     return [top_n_indices, top_n_concepts, top_n_sims]
 
@@ -59,16 +59,9 @@ def doc_sim_by_cosine(concept):
     title2ind, ind2title = getDict()
     ind = title2ind[concept]
     ind_pkl = getIndexOfPklFile(pkls, ind)
-    cal_sim_topn(pkls, ind_pkl, ind, ind2title)
-
-def get_concept_samples():
-    lines = open('concept_samplex.txt', 'r').readlines()
-    return [ x.strip() for x in lines]
-
+    return cal_sim_topn(pkls, ind_pkl, ind, ind2title)
 
 if __name__ == '__main__':
-
-    doc_tfidfs = []
 
     title2ind, ind2title = getDict()
     #random_list_concepts = np.random.choice(title2ind.keys(), 1000)
