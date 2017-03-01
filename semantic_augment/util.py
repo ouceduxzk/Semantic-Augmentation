@@ -33,19 +33,43 @@ def get_query_result(pkl_fn):
     #indices =  [x[2] for x in data]
     return concepts,  sims
 
+# def cal_tag_tag_sim(tag_pkls):
+#     Tag_tag_topk_sims = []
+#     for tag_pkl in tag_pkls:
+#         print(tag_pkl)
+#         concepts, sims = get_query_result('query_pkl/' + tag_pkl)
+#         gradient = np.gradient(sorted(sims))
+#         sorted_sim_indices = np.argsort(sims)
+#         topk_gradient_indices = np.where(gradient > 0.005)[0]
+#         topk_sim_indices = sorted_sim_indices[topk_gradient_indices][:-1]
+#         topk_sim = np.array(sims)[topk_sim_indices]
+#         topk_concepts = np.array(concepts)[topk_sim_indices]
+#         Tag_tag_topk_sims.append( [topk_sim_indices, topk_concepts, topk_sim])
+#         #print(topk_sim_indices, topk_concepts, topk_sim)
+#     pickle.dump(Tag_tag_topk_sims, open('Tag_tag_sim_topk.pkl', 'wb'))
+#     return Tag_tag_topk_sims
+
+
 def cal_tag_tag_sim(tag_pkls):
     Tag_tag_topk_sims = []
     for tag_pkl in tag_pkls:
         print(tag_pkl)
         concepts, sims = get_query_result('query_pkl/' + tag_pkl)
-        gradient = np.gradient(sorted(sims))
+
         sorted_sim_indices = np.argsort(sims)
-        topk_gradient_indices = np.where(gradient > 0.005)[0]
-        topk_sim_indices = sorted_sim_indices[topk_gradient_indices][:-1]
-        topk_sim = np.array(sims)[topk_sim_indices]
+
+        threhold = np.percentile(sims, 95)
+
+        topk_sim = np.sort(sims[sims > threhold])[::-1]
+
+        topk_quantile_indices = np.nonzero(np.in1d(sims, topk_sim ))[0]
+
+        topk_sim_indices = np.sort(topk_quantile_indices)[:-1]
+
         topk_concepts = np.array(concepts)[topk_sim_indices]
+
         Tag_tag_topk_sims.append( [topk_sim_indices, topk_concepts, topk_sim])
-        #print(topk_sim_indices, topk_concepts, topk_sim)
+
     pickle.dump(Tag_tag_topk_sims, open('Tag_tag_sim_topk.pkl', 'wb'))
     return Tag_tag_topk_sims
 
