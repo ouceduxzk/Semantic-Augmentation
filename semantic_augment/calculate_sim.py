@@ -1,14 +1,15 @@
-
 import numpy as np
 import os, pickle
 import glob
 from sklearn.metrics.pairwise import cosine_similarity
-from util import getDict, get_concept_samples
+from util import * #, get_concept_samples
 doc_tfidfs = []
 
 pkls = glob.glob('sp_tfidf/*pkl')
 pkls = sorted(pkls, key=lambda v: int(v.split('/')[-1].split('.')[0].split('sp_')[1]))
 print(pkls)
+
+
 for pkl in pkls:
     try:
         tmp = pickle.load(open(pkl, 'rb'))
@@ -59,10 +60,14 @@ def doc_sim_by_cosine(concept):
     title2ind, ind2title = getDict()
     ind = title2ind[concept]
     ind_pkl = getIndexOfPklFile(pkls, ind)
-    return cal_sim_topn(pkls, ind_pkl, ind, ind2title)
+    #return cal_sim_topn(pkls, ind_pkl, ind, ind2title)
+    return cal_tag_tag_sim(pkls)
+
+def get_concept_samples():
+    lines = open('concept_samples.txt', 'r').readlines()
+    return [ x.strip() for x in lines]
 
 if __name__ == '__main__':
-
     title2ind, ind2title = getDict()
     #random_list_concepts = np.random.choice(title2ind.keys(), 1000)
     r = []
@@ -70,6 +75,4 @@ if __name__ == '__main__':
     for query in list_concepts:
          tmp = doc_sim_by_cosine(query)
          r.append(tmp)
-
     pickle.dump(r, open('concept_AI.pkl', 'wb'))
-

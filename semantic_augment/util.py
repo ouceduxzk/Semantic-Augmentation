@@ -45,7 +45,8 @@ def cal_tag_tag_sim(tag_pkls):
         topk_sim = np.array(sims)[topk_sim_indices]
         topk_concepts = np.array(concepts)[topk_sim_indices]
         Tag_tag_topk_sims.append( [topk_sim_indices, topk_concepts, topk_sim])
-        print(topk_sim_indices, topk_concepts, topk_sim)
+        #print(topk_sim_indices, topk_concepts, topk_sim)
+    pickle.dump(Tag_tag_topk_sims, open('Tag_tag_sim_topk.pkl', 'wb'))
     return Tag_tag_topk_sims
 
 def check_wierd_query(pkl_fn):

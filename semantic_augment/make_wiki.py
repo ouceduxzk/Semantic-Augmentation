@@ -1,103 +1,170 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 #
-# Copyright (C) 2010 Radim Rehurek <radimrehurek@seznam.cz>
-# Copyright (C) 2012 Lars Buitinck <larsmans@gmail.com>
-# Licensed under the GNU LGPL v2.1 - http://www.gnu.org/licenses/lgpl.html
-
+# Copyright (C) 2013 Radim Rehurek <me@radimrehurek.com>
 
 """
-USAGE: %(program)s WIKI_XML_DUMP OUTPUT_PREFIX [VOCABULARY_SIZE]
-Convert articles from a Wikipedia dump to (sparse) vectors. The input is a
-bz2-compressed dump of Wikipedia articles, in XML format.
-This actually creates three files:
-* `OUTPUT_PREFIX_wordids.txt`: mapping between words and their integer ids
-* `OUTPUT_PREFIX_bow.mm`: bag-of-words (word counts) representation, in
-  Matrix Matrix format
-* `OUTPUT_PREFIX_tfidf.mm`: TF-IDF representation
-* `OUTPUT_PREFIX.tfidf_model`: TF-IDF model dump
-The output Matrix Market files can then be compressed (e.g., by bzip2) to save
-disk space; gensim's corpus iterators can work with compressed input, too.
-`VOCABULARY_SIZE` controls how many of the most frequent words to keep (after
-removing tokens that appear in more than 10%% of all documents). Defaults to
-100,000.
-If you have the `pattern` package installed, this script will use a fancy
-lemmatization to get a lemma of each token (instead of plain alphabetic
-tokenizer). The package is available at https://github.com/clips/pattern .
-Example: python -m gensim.scripts.make_wikicorpus ~/gensim/results/enwiki-latest-pages-articles.xml.bz2 ~/gensim/results/wiki_en
+USAGE: %(program)s enwiki-latest-pages-articles.xml.bz2 OUTPUT_DIRECTORY
+Parse all articles from a raw bz2 Wikipedia dump => train a latent semantic model on the \
+articles => store resulting files into OUTPUT_DIRECTORY:
+* title_tokens.txt.gz: raw article titles and tokens, one article per line, "article_title[TAB]space_separated_tokens[NEWLINE]"
+* dictionary: mapping between word<=>word_id
+* dictionary.txt: same as `dictionary` but in plain text format
+* tfidf.model: TF-IDF model
+* lsi.model: model for latent semantic analysis model, trained on TF-IDF'ed wiki dump
+* lsi_vectors.mm: wikipedia articles stored as vectors in LSI space, in MatrixMarket format
+The input wikipedia dump can be downloaded from http://dumps.wikimedia.org/enwiki/latest/
+Example:
+    ./prepare_shootout.py ~/data/wiki/enwiki-latest-pages-articles.xml.bz2 ~/data/wiki/shootout
 """
-
 
 import logging
-import os.path
+import os
 import sys
+import multiprocessing
+import bz2
 
-from gensim.corpora import Dictionary, HashDictionary, MmCorpus, WikiCorpus
-from gensim.models import TfidfModel
+import gensim
+from six import string_types
+
+logger = logging.getLogger('prepare_shootout')
+
+PROCESSES = max(1, multiprocessing.cpu_count() - 1)  # parallelize parsing using this many processes
+
+MIN_WORDS = 50  # ignore articles with fewer tokens (redirects, stubs etc)
+
+NUM_TOPICS = 500  # number of latent factors for LSA
 
 
-# Wiki is first scanned for all distinct word types (~7M). The types that
-# appear in more than 10% of articles are removed and from the rest, the
-# DEFAULT_DICT_SIZE most frequent types are kept.
-DEFAULT_DICT_SIZE = 100000
+def process_article((title, text, pageid)):
+    """Parse a wikipedia article, returning its content as `(title, list of tokens)`, all unicode."""
+    text = gensim.corpora.wikicorpus.filter_wiki(text)  # remove markup, get plain text
+    return gensim.utils.to_unicode(title).replace('\t', ' '), gensim.utils.simple_preprocess(text)
+
+
+def convert_wiki(infile, processes=multiprocessing.cpu_count()):
+    """
+    Yield articles from a bz2 Wikipedia dump `infile` as (title, tokens) 2-tuples.
+    Only articles of sufficient length are returned (short articles & redirects
+    etc are ignored).
+    Uses multiple processes to speed up the parsing in parallel.
+    """
+    logger.info("extracting articles from %s using %i processes" % (infile, processes))
+    articles, articles_all = 0, 0
+    positions, positions_all = 0, 0
+
+    pool = multiprocessing.Pool(processes)
+    # process the corpus in smaller chunks of docs, because multiprocessing.Pool
+    # is dumb and would try to load the entire dump into RAM...
+    texts = gensim.corpora.wikicorpus._extract_pages(bz2.BZ2File(infile))  # generator
+    ignore_namespaces = 'Wikipedia Category File Portal Template MediaWiki User Help Book Draft'.split()
+    for group in gensim.utils.chunkize(texts, chunksize=10 * processes):
+        for title, tokens in pool.imap(process_article, group):
+            if articles_all % 100000 == 0:
+                logger.info("PROGRESS: at article #%i: '%s'; accepted %i articles with %i total tokens" %
+                    (articles_all, title, articles, positions))
+            articles_all += 1
+            positions_all += len(tokens)
+
+            # article redirects and short stubs are pruned here
+            if len(tokens) < MIN_WORDS or any(title.startswith(ignore + ':') for ignore in ignore_namespaces):
+                continue
+
+            # all good: use this article
+            articles += 1
+            positions += len(tokens)
+            yield title, tokens
+    pool.terminate()
+
+    logger.info("finished iterating over Wikipedia corpus of %i documents with %i positions"
+        " (total %i articles, %i positions before pruning articles shorter than %i words)" %
+        (articles, positions, articles_all, positions_all, MIN_WORDS))
+
+
+def getstream(input):
+    """
+    If input is a filename (string), return `open(input)`.
+    If input is a file-like object, reset it to the beginning with `input.seek(0)`.
+    """
+    assert input is not None
+    if isinstance(input, string_types):
+        # input was a filename: open as text file
+        result = open(input)
+    else:
+        # input was a file-like object (BZ2, Gzip etc.); reset the stream to its beginning
+        result = input
+        result.seek(0)
+    return result
+
+
+class ShootoutCorpus(gensim.corpora.TextCorpus):
+    def get_texts(self):
+        length = 0
+        lines = getstream(self.input)  # open file/reset stream to its start
+        for lineno, line in enumerate(lines):
+            length += 1
+            yield line.split('\t')[1].split()  # return tokens (ignore the title before the tab)
+        self.length = length
 
 
 if __name__ == '__main__':
-    program = os.path.basename(sys.argv[0])
-    logger = logging.getLogger(program)
-
     logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s')
     logging.root.setLevel(level=logging.INFO)
     logger.info("running %s" % ' '.join(sys.argv))
 
     # check and process input arguments
+    program = os.path.basename(sys.argv[0])
     if len(sys.argv) < 3:
-        print(globals()['__doc__'] % locals())
+        print globals()['__doc__'] % locals()
         sys.exit(1)
-    inp, outp = sys.argv[1:3]
+    infile, outdir = sys.argv[1:3]
+    outfile = lambda fname: os.path.join(outdir, fname)
 
-    if not os.path.isdir(os.path.dirname(outp)):
-        raise SystemExit("Error: The output directory does not exist. Create the directory and try again.")
+    # extract plain text from the XML dump
+    preprocessed_file = outfile('title_tokens.txt.gz')
+    if not os.path.exists(preprocessed_file):
+        id2title = []
+        with gensim.utils.smart_open(preprocessed_file, 'wb') as fout:
+            for docno, (title, tokens) in enumerate(convert_wiki(infile, PROCESSES)):
+                id2title.append(title)
+                try:
+                    line = "%s\t%s" % (title, ' '.join(tokens))
+                    fout.write("%s\n" % gensim.utils.to_utf8(line)) # make sure we're storing proper utf8
+                except:
+                    logger.info("invalid line at title %s" % title)
+        gensim.utils.pickle(id2title, outfile('id2title'))
 
-    if len(sys.argv) > 3:
-        keep_words = int(sys.argv[3])
+    # build/load a mapping between tokens (strings) and tokens ids (integers)
+    dict_file = outfile('dictionary')
+    if os.path.exists(dict_file):
+        corpus = ShootoutCorpus()
+        corpus.input = gensim.utils.smart_open(preprocessed_file)
+        corpus.dictionary = gensim.corpora.Dictionary.load(dict_file)
     else:
-        keep_words = DEFAULT_DICT_SIZE
-    online = 'online' in program
-    lemmatize = 'lemma' in program
-    debug = 'nodebug' not in program
+        corpus = ShootoutCorpus(gensim.utils.smart_open(preprocessed_file))
+        corpus.dictionary.filter_extremes(no_below=20, no_above=0.1, keep_n=50000)  # remove too rare/too common words
+        corpus.dictionary.save(dict_file)
+        corpus.dictionary.save_as_text(dict_file + '.txt')
 
-    if online:
-        dictionary = HashDictionary(id_range=keep_words, debug=debug)
-        dictionary.allow_update = True # start collecting document frequencies
-        wiki = WikiCorpus(inp, lemmatize=lemmatize, dictionary=dictionary)
-        MmCorpus.serialize(outp + '_bow.mm', wiki, progress_cnt=10000) # ~4h on my macbook pro without lemmatization, 3.1m articles (august 2012)
-        # with HashDictionary, the token->id mapping is only fully instantiated now, after `serialize`
-        dictionary.filter_extremes(no_below=20, no_above=0.1, keep_n=DEFAULT_DICT_SIZE)
-        dictionary.save_as_text(outp + '_wordids.txt.bz2')
-        wiki.save(outp + '_corpus.pkl.bz2')
-        dictionary.allow_update = False
+    # build/load TF-IDF model
+    tfidf_file = outfile('tfidf.model')
+    if os.path.exists(tfidf_file):
+        tfidf = gensim.models.TfidfModel.load(tfidf_file)
     else:
-        wiki = WikiCorpus(inp, lemmatize=lemmatize) # takes about 9h on a macbook pro, for 3.5m articles (june 2011)
-        # only keep the most frequent words (out of total ~8.2m unique tokens)
-        wiki.dictionary.filter_extremes(no_below=20, no_above=0.1, keep_n=DEFAULT_DICT_SIZE)
-        # save dictionary and bag-of-words (term-document frequency matrix)
-        MmCorpus.serialize(outp + '_bow.mm', wiki, progress_cnt=10000) # another ~9h
-        wiki.dictionary.save_as_text(outp + '_wordids.txt.bz2')
-        # load back the id->word mapping directly from file
-        # this seems to save more memory, compared to keeping the wiki.dictionary object from above
-        dictionary = Dictionary.load_from_text(outp + '_wordids.txt.bz2')
-    del wiki
+        tfidf = gensim.models.TfidfModel(corpus)
+        tfidf.save(tfidf_file)
 
-    # initialize corpus reader and word->id mapping
-    mm = MmCorpus(outp + '_bow.mm')
+    # build/load LSI model, on top of the TF-IDF model
+    lsi_file = outfile('lsi.model')
+    if os.path.exists(lsi_file):
+        lsi = gensim.models.LsiModel.load(lsi_file)
+    else:
+        lsi = gensim.models.LsiModel(tfidf[corpus], id2word=corpus.dictionary, num_topics=NUM_TOPICS, chunksize=10000)
+        lsi.save(lsi_file)
 
-    # build tfidf, ~50min
-    tfidf = TfidfModel(mm, id2word=dictionary, normalize=True)
-    tfidf.save(outp + '.tfidf_model')
-
-    # save tfidf vectors in matrix market format
-    # ~4h; result file is 15GB! bzip2'ed down to 4.5GB
-    MmCorpus.serialize(outp + '_tfidf.mm', tfidf[mm], progress_cnt=10000)
+    # convert all articles to latent semantic space, store the result as a MatrixMarket file
+    # normalize all vectors to unit length, to simulate cossim in libraries that only support euclidean distance
+    vectors_file = os.path.join(outdir, 'lsi_vectors.mm')
+    gensim.corpora.MmCorpus.serialize(vectors_file, (gensim.matutils.unitvec(vec) for vec in lsi[tfidf[corpus]]))
 
     logger.info("finished running %s" % program)

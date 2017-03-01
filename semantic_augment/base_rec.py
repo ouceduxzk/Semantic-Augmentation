@@ -1,6 +1,7 @@
-import numpy  as np
-import os, sys
+class BaseEvaluation(object):
 
+    # the method to do recommentdation
 
-class evaluation(object):
-    
+    def sim(self):
+        raise NotImplementedError
+
