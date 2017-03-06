@@ -57,11 +57,11 @@ def doc_sim_from_index(ind, top_n):
     return cal_sim_topn(pkls, ind_pkl, ind, ind2title, 1+ top_n)[1][1]
 
 def doc_sim_by_cosine(concept):
-    title2ind, ind2title = getDict()
-    ind = title2ind[concept]
-    ind_pkl = getIndexOfPklFile(pkls, ind)
-    #return cal_sim_topn(pkls, ind_pkl, ind, ind2title)
-    return cal_tag_tag_sim(pkls)
+    #title2ind, ind2title = getDict()
+    #ind = title2ind[concept]
+    #ind_pkl = getIndexOfPklFile(pkls, ind)
+    #return cal_sim_topn(pkls, ind_pkl, ind, ind2title)  # top k = 300 cases
+    return cal_tag_tag_sim(concept+ '.pkl')
 
 def get_concept_samples():
     lines = open('concept_samples.txt', 'r').readlines()

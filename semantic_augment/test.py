@@ -22,7 +22,6 @@ def test_plot_query():
 
     indices = np.argsort(cuts)
 
-    #print(np.where(gradient > 0.005))
     plt.plot(cuts)
     #plt.plot(sorted(total))
     #plt.axvline(1000-cutoff)

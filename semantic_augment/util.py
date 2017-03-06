@@ -21,7 +21,6 @@ def getDict():
             pickle.load(ind2title, fp)
     return title2ind, ind2title
 
-
 def get_concept_samples():
     lines = open('concept_samples.txt', 'r').readlines()
     return [ x.strip() for x in lines]
@@ -49,13 +48,11 @@ def get_query_result(pkl_fn):
 #     pickle.dump(Tag_tag_topk_sims, open('Tag_tag_sim_topk.pkl', 'wb'))
 #     return Tag_tag_topk_sims
 
-
 def cal_tag_tag_sim(tag_pkls):
     Tag_tag_topk_sims = []
     for tag_pkl in tag_pkls:
-        print(tag_pkl)
         concepts, sims = get_query_result('query_pkl/' + tag_pkl)
-
+        sims = np.array(sims)
         sorted_sim_indices = np.argsort(sims)
 
         threhold = np.percentile(sims, 95)
