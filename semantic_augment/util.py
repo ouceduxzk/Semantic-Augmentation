@@ -1,14 +1,47 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 import pickle, os
 import re
 import matplotlib.pyplot as plt
 import pickle
 import numpy as np
 
+############# correct some mismatch of wiki concept due to the heterogeneity of those concepts#####################
+correction = {}
+correction['data classification']  = 'data classification (data management)'
+correction['johan van benthem']    = 'johan van benthem (logician)'
+correction['springer (company)']   = 'springer publishing'
+correction['springer']             = 'springer publishing'
+correction['tesla-company']        = 'tesla motors'
+correction['tesla, inc.']          = 'tesla motors'
+correction['ecole polytechnique']  = 'École polytechnique'
+correction['jurgen schmidhuber']   = 'jürgen schmidhuber'
+correction['agi (disambiguation)'] = 'agi'
+correction['graphs']               = 'graph (abstract data type)'
+correction['titles in academia']   = 'technical director'
+correction['shape analysis']       =      'shape analysis (digital geometry)'
+correction['idsia']                =   'dalle molle institute for artificial intelligence research'
+correction['zfc set theory']       = 'zermelo–fraenkel set theory'
+correction['tokenization']         = 'tokenization (lexical analysis)'
+correction['nltk']                 = 'natural language toolkit'
+correction['icml']                 = 'international conference on machine learning'
+correction['differential equations'] = 'differential equation'
+correction['data clustering']      = 'cluster analysis'
+correction['prime numbers']        = 'prime number'
+correction['ubiquitous robotics']  = 'ubiquitous robot'
+correction['the artificial intelligence'] = 'artificial intelligence'
+correction['swarm techniques']     = 'swarm intelligence'
+correction['deep neural network']  = 'deep learning'
+correction['sharing knowledge']    = 'knowledge sharing'
+correction['baidu.com inc']                     = 'baidu'
+correction['feature (computer vision)']       = 'feature detection (computer vision)'
+correction['x'] = 'macos'
+###################################################################################################################
 def getDict():
     title2ind, ind2title = {}, {}
-    if not os._exists('title_map.pkl'):
+    if not os.path.exists('title_map.pkl'):
         lines = open('title.txt', 'r').readlines()
-        lines = [x.strip() for x in lines]
+        lines = [x.strip().lower() for x in lines]
         ind2title = dict(enumerate(lines))
         title2ind = dict([(line, i) for i, line in enumerate(lines)])
 
@@ -17,13 +50,10 @@ def getDict():
             pickle.dump(ind2title,  fp)
     else:
         with open('title_map.pkl', 'r') as fp :
-            pickle.load(title2ind, fp)
-            pickle.load(ind2title, fp)
+            title2ind = pickle.load(fp)
+            ind2title = pickle.load(fp)
     return title2ind, ind2title
 
-def get_concept_samples():
-    lines = open('concept_samples.txt', 'r').readlines()
-    return [ x.strip() for x in lines]
 
 def get_query_result(pkl_fn):
     data = pickle.load(open(pkl_fn, 'rb'))
@@ -65,7 +95,7 @@ def cal_tag_tag_sim(tag_pkls):
 
         topk_concepts = np.array(concepts)[topk_sim_indices]
 
-        Tag_tag_topk_sims.append( [topk_sim_indices, topk_concepts, topk_sim])
+        Tag_tag_topk_sims.append([topk_sim_indices, topk_concepts, topk_sim])
 
     pickle.dump(Tag_tag_topk_sims, open('Tag_tag_sim_topk.pkl', 'wb'))
     return Tag_tag_topk_sims
@@ -98,9 +128,7 @@ def calculate_idf_all():
     result = {}
     with open("wiki_tfidf/_bow.mm") as infile:
         for i, piece in enumerate(infile):
-
             tmp = piece.strip().split()
-
             if i < 2:
                 continue
             word = tmp[1]
