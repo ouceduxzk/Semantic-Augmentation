@@ -21,6 +21,7 @@ class ParseTagEntity(object):
         lines = open('collected_data/pandodb_testing-tags')
         objs = []
         users = []
+        total = []
         for line in lines :
             data = json.loads(line)
             tag_name = data['name']
@@ -36,8 +37,6 @@ class ParseTagEntity(object):
                 isUser = False
                 objs.append([entity_id, wiki_url])
 
-        user_concepts = list(set([x[1] for x in users]))
-
         # standardize the concept 'scientific computing' to 'computational science'
         o2omap = pickle.load(open('o2omap_words.pkl', 'rb'))
 
@@ -45,91 +44,91 @@ class ParseTagEntity(object):
         user_entities = [k for k, v in Counter(user_entities).iteritems() if v > 4]
         users = [[a, o2omap[b] ] for a, b in users if a in user_entities]
 
-        # only those are users have the tag_id in the pandodb_testing-tag_votes database.
-        return objs, users
+        concepts = [ x[1] for x in users]
+        tmp = Counter(concepts)
+        ############################################################################
+        # plt.plot(range(len(tmp)), sorted(tmp.values()) )
+        # plt.ylabel('frequency')
+        # plt.xlabel('index of each concept')
+        # plt.title('user concept freq distribution')
+        # plt.savefig('user_concept_freq.png')
+        ############# resources are also part of objects ##########################
+        part_obj = [[a, o2omap[b]] for a, b in users if a not in user_entities]
+        objs = [ [a, o2omap[b] ] for a, b in objs] + part_obj
+        print('len of objs and users are {} and {}'.format(len(objs), len(users)))
+        return objs, users, users + objs
 
     def parse_obj_tag_matrix(self):
-        objs, users = self.parse_tag()
-        # obj_concepts = list(set([ x[1] for x in objs ]))
-        # #obj_concepts = [k for k, v in Counter(obj_concepts).iteritems() if v > 1 ]
-        #
-        # obj_entities = [ x[0] for x in objs]
-        # obj_entities = [k for k, v in Counter(obj_entities).iteritems() if v > 4]
+        objs, users, o_u = self.parse_tag()
+        user_concepts = list(set([ x[1] for x in users ]))
+        user_entities = list(set([ x[0] for x in users ]))
+        # print('# of obj concepts {}'.format(len(obj_concepts)))
+        # print('# of obj entities {}'.format(len(obj_entities)))
 
-        concepts = list(set([ x[1] for x in users]))
-        entities = list(set([ x[0] for x in users]))
+        concepts = list(set([x[1] for x in o_u]))
+        entities = list(set([x[0] for x in o_u]))
 
-        print('# of user concepts {}'.format(len(concepts)))
-        print('# of user entities {}'.format(len(entities)))
+        print('# of concepts {}'.format(len(concepts)))
+        print('# of entities {}'.format(len(entities)))
 
-        #@TODO build the obj/user and Tag matrix
+        #@DONE arrange the entities such that the first 25 are users and the next 48 are objects
+        tmp_users = [x for x in entities if not str(x).startswith('http')]
+        tmp_objs = [x for x in entities if str(x).startswith('http')]
+        entities = tmp_users + tmp_objs
+
+        #@DONE build the obj/user and Tag matrix
         '''
             The local_tag_indexing is a map of all concepts to the local index
             The local_entity_indexing is a map of all entities to the local index while
             reverse_entity_indexing the the reverse map of local_index to the name of entity.
         '''
-        # local_obj_indexing  = dict([ (item,idx) for idx, item in enumerate(set([x[1] for x in objs])) ])
-        # local_user_indexing = dict([ (item,idx) for idx, item in enumerate(set([x[1] for x in users])) ])
-        local_tag_indexing  = dict([ (item,idx) for idx, item in enumerate(concepts) ])
-        local_entity_indexing = dict([ (item,idx) for idx, item in enumerate(entities) ])
 
-        # reverse_obj_indexing = dict([ (idx, item) for idx, item in enumerate(set([x[1] for x in objs])) ])
-        # reverse_user_indexing =dict([ (idx, item) for idx, item in enumerate(set([x[1] for x in users]))])
-        reverse_tag_indexing = dict([ (idx, item) for idx, item in enumerate(concepts)])
+        ou_tag_indexing  =   dict([ (item,idx) for idx, item in enumerate(concepts) ])
+        ou_entity_indexing = dict([ (item,idx) for idx, item in enumerate(entities) ])
+
+        print(ou_entity_indexing)
+
+        user_tag_indexing    = dict([(item, idx) for idx, item in enumerate(set(user_concepts))])
+        user_entity_indexing = dict([(item, idx) for idx, item in enumerate(set(user_entities))])
+
+
+        print([ x for x in ou_tag_indexing.keys() if x.startswith('iran')])
+        print('the index of  special case of iran (disambiguation) is ')
+        #print(ou_tag_indexing['iran (disambiguation)'])
+
+        reverse_tag_indexing = dict([(idx, item) for idx, item in enumerate(concepts)])
         reverse_entity_indexing = dict([(idx, item) for idx, item in enumerate(entities)])
-        #
-        # print('# of objs in o_t matrix is {}'.format(len(local_obj_indexing)))
-        # print('# of user in u_t matrix is {}'.format(len(local_user_indexing)))
-        print('# of tag in  o_t matrix is {}'.format(len(local_tag_indexing)))
-        print('the tags  are {}'.format(local_tag_indexing.keys()))
 
-        fp = open('save/local_indexing.pkl', 'wb')
-        # pickle.dump(local_obj_indexing, fp)
-        # pickle.dump(local_user_indexing, fp)
-        pickle.dump(local_tag_indexing, fp)
-        pickle.dump(local_entity_indexing, fp)
-        # pickle.dump(reverse_obj_indexing, fp)
-        # pickle.dump(reverse_user_indexing, fp)
-        pickle.dump(reverse_tag_indexing, fp)
-        pickle.dump(reverse_entity_indexing,fp)
+        # fp = open('save/tag_entity_indexing.pkl', 'wb')
+        # pickle.dump(reverse_tag_indexing, fp)
+        # pickle.dump(reverse_entity_indexing, fp)
 
-        obj_row = []
-        obj_col = []
-        users_row = []
-        users_col = []
+        user_row = []
+        user_col = []
+        ou_row = []
+        ou_col = []
 
-        total_row = []
-        total_col = []
-        # for concept, entity in objs :
-        #     obj_row.append(local_obj_indexing[entity])
-        #     obj_col.append(local_tag_indexing[concept])
+        for entity,concept  in o_u :
+            ou_row.append(ou_entity_indexing[entity])
+            ou_col.append(ou_tag_indexing[concept])
 
-        # for concept, entity in users :
-        #     users_row.append(local_user_indexing[entity])
-        #     users_col.append(local_tag_indexing[concept])
+        for entity, concept in users :
+            user_row.append(user_entity_indexing[entity])
+            user_col.append(user_tag_indexing[concept])
 
-        for key, value in local_tag_indexing.items():
-            if key.startswith('scien'):
-                print(key, value)
-
-        for entity, concept  in users :
-            total_row.append(local_entity_indexing[entity])
-            total_col.append(local_tag_indexing[concept])
-
-        # obj_tag_matrix = sps.coo_matrix(([1] * len(objs), (obj_row, obj_col)), shape=(len(local_obj_indexing), len(local_tag_indexing))).tocsr()
-        # user_tag_matrix = sps.coo_matrix(([1] * len(users), (users_row, users_col)), shape=(len(local_user_indexing), len(local_tag_indexing))).tocsc()
-
-        print('the shape of entity_tag matrix is row={}, col={}'.format(len(local_entity_indexing), len(local_tag_indexing)))
-        print(total_row)
-        print(total_col)
-        entity_tag_matrix = sps.coo_matrix(([1] * len(users), (total_row, total_col)), shape=(len(local_entity_indexing), len(local_tag_indexing))).tocsr()
+        #ou_tag_matrix = sps.coo_matrix(([1] * len(objs + users), (ou_row, ou_col)), shape=(len(ou_entity_indexing), len(ou_tag_indexing))).tocsr()
+        user_tag_matrix = sps.coo_matrix(([1] * len(users), (user_row, user_col)), shape=(len(user_entity_indexing), len(user_tag_indexing))).tocsc()
+        #print('the shape of entity_tag matrix is row={}, col={}'.format(len(local_entity_indexing), len(local_tag_indexing)))
+        #print(ou_tag_matrix.shape)
+        entity_tag_matrix = sps.coo_matrix(([1] * len(o_u), (ou_row, ou_col)), shape=(len(ou_entity_indexing), len(ou_tag_indexing))).tocsr()
         print('shape of o_t matrix is')
         print(entity_tag_matrix.shape)
         fp = open('save/entity_tag_matrix.pkl', 'wb')
-        # pickle.dump(obj_tag_matrix, fp)
-        # pickle.dump(user_tag_matrix, fp)
         pickle.dump(concepts, fp)
         pickle.dump(entity_tag_matrix, fp)
+        pickle.dump(user_concepts, fp)
+        pickle.dump(user_tag_matrix, fp)
+
 
     def normalizeWikiTitle(self, list_concepts):
         title2ind, ind2title = getDict()
@@ -202,54 +201,9 @@ if __name__ == '__main__':
     obj = parser.ParseTagEntity()
 
     #@TODO regenerate the concepts that are added recently
-    
-    # fns = glob.glob('collected_data/*')
-    # for fn in fns :
-    #     print fn
-    #     obj.show_json_structure(fn)
-
     #obj.plot_parse_tag()
     obj.parse_obj_tag_matrix()
 
-    # obj.create_similarity_matrix()
-    # obj.plot_sparity()
-    # title2ind = {}
-    # title2ind['data classification'] = title2ind.pop('data classification (data management)')
-    # title2ind['johan van benthem'] = title2ind.pop('johan van benthem (logician)')
-    # title2ind['springer (company)'] = title2ind.pop('springer')
-    # title2ind['tesla-company'] = title2ind.pop('tesla motors')
-    # title2ind['ecole polytechnique'] = title2ind.pop('École polytechnique')
-    # title2ind['jurgen schmidhuber'] = title2ind.pop('jürgen schmidhuber')
-    # title2ind['agi (disambiguation)'] = title2ind.pop('agi')
-    # title2ind['graphs'] = title2ind.pop('graph (abstract data type)')
-    # title2ind['titles in academia'] = title2ind.pop('technical director')
-    # title2ind['shape analysis'] = title2ind.pop('shape analysis (digital geometry)')
-    # title2ind['idsia']          = title2ind.pop('dalle molle institute for artificial intelligence research')
-    # title2ind['zfc set theory'] = title2ind.pop('zermelo–fraenkel set theory')
-    # title2ind['tokenization'] = title2ind['tokenization (lexical analysis)']
-    # title2ind['nltk']         = title2ind['natural language toolkit']
-    # title2ind['icml']        =  title2ind['international conference on machine learning']
-    # correction = {}
-    # correction['data classification'] = 'data classification (data management)'
-    # correction['johan van benthem']   = 'johan van benthem (logician)'
-    # correction['springer (company)']  = 'springer'
-    # correction['tesla-company']       = 'tesla motors'
-    # correction['ecole polytechnique'] = 'École polytechnique'
-    # correction['jurgen schmidhuber']  = 'jürgen schmidhuber'
-    # correction['agi (disambiguation)'] = 'agi'
-    # correction['graphs']              = 'graph (abstract data type)'
-    # correction['titles in academia']  = 'technical director'
-    # correction['shape analysis'] =      'shape analysis (digital geometry)'
-    # correction['idsia']             =   'dalle molle institute for artificial intelligence research'
-    # correction['zfc set theory'] = 'zermelo–fraenkel set theory'
-    # correction['tokenization']   = 'tokenization (lexical analysis)'
-    # correction['nltk'] = 'natural language toolkit'
-    # correction['icml'] = 'international conference on machine learning'
-    # concepts = correction.keys()
-    #
-    # my_dict = dict((y,x) for x,y in correction.iteritems())
-    #
-    # ind = 0
     #
     # if ind2title[ind] in  my_dict.keys():
     #     concept = my_dict[ind2title[ind]]

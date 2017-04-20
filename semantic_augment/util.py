@@ -78,18 +78,26 @@ def get_query_result(pkl_fn):
 #     pickle.dump(Tag_tag_topk_sims, open('Tag_tag_sim_topk.pkl', 'wb'))
 #     return Tag_tag_topk_sims
 
-def cal_tag_tag_sim(tag_pkls):
+def cal_tag_tag_sim(tag_pkls, quantile = 95):
+    '''
+    :param tag_pkls:
+    :return:
+    #@TODO should also generate the
+    '''
     Tag_tag_topk_sims = []
+    from collections import defaultdict
+    concept2aug = defaultdict(list)
+
     for tag_pkl in tag_pkls:
         concepts, sims = get_query_result('query_pkl/' + tag_pkl)
         sims = np.array(sims)
         sorted_sim_indices = np.argsort(sims)
 
-        threhold = np.percentile(sims, 95)
+        threhold = np.percentile(sims, quantile)
 
         topk_sim = np.sort(sims[sims > threhold])[::-1]
 
-        topk_quantile_indices = np.nonzero(np.in1d(sims, topk_sim ))[0]
+        topk_quantile_indices = np.nonzero(np.in1d(sims, topk_sim))[0]
 
         topk_sim_indices = np.sort(topk_quantile_indices)[:-1]
 
@@ -97,7 +105,10 @@ def cal_tag_tag_sim(tag_pkls):
 
         Tag_tag_topk_sims.append([topk_sim_indices, topk_concepts, topk_sim])
 
-    pickle.dump(Tag_tag_topk_sims, open('Tag_tag_sim_topk.pkl', 'wb'))
+        concept2aug.update({ tag_pkl.split('.')[0] : topk_concepts.tolist() })
+
+    pickle.dump(Tag_tag_topk_sims, open('Tag_tag_sim_topk_{}quantile'.format(str(quantile)) + '.pkl', 'wb'))
+    pickle.dump(concept2aug,       open('concept2aug_{}quantile.pkl'.format(str(quantile)), 'wb'))
     return Tag_tag_topk_sims
 
 def check_wierd_query(pkl_fn):
