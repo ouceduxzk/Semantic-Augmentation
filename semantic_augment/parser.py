@@ -15,10 +15,12 @@ from collections import defaultdict
 from collections import Counter
 from sklearn.metrics.pairwise import cosine_similarity
 from util import correction
-
+import codecs
 class ParseTagEntity(object):
     def parse_tag(self):
-        lines = open('collected_data/pandodb_testing-tags')
+        # standardize the concept 'scientific computing' to 'computational science'
+        o2omap = pickle.load(open('standarize.pkl', 'rb'))
+        lines = codecs.open('collected_data/pandodb_testing-tags','r', encoding='utf8' )
         objs = []
         users = []
         total = []
@@ -28,22 +30,36 @@ class ParseTagEntity(object):
             isUser = True
             tag_id = data['_id']['$oid']
             wiki_url = data['concept_url'].split('wiki/')[-1].replace('_', ' ').lower()
+            if wiki_url in correction.keys():
+                wiki_url = correction[wiki_url]
+
+            if wiki_url in o2omap.keys():
+                wiki_url = o2omap[wiki_url]
+
+            # if wiki_url.encode('utf-8').startswith('ha'):
+            #     print(data['concept_url'], wiki_url)
+
+            if u'sk infosec' == wiki_url:
+                wiki_url = u'infosys'
+
+            if u'tesla, inc.' == wiki_url:
+                wiki_url =  u'tesla motors'
 
             if data['entity_url'].startswith('/public'):
-                entity_id = data['entity_url'].split('/')[-1]
+                entity_id = unicode(data['entity_url'].split('/')[-1])
                 users.append([ entity_id, wiki_url])
+                total.append([entity_id, wiki_url])
             else:
-                entity_id = data['entity_url']
-                isUser = False
+                entity_id = unicode(data['entity_url'])
                 objs.append([entity_id, wiki_url])
+                total.append([entity_id, wiki_url])
 
-        # standardize the concept 'scientific computing' to 'computational science'
-        o2omap = pickle.load(open('o2omap_words.pkl', 'rb'))
-
+        total[427][1] = 'ille'
         user_entities = [x[0] for x in users]
         user_entities = [k for k, v in Counter(user_entities).iteritems() if v > 4]
-        users = [[a, o2omap[b] ] for a, b in users if a in user_entities]
+        users     = [ [e, t] for e, t in users if e in user_entities]
 
+        #users = [[a, o2omap[b.decode('utf-8')] ] for a, b in users if a in user_entities]
         concepts = [ x[1] for x in users]
         tmp = Counter(concepts)
         ############################################################################
@@ -53,29 +69,36 @@ class ParseTagEntity(object):
         # plt.title('user concept freq distribution')
         # plt.savefig('user_concept_freq.png')
         ############# resources are also part of objects ##########################
-        part_obj = [[a, o2omap[b]] for a, b in users if a not in user_entities]
-        objs = [ [a, o2omap[b] ] for a, b in objs] + part_obj
-        print('len of objs and users are {} and {}'.format(len(objs), len(users)))
-        return objs, users, users + objs
+        part_obj = [[a, b] for a, b in users if a not in user_entities]
+        objs = [ [a, b ] for a, b in objs] + part_obj
+        #print('len of objs and users are {} and {}'.format(len(objs), len(users)))
+
+        #total = [ [a, o2omap[b]] for a, b in total ]
+        return objs, users, total
 
     def parse_obj_tag_matrix(self):
         objs, users, o_u = self.parse_tag()
-        user_concepts = list(set([ x[1] for x in users ]))
-        user_entities = list(set([ x[0] for x in users ]))
-        # print('# of obj concepts {}'.format(len(obj_concepts)))
-        # print('# of obj entities {}'.format(len(obj_entities)))
+        user_concepts = [ x[1] for x in users ]
+        user_entities = [ x[0] for x in users ]
 
         concepts = list(set([x[1] for x in o_u]))
+        ########################################################################
+        #concepts = list(set(new_concepts))
+
         entities = list(set([x[0] for x in o_u]))
+        print(entities)
 
         print('# of concepts {}'.format(len(concepts)))
         print('# of entities {}'.format(len(entities)))
 
         #@DONE arrange the entities such that the first 25 are users and the next 48 are objects
-        tmp_users = [x for x in entities if not str(x).startswith('http')]
-        tmp_objs = [x for x in entities if str(x).startswith('http')]
-        entities = tmp_users + tmp_objs
+        tmp_objs =  list(set([ x for x in entities if x not in set(user_entities)]))
+        print('len of objs and users are {} and {}'.format(len(tmp_objs), len(set(user_entities))))
 
+        entities = list(set(user_entities)) + tmp_objs
+
+
+        print('the number of entities are {}'.format(len(entities)))
         #@DONE build the obj/user and Tag matrix
         '''
             The local_tag_indexing is a map of all concepts to the local index
@@ -84,6 +107,8 @@ class ParseTagEntity(object):
         '''
 
         ou_tag_indexing  =   dict([ (item,idx) for idx, item in enumerate(concepts) ])
+
+        print(ou_tag_indexing)
         ou_entity_indexing = dict([ (item,idx) for idx, item in enumerate(entities) ])
 
         print(ou_entity_indexing)
@@ -91,17 +116,8 @@ class ParseTagEntity(object):
         user_tag_indexing    = dict([(item, idx) for idx, item in enumerate(set(user_concepts))])
         user_entity_indexing = dict([(item, idx) for idx, item in enumerate(set(user_entities))])
 
-
-        print([ x for x in ou_tag_indexing.keys() if x.startswith('iran')])
-        print('the index of  special case of iran (disambiguation) is ')
-        #print(ou_tag_indexing['iran (disambiguation)'])
-
-        reverse_tag_indexing = dict([(idx, item) for idx, item in enumerate(concepts)])
-        reverse_entity_indexing = dict([(idx, item) for idx, item in enumerate(entities)])
-
-        # fp = open('save/tag_entity_indexing.pkl', 'wb')
-        # pickle.dump(reverse_tag_indexing, fp)
-        # pickle.dump(reverse_entity_indexing, fp)
+        # reverse_tag_indexing = dict([(idx, item) for idx, item in enumerate(concepts)])
+        # reverse_entity_indexing = dict([(idx, item) for idx, item in enumerate(entities)])
 
         user_row = []
         user_col = []
@@ -123,6 +139,10 @@ class ParseTagEntity(object):
         entity_tag_matrix = sps.coo_matrix(([1] * len(o_u), (ou_row, ou_col)), shape=(len(ou_entity_indexing), len(ou_tag_indexing))).tocsr()
         print('shape of o_t matrix is')
         print(entity_tag_matrix.shape)
+
+        print(user_tag_matrix.shape)
+        pickle.dump(concepts, open('collected_concepts.pkl', 'wb'))
+        pickle.dump(entities, open('collected_entities.pkl', 'wb'))
         fp = open('save/entity_tag_matrix.pkl', 'wb')
         pickle.dump(concepts, fp)
         pickle.dump(entity_tag_matrix, fp)

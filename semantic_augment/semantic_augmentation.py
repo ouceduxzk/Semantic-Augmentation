@@ -43,11 +43,13 @@ from sklearn.metrics.pairwise import cosine_similarity
 
     12  output the edges that have the intersection .
 
+    13 debug : check the index of words before and after augmentation and the corresponding similarity.
 '''
 title2ind, ind2title = getDict()
 concepts = correction.keys()
 for key in concepts:
-    title2ind[key] = title2ind[correction[key]]
+    print(key, correction[key])
+    title2ind[key] = title2ind[correction[key].lower()]
 
 class SemanticAug(object):
     def get_doc_similarity(self, Tag_tag_matrix, ind):
@@ -90,29 +92,39 @@ class SemanticAug(object):
 
         print('the length of tag_tag_sim is {}'.format(len(Tag_tag_sim) ))
         print('step 1 : calcualate the # of columns in Obj_tag_agument matrix')
+
+        #print([ind2title[x] for x in Obj_tag_indexing ])
+        #@TODO entry name in the tag_tag_sim might not be unique after processing
         col_concepts = []
         for entry in Tag_tag_sim :
             topk_sim_concepts = entry[1]
+            # add a lower() operation for all the augmented operations
+            topk_sim_concepts = [ x.lower() for x in topk_sim_concepts]
+            #print(topk_sim_concepts)
             col_concepts.extend(topk_sim_concepts)
         unique_concetps = list(set(col_concepts))
 
+        #print([ x for x in unique_concetps if x.startswith('baid')])
         ################## print out all the concepts in the unaugmented matrix #####################
         # for i,  ind in  enumerate(Obj_tag_indexing):
         #     print(i, ind2title[ind])
-
         global_indices_topk_sim = [title2ind[x] for x in unique_concetps]
+
+        print('-------------')
         ###########################################################################################
         #@TODO union does not preserve the sequence of indices when merge with each other
         #global_total_indices = list(set(global_indices_topk_sim).union(set(Obj_tag_indexing)))
-        augment_non_exist_indices = set(global_indices_topk_sim).difference(set(Obj_tag_indexing))
-        global_total_indices =  Obj_tag_indexing + list(augment_non_exist_indices)
+        #augment_non_exist_indices = set(global_indices_topk_sim).difference(set(Obj_tag_indexing))
+        augment_non_exist_indices = [x for x in global_indices_topk_sim if x not in Obj_tag_indexing]
+        global_total_indices =  Obj_tag_indexing + augment_non_exist_indices
+
         ###########################################################################################
         col = len(global_total_indices)
 
         print(len(Obj_tag_indexing))
         print(len(global_total_indices))
-
         #print([ ind2title[x] for x in set(global_indices_topk_sim).intersection(set(Obj_tag_indexing))])
+
         print('step 2 : hash each index in the unique_indices')
         global_local_map = dict([(ind, i) for i, ind in enumerate(global_total_indices)])
         local_global_map = dict(enumerate(global_total_indices))
@@ -122,36 +134,60 @@ class SemanticAug(object):
             pickle.dump(local_global_map, fp)
 
         tmp = []
+        title2ind_global = []
+        aug_concept_dict = {}
         for i, x in enumerate(global_total_indices):
-            tmp.append((i, ind2title[x]))
+            #print(i, x ,ind2title[x])
+            aug_concept_dict[i] = ind2title[x]
+
+        #while i < len(global_total_indices) :
+            #tmp.append((i, ind2title[x]))
+            #if ind2title[global_total_indices[i]] not in aug_concept_dict.values():
+            #    aug_concept_dict[i] = ind2title[global_total_indices[i]]
+            #    i = i + 1
+                #title2ind_global.append((ind2title[global_total_indices[i]], i))
             #print(x, global_local_map[x], ind2title[x])
 
-        aug_concept_dict = dict(tmp)
-        import operator
+        #aug_concept_dict = dict(tmp)
+        #aug_concept2ind = dict(title2ind_global)
+        # import operator
         # for key, value in sorted(aug_concept_dict.items(), key=operator.itemgetter(0)):
         #     print(key, value)
-        #
+
         # # the key of ang_concept_dict is local indices 0-n
         # the value of aug_concept_dict is the ttile in string
+        fp = open('save/' + prefix + 'aug_concept_index.pkl', 'wb')
+        pickle.dump(aug_concept_dict,fp)
+        #pickle.dump(aug_concept2ind, fp)
 
-        pickle.dump(aug_concept_dict, open('save/' + prefix + 'aug_concept_index.pkl', 'wb'))
         print(Obj_tag_matrix.shape)
         print(len(Tag_tag_sim))
 
         Obj_tag_augment = np.zeros((Obj_tag_matrix.shape[0], col))
+        #concept_tag_tag_indexing = pickle.load(open('correct_tag_tag_index.pkl', 'rb'))
 
         print('step 3 : put the similarity entry for each Tag into the corresponding position of Obj_tag_agument')
+
+        #concept_tag_tag_indexing = self.correct_order('Tag_tag_sim_topk_{}quantile.pkl'.format(95))
+        concept_tag_tag_indexing = [x[1][0] for x in Tag_tag_sim]
+        concepts = pickle.load(open('collected_concepts.pkl', 'rb'))
+
         for row in range(Obj_tag_matrix.shape[0]):
             for c in range(Obj_tag_matrix.shape[1]):
                 # the cth entry in the Obj_tag_matrix is the one we need
                 Obj_tag_augment[row,c]  = Obj_tag_matrix[row, c]
                 if Obj_tag_matrix[row, c] == 1:
-                    aug = Tag_tag_sim[c]
-                    #aug_sims = [x[1] for x in aug]
+                    #@TODO debug the augment matrix (DONE)
+                    the_correct_row = concept_tag_tag_indexing.index(concepts[c])
+                    #print('the obj {} col {} at the {}th col of the tag_tag_sim'.format(row, c, the_correct_row))
+                    #print(concepts[c])
+                    aug = Tag_tag_sim[the_correct_row]
+
                     aug_indices, aug_concepts, aug_sims  = aug
-                    for sim, concept in zip(aug_sims, aug_concepts):    # [1:]
+                    #print(aug_concepts[:5])
+                    for sim, concept in zip(aug_sims, aug_concepts):
                         try :
-                            global_index = title2ind[concept]
+                            global_index = title2ind[concept.lower()]
                         except :
                             redirected = wikipedia.page(concept)
                             concept = redirected.title.lower()
@@ -171,14 +207,14 @@ class SemanticAug(object):
         user_tag_matrix = pickle.load(fp)
         return users_concept, user_tag_matrix, ou_concepts, ou_tag_matrix
 
-    def test_semantic_aug_topk(self, tag_matrix_pkl, quantile = '_90'):
+    def test_semantic_aug_topk(self, tag_matrix_pkl, quantile = '_95'):
         Tag_tag_sim = pickle.load(open(tag_matrix_pkl, 'rb'))
 
         if not os.path.exists('save/oandu_tag_matrix.pkl'):
             user_concepts,  user_tag_matrix, ou_concepts, ou_tag_matrix = self.get_obj_tag_matrix()
-            user_tag_indices = [ title2ind[x.encode('utf-8')] for x in user_concepts]
-            ou_tag_indices = [ title2ind[x.encode('utf-8')] for x in ou_concepts]
-
+            user_tag_indices = [ title2ind[x.lower()] for x in user_concepts]
+            ou_tag_indices = [ title2ind[x.lower()] for x in ou_concepts]
+            #@TODO check ou_tag_indices, whether there are dupicates, like baidu , baidu.com Inc
             fp = open('save/oandu_tag_matrix.pkl', 'wb')
             pickle.dump(user_tag_matrix,fp)
             pickle.dump(user_tag_indices, fp)
@@ -191,6 +227,7 @@ class SemanticAug(object):
             ou_tag_matrix  = pickle.load(fp)
             ou_tag_indices = pickle.load(fp)
 
+        print('doing semantic augmentation now ..........')
         ou_tag_aumgent = self.semantic_aug_top_K(Tag_tag_sim, ou_tag_matrix, ou_tag_indices, 'ou_')
         user_tag_augment = self.semantic_aug_top_K(Tag_tag_sim, user_tag_matrix, user_tag_indices, 'usr_')
 
@@ -200,7 +237,7 @@ class SemanticAug(object):
         pickle.dump(user_tag_matrix, fpobj)
         pickle.dump(user_tag_augment, fpobj)
 
-    def plot_augment(self, quantile = '_90'):
+    def plot_augment(self, quantile = '_95'):
         fpobj = open('save/augment_all' + quantile + '.pkl', 'rb')
         ou_tag_matrix = pickle.load(fpobj)
         ou_tag_aumgent = pickle.load(fpobj)
@@ -212,6 +249,16 @@ class SemanticAug(object):
         oo_diff = oaug_oaug_sim - ou_sim
         oodiff = Heatmap(range(oo_diff.shape[0]), range(oo_diff.shape[1]), oo_diff.tolist())
         oodiff.plot('ou diff', 'oudiff' + quantile + '.png')
+
+        non_zeros = np.count_nonzero(oo_diff)
+        total = np.prod(oo_diff.shape)
+        pos = (oo_diff > 0).sum()
+        neg = (oo_diff < 0).sum()
+
+        print('zeros are {}'.format(total-non_zeros))
+        print('pos are {}'.format(pos))
+        print('neg are {}'.format(neg))
+
         ooplot = Heatmap(range(ou_sim.shape[0]), range(ou_sim.shape[1]), ou_sim.tolist())
         ooplot.plot('ou similarity', 'ousim' + quantile + '.png')
         ooaugplot = Heatmap(range(oaug_oaug_sim.shape[0]), range(oaug_oaug_sim.shape[1]), oaug_oaug_sim.tolist())
@@ -246,11 +293,9 @@ class SemanticAug(object):
         ouddiff = Heatmap(range(ou_ddiff.shape[0]), range(ou_ddiff.shape[1]), ou_ddiff.tolist())
         ouddiff.plot('ou ddiff', 'ouddiff' + quantile1 + quantile2 + '.png')
 
-
         uu_ddiff = uu_diff1 - uu_diff2
         uuddiff  = Heatmap(range(uu_ddiff.shape[0]), range(uu_ddiff.shape[1]), uu_ddiff.tolist())
         uuddiff.plot('uu ddiff', 'uuddiff' + quantile1 + quantile2 + '.png')
-
 
     def largest_indices(self, ary, n):
         """Returns the n largest indices from a numpy array."""
@@ -314,7 +359,6 @@ class SemanticAug(object):
             tags_for_one_row = ou_tag_matrix[row,:].toarray()
             tags_row_aug     = ou_tag_aumgent[row,:]
             indices_row = np.where(tags_for_one_row > 0)[1].tolist()
-
             indices_row_aug = np.where(tags_row_aug > 0 )[0].tolist()
 
             tags_for_one_col = ou_tag_matrix[col,:].toarray()
@@ -329,18 +373,20 @@ class SemanticAug(object):
             tags_for_row_aug = [augtag2ind[x] for x in indices_row_aug]
             tags_for_col_aug = [augtag2ind[x] for x in indices_col_aug]
 
-            intersected_words = self.get_intersection_words(concept2aug, tags_for_row_aug, tags_for_col_aug)
-            print(np.where(tags_for_one_row > 0))
-            print(np.where(tags_for_one_col > 0))
+            intersected_words = self.get_intersection_words(concept2aug, tags_for_row, tags_for_col)
+            #intersected_words = set(tags_for_row_aug).intersection(set(tags_for_col_aug))
+
+            # print(np.where(tags_for_one_row > 0))
+            # print(np.where(tags_for_one_col > 0))
 
             print intersected_words
-            print(len(intersected_words))
-            fp = open('gephi_{}_{}_{}_{}.csv'.format(row, col, u_u_sim[row,col], u_u_aug_sim[row,col]), 'wb')
+
+            fp = codecs.open('gephi/{}gephi_{}_{}_{}_{}.csv'.format(prefix, row, col, u_u_sim[row,col], u_u_aug_sim[row,col]), 'wb', encoding = 'utf-8')
             fp.write('source,target,similarity\n')
             for key in tags_for_row:
                 fp.write('researcher1' + ',' + key + ',1\n')
+                print(key, concept2aug[key])
                 for j, (value, sim) in enumerate(zip(concept2aug[key], concept2aug_sim[key])):
-                    #print(key, value, sim)
                     if value in intersected_words:
                         fp.write(key + ','  + value + ',' + str(sim) + '\n')
                     # if j > 5 :
@@ -361,6 +407,7 @@ class SemanticAug(object):
             print(tags_for_row_aug, tags_for_col_aug)
             print('-----------------------------------------')
 
+
     def get_intersection_words(self, concept2aug, c1, c2):
         l1 = []
         l2 = []
@@ -377,19 +424,54 @@ class SemanticAug(object):
         concept2aug = pickle.load(open(pkl , 'rb'))
         print(concept2aug)
 
+    def correct_order_concepts(self, prefix):
+        augtag2ind = pickle.load(open('save/'  + prefix + '_aug_concept_index.pkl', 'rb'))
+        concepts = pickle.load(open('collected_concepts.pkl', 'rb'))
+        concepts = list(set(concepts))
+        from util import correction
+        local_indices = []
+        print concepts
+        tmp = []
+        for concept in concepts:
+            if concept in correction.keys():
+                concept = correction[concept]
+            #print(concept)
+            # if concept == u'j\xfcrgen schmidhuber' :
+            #     concept = 'jürgen schmidhuber'
+            #
+            # elif concept == u'the smashing pumpkins 1991\u20131998':
+            #     concept = 'the smashing pumpkins'
+
+            idx = augtag2ind.values().index(concept.lower())
+            print(concept, idx)
+            local_indices.append(idx)
+            if idx > 379 :
+                #continue
+                print(idx, concept)
+            #print(concept, idx)
+            tmp.append(idx)
+        #print(augtag2ind.values()[17], augtag2ind.values()[370])
+        pickle.dump(local_indices, open('correct_tag_tag_index.pkl', 'wb'))
+        print(sorted(tmp))
+        return local_indices
+
+    def correct_order(self, tag_tag_sim_pkl):
+        tag_tag_sim = pickle.load(open(tag_tag_sim_pkl, 'rb'))
+        tag_c = [ x[1][0] for x in tag_tag_sim]
+        return tag_c
 
 if __name__ == '__main__':
     obj = SemanticAug()
-    #obj.test_concept_aug('concept2aug_95quantile.pkl')
-
+        #obj.test_concept_aug('concept2aug_95quantile.pkl')
+    #obj.correct_order_concepts('ou')
     #obj.test_semantic_aug_topk('Tag_tag_sim_topk_80quantile.pkl', '_80')
     #obj.test_semantic_aug_topk('Tag_tag_sim_topk_90quantile.pkl', '_90')
-    obj.test_semantic_aug_topk('Tag_tag_sim_topk.pkl', '_95')
+   # obj.test_semantic_aug_topk('Tag_tag_sim_topk_95quantile.pkl', '_95')
     #Obj_tag_indices, User_tag_indices = obj.get_concept_indices()
     #obj.plot_augment('_95')
-    #obj.plot_augment('_80')
+    obj.plot_augment('_80')
     #obj.diff_diff('_80', '_95')
-    obj.entity_similairity_change_after_augm(10)
+    #obj.entity_similairity_change_after_augm(20)
     # data = pickle.load(open('obj_tag.pkl', 'rb'))
     # #plt.imshow(data, cmap='hot', interpolation='nearest')
     # print(data[0,:])

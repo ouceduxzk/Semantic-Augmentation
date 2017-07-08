@@ -1,0 +1,1367 @@
+(dp0
+Vdifferential equations
+p1
+g1
+sVfloating point
+p2
+g2
+sVuniversity of washington
+p3
+g3
+sVautonomous robots
+p4
+Vautonomous robot
+p5
+sVtext-mining
+p6
+Vtext mining
+p7
+sVsentiment analysis
+p8
+g8
+sVelectrophysiology
+p9
+g9
+sVcathal crobhdearg ua conchobair
+p10
+g10
+sVdeputy lieutenant
+p11
+g11
+sVnonlinear dynamical system
+p12
+Vdynamical system
+p13
+sVblack hole
+p14
+g14
+sVlanguage and compilers for parallel computing
+p15
+Vdavid gelernter
+p16
+sVscientific visualization
+p17
+g17
+sVgaithersburg, md.
+p18
+Vgaithersburg, maryland
+p19
+sVnatural language
+p20
+g20
+sVbaidu
+p21
+Vbaidu
+p22
+sVtitles in academia
+p23
+g23
+sVscheduling algorithms
+p24
+Vscheduling (computing)
+p25
+sVmedical diagnosis
+p26
+g26
+sVbaidu.com inc
+p27
+g27
+sVsebastian thrun
+p28
+g28
+sVgenetic algorithms
+p29
+Vgenetic algorithm
+p30
+sVcathal gurrin
+p31
+g31
+sVwolfram mathematica
+p32
+g32
+sVmean average precision
+p33
+Vinformation retrieval
+p34
+sVex machina (2015)
+p35
+Vex machina (film)
+p36
+sVeagle eyes
+p37
+Veagle eye
+p38
+sVautonomous vehicles
+p39
+Vvehicular automation
+p40
+sVibm watson
+p41
+Vwatson (computer)
+p42
+sVunsupervised learning
+p43
+g43
+sVspatial statistics
+p44
+Vspatial analysis
+p45
+sVsemantic wiki
+p46
+g46
+sVprogramming language c
+p47
+Vc (programming language)
+p48
+sVanil k. jain (computer scientist, born 1948)
+p49
+g49
+sVprobability & statistics
+p50
+Vprobability and statistics
+p51
+sVjavascript:
+p52
+Vuniform resource identifier
+p53
+sVspringer (company)
+p54
+g54
+sVmatlab programming language
+p55
+Vmatlab
+p56
+sVsliding window protocol
+p57
+g57
+sVmathematical foundations of quantum mechanics
+p58
+g58
+sVyann lecun
+p59
+g59
+sVprobabilistic graphical model
+p60
+Vgraphical model
+p61
+sVsymposium on geometry processing
+p62
+g62
+sVsoftware testing
+p63
+g63
+sVself consciousness
+p64
+Vself-consciousness
+p65
+sVbayesian probability
+p66
+g66
+sVconvolution
+p67
+g67
+sVclassification
+p68
+g68
+sVspecial interest group on information retrieval
+p69
+g69
+sVshape analysis
+p70
+g70
+sVsvizzera
+p71
+Vradiotelevisione svizzera
+p72
+sVjournal of the association for computing machinery
+p73
+Vjournal of the acm
+p74
+sVstereo camera
+p75
+g75
+sVonline community of practice
+p76
+Vvirtual community of practice
+p77
+sVlist of westworld episodes
+p78
+Vwestworld (tv series)
+p79
+sVswarm intelligence
+p80
+g80
+sVresidual network
+p81
+Vflow network
+p82
+sVspeech synthesis
+p83
+g83
+sVmemory
+p84
+g84
+sVevolutionary algorithm
+p85
+g85
+sVgaussian process regression
+p86
+Vgaussian process
+p87
+sVinstitute of robotics and intelligent systems
+p88
+g88
+sVinfosec
+p89
+Vsk infosec
+p90
+sVspatial contextual awareness
+p91
+g91
+sVagi (disambiguation)
+p92
+g92
+sVgaussian processes
+p93
+Vgaussian process
+p94
+sVtext processing
+p95
+g95
+sVwhisky
+p96
+g96
+sVlogarithm
+p97
+g97
+sVsalesforce
+p98
+Vsalesforce.com
+p99
+sVvector quantization
+p100
+g100
+sVscience
+p101
+g101
+sVmachine learning
+p102
+Vmachine learning
+p103
+sVatari
+p104
+g104
+sVuniverse
+p105
+g105
+sVdimension (mathematics and physics)
+p106
+Vdimension
+p107
+sVobject detection
+p108
+g108
+sVspeech recognition
+p109
+g109
+sVsemantic web
+p110
+g110
+sVautomatic speech recognition
+p111
+Vspeech recognition
+p112
+sVgenerative model
+p113
+Vgenerative model
+p114
+sVtravelling salesman
+p115
+g115
+sVdeep (mixed martial arts)
+p116
+g116
+sVdigital images
+p117
+Vdigital image
+p118
+sVopinion mining
+p119
+Vsentiment analysis
+p120
+sVcognitive sciences
+p121
+Vcognitive science
+p122
+sVimagenets
+p123
+g123
+sVregression
+p124
+g124
+sVbayesian modeling
+p125
+Vbayesian
+p126
+sVcomputer vision
+p127
+g127
+sVstemming
+p128
+g128
+sVsocial semantic web
+p129
+g129
+sVimprecise probability
+p130
+g130
+sVnips
+p131
+g131
+sVblender software
+p132
+Vblender (software)
+p133
+sVsupercomputer
+p134
+g134
+sVjavascript engines
+p135
+Vjavascript engine
+p136
+sVquantum field theory
+p137
+g137
+sVstochastic optimization
+p138
+g138
+sVmessage passing interface
+p139
+g139
+sVmathematical optimization
+p140
+g140
+sVdata
+p141
+g141
+sVgoogle deepdream
+p142
+Vdeepdream
+p143
+sVdraw (chess)
+p144
+g144
+sVdata clustering
+p145
+g145
+sVentity
+p146
+g146
+sVfacial recognition
+p147
+g147
+sVshape analysis (digital geometry)
+p148
+g148
+sVscientific modelling
+p149
+g149
+sVchain rule
+p150
+g150
+sVuser interface
+p151
+g151
+sVant colony algorithm
+p152
+Vant colony optimization algorithms
+p153
+sVpixel
+p154
+g154
+sVjavascript library
+p155
+g155
+sVapx complexity class
+p156
+Vapx
+p157
+sVinria
+p158
+Vindia
+p159
+sVtopology (mathematics)
+p160
+Vtopology
+p161
+sVscipy
+p162
+g162
+sVworld wide web
+p163
+g163
+sVeagle eye
+p164
+g164
+sVuniversity
+p165
+g165
+sVdeep neural net dreams
+p166
+Vdeepdream
+p167
+sVstanford university computer science
+p168
+g168
+sVbayesian cognitive science
+p169
+g169
+sVknowledge management
+p170
+g170
+sVsimilarity learning
+p171
+g171
+sVpython (programming language)
+p172
+g172
+sVidea
+p173
+g173
+sVtopic modeling
+p174
+Vtopic model
+p175
+sVillc
+p176
+Vili\u0107
+p177
+sVparticle physics
+p178
+g178
+sVobject recognition (computer vision)
+p179
+Voutline of object recognition
+p180
+sVarithmetic coding
+p181
+g181
+sViran (islamic republic of)
+p182
+Viran
+p183
+sVscientific computing
+p184
+Vcomputational science
+p185
+sVproblem-solving
+p186
+Vproblem solving
+p187
+sVevaluation
+p188
+g188
+sVsxsw
+p189
+Vsouth by southwest
+p190
+sVcommercial off-the-shelf
+p191
+g191
+sVrule 30
+p192
+g192
+sVkaggle
+p193
+g193
+sVregression model
+p194
+Vregression analysis
+p195
+sVkalman filter
+p196
+g196
+sVdublin university
+p197
+Vuniversity of dublin
+p198
+sVgeometry
+p199
+g199
+sVinformation retrieval specialist group
+p200
+g200
+sVecole polytechnique
+p201
+g201
+sVuser (computing)
+p202
+g202
+sVubicomp
+p203
+Vubiquitous computing
+p204
+sVtime of flight
+p205
+g205
+sVimage processing
+p206
+Vimage processing
+p207
+sValex and michael bronstein
+p208
+g208
+sVcenter for the study of language and information
+p209
+Vstanford university centers and institutes
+p210
+sVexplicit data graph execution
+p211
+g211
+sVnormalized compression distance
+p212
+g212
+sVmedical image computing
+p213
+g213
+sVsystem
+p214
+g214
+sVdifferential geometry
+p215
+Vdifferential geometry
+p216
+sVmarket manipulation
+p217
+g217
+sVmining
+p218
+g218
+sVinternational conference on computer vision
+p219
+g219
+sVcoursera
+p220
+g220
+sVidsia
+p221
+g221
+sVgeometry processing
+p222
+g222
+sVassociation for computing machinery
+p223
+g223
+sVjquery
+p224
+g224
+sVlong short-term memory
+p225
+g225
+sVprofessor richard feynman
+p226
+Vrichard feynman
+p227
+sVnumerical mathematics
+p228
+Vnumerical analysis
+p229
+sVself-driving car
+p230
+Vautonomous car
+p231
+sVcloud-computing
+p232
+Vcloud computing
+p233
+sVlife-logging
+p234
+Vlifelog
+p235
+sVsupport (mathematics)
+p236
+g236
+sVjurgen schmidhiber
+p237
+Vjürgen schmidhuber
+p238
+sVwadge hierarchy
+p239
+g239
+sVwilliams-bmw
+p240
+Vwilliams grand prix engineering
+p241
+sVprofessors in the united states
+p242
+g242
+sVlarry page
+p243
+g243
+sVann
+p244
+g244
+sVjava platform, enterprise edition
+p245
+g245
+sVcryptocurrency
+p246
+g246
+sVinverse kinematics
+p247
+g247
+sVremote procedure call
+p248
+g248
+sVuniversita della svizzera italiana
+p249
+Vuniversity of lugano
+p250
+sVlugano
+p251
+g251
+sVbayes formula
+p252
+Vbayes' theorem
+p253
+sVapple geeks
+p254
+Vapplegeeks
+p255
+sVrecurrent neural networks
+p256
+Vrecurrent neural network
+p257
+sVrobust optimization
+p258
+g258
+sVintel realsense technology
+p259
+Vintel realsense
+p260
+sVnatural language processing
+p261
+g261
+sVgradient descent optimization
+p262
+Vgradient descent
+p263
+sVsoap
+p264
+g264
+sVstanford univeristy
+p265
+Vstanford university
+p266
+sVdata classification
+p267
+g267
+sVhand anatomy
+p268
+Vhand
+p269
+sVuniversità della svizzera italiana
+p270
+Vuniversity of lugano
+p271
+sVreddit.com
+p272
+Vreddit
+p273
+sVstanford university
+p274
+Vstanford university
+p275
+sVdeep mind
+p276
+Vdeepmind
+p277
+sVintroduction to algorithms
+p278
+g278
+sVlatex
+p279
+g279
+sVprofessor
+p280
+g280
+sVclassical quantum mechanics
+p281
+Vquantum mechanics
+p282
+sVnltk
+p283
+g283
+sVmacos/x
+p284
+Vmacos
+p285
+sVriemann hypothesis
+p286
+g286
+sVgraphical processing unit
+p287
+Vgraphics processing unit
+p288
+sVsearch engine
+p289
+Vweb search engine
+p290
+sVnlp
+p291
+g291
+sVluca maria gambardella
+p292
+g292
+sVprogramming language design and implementation
+p293
+g293
+sVprime numbers
+p294
+g294
+sVeurographics
+p295
+g295
+sVxcode
+p296
+g296
+sVinfrared
+p297
+g297
+sVbiometrics
+p298
+g298
+sVmicrosoft hololens
+p299
+g299
+sVxml
+p300
+g300
+sVimplementation
+p301
+g301
+sVhistory of natural language processing
+p302
+g302
+sVudacity
+p303
+g303
+sVcourant institute of mathematical sciences
+p304
+g304
+sVstereo vision
+p305
+Vstereopsis
+p306
+sVmedical image understanding and analysis
+p307
+Vmedical image understanding and analysis conference
+p308
+sVcurriculum vitae
+p309
+g309
+sVraw image format
+p310
+g310
+sVpersonal computer
+p311
+g311
+sVforward kinematics
+p312
+g312
+sVtext retrieval conference (trec)
+p313
+Vtext retrieval conference
+p314
+sVyou tube
+p315
+Vyoutube
+p316
+sVstructured light 3d scanner
+p317
+Vstructured-light 3d scanner
+p318
+sVswift programming language
+p319
+Vswift (programming language)
+p320
+sVios sdk
+p321
+g321
+sVhyperneat
+p322
+g322
+sVarxiv
+p323
+g323
+sVlibrary (computing)
+p324
+g324
+sVretrocomputing
+p325
+g325
+sVgradient descent
+p326
+Vgradient descent
+p327
+sVcollection (artwork)
+p328
+g328
+sVdigital social networking
+p329
+Vsocial networking service
+p330
+sVexcited state
+p331
+g331
+sVw. bruce croft
+p332
+g332
+sVanalytics
+p333
+g333
+sVimage classification
+p334
+Vcomputer vision
+p335
+sVtissue (biology)
+p336
+g336
+sVprogramming languages
+p337
+Vprogramming language
+p338
+sVstatistics/inference
+p339
+Vstatistical inference
+p340
+sVartificial neural network
+p341
+g341
+sVxbox kinect
+p342
+Vkinect
+p343
+sVmicrosoft research
+p344
+g344
+sVsocial network analysis
+p345
+g345
+sVthree-dimensional space
+p346
+g346
+sVoptimal control theory
+p347
+Voptimal control
+p348
+sVscalability
+p349
+g349
+sVokapi bm25
+p350
+g350
+sVa new kind of science
+p351
+g351
+sVsaul kripke
+p352
+g352
+sVinformatics (academic field)
+p353
+Vinformatics
+p354
+sVlocality-sensitive hashing
+p355
+g355
+sVself-driving automobiles
+p356
+Vautonomous car
+p357
+sVamherst, massachusetts
+p358
+g358
+sVreinforcement learning
+p359
+Vreinforcement learning
+p360
+sVlearning
+p361
+g361
+sVdata mining
+p362
+Vdata mining
+p363
+sVjava (programming language)
+p364
+g364
+sVthe university of aberdeen
+p365
+Vuniversity of aberdeen
+p366
+sVdeep learning
+p367
+Vdeep learning
+p368
+sVtensorflow
+p369
+g369
+sVnumpy
+p370
+g370
+sVstatistical learning
+p371
+Vmachine learning
+p372
+sVstephen wolfram
+p373
+g373
+sVstatistical model
+p374
+g374
+sVoptimization
+p375
+Vmathematical optimization
+p376
+sVtokenization
+p377
+g377
+sVuniversity of glasgow in scotland
+p378
+Vuniversity of glasgow
+p379
+sVthe smashing pumpkins
+p380
+g380
+sVdifferential evolution
+p381
+g381
+sVmultidimensional convolution
+p382
+Vmultidimensional discrete convolution
+p383
+sVopen classroom
+p384
+g384
+sVcellular automata
+p385
+Vcellular automaton
+p386
+sVsupervised machine learning
+p387
+Vsupervised learning
+p388
+sVrecurrent neural network
+p389
+g389
+sVautonomous driving
+p390
+Vautonomous car
+p391
+sVcovariance and contravariance of vectors
+p392
+g392
+sVhtml
+p393
+g393
+sVgame ai
+p394
+Vartificial intelligence (video games)
+p395
+sVtechnologies in 2001: a space odyssey
+p396
+g396
+sVgenetic programming
+p397
+g397
+sVthe theory of artificial intelligence
+p398
+Vartificial intelligence
+p399
+sVweb search engine
+p400
+g400
+sVant colony optimisation
+p401
+Vant colony optimization algorithms
+p402
+sVlist of home and away characters (2005)
+p403
+g403
+sVhybrid system
+p404
+g404
+sVgraphics processing unit
+p405
+g405
+sVdublin city university
+p406
+Vdublin city university
+p407
+sVajax (programming)
+p408
+g408
+sVhidden markov model
+p409
+g409
+sVstudent
+p410
+g410
+sVfunctional analysis
+p411
+g411
+sVfeature (computer vision)
+p412
+g412
+sVstatistical classification
+p413
+Vstatistical classification
+p414
+sVpattern recognition
+p415
+g415
+sVdata-mining
+p416
+Vdata mining
+p417
+sVjurgen schmidhuber
+p418
+g418
+sVmaarten de rijke
+p419
+g419
+sVinformation theory
+p420
+g420
+sVbackpropagation
+p421
+g421
+sVmanifold
+p422
+g422
+sVsystem identification
+p423
+g423
+sVtext retrieval conference
+p424
+g424
+sVhuman
+p425
+g425
+sVthe artificial intelligence
+p426
+g426
+sVdeep neural network
+p427
+g427
+sVmachine translation
+p428
+g428
+sVfast learner
+p429
+Vspeed learning
+p430
+sVtime series analysis
+p431
+Vtime series
+p432
+sVcomputational sociology
+p433
+g433
+sVfoundations of mathematics
+p434
+g434
+sVevolutionary computation
+p435
+g435
+sVtime of flight camera
+p436
+Vtime-of-flight camera
+p437
+sVthe university of amsterdam
+p438
+Vuniversity of amsterdam
+p439
+sVthe natural language processing
+p440
+Vnatural language processing
+p441
+sVlatent dirichlet allocation
+p442
+g442
+sVgeoffrey hinton
+p443
+g443
+sVdeepmind
+p444
+g444
+sVtick
+p445
+g445
+sVsimultaneous localization and mapping
+p446
+g446
+sVtesla motors, inc.
+p447
+Vtesla, inc.
+p448
+sVsupport vector machine
+p449
+g449
+sVcollective
+p450
+g450
+sVscikit-learn
+p451
+g451
+sVcarnegie-mellon university
+p452
+Vcarnegie mellon university
+p453
+sVtwitter
+p454
+g454
+sVthree laws of robotics
+p455
+g455
+sVinformation retrieval
+p456
+Vinformation retrieval
+p457
+sVterrier search engine
+p458
+g458
+sVform factor (quantum field theory)
+p459
+g459
+sVmesh parameterization
+p460
+g460
+sVcategory theory
+p461
+g461
+sVstatistical natural language processing
+p462
+Vstochastic grammar
+p463
+sVfilm score
+p464
+g464
+sVredis
+p465
+g465
+sVai robotics
+p466
+Vartificial intelligence
+p467
+sVdata analysis
+p468
+Vdata analysis
+p469
+sVmedical imaging
+p470
+g470
+sVnew mexico
+p471
+g471
+sVinformatics
+p472
+g472
+sVapproximation algorithm
+p473
+g473
+sVbiomedical engineering
+p474
+g474
+sVformal grammar
+p475
+g475
+sVgoogle!
+p476
+Vgoogle
+p477
+sVcarbon monoxide detector
+p478
+g478
+sVfree blogs
+p479
+Vblog
+p480
+sVcuda
+p481
+g481
+sVmetric tensor
+p482
+g482
+sVrobust model predictive control
+p483
+Vmodel predictive control
+p484
+sVautomata theory
+p485
+g485
+sVquantum gravity
+p486
+g486
+sVfinger tracking
+p487
+g487
+sVparsing
+p488
+g488
+sVultrasound
+p489
+Vultrasound
+p490
+sVmathematical logic
+p491
+g491
+sVcuda nvidia
+p492
+Vcuda
+p493
+sVeuropean conference on information retrieval
+p494
+g494
+sVstatistics
+p495
+g495
+sVnew york university
+p496
+g496
+sVrepresentation learning
+p497
+Vfeature learning
+p498
+sVfaculty (division)
+p499
+g499
+sVyoshua bengio
+p500
+g500
+sVtop, bottom and versatile
+p501
+g501
+sVjohan van benthem
+p502
+g502
+sVartificial intelligence
+p503
+g503
+sVapache lucene
+p504
+g504
+sVicml
+p505
+g505
+sVgoogle deepmind
+p506
+Vdeepmind
+p507
+sVfeature film
+p508
+g508
+sVhistory of the python programming language
+p509
+Vhistory of python
+p510
+sVfuji x100
+p511
+Vfujifilm x100
+p512
+sVrobotic mapping
+p513
+g513
+sVspectroscopy
+p514
+g514
+sVkevin knight
+p515
+g515
+sVyoutube
+p516
+Vyoutube
+p517
+sVirobot
+p518
+g518
+sVeagle eye (2008 film)
+p519
+Veagle eye
+p520
+sVtheoretical physics
+p521
+g521
+sVdigital signal processing
+p522
+g522
+sVarchive
+p523
+g523
+sV1 (number)
+p524
+V1
+p525
+sVapplication programming interface
+p526
+g526
+sVgraphs
+p527
+g527
+sVleonard susskind
+p528
+Vleonard susskind
+p529
+sVcomputer science
+p530
+g530
+sVmathematics
+p531
+g531
+sVzfc set theory
+p532
+g532
+sVsocial media analytics
+p533
+g533
+sVoil well
+p534
+g534
+sVgenetic algorithm
+p535
+g535
+sVinstitute for quantum optics and quantum information
+p536
+g536
+sVmassachusetts
+p537
+g537
+sVinternet forum
+p538
+g538
+sVcardiac arrhythmia/tachycardia
+p539
+Vtachycardia
+p540
+sVdalle molle institute for artificial intelligence research
+p541
+g541
+sVannual conference of the north american chapter of the association for computational linguistics
+p542
+Vnorth american chapter of the association for computational linguistics
+p543
+sValgorithm
+p544
+g544
+sVstochastic gradient descent
+p545
+g545
+sVrecommender system
+p546
+Vrecommender system
+p547
+sVtechnology of photography
+p548
+Vphotography
+p549
+s.

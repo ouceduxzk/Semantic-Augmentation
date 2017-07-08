@@ -5,46 +5,49 @@ import re
 import matplotlib.pyplot as plt
 import pickle
 import numpy as np
+import codecs
 
 ############# correct some mismatch of wiki concept due to the heterogeneity of those concepts#####################
 correction = {}
-correction['data classification']  = 'data classification (data management)'
-correction['johan van benthem']    = 'johan van benthem (logician)'
-correction['springer (company)']   = 'springer publishing'
-correction['springer']             = 'springer publishing'
-correction['tesla-company']        = 'tesla motors'
-correction['tesla, inc.']          = 'tesla motors'
-correction['ecole polytechnique']  = 'École polytechnique'
-correction['jurgen schmidhuber']   = 'jürgen schmidhuber'
-correction['agi (disambiguation)'] = 'agi'
-correction['graphs']               = 'graph (abstract data type)'
-correction['titles in academia']   = 'technical director'
-correction['shape analysis']       =      'shape analysis (digital geometry)'
-correction['idsia']                =   'dalle molle institute for artificial intelligence research'
-correction['zfc set theory']       = 'zermelo–fraenkel set theory'
-correction['tokenization']         = 'tokenization (lexical analysis)'
-correction['nltk']                 = 'natural language toolkit'
-correction['icml']                 = 'international conference on machine learning'
-correction['differential equations'] = 'differential equation'
-correction['data clustering']      = 'cluster analysis'
-correction['prime numbers']        = 'prime number'
-correction['ubiquitous robotics']  = 'ubiquitous robot'
-correction['the artificial intelligence'] = 'artificial intelligence'
-correction['swarm techniques']     = 'swarm intelligence'
-correction['deep neural network']  = 'deep learning'
-correction['sharing knowledge']    = 'knowledge sharing'
-correction['baidu.com inc']                     = 'baidu'
-correction['feature (computer vision)']       = 'feature detection (computer vision)'
-correction['x'] = 'macos'
+correction['data classification']  = 'data classification (data management)'.decode('utf-8')
+correction['johan van benthem']    = 'johan van benthem (logician)'.decode('utf-8')
+correction['springer (company)']   = 'springer publishing'.decode('utf-8')
+correction['springer']             = 'springer publishing'.decode('utf-8')
+correction['tesla-company']        = 'tesla motors'.decode('utf-8')
+correction['tesla, inc.']          = 'tesla motors'.decode('utf-8')
+correction['ecole polytechnique']  = u'École polytechnique'
+correction['jurgen schmidhuber']   = u'jürgen schmidhuber'
+#correction['jürgen schmidhuber']   = 'j\xfcrgen schmidhuber'
+correction['agi (disambiguation)'] = 'agi'.decode('utf-8')
+correction['graphs']               = 'graph (abstract data type)'.decode('utf-8')
+correction['titles in academia']   = 'technical director'.decode('utf-8')
+correction['shape analysis']       =      'shape analysis (digital geometry)'.decode('utf-8')
+correction['idsia']                =   'dalle molle institute for artificial intelligence research'.decode('utf-8')
+correction['zfc set theory']       = 'zermelo–fraenkel set theory'.decode('utf-8')
+correction['tokenization']         = 'tokenization (lexical analysis)'.decode('utf-8')
+correction['nltk']                 = 'natural language toolkit'.decode('utf-8')
+correction['icml']                 = 'international conference on machine learning'.decode('utf-8')
+correction['differential equations'] = 'differential equation'.decode('utf-8')
+correction['data clustering']      = 'cluster analysis'.decode('utf-8')
+correction['prime numbers']        = 'prime number'.decode('utf-8')
+correction['ubiquitous robotics']  = 'ubiquitous robot'.decode('utf-8')
+correction['the artificial intelligence'] = 'artificial intelligence'.decode('utf-8')
+correction['swarm techniques']     = 'swarm intelligence'.decode('utf-8')
+correction['deep neural network']  = 'deep learning'.decode('utf-8')
+correction['sharing knowledge']    = 'knowledge sharing'.decode('utf-8')
+correction['baidu.com inc']                     = 'baidu'.decode('utf-8')
+correction['feature (computer vision)']       = 'feature detection (computer vision)'.decode('utf-8')
+correction['x'] = 'macos'.decode('utf-8')
+correction['the smashing pumpkins 1991–1998'] = 'the smashing pumpkins'.decode('utf-8')
+correction['hatsukoi cider / deep mind']      = 'deepmind'.decode('utf-8')
 ###################################################################################################################
 def getDict():
     title2ind, ind2title = {}, {}
     if not os.path.exists('title_map.pkl'):
-        lines = open('title.txt', 'r').readlines()
+        lines = codecs.open('title.txt', 'r', encoding = 'utf-8').readlines()
         lines = [x.strip().lower() for x in lines]
-        ind2title = dict(enumerate(lines))
+        ind2title = dict([(i, x) for i, x in enumerate(lines)])
         title2ind = dict([(line, i) for i, line in enumerate(lines)])
-
         with open('title_map.pkl', 'w') as fp :
             pickle.dump(title2ind, fp)
             pickle.dump(ind2title,  fp)
@@ -53,7 +56,6 @@ def getDict():
             title2ind = pickle.load(fp)
             ind2title = pickle.load(fp)
     return title2ind, ind2title
-
 
 def get_query_result(pkl_fn):
     data = pickle.load(open(pkl_fn, 'rb'))
