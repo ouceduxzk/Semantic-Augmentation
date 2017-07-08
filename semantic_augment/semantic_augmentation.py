@@ -94,7 +94,6 @@ class SemanticAug(object):
         print('step 1 : calcualate the # of columns in Obj_tag_agument matrix')
 
         #print([ind2title[x] for x in Obj_tag_indexing ])
-        #@TODO entry name in the tag_tag_sim might not be unique after processing
         col_concepts = []
         for entry in Tag_tag_sim :
             topk_sim_concepts = entry[1]
@@ -128,6 +127,9 @@ class SemanticAug(object):
         print('step 2 : hash each index in the unique_indices')
         global_local_map = dict([(ind, i) for i, ind in enumerate(global_total_indices)])
         local_global_map = dict(enumerate(global_total_indices))
+
+        if( not os.path.exists('save')):
+            os.mkdir('save')
 
         with open('save/' + prefix + 'local_global_indexing.pkl', 'wb') as fp :
             pickle.dump(global_local_map, fp)
@@ -462,32 +464,12 @@ class SemanticAug(object):
 
 if __name__ == '__main__':
     obj = SemanticAug()
-        #obj.test_concept_aug('concept2aug_95quantile.pkl')
     #obj.correct_order_concepts('ou')
-    #obj.test_semantic_aug_topk('Tag_tag_sim_topk_80quantile.pkl', '_80')
+    obj.test_semantic_aug_topk('Tag_tag_sim_topk_80quantile.pkl', '_80')
     #obj.test_semantic_aug_topk('Tag_tag_sim_topk_90quantile.pkl', '_90')
-   # obj.test_semantic_aug_topk('Tag_tag_sim_topk_95quantile.pkl', '_95')
+    # obj.test_semantic_aug_topk('Tag_tag_sim_topk_95quantile.pkl', '_95')
     #Obj_tag_indices, User_tag_indices = obj.get_concept_indices()
     #obj.plot_augment('_95')
     obj.plot_augment('_80')
     #obj.diff_diff('_80', '_95')
     #obj.entity_similairity_change_after_augm(20)
-    # data = pickle.load(open('obj_tag.pkl', 'rb'))
-    # #plt.imshow(data, cmap='hot', interpolation='nearest')
-    # print(data[0,:])
-    # aug_data = pickle.load(open('augment_obj_tag.pkl', 'rb'))
-    # # plt.imshow(aug_data, cmap = 'hot', interpolation='nearest')
-    # # plt.show()
-    # print(aug_data[0,:])
-    # indices = np.where(aug_data[0,:] > 0)[0].tolist()
-    # #index_concept = pickle.load(open('aug_concept_index.pkl', 'rb'))
-    # fp = open('save/local_global_indexing.pkl', 'rb')
-    # global_local_indexing = pickle.load(fp)
-    # local_global_indexing = pickle.load(fp)
-    # print([ ind2title[local_global_indexing[x]] for x in indices])
-    # # print(index_concept)
-    # # for ind in indices :
-    # #     print(index_concept[ind])
-
-    #340
-    #9091

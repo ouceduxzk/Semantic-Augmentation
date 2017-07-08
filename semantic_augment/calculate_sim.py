@@ -4,10 +4,12 @@ import glob
 from sklearn.metrics.pairwise import cosine_similarity
 from util import * #, get_concept_samples
 doc_tfidfs = []
-pkls = glob.glob('sp_tfidf/*pkl')[:1]
-pkls = sorted(pkls, key=lambda v: int(v.split('/')[-1].split('.')[0].split('sp_')[1]))
+pkls = glob.glob('sp_tfidf/*pkl') # list all pkl files
+pkls = sorted(pkls, key=lambda v: int(v.split('/')[-1].split('.')[0].split('sp_')[1])) # sort by name
 print(pkls)
 
+
+### append all files into a list doc_tfidfs
 for pkl in pkls:
     try:
         tmp = pickle.load(open(pkl, 'rb'))
@@ -15,6 +17,7 @@ for pkl in pkls:
     except:
         print(pkl)
 
+### if a index = 8000, then return the second file sp_8050.pkl
 def getIndexOfPklFile(pkls, ind):
     doc_numbers = [ int(x.split('/')[-1][3:].split('.')[0]) for x in pkls ]
     for i, doc_n in enumerate(doc_numbers):
@@ -22,6 +25,10 @@ def getIndexOfPklFile(pkls, ind):
             return i
     return 0
 
+### given the index i of chunck name, ex sp_8050.pkl,
+###  and the index of a word out of the 4million words , ex 8100
+###  get the src_tfidf
+###  calculate the src_tfidf vs all others
 def cal_sim_topn(pkls, i, ind, ind2title, topn = 300):
     concept = ind2title[ind]
     doc_ids = [ int(x.split('/')[-1][3:].split('.')[0]) for x in pkls ]
