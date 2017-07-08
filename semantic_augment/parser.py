@@ -140,6 +140,8 @@ class ParseTagEntity(object):
         print('shape of o_t matrix is')
         print(entity_tag_matrix.shape)
 
+        if (not os.path.exists(('save'))):
+            os.mkdir('save')
         print(user_tag_matrix.shape)
         pickle.dump(concepts, open('collected_concepts.pkl', 'wb'))
         pickle.dump(entities, open('collected_entities.pkl', 'wb'))
