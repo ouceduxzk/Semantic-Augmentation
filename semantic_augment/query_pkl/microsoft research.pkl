@@ -1,0 +1,2728 @@
+(lp0
+(S'microsoft research'
+p1
+cnumpy.core.multiarray
+scalar
+p2
+(cnumpy
+dtype
+p3
+(S'f8'
+p4
+I0
+I1
+tp5
+Rp6
+(I3
+S'<'
+p7
+NNNI-1
+I-1
+I0
+tp8
+bS'\x01\x00\x00\x00\x00\x00\xf0?'
+p9
+tp10
+Rp11
+tp12
+a(S'microsoft research labs'
+p13
+g2
+(g6
+S'\xe8\x19\xff\xee\x84\xfe\xe4?'
+p14
+tp15
+Rp16
+tp17
+a(S'outline of microsoft'
+p18
+g2
+(g6
+S'\xec"\xd0J\n6\xe4?'
+p19
+tp20
+Rp21
+tp22
+a(S'microsoft'
+p23
+g2
+(g6
+S'\xb9LM\xfe\x1f\xb2\xe3?'
+p24
+tp25
+Rp26
+tp27
+a(S'p. anandan'
+p28
+g2
+(g6
+S'\xd2(\xbd\xe4\xe3\x82\xe3?'
+p29
+tp30
+Rp31
+tp32
+a(S'list of microsoft office programs'
+p33
+g2
+(g6
+S'2\x94\x8a\x10;m\xe3?'
+p34
+tp35
+Rp36
+tp37
+a(S'list of macintosh software published by microsoft'
+p38
+g2
+(g6
+S'S\xe8U\xc6\x14#\xe3?'
+p39
+tp40
+Rp41
+tp42
+a(S'timeline of microsoft'
+p43
+g2
+(g6
+S'\x0bN\xe3r\xd9\x12\xe3?'
+p44
+tp45
+Rp46
+tp47
+a(S'criticism of microsoft'
+p48
+g2
+(g6
+S'Ii\xdb$j\x11\xe3?'
+p49
+tp50
+Rp51
+tp52
+a(S'ctec'
+p53
+g2
+(g6
+S'\n-\x97\x01\xf2\x03\xe3?'
+p54
+tp55
+Rp56
+tp57
+a(S'list of microsoft software'
+p58
+g2
+(g6
+S'__d\x0c\xe3\xbc\xe2?'
+p59
+tp60
+Rp61
+tp62
+a(S'microsoft litigation'
+p63
+g2
+(g6
+S'\x12\xd3\xe88\xc5\xba\xe2?'
+p64
+tp65
+Rp66
+tp67
+a(S'microsoft bizspark'
+p68
+g2
+(g6
+S'n\x0c\x1c\x04\xf7t\xe2?'
+p69
+tp70
+Rp71
+tp72
+a(S'microsoft academic search'
+p73
+g2
+(g6
+S'*i|\x07+f\xe2?'
+p74
+tp75
+Rp76
+tp77
+a(S'history of microsoft'
+p78
+g2
+(g6
+S'>\x8f.\x04.D\xe2?'
+p79
+tp80
+Rp81
+tp82
+a(S'microsoft home'
+p83
+g2
+(g6
+S'\xa7\xb6\x7fb\x17%\xe2?'
+p84
+tp85
+Rp86
+tp87
+a(S'harry shum'
+p88
+g2
+(g6
+S'\xd7D\xc5\x12\x18!\xe2?'
+p89
+tp90
+Rp91
+tp92
+a(S'microsoft hardware'
+p93
+g2
+(g6
+S'\xfah<\x95Q\x1f\xe2?'
+p94
+tp95
+Rp96
+tp97
+a(S'microsoft india'
+p98
+g2
+(g6
+S'6\x1c\x80\xcb\xd7\x08\xe2?'
+p99
+tp100
+Rp101
+tp102
+a(S'microsoft egypt'
+p103
+g2
+(g6
+S'\x9b\xddw \x89\x04\xe2?'
+p104
+tp105
+Rp106
+tp107
+a(S'gordon letwin'
+p108
+g2
+(g6
+S'\x05\n\x177\xfb\x9b\xe1?'
+p109
+tp110
+Rp111
+tp112
+a(S'microsoft songsmith'
+p113
+g2
+(g6
+S' c\x85>\x98|\xe1?'
+p114
+tp115
+Rp116
+tp117
+a(S'microsoft academic'
+p118
+g2
+(g6
+S'\x96!\xbb&N\\\xe1?'
+p119
+tp120
+Rp121
+tp122
+a(S'microsoft certified partner'
+p123
+g2
+(g6
+S'\x90/\xba\xc2\xeaZ\xe1?'
+p124
+tp125
+Rp126
+tp127
+a(S'united states v. microsoft corp.'
+p128
+g2
+(g6
+S'\xb9\xe9`\x1d/0\xe1?'
+p129
+tp130
+Rp131
+tp132
+a(S'microsoft partner network'
+p133
+g2
+(g6
+S'\xe9\xce\x18\x03\xa0\r\xe1?'
+p134
+tp135
+Rp136
+tp137
+a(S'joachim kempin'
+p138
+g2
+(g6
+S'8\xde\xe5\xb0\xba\xe7\xe0?'
+p139
+tp140
+Rp141
+tp142
+a(S'microsoft frx'
+p143
+g2
+(g6
+S'\x8da\x86e\x16\xd5\xe0?'
+p144
+tp145
+Rp146
+tp147
+a(S'microsoft research asia'
+p148
+g2
+(g6
+S'\xe0\xbb\xeb\xc5\x98\xc5\xe0?'
+p149
+tp150
+Rp151
+tp152
+a(S'richard rashid'
+p153
+g2
+(g6
+S'\x9b\xc3\xeb\xd8*\xc1\xe0?'
+p154
+tp155
+Rp156
+tp157
+a(S'microsoft engineering groups'
+p158
+g2
+(g6
+S'\x90\x7f\xa8\x9a\x93\xb0\xe0?'
+p159
+tp160
+Rp161
+tp162
+a(S'microsoft production studios'
+p163
+g2
+(g6
+S'\xe8\x15\x9f\xc4\x03\xb0\xe0?'
+p164
+tp165
+Rp166
+tp167
+a(S'microsoft online services'
+p168
+g2
+(g6
+S'\xf8\x16/\xb7V\xa5\xe0?'
+p169
+tp170
+Rp171
+tp172
+a(S'microsoft development center serbia'
+p173
+g2
+(g6
+S'\xbfJ\xa3o\x03\x8b\xe0?'
+p174
+tp175
+Rp176
+tp177
+a(S'microsoft corp. v. lindows.com, inc.'
+p178
+g2
+(g6
+S'\x17`\x03Lmu\xe0?'
+p179
+tp180
+Rp181
+tp182
+a(S'microsoft adcenter labs'
+p183
+g2
+(g6
+S'\xaa\x14\xfa\n\xcdk\xe0?'
+p184
+tp185
+Rp186
+tp187
+a(S'autocollage 2008'
+p188
+g2
+(g6
+S'\x9bY\x96\xde@\\\xe0?'
+p189
+tp190
+Rp191
+tp192
+a(S'jennifer tour chayes'
+p193
+g2
+(g6
+S'\xc5*D\x05\x95O\xe0?'
+p194
+tp195
+Rp196
+tp197
+a(S'microsoft small business financials'
+p198
+g2
+(g6
+S'\x80G\xb1\xc0\xa7B\xe0?'
+p199
+tp200
+Rp201
+tp202
+a(S'microsoft pixelsense'
+p203
+g2
+(g6
+S'Y\x08\x033\xb17\xe0?'
+p204
+tp205
+Rp206
+tp207
+a(S'list of xbox live games on windows 8.x'
+p208
+g2
+(g6
+S'\x8fa\x94\x8f\xa8"\xe0?'
+p209
+tp210
+Rp211
+tp212
+a(S'microsoft agent'
+p213
+g2
+(g6
+S'\xa6\x9a\x96\xb3U\x15\xe0?'
+p214
+tp215
+Rp216
+tp217
+a(S'xuedong huang'
+p218
+g2
+(g6
+S'"+E\xf7\xa9\xf0\xdf?'
+p219
+tp220
+Rp221
+tp222
+a(S'microsoft corp v commission'
+p223
+g2
+(g6
+S'\x1d{\xe1v\x9b\xd2\xdf?'
+p224
+tp225
+Rp226
+tp227
+a(S'peter klein (cfo)'
+p228
+g2
+(g6
+S'\xe9T\xb2\x82Q\xcc\xdf?'
+p229
+tp230
+Rp231
+tp232
+a(S'microsoft certified application specialist: microsoft office word 2007'
+p233
+g2
+(g6
+S"\xe1'{~\xcbh\xdf?"
+p234
+tp235
+Rp236
+tp237
+a(S'microsoft corp. v. tomtom inc.'
+p238
+g2
+(g6
+S'\xad\xa1\x15\xb0TP\xdf?'
+p239
+tp240
+Rp241
+tp242
+a(S'microsoft mathematics'
+p243
+g2
+(g6
+S'\x04\xd1u\xaf\x832\xdf?'
+p244
+tp245
+Rp246
+tp247
+a(S'bob muglia'
+p248
+g2
+(g6
+S'\x84\xa8\x96H\xfc\x15\xdf?'
+p249
+tp250
+Rp251
+tp252
+a(S'microsoft studios'
+p253
+g2
+(g6
+S'\x9eP6P\tu\xde?'
+p254
+tp255
+Rp256
+tp257
+a(S'jon devaan'
+p258
+g2
+(g6
+S'Th\xc2v\xbbE\xde?'
+p259
+tp260
+Rp261
+tp262
+a(S'microsoft ventures'
+p263
+g2
+(g6
+S'\xe7^\x9b+\xe3\x08\xde?'
+p264
+tp265
+Rp266
+tp267
+a(S'microsoft office for mac'
+p268
+g2
+(g6
+S';\xbbB\x02\x19\x07\xde?'
+p269
+tp270
+Rp271
+tp272
+a(S'embrace, extend and extinguish'
+p273
+g2
+(g6
+S'\x1b\xf9\xd0N%\xdf\xdd?'
+p274
+tp275
+Rp276
+tp277
+a(S'microsoft office'
+p278
+g2
+(g6
+S'\xce\x8c\x06N0\xd7\xdd?'
+p279
+tp280
+Rp281
+tp282
+a(S'robert j. bach'
+p283
+g2
+(g6
+S'c\x12\xe5\x84\xb1\xd6\xdd?'
+p284
+tp285
+Rp286
+tp287
+a(S'microsoft office 2000'
+p288
+g2
+(g6
+S'r\x87\x9d\xeat\xb1\xdd?'
+p289
+tp290
+Rp291
+tp292
+a(S'microsoft office 3.0'
+p293
+g2
+(g6
+S'\xe8\x1b\xbd\x1el\x86\xdd?'
+p294
+tp295
+Rp296
+tp297
+a(S'channel 9 (microsoft)'
+p298
+g2
+(g6
+S'\x93e\x95g&v\xdd?'
+p299
+tp300
+Rp301
+tp302
+a(S'mini-microsoft'
+p303
+g2
+(g6
+S'\xff\x01`\xeb[m\xdd?'
+p304
+tp305
+Rp306
+tp307
+a(S'microsoft publisher'
+p308
+g2
+(g6
+S'\x7f\x1f\xd2\x9d\xdfe\xdd?'
+p309
+tp310
+Rp311
+tp312
+a(S'microsoft india (r&d) pvt ltd'
+p313
+g2
+(g6
+S'\xc8fL\xf9hM\xdd?'
+p314
+tp315
+Rp316
+tp317
+a(S'mpx microsoft project exchange file format'
+p318
+g2
+(g6
+S'\x06\xefjoUM\xdd?'
+p319
+tp320
+Rp321
+tp322
+a(S'jowood entertainment'
+p323
+g2
+(g6
+S's\x9f\xf2\x99\x18*\xdd?'
+p324
+tp325
+Rp326
+tp327
+a(S'microsoft office shared tools'
+p328
+g2
+(g6
+S'\xf5\xb7\xd6\xa6\x81\x12\xdd?'
+p329
+tp330
+Rp331
+tp332
+a(S'list of cryengine games'
+p333
+g2
+(g6
+S'V+\x1f\xb5h\xfc\xdc?'
+p334
+tp335
+Rp336
+tp337
+a(S'jim allchin'
+p338
+g2
+(g6
+S'\x966\xa3"\xa8\xf6\xdc?'
+p339
+tp340
+Rp341
+tp342
+a(S'steve ballmer'
+p343
+g2
+(g6
+S'=H\xc9YM\xea\xdc?'
+p344
+tp345
+Rp346
+tp347
+a(S'gay and lesbian employees at microsoft'
+p348
+g2
+(g6
+S'\xe8\xd8#\x877\xd3\xdc?'
+p349
+tp350
+Rp351
+tp352
+a(S'microsoft vs. mikerowesoft'
+p353
+g2
+(g6
+S'\t\xfa:r;\xca\xdc?'
+p354
+tp355
+Rp356
+tp357
+a(S'steven sinofsky'
+p358
+g2
+(g6
+S'I\xe1\x13\x01\xd9\xbf\xdc?'
+p359
+tp360
+Rp361
+tp362
+a(S'microsoft corp. v. zamos'
+p363
+g2
+(g6
+S'\x03\x1d\x98\xcb\xeb\xb9\xdc?'
+p364
+tp365
+Rp366
+tp367
+a(S'microsoft at work'
+p368
+g2
+(g6
+S'"3j\xb4^\xa6\xdc?'
+p369
+tp370
+Rp371
+tp372
+a(S'microsoft account'
+p373
+g2
+(g6
+S'\x9a\xb1M\xbe\xb7\x96\xdc?'
+p374
+tp375
+Rp376
+tp377
+a(S'bill hilf'
+p378
+g2
+(g6
+S'_\x85\xef\x95Q\x8f\xdc?'
+p379
+tp380
+Rp381
+tp382
+a(S'microsoft press'
+p383
+g2
+(g6
+S'0\x07^\xa8S\x80\xdc?'
+p384
+tp385
+Rp386
+tp387
+a(S'dean hachamovitch'
+p388
+g2
+(g6
+S'\xfb\x90\x0b\x8d\x8em\xdc?'
+p389
+tp390
+Rp391
+tp392
+a(S'microsoft algeria'
+p393
+g2
+(g6
+S'S\xb1V\xb6\xccj\xdc?'
+p394
+tp395
+Rp396
+tp397
+a(S'akella'
+p398
+g2
+(g6
+S'\x96K\t\xf5Na\xdc?'
+p399
+tp400
+Rp401
+tp402
+a(S'microsoft java virtual machine'
+p403
+g2
+(g6
+S'\xf20Oiz=\xdc?'
+p404
+tp405
+Rp406
+tp407
+a(S'microsoft dynamics'
+p408
+g2
+(g6
+S"'\x8c\x98\xed\x8d4\xdc?"
+p409
+tp410
+Rp411
+tp412
+a(S'microsoft visio'
+p413
+g2
+(g6
+S'\xea\xcb+\x0f\x1d0\xdc?'
+p414
+tp415
+Rp416
+tp417
+a(S'joel dehlin'
+p418
+g2
+(g6
+S'\x19&\t&\xc3\x12\xdc?'
+p419
+tp420
+Rp421
+tp422
+a(S'microsoft services asia'
+p423
+g2
+(g6
+S'SDE\xe42\x05\xdc?'
+p424
+tp425
+Rp426
+tp427
+a(S'charles petzold'
+p428
+g2
+(g6
+S'\x15,>\x02\x86\xf2\xdb?'
+p429
+tp430
+Rp431
+tp432
+a(S'scott guthrie'
+p433
+g2
+(g6
+S'\x02\xeec\xfdv\xe8\xdb?'
+p434
+tp435
+Rp436
+tp437
+a(S'jeannette wing'
+p438
+g2
+(g6
+S'\xed\xce\xf5b\xa7\xe1\xdb?'
+p439
+tp440
+Rp441
+tp442
+a(S'winops'
+p443
+g2
+(g6
+S'\xf9\xee\xefw\xa1\xd1\xdb?'
+p444
+tp445
+Rp446
+tp447
+a(S'microsoft technet'
+p448
+g2
+(g6
+S'\xd6w\x80\xea\xde\xc5\xdb?'
+p449
+tp450
+Rp451
+tp452
+a(S'microsoft flexgo'
+p453
+g2
+(g6
+S'\xfd\x83\xa5\x12M\xba\xdb?'
+p454
+tp455
+Rp456
+tp457
+a(S'microsoft software assurance'
+p458
+g2
+(g6
+S'hZ\x1b\xe8\xb4w\xdb?'
+p459
+tp460
+Rp461
+tp462
+a(S'halloween documents'
+p463
+g2
+(g6
+S'\xd0}\xdaqDp\xdb?'
+p464
+tp465
+Rp466
+tp467
+a(S'mapilab'
+p468
+g2
+(g6
+S'(\xb2\xc1 \x9co\xdb?'
+p469
+tp470
+Rp471
+tp472
+a(S'trustworthy computing'
+p473
+g2
+(g6
+S'30\x13\x13{o\xdb?'
+p474
+tp475
+Rp476
+tp477
+a(S'microsoft band'
+p478
+g2
+(g6
+S'\x1c\xae~3\xa4l\xdb?'
+p479
+tp480
+Rp481
+tp482
+a(S'list of fictional microsoft companies'
+p483
+g2
+(g6
+S'\xb44\xa0\xf6\x15H\xdb?'
+p484
+tp485
+Rp486
+tp487
+a(S'mosha pasumansky'
+p488
+g2
+(g6
+S'^\xe6\xc9\x14\xc7=\xdb?'
+p489
+tp490
+Rp491
+tp492
+a(S'microsoft help 2'
+p493
+g2
+(g6
+S'v_P}\x1e8\xdb?'
+p494
+tp495
+Rp496
+tp497
+a(S'microsoft student partners'
+p498
+g2
+(g6
+S'\xae2\x02\xd8\x0f6\xdb?'
+p499
+tp500
+Rp501
+tp502
+a(S'jim hugunin'
+p503
+g2
+(g6
+S'\x94]\xc2P\xda1\xdb?'
+p504
+tp505
+Rp506
+tp507
+a(S'tandy trower'
+p508
+g2
+(g6
+S'\r\x01\xca\x02\x8f$\xdb?'
+p509
+tp510
+Rp511
+tp512
+a(S'jim kajiya'
+p513
+g2
+(g6
+S'\xb9\xea\xe9\x03|\x1d\xdb?'
+p514
+tp515
+Rp516
+tp517
+a(S'microsoft corp. v. harmony computers & electronics, inc.'
+p518
+g2
+(g6
+S'\xedBO\x9f\xe4\x08\xdb?'
+p519
+tp520
+Rp521
+tp522
+a(S'satya nadella'
+p523
+g2
+(g6
+S'\x19p\xec\xf5\xeb\x06\xdb?'
+p524
+tp525
+Rp526
+tp527
+a(S'dahlia malkhi'
+p528
+g2
+(g6
+S'\xb26\x80\x91\x07\x03\xdb?'
+p529
+tp530
+Rp531
+tp532
+a(S'microsoft acquisition hoax'
+p533
+g2
+(g6
+S'Hy\x1e\x84\xd9\x02\xdb?'
+p534
+tp535
+Rp536
+tp537
+a(S'microsoft help viewer'
+p538
+g2
+(g6
+S'M\x118a\xab\xfa\xda?'
+p539
+tp540
+Rp541
+tp542
+a(S'next-generation secure computing base'
+p543
+g2
+(g6
+S'P\xb4\xfba9\xf2\xda?'
+p544
+tp545
+Rp546
+tp547
+a(S'mary jo foley'
+p548
+g2
+(g6
+S'\xa9\xe9\xed;\x0f\xee\xda?'
+p549
+tp550
+Rp551
+tp552
+a(S'msra'
+p553
+g2
+(g6
+S'.\x16\xdb\x8d\xe5\xe2\xda?'
+p554
+tp555
+Rp556
+tp557
+a(S'curt kolcun'
+p558
+g2
+(g6
+S'\x8b\xec\x19\x8cS\xdf\xda?'
+p559
+tp560
+Rp561
+tp562
+a(S'microsoft forecaster'
+p563
+g2
+(g6
+S'\xa4\xc4\xdf\xfd\xe9\xda\xda?'
+p564
+tp565
+Rp566
+tp567
+a(S'microsoft pubcenter'
+p568
+g2
+(g6
+S'\x0e\x0f\x14\x16G\xb8\xda?'
+p569
+tp570
+Rp571
+tp572
+a(S'microsoft garage'
+p573
+g2
+(g6
+S'\x9d1\xd7`\xe8\xb3\xda?'
+p574
+tp575
+Rp576
+tp577
+a(S'consolas'
+p578
+g2
+(g6
+S'\x88s\xcf\xe2\xe1\xb1\xda?'
+p579
+tp580
+Rp581
+tp582
+a(S'research'
+p583
+g2
+(g6
+S'+\x81_\x1cD\xad\xda?'
+p584
+tp585
+Rp586
+tp587
+a(S'technology education and literacy in schools'
+p588
+g2
+(g6
+S'\xab\x91C%\x8a\x9b\xda?'
+p589
+tp590
+Rp591
+tp592
+a(S'srini koppolu'
+p593
+g2
+(g6
+S'\xd3r\x9e\xf8S\x93\xda?'
+p594
+tp595
+Rp596
+tp597
+a(S'microsoft liquid motion'
+p598
+g2
+(g6
+S'e\tGG\x0b\x90\xda?'
+p599
+tp600
+Rp601
+tp602
+a(S'microsoft money'
+p603
+g2
+(g6
+S'\xabo\x9f\x95k\x8d\xda?'
+p604
+tp605
+Rp606
+tp607
+a(S'microsoft japan'
+p608
+g2
+(g6
+S'\x96\x99\xe0sMe\xda?'
+p609
+tp610
+Rp611
+tp612
+a(S'office assistant'
+p613
+g2
+(g6
+S'I\x06\xa1J4W\xda?'
+p614
+tp615
+Rp616
+tp617
+a(S'microsoft sharedview'
+p618
+g2
+(g6
+S'`\xf0\xba\xb4\x89S\xda?'
+p619
+tp620
+Rp621
+tp622
+a(S'microsoft research image composite editor'
+p623
+g2
+(g6
+S'\xc6\x94\xee\xee\xb5R\xda?'
+p624
+tp625
+Rp626
+tp627
+a(S'microsoft live labs'
+p628
+g2
+(g6
+S'\xf8\xd7\xde^oJ\xda?'
+p629
+tp630
+Rp631
+tp632
+a(S's. somasegar'
+p633
+g2
+(g6
+S'(\x0e\xb3\x8d\x1eC\xda?'
+p634
+tp635
+Rp636
+tp637
+a(S'microsoft worldwide partner conference'
+p638
+g2
+(g6
+S'\xc5"5\xbd\x97=\xda?'
+p639
+tp640
+Rp641
+tp642
+a(S'mel sampat'
+p643
+g2
+(g6
+S'\x9f,\x06\x88%<\xda?'
+p644
+tp645
+Rp646
+tp647
+a(S'microsoft student'
+p648
+g2
+(g6
+S'\x18<=\xf4\xf1;\xda?'
+p649
+tp650
+Rp651
+tp652
+a(S'european committee for interoperable systems'
+p653
+g2
+(g6
+S'\x95w\x86\t7"\xda?'
+p654
+tp655
+Rp656
+tp657
+a(S'microsoft hoax'
+p658
+g2
+(g6
+S'D\xc1\xdd\x95p!\xda?'
+p659
+tp660
+Rp661
+tp662
+a(S'agito (company)'
+p663
+g2
+(g6
+S'\x1a\xe1\x91/^\x05\xda?'
+p664
+tp665
+Rp666
+tp667
+a(S'sendo'
+p668
+g2
+(g6
+S'\x9e\x19D\xd6\x04\xe7\xd9?'
+p669
+tp670
+Rp671
+tp672
+a(S'2009 sidekick data loss'
+p673
+g2
+(g6
+S'\xac\x96\xc4\xf7l\xdb\xd9?'
+p674
+tp675
+Rp676
+tp677
+a(S'thomas penfield jackson'
+p678
+g2
+(g6
+S'<ZQ&c\xd3\xd9?'
+p679
+tp680
+Rp681
+tp682
+a(S'microsoft voice command'
+p683
+g2
+(g6
+S'\xa6\xe6\x1d\x99\xf9\xc5\xd9?'
+p684
+tp685
+Rp686
+tp687
+a(S'phil spencer (business executive)'
+p688
+g2
+(g6
+S'8ax\xa6t\xbc\xd9?'
+p689
+tp690
+Rp691
+tp692
+a(S'microsoft office 95'
+p693
+g2
+(g6
+S'A\xbd|\xaf\n\xb2\xd9?'
+p694
+tp695
+Rp696
+tp697
+a(S'consumers software'
+p698
+g2
+(g6
+S'\x00H\x88\x9f\xfc\xb1\xd9?'
+p699
+tp700
+Rp701
+tp702
+a(S'capicom'
+p703
+g2
+(g6
+S'\x084\x01>~\x9c\xd9?'
+p704
+tp705
+Rp706
+tp707
+a(S'list of xbox games on windows phone'
+p708
+g2
+(g6
+S'\x97\xba@\xcfC\x99\xd9?'
+p709
+tp710
+Rp711
+tp712
+a(S'susan dumais'
+p713
+g2
+(g6
+S'\xb6\xa5\xb2\x9fY\x97\xd9?'
+p714
+tp715
+Rp716
+tp717
+a(S'microsoft project'
+p718
+g2
+(g6
+S'_\xfe(\n\xef\x8e\xd9?'
+p719
+tp720
+Rp721
+tp722
+a(S'microsoft theater'
+p723
+g2
+(g6
+S'cXh\xcd\xa9\x89\xd9?'
+p724
+tp725
+Rp726
+tp727
+a(S'sherweb'
+p728
+g2
+(g6
+S'\xfbc\xd21o\x85\xd9?'
+p729
+tp730
+Rp731
+tp732
+a(S'terry myerson'
+p733
+g2
+(g6
+S'3\x89\xfcr\xcbz\xd9?'
+p734
+tp735
+Rp736
+tp737
+a(S'cosbi'
+p738
+g2
+(g6
+S'T[\x1f\xabgi\xd9?'
+p739
+tp740
+Rp741
+tp742
+a(S'xdocs'
+p743
+g2
+(g6
+S"\xdf'\xd1\x93\xe6h\xd9?"
+p744
+tp745
+Rp746
+tp747
+a(S'educational research'
+p748
+g2
+(g6
+S'X\xc1\xb3\x04\xd1h\xd9?'
+p749
+tp750
+Rp751
+tp752
+a(S'bill neukom'
+p753
+g2
+(g6
+S'u\xb1]\t\xd9[\xd9?'
+p754
+tp755
+Rp756
+tp757
+a(S'quickview'
+p758
+g2
+(g6
+S'`\xfe \xeb\xd1Y\xd9?'
+p759
+tp760
+Rp761
+tp762
+a(S'jean-philippe courtois'
+p763
+g2
+(g6
+S'\x00)y<\x8bQ\xd9?'
+p764
+tp765
+Rp766
+tp767
+a(S'fyifv'
+p768
+g2
+(g6
+S'\xa0V \xe8[>\xd9?'
+p769
+tp770
+Rp771
+tp772
+a(S'microsoft dynamics sl'
+p773
+g2
+(g6
+S'\xa2\xe4\x85\xf2\xb8;\xd9?'
+p774
+tp775
+Rp776
+tp777
+a(S'z-80 softcard'
+p778
+g2
+(g6
+S'\xfd\x10\x113\xa55\xd9?'
+p779
+tp780
+Rp781
+tp782
+a(S'microsoft dynamics erp'
+p783
+g2
+(g6
+S'\xe7\xfb\x93y\x93,\xd9?'
+p784
+tp785
+Rp786
+tp787
+a(S'office genuine advantage'
+p788
+g2
+(g6
+S'"\xa8\xf2\xff\x9f)\xd9?'
+p789
+tp790
+Rp791
+tp792
+a(S'microsoft knowledge base'
+p793
+g2
+(g6
+S'\xb7\xado\x99W)\xd9?'
+p794
+tp795
+Rp796
+tp797
+a(S'windows nashville'
+p798
+g2
+(g6
+S'\xef\xbc8\x19m#\xd9?'
+p799
+tp800
+Rp801
+tp802
+a(S'steven mcgeady'
+p803
+g2
+(g6
+S'R\x11\xaf\x0bK\x1e\xd9?'
+p804
+tp805
+Rp806
+tp807
+a(S'microsoft text-to-speech voices'
+p808
+g2
+(g6
+S'\xf8\xac\xaf\xcd\xde\x1c\xd9?'
+p809
+tp810
+Rp811
+tp812
+a(S'dan fernandez'
+p813
+g2
+(g6
+S'\x89\xa5\xdf z\x1c\xd9?'
+p814
+tp815
+Rp816
+tp817
+a(S"mind's eye productions"
+p818
+g2
+(g6
+S'|\xeaF\xb9y\x1c\xd9?'
+p819
+tp820
+Rp821
+tp822
+a(S'microsoft photodraw'
+p823
+g2
+(g6
+S'\xb7\xd5c\xa3%\x1c\xd9?'
+p824
+tp825
+Rp826
+tp827
+a(S'microsoft schedule plus'
+p828
+g2
+(g6
+S'\xfc\xb3\xb1U@\x19\xd9?'
+p829
+tp830
+Rp831
+tp832
+a(S'list of xbox 360 games compatible with xbox one'
+p833
+g2
+(g6
+S'@\xc23\x8eh\x16\xd9?'
+p834
+tp835
+Rp836
+tp837
+a(S'microsoft visual programming language'
+p838
+g2
+(g6
+S'\n\x8c\x11AX\x12\xd9?'
+p839
+tp840
+Rp841
+tp842
+a(S'system center data protection manager'
+p843
+g2
+(g6
+S'\xc6\xb5\xa3\x95j\x0e\xd9?'
+p844
+tp845
+Rp846
+tp847
+a(S'mindnet'
+p848
+g2
+(g6
+S'\t]\xe6\xa4\\\x07\xd9?'
+p849
+tp850
+Rp851
+tp852
+a(S'microsoft jhenghei'
+p853
+g2
+(g6
+S'}\x1e\x19L\x88\x04\xd9?'
+p854
+tp855
+Rp856
+tp857
+a(S'microsoft amalga'
+p858
+g2
+(g6
+S'\xaeU\xdcuJ\xff\xd8?'
+p859
+tp860
+Rp861
+tp862
+a(S'research statement'
+p863
+g2
+(g6
+S'E\xdc\xf2n\x8e\xfb\xd8?'
+p864
+tp865
+Rp866
+tp867
+a(S'shared source'
+p868
+g2
+(g6
+S'A]\xd4GT\xef\xd8?'
+p869
+tp870
+Rp871
+tp872
+a(S'microsoft mobile services'
+p873
+g2
+(g6
+S'\x1fE\xd0U\x1b\xeb\xd8?'
+p874
+tp875
+Rp876
+tp877
+a(S'list of vietnam war games'
+p878
+g2
+(g6
+S'U\xabR\xf5\x16\xe6\xd8?'
+p879
+tp880
+Rp881
+tp882
+a(S'microsoft office 98 macintosh edition'
+p883
+g2
+(g6
+S'0>|\x9b\xf8\xe5\xd8?'
+p884
+tp885
+Rp886
+tp887
+a(S'microsoft pascal'
+p888
+g2
+(g6
+S'\xe6]\x83\x9f\x1b\xe4\xd8?'
+p889
+tp890
+Rp891
+tp892
+a(S'list of games with directx 12 support'
+p893
+g2
+(g6
+S'\xc5\xdca=\x05\xe4\xd8?'
+p894
+tp895
+Rp896
+tp897
+a(S'cairo (operating system)'
+p898
+g2
+(g6
+S'\xeb\xe9|\xd3\xd6\xe2\xd8?'
+p899
+tp900
+Rp901
+tp902
+a(S'rob s. miles'
+p903
+g2
+(g6
+S'\x8f\xa5\xe4i;\xd7\xd8?'
+p904
+tp905
+Rp906
+tp907
+a(S'microsoft freecell'
+p908
+g2
+(g6
+S'o\x9a3N\xe9\xd5\xd8?'
+p909
+tp910
+Rp911
+tp912
+a(S'pete higgins (businessman)'
+p913
+g2
+(g6
+S'\x17\xda\x11\xcf\xba\xc7\xd8?'
+p914
+tp915
+Rp916
+tp917
+a(S'microsoft venus'
+p918
+g2
+(g6
+S'\x8bb\xc1R2\xc2\xd8?'
+p919
+tp920
+Rp921
+tp922
+a(S'microsoft yahei'
+p923
+g2
+(g6
+S'\xc0i\tI\xe6\xb8\xd8?'
+p924
+tp925
+Rp926
+tp927
+a(S"ponosov's case"
+p928
+g2
+(g6
+S'\xe9\xe0\x10\xef\xe2\xb4\xd8?'
+p929
+tp930
+Rp931
+tp932
+a(S'mary czerwinski'
+p933
+g2
+(g6
+S'2\x83\xd5\x17!\xa9\xd8?'
+p934
+tp935
+Rp936
+tp937
+a(S'microsoft p-code'
+p938
+g2
+(g6
+S'\x02\xb1bd\xa6\xa6\xd8?'
+p939
+tp940
+Rp941
+tp942
+a(S'jan m\xc3\xbchlfeit'
+p943
+g2
+(g6
+S'.\x13\xb2n\xec\xa0\xd8?'
+p944
+tp945
+Rp946
+tp947
+a(S'andrew blake (scientist)'
+p948
+g2
+(g6
+S'p\xc5J\xc5\xec\x9a\xd8?'
+p949
+tp950
+Rp951
+tp952
+a(S'research fellow'
+p953
+g2
+(g6
+S'.\xdb:\xbc\xaa\x98\xd8?'
+p954
+tp955
+Rp956
+tp957
+a(S'microsoft pinpoint'
+p958
+g2
+(g6
+S':\x87F\xfcn\x94\xd8?'
+p959
+tp960
+Rp961
+tp962
+a(S'focus home interactive'
+p963
+g2
+(g6
+S'\xde\xc1.\x18\xa5\x92\xd8?'
+p964
+tp965
+Rp966
+tp967
+a(S'microsoft corporation v. united states of america'
+p968
+g2
+(g6
+S'\x89 4F\xe0\x8c\xd8?'
+p969
+tp970
+Rp971
+tp972
+a(S'microsoft translator'
+p973
+g2
+(g6
+S'\xe4;\x0e\xeb\x7f\x89\xd8?'
+p974
+tp975
+Rp976
+tp977
+a(S'microsoft research maps'
+p978
+g2
+(g6
+S',\x82\xbb\x13+\x89\xd8?'
+p979
+tp980
+Rp981
+tp982
+a(S'tommo inc.'
+p983
+g2
+(g6
+S'+\x04\xe1\x02.z\xd8?'
+p984
+tp985
+Rp986
+tp987
+a(S'microsoft backoffice server'
+p988
+g2
+(g6
+S'\xa2\x00\x95\xa4\x0fu\xd8?'
+p989
+tp990
+Rp991
+tp992
+a(S'microsoft certified professional'
+p993
+g2
+(g6
+S'o\xd54\xd4\xe6l\xd8?'
+p994
+tp995
+Rp996
+tp997
+a(S'acsi college-iloilo'
+p998
+g2
+(g6
+S'4\x90\n\xc4d`\xd8?'
+p999
+tp1000
+Rp1001
+tp1002
+a(S'eric traut'
+p1003
+g2
+(g6
+S'\x18(\x19"Q]\xd8?'
+p1004
+tp1005
+Rp1006
+tp1007
+a(S'list of xbox play anywhere games'
+p1008
+g2
+(g6
+S'\xc1\xcfa\x91\xa2R\xd8?'
+p1009
+tp1010
+Rp1011
+tp1012
+a(S'microsoft flight'
+p1013
+g2
+(g6
+S'\x1e\t\xa1u6>\xd8?'
+p1014
+tp1015
+Rp1016
+tp1017
+a(S'microsoft redmond campus'
+p1018
+g2
+(g6
+S'K\xf8\xd9M\x169\xd8?'
+p1019
+tp1020
+Rp1021
+tp1022
+a(S'microsoft dynamics ax'
+p1023
+g2
+(g6
+S'\xb9\xeeN\x9bL.\xd8?'
+p1024
+tp1025
+Rp1026
+tp1027
+a(S'microsoft gif animator'
+p1028
+g2
+(g6
+S'\x81\xb9^\x18\xcb,\xd8?'
+p1029
+tp1030
+Rp1031
+tp1032
+a(S'simula research laboratory'
+p1033
+g2
+(g6
+S'\x9a\xc0\x84\xb1\xbf+\xd8?'
+p1034
+tp1035
+Rp1036
+tp1037
+a(S'microsoft points'
+p1038
+g2
+(g6
+S'\x89$\xd9\xdba\x17\xd8?'
+p1039
+tp1040
+Rp1041
+tp1042
+a(S'stephen emmott'
+p1043
+g2
+(g6
+S'r\xbd\xed\x15\xd5\t\xd8?'
+p1044
+tp1045
+Rp1046
+tp1047
+a(S'criticism of microsoft windows'
+p1048
+g2
+(g6
+S'e8\xa3n\xdb\xf6\xd7?'
+p1049
+tp1050
+Rp1051
+tp1052
+a(S'neil konzen'
+p1053
+g2
+(g6
+S'q7\x1a^\xe1\xeb\xd7?'
+p1054
+tp1055
+Rp1056
+tp1057
+a(S'zhang hongjiang'
+p1058
+g2
+(g6
+S'\xbdB]\xc9S\xe8\xd7?'
+p1059
+tp1060
+Rp1061
+tp1062
+a(S'visio corporation'
+p1063
+g2
+(g6
+S'L{w=\xc9\xe6\xd7?'
+p1064
+tp1065
+Rp1066
+tp1067
+a(S'research center'
+p1068
+g2
+(g6
+S'h\xdf\xa6\xeeL\xe2\xd7?'
+p1069
+tp1070
+Rp1071
+tp1072
+a(S'microsoft tv'
+p1073
+g2
+(g6
+S'\x9e\xd6\xd6\xf6\xa9\xe1\xd7?'
+p1074
+tp1075
+Rp1076
+tp1077
+a(S'microsoft dynamics c5'
+p1078
+g2
+(g6
+S'\xebTK\xe4\xdd\xd8\xd7?'
+p1079
+tp1080
+Rp1081
+tp1082
+a(S'kolling institute of medical research'
+p1083
+g2
+(g6
+S'm\xfbu"/\xd1\xd7?'
+p1084
+tp1085
+Rp1086
+tp1087
+a(S'microsoft streets & trips'
+p1088
+g2
+(g6
+S'\xc1\x9e\xce\xf8\xc6\xc1\xd7?'
+p1089
+tp1090
+Rp1091
+tp1092
+a(S'microsoft identity integration server'
+p1093
+g2
+(g6
+S'\xcb|\x00\xfaT\xbd\xd7?'
+p1094
+tp1095
+Rp1096
+tp1097
+a(S'windows pioneers'
+p1098
+g2
+(g6
+S'\x08\xe4\x05L,\xbd\xd7?'
+p1099
+tp1100
+Rp1101
+tp1102
+a(S'microsoft office accounting'
+p1103
+g2
+(g6
+S'>\x1af+\xab\xb7\xd7?'
+p1104
+tp1105
+Rp1106
+tp1107
+a(S'office 365'
+p1108
+g2
+(g6
+S'\x00\x0f.\x90\x13\xb1\xd7?'
+p1109
+tp1110
+Rp1111
+tp1112
+a(S'iso 20252'
+p1113
+g2
+(g6
+S'\x9a;l\xa0\xe5\xad\xd7?'
+p1114
+tp1115
+Rp1116
+tp1117
+a(S'department of scientific and industrial research (united kingdom)'
+p1118
+g2
+(g6
+S'\xf4\xec\x10\n\xda\xaa\xd7?'
+p1119
+tp1120
+Rp1121
+tp1122
+a(S'peter lee (computer scientist)'
+p1123
+g2
+(g6
+S'K \x0b"\x0f\xa8\xd7?'
+p1124
+tp1125
+Rp1126
+tp1127
+a(S'paul maritz'
+p1128
+g2
+(g6
+S'!\xb2S\x0cJ\x9d\xd7?'
+p1129
+tp1130
+Rp1131
+tp1132
+a(S'hohm'
+p1133
+g2
+(g6
+S'\x02\xb66\x0f\\\x95\xd7?'
+p1134
+tp1135
+Rp1136
+tp1137
+a(S'viodentia'
+p1138
+g2
+(g6
+S'\xadC\xd1m\xd0\x8f\xd7?'
+p1139
+tp1140
+Rp1141
+tp1142
+a(S'microsoft mail'
+p1143
+g2
+(g6
+S'\xd4\xb0\xfdJw\x8f\xd7?'
+p1144
+tp1145
+Rp1146
+tp1147
+a(S'contoso'
+p1148
+g2
+(g6
+S'\xfd\xec\xd3\xde\x05\x80\xd7?'
+p1149
+tp1150
+Rp1151
+tp1152
+a(S'hikaru aizawa'
+p1153
+g2
+(g6
+S'\x01z9\x9e\x80{\xd7?'
+p1154
+tp1155
+Rp1156
+tp1157
+a(S'julie larson-green'
+p1158
+g2
+(g6
+S'M\xfa\x98\xeb\xe8t\xd7?'
+p1159
+tp1160
+Rp1161
+tp1162
+a(S'microsoft store'
+p1163
+g2
+(g6
+S'\x02\xa3\xf7,Yj\xd7?'
+p1164
+tp1165
+Rp1166
+tp1167
+a(S'john langford (computer scientist)'
+p1168
+g2
+(g6
+S'f\xfaC\xab|_\xd7?'
+p1169
+tp1170
+Rp1171
+tp1172
+a(S'pivot chart'
+p1173
+g2
+(g6
+S'\xf5\xe2\x06u\x98\\\xd7?'
+p1174
+tp1175
+Rp1176
+tp1177
+a(S'microshaft winblows 98'
+p1178
+g2
+(g6
+S'z\rT\xa1bV\xd7?'
+p1179
+tp1180
+Rp1181
+tp1182
+a(S'microsoft works'
+p1183
+g2
+(g6
+S'\xe1\x1fc\xe2\xbdR\xd7?'
+p1184
+tp1185
+Rp1186
+tp1187
+a(S'bluehat'
+p1188
+g2
+(g6
+S'\x95\xe3\xd2b\x8fN\xd7?'
+p1189
+tp1190
+Rp1191
+tp1192
+a(S'science policy'
+p1193
+g2
+(g6
+S'S@\x9b\xa0\rK\xd7?'
+p1194
+tp1195
+Rp1196
+tp1197
+a(S'microsoft learning gateway'
+p1198
+g2
+(g6
+S'P\xcf~\x18\xd05\xd7?'
+p1199
+tp1200
+Rp1201
+tp1202
+a(S'certified for microsoft dynamics'
+p1203
+g2
+(g6
+S'\xcec\xab\x92\x9d&\xd7?'
+p1204
+tp1205
+Rp1206
+tp1207
+a(S'instaload'
+p1208
+g2
+(g6
+S'\xaa\xbes\xac!\x16\xd7?'
+p1209
+tp1210
+Rp1211
+tp1212
+a(S'avie tevanian'
+p1213
+g2
+(g6
+S"\xad#\xc09'\x13\xd7?"
+p1214
+tp1215
+Rp1216
+tp1217
+a(S'research councils uk'
+p1218
+g2
+(g6
+S'\xce\xa5\xc2H\x97\t\xd7?'
+p1219
+tp1220
+Rp1221
+tp1222
+a(S'microsoft band 2'
+p1223
+g2
+(g6
+S'\x92\xfayB<\xfb\xd6?'
+p1224
+tp1225
+Rp1226
+tp1227
+a(S'office 2004 for mac'
+p1228
+g2
+(g6
+S'\x12\x1c\x07\x8d"\xf6\xd6?'
+p1229
+tp1230
+Rp1231
+tp1232
+a(S'andrew d. gordon'
+p1233
+g2
+(g6
+S'6v\xb9\xc0m\xf3\xd6?'
+p1234
+tp1235
+Rp1236
+tp1237
+a(S'microsoft award'
+p1238
+g2
+(g6
+S'\xb1!X\xc7\xba\xef\xd6?'
+p1239
+tp1240
+Rp1241
+tp1242
+a(S'kai-fu lee'
+p1243
+g2
+(g6
+S'\x02\xc5\x19\x05\xc5\xed\xd6?'
+p1244
+tp1245
+Rp1246
+tp1247
+a(S'discipline-based education research'
+p1248
+g2
+(g6
+S'\xb8\xc3\xc6fC\xea\xd6?'
+p1249
+tp1250
+Rp1251
+tp1252
+a(S'tafiti'
+p1253
+g2
+(g6
+S'\xac\xd4\x1f\x9c\xe4\xe9\xd6?'
+p1254
+tp1255
+Rp1256
+tp1257
+a(S'microsoft bob'
+p1258
+g2
+(g6
+S'\xa1\x03\xc4b%\xe6\xd6?'
+p1259
+tp1260
+Rp1261
+tp1262
+a(S'cortana (software)'
+p1263
+g2
+(g6
+S'3&\xb6\xcf\x0b\xd8\xd6?'
+p1264
+tp1265
+Rp1266
+tp1267
+a(S'g7 research group'
+p1268
+g2
+(g6
+S'\xc6\xddQ\xba\xfa\xd2\xd6?'
+p1269
+tp1270
+Rp1271
+tp1272
+a(S'avanade'
+p1273
+g2
+(g6
+S'\x12@;\x02\x9a\xd2\xd6?'
+p1274
+tp1275
+Rp1276
+tp1277
+a(S'microsoft lumia 535'
+p1278
+g2
+(g6
+S'\xe5\xf0\xb2+\xbf\xd0\xd6?'
+p1279
+tp1280
+Rp1281
+tp1282
+a(S'password change notification service'
+p1283
+g2
+(g6
+S'\x8b\x9c\xfd\xbf\x7f\xca\xd6?'
+p1284
+tp1285
+Rp1286
+tp1287
+a(S'microsoft visual sourcesafe'
+p1288
+g2
+(g6
+S'O\x91\x1e\x95\xd1\xc7\xd6?'
+p1289
+tp1290
+Rp1291
+tp1292
+a(S'microsoft desktop optimization pack'
+p1293
+g2
+(g6
+S'\xd0z\xe6\x12+\xc0\xd6?'
+p1294
+tp1295
+Rp1296
+tp1297
+a(S'microsoft security essentials'
+p1298
+g2
+(g6
+S'HWy\x81\x92\xbe\xd6?'
+p1299
+tp1300
+Rp1301
+tp1302
+a(S'milner award'
+p1303
+g2
+(g6
+S'\x9f\xc8\n\xf8\xe2\xbd\xd6?'
+p1304
+tp1305
+Rp1306
+tp1307
+a(S'msde'
+p1308
+g2
+(g6
+S'\x9dI0\xa1\xec\xba\xd6?'
+p1309
+tp1310
+Rp1311
+tp1312
+a(S'primary research'
+p1313
+g2
+(g6
+S'4\x86I\xcfX\xb6\xd6?'
+p1314
+tp1315
+Rp1316
+tp1317
+a(S'secondary research'
+p1318
+g2
+(g6
+S':-\x99X\xc9\xb3\xd6?'
+p1319
+tp1320
+Rp1321
+tp1322
+a(S'tinybuild games'
+p1323
+g2
+(g6
+S'\xd1\xb6\xd5\x00\xe3\xab\xd6?'
+p1324
+tp1325
+Rp1326
+tp1327
+a(S'acsi college'
+p1328
+g2
+(g6
+S'\x87\xe6\xd0\xad\xef\xaa\xd6?'
+p1329
+tp1330
+Rp1331
+tp1332
+a(S'microsoft tape format'
+p1333
+g2
+(g6
+S'R\x8e\x19 \xc1\xa2\xd6?'
+p1334
+tp1335
+Rp1336
+tp1337
+a(S'research institute'
+p1338
+g2
+(g6
+S'g\x98\xf9J0\xa1\xd6?'
+p1339
+tp1340
+Rp1341
+tp1342
+a(S'msxml'
+p1343
+g2
+(g6
+S'7Y\xcej=\x9f\xd6?'
+p1344
+tp1345
+Rp1346
+tp1347
+a(S'microsoft visual c sharp'
+p1348
+g2
+(g6
+S'K\xd9x\xb9i\x9c\xd6?'
+p1349
+tp1350
+Rp1351
+tp1352
+a(S'visual basic for applications'
+p1353
+g2
+(g6
+S'\x10\xe0\xf7\x1e \x95\xd6?'
+p1354
+tp1355
+Rp1356
+tp1357
+a(S'pcsafety'
+p1358
+g2
+(g6
+S'0`\xd7Dv\x94\xd6?'
+p1359
+tp1360
+Rp1361
+tp1362
+a(S'red river valley research corridor'
+p1363
+g2
+(g6
+S'\x90bcz\xdf\x91\xd6?'
+p1364
+tp1365
+Rp1366
+tp1367
+a(S'chungnam national university'
+p1368
+g2
+(g6
+S' X\xe5\x9d\x1a\x8a\xd6?'
+p1369
+tp1370
+Rp1371
+tp1372
+a(S'aaron bobick'
+p1373
+g2
+(g6
+S'*n\xce\x15@\x88\xd6?'
+p1374
+tp1375
+Rp1376
+tp1377
+a(S'microsoft enterprise agreement'
+p1378
+g2
+(g6
+S'[\xbe\xd6\x9c\xa4~\xd6?'
+p1379
+tp1380
+Rp1381
+tp1382
+a(S'funding of science'
+p1383
+g2
+(g6
+S'>\xa4&\xe8?|\xd6?'
+p1384
+tp1385
+Rp1386
+tp1387
+a(S'gary william flake'
+p1388
+g2
+(g6
+S'\x8f}\x0cs\xea{\xd6?'
+p1389
+tp1390
+Rp1391
+tp1392
+a(S'cynthia dwork'
+p1393
+g2
+(g6
+S'\x05\xaa\xb2d\xfet\xd6?'
+p1394
+tp1395
+Rp1396
+tp1397
+a(S'microsoft office 2010'
+p1398
+g2
+(g6
+S'"\xd1\xfc\xa1ck\xd6?'
+p1399
+tp1400
+Rp1401
+tp1402
+a(S'nepal emission'
+p1403
+g2
+(g6
+S'6\xcf\xa6\x04\xbae\xd6?'
+p1404
+tp1405
+Rp1406
+tp1407
+a(S'list of zune applications'
+p1408
+g2
+(g6
+S'I\x93\x1fZZ`\xd6?'
+p1409
+tp1410
+Rp1411
+tp1412
+a(S'danger inc.'
+p1413
+g2
+(g6
+S'\xb6t-\x0f\x02`\xd6?'
+p1414
+tp1415
+Rp1416
+tp1417
+a(S'the coalition (company)'
+p1418
+g2
+(g6
+S'\xde@\xa3Z4U\xd6?'
+p1419
+tp1420
+Rp1421
+tp1422
+a(S'list of easter eggs in microsoft products'
+p1423
+g2
+(g6
+S'\xcb\x88*4\xe7T\xd6?'
+p1424
+tp1425
+Rp1426
+tp1427
+a(S'microsoft most valuable professional'
+p1428
+g2
+(g6
+S'\x02\xeeN\x8c\x99T\xd6?'
+p1429
+tp1430
+Rp1431
+tp1432
+a(S'azaleos'
+p1433
+g2
+(g6
+S'\xdd\xa3|[oS\xd6?'
+p1434
+tp1435
+Rp1436
+tp1437
+a(S'visual interdev'
+p1438
+g2
+(g6
+S'v\x08\x9eLTD\xd6?'
+p1439
+tp1440
+Rp1441
+tp1442
+a(S'chromeffects'
+p1443
+g2
+(g6
+S'H\xae\x7f\xa9\xf9;\xd6?'
+p1444
+tp1445
+Rp1446
+tp1447
+a(S'list of members of the national academy of engineering (computer science)'
+p1448
+g2
+(g6
+S'\x15\nX\xec\xc05\xd6?'
+p1449
+tp1450
+Rp1451
+tp1452
+a(S'nitol botnet'
+p1453
+g2
+(g6
+S'\x07\x8cu\xb4\xf73\xd6?'
+p1454
+tp1455
+Rp1456
+tp1457
+a(S'microsoft office 2013'
+p1458
+g2
+(g6
+S'\x11\xc8\x08C\xda2\xd6?'
+p1459
+tp1460
+Rp1461
+tp1462
+a(S'supercomputer education research centre'
+p1463
+g2
+(g6
+S'\xdeT\x7f\x9c\xe20\xd6?'
+p1464
+tp1465
+Rp1466
+tp1467
+a(S'visual j++'
+p1468
+g2
+(g6
+S'7\xf0\x0c\x8ep/\xd6?'
+p1469
+tp1470
+Rp1471
+tp1472
+a(S'bgc3'
+p1473
+g2
+(g6
+S'{\xc1I\xbd\xcf-\xd6?'
+p1474
+tp1475
+Rp1476
+tp1477
+a(S'high capacity color barcode'
+p1478
+g2
+(g6
+S'\x92\xb8\x85\x03\t(\xd6?'
+p1479
+tp1480
+Rp1481
+tp1482
+a(S'surface hub'
+p1483
+g2
+(g6
+S"a\x06\xcd\xea4'\xd6?"
+p1484
+tp1485
+Rp1486
+tp1487
+a(S'microsoft office live meeting'
+p1488
+g2
+(g6
+S'S\x83R\x1em"\xd6?'
+p1489
+tp1490
+Rp1491
+tp1492
+a(S'microsoft office 2001'
+p1493
+g2
+(g6
+S'i\x7fd\xc8~!\xd6?'
+p1494
+tp1495
+Rp1496
+tp1497
+a(S'microsoft content management server'
+p1498
+g2
+(g6
+S'\x12\x96V\xcc\xe7 \xd6?'
+p1499
+tp1500
+Rp1501
+tp1502
+a(S'microsoft update catalog'
+p1503
+g2
+(g6
+S'\xccTz\x94\xed\x1f\xd6?'
+p1504
+tp1505
+Rp1506
+tp1507
+a(S'rowland hanson'
+p1508
+g2
+(g6
+S'\x8dE\xa2\x17\x82\x1e\xd6?'
+p1509
+tp1510
+Rp1511
+tp1512
+a.

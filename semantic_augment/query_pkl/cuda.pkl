@@ -1,0 +1,2728 @@
+(lp0
+(S'cuda'
+p1
+cnumpy.core.multiarray
+scalar
+p2
+(cnumpy
+dtype
+p3
+(S'f8'
+p4
+I0
+I1
+tp5
+Rp6
+(I3
+S'<'
+p7
+NNNI-1
+I-1
+I0
+tp8
+bS'\xff\xff\xff\xff\xff\xff\xef?'
+p9
+tp10
+Rp11
+tp12
+a(S'geforce 200 series'
+p13
+g2
+(g6
+S'\xdc\xeb\x1d\xac\xe1\xcd\xe8?'
+p14
+tp15
+Rp16
+tp17
+a(S'geforce 500 series'
+p18
+g2
+(g6
+S'\x1cF\x8du\xfbS\xe7?'
+p19
+tp20
+Rp21
+tp22
+a(S'geforce'
+p23
+g2
+(g6
+S'\xc2\xf0\xab\xc0\xfe!\xe7?'
+p24
+tp25
+Rp26
+tp27
+a(S'geforce 300 series'
+p28
+g2
+(g6
+S'r\xb6d\x8eD\x8a\xe6?'
+p29
+tp30
+Rp31
+tp32
+a(S'geforce 600 series'
+p33
+g2
+(g6
+S'\x84\xe7\n\x9a\xd0\x85\xe6?'
+p34
+tp35
+Rp36
+tp37
+a(S'geforce 700 series'
+p38
+g2
+(g6
+S'&\x94\xe6\xa8\xfcW\xe6?'
+p39
+tp40
+Rp41
+tp42
+a(S'geforce 7 series'
+p43
+g2
+(g6
+S"T'^\x86iK\xe6?"
+p44
+tp45
+Rp46
+tp47
+a(S'geforce 900 series'
+p48
+g2
+(g6
+S'\x14x\x88\xcb"\x17\xe6?'
+p49
+tp50
+Rp51
+tp52
+a(S'geforce 400 series'
+p53
+g2
+(g6
+S'\xdd\xad\x18\x93\xbc\xe0\xe5?'
+p54
+tp55
+Rp56
+tp57
+a(S'geforce 800m series'
+p58
+g2
+(g6
+S'\x01\xa8\x88*\x9f}\xe5?'
+p59
+tp60
+Rp61
+tp62
+a(S'geforce 8 series'
+p63
+g2
+(g6
+S'\xec\xab\xe9\x1b\tU\xe5?'
+p64
+tp65
+Rp66
+tp67
+a(S'geforce 2 series'
+p68
+g2
+(g6
+S';\xa7+f`\xfa\xe4?'
+p69
+tp70
+Rp71
+tp72
+a(S'geforce 10 series'
+p73
+g2
+(g6
+S'\x90n\xbcy\xe7\xc1\xe4?'
+p74
+tp75
+Rp76
+tp77
+a(S'geforce 3 series'
+p78
+g2
+(g6
+S'\x0e\xebeR\xb5\xbd\xe4?'
+p79
+tp80
+Rp81
+tp82
+a(S'geforce 100 series'
+p83
+g2
+(g6
+S'\xb9\xedFBEE\xe4?'
+p84
+tp85
+Rp86
+tp87
+a(S'geforce now'
+p88
+g2
+(g6
+S'\xb1s&gb\xe4\xe2?'
+p89
+tp90
+Rp91
+tp92
+a(S'nvidia purevideo'
+p93
+g2
+(g6
+S'\xf5\x01Z\xea\xbf7\xe2?'
+p94
+tp95
+Rp96
+tp97
+a(S'geforce 256'
+p98
+g2
+(g6
+S'\xba\xdcPQ\xb7\x1d\xe2?'
+p99
+tp100
+Rp101
+tp102
+a(S'geforce 4 series'
+p103
+g2
+(g6
+S'\xfe\xbcY;\xd7\x16\xe2?'
+p104
+tp105
+Rp106
+tp107
+a(S'sparkle computer'
+p108
+g2
+(g6
+S'\xb6\x9d\xf9<l\x0b\xe2?'
+p109
+tp110
+Rp111
+tp112
+a(S'geforce fx series'
+p113
+g2
+(g6
+S'\x95<\xc8\xb6\xc5\xf8\xe1?'
+p114
+tp115
+Rp116
+tp117
+a(S'geforce 6 series'
+p118
+g2
+(g6
+S'\xa5\x80\xb7\xdb\x1c\xe9\xe1?'
+p119
+tp120
+Rp121
+tp122
+a(S'list of nvidia graphics processing units'
+p123
+g2
+(g6
+S'pGi&\x13d\xe1?'
+p124
+tp125
+Rp126
+tp127
+a(S'geforce 9 series'
+p128
+g2
+(g6
+S'\x86iK\xca3X\xe1?'
+p129
+tp130
+Rp131
+tp132
+a(S'nvidia g-sync'
+p133
+g2
+(g6
+S'd\x82\xcf\x97\x0c5\xe0?'
+p134
+tp135
+Rp136
+tp137
+a(S'intellisample'
+p138
+g2
+(g6
+S'\xfa\xae\xcae\x0c\xba\xdf?'
+p139
+tp140
+Rp141
+tp142
+a(S'maxwell (microarchitecture)'
+p143
+g2
+(g6
+S'\xe0n\xa5\xf2{\xa5\xdf?'
+p144
+tp145
+Rp146
+tp147
+a(S'tesla (microarchitecture)'
+p148
+g2
+(g6
+S'\xca\xa6\xe0j\\\x91\xdf?'
+p149
+tp150
+Rp151
+tp152
+a(S'nvidia quadro'
+p153
+g2
+(g6
+S'\x19|s\xa7\x851\xdf?'
+p154
+tp155
+Rp156
+tp157
+a(S'list of 24 cast members'
+p158
+g2
+(g6
+S'\xb8\xee\xc1o\x90\x88\xdd?'
+p159
+tp160
+Rp161
+tp162
+a(S'high-definition video processor'
+p163
+g2
+(g6
+S'y\x91\xa1\xcd*{\xdd?'
+p164
+tp165
+Rp166
+tp167
+a(S"list of grey's anatomy cast members"
+p168
+g2
+(g6
+S'\xdb\xc8\x0c\x17\xb0x\xdd?'
+p169
+tp170
+Rp171
+tp172
+a(S'list of lost cast members'
+p173
+g2
+(g6
+S'z\xc31\x8f\x13p\xdd?'
+p174
+tp175
+Rp176
+tp177
+a(S'list of el se\xc3\xb1or de los cielos cast members'
+p178
+g2
+(g6
+S'\x85b\xf4Y\xe9h\xdd?'
+p179
+tp180
+Rp181
+tp182
+a(S'list of once upon a time cast members'
+p183
+g2
+(g6
+S'<+\xae\xe6\xc3]\xdd?'
+p184
+tp185
+Rp186
+tp187
+a(S'list of ncis cast members'
+p188
+g2
+(g6
+S'\x1f\xc4H\xe4\xccJ\xdd?'
+p189
+tp190
+Rp191
+tp192
+a(S'list of american horror story cast members'
+p193
+g2
+(g6
+S'"\xa4v\xc5\n>\xdd?'
+p194
+tp195
+Rp196
+tp197
+a(S'oh my english!'
+p198
+g2
+(g6
+S'\x1bBRM\xba!\xdd?'
+p199
+tp200
+Rp201
+tp202
+a(S'core image'
+p203
+g2
+(g6
+S'\xffXDQ\xf0\xf2\xdc?'
+p204
+tp205
+Rp206
+tp207
+a(S'muito show'
+p208
+g2
+(g6
+S'\x1eA\xf8$\xc1\xd9\xdc?'
+p209
+tp210
+Rp211
+tp212
+a(S'world glyph set'
+p213
+g2
+(g6
+S'F\xcf2\xb0\x03\xd7\xdc?'
+p214
+tp215
+Rp216
+tp217
+a(S'list of se\xc3\xb1ora acero cast members'
+p218
+g2
+(g6
+S'\xfdh\x1c\x8c\xdb\xc8\xdc?'
+p219
+tp220
+Rp221
+tp222
+a(S'transform, clipping, and lighting'
+p223
+g2
+(g6
+S'\x95\xc2\x19\x86@c\xdc?'
+p224
+tp225
+Rp226
+tp227
+a(S'la viuda negra (telenovela)'
+p228
+g2
+(g6
+S'\xd6nt\x81ja\xdc?'
+p229
+tp230
+Rp231
+tp232
+a(S'list of fear the walking dead characters'
+p233
+g2
+(g6
+S'\xdcP"\x902T\xdc?'
+p234
+tp235
+Rp236
+tp237
+a(S'whose line is it anyway? (u.s. tv series)'
+p238
+g2
+(g6
+S'\xdf\xb7\xdc\xf2\xafI\xdc?'
+p239
+tp240
+Rp241
+tp242
+a(S'list of star trek: the original series cast members'
+p243
+g2
+(g6
+S'\xa0:\xb1\x1eP1\xdc?'
+p244
+tp245
+Rp246
+tp247
+a(S'ethiopia at the 2013 world championships in athletics'
+p248
+g2
+(g6
+S'\xc1\x19\x1b@\xfb\x00\xdc?'
+p249
+tp250
+Rp251
+tp252
+a(S'storage hunters'
+p253
+g2
+(g6
+S'8S\xb4\xdb\x84\xfa\xdb?'
+p254
+tp255
+Rp256
+tp257
+a(S'les pieds dans le plat'
+p258
+g2
+(g6
+S'f\x95\x9at\x1c\xf6\xdb?'
+p259
+tp260
+Rp261
+tp262
+a(S'list of star trek: voyager cast members'
+p263
+g2
+(g6
+S'ZT\x8a\xfd\xd3\xeb\xdb?'
+p264
+tp265
+Rp266
+tp267
+a(S'outcast (tv series)'
+p268
+g2
+(g6
+S'0H\xf7\xe9 \xd1\xdb?'
+p269
+tp270
+Rp271
+tp272
+a(S'nine men'
+p273
+g2
+(g6
+S'\x15\xd8\xd5\xa4\xc2\xcf\xdb?'
+p274
+tp275
+Rp276
+tp277
+a(S'feature levels in direct3d'
+p278
+g2
+(g6
+S'\xdf\xdf\x07\x02\xbe\xbd\xdb?'
+p279
+tp280
+Rp281
+tp282
+a(S'total divas'
+p283
+g2
+(g6
+S'\xd3\xefE\xb8\x92\xb8\xdb?'
+p284
+tp285
+Rp286
+tp287
+a(S'japan at the 2015 world championships in athletics'
+p288
+g2
+(g6
+S'L \x01Iz\xa8\xdb?'
+p289
+tp290
+Rp291
+tp292
+a(S'whose line is it anyway? australia'
+p293
+g2
+(g6
+S'A\xeeBO\xa5\xa4\xdb?'
+p294
+tp295
+Rp296
+tp297
+a(S'torpan pojat'
+p298
+g2
+(g6
+S'|\x1b\xc3I\x19\x8b\xdb?'
+p299
+tp300
+Rp301
+tp302
+a(S'stardance (czech tv series)'
+p303
+g2
+(g6
+S'%\x12\xfbD#\x89\xdb?'
+p304
+tp305
+Rp306
+tp307
+a(S'list of are you afraid of the dark? cast members'
+p308
+g2
+(g6
+S'&*\x1bi\xa7M\xdb?'
+p309
+tp310
+Rp311
+tp312
+a(S'alienware'
+p313
+g2
+(g6
+S'\x17k\xd1e\x80+\xdb?'
+p314
+tp315
+Rp316
+tp317
+a(S'oz (tv series)'
+p318
+g2
+(g6
+S'\x95\xf4\x19\x82#\x19\xdb?'
+p319
+tp320
+Rp321
+tp322
+a(S'rica, famosa, latina'
+p323
+g2
+(g6
+S'\xf9\x15\x96\xfa\x05\n\xdb?'
+p324
+tp325
+Rp326
+tp327
+a(S'love sick the series'
+p328
+g2
+(g6
+S')\x03<,;\xfd\xda?'
+p329
+tp330
+Rp331
+tp332
+a(S'list of star trek: enterprise cast members'
+p333
+g2
+(g6
+S'w\t\xbd\xb1d\xf9\xda?'
+p334
+tp335
+Rp336
+tp337
+a(S'tracy beaker (franchise)'
+p338
+g2
+(g6
+S'\x02\xef<\xf0\x8b\xf4\xda?'
+p339
+tp340
+Rp341
+tp342
+a(S'boston marathon qualifying standards'
+p343
+g2
+(g6
+S',\xb3\xced\x1f\xf4\xda?'
+p344
+tp345
+Rp346
+tp347
+a(S'medcezir'
+p348
+g2
+(g6
+S'.\xa3udN\xdf\xda?'
+p349
+tp350
+Rp351
+tp352
+a(S'list of doble kara characters'
+p353
+g2
+(g6
+S'f\x91\x1bt#\xce\xda?'
+p354
+tp355
+Rp356
+tp357
+a(S'power (tv series)'
+p358
+g2
+(g6
+S'\xde\xf4\xce\x10}\xbd\xda?'
+p359
+tp360
+Rp361
+tp362
+a(S'lietuvos balsas'
+p363
+g2
+(g6
+S'\x16\x90\x1aT\r\xbb\xda?'
+p364
+tp365
+Rp366
+tp367
+a(S'bahrain at the 2015 world championships in athletics'
+p368
+g2
+(g6
+S'\xb9\x9b1\x08\xc1\xaa\xda?'
+p369
+tp370
+Rp371
+tp372
+a(S'basketball wives la'
+p373
+g2
+(g6
+S'Mg\xe0i\x15\x9d\xda?'
+p374
+tp375
+Rp376
+tp377
+a(S'china at the 2015 world championships in athletics'
+p378
+g2
+(g6
+S'\xac\xbd\t\xbe\xb5\x91\xda?'
+p379
+tp380
+Rp381
+tp382
+a(S'list of a que no me dejas cast members'
+p383
+g2
+(g6
+S'\x13x\xcf,vx\xda?'
+p384
+tp385
+Rp386
+tp387
+a(S'the gc'
+p388
+g2
+(g6
+S'0\xf1\xc3i\xe4q\xda?'
+p389
+tp390
+Rp391
+tp392
+a(S'ris delitti imperfetti'
+p393
+g2
+(g6
+S'~\x8b0\xfc\x9ei\xda?'
+p394
+tp395
+Rp396
+tp397
+a(S'south africa at the 2015 world championships in athletics'
+p398
+g2
+(g6
+S'\xc7\x8e7]]d\xda?'
+p399
+tp400
+Rp401
+tp402
+a(S'portugal at the 2016 european athletics championships'
+p403
+g2
+(g6
+S'\x18\xfa\xefV[S\xda?'
+p404
+tp405
+Rp406
+tp407
+a(S'gogglebox'
+p408
+g2
+(g6
+S'\xa0\xc8\x0b\r\xc9M\xda?'
+p409
+tp410
+Rp411
+tp412
+a(S'list of star trek: deep space nine cast members'
+p413
+g2
+(g6
+S'v\xa2\xb6C\xd3E\xda?'
+p414
+tp415
+Rp416
+tp417
+a(S'lark rise to candleford (tv series)'
+p418
+g2
+(g6
+S'\xce\xbb\x89\x10\xdf3\xda?'
+p419
+tp420
+Rp421
+tp422
+a(S'stevnsgade basketball'
+p423
+g2
+(g6
+S'\xf29\x1bh(0\xda?'
+p424
+tp425
+Rp426
+tp427
+a(S'russia at the 2015 world championships in athletics'
+p428
+g2
+(g6
+S'\x05\xf69\x99.$\xda?'
+p429
+tp430
+Rp431
+tp432
+a(S'cleaners (tv series)'
+p433
+g2
+(g6
+S'%\xd4?T\x06\x1a\xda?'
+p434
+tp435
+Rp436
+tp437
+a(S'cyprus at the 2015 games of the small states of europe'
+p438
+g2
+(g6
+S'%\x84\xc7\x0e\xc1\x19\xda?'
+p439
+tp440
+Rp441
+tp442
+a(S'rebelde (mexican telenovela)'
+p443
+g2
+(g6
+S'mM1\xb1\xcb\n\xda?'
+p444
+tp445
+Rp446
+tp447
+a(S'morocco at the 2015 world championships in athletics'
+p448
+g2
+(g6
+S'*C\xdd\xa8S\xa9\xd9?'
+p449
+tp450
+Rp451
+tp452
+a(S'little women: la'
+p453
+g2
+(g6
+S'\x8d\xdfL\xe7\x03\xa9\xd9?'
+p454
+tp455
+Rp456
+tp457
+a(S'salvador mej\xc3\xada alejandre'
+p458
+g2
+(g6
+S'\xc0k\xb1\xfc\xf3\x9e\xd9?'
+p459
+tp460
+Rp461
+tp462
+a(S'nvidia share'
+p463
+g2
+(g6
+S'Z\xc0\x1d\xd1n{\xd9?'
+p464
+tp465
+Rp466
+tp467
+a(S'kenya at the 2015 world championships in athletics'
+p468
+g2
+(g6
+S'\xe8\xe5)?\x04k\xd9?'
+p469
+tp470
+Rp471
+tp472
+a(S'list of star trek: the next generation cast members'
+p473
+g2
+(g6
+S'\xf0\xa8AC\xe7^\xd9?'
+p474
+tp475
+Rp476
+tp477
+a(S'ethiopia at the 2015 world championships in athletics'
+p478
+g2
+(g6
+S'\x0fm\xdfk>4\xd9?'
+p479
+tp480
+Rp481
+tp482
+a(S'el internado'
+p483
+g2
+(g6
+S'\x01\xa9\xff\x16\x1a\x1b\xd9?'
+p484
+tp485
+Rp486
+tp487
+a(S'list of house of cards characters'
+p488
+g2
+(g6
+S'\xd6\xa8x\xb8A\x1a\xd9?'
+p489
+tp490
+Rp491
+tp492
+a(S'list of the office (u.s. tv series) cast members'
+p493
+g2
+(g6
+S'\x1e\x97\x8f\xecr\x03\xd9?'
+p494
+tp495
+Rp496
+tp497
+a(S'uganda at the 2015 world championships in athletics'
+p498
+g2
+(g6
+S'\x17\x87.s\xb5\xef\xd8?'
+p499
+tp500
+Rp501
+tp502
+a(S'something like... series'
+p503
+g2
+(g6
+S'\x80i\xad)&\xef\xd8?'
+p504
+tp505
+Rp506
+tp507
+a(S'the royals (tv series)'
+p508
+g2
+(g6
+S'\x9e\x02Vb\xa9\xe1\xd8?'
+p509
+tp510
+Rp511
+tp512
+a(S"let's dance (slovak tv series)"
+p513
+g2
+(g6
+S'TI\x8bWb\xdd\xd8?'
+p514
+tp515
+Rp516
+tp517
+a(S'dzie\xc5\x84 dobry tvn'
+p518
+g2
+(g6
+S'\x1a\x06]\xf6\xb1\xa5\xd8?'
+p519
+tp520
+Rp521
+tp522
+a(S'ladies of london'
+p523
+g2
+(g6
+S'\xaa\xbaA\xa9\xb5\x8e\xd8?'
+p524
+tp525
+Rp526
+tp527
+a(S'skam (tv series)'
+p528
+g2
+(g6
+S'SY\t+;\x85\xd8?'
+p529
+tp530
+Rp531
+tp532
+a(S'eritrea at the 2015 world championships in athletics'
+p533
+g2
+(g6
+S'd\xea\xbf\x03\xb0~\xd8?'
+p534
+tp535
+Rp536
+tp537
+a(S'billy bunter of greyfriars school (tv series)'
+p538
+g2
+(g6
+S'\x12(p\x96Gm\xd8?'
+p539
+tp540
+Rp541
+tp542
+a(S'list of nashville cast members'
+p543
+g2
+(g6
+S's0\xf1i\tk\xd8?'
+p544
+tp545
+Rp546
+tp547
+a(S'vanderpump rules'
+p548
+g2
+(g6
+S'0\xe2\x83\xd4yL\xd8?'
+p549
+tp550
+Rp551
+tp552
+a(S'vidix'
+p553
+g2
+(g6
+S'w\xf3\xe4\x1e}H\xd8?'
+p554
+tp555
+Rp556
+tp557
+a(S'list of the game characters'
+p558
+g2
+(g6
+S'\xb7\xf0\xd6g\x93E\xd8?'
+p559
+tp560
+Rp561
+tp562
+a(S'list of the middle characters'
+p563
+g2
+(g6
+S'\x16_\x81\x85S:\xd8?'
+p564
+tp565
+Rp566
+tp567
+a(S'finland at the 2015 european games'
+p568
+g2
+(g6
+S'in\xb4\xb8]2\xd8?'
+p569
+tp570
+Rp571
+tp572
+a(S'india at the 2015 world championships in athletics'
+p573
+g2
+(g6
+S'\x08+\xd5\xfbL\x1f\xd8?'
+p574
+tp575
+Rp576
+tp577
+a(S'list of laguna beach: the real orange county cast members'
+p578
+g2
+(g6
+S'\xcc\xe9\x1b\x04\x13\x1a\xd8?'
+p579
+tp580
+Rp581
+tp582
+a(S'little women: dallas'
+p583
+g2
+(g6
+S'\xb1\x04\x1cG2\x13\xd8?'
+p584
+tp585
+Rp586
+tp587
+a(S'italy in the eurovision young musicians'
+p588
+g2
+(g6
+S'"\xe1l\x12I\x0e\xd8?'
+p589
+tp590
+Rp591
+tp592
+a(S'united states at the 1932 summer olympics'
+p593
+g2
+(g6
+S'(\xfbJF\x1a\xe0\xd7?'
+p594
+tp595
+Rp596
+tp597
+a(S'ethiopia at the 2004 summer olympics'
+p598
+g2
+(g6
+S'\x8d\xefh\xca\xc9\xda\xd7?'
+p599
+tp600
+Rp601
+tp602
+a(S'slovakia at the 2015 world championships in athletics'
+p603
+g2
+(g6
+S'}\xcf\xbb\xe06\xc2\xd7?'
+p604
+tp605
+Rp606
+tp607
+a(S'\xc4\xb0ntikam'
+p608
+g2
+(g6
+S'\xb6\xf1(em\xa6\xd7?'
+p609
+tp610
+Rp611
+tp612
+a(S'estonia at the 2016 european athletics championships'
+p613
+g2
+(g6
+S'\xce\xdcH[\xdc\x98\xd7?'
+p614
+tp615
+Rp616
+tp617
+a(S'tony award for best revival'
+p618
+g2
+(g6
+S'zg\xd2\xa0\xd3\x84\xd7?'
+p619
+tp620
+Rp621
+tp622
+a(S'spain at the 2016 european athletics championships'
+p623
+g2
+(g6
+S'\xab\x01\x1adin\xd7?'
+p624
+tp625
+Rp626
+tp627
+a(S'list of my parents are aliens characters'
+p628
+g2
+(g6
+S'\xf4!L\xbf4X\xd7?'
+p629
+tp630
+Rp631
+tp632
+a(S'kenya at the 1962 british empire and commonwealth games'
+p633
+g2
+(g6
+S'\xde\xd8N%;W\xd7?'
+p634
+tp635
+Rp636
+tp637
+a(S'love & hip hop'
+p638
+g2
+(g6
+S'\xfb\x1f#\xee\x90V\xd7?'
+p639
+tp640
+Rp641
+tp642
+a(S'list of westworld characters'
+p643
+g2
+(g6
+S'F\xec\xc2e\xeeM\xd7?'
+p644
+tp645
+Rp646
+tp647
+a(S'fixedsys excelsior'
+p648
+g2
+(g6
+S'uIR\x0b\x18M\xd7?'
+p649
+tp650
+Rp651
+tp652
+a(S'canon ef 55\xe2\x80\x93200mm lens'
+p653
+g2
+(g6
+S' \xc1k\xa0\x93L\xd7?'
+p654
+tp655
+Rp656
+tp657
+a(S'list of current defence ministers'
+p658
+g2
+(g6
+S'\x98\xda\x9b\x1d\xb2=\xd7?'
+p659
+tp660
+Rp661
+tp662
+a(S'the real housewives of orange county'
+p663
+g2
+(g6
+S'\xee\x13\x1cPR=\xd7?'
+p664
+tp665
+Rp666
+tp667
+a(S'tonga at the 1984 summer olympics'
+p668
+g2
+(g6
+S'^W3)\x048\xd7?'
+p669
+tp670
+Rp671
+tp672
+a(S'south korea at the 2015 world championships in athletics'
+p673
+g2
+(g6
+S'\x82MI\xeb\xc45\xd7?'
+p674
+tp675
+Rp676
+tp677
+a(S'el capo'
+p678
+g2
+(g6
+S'@\xaf\xb2\xa9>0\xd7?'
+p679
+tp680
+Rp681
+tp682
+a(S'swimming at the 1993 european youth summer olympic days'
+p683
+g2
+(g6
+S'\x88*\xf6H\xc7+\xd7?'
+p684
+tp685
+Rp686
+tp687
+a(S'james denny (diver)'
+p688
+g2
+(g6
+S'e\xe8Iz5)\xd7?'
+p689
+tp690
+Rp691
+tp692
+a(S'from dusk till dawn: the series'
+p693
+g2
+(g6
+S'\xa2\xc4g\x8a_&\xd7?'
+p694
+tp695
+Rp696
+tp697
+a(S'swimming at the 1991 european youth olympic days'
+p698
+g2
+(g6
+S'\xab\xc9\xff\x14\xb5%\xd7?'
+p699
+tp700
+Rp701
+tp702
+a(S'list of dynasty characters'
+p703
+g2
+(g6
+S'\xc1$0\x8b\xfd\x1b\xd7?'
+p704
+tp705
+Rp706
+tp707
+a(S'list of ios devices'
+p708
+g2
+(g6
+S':3\xf9\xd3\x14\x14\xd7?'
+p709
+tp710
+Rp711
+tp712
+a(S'england at the 1962 british empire and commonwealth games'
+p713
+g2
+(g6
+S'\xdf\x1b\xad\xfb\x90\x0f\xd7?'
+p714
+tp715
+Rp716
+tp717
+a(S'sweden at the 2014 european athletics championships'
+p718
+g2
+(g6
+S'\xbdI+\xb6\xe9\r\xd7?'
+p719
+tp720
+Rp721
+tp722
+a(S'spin (tv series)'
+p723
+g2
+(g6
+S'\x18\x80\xad\x9cb\x0b\xd7?'
+p724
+tp725
+Rp726
+tp727
+a(S'netherlands at the 2016 european athletics championships'
+p728
+g2
+(g6
+S'\xc8\xae\xec\x8bu\x00\xd7?'
+p729
+tp730
+Rp731
+tp732
+a(S'love & hip hop: new york'
+p733
+g2
+(g6
+S'-\x84t\x92\xaa\xff\xd6?'
+p734
+tp735
+Rp736
+tp737
+a(S'spain at the 2014 european athletics championships'
+p738
+g2
+(g6
+S'\x87~\x1d\xf8\xb0\xfe\xd6?'
+p739
+tp740
+Rp741
+tp742
+a(S'switzerland at the 2015 world championships in athletics'
+p743
+g2
+(g6
+S'(+|\xd2\x03\xfa\xd6?'
+p744
+tp745
+Rp746
+tp747
+a(S'turkey at the 2015 world championships in athletics'
+p748
+g2
+(g6
+S'\x87{~X\xb5\xe1\xd6?'
+p749
+tp750
+Rp751
+tp752
+a(S"alpine skiing at the 2015 winter universiade \xe2\x80\x93 men's giant slalom"
+p753
+g2
+(g6
+S'\x83\xd2\xb8a\xec\xca\xd6?'
+p754
+tp755
+Rp756
+tp757
+a(S'los protegidos'
+p758
+g2
+(g6
+S'\x0bGs\xdd\xac\xca\xd6?'
+p759
+tp760
+Rp761
+tp762
+a(S'basketball wives'
+p763
+g2
+(g6
+S'\xe7\x1a\x08\x1f\x04\xc3\xd6?'
+p764
+tp765
+Rp766
+tp767
+a(S'finland at the 2015 world championships in athletics'
+p768
+g2
+(g6
+S'\xd7\xd7A|\xf0\xac\xd6?'
+p769
+tp770
+Rp771
+tp772
+a(S'new zealand at the 2015 world championships in athletics'
+p773
+g2
+(g6
+S'\x03\x91_\xc7X\xab\xd6?'
+p774
+tp775
+Rp776
+tp777
+a(S'list of elections in iran'
+p778
+g2
+(g6
+S"\x8a\x04\xe3'\x7f\xa1\xd6?"
+p779
+tp780
+Rp781
+tp782
+a(S'argentina at the 2015 parapan american games'
+p783
+g2
+(g6
+S'`\x97~\xa0j\x8f\xd6?'
+p784
+tp785
+Rp786
+tp787
+a(S'the block nz'
+p788
+g2
+(g6
+S'\xdf\x0f\xa4%\xd1\x8b\xd6?'
+p789
+tp790
+Rp791
+tp792
+a(S"alpine skiing at the 2014 winter olympics \xe2\x80\x93 men's slalom"
+p793
+g2
+(g6
+S'U\x19L\xd2\x93\x8a\xd6?'
+p794
+tp795
+Rp796
+tp797
+a(S"alpine skiing at the 2015 winter universiade \xe2\x80\x93 men's slalom"
+p798
+g2
+(g6
+S'\x10V\x07P\x98\x86\xd6?'
+p799
+tp800
+Rp801
+tp802
+a(S'list of happy valley characters'
+p803
+g2
+(g6
+S'\x92yZ\xb6\x95{\xd6?'
+p804
+tp805
+Rp806
+tp807
+a(S"list of it's always sunny in philadelphia characters"
+p808
+g2
+(g6
+S'\xcb\x81\xbd\xe3\xbck\xd6?'
+p809
+tp810
+Rp811
+tp812
+a(S'algeria at the 2015 world championships in athletics'
+p813
+g2
+(g6
+S'\x1a\xdb\x91=_h\xd6?'
+p814
+tp815
+Rp816
+tp817
+a(S'list of entertainment events held at rogers arena'
+p818
+g2
+(g6
+S'7-\xa4\x8a\xf5e\xd6?'
+p819
+tp820
+Rp821
+tp822
+a(S'nvidia system tools'
+p823
+g2
+(g6
+S'\xcar}J|d\xd6?'
+p824
+tp825
+Rp826
+tp827
+a(S'glendale life'
+p828
+g2
+(g6
+S'_ \xa4R\xe5`\xd6?'
+p829
+tp830
+Rp831
+tp832
+a(S'dag (norwegian tv series)'
+p833
+g2
+(g6
+S"\xccg\xd9\x18'T\xd6?"
+p834
+tp835
+Rp836
+tp837
+a(S'swimming at the 1995 european youth summer olympic days'
+p838
+g2
+(g6
+S'9\xcb\xa8V\x01O\xd6?'
+p839
+tp840
+Rp841
+tp842
+a(S'coach trip (series 15)'
+p843
+g2
+(g6
+S"'_a\x9cmD\xd6?"
+p844
+tp845
+Rp846
+tp847
+a(S'australia at the 2014 commonwealth games'
+p848
+g2
+(g6
+S'K\x8f\xb8\x90\xb8B\xd6?'
+p849
+tp850
+Rp851
+tp852
+a(S'finland at the 2016 european athletics championships'
+p853
+g2
+(g6
+S'\xdb\xf9OyYA\xd6?'
+p854
+tp855
+Rp856
+tp857
+a(S"alpine skiing at the 2015 winter universiade \xe2\x80\x93 men's combined"
+p858
+g2
+(g6
+S'\x88\xdb\r\x074$\xd6?'
+p859
+tp860
+Rp861
+tp862
+a(S'russia at the 2013 world championships in athletics'
+p863
+g2
+(g6
+S'H\xc9\x9e\x8dG\x1f\xd6?'
+p864
+tp865
+Rp866
+tp867
+a(S'israel at the 2014 european athletics championships'
+p868
+g2
+(g6
+S'\x81\x7f\xae\x04\x80\x16\xd6?'
+p869
+tp870
+Rp871
+tp872
+a(S"alpine skiing at the 2015 winter universiade \xe2\x80\x93 women's slalom"
+p873
+g2
+(g6
+S'$\xeb\xc2\xd8\xe4\t\xd6?'
+p874
+tp875
+Rp876
+tp877
+a(S'premio tusquets de novela'
+p878
+g2
+(g6
+S'v\xe2a\x0f\xb8\x08\xd6?'
+p879
+tp880
+Rp881
+tp882
+a(S"alpine skiing at the 2015 winter universiade \xe2\x80\x93 women's combined"
+p883
+g2
+(g6
+S'\xd5\xe4\x16\x99{\x08\xd6?'
+p884
+tp885
+Rp886
+tp887
+a(S'great britain at the 2015 european games'
+p888
+g2
+(g6
+S'\xfbpc\x97Y\xfb\xd5?'
+p889
+tp890
+Rp891
+tp892
+a(S"alpine skiing at the 2015 winter universiade \xe2\x80\x93 women's giant slalom"
+p893
+g2
+(g6
+S'Aw\xff\x1b5\xf4\xd5?'
+p894
+tp895
+Rp896
+tp897
+a(S'turkey at the 2015 european games'
+p898
+g2
+(g6
+S'\xa4J\x93\x95\xc7\xec\xd5?'
+p899
+tp900
+Rp901
+tp902
+a(S'this is england (film series)'
+p903
+g2
+(g6
+S'\xd6\x9e\x81]~\xe1\xd5?'
+p904
+tp905
+Rp906
+tp907
+a(S'iranian legislative election, 1980 (tehran, rey, shemiranat and eslamshahr)'
+p908
+g2
+(g6
+S'\xff+\x0b\xb9\x04\xdf\xd5?'
+p909
+tp910
+Rp911
+tp912
+a(S'eritrea at the 2008 summer olympics'
+p913
+g2
+(g6
+S'\x1b\xff2`\xb6\xda\xd5?'
+p914
+tp915
+Rp916
+tp917
+a(S'list of the walking dead (tv series) characters'
+p918
+g2
+(g6
+S'\xc0\xa3u\xa3\xfa\xd7\xd5?'
+p919
+tp920
+Rp921
+tp922
+a(S"britain's next top model"
+p923
+g2
+(g6
+S'\xce\xbb\x8f\x9c\xf8\xc6\xd5?'
+p924
+tp925
+Rp926
+tp927
+a(S'ethiopia at the 2008 summer olympics'
+p928
+g2
+(g6
+S'\x84}k\xd2\xcb\xbf\xd5?'
+p929
+tp930
+Rp931
+tp932
+a(S'belarus at the 2015 world championships in athletics'
+p933
+g2
+(g6
+S'.\xbc(\xad`\xac\xd5?'
+p934
+tp935
+Rp936
+tp937
+a(S'united states at the 2002 winter olympics'
+p938
+g2
+(g6
+S'\x87\x03\x7f\xab\xb3\x9d\xd5?'
+p939
+tp940
+Rp941
+tp942
+a(S'black ink crew'
+p943
+g2
+(g6
+S'\xe4YG\xf6\xcc\x8a\xd5?'
+p944
+tp945
+Rp946
+tp947
+a(S'botswana at the 2015 world championships in athletics'
+p948
+g2
+(g6
+S'\xbc\xfa8\xf3\xffn\xd5?'
+p949
+tp950
+Rp951
+tp952
+a(S'ethiopia at the 2016 summer olympics'
+p953
+g2
+(g6
+S'CV\xe5\r\xc9h\xd5?'
+p954
+tp955
+Rp956
+tp957
+a(S'uganda at the 1962 british empire and commonwealth games'
+p958
+g2
+(g6
+S'\xdcpc\x94<Y\xd5?'
+p959
+tp960
+Rp961
+tp962
+a(S'true blood'
+p963
+g2
+(g6
+S'\xc0\xc2\r*\xf5O\xd5?'
+p964
+tp965
+Rp966
+tp967
+a(S'algeria at the 1996 summer paralympics'
+p968
+g2
+(g6
+S'+A\x9e3\x19F\xd5?'
+p969
+tp970
+Rp971
+tp972
+a(S'portugal at the 2014 european athletics championships'
+p973
+g2
+(g6
+S'\xbd\x15Mg\r9\xd5?'
+p974
+tp975
+Rp976
+tp977
+a(S'djibouti at the 2015 world championships in athletics'
+p978
+g2
+(g6
+S'\xc0\xfb9\x11v\x1e\xd5?'
+p979
+tp980
+Rp981
+tp982
+a(S'bahrain at the 2016 summer olympics'
+p983
+g2
+(g6
+S'\xd5\xf0\xc6\xa4\x83\x18\xd5?'
+p984
+tp985
+Rp986
+tp987
+a(S'coastal line (tra)'
+p988
+g2
+(g6
+S'\xbf\xb2\xcc]\xc1\x16\xd5?'
+p989
+tp990
+Rp991
+tp992
+a(S'guatemala at the 2015 world championships in athletics'
+p993
+g2
+(g6
+S'\xb7\xa2\xb3\xdaO\x12\xd5?'
+p994
+tp995
+Rp996
+tp997
+a(S'turkey at the 2016 european athletics championships'
+p998
+g2
+(g6
+S'7\x8b\xd4\xd2\x9d\xe8\xd4?'
+p999
+tp1000
+Rp1001
+tp1002
+a(S'kenya at the 2008 summer olympics'
+p1003
+g2
+(g6
+S'\xacc\x02r\xc9\xe5\xd4?'
+p1004
+tp1005
+Rp1006
+tp1007
+a(S'ax men'
+p1008
+g2
+(g6
+S'\xc3\xe3\xe2\xae\xca\xe3\xd4?'
+p1009
+tp1010
+Rp1011
+tp1012
+a(S'faroe islands at the 2015 european games'
+p1013
+g2
+(g6
+S'\xbf\xc4\xdb\xe31\xdb\xd4?'
+p1014
+tp1015
+Rp1016
+tp1017
+a(S'morocco at the 1992 winter olympics'
+p1018
+g2
+(g6
+S'H{\xb0%\x1d\xc9\xd4?'
+p1019
+tp1020
+Rp1021
+tp1022
+a(S'australia at the 1962 british empire and commonwealth games'
+p1023
+g2
+(g6
+S'\xe1\xa5\x86\xa3\x0b\xc4\xd4?'
+p1024
+tp1025
+Rp1026
+tp1027
+a(S'slovenia at the 2015 world championships in athletics'
+p1028
+g2
+(g6
+S'\xae1vm!\xb8\xd4?'
+p1029
+tp1030
+Rp1031
+tp1032
+a(S'love & hip hop: atlanta'
+p1033
+g2
+(g6
+S'\xc8%TP\xf3\xb0\xd4?'
+p1034
+tp1035
+Rp1036
+tp1037
+a(S'germany at the 2014 european athletics championships'
+p1038
+g2
+(g6
+S'\xc2\x03\x01\x06\xe0\xb0\xd4?'
+p1039
+tp1040
+Rp1041
+tp1042
+a(S'little women: atlanta'
+p1043
+g2
+(g6
+S'\xdbs\xbe\xc8\xc0\xae\xd4?'
+p1044
+tp1045
+Rp1046
+tp1047
+a(S'ethiopia at the 2012 summer olympics'
+p1048
+g2
+(g6
+S'I\xce3d3\x94\xd4?'
+p1049
+tp1050
+Rp1051
+tp1052
+a(S'2016 world junior figure skating championships'
+p1053
+g2
+(g6
+S'3\x95\xa06vm\xd4?'
+p1054
+tp1055
+Rp1056
+tp1057
+a(S'trailer park boys'
+p1058
+g2
+(g6
+S'\xc2\x93\x11:\te\xd4?'
+p1059
+tp1060
+Rp1061
+tp1062
+a(S'young dracula'
+p1063
+g2
+(g6
+S'n(\xd3\x90A_\xd4?'
+p1064
+tp1065
+Rp1066
+tp1067
+a(S'the division'
+p1068
+g2
+(g6
+S'\x86?\xdc\x1d\x8e^\xd4?'
+p1069
+tp1070
+Rp1071
+tp1072
+a(S'united states at the 2010 winter olympics'
+p1073
+g2
+(g6
+S'tb\xc0\xb2\x03^\xd4?'
+p1074
+tp1075
+Rp1076
+tp1077
+a(S"dragons' den (canadian tv series)"
+p1078
+g2
+(g6
+S'\xb7\xb1V\xba\x1b\\\xd4?'
+p1079
+tp1080
+Rp1081
+tp1082
+a(S'gogglebox australia'
+p1083
+g2
+(g6
+S'\xfbq<x{[\xd4?'
+p1084
+tp1085
+Rp1086
+tp1087
+a(S'single ladies (tv series)'
+p1088
+g2
+(g6
+S'b\x97GSiT\xd4?'
+p1089
+tp1090
+Rp1091
+tp1092
+a(S'married to medicine'
+p1093
+g2
+(g6
+S'<\t\r,\xd6N\xd4?'
+p1094
+tp1095
+Rp1096
+tp1097
+a(S'coach trip (series 14)'
+p1098
+g2
+(g6
+S'\x89\xe3\x99qmI\xd4?'
+p1099
+tp1100
+Rp1101
+tp1102
+a(S'goosebumps horrorland'
+p1103
+g2
+(g6
+S'\x11W\xef\xcb\xeaF\xd4?'
+p1104
+tp1105
+Rp1106
+tp1107
+a(S'niger at the 1988 summer olympics'
+p1108
+g2
+(g6
+S'\x8d8>\xb8tC\xd4?'
+p1109
+tp1110
+Rp1111
+tp1112
+a(S'united arab emirates at the 2015 world championships in athletics'
+p1113
+g2
+(g6
+S'jhJ!w<\xd4?'
+p1114
+tp1115
+Rp1116
+tp1117
+a(S'the paradise (tv series)'
+p1118
+g2
+(g6
+S'\xdedZ\xe3\xe04\xd4?'
+p1119
+tp1120
+Rp1121
+tp1122
+a(S'quality street gang (celtic f.c.)'
+p1123
+g2
+(g6
+S"mc\x19\x00\x9d'\xd4?"
+p1124
+tp1125
+Rp1126
+tp1127
+a(S'kazakhstan at the 2015 world championships in athletics'
+p1128
+g2
+(g6
+S'\x98\x82\xcbI#\x1b\xd4?'
+p1129
+tp1130
+Rp1131
+tp1132
+a(S'great britain at the 2016 european athletics championships'
+p1133
+g2
+(g6
+S'\xb0\x8d\xc3{\x9a\x17\xd4?'
+p1134
+tp1135
+Rp1136
+tp1137
+a(S'2015 world junior figure skating championships'
+p1138
+g2
+(g6
+S'\x89G\x99\xde\xe0\x13\xd4?'
+p1139
+tp1140
+Rp1141
+tp1142
+a(S'croatia at the 1998 winter olympics'
+p1143
+g2
+(g6
+S'\x0f`@\xb3\xa4\x11\xd4?'
+p1144
+tp1145
+Rp1146
+tp1147
+a(S'video processing engine'
+p1148
+g2
+(g6
+S'\xa6\x05\x9b\xbc\xc8\x10\xd4?'
+p1149
+tp1150
+Rp1151
+tp1152
+a(S'algeria at the 2008 summer paralympics'
+p1153
+g2
+(g6
+S'"[D>%\x08\xd4?'
+p1154
+tp1155
+Rp1156
+tp1157
+a(S'hollywood girls'
+p1158
+g2
+(g6
+S'\x1c\xb0%Y\x81\x06\xd4?'
+p1159
+tp1160
+Rp1161
+tp1162
+a(S'jamaica at the 2016 summer olympics'
+p1163
+g2
+(g6
+S'\xf4Bj?j\x05\xd4?'
+p1164
+tp1165
+Rp1166
+tp1167
+a(S'ziggo dome'
+p1168
+g2
+(g6
+S'\x1c\t\x87t\xad\xf7\xd3?'
+p1169
+tp1170
+Rp1171
+tp1172
+a(S'taiwan trunk line (southern section)'
+p1173
+g2
+(g6
+S'\x97\xb8\x1e\xd0\xaf\xe6\xd3?'
+p1174
+tp1175
+Rp1176
+tp1177
+a(S'nigeria at the 2015 world championships in athletics'
+p1178
+g2
+(g6
+S'Z|\n\xfc=\xe5\xd3?'
+p1179
+tp1180
+Rp1181
+tp1182
+a(S'kenya at the 2012 summer olympics'
+p1183
+g2
+(g6
+S'|j]sB\xcb\xd3?'
+p1184
+tp1185
+Rp1186
+tp1187
+a(S'kenya at the 2004 summer olympics'
+p1188
+g2
+(g6
+S'\xa6\x03\x872{\xc7\xd3?'
+p1189
+tp1190
+Rp1191
+tp1192
+a(S'bohlen\xe2\x80\x93pierce scale'
+p1193
+g2
+(g6
+S'\xbcO\x9c\xcd\xdb\xc3\xd3?'
+p1194
+tp1195
+Rp1196
+tp1197
+a(S'entertainment events at staples center'
+p1198
+g2
+(g6
+S'\x9aw\xe2m\x01\xbf\xd3?'
+p1199
+tp1200
+Rp1201
+tp1202
+a(S'belgium at the 2016 european athletics championships'
+p1203
+g2
+(g6
+S'\xeb\xd8\x97\xb3\xd2\xa4\xd3?'
+p1204
+tp1205
+Rp1206
+tp1207
+a(S'pakistan at the 1962 british empire and commonwealth games'
+p1208
+g2
+(g6
+S'\xa0\xbe\x11\x8e\x9c\x9e\xd3?'
+p1209
+tp1210
+Rp1211
+tp1212
+a(S'2014\xe2\x80\x9315 japan figure skating championships'
+p1213
+g2
+(g6
+S'=\xedi\xa9\x85\x8c\xd3?'
+p1214
+tp1215
+Rp1216
+tp1217
+a(S'netherlands at the 2015 world championships in athletics'
+p1218
+g2
+(g6
+S'\xf7\xbe\xf7\xae\xca\x83\xd3?'
+p1219
+tp1220
+Rp1221
+tp1222
+a(S'ascii85'
+p1223
+g2
+(g6
+S'\xb3-I\x8e\xc9\x83\xd3?'
+p1224
+tp1225
+Rp1226
+tp1227
+a(S'spain at the 1982 european athletics championships'
+p1228
+g2
+(g6
+S'au.\x90.\x83\xd3?'
+p1229
+tp1230
+Rp1231
+tp1232
+a(S'coach trip (series 1)'
+p1233
+g2
+(g6
+S'\xa1{|lQx\xd3?'
+p1234
+tp1235
+Rp1236
+tp1237
+a(S's3 graphics chrome 400'
+p1238
+g2
+(g6
+S'\xda\x03\xd3\xd4\nv\xd3?'
+p1239
+tp1240
+Rp1241
+tp1242
+a(S'jamaica at the 2012 summer olympics'
+p1243
+g2
+(g6
+S'!\x8es\xf3Yl\xd3?'
+p1244
+tp1245
+Rp1246
+tp1247
+a(S'andorra at the 1994 winter olympics'
+p1248
+g2
+(g6
+S'xu\x18\xf4Ck\xd3?'
+p1249
+tp1250
+Rp1251
+tp1252
+a(S'list of countries by motor vehicle production in the 2010s'
+p1253
+g2
+(g6
+S'}\xf6\r\x13\xfba\xd3?'
+p1254
+tp1255
+Rp1256
+tp1257
+a(S'serbia at the 2016 european athletics championships'
+p1258
+g2
+(g6
+S'\xb1(.\xb6aP\xd3?'
+p1259
+tp1260
+Rp1261
+tp1262
+a(S'coach trip (series 3)'
+p1263
+g2
+(g6
+S'\x0c\x19xb\xc2L\xd3?'
+p1264
+tp1265
+Rp1266
+tp1267
+a(S'france at the 2016 european athletics championships'
+p1268
+g2
+(g6
+S'\x06y2\xfc\xe4J\xd3?'
+p1269
+tp1270
+Rp1271
+tp1272
+a(S'algeria at the 2004 summer paralympics'
+p1273
+g2
+(g6
+S'K\x117\x93\x1fJ\xd3?'
+p1274
+tp1275
+Rp1276
+tp1277
+a(S'the district'
+p1278
+g2
+(g6
+S'S]\xa9\xf5\xfeC\xd3?'
+p1279
+tp1280
+Rp1281
+tp1282
+a(S'romania at the 2004 summer olympics'
+p1283
+g2
+(g6
+S'|\xa77M\x91C\xd3?'
+p1284
+tp1285
+Rp1286
+tp1287
+a(S'united states at the 2012 summer olympics'
+p1288
+g2
+(g6
+S'j6\x1f\x05\xa1B\xd3?'
+p1289
+tp1290
+Rp1291
+tp1292
+a(S'tanganyika at the 1962 british empire and commonwealth games'
+p1293
+g2
+(g6
+S'Q,\x11\xe5\xde?\xd3?'
+p1294
+tp1295
+Rp1296
+tp1297
+a(S'bulgaria at the 1988 summer olympics'
+p1298
+g2
+(g6
+S'\xd7\x16\xc4\xac\xdd4\xd3?'
+p1299
+tp1300
+Rp1301
+tp1302
+a(S'the walkerz'
+p1303
+g2
+(g6
+S'U[\x9c4\x85)\xd3?'
+p1304
+tp1305
+Rp1306
+tp1307
+a(S'scotland at the 2014 commonwealth games'
+p1308
+g2
+(g6
+S'\x05\xdc\xfd\xe8Y(\xd3?'
+p1309
+tp1310
+Rp1311
+tp1312
+a(S'uganda at the 2014 commonwealth games'
+p1313
+g2
+(g6
+S'qy"F\xb4$\xd3?'
+p1314
+tp1315
+Rp1316
+tp1317
+a(S'fermi (microarchitecture)'
+p1318
+g2
+(g6
+S"\xf1\xb6\x16\xa1'#\xd3?"
+p1319
+tp1320
+Rp1321
+tp1322
+a(S'canada at the 1994 winter olympics'
+p1323
+g2
+(g6
+S'\xaf\x83\x83\xcb?\x1e\xd3?'
+p1324
+tp1325
+Rp1326
+tp1327
+a(S'iran at the 2015 world championships in athletics'
+p1328
+g2
+(g6
+S'\\`\xf1[*\x14\xd3?'
+p1329
+tp1330
+Rp1331
+tp1332
+a(S'a grande fam\xc3\xadlia'
+p1333
+g2
+(g6
+S'\xb1?mX7\x0c\xd3?'
+p1334
+tp1335
+Rp1336
+tp1337
+a(S'england at the 2014 commonwealth games'
+p1338
+g2
+(g6
+S'\xfccz\xfa\xd5\x03\xd3?'
+p1339
+tp1340
+Rp1341
+tp1342
+a(S'andorra at the 2015 games of the small states of europe'
+p1343
+g2
+(g6
+S'\xc7\xfaKj\xf1\x02\xd3?'
+p1344
+tp1345
+Rp1346
+tp1347
+a(S'italy at the 2015 world championships in athletics'
+p1348
+g2
+(g6
+S'\xa4z\xd7\xb5.\x01\xd3?'
+p1349
+tp1350
+Rp1351
+tp1352
+a(S'turkey at the 2015 summer universiade'
+p1353
+g2
+(g6
+S'\xb5\xc3\xde:\xe5\xf6\xd2?'
+p1354
+tp1355
+Rp1356
+tp1357
+a(S'poland at the 1980 summer olympics'
+p1358
+g2
+(g6
+S'\xab\x17\x8c\x0cl\xee\xd2?'
+p1359
+tp1360
+Rp1361
+tp1362
+a(S'canada at the 1962 british empire and commonwealth games'
+p1363
+g2
+(g6
+S'\x99\xb2_2J\xed\xd2?'
+p1364
+tp1365
+Rp1366
+tp1367
+a(S'denmark at the 2014 european athletics championships'
+p1368
+g2
+(g6
+S'\x07x\xb5`\xe2\xe4\xd2?'
+p1369
+tp1370
+Rp1371
+tp1372
+a(S'spain at the 2015 world championships in athletics'
+p1373
+g2
+(g6
+S'\xc2\xf6V=B\xe3\xd2?'
+p1374
+tp1375
+Rp1376
+tp1377
+a(S'ireland at the 2016 european athletics championships'
+p1378
+g2
+(g6
+S'\xf3v\x0b\x80s\xd9\xd2?'
+p1379
+tp1380
+Rp1381
+tp1382
+a(S'holiday park, germany'
+p1383
+g2
+(g6
+S'\xcd\xb5\xb5\xca\x06\xd4\xd2?'
+p1384
+tp1385
+Rp1386
+tp1387
+a(S'new zealand at the 1962 british empire and commonwealth games'
+p1388
+g2
+(g6
+S'\xb1\x8d\xbe\xa3\xe7\xcc\xd2?'
+p1389
+tp1390
+Rp1391
+tp1392
+a(S"it's a living (1980 tv series)"
+p1393
+g2
+(g6
+S'\xda\x8az`X\xc4\xd2?'
+p1394
+tp1395
+Rp1396
+tp1397
+a(S'finland at the 1928 summer olympics'
+p1398
+g2
+(g6
+S'2\x84\x13\x9dx\xc1\xd2?'
+p1399
+tp1400
+Rp1401
+tp1402
+a(S'2016 south korean figure skating championships'
+p1403
+g2
+(g6
+S'\xf1D9\x8e\xa5\xac\xd2?'
+p1404
+tp1405
+Rp1406
+tp1407
+a(S'list of vikings characters'
+p1408
+g2
+(g6
+S'\xc4\xdc\xb7jr\xac\xd2?'
+p1409
+tp1410
+Rp1411
+tp1412
+a(S'tanzania at the 2015 world championships in athletics'
+p1413
+g2
+(g6
+S'/i]\x03b\xa8\xd2?'
+p1414
+tp1415
+Rp1416
+tp1417
+a(S'ivory coast at the 2015 world championships in athletics'
+p1418
+g2
+(g6
+S'\x14\xf2|9\xdd\xa4\xd2?'
+p1419
+tp1420
+Rp1421
+tp1422
+a(S'united states at the 2016 summer olympics'
+p1423
+g2
+(g6
+S'C\x87\xe5\xe5\x8b\xa1\xd2?'
+p1424
+tp1425
+Rp1426
+tp1427
+a(S'reign (tv series)'
+p1428
+g2
+(g6
+S'\xbc\xe5p\x96\xa8\x9d\xd2?'
+p1429
+tp1430
+Rp1431
+tp1432
+a(S'uruguay at the 2015 summer universiade'
+p1433
+g2
+(g6
+S'\xce\x8b\xee\x18\x1d\x98\xd2?'
+p1434
+tp1435
+Rp1436
+tp1437
+a(S'boccia at the 2016 summer paralympics \xe2\x80\x93 individual bc2'
+p1438
+g2
+(g6
+S'\xa1\xd1\x04\xaf\xcf\x97\xd2?'
+p1439
+tp1440
+Rp1441
+tp1442
+a(S'sweden at the 2015 world championships in athletics'
+p1443
+g2
+(g6
+S'\xf0\xf5\x8b\xf3\x88\x92\xd2?'
+p1444
+tp1445
+Rp1446
+tp1447
+a(S'kepler (microarchitecture)'
+p1448
+g2
+(g6
+S'\xfd\xdb\x19\xd7\xac\x8f\xd2?'
+p1449
+tp1450
+Rp1451
+tp1452
+a(S'auntie boss!'
+p1453
+g2
+(g6
+S'\x91\xb2\xdbn\xd7\x8b\xd2?'
+p1454
+tp1455
+Rp1456
+tp1457
+a(S'united states at the 1994 winter olympics'
+p1458
+g2
+(g6
+S'.k\x15\x97\xbd\x8a\xd2?'
+p1459
+tp1460
+Rp1461
+tp1462
+a(S'algeria at the 2000 summer paralympics'
+p1463
+g2
+(g6
+S'/\xd5\xb8/p\x8a\xd2?'
+p1464
+tp1465
+Rp1466
+tp1467
+a(S'army wives'
+p1468
+g2
+(g6
+S'\x7f?\xd3\xb1\xb9\x82\xd2?'
+p1469
+tp1470
+Rp1471
+tp1472
+a(S'list of boardwalk empire characters'
+p1473
+g2
+(g6
+S'K\xb4VK3x\xd2?'
+p1474
+tp1475
+Rp1476
+tp1477
+a(S'tanzania at the 2004 summer olympics'
+p1478
+g2
+(g6
+S'Yu\xac/1q\xd2?'
+p1479
+tp1480
+Rp1481
+tp1482
+a(S'great britain at the 2014 european athletics championships'
+p1483
+g2
+(g6
+S'\xcd}\xd6g\xbfn\xd2?'
+p1484
+tp1485
+Rp1486
+tp1487
+a(S'australia at the 2015 world championships in athletics'
+p1488
+g2
+(g6
+S'\xc8\xb6#C\x95k\xd2?'
+p1489
+tp1490
+Rp1491
+tp1492
+a(S'the real housewives of new jersey'
+p1493
+g2
+(g6
+S'\xef_#0nk\xd2?'
+p1494
+tp1495
+Rp1496
+tp1497
+a(S'spain at the 1958 european athletics championships'
+p1498
+g2
+(g6
+S'e-\x1f\xfa\x9eg\xd2?'
+p1499
+tp1500
+Rp1501
+tp1502
+a(S'bahamas at the 2012 summer olympics'
+p1503
+g2
+(g6
+S'\x1b\xae\x88+\x8ce\xd2?'
+p1504
+tp1505
+Rp1506
+tp1507
+a(S'merlin (2008 tv series)'
+p1508
+g2
+(g6
+S' \xd0\xb6\x1c\x08X\xd2?'
+p1509
+tp1510
+Rp1511
+tp1512
+a.

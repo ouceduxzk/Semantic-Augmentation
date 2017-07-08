@@ -1,0 +1,2728 @@
+(lp0
+(S'saul kripke'
+p1
+cnumpy.core.multiarray
+scalar
+p2
+(cnumpy
+dtype
+p3
+(S'f8'
+p4
+I0
+I1
+tp5
+Rp6
+(I3
+S'<'
+p7
+NNNI-1
+I-1
+I0
+tp8
+bS'\x08\x00\x00\x00\x00\x00\xf0?'
+p9
+tp10
+Rp11
+tp12
+a(S'kripke semantics'
+p13
+g2
+(g6
+S'\x9f\x98\x1dn\xadv\xeb?'
+p14
+tp15
+Rp16
+tp17
+a(S'kripke'
+p18
+g2
+(g6
+S'\xcbKa\xc4\xcf\x1c\xe9?'
+p19
+tp20
+Rp21
+tp22
+a(S'myer s. kripke'
+p23
+g2
+(g6
+S'\xc3\n\x17\x05\xb4?\xe8?'
+p24
+tp25
+Rp26
+tp27
+a(S'naming and necessity'
+p28
+g2
+(g6
+S'*\x02nbB\xbb\xe6?'
+p29
+tp30
+Rp31
+tp32
+a(S'dorothy k. kripke'
+p33
+g2
+(g6
+S'-o|+\xd5r\xe6?'
+p34
+tp35
+Rp36
+tp37
+a(S'kripke structure (model checking)'
+p38
+g2
+(g6
+S"\xd1\x13'\xf8H\x01\xe6?"
+p39
+tp40
+Rp41
+tp42
+a(S'eric kripke'
+p43
+g2
+(g6
+S'\xdaS\x97\xc2\x0b\x92\xe3?'
+p44
+tp45
+Rp46
+tp47
+a(S'general frame'
+p48
+g2
+(g6
+S'k\xea*\xf24\xd6\xe2?'
+p49
+tp50
+Rp51
+tp52
+a(S's5 (modal logic)'
+p53
+g2
+(g6
+S'\x952j\x08\x82\xb1\xe2?'
+p54
+tp55
+Rp56
+tp57
+a(S'margaret l. kripke'
+p58
+g2
+(g6
+S'7\x9a\x1a\x9b\xbc\x92\xe2?'
+p59
+tp60
+Rp61
+tp62
+a(S'wittgenstein on rules and private language'
+p63
+g2
+(g6
+S'a\x18\x04*\x9du\xe2?'
+p64
+tp65
+Rp66
+tp67
+a(S'descriptivist theory of names'
+p68
+g2
+(g6
+S'?\xad\x97j\xe3A\xdf?'
+p69
+tp70
+Rp71
+tp72
+a(S'normal modal logic'
+p73
+g2
+(g6
+S'\xbc\xc3\xedu\xfd9\xdf?'
+p74
+tp75
+Rp76
+tp77
+a(S'modal companion'
+p78
+g2
+(g6
+S'\x06\x96T\x97\xfdf\xdd?'
+p79
+tp80
+Rp81
+tp82
+a(S'impossible world'
+p83
+g2
+(g6
+S'\x9e\x8f\xff\xcfQl\xdc?'
+p84
+tp85
+Rp86
+tp87
+a(S'pilot (supernatural)'
+p88
+g2
+(g6
+S'.Yi\xebQF\xdc?'
+p89
+tp90
+Rp91
+tp92
+a(S'modal logic'
+p93
+g2
+(g6
+S'nU#\x05\x98;\xdc?'
+p94
+tp95
+Rp96
+tp97
+a(S'direct reference theory'
+p98
+g2
+(g6
+S'\x98\x1c\x1e\xa7T\xcb\xdb?'
+p99
+tp100
+Rp101
+tp102
+a(S'intermediate logic'
+p103
+g2
+(g6
+S'gn]F\xa0<\xdb?'
+p104
+tp105
+Rp106
+tp107
+a(S'what is and what should never be (supernatural)'
+p108
+g2
+(g6
+S'e\xf0c6\xb1\x04\xdb?'
+p109
+tp110
+Rp111
+tp112
+a(S'necessity of identity'
+p113
+g2
+(g6
+S'@~\xd08\xbb\xc9\xda?'
+p114
+tp115
+Rp116
+tp117
+a(S'rigid designator'
+p118
+g2
+(g6
+S'K\xc9M\xa1T]\xda?'
+p119
+tp120
+Rp121
+tp122
+a(S'counterpart theory'
+p123
+g2
+(g6
+S'\xb9\\\xb9$\x07\xad\xd9?'
+p124
+tp125
+Rp126
+tp127
+a(S'supernatural (season 2)'
+p128
+g2
+(g6
+S'$\xd5\x8fG$\xfc\xd8?'
+p129
+tp130
+Rp131
+tp132
+a(S'window operator'
+p133
+g2
+(g6
+S'\xa0\x0c\xacK\x8f\xd0\xd8?'
+p134
+tp135
+Rp136
+tp137
+a(S'provability logic'
+p138
+g2
+(g6
+S'\xfc\xad7\xdf\x0c\xc6\xd8?'
+p139
+tp140
+Rp141
+tp142
+a(S'intensional logic'
+p143
+g2
+(g6
+S'c=\xaeP\xbb\xb2\xd8?'
+p144
+tp145
+Rp146
+tp147
+a(S'intuitionistic logic'
+p148
+g2
+(g6
+S'\xd5\xc0\x135\x9b\x7f\xd8?'
+p149
+tp150
+Rp151
+tp152
+a(S'melvin fitting'
+p153
+g2
+(g6
+S'\\b\xf6\x8c\x04\x1b\xd8?'
+p154
+tp155
+Rp156
+tp157
+a(S'epistemic modal logic'
+p158
+g2
+(g6
+S'\x9a\xfd_\xdd$\x90\xd7?'
+p159
+tp160
+Rp161
+tp162
+a(S'kai wehmeier'
+p163
+g2
+(g6
+S'\xc7n\x1a\xe8C\x88\xd7?'
+p164
+tp165
+Rp166
+tp167
+a(S'causal theory of reference'
+p168
+g2
+(g6
+S'3\x1cR\x02\x7ft\xd7?'
+p169
+tp170
+Rp171
+tp172
+a(S'supernatural (season 3)'
+p173
+g2
+(g6
+S'G\xca\x8b\xe5$!\xd7?'
+p174
+tp175
+Rp176
+tp177
+a(S'philosophy of logic'
+p178
+g2
+(g6
+S'Hr\xb4\xcb\xe9\xe6\xd6?'
+p179
+tp180
+Rp181
+tp182
+a(S'multimodal logic'
+p183
+g2
+(g6
+S'\xe9\xaa\xf85l\xc6\xd6?'
+p184
+tp185
+Rp186
+tp187
+a(S'dana scott'
+p188
+g2
+(g6
+S'\xb6\xf4\xe1eRT\xd6?'
+p189
+tp190
+Rp191
+tp192
+a(S'thomas j. mckay'
+p193
+g2
+(g6
+S'\xa5\n\xb9\xccK)\xd6?'
+p194
+tp195
+Rp196
+tp197
+a(S'relevance logic'
+p198
+g2
+(g6
+S'\xd9b\xd8R/\x01\xd6?'
+p199
+tp200
+Rp201
+tp202
+a(S'kripke center'
+p203
+g2
+(g6
+S'O\xe0\xe1>\xd9\xfd\xd5?'
+p204
+tp205
+Rp206
+tp207
+a(S'david chalmers'
+p208
+g2
+(g6
+S'\x9c\xb3\xe8\xb0\xe3\xfa\xd5?'
+p209
+tp210
+Rp211
+tp212
+a(S'max cresswell'
+p213
+g2
+(g6
+S'\x89\xc1\x83\xd5\x9d\xee\xd5?'
+p214
+tp215
+Rp216
+tp217
+a(S'jaakko hintikka'
+p218
+g2
+(g6
+S"f\xb2'^V\xe3\xd5?"
+p219
+tp220
+Rp221
+tp222
+a(S'john p. burgess'
+p223
+g2
+(g6
+S'\xa1m"\x0f;\xc4\xd5?'
+p224
+tp225
+Rp226
+tp227
+a(S'supernatural (season 1)'
+p228
+g2
+(g6
+S']l\xf1\xd5P\x7f\xd5?'
+p229
+tp230
+Rp231
+tp232
+a(S'logic'
+p233
+g2
+(g6
+S'\x1d\xf0\xfd\xd2a}\xd5?'
+p234
+tp235
+Rp236
+tp237
+a(S'dynamic logic (modal logic)'
+p238
+g2
+(g6
+S'\xbel\xfc\xecM\x0c\xd5?'
+p239
+tp240
+Rp241
+tp242
+a(S'george boolos'
+p243
+g2
+(g6
+S'\xa6\xec\x14\x80X\xfc\xd4?'
+p244
+tp245
+Rp246
+tp247
+a(S'ruth barcan marcus'
+p248
+g2
+(g6
+S'\xef\x00T\xa7%\x88\xd4?'
+p249
+tp250
+Rp251
+tp252
+a(S'history of logic'
+p253
+g2
+(g6
+S'Q\xd3\xa7x\xadQ\xd4?'
+p254
+tp255
+Rp256
+tp257
+a(S'kripke\xe2\x80\x93platek set theory with urelements'
+p258
+g2
+(g6
+S"\xea\x10]'\x83H\xd4?"
+p259
+tp260
+Rp261
+tp262
+a(S'classical modal logic'
+p263
+g2
+(g6
+S'\x11&~\xf8J\x0c\xd4?'
+p264
+tp265
+Rp266
+tp267
+a(S'standard translation'
+p268
+g2
+(g6
+S'o\xdc\x14lR\xe8\xd3?'
+p269
+tp270
+Rp271
+tp272
+a(S'arthur prior'
+p273
+g2
+(g6
+S'K\x11\xda\x85\xeb\xb1\xd3?'
+p274
+tp275
+Rp276
+tp277
+a(S'2001 in philosophy'
+p278
+g2
+(g6
+S'\xf2\xfcE\xd0]\x90\xd3?'
+p279
+tp280
+Rp281
+tp282
+a(S'admissible rule'
+p283
+g2
+(g6
+S'\xe2&\\\xc4\xcbh\xd3?'
+p284
+tp285
+Rp286
+tp287
+a(S'index of logic articles'
+p288
+g2
+(g6
+S'\xf9\x8a\n\x14\x07U\xd3?'
+p289
+tp290
+Rp291
+tp292
+a(S'outline of logic'
+p293
+g2
+(g6
+S'=h\x84.\x04S\xd3?'
+p294
+tp295
+Rp296
+tp297
+a(S'steven kuhn'
+p298
+g2
+(g6
+S'm\xe4\x89\xfc\x15L\xd3?'
+p299
+tp300
+Rp301
+tp302
+a(S'finite model property'
+p303
+g2
+(g6
+S'\xfe\x87o\x8d\x98;\xd3?'
+p304
+tp305
+Rp306
+tp307
+a(S'accessibility relation'
+p308
+g2
+(g6
+S"\xf2\xb4\xae'\x916\xd3?"
+p309
+tp310
+Rp311
+tp312
+a(S'lennart \xc3\x85qvist'
+p313
+g2
+(g6
+S'<\x96\xb6\xe9Y-\xd3?'
+p314
+tp315
+Rp316
+tp317
+a(S'mathematical logic'
+p318
+g2
+(g6
+S'Eym\xeen,\xd3?'
+p319
+tp320
+Rp321
+tp322
+a(S'kpu'
+p323
+g2
+(g6
+S'Kg\x90\\\x8e%\xd3?'
+p324
+tp325
+Rp326
+tp327
+a(S'modal algebra'
+p328
+g2
+(g6
+S'/Zz]\x8a\x06\xd3?'
+p329
+tp330
+Rp331
+tp332
+a(S'supernatural (season 6)'
+p333
+g2
+(g6
+S'3\xdc\xcb\xd0v\xcb\xd2?'
+p334
+tp335
+Rp336
+tp337
+a(S'first-order logic'
+p338
+g2
+(g6
+S"\xe7\xcf'\x9b\x0f\xb6\xd2?"
+p339
+tp340
+Rp341
+tp342
+a(S'giorgi japaridze'
+p343
+g2
+(g6
+S'"\x06Qx\x8c\xb5\xd2?'
+p344
+tp345
+Rp346
+tp347
+a(S'johan van benthem (logician)'
+p348
+g2
+(g6
+S'\xb2Tf(|\x96\xd2?'
+p349
+tp350
+Rp351
+tp352
+a(S'higher-order logic'
+p353
+g2
+(g6
+S'\x92\xee\xbc\xa6\xd4\x93\xd2?'
+p354
+tp355
+Rp356
+tp357
+a(S'semantics of logic'
+p358
+g2
+(g6
+S'\xa3i\x82\xaa\nx\xd2?'
+p359
+tp360
+Rp361
+tp362
+a(S'non-rigid designator'
+p363
+g2
+(g6
+S'\x8c\xe3\xa7\xed\xc8t\xd2?'
+p364
+tp365
+Rp366
+tp367
+a(S'hybrid logic'
+p368
+g2
+(g6
+S'\x9c\xd2\xd2\x0cjf\xd2?'
+p369
+tp370
+Rp371
+tp372
+a(S'second-order logic'
+p373
+g2
+(g6
+S'8\xadL\x8c@V\xd2?'
+p374
+tp375
+Rp376
+tp377
+a(S'ian rumfitt'
+p378
+g2
+(g6
+S'\xa2b\xc6\x88\x0fM\xd2?'
+p379
+tp380
+Rp381
+tp382
+a(S'sahlqvist formula'
+p383
+g2
+(g6
+S'\x82\x98\xf7\xf9_\x1c\xd2?'
+p384
+tp385
+Rp386
+tp387
+a(S'george edward hughes'
+p388
+g2
+(g6
+S'\xd1h\xa8\xac\xde\x05\xd2?'
+p389
+tp390
+Rp391
+tp392
+a(S'game semantics'
+p393
+g2
+(g6
+S'\x87k"\xe2\xd7\xfb\xd1?'
+p394
+tp395
+Rp396
+tp397
+a(S'classical logic'
+p398
+g2
+(g6
+S'k\xc6RTE\xeb\xd1?'
+p399
+tp400
+Rp401
+tp402
+a(S'non-classical logic'
+p403
+g2
+(g6
+S'\x823\xeb\xdc\x9e\xe3\xd1?'
+p404
+tp405
+Rp406
+tp407
+a(S'philosophical logic'
+p408
+g2
+(g6
+S'\xfc\xdaR:\xef\xbe\xd1?'
+p409
+tp410
+Rp411
+tp412
+a(S'paraconsistent logic'
+p413
+g2
+(g6
+S'\xc2\xe0\\}n\xb6\xd1?'
+p414
+tp415
+Rp416
+tp417
+a(S'modal depth'
+p418
+g2
+(g6
+S'ExD\\\xd3\xb0\xd1?'
+p419
+tp420
+Rp421
+tp422
+a(S'deontic logic'
+p423
+g2
+(g6
+S'&{\xfe\x1f\xb8\xb0\xd1?'
+p424
+tp425
+Rp426
+tp427
+a(S'david lewis (philosopher)'
+p428
+g2
+(g6
+S'\xfe\xe9\xf6\xb7\xaau\xd1?'
+p429
+tp430
+Rp431
+tp432
+a(S'list of mathematical logic topics'
+p433
+g2
+(g6
+S'\x9e\x90\xedZ)d\xd1?'
+p434
+tp435
+Rp436
+tp437
+a(S'robert stalnaker'
+p438
+g2
+(g6
+S'xHd\xe6\xfb`\xd1?'
+p439
+tp440
+Rp441
+tp442
+a(S'two-dimensionalism'
+p443
+g2
+(g6
+S'^\xca\xb1/C\x1f\xd1?'
+p444
+tp445
+Rp446
+tp447
+a(S'inhabited set'
+p448
+g2
+(g6
+S'\x00;\xfe\x04+\x16\xd1?'
+p449
+tp450
+Rp451
+tp452
+a(S'universal logic'
+p453
+g2
+(g6
+S'\x9c;B\xc9y\xfe\xd0?'
+p454
+tp455
+Rp456
+tp457
+a(S'modal realism'
+p458
+g2
+(g6
+S'\xd7#\xc9b\x18\xef\xd0?'
+p459
+tp460
+Rp461
+tp462
+a(S'supernatural (u.s. tv series)'
+p463
+g2
+(g6
+S'\xa5\x1e\xc1\x1b\xbd\xb0\xd0?'
+p464
+tp465
+Rp466
+tp467
+a(S'neighborhood semantics'
+p468
+g2
+(g6
+S'q\xe4\xd2\x13\xd2\xab\xd0?'
+p469
+tp470
+Rp471
+tp472
+a(S'many-valued logic'
+p473
+g2
+(g6
+S'\x05(LI\xc3\xab\xd0?'
+p474
+tp475
+Rp476
+tp477
+a(S'gareth evans (philosopher)'
+p478
+g2
+(g6
+S'R\x7f\xb9mPt\xd0?'
+p479
+tp480
+Rp481
+tp482
+a(S'l\xc3\xb6wenheim number'
+p483
+g2
+(g6
+S'H\xb5\xb1\x8d$g\xd0?'
+p484
+tp485
+Rp486
+tp487
+a(S'term logic'
+p488
+g2
+(g6
+S'\n\x0c?%\xbee\xd0?'
+p489
+tp490
+Rp491
+tp492
+a(S'bunched logic'
+p493
+g2
+(g6
+S'@&m\xe3\tZ\xd0?'
+p494
+tp495
+Rp496
+tp497
+a(S'jerzy perzanowski'
+p498
+g2
+(g6
+S'\x84iv\xfd\x06B\xd0?'
+p499
+tp500
+Rp501
+tp502
+a(S'scott soames'
+p503
+g2
+(g6
+S'\xd0;\x8f\xf8\xc97\xd0?'
+p504
+tp505
+Rp506
+tp507
+a(S'logical possibility'
+p508
+g2
+(g6
+S',\xfd;\xbf\xc96\xd0?'
+p509
+tp510
+Rp511
+tp512
+a(S'temporal logic'
+p513
+g2
+(g6
+S'\xdah=\x97\x874\xd0?'
+p514
+tp515
+Rp516
+tp517
+a(S'wim blok'
+p518
+g2
+(g6
+S'\xceq\xd5\xb2\xcb*\xd0?'
+p519
+tp520
+Rp521
+tp522
+a(S'admissible set'
+p523
+g2
+(g6
+S'\xdf\x93v\xcb\xbb%\xd0?'
+p524
+tp525
+Rp526
+tp527
+a(S'logic (disambiguation)'
+p528
+g2
+(g6
+S'\xec\x07\x0fZ\x11 \xd0?'
+p529
+tp530
+Rp531
+tp532
+a(S'f-logic'
+p533
+g2
+(g6
+S'\xb0,\xc3(\xc6\x17\xd0?'
+p534
+tp535
+Rp536
+tp537
+a(S"japaridze's polymodal logic"
+p538
+g2
+(g6
+S'\xa9\xd9\x83\xa0\xca\x13\xd0?'
+p539
+tp540
+Rp541
+tp542
+a(S'john lemmon'
+p543
+g2
+(g6
+S"\xedP'\x18\xab\x0f\xd0?"
+p544
+tp545
+Rp546
+tp547
+a(S'journal of philosophical logic'
+p548
+g2
+(g6
+S'\x8ceP5h\x0c\xd0?'
+p549
+tp550
+Rp551
+tp552
+a(S'independence-friendly logic'
+p553
+g2
+(g6
+S'\xe1\x06g\xc2\xd2\x03\xd0?'
+p554
+tp555
+Rp556
+tp557
+a(S'richard zach'
+p558
+g2
+(g6
+S'G\xc5\x80\x82\xcf\x02\xd0?'
+p559
+tp560
+Rp561
+tp562
+a(S'proper name (philosophy)'
+p563
+g2
+(g6
+S'\xad\x85\xcb\xe9\xe1\xcd\xcf?'
+p564
+tp565
+Rp566
+tp567
+a(S'algebraic logic'
+p568
+g2
+(g6
+S'\xd3\xa7\xc7\xb8\xcc\xbb\xcf?'
+p569
+tp570
+Rp571
+tp572
+a(S'complete theory'
+p573
+g2
+(g6
+S"Qb'4\xad\xbb\xcf?"
+p574
+tp575
+Rp576
+tp577
+a(S'sergei n. artemov'
+p578
+g2
+(g6
+S'E\xb3\xdb\xdd5\xb7\xcf?'
+p579
+tp580
+Rp581
+tp582
+a(S'infinitary logic'
+p583
+g2
+(g6
+S'n\xe4P\x86\xef\xb1\xcf?'
+p584
+tp585
+Rp586
+tp587
+a(S'john lane bell'
+p588
+g2
+(g6
+S'gU\xf5O\xd0\x82\xcf?'
+p589
+tp590
+Rp591
+tp592
+a(S'supernatural (season 5)'
+p593
+g2
+(g6
+S'\xf3\xba\xd7\xf9g\x82\xcf?'
+p594
+tp595
+Rp596
+tp597
+a(S'possible world'
+p598
+g2
+(g6
+S'\xa4\xb2\xb5\x92\xa5t\xcf?'
+p599
+tp600
+Rp601
+tp602
+a(S'john corcoran (logician)'
+p603
+g2
+(g6
+S'\x1f}4\xc1\xecf\xcf?'
+p604
+tp605
+Rp606
+tp607
+a(S'dependence logic'
+p608
+g2
+(g6
+S'\xf22\x01\x8d|N\xcf?'
+p609
+tp610
+Rp611
+tp612
+a(S'supernatural (season 4)'
+p613
+g2
+(g6
+S'@?S\xae\xd19\xcf?'
+p614
+tp615
+Rp616
+tp617
+a(S'jon barwise'
+p618
+g2
+(g6
+S'i\x87\xe3\x1a\x1b6\xcf?'
+p619
+tp620
+Rp621
+tp622
+a(S'is logic empirical?'
+p623
+g2
+(g6
+S'\x98V\xd4"\xaa\x1f\xcf?'
+p624
+tp625
+Rp626
+tp627
+a(S'predicate abstraction'
+p628
+g2
+(g6
+S'\xb2\x17B\xb8\xee\x0c\xcf?'
+p629
+tp630
+Rp631
+tp632
+a(S'index of philosophy of language articles'
+p633
+g2
+(g6
+S'S\x01\xc2\xcc\xde\xff\xce?'
+p634
+tp635
+Rp636
+tp637
+a(S'stephen neale'
+p638
+g2
+(g6
+S'Yzxm\xaa\xf6\xce?'
+p639
+tp640
+Rp641
+tp642
+a(S'philosophy of language'
+p643
+g2
+(g6
+S'\x7f\xc0\xfb\xf4\x97\xe7\xce?'
+p644
+tp645
+Rp646
+tp647
+a(S'logics for computability'
+p648
+g2
+(g6
+S'\xd7\xf0\xec\x84M\xde\xce?'
+p649
+tp650
+Rp651
+tp652
+a(S'evert willem beth'
+p653
+g2
+(g6
+S'\xd7,Z\xce\xf1\xb0\xce?'
+p654
+tp655
+Rp656
+tp657
+a(S'alan ross anderson'
+p658
+g2
+(g6
+S'\xd2T\x02\x8a\xe9\x85\xce?'
+p659
+tp660
+Rp661
+tp662
+a(S'metamathematics'
+p663
+g2
+(g6
+S'<\xd0\n\xa8\x84j\xce?'
+p664
+tp665
+Rp666
+tp667
+a(S'logic in computer science'
+p668
+g2
+(g6
+S'$\xdf7\xc8\x91f\xce?'
+p669
+tp670
+Rp671
+tp672
+a(S'meaning (philosophy of language)'
+p673
+g2
+(g6
+S'$\xd5\xcft\x12[\xce?'
+p674
+tp675
+Rp676
+tp677
+a(S'free logic'
+p678
+g2
+(g6
+S'\x07n\xbf\xa5\xa1M\xce?'
+p679
+tp680
+Rp681
+tp682
+a(S'modal'
+p683
+g2
+(g6
+S'F\xa5\x9bb~G\xce?'
+p684
+tp685
+Rp686
+tp687
+a(S'truth value'
+p688
+g2
+(g6
+S'v\xdc\xd1\xe8]1\xce?'
+p689
+tp690
+Rp691
+tp692
+a(S'affine logic'
+p693
+g2
+(g6
+S'\x14\x15\x02v\xac\x0f\xce?'
+p694
+tp695
+Rp696
+tp697
+a(S'james garson'
+p698
+g2
+(g6
+S'\xfelg"\x07\x0f\xce?'
+p699
+tp700
+Rp701
+tp702
+a(S'1972 in philosophy'
+p703
+g2
+(g6
+S'\x01\x96\xab\xbeK\xfe\xcd?'
+p704
+tp705
+Rp706
+tp707
+a(S'karel lambert'
+p708
+g2
+(g6
+S'@\xd0\xcd\xf8\x86\x9c\xcd?'
+p709
+tp710
+Rp711
+tp712
+a(S'stewart shapiro'
+p713
+g2
+(g6
+S'\xf9OD\x9cH\x90\xcd?'
+p714
+tp715
+Rp716
+tp717
+a(S'nuel belnap'
+p718
+g2
+(g6
+S'\xed\xe8n\x9bS|\xcd?'
+p719
+tp720
+Rp721
+tp722
+a(S'combinational logic'
+p723
+g2
+(g6
+S'\x08L\x12\x93\xd7a\xcd?'
+p724
+tp725
+Rp726
+tp727
+a(S'graham priest'
+p728
+g2
+(g6
+S'\x83\xf6\xc6\x99\x95Q\xcd?'
+p729
+tp730
+Rp731
+tp732
+a(S'principle of bivalence'
+p733
+g2
+(g6
+S'\xdc\xe0K\x14#P\xcd?'
+p734
+tp735
+Rp736
+tp737
+a(S'autoepistemic logic'
+p738
+g2
+(g6
+S'\xf0\x1e\xbc\tNK\xcd?'
+p739
+tp740
+Rp741
+tp742
+a(S'rival conceptions of logic'
+p743
+g2
+(g6
+S'\xe0`M\x1e\xd0C\xcd?'
+p744
+tp745
+Rp746
+tp747
+a(S'minimal logic'
+p748
+g2
+(g6
+S'}\x8b\x8e\xa3\x1e-\xcd?'
+p749
+tp750
+Rp751
+tp752
+a(S'carlo penco'
+p753
+g2
+(g6
+S'J\x9eL\n\x04\xf8\xcc?'
+p754
+tp755
+Rp756
+tp757
+a(S'dialectical logic'
+p758
+g2
+(g6
+S'0\xf6\xe4M\xc7\xed\xcc?'
+p759
+tp760
+Rp761
+tp762
+a(S'mark johnston (philosopher)'
+p763
+g2
+(g6
+S'\x82\xe7\x9d\xff\xa3\xea\xcc?'
+p764
+tp765
+Rp766
+tp767
+a(S'interpretation (logic)'
+p768
+g2
+(g6
+S'\x83\xf4\xef-%\xcc\xcc?'
+p769
+tp770
+Rp771
+tp772
+a(S'indian logic'
+p773
+g2
+(g6
+S'Z\xe1#\xb5W\xcb\xcc?'
+p774
+tp775
+Rp776
+tp777
+a(S'list of important publications in philosophy'
+p778
+g2
+(g6
+S'\xc7"\x0b9\x96\xc7\xcc?'
+p779
+tp780
+Rp781
+tp782
+a(S'admissibility'
+p783
+g2
+(g6
+S'\xbb\x00\x8d\xd2K\xc3\xcc?'
+p784
+tp785
+Rp786
+tp787
+a(S'1977 in philosophy'
+p788
+g2
+(g6
+S'\xf6\xfd\xd0<\xec\xb8\xcc?'
+p789
+tp790
+Rp791
+tp792
+a(S'truth'
+p793
+g2
+(g6
+S'\xa00F\xdc[\xb4\xcc?'
+p794
+tp795
+Rp796
+tp797
+a(S'logic in islamic philosophy'
+p798
+g2
+(g6
+S'\xb5\\M\x9d\xf4\xb0\xcc?'
+p799
+tp800
+Rp801
+tp802
+a(S'list of logic symbols'
+p803
+g2
+(g6
+S'\xb0KU\xb5\xab\xa1\xcc?'
+p804
+tp805
+Rp806
+tp807
+a(S'cirquent calculus'
+p808
+g2
+(g6
+S'\xc3D\x00a\xe8\x8f\xcc?'
+p809
+tp810
+Rp811
+tp812
+a(S'anti-psychologism'
+p813
+g2
+(g6
+S'1Iw\xbd\xd0>\xcc?'
+p814
+tp815
+Rp816
+tp817
+a(S'abstract logic'
+p818
+g2
+(g6
+S'\xe0\xdc;\x85\\;\xcc?'
+p819
+tp820
+Rp821
+tp822
+a(S'modal operator'
+p823
+g2
+(g6
+S'\xe6 9\x18\xf8/\xcc?'
+p824
+tp825
+Rp826
+tp827
+a(S'walter carnielli'
+p828
+g2
+(g6
+S'=\x84\x9eC\x8d!\xcc?'
+p829
+tp830
+Rp831
+tp832
+a(S'jean-yves b\xc3\xa9ziau'
+p833
+g2
+(g6
+S'K>h\xacX\x1f\xcc?'
+p834
+tp835
+Rp836
+tp837
+a(S'modal \xce\xbc-calculus'
+p838
+g2
+(g6
+S'.\x8f\x17\xc7\xd3\x1e\xcc?'
+p839
+tp840
+Rp841
+tp842
+a(S'georg henrik von wright'
+p843
+g2
+(g6
+S'IT\xf6\xc2g\x1c\xcc?'
+p844
+tp845
+Rp846
+tp847
+a(S'ruy de queiroz'
+p848
+g2
+(g6
+S'\xfd o\xb2\xd3\x14\xcc?'
+p849
+tp850
+Rp851
+tp852
+a(S'e. w. beth dissertation prize'
+p853
+g2
+(g6
+S'Y/\xaa\r\xf0\xec\xcb?'
+p854
+tp855
+Rp856
+tp857
+a(S'jan \xc5\x81ukasiewicz'
+p858
+g2
+(g6
+S'\x88h\xe6RP\xbe\xcb?'
+p859
+tp860
+Rp861
+tp862
+a(S'algebraic semantics (mathematical logic)'
+p863
+g2
+(g6
+S'\xc6\xbf\x83\xedf\xb2\xcb?'
+p864
+tp865
+Rp866
+tp867
+a(S'meaning and necessity'
+p868
+g2
+(g6
+S'\x82Z-\x85\x10\xb1\xcb?'
+p869
+tp870
+Rp871
+tp872
+a(S'consistency'
+p873
+g2
+(g6
+S'$o\xd5;\xff\xab\xcb?'
+p874
+tp875
+Rp876
+tp877
+a(S'logic in china'
+p878
+g2
+(g6
+S'1\xbd\xf1\x8b\xfa\xa2\xcb?'
+p879
+tp880
+Rp881
+tp882
+a(S'tautology (logic)'
+p883
+g2
+(g6
+S'\x11\x99\x1e\xff\x8e\x9e\xcb?'
+p884
+tp885
+Rp886
+tp887
+a(S'abstract logic (disambiguation)'
+p888
+g2
+(g6
+S'\xf2\xe0@C\xd6\x95\xcb?'
+p889
+tp890
+Rp891
+tp892
+a(S'temporal logic in finite-state verification'
+p893
+g2
+(g6
+S'\xec<\xdaV\x14\x7f\xcb?'
+p894
+tp895
+Rp896
+tp897
+a(S'proof theory'
+p898
+g2
+(g6
+S'g*\x9eg\xc1y\xcb?'
+p899
+tp900
+Rp901
+tp902
+a(S'logic programming'
+p903
+g2
+(g6
+S'\x8c\x03\n\xc5\xefk\xcb?'
+p904
+tp905
+Rp906
+tp907
+a(S'peter geach'
+p908
+g2
+(g6
+S'\xd4\xfaWC\x13k\xcb?'
+p909
+tp910
+Rp911
+tp912
+a(S'dov gabbay'
+p913
+g2
+(g6
+S'\xad\x96K\x14)g\xcb?'
+p914
+tp915
+Rp916
+tp917
+a(S'nathan salmon'
+p918
+g2
+(g6
+S'\xd8\x9b\xe8\xdc\xd9c\xcb?'
+p919
+tp920
+Rp921
+tp922
+a(S'rohit jivanlal parikh'
+p923
+g2
+(g6
+S'-\xd2\x9f\xa5?S\xcb?'
+p924
+tp925
+Rp926
+tp927
+a(S'deviant logic'
+p928
+g2
+(g6
+S'o\xaf\x94\x0e\x05M\xcb?'
+p929
+tp930
+Rp931
+tp932
+a(S'american philosophy'
+p933
+g2
+(g6
+S'M`w\x0c\xfbJ\xcb?'
+p934
+tp935
+Rp936
+tp937
+a(S'model theory'
+p938
+g2
+(g6
+S'\x86\xe6\xa0\xc2\xceC\xcb?'
+p939
+tp940
+Rp941
+tp942
+a(S'a posteriori necessity'
+p943
+g2
+(g6
+S'W\xa0\xcd\x9ca0\xcb?'
+p944
+tp945
+Rp946
+tp947
+a(S'thoralf skolem'
+p948
+g2
+(g6
+S'\xe1F@5\x89\x1b\xcb?'
+p949
+tp950
+Rp951
+tp952
+a(S'propositional calculus'
+p953
+g2
+(g6
+S'\x9b\xf5\xbd\xf8D\x1a\xcb?'
+p954
+tp955
+Rp956
+tp957
+a(S'logic (musician)'
+p958
+g2
+(g6
+S'\x9c\x82\xff0\xb3\x0e\xcb?'
+p959
+tp960
+Rp961
+tp962
+a(S'keith donnellan'
+p963
+g2
+(g6
+S'\x8a3\x18e\xb3\xff\xca?'
+p964
+tp965
+Rp966
+tp967
+a(S'computability logic'
+p968
+g2
+(g6
+S'^\xee\x81\xab\x8b\xff\xca?'
+p969
+tp970
+Rp971
+tp972
+a(S'peter koellner'
+p973
+g2
+(g6
+S'\xa9i\xcey\xc2\xf1\xca?'
+p974
+tp975
+Rp976
+tp977
+a(S'abstract algebraic logic'
+p978
+g2
+(g6
+S'\x17\x84D\x94\xba\xd5\xca?'
+p979
+tp980
+Rp981
+tp982
+a(S'\xc5\x81ukasiewicz logic'
+p983
+g2
+(g6
+S'}ih\r\x95\xd2\xca?'
+p984
+tp985
+Rp986
+tp987
+a(S'interpretability logic'
+p988
+g2
+(g6
+S'k\xda4\xf5\xfd\xd0\xca?'
+p989
+tp990
+Rp991
+tp992
+a(S'informal logic'
+p993
+g2
+(g6
+S'6\xf1\x8f\x99\x14\xcc\xca?'
+p994
+tp995
+Rp996
+tp997
+a(S'private language argument'
+p998
+g2
+(g6
+S'~~/k\x9c\xc9\xca?'
+p999
+tp1000
+Rp1001
+tp1002
+a(S'metalogic'
+p1003
+g2
+(g6
+S'\xa1}z\x05\x86\xc7\xca?'
+p1004
+tp1005
+Rp1006
+tp1007
+a(S'three-valued logic'
+p1008
+g2
+(g6
+S'rx~U\x91\xc5\xca?'
+p1009
+tp1010
+Rp1011
+tp1012
+a(S'stanis\xc5\x82aw ja\xc5\x9bkowski'
+p1013
+g2
+(g6
+S'\xa2\x9a>\xbdz\xc5\xca?'
+p1014
+tp1015
+Rp1016
+tp1017
+a(S'rudolf carnap'
+p1018
+g2
+(g6
+S'\xaf\xb2H\xb9\xf1\xae\xca?'
+p1019
+tp1020
+Rp1021
+tp1022
+a(S'second-order propositional logic'
+p1023
+g2
+(g6
+S'\x12\xbd}\xf4\xf5\xa3\xca?'
+p1024
+tp1025
+Rp1026
+tp1027
+a(S'law of thought'
+p1028
+g2
+(g6
+S'\xe2\x8f\xc3k\xd5\xa2\xca?'
+p1029
+tp1030
+Rp1031
+tp1032
+a(S'monadic predicate calculus'
+p1033
+g2
+(g6
+S'd\x88\x12\xae,\x8c\xca?'
+p1034
+tp1035
+Rp1036
+tp1037
+a(S'neil tennant (philosopher)'
+p1038
+g2
+(g6
+S"+\x0f\xcd'+\x81\xca?"
+p1039
+tp1040
+Rp1041
+tp1042
+a(S'guarded logic'
+p1043
+g2
+(g6
+S'$O\xe9\xfd\x1a\x81\xca?'
+p1044
+tp1045
+Rp1046
+tp1047
+a(S'vienna summer of logic'
+p1048
+g2
+(g6
+S'\xd1r\xff\xc1\xd2x\xca?'
+p1049
+tp1050
+Rp1051
+tp1052
+a(S'nino cocchiarella'
+p1053
+g2
+(g6
+S'\xa0\xf9\xce\xbb\xdcq\xca?'
+p1054
+tp1055
+Rp1056
+tp1057
+a(S'buddhist logic'
+p1058
+g2
+(g6
+S'~f\x95\x93\xf4h\xca?'
+p1059
+tp1060
+Rp1061
+tp1062
+a(S'ivan orlov (philosopher)'
+p1063
+g2
+(g6
+S'X0Z\xc7Qh\xca?'
+p1064
+tp1065
+Rp1066
+tp1067
+a(S'irving copi'
+p1068
+g2
+(g6
+S'\xb9\xb3a \xd2b\xca?'
+p1069
+tp1070
+Rp1071
+tp1072
+a(S'r. r. rockingham gill'
+p1073
+g2
+(g6
+S'H\xf6\xee\xd6T]\xca?'
+p1074
+tp1075
+Rp1076
+tp1077
+a(S'joan moschovakis'
+p1078
+g2
+(g6
+S'U\xa8\x91F{L\xca?'
+p1079
+tp1080
+Rp1081
+tp1082
+a(S'computational logic'
+p1083
+g2
+(g6
+S'E\x13\xe3\x7f\xc5:\xca?'
+p1084
+tp1085
+Rp1086
+tp1087
+a(S'david makinson'
+p1088
+g2
+(g6
+S'\xf1\x02\xf5\x93\xa37\xca?'
+p1089
+tp1090
+Rp1091
+tp1092
+a(S'valentin a. bazhanov'
+p1093
+g2
+(g6
+S'q\xe8\xcc\x94\x840\xca?'
+p1094
+tp1095
+Rp1096
+tp1097
+a(S'truth-value semantics'
+p1098
+g2
+(g6
+S'\xe7NL\xae\xe9)\xca?'
+p1099
+tp1100
+Rp1101
+tp1102
+a(S'burton dreben'
+p1103
+g2
+(g6
+S'\xa7%F\xe6\xea"\xca?'
+p1104
+tp1105
+Rp1106
+tp1107
+a(S'the journal of philosophy'
+p1108
+g2
+(g6
+S'\x1cn9\x0cW\x13\xca?'
+p1109
+tp1110
+Rp1111
+tp1112
+a(S'matthew w. mckeon'
+p1113
+g2
+(g6
+S'5\xe0\xf2\xbbt\x12\xca?'
+p1114
+tp1115
+Rp1116
+tp1117
+a(S'alasdair urquhart'
+p1118
+g2
+(g6
+S'T\xfc\xa6(\xc3\xdc\xc9?'
+p1119
+tp1120
+Rp1121
+tp1122
+a(S'logic pro'
+p1123
+g2
+(g6
+S'"\xb6*\xf2\x82\xc8\xc9?'
+p1124
+tp1125
+Rp1126
+tp1127
+a(S'nijaz ibrulj'
+p1128
+g2
+(g6
+S'\n\xbc\ro?\xc6\xc9?'
+p1129
+tp1130
+Rp1131
+tp1132
+a(S'common knowledge (logic)'
+p1133
+g2
+(g6
+S'5\xead`\xfa\xb0\xc9?'
+p1134
+tp1135
+Rp1136
+tp1137
+a(S'logic gate'
+p1138
+g2
+(g6
+S'\xcb\x8f\xb5\xdd\xb3\xae\xc9?'
+p1139
+tp1140
+Rp1141
+tp1142
+a(S'swan song (supernatural)'
+p1143
+g2
+(g6
+S'\xd1\xa2\xf0\xc8F\xad\xc9?'
+p1144
+tp1145
+Rp1146
+tp1147
+a(S'montague grammar'
+p1148
+g2
+(g6
+S'u\xf2\xb0\xa8E\xab\xc9?'
+p1149
+tp1150
+Rp1151
+tp1152
+a(S'class logic'
+p1153
+g2
+(g6
+S'\xc6\xfe\x08\x86\r\xa5\xc9?'
+p1154
+tp1155
+Rp1156
+tp1157
+a(S'linear logic'
+p1158
+g2
+(g6
+S')\xf2\xcf\xc4Z\xa2\xc9?'
+p1159
+tp1160
+Rp1161
+tp1162
+a(S'william hawkland'
+p1163
+g2
+(g6
+S'\xb6(\xdd\x83"\xa0\xc9?'
+p1164
+tp1165
+Rp1166
+tp1167
+a(S"g\xc3\xb6del's completeness theorem"
+p1168
+g2
+(g6
+S'\xb6}|wX\x91\xc9?'
+p1169
+tp1170
+Rp1171
+tp1172
+a(S'1980 in philosophy'
+p1173
+g2
+(g6
+S'\xd3\x0b\xdf\xe8~\x8d\xc9?'
+p1174
+tp1175
+Rp1176
+tp1177
+a(S'anil gupta (philosopher)'
+p1178
+g2
+(g6
+S'\xccV\xac\x9c\xe9\x89\xc9?'
+p1179
+tp1180
+Rp1181
+tp1182
+a(S'common logic'
+p1183
+g2
+(g6
+S'\xef\xba&|bK\xc9?'
+p1184
+tp1185
+Rp1186
+tp1187
+a(S'logic (song)'
+p1188
+g2
+(g6
+S'\xdb\xe4\x80P_8\xc9?'
+p1189
+tp1190
+Rp1191
+tp1192
+a(S'peter pagin'
+p1193
+g2
+(g6
+S'\x87\xa3\xdd\xe4\xcf+\xc9?'
+p1194
+tp1195
+Rp1196
+tp1197
+a(S'interpretability'
+p1198
+g2
+(g6
+S'\xbf\xadyp\xa9\x0b\xc9?'
+p1199
+tp1200
+Rp1201
+tp1202
+a(S'introduction to mathematical philosophy'
+p1203
+g2
+(g6
+S'\x8d\xe7\xbeGf\x0b\xc9?'
+p1204
+tp1205
+Rp1206
+tp1207
+a(S'defeasible logic'
+p1208
+g2
+(g6
+S'\xc9D\xbd\xd7Y\xf9\xc8?'
+p1209
+tp1210
+Rp1211
+tp1212
+a(S'philosophical investigations'
+p1213
+g2
+(g6
+S'\xc9\xecX\xf9)\xf7\xc8?'
+p1214
+tp1215
+Rp1216
+tp1217
+a(S'logic family'
+p1218
+g2
+(g6
+S'\xf0B\xd4\x88\xcb\xf5\xc8?'
+p1219
+tp1220
+Rp1221
+tp1222
+a(S'leibniz operator'
+p1223
+g2
+(g6
+S'\xb8\xd7\t\xba\x94\xec\xc8?'
+p1224
+tp1225
+Rp1226
+tp1227
+a(S'logic express'
+p1228
+g2
+(g6
+S'\x82\x06\x81N\xe4\xdd\xc8?'
+p1229
+tp1230
+Rp1231
+tp1232
+a(S'gary r. mar'
+p1233
+g2
+(g6
+S'\xb0\x9c\x06nB\xca\xc8?'
+p1234
+tp1235
+Rp1236
+tp1237
+a(S"lindstr\xc3\xb6m's theorem"
+p1238
+g2
+(g6
+S'\x07\xe0\xd7S\x94\xc9\xc8?'
+p1239
+tp1240
+Rp1241
+tp1242
+a(S'logic level'
+p1243
+g2
+(g6
+S'\x9e\x9d2\xd7f\xc8\xc8?'
+p1244
+tp1245
+Rp1246
+tp1247
+a(S'description logic'
+p1248
+g2
+(g6
+S'T\x9d\xe6\xeaE\xc8\xc8?'
+p1249
+tp1250
+Rp1251
+tp1252
+a(S'supervaluationism'
+p1253
+g2
+(g6
+S'\xe9\xe8\xf1l\xcd\xc7\xc8?'
+p1254
+tp1255
+Rp1256
+tp1257
+a(S'bas van fraassen'
+p1258
+g2
+(g6
+S'\x15TC/\xba\xc1\xc8?'
+p1259
+tp1260
+Rp1261
+tp1262
+a(S'solomon feferman'
+p1263
+g2
+(g6
+S'\x8dt"\xe2\xb7\xc1\xc8?'
+p1264
+tp1265
+Rp1266
+tp1267
+a(S'theoria (philosophy journal)'
+p1268
+g2
+(g6
+S'@\xd4\xb0\x06\xb3\xc0\xc8?'
+p1269
+tp1270
+Rp1271
+tp1272
+a(S'cointerpretability'
+p1273
+g2
+(g6
+S'\xa2u\x94\xadj\xbf\xc8?'
+p1274
+tp1275
+Rp1276
+tp1277
+a(S'under pressure (album)'
+p1278
+g2
+(g6
+S'k\xe2%\xfc_\xba\xc8?'
+p1279
+tp1280
+Rp1281
+tp1282
+a(S'timeless (tv series)'
+p1283
+g2
+(g6
+S'\xadV\x89s\xf7\xaa\xc8?'
+p1284
+tp1285
+Rp1286
+tp1287
+a(S'linear temporal logic'
+p1288
+g2
+(g6
+S'\x11\xc9\xc0\xf4\xf8\xa3\xc8?'
+p1289
+tp1290
+Rp1291
+tp1292
+a(S'transaction logic'
+p1293
+g2
+(g6
+S'\xf1GO\xde`\xa3\xc8?'
+p1294
+tp1295
+Rp1296
+tp1297
+a(S'zeroth-order logic'
+p1298
+g2
+(g6
+S'\xc0\x0e\\;\x19\x9a\xc8?'
+p1299
+tp1300
+Rp1301
+tp1302
+a(S'theory of descriptions'
+p1303
+g2
+(g6
+S'\xdc\x9d6M0\x8d\xc8?'
+p1304
+tp1305
+Rp1306
+tp1307
+a(S'institutional model theory'
+p1308
+g2
+(g6
+S'_\x91\x98\x04\xc7\x87\xc8?'
+p1309
+tp1310
+Rp1311
+tp1312
+a(S'algorithmic logic'
+p1313
+g2
+(g6
+S'Q\xe9D\x17\x81i\xc8?'
+p1314
+tp1315
+Rp1316
+tp1317
+a(S'martin l\xc3\xb6b'
+p1318
+g2
+(g6
+S'\x01\xe6\x88\x96\xd6g\xc8?'
+p1319
+tp1320
+Rp1321
+tp1322
+a(S'crispin wright'
+p1323
+g2
+(g6
+S'\xccF\xd1\x02\x99d\xc8?'
+p1324
+tp1325
+Rp1326
+tp1327
+a(S'association for logic, language and information'
+p1328
+g2
+(g6
+S'\x03\xf4}\xb2\x9f[\xc8?'
+p1329
+tp1330
+Rp1331
+tp1332
+a(S'index of philosophy articles (i\xe2\x80\x93q)'
+p1333
+g2
+(g6
+S'\x19\x85\xf3\x9c\x82G\xc8?'
+p1334
+tp1335
+Rp1336
+tp1337
+a(S'ucla logic center'
+p1338
+g2
+(g6
+S'[vn\xa3\x81@\xc8?'
+p1339
+tp1340
+Rp1341
+tp1342
+a(S'najm al-d\xc4\xabn al-qazw\xc4\xabn\xc4\xab al-k\xc4\x81tib\xc4\xab'
+p1343
+g2
+(g6
+S'\xd4\xb0\xd8\xfa`1\xc8?'
+p1344
+tp1345
+Rp1346
+tp1347
+a(S'analytic philosophy'
+p1348
+g2
+(g6
+S'\x01\x93\x92\x14\xc8.\xc8?'
+p1349
+tp1350
+Rp1351
+tp1352
+a(S't-norm fuzzy logics'
+p1353
+g2
+(g6
+S'\xee\xf4\x8a1\x9a&\xc8?'
+p1354
+tp1355
+Rp1356
+tp1357
+a(S'nordic journal of philosophical logic'
+p1358
+g2
+(g6
+S'KKwy%%\xc8?'
+p1359
+tp1360
+Rp1361
+tp1362
+a(S'curry\xe2\x80\x93howard correspondence'
+p1363
+g2
+(g6
+S'\xd4-<\x85\xdd \xc8?'
+p1364
+tp1365
+Rp1366
+tp1367
+a(S'natural deduction'
+p1368
+g2
+(g6
+S'\x81\xf5;,\xda\x19\xc8?'
+p1369
+tp1370
+Rp1371
+tp1372
+a(S'benson mates'
+p1373
+g2
+(g6
+S'r\x06;\x13\xfc\x10\xc8?'
+p1374
+tp1375
+Rp1376
+tp1377
+a(S'buridan formula'
+p1378
+g2
+(g6
+S'\x9f\x046%y\x0f\xc8?'
+p1379
+tp1380
+Rp1381
+tp1382
+a(S'raymond smullyan'
+p1383
+g2
+(g6
+S'\xbc\x80\xcdV\xec\x0c\xc8?'
+p1384
+tp1385
+Rp1386
+tp1387
+a(S'predicate functor logic'
+p1388
+g2
+(g6
+S'\xe1\xb0lf\x14\x03\xc8?'
+p1389
+tp1390
+Rp1391
+tp1392
+a(S'double-negation translation'
+p1393
+g2
+(g6
+S"\xc4'\x15RN\xfd\xc7?"
+p1394
+tp1395
+Rp1396
+tp1397
+a(S'categorical logic'
+p1398
+g2
+(g6
+S'\xac\xeeD\x8c\xda\xf7\xc7?'
+p1399
+tp1400
+Rp1401
+tp1402
+a(S'deflationary theory of truth'
+p1403
+g2
+(g6
+S'\nA\xd9\xbf\xc7\xf5\xc7?'
+p1404
+tp1405
+Rp1406
+tp1407
+a(S'david wiggins'
+p1408
+g2
+(g6
+S'\xa7Z<\x13\xd5\xed\xc7?'
+p1409
+tp1410
+Rp1411
+tp1412
+a(S'noise-based logic'
+p1413
+g2
+(g6
+S'>\xd0\xc4\xf1\xac\xe9\xc7?'
+p1414
+tp1415
+Rp1416
+tp1417
+a(S'noncommutative logic'
+p1418
+g2
+(g6
+S'\xf1\xfdIE\xa2\xe1\xc7?'
+p1419
+tp1420
+Rp1421
+tp1422
+a(S'logic model'
+p1423
+g2
+(g6
+S'o\xb7\xa2B\x8f\xe1\xc7?'
+p1424
+tp1425
+Rp1426
+tp1427
+a(S'structural rule'
+p1428
+g2
+(g6
+S'\xf1$i7\xc8\xdb\xc7?'
+p1429
+tp1430
+Rp1431
+tp1432
+a(S'digital electronics'
+p1433
+g2
+(g6
+S'\x95\xd9\x94K1\xda\xc7?'
+p1434
+tp1435
+Rp1436
+tp1437
+a(S'paul gochet'
+p1438
+g2
+(g6
+S'\xba8\x9f\x0f\xed\xd4\xc7?'
+p1439
+tp1440
+Rp1441
+tp1442
+a(S'alice ambrose'
+p1443
+g2
+(g6
+S'\xd5\x04\xca\xdd\xaf\xc6\xc7?'
+p1444
+tp1445
+Rp1446
+tp1447
+a(S'high threshold logic'
+p1448
+g2
+(g6
+S'\x15\xa0\xf8\xdc\xa1\xc6\xc7?'
+p1449
+tp1450
+Rp1451
+tp1452
+a(S'megarian school'
+p1453
+g2
+(g6
+S'\\\xaf\x8fw:\xba\xc7?'
+p1454
+tp1455
+Rp1456
+tp1457
+a(S'index of philosophy articles (r\xe2\x80\x93z)'
+p1458
+g2
+(g6
+S'y>\x98\xf2\x10\x9b\xc7?'
+p1459
+tp1460
+Rp1461
+tp1462
+a(S'decidability'
+p1463
+g2
+(g6
+S"(\x08\x85'\xb0\x82\xc7?"
+p1464
+tp1465
+Rp1466
+tp1467
+a(S'foundations of mathematics'
+p1468
+g2
+(g6
+S'\x0c\xf8c;\xd6\x81\xc7?'
+p1469
+tp1470
+Rp1471
+tp1472
+a(S'lindenbaum\xe2\x80\x93tarski algebra'
+p1473
+g2
+(g6
+S'j\xb5"\x18\xdf}\xc7?'
+p1474
+tp1475
+Rp1476
+tp1477
+a(S'willard van orman quine'
+p1478
+g2
+(g6
+S'\xcc\xfc\x9d\xa4\xf6j\xc7?'
+p1479
+tp1480
+Rp1481
+tp1482
+a(S'rules of passage (logic)'
+p1483
+g2
+(g6
+S'\xa1U\x03\xe4\xb3e\xc7?'
+p1484
+tp1485
+Rp1486
+tp1487
+a(S'accident (philosophy)'
+p1488
+g2
+(g6
+S'aTp{\x9ab\xc7?'
+p1489
+tp1490
+Rp1491
+tp1492
+a(S'b, c, k, w system'
+p1493
+g2
+(g6
+S'\xb9\xb6`\xc2HZ\xc7?'
+p1494
+tp1495
+Rp1496
+tp1497
+a(S'carl ginet'
+p1498
+g2
+(g6
+S'l\r8\xc7HY\xc7?'
+p1499
+tp1500
+Rp1501
+tp1502
+a(S'intuitionism'
+p1503
+g2
+(g6
+S'\xcb,\xd9\x03\xeeX\xc7?'
+p1504
+tp1505
+Rp1506
+tp1507
+a(S'journal of logic, language and information'
+p1508
+g2
+(g6
+S'%8\tK\x07K\xc7?'
+p1509
+tp1510
+Rp1511
+tp1512
+a.

@@ -1,0 +1,2728 @@
+(lp0
+(S'journal of artificial intelligence research'
+p1
+cnumpy.core.multiarray
+scalar
+p2
+(cnumpy
+dtype
+p3
+(S'f8'
+p4
+I0
+I1
+tp5
+Rp6
+(I3
+S'<'
+p7
+NNNI-1
+I-1
+I0
+tp8
+bS'\x01\x00\x00\x00\x00\x00\xf0?'
+p9
+tp10
+Rp11
+tp12
+a(S'journal of experimental and theoretical artificial intelligence'
+p13
+g2
+(g6
+S'\xe1\xadBi\xdf\x83\xe7?'
+p14
+tp15
+Rp16
+tp17
+a(S'artificial intelligence (journal)'
+p18
+g2
+(g6
+S'\x07o\x08\x91^V\xe6?'
+p19
+tp20
+Rp21
+tp22
+a(S'european transactions on telecommunications'
+p23
+g2
+(g6
+S'\x02\xb9\xd7\x991\xaa\xe5?'
+p24
+tp25
+Rp26
+tp27
+a(S'adaptive behavior (journal)'
+p28
+g2
+(g6
+S'm\x16\xcf\x16\xa3\xe2\xe4?'
+p29
+tp30
+Rp31
+tp32
+a(S'world journal of gastroenterology'
+p33
+g2
+(g6
+S'\xcc\xf0t)\x15\xb3\xe4?'
+p34
+tp35
+Rp36
+tp37
+a(S'neurochemical research'
+p38
+g2
+(g6
+S'\x13K\x9c\xbb\t\x94\xe4?'
+p39
+tp40
+Rp41
+tp42
+a(S'journal of economic behavior and organization'
+p43
+g2
+(g6
+S'w\xe0\x96$)^\xe4?'
+p44
+tp45
+Rp46
+tp47
+a(S'geobiology (journal)'
+p48
+g2
+(g6
+S'\x9c\x9dt[\xe7\\\xe4?'
+p49
+tp50
+Rp51
+tp52
+a(S'american politics research'
+p53
+g2
+(g6
+S'2&Y\xb6|\x17\xe4?'
+p54
+tp55
+Rp56
+tp57
+a(S'orphanet journal of rare diseases'
+p58
+g2
+(g6
+S'\xd5\xc5\xb8n\x98\xef\xe3?'
+p59
+tp60
+Rp61
+tp62
+a(S'retrovirology (journal)'
+p63
+g2
+(g6
+S"\x15a\xe1\x98'\xeb\xe3?"
+p64
+tp65
+Rp66
+tp67
+a(S'politics & society'
+p68
+g2
+(g6
+S'\xd5&\x13V\x18\xdf\xe3?'
+p69
+tp70
+Rp71
+tp72
+a(S'biomed research international'
+p73
+g2
+(g6
+S'v\xb0g\xb0\x92\xdd\xe3?'
+p74
+tp75
+Rp76
+tp77
+a(S'journal of family issues'
+p78
+g2
+(g6
+S'=K\x97\x96\x90\xcc\xe3?'
+p79
+tp80
+Rp81
+tp82
+a(S'personality disorders: theory, research, and treatment'
+p83
+g2
+(g6
+S'\x98\xdc\x0f\xce\xa7\xc8\xe3?'
+p84
+tp85
+Rp86
+tp87
+a(S'the international journal of press/politics'
+p88
+g2
+(g6
+S'x\xa1\x9d\x16p\xbd\xe3?'
+p89
+tp90
+Rp91
+tp92
+a(S'neues jahrbuch f\xc3\xbcr geologie und pal\xc3\xa4ontologie'
+p93
+g2
+(g6
+S'G/\x95$\xbf\xbc\xe3?'
+p94
+tp95
+Rp96
+tp97
+a(S'textile research journal'
+p98
+g2
+(g6
+S'\xce*\x18\x1e\x85\xba\xe3?'
+p99
+tp100
+Rp101
+tp102
+a(S'journal of family psychology'
+p103
+g2
+(g6
+S'7\x1c\xd3u\xfc\xb6\xe3?'
+p104
+tp105
+Rp106
+tp107
+a(S'viruses (journal)'
+p108
+g2
+(g6
+S'#\x1d`\xfd\xaf\xa9\xe3?'
+p109
+tp110
+Rp111
+tp112
+a(S'surface science reports'
+p113
+g2
+(g6
+S'\x14\x1e\xf7m\xc8\xa6\xe3?'
+p114
+tp115
+Rp116
+tp117
+a(S'international journal of environmental research and public health'
+p118
+g2
+(g6
+S'\x8dD,\xb38\xa0\xe3?'
+p119
+tp120
+Rp121
+tp122
+a(S'journal of european public policy'
+p123
+g2
+(g6
+S'5M\xc2N]\x9d\xe3?'
+p124
+tp125
+Rp126
+tp127
+a(S'asian women (journal)'
+p128
+g2
+(g6
+S'\xf3\x14*\xcf~|\xe3?'
+p129
+tp130
+Rp131
+tp132
+a(S'journal of fire sciences'
+p133
+g2
+(g6
+S':bI&\xc1y\xe3?'
+p134
+tp135
+Rp136
+tp137
+a(S'ca (journal)'
+p138
+g2
+(g6
+S'9\x83\xe8\xcf\xddf\xe3?'
+p139
+tp140
+Rp141
+tp142
+a(S'journal of clinical psychopharmacology'
+p143
+g2
+(g6
+S'\xc2/\x85[ob\xe3?'
+p144
+tp145
+Rp146
+tp147
+a(S'international journal of damage mechanics'
+p148
+g2
+(g6
+S'{S\xf4\xe6\x1b`\xe3?'
+p149
+tp150
+Rp151
+tp152
+a(S'journal of cluster science'
+p153
+g2
+(g6
+S'bv\t\x80qP\xe3?'
+p154
+tp155
+Rp156
+tp157
+a(S'mycokeys'
+p158
+g2
+(g6
+S'\xf9h\n\xd2\xa8N\xe3?'
+p159
+tp160
+Rp161
+tp162
+a(S'journal of conflict resolution'
+p163
+g2
+(g6
+S'\xcfX]%\x99L\xe3?'
+p164
+tp165
+Rp166
+tp167
+a(S'men and masculinities'
+p168
+g2
+(g6
+S'\x15\\3JkF\xe3?'
+p169
+tp170
+Rp171
+tp172
+a(S'chemical engineering science'
+p173
+g2
+(g6
+S'\xf1\x8aH\x96\x9d@\xe3?'
+p174
+tp175
+Rp176
+tp177
+a(S'history of psychology (journal)'
+p178
+g2
+(g6
+S'\x9c\x95\x1ekt?\xe3?'
+p179
+tp180
+Rp181
+tp182
+a(S'journal of neuroscience methods'
+p183
+g2
+(g6
+S'\x1eN\xe9\x9ca/\xe3?'
+p184
+tp185
+Rp186
+tp187
+a(S'journal of social work'
+p188
+g2
+(g6
+S'\x8f\x88\xa5iR*\xe3?'
+p189
+tp190
+Rp191
+tp192
+a(S'phytomedicine (journal)'
+p193
+g2
+(g6
+S'\xccKSZ\xf1\x0b\xe3?'
+p194
+tp195
+Rp196
+tp197
+a(S'social science computer review'
+p198
+g2
+(g6
+S'\xcf\xec\xca7 \x05\xe3?'
+p199
+tp200
+Rp201
+tp202
+a(S'journal of studies in international education'
+p203
+g2
+(g6
+S'?\x10\x06\xb4w\xfa\xe2?'
+p204
+tp205
+Rp206
+tp207
+a(S'building services engineering research and technology'
+p208
+g2
+(g6
+S'V\x98\xf4<\x7f\xf4\xe2?'
+p209
+tp210
+Rp211
+tp212
+a(S'journal of neuroinflammation'
+p213
+g2
+(g6
+S'b\xa3D\x8c~\xf4\xe2?'
+p214
+tp215
+Rp216
+tp217
+a(S'human ecology (journal)'
+p218
+g2
+(g6
+S'w\xbc\xb0\xfd\xce\xf0\xe2?'
+p219
+tp220
+Rp221
+tp222
+a(S'perspectives on politics'
+p223
+g2
+(g6
+S'\xb8\xf3\x96\x80\x05\xec\xe2?'
+p224
+tp225
+Rp226
+tp227
+a(S'journal of neurotrauma'
+p228
+g2
+(g6
+S'm\xea_\x98\xa7\xe9\xe2?'
+p229
+tp230
+Rp231
+tp232
+a(S'history of science (journal)'
+p233
+g2
+(g6
+S'82\x19n\xaf\xe4\xe2?'
+p234
+tp235
+Rp236
+tp237
+a(S'the journal of environment & development'
+p238
+g2
+(g6
+S'!!\xfc|B\xdd\xe2?'
+p239
+tp240
+Rp241
+tp242
+a(S'business history (journal)'
+p243
+g2
+(g6
+S'\t\x19\x06\xaej\xd5\xe2?'
+p244
+tp245
+Rp246
+tp247
+a(S'journal of elastomers and plastics'
+p248
+g2
+(g6
+S'n%\x1fa%\xd0\xe2?'
+p249
+tp250
+Rp251
+tp252
+a(S'clinical interventions in aging'
+p253
+g2
+(g6
+S'\xc6\x91\xa0P\xf9\xc4\xe2?'
+p254
+tp255
+Rp256
+tp257
+a(S'urban education'
+p258
+g2
+(g6
+S'V\xb0\x02G\xc6\xc4\xe2?'
+p259
+tp260
+Rp261
+tp262
+a(S'international journal of applied mathematics and computer science'
+p263
+g2
+(g6
+S'$\x9d\x12\x00Q\xc3\xe2?'
+p264
+tp265
+Rp266
+tp267
+a(S'international journal of research in marketing'
+p268
+g2
+(g6
+S'D0\x0b(\xdb\xc1\xe2?'
+p269
+tp270
+Rp271
+tp272
+a(S'materials (journal)'
+p273
+g2
+(g6
+S'\xff\xce\x98\x8b\xa5\xb9\xe2?'
+p274
+tp275
+Rp276
+tp277
+a(S'planning theory'
+p278
+g2
+(g6
+S'\x1a\xfc=\xee_\xaf\xe2?'
+p279
+tp280
+Rp281
+tp282
+a(S'canadian journal of behavioural science'
+p283
+g2
+(g6
+S'4\xcbA\xb5\xaa\xad\xe2?'
+p284
+tp285
+Rp286
+tp287
+a(S'acta neuropathologica'
+p288
+g2
+(g6
+S'wKn\xb13\xa6\xe2?'
+p289
+tp290
+Rp291
+tp292
+a(S'journal of intelligent and robotic systems'
+p293
+g2
+(g6
+S'\xbfd\xe5\xb2\x88\xa4\xe2?'
+p294
+tp295
+Rp296
+tp297
+a(S'the chinese journal of international politics'
+p298
+g2
+(g6
+S'n\x1bU\x98\xa4\xa3\xe2?'
+p299
+tp300
+Rp301
+tp302
+a(S'waste management & research'
+p303
+g2
+(g6
+S'Z\xe2\xa8\xe8\xfb\xa1\xe2?'
+p304
+tp305
+Rp306
+tp307
+a(S'energies (journal)'
+p308
+g2
+(g6
+S'=\x95\xe6\xac\xe5\xa0\xe2?'
+p309
+tp310
+Rp311
+tp312
+a(S'feminism & psychology'
+p313
+g2
+(g6
+S'\xe2T\xdb\xa2\xf3\x95\xe2?'
+p314
+tp315
+Rp316
+tp317
+a(S'natural product reports'
+p318
+g2
+(g6
+S'w375+\x92\xe2?'
+p319
+tp320
+Rp321
+tp322
+a(S'molecular biosystems'
+p323
+g2
+(g6
+S'\xbf\x897\xc5\xa0\x8f\xe2?'
+p324
+tp325
+Rp326
+tp327
+a(S'politics, philosophy & economics (journal)'
+p328
+g2
+(g6
+S'\\\x92\xee\x86Q\x86\xe2?'
+p329
+tp330
+Rp331
+tp332
+a(S'journal of phycology'
+p333
+g2
+(g6
+S'\x90\xf5W\x17\x05\x84\xe2?'
+p334
+tp335
+Rp336
+tp337
+a(S'journal of family history'
+p338
+g2
+(g6
+S'?\r\xf3\x18\xdb\x83\xe2?'
+p339
+tp340
+Rp341
+tp342
+a(S'advances in ecological research'
+p343
+g2
+(g6
+S'Ba\xce\xc6\x9b~\xe2?'
+p344
+tp345
+Rp346
+tp347
+a(S'proceedings of the institution of mechanical engineers, part j: journal of engineering tribology'
+p348
+g2
+(g6
+S'\xd2\x10K[\xc1s\xe2?'
+p349
+tp350
+Rp351
+tp352
+a(S'journal of women & aging'
+p353
+g2
+(g6
+S'>*\xc8PAs\xe2?'
+p354
+tp355
+Rp356
+tp357
+a(S'animal science journal'
+p358
+g2
+(g6
+S'\xb9vHI#s\xe2?'
+p359
+tp360
+Rp361
+tp362
+a(S'international journal of environmental research'
+p363
+g2
+(g6
+S'\xfd\x8d\x9bD\xf3n\xe2?'
+p364
+tp365
+Rp366
+tp367
+a(S'education and urban society'
+p368
+g2
+(g6
+S'?\xe8\xa8\xad\xbdn\xe2?'
+p369
+tp370
+Rp371
+tp372
+a(S'immunity (journal)'
+p373
+g2
+(g6
+S'\xc2n\x95\xcaNn\xe2?'
+p374
+tp375
+Rp376
+tp377
+a(S'herpetologica'
+p378
+g2
+(g6
+S'\xf5\xc6\xa4\x18zl\xe2?'
+p379
+tp380
+Rp381
+tp382
+a(S'gifted child quarterly'
+p383
+g2
+(g6
+S'\xdb\x08VTuk\xe2?'
+p384
+tp385
+Rp386
+tp387
+a(S'physics essays'
+p388
+g2
+(g6
+S'\xf2\xdf\xdf\xb0\xf7h\xe2?'
+p389
+tp390
+Rp391
+tp392
+a(S'journal of psychoeducational assessment'
+p393
+g2
+(g6
+S'B0\x94[<g\xe2?'
+p394
+tp395
+Rp396
+tp397
+a(S'photosynthetica'
+p398
+g2
+(g6
+S'F\x93W,Df\xe2?'
+p399
+tp400
+Rp401
+tp402
+a(S'action research (journal)'
+p403
+g2
+(g6
+S'\x18B\x894\xed]\xe2?'
+p404
+tp405
+Rp406
+tp407
+a(S'malaria journal'
+p408
+g2
+(g6
+S'l\x99\xea\x86\xbcZ\xe2?'
+p409
+tp410
+Rp411
+tp412
+a(S'the american journal of economics and sociology'
+p413
+g2
+(g6
+S'`c\xcf\t\xb4Y\xe2?'
+p414
+tp415
+Rp416
+tp417
+a(S'journal of travel research'
+p418
+g2
+(g6
+S'\xf4\xa8\xdfY@Y\xe2?'
+p419
+tp420
+Rp421
+tp422
+a(S'intelligence (journal)'
+p423
+g2
+(g6
+S'3\x0c\x93\xcb\x87V\xe2?'
+p424
+tp425
+Rp426
+tp427
+a(S'metallomics (journal)'
+p428
+g2
+(g6
+S'\xd0\x87\x1aV\x12U\xe2?'
+p429
+tp430
+Rp431
+tp432
+a(S'annals of physics'
+p433
+g2
+(g6
+S'@\x0e\xa7\x8b\xccH\xe2?'
+p434
+tp435
+Rp436
+tp437
+a(S'social science research'
+p438
+g2
+(g6
+S'_\x99\n\x0b\x1bD\xe2?'
+p439
+tp440
+Rp441
+tp442
+a(S'american political science review'
+p443
+g2
+(g6
+S'\xaf6\xbf\x84\xacC\xe2?'
+p444
+tp445
+Rp446
+tp447
+a(S'journal of economics & management strategy'
+p448
+g2
+(g6
+S'{\x1e\xeb\x9e\xabA\xe2?'
+p449
+tp450
+Rp451
+tp452
+a(S'experimental and clinical psychopharmacology'
+p453
+g2
+(g6
+S'\x03OU\xc2M>\xe2?'
+p454
+tp455
+Rp456
+tp457
+a(S'qualitative health research'
+p458
+g2
+(g6
+S')\xc7\n\xb6\xcb8\xe2?'
+p459
+tp460
+Rp461
+tp462
+a(S'febs open bio'
+p463
+g2
+(g6
+S',\xb8\x9b\x1257\xe2?'
+p464
+tp465
+Rp466
+tp467
+a(S'journal of business research'
+p468
+g2
+(g6
+S'\xbe\x92%\x92\x1f7\xe2?'
+p469
+tp470
+Rp471
+tp472
+a(S'nature conservation'
+p473
+g2
+(g6
+S'\x04\x12\x1d\xcaJ6\xe2?'
+p474
+tp475
+Rp476
+tp477
+a(S'psychotherapy (journal)'
+p478
+g2
+(g6
+S'\x07\xdb\xa5\xe5\xd33\xe2?'
+p479
+tp480
+Rp481
+tp482
+a(S'canadian psychology'
+p483
+g2
+(g6
+S'\xf0\tq\x81\xe10\xe2?'
+p484
+tp485
+Rp486
+tp487
+a(S'women & therapy'
+p488
+g2
+(g6
+S'\xe3\xe1\x9d\xa53/\xe2?'
+p489
+tp490
+Rp491
+tp492
+a(S'proceedings of the institution of mechanical engineers, part l: journal of materials: design and applications'
+p493
+g2
+(g6
+S'\xc9\xc1\x03\xb2\xf7.\xe2?'
+p494
+tp495
+Rp496
+tp497
+a(S'new astronomy (journal)'
+p498
+g2
+(g6
+S":\xe8\xde5\xd7'\xe2?"
+p499
+tp500
+Rp501
+tp502
+a(S'journal of bioactive and compatible polymers'
+p503
+g2
+(g6
+S"\x19^\x12l\xa7'\xe2?"
+p504
+tp505
+Rp506
+tp507
+a(S'political science (journal)'
+p508
+g2
+(g6
+S'm\xf4\xae\xca\xd2#\xe2?'
+p509
+tp510
+Rp511
+tp512
+a(S'oncotarget'
+p513
+g2
+(g6
+S'q\xb3wk\x15"\xe2?'
+p514
+tp515
+Rp516
+tp517
+a(S'journal of group theory'
+p518
+g2
+(g6
+S'\xb6y\xfa;\xb2 \xe2?'
+p519
+tp520
+Rp521
+tp522
+a(S'journal of early adolescence'
+p523
+g2
+(g6
+S')\xf15\xe6\xaa\x1e\xe2?'
+p524
+tp525
+Rp526
+tp527
+a(S'neurotoxicology (journal)'
+p528
+g2
+(g6
+S'T<\xbf6\x0f\x1d\xe2?'
+p529
+tp530
+Rp531
+tp532
+a(S'journal of industrial textiles'
+p533
+g2
+(g6
+S'\x17P\xdf\x16\xd0\x1c\xe2?'
+p534
+tp535
+Rp536
+tp537
+a(S'atmosphere (journal)'
+p538
+g2
+(g6
+S'U\xb8\x88\xd6\xce\x1c\xe2?'
+p539
+tp540
+Rp541
+tp542
+a(S'journal of zhejiang university science a'
+p543
+g2
+(g6
+S'\xcb\xdfZ\xec\xa2\x18\xe2?'
+p544
+tp545
+Rp546
+tp547
+a(S'psychoneuroendocrinology (journal)'
+p548
+g2
+(g6
+S'\x945\x97\xab\xec\x17\xe2?'
+p549
+tp550
+Rp551
+tp552
+a(S'journal of planning literature'
+p553
+g2
+(g6
+S'\xb0\xf1\x8a\x0b:\x15\xe2?'
+p554
+tp555
+Rp556
+tp557
+a(S'statistics and its interface'
+p558
+g2
+(g6
+S'\xe7c\x9c\t\xda\x14\xe2?'
+p559
+tp560
+Rp561
+tp562
+a(S'american journal of orthopsychiatry'
+p563
+g2
+(g6
+S'\x9f\x9e8\xc9\x9d\x10\xe2?'
+p564
+tp565
+Rp566
+tp567
+a(S'memory & cognition'
+p568
+g2
+(g6
+S'\xfbdF\xd9A\x10\xe2?'
+p569
+tp570
+Rp571
+tp572
+a(S'psychological assessment (journal)'
+p573
+g2
+(g6
+S'\xc2:\xb3\xb9\xed\x0f\xe2?'
+p574
+tp575
+Rp576
+tp577
+a(S'pediatric anesthesia'
+p578
+g2
+(g6
+S'\x00\x86\x81\xd3\xae\t\xe2?'
+p579
+tp580
+Rp581
+tp582
+a(S'health education journal'
+p583
+g2
+(g6
+S'\x9bF\x96\xdd!\t\xe2?'
+p584
+tp585
+Rp586
+tp587
+a(S'american journal of translational research'
+p588
+g2
+(g6
+S',\xee\t\xa1\x0e\t\xe2?'
+p589
+tp590
+Rp591
+tp592
+a(S'journal of child and family studies'
+p593
+g2
+(g6
+S'\xcd\xf5P;\xde\x07\xe2?'
+p594
+tp595
+Rp596
+tp597
+a(S'review of research in education'
+p598
+g2
+(g6
+S'\x88\xe4\xb9\xfc\xca\x07\xe2?'
+p599
+tp600
+Rp601
+tp602
+a(S'american educational research journal'
+p603
+g2
+(g6
+S'<\x98\t\xcc\xd7\x04\xe2?'
+p604
+tp605
+Rp606
+tp607
+a(S'progress in neurobiology'
+p608
+g2
+(g6
+S'H\x9b\xe8\xef\x0c\x02\xe2?'
+p609
+tp610
+Rp611
+tp612
+a(S'expert review of pharmacoeconomics & outcomes research'
+p613
+g2
+(g6
+S'\x85/\x9dG\t\x01\xe2?'
+p614
+tp615
+Rp616
+tp617
+a(S'nutritional neuroscience (journal)'
+p618
+g2
+(g6
+S'o\x15\x013\x17\xff\xe1?'
+p619
+tp620
+Rp621
+tp622
+a(S'cancer (journal)'
+p623
+g2
+(g6
+S'\x9b\xc3\xaf\x03\x8f\xfd\xe1?'
+p624
+tp625
+Rp626
+tp627
+a(S'proceedings of the institution of mechanical engineers, part b: journal of engineering manufacture'
+p628
+g2
+(g6
+S'8\xf6\x83\xc9O\xfb\xe1?'
+p629
+tp630
+Rp631
+tp632
+a(S'journal of elasticity'
+p633
+g2
+(g6
+S'cB}\xcdF\xf9\xe1?'
+p634
+tp635
+Rp636
+tp637
+a(S'the journal of higher education'
+p638
+g2
+(g6
+S'\xa7\xc6\xabb\xfd\xf3\xe1?'
+p639
+tp640
+Rp641
+tp642
+a(S'journal of consumer culture'
+p643
+g2
+(g6
+S'\x1cu\x83\xb7&\xf2\xe1?'
+p644
+tp645
+Rp646
+tp647
+a(S'south african medical journal'
+p648
+g2
+(g6
+S'\xa1\xaae\xf8\x8e\xed\xe1?'
+p649
+tp650
+Rp651
+tp652
+a(S'international regional science review'
+p653
+g2
+(g6
+S'\x9cGx\x82\xe2\xea\xe1?'
+p654
+tp655
+Rp656
+tp657
+a(S'journal of theoretical politics'
+p658
+g2
+(g6
+S'#\xf4\xdc\xf1r\xdf\xe1?'
+p659
+tp660
+Rp661
+tp662
+a(S'journal of sociology'
+p663
+g2
+(g6
+S"\n\xf2\xa9'~\xde\xe1?"
+p664
+tp665
+Rp666
+tp667
+a(S'european journal of social theory'
+p668
+g2
+(g6
+S'\xf0VD_\xb3\xd9\xe1?'
+p669
+tp670
+Rp671
+tp672
+a(S'international affairs (journal)'
+p673
+g2
+(g6
+S'\xc4^#\\\xeb\xd8\xe1?'
+p674
+tp675
+Rp676
+tp677
+a(S'journal of physical oceanography'
+p678
+g2
+(g6
+S'\x83\xb6\xd9E\x99\xd8\xe1?'
+p679
+tp680
+Rp681
+tp682
+a(S'school psychology quarterly'
+p683
+g2
+(g6
+S':\x1a\xd8[\xe8\xd5\xe1?'
+p684
+tp685
+Rp686
+tp687
+a(S'open life sciences'
+p688
+g2
+(g6
+S'\xc3\xad\x16\xd6\xb8\xd3\xe1?'
+p689
+tp690
+Rp691
+tp692
+a(S'frontiers in neuroendocrinology'
+p693
+g2
+(g6
+S'\xee\xe6\xf8\xdd\xf2\xd1\xe1?'
+p694
+tp695
+Rp696
+tp697
+a(S'affilia'
+p698
+g2
+(g6
+S'\xfd\xc07\xc7\xfe\xcf\xe1?'
+p699
+tp700
+Rp701
+tp702
+a(S'educational policy'
+p703
+g2
+(g6
+S'?U\x80T\x88\xcf\xe1?'
+p704
+tp705
+Rp706
+tp707
+a(S'energy & fuels'
+p708
+g2
+(g6
+S'\xb7Z\x7f\x0e\xb6\xca\xe1?'
+p709
+tp710
+Rp711
+tp712
+a(S"asian journal of women's studies"
+p713
+g2
+(g6
+S'\xe8x]\xe5\xd6\xc9\xe1?'
+p714
+tp715
+Rp716
+tp717
+a(S'international journal of civil engineering'
+p718
+g2
+(g6
+S'\xc8\xb8\xf7F\x8a\xc9\xe1?'
+p719
+tp720
+Rp721
+tp722
+a(S'european journal of industrial relations'
+p723
+g2
+(g6
+S'\x1ds\xf2\xa4(\xc9\xe1?'
+p724
+tp725
+Rp726
+tp727
+a(S'research and practice for persons with severe disabilities'
+p728
+g2
+(g6
+S'\xb9\xdf\x12Ik\xc8\xe1?'
+p729
+tp730
+Rp731
+tp732
+a(S'journal of risk research'
+p733
+g2
+(g6
+S'\xadX\x97\x97E\xc8\xe1?'
+p734
+tp735
+Rp736
+tp737
+a(S'chemsuschem'
+p738
+g2
+(g6
+S'zh\x04\xb0\x8d\xc6\xe1?'
+p739
+tp740
+Rp741
+tp742
+a(S'journal of database management'
+p743
+g2
+(g6
+S'\xb1\xc5\x9bM@\xc5\xe1?'
+p744
+tp745
+Rp746
+tp747
+a(S'international journal of energy research'
+p748
+g2
+(g6
+S'?\xf1\xef\xba\x1d\xc2\xe1?'
+p749
+tp750
+Rp751
+tp752
+a(S'computational materials science'
+p753
+g2
+(g6
+S'\xb8\x93\x08\x00\x84\xc0\xe1?'
+p754
+tp755
+Rp756
+tp757
+a(S'global public health (journal)'
+p758
+g2
+(g6
+S'\x85\x15F\xfd\xde\xbf\xe1?'
+p759
+tp760
+Rp761
+tp762
+a(S'brain stimulation (journal)'
+p763
+g2
+(g6
+S'\x7f\x1e\xaaY!\xbb\xe1?'
+p764
+tp765
+Rp766
+tp767
+a(S'portuguese economic journal'
+p768
+g2
+(g6
+S'\xdb\xc8\xdb\x89U\xba\xe1?'
+p769
+tp770
+Rp771
+tp772
+a(S'journal of counseling psychology'
+p773
+g2
+(g6
+S'fz,\x19S\xba\xe1?'
+p774
+tp775
+Rp776
+tp777
+a(S'health risk & society'
+p778
+g2
+(g6
+S'1na\xf4\xd4\xb6\xe1?'
+p779
+tp780
+Rp781
+tp782
+a(S'the international journal of robotics research'
+p783
+g2
+(g6
+S'\xe2\x8e\x16G\xcc\xb5\xe1?'
+p784
+tp785
+Rp786
+tp787
+a(S'journal of building physics'
+p788
+g2
+(g6
+S'>q\xc0]\xba\xb3\xe1?'
+p789
+tp790
+Rp791
+tp792
+a(S'the journal of politics'
+p793
+g2
+(g6
+S'\xb8\xf8\xca  \xb3\xe1?'
+p794
+tp795
+Rp796
+tp797
+a(S'radiophysics and quantum electronics'
+p798
+g2
+(g6
+S'\x121\xe1\x14\x8e\xae\xe1?'
+p799
+tp800
+Rp801
+tp802
+a(S'organization studies (journal)'
+p803
+g2
+(g6
+S'\x83\xf7\xba\x02\x8f\xad\xe1?'
+p804
+tp805
+Rp806
+tp807
+a(S'econ journal watch'
+p808
+g2
+(g6
+S'\xf7Z\x9d\xc7 \xa6\xe1?'
+p809
+tp810
+Rp811
+tp812
+a(S'journal of women, politics & policy'
+p813
+g2
+(g6
+S'\xcc\xf1\xd5\xf0\x16\xa6\xe1?'
+p814
+tp815
+Rp816
+tp817
+a(S'proceedings of the institution of mechanical engineers, part a: journal of power and energy'
+p818
+g2
+(g6
+S'\x93\xd0\xd3\xeb\xce\xa2\xe1?'
+p819
+tp820
+Rp821
+tp822
+a(S'proceedings of the institution of mechanical engineers, part g: journal of aerospace engineering'
+p823
+g2
+(g6
+S'\xd7i\xdeO\x97\xa0\xe1?'
+p824
+tp825
+Rp826
+tp827
+a(S'journal of web semantics'
+p828
+g2
+(g6
+S'>\x07\xfd\xdfa\x9f\xe1?'
+p829
+tp830
+Rp831
+tp832
+a(S'journal of service research'
+p833
+g2
+(g6
+S'\xba\x08H\xee\x9e\x9c\xe1?'
+p834
+tp835
+Rp836
+tp837
+a(S'enzyme and microbial technology'
+p838
+g2
+(g6
+S'\x14\x19!kV\x9b\xe1?'
+p839
+tp840
+Rp841
+tp842
+a(S'social movement studies'
+p843
+g2
+(g6
+S'\x8c\xecW\xf7\xb5\x99\xe1?'
+p844
+tp845
+Rp846
+tp847
+a(S'administration & society'
+p848
+g2
+(g6
+S'\x97\xa3\xde\x16o\x99\xe1?'
+p849
+tp850
+Rp851
+tp852
+a(S'ultrasonics (journal)'
+p853
+g2
+(g6
+S'w\x01\x7f\x8cJ\x98\xe1?'
+p854
+tp855
+Rp856
+tp857
+a(S'international journal of high performance computing applications'
+p858
+g2
+(g6
+S'\xf1\xc1\x02J\xfd\x92\xe1?'
+p859
+tp860
+Rp861
+tp862
+a(S'historical biology'
+p863
+g2
+(g6
+S'\xf0\x03\x1ec\xa6\x92\xe1?'
+p864
+tp865
+Rp866
+tp867
+a(S'crime, media, culture'
+p868
+g2
+(g6
+S')\xff\xdd\xf7\x84\x8f\xe1?'
+p869
+tp870
+Rp871
+tp872
+a(S'proceedings of the institution of mechanical engineers, part i: journal of systems and control engineering'
+p873
+g2
+(g6
+S'o\x1fA}\xf9\x8c\xe1?'
+p874
+tp875
+Rp876
+tp877
+a(S'group dynamics: theory, research, and practice'
+p878
+g2
+(g6
+S'3\xd0\x95TK\x89\xe1?'
+p879
+tp880
+Rp881
+tp882
+a(S'journal of macromarketing'
+p883
+g2
+(g6
+S'/\x0c\xdf\xd6}\x87\xe1?'
+p884
+tp885
+Rp886
+tp887
+a(S'state politics & policy quarterly'
+p888
+g2
+(g6
+S'\x8bb5\xc7\x00\x86\xe1?'
+p889
+tp890
+Rp891
+tp892
+a(S'proceedings of the institution of mechanical engineers, part d: journal of automobile engineering'
+p893
+g2
+(g6
+S'`\xd3\xf1%a\x84\xe1?'
+p894
+tp895
+Rp896
+tp897
+a(S'molecules (journal)'
+p898
+g2
+(g6
+S'{|\xfbc\xd4\x7f\xe1?'
+p899
+tp900
+Rp901
+tp902
+a(S'journal of new music research'
+p903
+g2
+(g6
+S'x\x15=Z\xe2~\xe1?'
+p904
+tp905
+Rp906
+tp907
+a(S'molecular brain'
+p908
+g2
+(g6
+S'-;\xb6\xeeZ~\xe1?'
+p909
+tp910
+Rp911
+tp912
+a(S'management learning'
+p913
+g2
+(g6
+S'q~\x1f\x18{}\xe1?'
+p914
+tp915
+Rp916
+tp917
+a(S'international journal of cultural studies'
+p918
+g2
+(g6
+S'\x1e\xcf\xd5Z\xea{\xe1?'
+p919
+tp920
+Rp921
+tp922
+a(S'european journal of communication'
+p923
+g2
+(g6
+S'\xde\xdah~\xb3z\xe1?'
+p924
+tp925
+Rp926
+tp927
+a(S"women's health issues (journal)"
+p928
+g2
+(g6
+S'j\xb5\x84!\x87y\xe1?'
+p929
+tp930
+Rp931
+tp932
+a(S'journal of neuroscience research'
+p933
+g2
+(g6
+S'w_^\xb7\xd7x\xe1?'
+p934
+tp935
+Rp936
+tp937
+a(S'leadership (journal)'
+p938
+g2
+(g6
+S'\xe2\xb5*\xeb&x\xe1?'
+p939
+tp940
+Rp941
+tp942
+a(S'marketing theory'
+p943
+g2
+(g6
+S'\x94\xa8\xcd\xed\xfew\xe1?'
+p944
+tp945
+Rp946
+tp947
+a(S'journal of attention disorders'
+p948
+g2
+(g6
+S'\t\xf60\x05\x7fw\xe1?'
+p949
+tp950
+Rp951
+tp952
+a(S'journal of management inquiry'
+p953
+g2
+(g6
+S'\x84W\xff\xf7\x91v\xe1?'
+p954
+tp955
+Rp956
+tp957
+a(S'public understanding of science'
+p958
+g2
+(g6
+S'\x91\x9bL"|u\xe1?'
+p959
+tp960
+Rp961
+tp962
+a(S'current genomics'
+p963
+g2
+(g6
+S'\xa2{\xb4\xde\xeft\xe1?'
+p964
+tp965
+Rp966
+tp967
+a(S'progress in electromagnetics research'
+p968
+g2
+(g6
+S'\x87k\xdaq\x82r\xe1?'
+p969
+tp970
+Rp971
+tp972
+a(S'organization (journal)'
+p973
+g2
+(g6
+S'\xac]\x1f\x9a\xa7q\xe1?'
+p974
+tp975
+Rp976
+tp977
+a(S'journal of career development'
+p978
+g2
+(g6
+S'N\x80\xba^\xf4l\xe1?'
+p979
+tp980
+Rp981
+tp982
+a(S'medical science monitor'
+p983
+g2
+(g6
+S'\xd8\xf9\xb9\x19\xe9k\xe1?'
+p984
+tp985
+Rp986
+tp987
+a(S'the journal of political philosophy'
+p988
+g2
+(g6
+S'\x8e\xa4\x02\x87\x89j\xe1?'
+p989
+tp990
+Rp991
+tp992
+a(S'journal of dental research'
+p993
+g2
+(g6
+S'\xc3\xc8\x85\xe3\xbcg\xe1?'
+p994
+tp995
+Rp996
+tp997
+a(S'journal of software: evolution and process'
+p998
+g2
+(g6
+S'!\x15nGtd\xe1?'
+p999
+tp1000
+Rp1001
+tp1002
+a(S'urban studies (journal)'
+p1003
+g2
+(g6
+S'\x84\x82\xf4"jc\xe1?'
+p1004
+tp1005
+Rp1006
+tp1007
+a(S'molecular pain'
+p1008
+g2
+(g6
+S'\xc3\x02R\x87\xf4b\xe1?'
+p1009
+tp1010
+Rp1011
+tp1012
+a(S'canadian journal of microbiology'
+p1013
+g2
+(g6
+S':B\xb9\x8e\xe6a\xe1?'
+p1014
+tp1015
+Rp1016
+tp1017
+a(S'climatic change (journal)'
+p1018
+g2
+(g6
+S'$\xf0#\x98A`\xe1?'
+p1019
+tp1020
+Rp1021
+tp1022
+a(S'journal of psychopharmacology'
+p1023
+g2
+(g6
+S'R\xd5\xb6\x94=`\xe1?'
+p1024
+tp1025
+Rp1026
+tp1027
+a(S'molecular neurodegeneration'
+p1028
+g2
+(g6
+S'\xe2\x1b\x89\x92V]\xe1?'
+p1029
+tp1030
+Rp1031
+tp1032
+a(S'journal of mechanics in medicine and biology'
+p1033
+g2
+(g6
+S'\xb0\x17\xe9\xde\xdb\\\xe1?'
+p1034
+tp1035
+Rp1036
+tp1037
+a(S'rehabilitation psychology (journal)'
+p1038
+g2
+(g6
+S'\xa2\xc7\x9e\xd5\xdeZ\xe1?'
+p1039
+tp1040
+Rp1041
+tp1042
+a(S'environmental fluid mechanics'
+p1043
+g2
+(g6
+S'\xb0f\\\x8c\x83V\xe1?'
+p1044
+tp1045
+Rp1046
+tp1047
+a(S'palaeogeography, palaeoclimatology, palaeoecology'
+p1048
+g2
+(g6
+S'\x8bB\\.\xcfU\xe1?'
+p1049
+tp1050
+Rp1051
+tp1052
+a(S'npg asia materials'
+p1053
+g2
+(g6
+S'\x8d\xdd\xe1\x94\xc3U\xe1?'
+p1054
+tp1055
+Rp1056
+tp1057
+a(S'oncology reports'
+p1058
+g2
+(g6
+S'\xce&rZ\x0fS\xe1?'
+p1059
+tp1060
+Rp1061
+tp1062
+a(S'educational and psychological measurement'
+p1063
+g2
+(g6
+S'\xf0\xdf M\xf9P\xe1?'
+p1064
+tp1065
+Rp1066
+tp1067
+a(S'microsystem technologies'
+p1068
+g2
+(g6
+S';U\x12\x01sO\xe1?'
+p1069
+tp1070
+Rp1071
+tp1072
+a(S'digital signal processing (journal)'
+p1073
+g2
+(g6
+S'\xd4$\x90\x84*O\xe1?'
+p1074
+tp1075
+Rp1076
+tp1077
+a(S'psychological trauma: theory, research, practice, and policy'
+p1078
+g2
+(g6
+S'6\x17\xc2~\xf2J\xe1?'
+p1079
+tp1080
+Rp1081
+tp1082
+a(S'biofabrication'
+p1083
+g2
+(g6
+S'i\x8bb\xfe~J\xe1?'
+p1084
+tp1085
+Rp1086
+tp1087
+a(S'scandinavian political studies'
+p1088
+g2
+(g6
+S'\xb0\x8d_\xdd\x10I\xe1?'
+p1089
+tp1090
+Rp1091
+tp1092
+a(S'journal of biomedical optics'
+p1093
+g2
+(g6
+S'\xb1V\x87\xca\x16H\xe1?'
+p1094
+tp1095
+Rp1096
+tp1097
+a(S'marine drugs'
+p1098
+g2
+(g6
+S'P\x1a\xc1\xe8\xa2C\xe1?'
+p1099
+tp1100
+Rp1101
+tp1102
+a(S'purinergic signalling (journal)'
+p1103
+g2
+(g6
+S'G\t%\xe0\xe2B\xe1?'
+p1104
+tp1105
+Rp1106
+tp1107
+a(S'chaos (journal)'
+p1108
+g2
+(g6
+S'\x9b\xa6c\x7f\x88B\xe1?'
+p1109
+tp1110
+Rp1111
+tp1112
+a(S'structural health monitoring'
+p1113
+g2
+(g6
+S'\xd2=\xb44\xf8>\xe1?'
+p1114
+tp1115
+Rp1116
+tp1117
+a(S'journal of management'
+p1118
+g2
+(g6
+S'\xe9J!\xab\xfb;\xe1?'
+p1119
+tp1120
+Rp1121
+tp1122
+a(S'feminist review'
+p1123
+g2
+(g6
+S'c[*)_:\xe1?'
+p1124
+tp1125
+Rp1126
+tp1127
+a(S'european journal of political economy'
+p1128
+g2
+(g6
+S'.A\x85$\xe79\xe1?'
+p1129
+tp1130
+Rp1131
+tp1132
+a(S'journal of adolescent research'
+p1133
+g2
+(g6
+S'\x83\xd8{%\xab2\xe1?'
+p1134
+tp1135
+Rp1136
+tp1137
+a(S'theory & society'
+p1138
+g2
+(g6
+S'\x8e\x03\xea\xa2r-\xe1?'
+p1139
+tp1140
+Rp1141
+tp1142
+a(S'teachers college record'
+p1143
+g2
+(g6
+S'a\xe8\xed\xba\xa2,\xe1?'
+p1144
+tp1145
+Rp1146
+tp1147
+a(S'journal of clinical gastroenterology'
+p1148
+g2
+(g6
+S'P\xa1\xcd\x15\x83+\xe1?'
+p1149
+tp1150
+Rp1151
+tp1152
+a(S'journal of the american podiatric medical association'
+p1153
+g2
+(g6
+S',Kq\x15\xb3*\xe1?'
+p1154
+tp1155
+Rp1156
+tp1157
+a(S'journal of diversity in higher education'
+p1158
+g2
+(g6
+S'\xe6\x15\xa5\xb2\x1f*\xe1?'
+p1159
+tp1160
+Rp1161
+tp1162
+a(S'hepatology (journal)'
+p1163
+g2
+(g6
+S'o\x1aa"7)\xe1?'
+p1164
+tp1165
+Rp1166
+tp1167
+a(S'journal of neuropathology & experimental neurology'
+p1168
+g2
+(g6
+S'\xde\x18PJ\x91(\xe1?'
+p1169
+tp1170
+Rp1171
+tp1172
+a(S'advances in electrical and computer engineering'
+p1173
+g2
+(g6
+S'\x1b.y\x8ay(\xe1?'
+p1174
+tp1175
+Rp1176
+tp1177
+a(S'journal of cardiovascular pharmacology and therapeutics'
+p1178
+g2
+(g6
+S'\x7f\x84H\xe5\xc2"\xe1?'
+p1179
+tp1180
+Rp1181
+tp1182
+a(S'cancer research (journal)'
+p1183
+g2
+(g6
+S'\xeci=n\xa2"\xe1?'
+p1184
+tp1185
+Rp1186
+tp1187
+a(S'accounts of chemical research'
+p1188
+g2
+(g6
+S'hX8A\x1c"\xe1?'
+p1189
+tp1190
+Rp1191
+tp1192
+a(S'small business economics'
+p1193
+g2
+(g6
+S'\x8f\x04\x8fw\x18"\xe1?'
+p1194
+tp1195
+Rp1196
+tp1197
+a(S'journal of biomaterials applications'
+p1198
+g2
+(g6
+S'\x8d\xdf\xc2\x16\x96\x1f\xe1?'
+p1199
+tp1200
+Rp1201
+tp1202
+a(S'hippocampus (journal)'
+p1203
+g2
+(g6
+S'w\x93\t\xed|\x1c\xe1?'
+p1204
+tp1205
+Rp1206
+tp1207
+a(S'violence against women (journal)'
+p1208
+g2
+(g6
+S'(\x14\xb1\xcfN\x1c\xe1?'
+p1209
+tp1210
+Rp1211
+tp1212
+a(S'entropy (journal)'
+p1213
+g2
+(g6
+S'\xd6\xe5\xa1\xfe\x1c\x1b\xe1?'
+p1214
+tp1215
+Rp1216
+tp1217
+a(S'international journal of psychology'
+p1218
+g2
+(g6
+S'\x83\x9e\xba~\xfa\x19\xe1?'
+p1219
+tp1220
+Rp1221
+tp1222
+a(S'psychology of women quarterly'
+p1223
+g2
+(g6
+S'\xaf\x8a=\xb0\x83\x19\xe1?'
+p1224
+tp1225
+Rp1226
+tp1227
+a(S'cultural studies (journal)'
+p1228
+g2
+(g6
+S'Vh\xbcw\xfc\x15\xe1?'
+p1229
+tp1230
+Rp1231
+tp1232
+a(S'journal of child neurology'
+p1233
+g2
+(g6
+S'\xf5\x87\xdc\x93@\x14\xe1?'
+p1234
+tp1235
+Rp1236
+tp1237
+a(S'journal of cellular plastics'
+p1238
+g2
+(g6
+S'\xc4\xd5%\xcb\xe8\x13\xe1?'
+p1239
+tp1240
+Rp1241
+tp1242
+a(S'journal of peace research'
+p1243
+g2
+(g6
+S'\xf1\xa53~\x89\x0c\xe1?'
+p1244
+tp1245
+Rp1246
+tp1247
+a(S'social service review'
+p1248
+g2
+(g6
+S'\xa0Wn7s\n\xe1?'
+p1249
+tp1250
+Rp1251
+tp1252
+a(S'journal of geosciences'
+p1253
+g2
+(g6
+S'\xef\xab\xd8|P\n\xe1?'
+p1254
+tp1255
+Rp1256
+tp1257
+a(S'cognitive, affective, & behavioral neuroscience'
+p1258
+g2
+(g6
+S'\xe3\xacp\x80?\x08\xe1?'
+p1259
+tp1260
+Rp1261
+tp1262
+a(S'training and education in professional psychology'
+p1263
+g2
+(g6
+S':\x04x\xf88\x08\xe1?'
+p1264
+tp1265
+Rp1266
+tp1267
+a(S'x-ray spectrometry (journal)'
+p1268
+g2
+(g6
+S'e\x80\x85\xed%\x08\xe1?'
+p1269
+tp1270
+Rp1271
+tp1272
+a(S'the american review of public administration'
+p1273
+g2
+(g6
+S'\xda\x1a\xdc\x18\xe3\x07\xe1?'
+p1274
+tp1275
+Rp1276
+tp1277
+a(S'chemometrics and intelligent laboratory systems'
+p1278
+g2
+(g6
+S'H\xbc\x7f\xa2\\\x05\xe1?'
+p1279
+tp1280
+Rp1281
+tp1282
+a(S'strategic organization (journal)'
+p1283
+g2
+(g6
+S'\x11J\x13!\x8a\x04\xe1?'
+p1284
+tp1285
+Rp1286
+tp1287
+a(S'journal of plastic film and sheeting'
+p1288
+g2
+(g6
+S'?\xd9\xee\xda\xe1\x01\xe1?'
+p1289
+tp1290
+Rp1291
+tp1292
+a(S'computational biology and chemistry'
+p1293
+g2
+(g6
+S'\xbe7\xec\xe3\xb3\x00\xe1?'
+p1294
+tp1295
+Rp1296
+tp1297
+a(S'turkish journal of biology'
+p1298
+g2
+(g6
+S'\x10\x909<@\xff\xe0?'
+p1299
+tp1300
+Rp1301
+tp1302
+a(S'neuromolecular medicine'
+p1303
+g2
+(g6
+S'\x84)\xee\xa0K\xfe\xe0?'
+p1304
+tp1305
+Rp1306
+tp1307
+a(S'atomic data and nuclear data tables'
+p1308
+g2
+(g6
+S'\xbc\x8aA\xb1\xa5\xfd\xe0?'
+p1309
+tp1310
+Rp1311
+tp1312
+a(S'journal of literacy research'
+p1313
+g2
+(g6
+S'\xea\x10\x0e\xd2]\xfb\xe0?'
+p1314
+tp1315
+Rp1316
+tp1317
+a(S'open geosciences'
+p1318
+g2
+(g6
+S'?(kW\x17\xf5\xe0?'
+p1319
+tp1320
+Rp1321
+tp1322
+a(S'journal of contemporary ethnography'
+p1323
+g2
+(g6
+S'\xbb\x11\xdd\xc1\xa2\xf4\xe0?'
+p1324
+tp1325
+Rp1326
+tp1327
+a(S'hispanic journal of behavioral sciences'
+p1328
+g2
+(g6
+S'\xf1\xae\x06\xe3L\xf3\xe0?'
+p1329
+tp1330
+Rp1331
+tp1332
+a(S'aob plants'
+p1333
+g2
+(g6
+S'\xff\xa3\x96\x97\x99\xf2\xe0?'
+p1334
+tp1335
+Rp1336
+tp1337
+a(S'terrorism and political violence'
+p1338
+g2
+(g6
+S'\x80\x1en\x15\x98\xf2\xe0?'
+p1339
+tp1340
+Rp1341
+tp1342
+a(S'behavioral ecology and sociobiology'
+p1343
+g2
+(g6
+S'\x149\xfd\x18P\xf2\xe0?'
+p1344
+tp1345
+Rp1346
+tp1347
+a(S'critical care clinics'
+p1348
+g2
+(g6
+S'\x85\xc0\x1d\xfd1\xf1\xe0?'
+p1349
+tp1350
+Rp1351
+tp1352
+a(S'the international journal of developmental biology'
+p1353
+g2
+(g6
+S'\x00K\xa6\xf0X\xf0\xe0?'
+p1354
+tp1355
+Rp1356
+tp1357
+a(S'asn neuro'
+p1358
+g2
+(g6
+S'\xf4Mti\xb4\xef\xe0?'
+p1359
+tp1360
+Rp1361
+tp1362
+a(S'nutrients (journal)'
+p1363
+g2
+(g6
+S'S\xe8\x18\xd5w\xed\xe0?'
+p1364
+tp1365
+Rp1366
+tp1367
+a(S'neuromodulation (journal)'
+p1368
+g2
+(g6
+S'\x15\xd2a\x15\xd2\xea\xe0?'
+p1369
+tp1370
+Rp1371
+tp1372
+a(S'asia pacific journal of human resources'
+p1373
+g2
+(g6
+S'\xa0\x03\xe6\xce\xf2\xe6\xe0?'
+p1374
+tp1375
+Rp1376
+tp1377
+a(S'international journal of pattern recognition and artificial intelligence'
+p1378
+g2
+(g6
+S'\xc45\xdc:_\xe3\xe0?'
+p1379
+tp1380
+Rp1381
+tp1382
+a(S'soft matter (journal)'
+p1383
+g2
+(g6
+S'\xad\xf2\x00*b\xe1\xe0?'
+p1384
+tp1385
+Rp1386
+tp1387
+a(S'international journal of intelligence and counterintelligence'
+p1388
+g2
+(g6
+S'\xc2\x82\xa6\x827\xde\xe0?'
+p1389
+tp1390
+Rp1391
+tp1392
+a(S'international journal of geographical information science'
+p1393
+g2
+(g6
+S'\x89\x88\xb9\xbb\xd0\xdd\xe0?'
+p1394
+tp1395
+Rp1396
+tp1397
+a(S'biological research for nursing'
+p1398
+g2
+(g6
+S'\x05\x07\xaa\x8a\x99\xdd\xe0?'
+p1399
+tp1400
+Rp1401
+tp1402
+a(S'cooperation and conflict'
+p1403
+g2
+(g6
+S'\x8e3\xde\x96\xfe\xda\xe0?'
+p1404
+tp1405
+Rp1406
+tp1407
+a(S'review of palaeobotany and palynology'
+p1408
+g2
+(g6
+S'\xeb\x8c\xa3\xb8}\xda\xe0?'
+p1409
+tp1410
+Rp1411
+tp1412
+a(S'psychiatric rehabilitation journal'
+p1413
+g2
+(g6
+S'`\xce\x98y4\xd7\xe0?'
+p1414
+tp1415
+Rp1416
+tp1417
+a(S'briefings in bioinformatics'
+p1418
+g2
+(g6
+S'4L\xdb{)\xd6\xe0?'
+p1419
+tp1420
+Rp1421
+tp1422
+a(S'european physical education review'
+p1423
+g2
+(g6
+S'\x0c\xfa\x11\xca\xad\xd5\xe0?'
+p1424
+tp1425
+Rp1426
+tp1427
+a(S'neurotoxicity research'
+p1428
+g2
+(g6
+S' ,\x87\x1b\xae\xd3\xe0?'
+p1429
+tp1430
+Rp1431
+tp1432
+a(S'the international journal of biochemistry & cell biology'
+p1433
+g2
+(g6
+S'\xae\xc6\xf4\xdf_\xd0\xe0?'
+p1434
+tp1435
+Rp1436
+tp1437
+a(S'journal of memory and language'
+p1438
+g2
+(g6
+S'2\xdf\xb2\xf3\xfa\xcf\xe0?'
+p1439
+tp1440
+Rp1441
+tp1442
+a(S'journal of quantitative criminology'
+p1443
+g2
+(g6
+S'\xd2@\xf8!\xb7\xcf\xe0?'
+p1444
+tp1445
+Rp1446
+tp1447
+a(S'journal of business and technical communication'
+p1448
+g2
+(g6
+S'\xfb\x17\\P\x8f\xce\xe0?'
+p1449
+tp1450
+Rp1451
+tp1452
+a(S'chimica oggi - chemistry today'
+p1453
+g2
+(g6
+S'\xc4\xd5\x91\x0fQ\xcd\xe0?'
+p1454
+tp1455
+Rp1456
+tp1457
+a(S'journal of sports economics'
+p1458
+g2
+(g6
+S"\x19'\x07\x9e\xc0\xcc\xe0?"
+p1459
+tp1460
+Rp1461
+tp1462
+a(S'neurotherapeutics'
+p1463
+g2
+(g6
+S'\x05\xa1\xce\x07g\xc9\xe0?'
+p1464
+tp1465
+Rp1466
+tp1467
+a(S'discrete mathematics & theoretical computer science'
+p1468
+g2
+(g6
+S'\x94\x80i\xdb\xe2\xc8\xe0?'
+p1469
+tp1470
+Rp1471
+tp1472
+a(S'energy conversion and management'
+p1473
+g2
+(g6
+S'\xdf\x1d\xdb\xf4p\xc6\xe0?'
+p1474
+tp1475
+Rp1476
+tp1477
+a(S'biosemiotics (journal)'
+p1478
+g2
+(g6
+S'^\xa1\x8cQ\xc5\xc5\xe0?'
+p1479
+tp1480
+Rp1481
+tp1482
+a(S'american heart journal'
+p1483
+g2
+(g6
+S's\xef\xb9\x7f}\xc2\xe0?'
+p1484
+tp1485
+Rp1486
+tp1487
+a(S'magnetic resonance in chemistry'
+p1488
+g2
+(g6
+S'\x8d\xf8,2\t\xc2\xe0?'
+p1489
+tp1490
+Rp1491
+tp1492
+a(S'journal of statistical mechanics: theory and experiment'
+p1493
+g2
+(g6
+S'\x17\xd6\xe55\xdb\xc1\xe0?'
+p1494
+tp1495
+Rp1496
+tp1497
+a(S'cytogenetic and genome research'
+p1498
+g2
+(g6
+S'Z\xc2\xc6o\x7f\xc1\xe0?'
+p1499
+tp1500
+Rp1501
+tp1502
+a(S'agro food industry hi tech'
+p1503
+g2
+(g6
+S'\xe3z\xb8\xc1L\xc0\xe0?'
+p1504
+tp1505
+Rp1506
+tp1507
+a(S'comparative european politics'
+p1508
+g2
+(g6
+S'\x0b\x94\x90\xad\xf1\xbe\xe0?'
+p1509
+tp1510
+Rp1511
+tp1512
+a.

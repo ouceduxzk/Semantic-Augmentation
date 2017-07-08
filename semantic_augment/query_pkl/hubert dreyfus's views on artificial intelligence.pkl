@@ -1,0 +1,2728 @@
+(lp0
+(S"hubert dreyfus's views on artificial intelligence"
+p1
+cnumpy.core.multiarray
+scalar
+p2
+(cnumpy
+dtype
+p3
+(S'f8'
+p4
+I0
+I1
+tp5
+Rp6
+(I3
+S'<'
+p7
+NNNI-1
+I-1
+I0
+tp8
+bS'\xfa\xff\xff\xff\xff\xff\xef?'
+p9
+tp10
+Rp11
+tp12
+a(S'dreyfus (surname)'
+p13
+g2
+(g6
+S'\xb2lCt\x995\xe7?'
+p14
+tp15
+Rp16
+tp17
+a(S'hubert dreyfus'
+p18
+g2
+(g6
+S'\x9c\x0c\x0c\xbd\xc6\xf3\xe6?'
+p19
+tp20
+Rp21
+tp22
+a(S'dreyfus'
+p23
+g2
+(g6
+S'\xbf\x18\x14=\xf0\xee\xe6?'
+p24
+tp25
+Rp26
+tp27
+a(S'alfred dreyfus'
+p28
+g2
+(g6
+S'\xd1\x9a\x00\x8c\xbbd\xe6?'
+p29
+tp30
+Rp31
+tp32
+a(S'postcognitivism'
+p33
+g2
+(g6
+S'V\xa0\xd2&t0\xe6?'
+p34
+tp35
+Rp36
+tp37
+a(S'dreyfus affair'
+p38
+g2
+(g6
+S'\xce\xa1C(\x1f>\xe5?'
+p39
+tp40
+Rp41
+tp42
+a(S'louis-dreyfus'
+p43
+g2
+(g6
+S'O\xe3\xe3\xb6\xba;\xe5?'
+p44
+tp45
+Rp46
+tp47
+a(S'lee s. dreyfus'
+p48
+g2
+(g6
+S'Bod\xe0\x7f\x1e\xe5?'
+p49
+tp50
+Rp51
+tp52
+a(S'g\xc3\xa9rard louis-dreyfus'
+p53
+g2
+(g6
+S'KG4\x01\xbc\x00\xe5?'
+p54
+tp55
+Rp56
+tp57
+a(S'jack dreyfus'
+p58
+g2
+(g6
+S'za\xce\x12\xd3\xe1\xe4?'
+p59
+tp60
+Rp61
+tp62
+a(S'francis dreyfus'
+p63
+g2
+(g6
+S'\x10g\x91\xbf\x14\\\xe4?'
+p64
+tp65
+Rp66
+tp67
+a(S'mark dreyfus'
+p68
+g2
+(g6
+S'\xa8\x82\r\xa7]-\xe4?'
+p69
+tp70
+Rp71
+tp72
+a(S'charles louis-dreyfus'
+p73
+g2
+(g6
+S'\xe3\x91\xfaW+\x04\xe4?'
+p74
+tp75
+Rp76
+tp77
+a(S'l\xc3\xa9opold louis-dreyfus'
+p78
+g2
+(g6
+S'\xb5\x1d\xb8\xaa\xd4\xea\xe3?'
+p79
+tp80
+Rp81
+tp82
+a(S'trial and conviction of alfred dreyfus'
+p83
+g2
+(g6
+S'\xaaKg\xc4\xe7\xd8\xe3?'
+p84
+tp85
+Rp86
+tp87
+a(S'louis dreyfus company'
+p88
+g2
+(g6
+S'\x87\x987Xo\xc9\xe3?'
+p89
+tp90
+Rp91
+tp92
+a(S'louis louis-dreyfus'
+p93
+g2
+(g6
+S"\xbd'\x84\xed\xeb\x9e\xe3?"
+p94
+tp95
+Rp96
+tp97
+a(S'marie-jeanne meyer'
+p98
+g2
+(g6
+S'Z$\x9b\xcf\x063\xe3?'
+p99
+tp100
+Rp101
+tp102
+a(S'the dreyfus affair (film series)'
+p103
+g2
+(g6
+S'>\xb0`\xa4\xa4"\xe3?'
+p104
+tp105
+Rp106
+tp107
+a(S'pierre louis-dreyfus'
+p108
+g2
+(g6
+S'\x0b\xee\xa7)\x8a\n\xe3?'
+p109
+tp110
+Rp111
+tp112
+a(S'robert louis-dreyfus'
+p113
+g2
+(g6
+S' \xbd\xdc\xa4\xb8\x07\xe3?'
+p114
+tp115
+Rp116
+tp117
+a(S'monique roosmale nepveu'
+p118
+g2
+(g6
+S'j\xf4\x9a\xaa\xeb\xf9\xe2?'
+p119
+tp120
+Rp121
+tp122
+a(S'george whyte'
+p123
+g2
+(g6
+S'\xedN{\xdb\xd8\xa2\xe2?'
+p124
+tp125
+Rp126
+tp127
+a(S'auguste dreyfus'
+p128
+g2
+(g6
+S'\x01|\xc6\x8a\xc0\x82\xe2?'
+p129
+tp130
+Rp131
+tp132
+a(S'julia louis-dreyfus'
+p133
+g2
+(g6
+S'\xb0P0\xd9ip\xe2?'
+p134
+tp135
+Rp136
+tp137
+a(S'henri dreyfus'
+p138
+g2
+(g6
+S'r\x1b\n\xf2\xec<\xe2?'
+p139
+tp140
+Rp141
+tp142
+a(S'charles dreyfus'
+p143
+g2
+(g6
+S'\x7f\x11\x89\xfa\r\xd3\xe1?'
+p144
+tp145
+Rp146
+tp147
+a(S'camille dreyfus (chemist)'
+p148
+g2
+(g6
+S'\x95 \xa3t\x1f\xc9\xe1?'
+p149
+tp150
+Rp151
+tp152
+a(S'the camille and henry dreyfus foundation'
+p153
+g2
+(g6
+S'R^\xf2;\x95\xb9\xe1?'
+p154
+tp155
+Rp156
+tp157
+a(S'investigation and arrest of alfred dreyfus'
+p158
+g2
+(g6
+S'\x8e\x17\x95\x0b\x8b\xac\xe1?'
+p159
+tp160
+Rp161
+tp162
+a(S'dreyfus prize in the chemical sciences'
+p163
+g2
+(g6
+S'\xf7\xce\xfd\xac\xb7\xea\xe0?'
+p164
+tp165
+Rp166
+tp167
+a(S'georges picquart'
+p168
+g2
+(g6
+S'\x0f\xf3\x88c\xc5\x87\xe0?'
+p169
+tp170
+Rp171
+tp172
+a(S'dreyfus (1931 film)'
+p173
+g2
+(g6
+S'd\xaf?\xc6\x82u\xe0?'
+p174
+tp175
+Rp176
+tp177
+a(S'maximilian von schwartzkoppen'
+p178
+g2
+(g6
+S'\xc0v\x13\xa9\xc3d\xe0?'
+p179
+tp180
+Rp181
+tp182
+a(S'pierre dreyfus'
+p183
+g2
+(g6
+S'p\xf0\xdf\x81qO\xe0?'
+p184
+tp185
+Rp186
+tp187
+a(S'history of artificial intelligence'
+p188
+g2
+(g6
+S'\x132]\x96\x95\xd0\xdf?'
+p189
+tp190
+Rp191
+tp192
+a(S'jean-michel pilc'
+p193
+g2
+(g6
+S'E\xcbH\xe9^\xa4\xdf?'
+p194
+tp195
+Rp196
+tp197
+a(S'dreyfus corporation'
+p198
+g2
+(g6
+S'\x7f4\xf8\xf2B0\xdf?'
+p199
+tp200
+Rp201
+tp202
+a(S"centre d'entra\xc3\xaenement robert louis-dreyfus"
+p203
+g2
+(g6
+S'\x1bMK\xce\x89\xfe\xde?'
+p204
+tp205
+Rp206
+tp207
+a(S'charles-arthur gonse'
+p208
+g2
+(g6
+S'n\xe9xs\x90\xe2\xde?'
+p209
+tp210
+Rp211
+tp212
+a(S'karen dreyfus'
+p213
+g2
+(g6
+S'\x8d&%\xb0p\xcf\xde?'
+p214
+tp215
+Rp216
+tp217
+a(S'george dreyfus'
+p218
+g2
+(g6
+S'>\xc4z/\xf5\xbc\xde?'
+p219
+tp220
+Rp221
+tp222
+a(S'edgar demange'
+p223
+g2
+(g6
+S'\xc4\xfbD\xb1\xbb\xad\xde?'
+p224
+tp225
+Rp226
+tp227
+a(S'stuart dreyfus'
+p228
+g2
+(g6
+S'\xc5f\xcfb\x8cr\xde?'
+p229
+tp230
+Rp231
+tp232
+a(S'margarita louis-dreyfus'
+p233
+g2
+(g6
+S'\x85\x8d\xddc\xeeH\xde?'
+p234
+tp235
+Rp236
+tp237
+a(S'dreyfus records'
+p238
+g2
+(g6
+S'\xdc\xab\x8e\x91\x99\xb8\xdd?'
+p239
+tp240
+Rp241
+tp242
+a(S'wilhelm herzog'
+p243
+g2
+(g6
+S'l\x1e0\x1a\\\xd4\xdc?'
+p244
+tp245
+Rp246
+tp247
+a(S'i accuse!'
+p248
+g2
+(g6
+S'\xbe7\xdb,\xca\xb1\xdc?'
+p249
+tp250
+Rp251
+tp252
+a(S'others look into the dreyfus affair'
+p253
+g2
+(g6
+S'\xdc\xc5O~{x\xdc?'
+p254
+tp255
+Rp256
+tp257
+a(S'gaston moch'
+p258
+g2
+(g6
+S'\xf3<\xa3\x9a9[\xdc?'
+p259
+tp260
+Rp261
+tp262
+a(S'ludovic trarieux'
+p263
+g2
+(g6
+S'\x02A\xf9\x1biZ\xdc?'
+p264
+tp265
+Rp266
+tp267
+a(S'ren\xc3\xa9 dreyfus'
+p268
+g2
+(g6
+S'j\x0e\x9d\xb0\xcbQ\xdc?'
+p269
+tp270
+Rp271
+tp272
+a(S'jean sandherr'
+p273
+g2
+(g6
+S'90\x08\xf5\xaeO\xdc?'
+p274
+tp275
+Rp276
+tp277
+a(S'artificial intelligence'
+p278
+g2
+(g6
+S'\xc0\xdbo\x01jA\xdc?'
+p279
+tp280
+Rp281
+tp282
+a(S"j'accuse\xe2\x80\xa6!"
+p283
+g2
+(g6
+S'\xb4N\xb73b:\xdc?'
+p284
+tp285
+Rp286
+tp287
+a(S'artificial general intelligence'
+p288
+g2
+(g6
+S'\x90b\x18 _\xff\xdb?'
+p289
+tp290
+Rp291
+tp292
+a(S"picquart's investigations of the dreyfus affair"
+p293
+g2
+(g6
+S'\xb6]M<=\xb1\xdb?'
+p294
+tp295
+Rp296
+tp297
+a(S'henri torr\xc3\xa8s'
+p298
+g2
+(g6
+S'V \xf6\x1f\xa8\x8a\xdb?'
+p299
+tp300
+Rp301
+tp302
+a(S'bir\xc3\xa9li lagr\xc3\xa8ne'
+p303
+g2
+(g6
+S'=\x86\x84\xf3\xd2\x84\xdb?'
+p304
+tp305
+Rp306
+tp307
+a(S'philosophy of artificial intelligence'
+p308
+g2
+(g6
+S'\x04\x88\xeef\x8al\xdb?'
+p309
+tp310
+Rp311
+tp312
+a(S'pablo dreyfus'
+p313
+g2
+(g6
+S'\xf5*]\xe3\xc9\xfe\xda?'
+p314
+tp315
+Rp316
+tp317
+a(S'resolution of the dreyfus affair'
+p318
+g2
+(g6
+S'\x04\xe8_\xc9\xc2\xf8\xda?'
+p319
+tp320
+Rp321
+tp322
+a(S'camille ferdinand dreyfus'
+p323
+g2
+(g6
+S'\xfa\xd1\x04\xd5U\xdc\xda?'
+p324
+tp325
+Rp326
+tp327
+a(S'james dreyfus'
+p328
+g2
+(g6
+S'6V\xfc\x9e\xb0T\xda?'
+p329
+tp330
+Rp331
+tp332
+a(S'ai effect'
+p333
+g2
+(g6
+S'F\xfa\xf1s\xadG\xda?'
+p334
+tp335
+Rp336
+tp337
+a(S'georges-gabriel de pellieux'
+p338
+g2
+(g6
+S'\xb4B\xb9\x8c\r\xbb\xd9?'
+p339
+tp340
+Rp341
+tp342
+a(S'hubert-joseph henry'
+p343
+g2
+(g6
+S'\x7fu\xea\x12\\\x82\xd9?'
+p344
+tp345
+Rp346
+tp347
+a(S'prisoner of honor'
+p348
+g2
+(g6
+S'/\x18\x10\x00\x18%\xd9?'
+p349
+tp350
+Rp351
+tp352
+a(S'ai winter'
+p353
+g2
+(g6
+S'\xffn\xbd^\x9f\xe5\xd8?'
+p354
+tp355
+Rp356
+tp357
+a(S'max dreyfus'
+p358
+g2
+(g6
+S'i\x0f\xb7\xf4\xd2\xcc\xd8?'
+p359
+tp360
+Rp361
+tp362
+a(S'julie dreyfus'
+p363
+g2
+(g6
+S'@\x11\x83\xeak\xb2\xd8?'
+p364
+tp365
+Rp366
+tp367
+a(S'valerian gribayedoff'
+p368
+g2
+(g6
+S'\xde\xdf\x86\xcae\xa8\xd8?'
+p369
+tp370
+Rp371
+tp372
+a(S'dreyfus (1930 film)'
+p373
+g2
+(g6
+S'\xf7\xf8\x16\xec\x03\xa6\xd8?'
+p374
+tp375
+Rp376
+tp377
+a(S'auguste mercier'
+p378
+g2
+(g6
+S'A\x83\x84\r\xe4b\xd8?'
+p379
+tp380
+Rp381
+tp382
+a(S'georges dreyfus'
+p383
+g2
+(g6
+S'\xb2s\xfd\xa7%`\xd8?'
+p384
+tp385
+Rp386
+tp387
+a(S'howard stein'
+p388
+g2
+(g6
+S'\x8c\xc6\xfa:\xa8Y\xd8?'
+p389
+tp390
+Rp391
+tp392
+a(S'the pink panther strikes again'
+p393
+g2
+(g6
+S'kgl\xf8\xaaJ\xd8?'
+p394
+tp395
+Rp396
+tp397
+a(S'anne ducros'
+p398
+g2
+(g6
+S'}\xc7\xfb\x88g8\xd8?'
+p399
+tp400
+Rp401
+tp402
+a(S'fernand labori'
+p403
+g2
+(g6
+S'\xf1\x95\x0bo\xc7\xe2\xd7?'
+p404
+tp405
+Rp406
+tp407
+a(S'ferdinand-camille dreyfus'
+p408
+g2
+(g6
+S'\x8f\x06\x8e\x13\x84\xc5\xd7?'
+p409
+tp410
+Rp411
+tp412
+a(S'physical symbol system'
+p413
+g2
+(g6
+S'wD\r\xe1\xfcY\xd7?'
+p414
+tp415
+Rp416
+tp417
+a(S'existential risk from artificial general intelligence'
+p418
+g2
+(g6
+S'j\x95\xa5Q\xda\xf8\xd6?'
+p419
+tp420
+Rp421
+tp422
+a(S'an officer and a spy'
+p423
+g2
+(g6
+S'Y\x07\x95\xfcO\xe3\xd6?'
+p424
+tp425
+Rp426
+tp427
+a(S'the pink panther (2006 film)'
+p428
+g2
+(g6
+S'\xdb,C\xc1\x90\xd9\xd6?'
+p429
+tp430
+Rp431
+tp432
+a(S'ai'
+p433
+g2
+(g6
+S'`\xad_"\xca\xcf\xd6?'
+p434
+tp435
+Rp436
+tp437
+a(S'artificial intelligence (video games)'
+p438
+g2
+(g6
+S'\xcc\x87T\xbc\xf5\xc3\xd6?'
+p439
+tp440
+Rp441
+tp442
+a(S'ai box'
+p443
+g2
+(g6
+S'\xb5 4uP\xbc\xd6?'
+p444
+tp445
+Rp446
+tp447
+a(S'ai war: fleet command'
+p448
+g2
+(g6
+S"\xb9\xb3\xf6\xa2'\x8d\xd6?"
+p449
+tp450
+Rp451
+tp452
+a(S'artificial intelligence, situated approach'
+p453
+g2
+(g6
+S'\x04^K\x99\xd1f\xd6?'
+p454
+tp455
+Rp456
+tp457
+a(S'doug yoel'
+p458
+g2
+(g6
+S'pc\x13\x82\xc3f\xd6?'
+p459
+tp460
+Rp461
+tp462
+a(S'huguette dreyfus'
+p463
+g2
+(g6
+S'\xa4\xdd\x84\xb8\x9c=\xd6?'
+p464
+tp465
+Rp466
+tp467
+a(S'ai (surname)'
+p468
+g2
+(g6
+S'\xfd\xbf\xa6\xee\xfc\x02\xd6?'
+p469
+tp470
+Rp471
+tp472
+a(S'mathieu dreyfus'
+p473
+g2
+(g6
+S"\x81\x15'\xb1\x91\x01\xd6?"
+p474
+tp475
+Rp476
+tp477
+a(S"div' d\xc5\xabji\xc5\x86as gais\xc4\x81 skr\xc4\x93ja"
+p478
+g2
+(g6
+S'xB\xf2\x8f\xea\xeb\xd5?'
+p479
+tp480
+Rp481
+tp482
+a(S'friendly artificial intelligence'
+p483
+g2
+(g6
+S'0\x9bR\x05\xbd\xc3\xd5?'
+p484
+tp485
+Rp486
+tp487
+a(S'suelette dreyfus'
+p488
+g2
+(g6
+S'5\xb6\xab\x1dK\x84\xd5?'
+p489
+tp490
+Rp491
+tp492
+a(S'princess ai'
+p493
+g2
+(g6
+S'x\xab\x14}\xf7~\xd5?'
+p494
+tp495
+Rp496
+tp497
+a(S'artificial intelligence in fiction'
+p498
+g2
+(g6
+S'\xc9UW\x10\xa5f\xd5?'
+p499
+tp500
+Rp501
+tp502
+a(S'cashiering'
+p503
+g2
+(g6
+S'\xf2A\x18\xeamc\xd5?'
+p504
+tp505
+Rp506
+tp507
+a(S'outline of artificial intelligence'
+p508
+g2
+(g6
+S'\xe2\xd47\xc5\x93\xec\xd4?'
+p509
+tp510
+Rp511
+tp512
+a(S'british celanese'
+p513
+g2
+(g6
+S'\x02\x844\xdd\xfe\xc0\xd4?'
+p514
+tp515
+Rp516
+tp517
+a(S'weak ai'
+p518
+g2
+(g6
+S'.\x08\xa8\x0e/\xc0\xd4?'
+p519
+tp520
+Rp521
+tp522
+a(S'jacques marie eug\xc3\xa8ne godefroy cavaignac'
+p523
+g2
+(g6
+S'\xd6o\xca\x9e\xff\xb6\xd4?'
+p524
+tp525
+Rp526
+tp527
+a(S'list of the pink panther characters'
+p528
+g2
+(g6
+S',\xab\x80\xfbl\xae\xd4?'
+p529
+tp530
+Rp531
+tp532
+a(S'auguste scheurer-kestner'
+p533
+g2
+(g6
+S'\x9e\xb5\xb2\xb3\xb7\xab\xd4?'
+p534
+tp535
+Rp536
+tp537
+a(S'revenge of the pink panther'
+p538
+g2
+(g6
+S'>\x07\x10\x82L\x89\xd4?'
+p539
+tp540
+Rp541
+tp542
+a(S'alphonse bertillon'
+p543
+g2
+(g6
+S'\xa8s\x8a\xc1\x98|\xd4?'
+p544
+tp545
+Rp546
+tp547
+a(S'ai (given name)'
+p548
+g2
+(g6
+S'\xa7\x1d\xda\x0e\xbbv\xd4?'
+p549
+tp550
+Rp551
+tp552
+a(S'ai weiwei'
+p553
+g2
+(g6
+S'\xd0\xb4\xd7\xfffe\xd4?'
+p554
+tp555
+Rp556
+tp557
+a(S'the prefect'
+p558
+g2
+(g6
+S"\xcc\xe9\xbcD\x13'\xd4?"
+p559
+tp560
+Rp561
+tp562
+a(S'ivchenko-progress ai-222'
+p563
+g2
+(g6
+S'\xa2\xbe\xbc\xcf.\x17\xd4?'
+p564
+tp565
+Rp566
+tp567
+a(S'the life of emile zola'
+p568
+g2
+(g6
+S'N\x83\x92+\xc9\x0f\xd4?'
+p569
+tp570
+Rp571
+tp572
+a(S'richard galliano'
+p573
+g2
+(g6
+S'\x8b\x05hB>\x0c\xd4?'
+p574
+tp575
+Rp576
+tp577
+a(S'applications of artificial intelligence'
+p578
+g2
+(g6
+S'\x0b^\xc9\xfa0\n\xd4?'
+p579
+tp580
+Rp581
+tp582
+a(S'being in the world'
+p583
+g2
+(g6
+S'?`\x05\xfeV\t\xd4?'
+p584
+tp585
+Rp586
+tp587
+a(S'watching ellie'
+p588
+g2
+(g6
+S'O\xc4w\xf2=\t\xd4?'
+p589
+tp590
+Rp591
+tp592
+a(S'mingus big band'
+p593
+g2
+(g6
+S'\t\x13\xc2l\x94\x06\xd4?'
+p594
+tp595
+Rp596
+tp597
+a(S'ai-complete'
+p598
+g2
+(g6
+S'2\x07 \xcb\xa2\xbf\xd3?'
+p599
+tp600
+Rp601
+tp602
+a(S'augmentation industries'
+p603
+g2
+(g6
+S'\x18\xe0Yeh\xb6\xd3?'
+p604
+tp605
+Rp606
+tp607
+a(S'intelligence explosion'
+p608
+g2
+(g6
+S'@\x82\xb7S\xc2\xa6\xd3?'
+p609
+tp610
+Rp611
+tp612
+a(S'doubt!!'
+p613
+g2
+(g6
+S'x]\\\x8d\xf5\x81\xd3?'
+p614
+tp615
+Rp616
+tp617
+a(S'richard evans (ai researcher)'
+p618
+g2
+(g6
+S'\xd0\xfc\x16T\xe4^\xd3?'
+p619
+tp620
+Rp621
+tp622
+a(S'eric horvitz'
+p623
+g2
+(g6
+S'\xfe\xb7H&\x9dF\xd3?'
+p624
+tp625
+Rp626
+tp627
+a(S'symbolic artificial intelligence'
+p628
+g2
+(g6
+S'%\x0cqH\x92>\xd3?'
+p629
+tp630
+Rp631
+tp632
+a(S'ai (singer)'
+p633
+g2
+(g6
+S'\xb9\x97\xaa\x94R1\xd3?'
+p634
+tp635
+Rp636
+tp637
+a(S'laura clifford barney'
+p638
+g2
+(g6
+S'!\xce3\x12\xc6&\xd3?'
+p639
+tp640
+Rp641
+tp642
+a(S'open letter on artificial intelligence'
+p643
+g2
+(g6
+S'\xd1O\x1aF\x0b\xf7\xd2?'
+p644
+tp645
+Rp646
+tp647
+a(S'samuel todes'
+p648
+g2
+(g6
+S'\xb2\xdb 6\x93\xd0\xd2?'
+p649
+tp650
+Rp651
+tp652
+a(S'ethics of artificial intelligence'
+p653
+g2
+(g6
+S'\x7f9\xe72H\xce\xd2?'
+p654
+tp655
+Rp656
+tp657
+a(S'openai'
+p658
+g2
+(g6
+S'\xe7\xbe\x83\x93\xc5\x9f\xd2?'
+p659
+tp660
+Rp661
+tp662
+a(S'dreyfus model of skill acquisition'
+p663
+g2
+(g6
+S'N\x0c\xce\x17\xa4\x96\xd2?'
+p664
+tp665
+Rp666
+tp667
+a(S'eliezer yudkowsky'
+p668
+g2
+(g6
+S'\xb6rl\xeb\xe8|\xd2?'
+p669
+tp670
+Rp671
+tp672
+a(S'alexandra dreyfus'
+p673
+g2
+(g6
+S'\xc4\xed(\x82sh\xd2?'
+p674
+tp675
+Rp676
+tp677
+a(S'.ai'
+p678
+g2
+(g6
+S'\xcc\xac\x933\xf9a\xd2?'
+p679
+tp680
+Rp681
+tp682
+a(S'ai discography'
+p683
+g2
+(g6
+S'\x17\x02L\x83nU\xd2?'
+p684
+tp685
+Rp686
+tp687
+a(S'taylor carman'
+p688
+g2
+(g6
+S'\xc1\xcb\xa6\xde\x15:\xd2?'
+p689
+tp690
+Rp691
+tp692
+a(S'autoinducer-2'
+p693
+g2
+(g6
+S'n\x1e\xc8\xae\x181\xd2?'
+p694
+tp695
+Rp696
+tp697
+a(S'wisconsin gubernatorial election, 1978'
+p698
+g2
+(g6
+S'\xdc\xe0*\xbf\\&\xd2?'
+p699
+tp700
+Rp701
+tp702
+a(S'arthur hardy (actor)'
+p703
+g2
+(g6
+S'x\x14\xafJ\xf5 \xd2?'
+p704
+tp705
+Rp706
+tp707
+a(S'son of the pink panther'
+p708
+g2
+(g6
+S'\xbb1yr\xb3\x15\xd2?'
+p709
+tp710
+Rp711
+tp712
+a(S'curse of the pink panther'
+p713
+g2
+(g6
+S'\x95V\xab\xddU\x11\xd2?'
+p714
+tp715
+Rp716
+tp717
+a(S'ai ai gasa'
+p718
+g2
+(g6
+S'En\xff?d\x02\xd2?'
+p719
+tp720
+Rp721
+tp722
+a(S'armand du paty de clam'
+p723
+g2
+(g6
+S"'b\xf4\xcdn\x01\xd2?"
+p724
+tp725
+Rp726
+tp727
+a(S'synthetic intelligence'
+p728
+g2
+(g6
+S'\x96\x98.\xc2\x9d\x00\xd2?'
+p729
+tp730
+Rp731
+tp732
+a(S'machine intelligence research institute'
+p733
+g2
+(g6
+S"\xec\xbfD'\xc8\xfd\xd1?"
+p734
+tp735
+Rp736
+tp737
+a(S'stock (publishing house)'
+p738
+g2
+(g6
+S'\x8b\xa4\xb6r\xa5\xf9\xd1?'
+p739
+tp740
+Rp741
+tp742
+a(S"j'en ai marre"
+p743
+g2
+(g6
+S'\x97\xc5\x08\xfex\xd5\xd1?'
+p744
+tp745
+Rp746
+tp747
+a(S'steve rabin'
+p748
+g2
+(g6
+S'\x91\xcf\x92}\xdf\xd4\xd1?'
+p749
+tp750
+Rp751
+tp752
+a(S'sara lazarus'
+p753
+g2
+(g6
+S'|\rF\x15\xbe\xba\xd1?'
+p754
+tp755
+Rp756
+tp757
+a(S'joseph reinach'
+p758
+g2
+(g6
+S'\xf2\x06\xe2\xed\xd3\xb4\xd1?'
+p759
+tp760
+Rp761
+tp762
+a(S'ai xuan'
+p763
+g2
+(g6
+S'\x8b\xde\x144\xab\xac\xd1?'
+p764
+tp765
+Rp766
+tp767
+a(S'ai-ren'
+p768
+g2
+(g6
+S'F\x04\xe9\xe12\xa8\xd1?'
+p769
+tp770
+Rp771
+tp772
+a(S'\xc3\x89douard drumont'
+p773
+g2
+(g6
+S'l\x8e{\x81\xbe\xa5\xd1?'
+p774
+tp775
+Rp776
+tp777
+a(S'ai control problem'
+p778
+g2
+(g6
+S'\xec\xaa\xab`\x08\x8d\xd1?'
+p779
+tp780
+Rp781
+tp782
+a(S"moravec's paradox"
+p783
+g2
+(g6
+S'\r\xf0\x88\xbb\x83\x89\xd1?'
+p784
+tp785
+Rp786
+tp787
+a(S'lighthill report'
+p788
+g2
+(g6
+S'\xf4\xb8\xa6z\xaaw\xd1?'
+p789
+tp790
+Rp791
+tp792
+a(S'old south (orange juice)'
+p793
+g2
+(g6
+S'vg\x1f\x80\x1fw\xd1?'
+p794
+tp795
+Rp796
+tp797
+a(S'ivchenko ai-25'
+p798
+g2
+(g6
+S'\xd8i\x0fawp\xd1?'
+p799
+tp800
+Rp801
+tp802
+a(S'timeline of artificial intelligence'
+p803
+g2
+(g6
+S'\xdd-.0\x83m\xd1?'
+p804
+tp805
+Rp806
+tp807
+a(S'nouvelle ai'
+p808
+g2
+(g6
+S'F\x98:\x96\x00j\xd1?'
+p809
+tp810
+Rp811
+tp812
+a(S'ai takeover'
+p813
+g2
+(g6
+S'\xe6MS6\xbdb\xd1?'
+p814
+tp815
+Rp816
+tp817
+a(S'superintelligence'
+p818
+g2
+(g6
+S'e\xe5\xdf\x8a)U\xd1?'
+p819
+tp820
+Rp821
+tp822
+a(S'dreyfuss'
+p823
+g2
+(g6
+S'\x1e\xdc$\x81\xc8P\xd1?'
+p824
+tp825
+Rp826
+tp827
+a(S'list of awards and nominations received by veep'
+p828
+g2
+(g6
+S'\xd6{\x12b\xcbH\xd1?'
+p829
+tp830
+Rp831
+tp832
+a(S'mic-a-holic ai'
+p833
+g2
+(g6
+S'\x0b\xf2\xe49Q/\xd1?'
+p834
+tp835
+Rp836
+tp837
+a(S"don't stop ai"
+p838
+g2
+(g6
+S'\xf8\x14c+*+\xd1?'
+p839
+tp840
+Rp841
+tp842
+a(S'list of hell girl characters'
+p843
+g2
+(g6
+S'\xefn\x14O\xd7\xee\xd0?'
+p844
+tp845
+Rp846
+tp847
+a(S'ai (chimpanzee)'
+p848
+g2
+(g6
+S'p^#&H\xec\xd0?'
+p849
+tp850
+Rp851
+tp852
+a(S'the left hand of darkness'
+p853
+g2
+(g6
+S'a\xd1S\xd0\xdc\xb6\xd0?'
+p854
+tp855
+Rp856
+tp857
+a(S'aldo romano'
+p858
+g2
+(g6
+S'"\xac\x0c\x81_\xb4\xd0?'
+p859
+tp860
+Rp861
+tp862
+a(S'our final invention'
+p863
+g2
+(g6
+S'\xc5\x01[\xf2\\\x95\xd0?'
+p864
+tp865
+Rp866
+tp867
+a(S'ai@50'
+p868
+g2
+(g6
+S'0\xe6\xb7\xaf\xc5{\xd0?'
+p869
+tp870
+Rp871
+tp872
+a(S'ivchenko ai-14'
+p873
+g2
+(g6
+S'\xd7\x1d\xc8\xa3\x1ey\xd0?'
+p874
+tp875
+Rp876
+tp877
+a(S'1894 in france'
+p878
+g2
+(g6
+S'\xd9Z\xb12\x10s\xd0?'
+p879
+tp880
+Rp881
+tp882
+a(S'sylvain luc'
+p883
+g2
+(g6
+S'l\x9c\xe7w\x9fr\xd0?'
+p884
+tp885
+Rp886
+tp887
+a(S'pilot (the new adventures of old christine)'
+p888
+g2
+(g6
+S'\xccN\xd2\xe5hS\xd0?'
+p889
+tp890
+Rp891
+tp892
+a(S'ivchenko ai-20'
+p893
+g2
+(g6
+S'"\xac @\xbdC\xd0?'
+p894
+tp895
+Rp896
+tp897
+a(S'viva ai'
+p898
+g2
+(g6
+S'\xb9\xb2\x9f\xa8\x0e5\xd0?'
+p899
+tp900
+Rp901
+tp902
+a(S'european coordinating committee for artificial intelligence'
+p903
+g2
+(g6
+S'C\x82D\x81\xe90\xd0?'
+p904
+tp905
+Rp906
+tp907
+a(S'echoborg'
+p908
+g2
+(g6
+S'\xe4m\xf6\x1fd\x15\xd0?'
+p909
+tp910
+Rp911
+tp912
+a(S'ai (poet)'
+p913
+g2
+(g6
+S'\xf5J\xf7L\xea\x06\xd0?'
+p914
+tp915
+Rp916
+tp917
+a(S'stanislas du lac'
+p918
+g2
+(g6
+S'\xfe~\xfci}\x00\xd0?'
+p919
+tp920
+Rp921
+tp922
+a(S'gilles dreyfus'
+p923
+g2
+(g6
+S'\xd26\xd9N$\xed\xcf?'
+p924
+tp925
+Rp926
+tp927
+a(S'ai memo'
+p928
+g2
+(g6
+S'\xd7u5\xa3\x83\xd7\xcf?'
+p929
+tp930
+Rp931
+tp932
+a(S'ai, ohio'
+p933
+g2
+(g6
+S'\x0ehQ\xe1>\xd2\xcf?'
+p934
+tp935
+Rp936
+tp937
+a(S'ivchenko ai-24'
+p938
+g2
+(g6
+S'\xfan\xae\xedI\xc1\xcf?'
+p939
+tp940
+Rp941
+tp942
+a(S'huisheng ai'
+p943
+g2
+(g6
+S'\xc1\x83iN\xc9\xb6\xcf?'
+p944
+tp945
+Rp946
+tp947
+a(S'corcu baiscind'
+p948
+g2
+(g6
+S'\xe8\xd6q\xbaz\xa1\xcf?'
+p949
+tp950
+Rp951
+tp952
+a(S'international journal on artificial intelligence tools'
+p953
+g2
+(g6
+S'I\xc7rk\xd4\x97\xcf?'
+p954
+tp955
+Rp956
+tp957
+a(S'pauline dreyfus'
+p958
+g2
+(g6
+S'x\xe4\x01\xd6:~\xcf?'
+p959
+tp960
+Rp961
+tp962
+a(S'ai-khanoum'
+p963
+g2
+(g6
+S'\xec\xd0[\xb7\xeak\xcf?'
+p964
+tp965
+Rp966
+tp967
+a(S'ashton-under-lyne munitions explosion'
+p968
+g2
+(g6
+S'<\x01\xab\x0f2f\xcf?'
+p969
+tp970
+Rp971
+tp972
+a(S'\xc3\x89douard dreyfus gonzalez'
+p973
+g2
+(g6
+S'\xf5>w\xea\xf1U\xcf?'
+p974
+tp975
+Rp976
+tp977
+a(S"what's goin' on ai"
+p978
+g2
+(g6
+S'\xa6\xf8#\x18^@\xcf?'
+p979
+tp980
+Rp981
+tp982
+a(S'moshe cotel'
+p983
+g2
+(g6
+S'\x19\xa5\x11^I:\xcf?'
+p984
+tp985
+Rp986
+tp987
+a(S'neats and scruffies'
+p988
+g2
+(g6
+S'\x9f\xbe_\xb6\x86\x11\xcf?'
+p989
+tp990
+Rp991
+tp992
+a(S'progress in artificial intelligence'
+p993
+g2
+(g6
+S'\xb7\xdb\xea\xca\x98\x01\xcf?'
+p994
+tp995
+Rp996
+tp997
+a(S'pat hayes'
+p998
+g2
+(g6
+S'D\xe2]\x8dr\xcd\xce?'
+p999
+tp1000
+Rp1001
+tp1002
+a(S'mark wrathall'
+p1003
+g2
+(g6
+S'\xf8\x02\x01\xf5\x92\x8e\xce?'
+p1004
+tp1005
+Rp1006
+tp1007
+a(S'2004 ai'
+p1008
+g2
+(g6
+S'\xd1d\xd2X\xd3x\xce?'
+p1009
+tp1010
+Rp1011
+tp1012
+a(S'distopping'
+p1013
+g2
+(g6
+S'\xa7\xed\x96v\x07V\xce?'
+p1014
+tp1015
+Rp1016
+tp1017
+a(S'interspecies quorum sensing'
+p1018
+g2
+(g6
+S'\xf7\x80\xf3V/C\xce?'
+p1019
+tp1020
+Rp1021
+tp1022
+a(S'ferdinand walsin esterhazy'
+p1023
+g2
+(g6
+S'\x1e\x9d\x99\xed\xbf\x1e\xce?'
+p1024
+tp1025
+Rp1026
+tp1027
+a(S'selmer bringsjord'
+p1028
+g2
+(g6
+S'gF\xb6n\xdb\x05\xce?'
+p1029
+tp1030
+Rp1031
+tp1032
+a(S'sunday without god'
+p1033
+g2
+(g6
+S'\x7fE\xe4\xa7\x83\x01\xce?'
+p1034
+tp1035
+Rp1036
+tp1037
+a(S's gol v rukata...'
+p1038
+g2
+(g6
+S'\xff\x92x\xa5\x9a\xf3\xcd?'
+p1039
+tp1040
+Rp1041
+tp1042
+a(S'1895 in france'
+p1043
+g2
+(g6
+S'\xc9Yv4\x80\xd7\xcd?'
+p1044
+tp1045
+Rp1046
+tp1047
+a(S'robert louis-dreyfus trophy'
+p1048
+g2
+(g6
+S'\xc4V{\x81\xff\xcf\xcd?'
+p1049
+tp1050
+Rp1051
+tp1052
+a(S'list of fictional computers'
+p1053
+g2
+(g6
+S'\xc0u\xb6\xa7\x1b\xce\xcd?'
+p1054
+tp1055
+Rp1056
+tp1057
+a(S'wagamama ki no mama ai no joke / ai no gundan'
+p1058
+g2
+(g6
+S'\xe3\xa7\x93 \xc6\xbb\xcd?'
+p1059
+tp1060
+Rp1061
+tp1062
+a(S'stronger (ai song)'
+p1063
+g2
+(g6
+S'D#\x96\x12B\xba\xcd?'
+p1064
+tp1065
+Rp1066
+tp1067
+a(S'adobe illustrator artwork'
+p1068
+g2
+(g6
+S'\x9a\xcd;\xff\xa5\xb5\xcd?'
+p1069
+tp1070
+Rp1071
+tp1072
+a(S'enough said (film)'
+p1073
+g2
+(g6
+S'\x93\x19W\xff\xbd\xad\xcd?'
+p1074
+tp1075
+Rp1076
+tp1077
+a(S'boyfriends (film)'
+p1078
+g2
+(g6
+S'b3\xaf\x89\x7f\xad\xcd?'
+p1079
+tp1080
+Rp1081
+tp1082
+a(S'ivchenko ai-26'
+p1083
+g2
+(g6
+S'\x1fj\x1d\xd3\xd6\x8f\xcd?'
+p1084
+tp1085
+Rp1086
+tp1087
+a(S'appreciative inquiry in education'
+p1088
+g2
+(g6
+S'UB\xcd\xcf\xfbr\xcd?'
+p1089
+tp1090
+Rp1091
+tp1092
+a(S'allen institute for artificial intelligence'
+p1093
+g2
+(g6
+S'\xac-Z\xcf;f\xcd?'
+p1094
+tp1095
+Rp1096
+tp1097
+a(S'selina meyer'
+p1098
+g2
+(g6
+S'\xce\x0e\x85_\x8f`\xcd?'
+p1099
+tp1100
+Rp1101
+tp1102
+a(S'jean-baptiste billot'
+p1103
+g2
+(g6
+S'\xbe,\x84\xd9BW\xcd?'
+p1104
+tp1105
+Rp1106
+tp1107
+a(S'sean dorrance kelly'
+p1108
+g2
+(g6
+S'\x8e\x9d\xc6b\x85N\xcd?'
+p1109
+tp1110
+Rp1111
+tp1112
+a(S'ai weiwei: never sorry'
+p1113
+g2
+(g6
+S'q\xd4[\xa8R8\xcd?'
+p1114
+tp1115
+Rp1116
+tp1117
+a(S'united nations staff selection system'
+p1118
+g2
+(g6
+S'|\xcb\xca\xbe\x812\xcd?'
+p1119
+tp1120
+Rp1121
+tp1122
+a(S't. b. harms & francis, day & hunter, inc.'
+p1123
+g2
+(g6
+S'\xaal\xd9\xe4\x98+\xcd?'
+p1124
+tp1125
+Rp1126
+tp1127
+a(S'the public scandal of the dreyfus affair'
+p1128
+g2
+(g6
+S'\x99\x1d\xf4\x8e\xf9#\xcd?'
+p1129
+tp1130
+Rp1131
+tp1132
+a(S'c\xc3\xa9lestin hennion'
+p1133
+g2
+(g6
+S'\xdb\xfb\xae$G\xc4\xcc?'
+p1134
+tp1135
+Rp1136
+tp1137
+a(S'diego dreyfus'
+p1138
+g2
+(g6
+S'\x96\x0b]\xef[\xb4\xcc?'
+p1139
+tp1140
+Rp1141
+tp1142
+a(S'artificial intelligence: a modern approach'
+p1143
+g2
+(g6
+S'\xe6D\xfd\xfe\xc5\xb1\xcc?'
+p1144
+tp1145
+Rp1146
+tp1147
+a(S'ai no bakudan'
+p1148
+g2
+(g6
+S'\xacd\x1d\xd0=\xb0\xcc?'
+p1149
+tp1150
+Rp1151
+tp1152
+a(S'ikhtiyar al-din ai-taq'
+p1153
+g2
+(g6
+S'\x13\xf7\x19\x7f\x1c\x9f\xcc?'
+p1154
+tp1155
+Rp1156
+tp1157
+a(S'bref'
+p1158
+g2
+(g6
+S'\xf1\xfe6\xa2\xbb\x9d\xcc?'
+p1159
+tp1160
+Rp1161
+tp1162
+a(S'ai no shirushi'
+p1163
+g2
+(g6
+S'\xcb\x08Wd\xf3\x98\xcc?'
+p1164
+tp1165
+Rp1166
+tp1167
+a(S'philippe dreyfus'
+p1168
+g2
+(g6
+S'R\xd7@\xa6\x9e\x95\xcc?'
+p1169
+tp1170
+Rp1171
+tp1172
+a(S'strong ai'
+p1173
+g2
+(g6
+S"\xa0Y'C?w\xcc?"
+p1174
+tp1175
+Rp1176
+tp1177
+a(S'independent (ai album)'
+p1178
+g2
+(g6
+S'\xb2\xe9;\xc5\xe6[\xcc?'
+p1179
+tp1180
+Rp1181
+tp1182
+a(S'being jewish in france'
+p1183
+g2
+(g6
+S'xF\x82\x0e\xcbY\xcc?'
+p1184
+tp1185
+Rp1186
+tp1187
+a(S'artificial brain'
+p1188
+g2
+(g6
+S'\xd4\x94^\xa8\xc3\x1f\xcc?'
+p1189
+tp1190
+Rp1191
+tp1192
+a(S'ai no uta'
+p1193
+g2
+(g6
+S'\x9c\x1c\xf7r\xff\x00\xcc?'
+p1194
+tp1195
+Rp1196
+tp1197
+a(S'jeeney ai'
+p1198
+g2
+(g6
+S'w\x87\xdd,\x99\xf6\xcb?'
+p1199
+tp1200
+Rp1201
+tp1202
+a(S'dreyfus point'
+p1203
+g2
+(g6
+S'*\r\xa2\xd1\x91\xed\xcb?'
+p1204
+tp1205
+Rp1206
+tp1207
+a(S'betty morgan (politician)'
+p1208
+g2
+(g6
+S'\x90\xec\xf3\x0c\xc5\xcf\xcb?'
+p1209
+tp1210
+Rp1211
+tp1212
+a(S"l'aurore"
+p1213
+g2
+(g6
+S'Q\xb2\x8dy\x9e\xb2\xcb?'
+p1214
+tp1215
+Rp1216
+tp1217
+a(S'antisemitic league of france'
+p1218
+g2
+(g6
+S'\x9f}\xb8\xd2\xf5\xa6\xcb?'
+p1219
+tp1220
+Rp1221
+tp1222
+a(S'deepmind'
+p1223
+g2
+(g6
+S'\xb7\x8dq\x95\xef\x9d\xcb?'
+p1224
+tp1225
+Rp1226
+tp1227
+a(S'australian industry group'
+p1228
+g2
+(g6
+S'\xc9~S\xbe\x0c\x9d\xcb?'
+p1229
+tp1230
+Rp1231
+tp1232
+a(S'neurophenomenology'
+p1233
+g2
+(g6
+S'HvM4,\x9a\xcb?'
+p1234
+tp1235
+Rp1236
+tp1237
+a(S'association for the advancement of artificial intelligence'
+p1238
+g2
+(g6
+S'\xb4\xbd\xf0\xb9\xd9\x96\xcb?'
+p1239
+tp1240
+Rp1241
+tp1242
+a(S'martin bejerano'
+p1243
+g2
+(g6
+S'_\xc0i\xfc\x9ct\xcb?'
+p1244
+tp1245
+Rp1246
+tp1247
+a(S'screen actors guild award for outstanding performance by a female actor in a comedy series'
+p1248
+g2
+(g6
+S' \xd2\x8b\xfd\xf5s\xcb?'
+p1249
+tp1250
+Rp1251
+tp1252
+a(S'jean-marc berli\xc3\xa8re'
+p1253
+g2
+(g6
+S'\xb0\x1c\x97\xa2\x11g\xcb?'
+p1254
+tp1255
+Rp1256
+tp1257
+a(S'in the realm of the hackers'
+p1258
+g2
+(g6
+S'\xa5\x1a\xd7\xf3$`\xcb?'
+p1259
+tp1260
+Rp1261
+tp1262
+a(S'geudertheim'
+p1263
+g2
+(g6
+S'\xea\\5\x0b<L\xcb?'
+p1264
+tp1265
+Rp1266
+tp1267
+a(S'jules andrade'
+p1268
+g2
+(g6
+S'\xdaj\x86\xe2\xc3-\xcb?'
+p1269
+tp1270
+Rp1271
+tp1272
+a(S'ivchenko ai-9'
+p1273
+g2
+(g6
+S'X\x97\xec\xe1\t\x1d\xcb?'
+p1274
+tp1275
+Rp1276
+tp1277
+a(S'chris mckinstry'
+p1278
+g2
+(g6
+S'\xb4\xfa\xec\xbb\x92\x1c\xcb?'
+p1279
+tp1280
+Rp1281
+tp1282
+a(S'appreciation index'
+p1283
+g2
+(g6
+S'xg\xab\xe0\xd2\xf7\xca?'
+p1284
+tp1285
+Rp1286
+tp1287
+a(S'lilacs in a window'
+p1288
+g2
+(g6
+S'\x10Kp\xbc\xb5\xf5\xca?'
+p1289
+tp1290
+Rp1291
+tp1292
+a(S'hakmem'
+p1293
+g2
+(g6
+S'\xbc\xa4\x8cr3\xf4\xca?'
+p1294
+tp1295
+Rp1296
+tp1297
+a(S'list of roman place names in britain'
+p1298
+g2
+(g6
+S'B\xd2\x88?\xab\xec\xca?'
+p1299
+tp1300
+Rp1301
+tp1302
+a(S'a shot in the dark (1964 film)'
+p1303
+g2
+(g6
+S'\xc9\x1e\xd79\xe2\xd2\xca?'
+p1304
+tp1305
+Rp1306
+tp1307
+a(S'san-ai oil'
+p1308
+g2
+(g6
+S'\x1e{\x95\x1aZ\xd2\xca?'
+p1309
+tp1310
+Rp1311
+tp1312
+a(S'picture paris'
+p1313
+g2
+(g6
+S'T\xbc~\x8c\xf9\xbb\xca?'
+p1314
+tp1315
+Rp1316
+tp1317
+a(S'sakuranbo'
+p1318
+g2
+(g6
+S"\x0b\x99'\xc8x\xb6\xca?"
+p1319
+tp1320
+Rp1321
+tp1322
+a(S'artificial intelligence in healthcare'
+p1323
+g2
+(g6
+S'\xbe\xd3\xd0\xcd|\xae\xca?'
+p1324
+tp1325
+Rp1326
+tp1327
+a(S'ivchenko-progress'
+p1328
+g2
+(g6
+S'\x8f\xe2\xae\xcae\xa8\xca?'
+p1329
+tp1330
+Rp1331
+tp1332
+a(S'air intelligence'
+p1333
+g2
+(g6
+S'~\x1f\xb8y\x16\xa7\xca?'
+p1334
+tp1335
+Rp1336
+tp1337
+a(S'ai qing'
+p1338
+g2
+(g6
+S'<\x8f\xc8S\xe0\x98\xca?'
+p1339
+tp1340
+Rp1341
+tp1342
+a(S'artificial intelligence and law'
+p1343
+g2
+(g6
+S'S_L\xd7\x97\x96\xca?'
+p1344
+tp1345
+Rp1346
+tp1347
+a(S'acs award for encouraging women into careers in the chemical sciences'
+p1348
+g2
+(g6
+S'\xfc\x8b\x1a\xea\xda{\xca?'
+p1349
+tp1350
+Rp1351
+tp1352
+a(S'pierre sudreau'
+p1353
+g2
+(g6
+S'\x84K\xa1\xd2ht\xca?'
+p1354
+tp1355
+Rp1356
+tp1357
+a(S'zoolook'
+p1358
+g2
+(g6
+S'\xd3 \xba\xbf\x0bZ\xca?'
+p1359
+tp1360
+Rp1361
+tp1362
+a(S'victor basch'
+p1363
+g2
+(g6
+S'd\x037\x08\xa0S\xca?'
+p1364
+tp1365
+Rp1366
+tp1367
+a(S'pascale audret'
+p1368
+g2
+(g6
+S';*n\xdcGD\xca?'
+p1369
+tp1370
+Rp1371
+tp1372
+a(S'david nelson (software developer)'
+p1373
+g2
+(g6
+S'\x02\x92+Q\x04A\xca?'
+p1374
+tp1375
+Rp1376
+tp1377
+a(S'music and artificial intelligence'
+p1378
+g2
+(g6
+S'o\xb4\x83\xd7o>\xca?'
+p1379
+tp1380
+Rp1381
+tp1382
+a(S'daisuki da yo'
+p1383
+g2
+(g6
+S'H\xe7\x08\xfe\xbb5\xca?'
+p1384
+tp1385
+Rp1386
+tp1387
+a(S'video girl ai'
+p1388
+g2
+(g6
+S'\xe8tE3\xa55\xca?'
+p1389
+tp1390
+Rp1391
+tp1392
+a(S'ai jing'
+p1393
+g2
+(g6
+S'\xad(\xeb\x98\x16+\xca?'
+p1394
+tp1395
+Rp1396
+tp1397
+a(S'ai apaec'
+p1398
+g2
+(g6
+S'\x10\xe5\xbepY&\xca?'
+p1399
+tp1400
+Rp1401
+tp1402
+a(S"critics' choice television award for best actress in a comedy series"
+p1403
+g2
+(g6
+S'\xea\xa7Z,B\x10\xca?'
+p1404
+tp1405
+Rp1406
+tp1407
+a(S'list of artificial intelligence projects'
+p1408
+g2
+(g6
+S'\xeac\xf0F\xee\x04\xca?'
+p1409
+tp1410
+Rp1411
+tp1412
+a(S'ai ai syndrome'
+p1413
+g2
+(g6
+S'\xb3\xe8?T\xea\xc6\xc9?'
+p1414
+tp1415
+Rp1416
+tp1417
+a(S'ai shinozaki'
+p1418
+g2
+(g6
+S'H\xa9\x8d[\xe9\xc0\xc9?'
+p1419
+tp1420
+Rp1421
+tp1422
+a(S'louis (surname)'
+p1423
+g2
+(g6
+S'\x07o\xed\x8d\xa9\xb6\xc9?'
+p1424
+tp1425
+Rp1426
+tp1427
+a(S'henri vaugeois'
+p1428
+g2
+(g6
+S'\xad\xc3\xd0?\xc5\xa6\xc9?'
+p1429
+tp1430
+Rp1431
+tp1432
+a(S'airborne interception radar'
+p1433
+g2
+(g6
+S'y\xa1\x84\x90{\x99\xc9?'
+p1434
+tp1435
+Rp1436
+tp1437
+a(S'sing galing!'
+p1438
+g2
+(g6
+S"\x18p '%\x95\xc9?"
+p1439
+tp1440
+Rp1441
+tp1442
+a(S'logic theorist'
+p1443
+g2
+(g6
+S'\xb0\xe6z\x82+\x94\xc9?'
+p1444
+tp1445
+Rp1446
+tp1447
+a(S'ari hoenig'
+p1448
+g2
+(g6
+S'\x01#c\r\xe7\x8f\xc9?'
+p1449
+tp1450
+Rp1451
+tp1452
+a(S'ai (canaan)'
+p1453
+g2
+(g6
+S'\xc6\xc9T\xe5}\x80\xc9?'
+p1454
+tp1455
+Rp1456
+tp1457
+a(S'minimum intelligent signal test'
+p1458
+g2
+(g6
+S'\x06\x07<\xbf\x9b|\xc9?'
+p1459
+tp1460
+Rp1461
+tp1462
+a(S'turn out the stars'
+p1463
+g2
+(g6
+S'M\x94\xa8\xc9\xbdu\xc9?'
+p1464
+tp1465
+Rp1466
+tp1467
+a(S'louis havet'
+p1468
+g2
+(g6
+S'\x0c\xd2\nr#Q\xc9?'
+p1469
+tp1470
+Rp1471
+tp1472
+a(S'herbert lom'
+p1473
+g2
+(g6
+S'\xb0\xa0\x16z\xd0P\xc9?'
+p1474
+tp1475
+Rp1476
+tp1477
+a(S"j'ai besoin d'amour"
+p1478
+g2
+(g6
+S'^E\xb0\xd0VP\xc9?'
+p1479
+tp1480
+Rp1481
+tp1482
+a(S'jean oser'
+p1483
+g2
+(g6
+S'z\x1a\x81m\xe4C\xc9?'
+p1484
+tp1485
+Rp1486
+tp1487
+a(S'partnership on ai'
+p1488
+g2
+(g6
+S'\x85b\x11\xea\xe4;\xc9?'
+p1489
+tp1490
+Rp1491
+tp1492
+a(S'the new adventures of old christine (season 3)'
+p1493
+g2
+(g6
+S'\x86\xef\xdd\xb3c8\xc9?'
+p1494
+tp1495
+Rp1496
+tp1497
+a(S'ai-petri'
+p1498
+g2
+(g6
+S'\x08\xa0\x057\xa1"\xc9?'
+p1499
+tp1500
+Rp1501
+tp1502
+a(S'emly'
+p1503
+g2
+(g6
+S'\x8b\xe1\xbdp5\x0e\xc9?'
+p1504
+tp1505
+Rp1506
+tp1507
+a(S'ai tong school'
+p1508
+g2
+(g6
+S'\\\xffB{_\xff\xc8?'
+p1509
+tp1510
+Rp1511
+tp1512
+a.

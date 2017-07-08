@@ -1,0 +1,2728 @@
+(lp0
+(S'amherst, massachusetts'
+p1
+cnumpy.core.multiarray
+scalar
+p2
+(cnumpy
+dtype
+p3
+(S'f8'
+p4
+I0
+I1
+tp5
+Rp6
+(I3
+S'<'
+p7
+NNNI-1
+I-1
+I0
+tp8
+bS'\x02\x00\x00\x00\x00\x00\xf0?'
+p9
+tp10
+Rp11
+tp12
+a(S'amherst'
+p13
+g2
+(g6
+S'\xdf\xb9[`b`\xec?'
+p14
+tp15
+Rp16
+tp17
+a(S'amherst high school'
+p18
+g2
+(g6
+S'\xb9zI\xde~\xdc\xeb?'
+p19
+tp20
+Rp21
+tp22
+a(S'amherst college'
+p23
+g2
+(g6
+S'\xb2\xd6\x1a\xd0s\xa4\xea?'
+p24
+tp25
+Rp26
+tp27
+a(S'jeffery amherst, 1st baron amherst'
+p28
+g2
+(g6
+S'G\xb9\xd7\x94M(\xea?'
+p29
+tp30
+Rp31
+tp32
+a(S'earl amherst'
+p33
+g2
+(g6
+S'\x89\x88\xa8?Y\xfa\xe9?'
+p34
+tp35
+Rp36
+tp37
+a(S'amherst, virginia'
+p38
+g2
+(g6
+S'$X\xae\x90\x0c\xf5\xe9?'
+p39
+tp40
+Rp41
+tp42
+a(S'william amherst'
+p43
+g2
+(g6
+S'P\xd6\xf4\xc8N\xbc\xe9?'
+p44
+tp45
+Rp46
+tp47
+a(S'amherst, new hampshire'
+p48
+g2
+(g6
+S'\xbc!r\x1aQ\x8b\xe9?'
+p49
+tp50
+Rp51
+tp52
+a(S'amherst, nova scotia'
+p53
+g2
+(g6
+S'\xd6\x94N{\xf2\x06\xe9?'
+p54
+tp55
+Rp56
+tp57
+a(S'east amherst, new york'
+p58
+g2
+(g6
+S'Dq.\xbfo\x9e\xe8?'
+p59
+tp60
+Rp61
+tp62
+a(S'william seymour tyler'
+p63
+g2
+(g6
+S'z\x9efP\x14\x02\xe8?'
+p64
+tp65
+Rp66
+tp67
+a(S'amherst county, virginia'
+p68
+g2
+(g6
+S'\xe2\xe0ZE\x10\xcc\xe7?'
+p69
+tp70
+Rp71
+tp72
+a(S'amherst, new york'
+p73
+g2
+(g6
+S'4w:!gq\xe7?'
+p74
+tp75
+Rp76
+tp77
+a(S'baron amherst'
+p78
+g2
+(g6
+S'\xae<\xee\xbf"J\xe7?'
+p79
+tp80
+Rp81
+tp82
+a(S'strong house (amherst, massachusetts)'
+p83
+g2
+(g6
+S'\x92\x84l\xf3\x8c\x0c\xe7?'
+p84
+tp85
+Rp86
+tp87
+a(S'william tyssen-amherst, 1st baron amherst of hackney'
+p88
+g2
+(g6
+S'\x99\xe4\xfb\xf6a\x04\xe7?'
+p89
+tp90
+Rp91
+tp92
+a(S'amherst station (massachusetts)'
+p93
+g2
+(g6
+S'\x8dmG\xb2\xe2\xc9\xe6?'
+p94
+tp95
+Rp96
+tp97
+a(S'william amherst, 2nd earl amherst'
+p98
+g2
+(g6
+S'\xa4\r\x9b\xac\xbf\xc3\xe6?'
+p99
+tp100
+Rp101
+tp102
+a(S'amherst, wisconsin'
+p103
+g2
+(g6
+S'\x06\xff\xe2S\xa6\xa8\xe6?'
+p104
+tp105
+Rp106
+tp107
+a(S'amherst, texas'
+p108
+g2
+(g6
+S'\x18l^\x00|\xa3\xe6?'
+p109
+tp110
+Rp111
+tp112
+a(S'amherst, ohio'
+p113
+g2
+(g6
+S'J\xd7\xce*\xade\xe6?'
+p114
+tp115
+Rp116
+tp117
+a(S'north amherst, massachusetts'
+p118
+g2
+(g6
+S'\xdb\xea\xe08\x99\x01\xe6?'
+p119
+tp120
+Rp121
+tp122
+a(S'amherst area chamber of commerce'
+p123
+g2
+(g6
+S'\xbd\xcb\x8c\x84\xcd\xef\xe5?'
+p124
+tp125
+Rp126
+tp127
+a(S'julius hawley seelye'
+p128
+g2
+(g6
+S'w<I\x11\x11\xc3\xe5?'
+p129
+tp130
+Rp131
+tp132
+a(S'amherst high school (texas)'
+p133
+g2
+(g6
+S'<\x81{\x8fN\xbb\xe5?'
+p134
+tp135
+Rp136
+tp137
+a(S'william amherst (british army officer)'
+p138
+g2
+(g6
+S'G1+~\xa4M\xe5?'
+p139
+tp140
+Rp141
+tp142
+a(S'amherst-pelham regional school district'
+p143
+g2
+(g6
+S'\x9a\x0c\xbb\xef\xfc/\xe5?'
+p144
+tp145
+Rp146
+tp147
+a(S'amherst central business district'
+p148
+g2
+(g6
+S'2\xc7\xcdc\xd4#\xe5?'
+p149
+tp150
+Rp151
+tp152
+a(S'william amherst, 1st earl amherst'
+p153
+g2
+(g6
+S'\xf0F\xb8\x01\x13\t\xe5?'
+p154
+tp155
+Rp156
+tp157
+a(S'amherst lord jeffs football'
+p158
+g2
+(g6
+S'\x0b$\x03a[\xc4\xe4?'
+p159
+tp160
+Rp161
+tp162
+a(S'amherst college route 9 (acapella group)'
+p163
+g2
+(g6
+S'\xd0\x06\xd1\xe7\x9e\x90\xe4?'
+p164
+tp165
+Rp166
+tp167
+a(S'amherst regional public schools'
+p168
+g2
+(g6
+S'\xd3\xbdGG\x19p\xe4?'
+p169
+tp170
+Rp171
+tp172
+a(S'george b. churchill'
+p173
+g2
+(g6
+S'\xf1\x1f<{Yc\xe4?'
+p174
+tp175
+Rp176
+tp177
+a(S'alicia amherst'
+p178
+g2
+(g6
+S'\x7f\xc94\rb.\xe4?'
+p179
+tp180
+Rp181
+tp182
+a(S'jeffery amherst, 5th earl amherst'
+p183
+g2
+(g6
+S'\xf5Z\x7f~\xd7 \xe4?'
+p184
+tp185
+Rp186
+tp187
+a(S'amherst, colorado'
+p188
+g2
+(g6
+S'ZZ,0\x8f\x0e\xe4?'
+p189
+tp190
+Rp191
+tp192
+a(S'dickinson historic district'
+p193
+g2
+(g6
+S'\x87(5#\x1f\xfd\xe3?'
+p194
+tp195
+Rp196
+tp197
+a(S'north amherst center historic district'
+p198
+g2
+(g6
+S'\xae\x9c\xc00:\xe8\xe3?'
+p199
+tp200
+Rp201
+tp202
+a(S'amherst head'
+p203
+g2
+(g6
+S',\x02^\x97\xc6\xc1\xe3?'
+p204
+tp205
+Rp206
+tp207
+a(S'amherst (town), wisconsin'
+p208
+g2
+(g6
+S'm\x92\xd4\x83\x88\xbe\xe3?'
+p209
+tp210
+Rp211
+tp212
+a(S'amherst island'
+p213
+g2
+(g6
+S'*\xcb;l9\x97\xe3?'
+p214
+tp215
+Rp216
+tp217
+a(S'stanley king'
+p218
+g2
+(g6
+S'\x8f\xc4n\x95\xda\x90\xe3?'
+p219
+tp220
+Rp221
+tp222
+a(S'south amherst, massachusetts'
+p223
+g2
+(g6
+S'U[\xb8l\x9d\x86\xe3?'
+p224
+tp225
+Rp226
+tp227
+a(S'little red schoolhouse (amherst, massachusetts)'
+p228
+g2
+(g6
+S'Z|4\xc1?z\xe3?'
+p229
+tp230
+Rp231
+tp232
+a(S'jack hubbard'
+p233
+g2
+(g6
+S'q;\x9a\xdc\xa4J\xe3?'
+p234
+tp235
+Rp236
+tp237
+a(S'amherst media'
+p238
+g2
+(g6
+S'\x05\xa7W+\xa1D\xe3?'
+p239
+tp240
+Rp241
+tp242
+a(S'angie epifano'
+p243
+g2
+(g6
+S'\xd3\xb8\x1bS\xeb1\xe3?'
+p244
+tp245
+Rp246
+tp247
+a(S'east amherst, nova scotia'
+p248
+g2
+(g6
+S'k\xb1 \xca\x9a/\xe3?'
+p249
+tp250
+Rp251
+tp252
+a(S"fort amherst, st. john's"
+p253
+g2
+(g6
+S'V\x1b.r\x05\x1e\xe3?'
+p254
+tp255
+Rp256
+tp257
+a(S'five college consortium'
+p258
+g2
+(g6
+S'`QuH^\xd5\xe2?'
+p259
+tp260
+Rp261
+tp262
+a(S'arhs'
+p263
+g2
+(g6
+S'}2\x1fC\xdb\xa9\xe2?'
+p264
+tp265
+Rp266
+tp267
+a(S'university of massachusetts amherst college of information and computer sciences'
+p268
+g2
+(g6
+S'O\t\xf9\x1a\xca\x95\xe2?'
+p269
+tp270
+Rp271
+tp272
+a(S"amherst's decree"
+p273
+g2
+(g6
+S'\x9c\xbc\x8cA}{\xe2?'
+p274
+tp275
+Rp276
+tp277
+a(S'amherst railway society'
+p278
+g2
+(g6
+S',\x1bbJ9^\xe2?'
+p279
+tp280
+Rp281
+tp282
+a(S'amherst telephone company'
+p283
+g2
+(g6
+S'\xb8Lg\xc6\xd9W\xe2?'
+p284
+tp285
+Rp286
+tp287
+a(S'south amherst common historic district'
+p288
+g2
+(g6
+S'\xfc\r\x06\x90\xa4W\xe2?'
+p289
+tp290
+Rp291
+tp292
+a(S'tomorrow valley'
+p293
+g2
+(g6
+S':D\x9d\xff\x95D\xe2?'
+p294
+tp295
+Rp296
+tp297
+a(S'amherst village historic district'
+p298
+g2
+(g6
+S'\xe5\xb2\x1e\xfa\xdf<\xe2?'
+p299
+tp300
+Rp301
+tp302
+a(S'john amherst'
+p303
+g2
+(g6
+S'\xa2\xc2\xca\x14\xc69\xe2?'
+p304
+tp305
+Rp306
+tp307
+a(S'edward dickinson'
+p308
+g2
+(g6
+S'\n\x0b\x17\xae\xde\x1d\xe2?'
+p309
+tp310
+Rp311
+tp312
+a(S'hugh amherst, 4th earl amherst'
+p313
+g2
+(g6
+S'\xd9\t\x85\xd3\xf4\x17\xe2?'
+p314
+tp315
+Rp316
+tp317
+a(S'central school (amherst, ohio)'
+p318
+g2
+(g6
+S"\xeb\xf7'R!\x0b\xe2?"
+p319
+tp320
+Rp321
+tp322
+a(S'amherst central high school'
+p323
+g2
+(g6
+S'o\x11\x16+e\xf9\xe1?'
+p324
+tp325
+Rp326
+tp327
+a(S'baron amherst of hackney'
+p328
+g2
+(g6
+S'`3\xc0\xddM\xf5\xe1?'
+p329
+tp330
+Rp331
+tp332
+a(S'amherst street station'
+p333
+g2
+(g6
+S'\xceb\xednB\xb6\xe1?'
+p334
+tp335
+Rp336
+tp337
+a(S'jedediah k. smith'
+p338
+g2
+(g6
+S'\x99l*\x8e\xeb\xb2\xe1?'
+p339
+tp340
+Rp341
+tp342
+a(S'amherst center for russian culture'
+p343
+g2
+(g6
+S'\xa3n\xa7\xea\xe6\xa4\xe1?'
+p344
+tp345
+Rp346
+tp347
+a(S'lincoln-sunset historic district'
+p348
+g2
+(g6
+S'\x05\x9c\xbds.\x8f\xe1?'
+p349
+tp350
+Rp351
+tp352
+a(S'amherst island (nunavut)'
+p353
+g2
+(g6
+S'U\xa9\xba\xaf\x83s\xe1?'
+p354
+tp355
+Rp356
+tp357
+a(S'julian gibbs'
+p358
+g2
+(g6
+S'\xbc\xc0\xc7\x88r[\xe1?'
+p359
+tp360
+Rp361
+tp362
+a(S'thomas bezucha'
+p363
+g2
+(g6
+S'G\xd7 j\xf9Y\xe1?'
+p364
+tp365
+Rp366
+tp367
+a(S'university of massachusetts amherst student government association'
+p368
+g2
+(g6
+S'\xeaA^\x99\xe8P\xe1?'
+p369
+tp370
+Rp371
+tp372
+a(S'african studies review'
+p373
+g2
+(g6
+S'\xbd\x87\xac\xc4X<\xe1?'
+p374
+tp375
+Rp376
+tp377
+a(S'francis amherst'
+p378
+g2
+(g6
+S'\x89g?\xe9*7\xe1?'
+p379
+tp380
+Rp381
+tp382
+a(S'edgewood, 1818 (amherst, virginia)'
+p383
+g2
+(g6
+S'9\x87d\xe2\x16\xee\xe0?'
+p384
+tp385
+Rp386
+tp387
+a(S'elizabeth frances amherst (poet)'
+p388
+g2
+(g6
+S'\xa1\x16\x01\x19:\xed\xe0?'
+p389
+tp390
+Rp391
+tp392
+a(S'amherst ultimate invitational tournament'
+p393
+g2
+(g6
+S'\x92\x86\xbd\xd3\xaf\xc2\xe0?'
+p394
+tp395
+Rp396
+tp397
+a(S'joseph amiel'
+p398
+g2
+(g6
+S'\x927\x98\x82\xbd\xb5\xe0?'
+p399
+tp400
+Rp401
+tp402
+a(S'amherst regional high school (nova scotia)'
+p403
+g2
+(g6
+S'\x83\xa2\x96\xd1\x1bW\xe0?'
+p404
+tp405
+Rp406
+tp407
+a(S'elizabeth amherst hale'
+p408
+g2
+(g6
+S'l\xd1C\x7f\xf9Q\xe0?'
+p409
+tp410
+Rp411
+tp412
+a(S'the biggest little game in america'
+p413
+g2
+(g6
+S'i\x8f9\xa0\t\x1d\xe0?'
+p414
+tp415
+Rp416
+tp417
+a(S'university of massachusetts transportation services'
+p418
+g2
+(g6
+S'\x0c\xdb\xbb\xc2\x11\x18\xe0?'
+p419
+tp420
+Rp421
+tp422
+a(S'jim ostendarp'
+p423
+g2
+(g6
+S'\x85\xe4\x1e\xad\xdb\x13\xe0?'
+p424
+tp425
+Rp426
+tp427
+a(S'jones library'
+p428
+g2
+(g6
+S'\x82\n\xb9\r<\x08\xe0?'
+p429
+tp430
+Rp431
+tp432
+a(S'buffalo niagara heritage village'
+p433
+g2
+(g6
+S'B\xa0j\xb3\x12\x05\xe0?'
+p434
+tp435
+Rp436
+tp437
+a(S'billy pegram'
+p438
+g2
+(g6
+S' \xb1\xa9{\x14\x03\xe0?'
+p439
+tp440
+Rp441
+tp442
+a(S'amherst street (kolkata)'
+p443
+g2
+(g6
+S'\xf3\x83\xdaR2\x02\xe0?'
+p444
+tp445
+Rp446
+tp447
+a(S'tom gerety'
+p448
+g2
+(g6
+S'\xaa\xbb\xb7p\xdf\xf0\xdf?'
+p449
+tp450
+Rp451
+tp452
+a(S'papyrus amherst 3a'
+p453
+g2
+(g6
+S'\xcc\xa1\xb6K-\xef\xdf?'
+p454
+tp455
+Rp456
+tp457
+a(S'hampshire county, massachusetts'
+p458
+g2
+(g6
+S'\xb9\x13\xf8qj\xe9\xdf?'
+p459
+tp460
+Rp461
+tp462
+a(S'ulysses grant groff'
+p463
+g2
+(g6
+S'FO\xdb\xe2c\xca\xdf?'
+p464
+tp465
+Rp466
+tp467
+a(S'bruce maccombie'
+p468
+g2
+(g6
+S'\x8b\xfd5\xf7\xaa\xb4\xdf?'
+p469
+tp470
+Rp471
+tp472
+a(S'amherst regional high school (massachusetts)'
+p473
+g2
+(g6
+S'\xbeo\xb6\x9cT\x9e\xdf?'
+p474
+tp475
+Rp476
+tp477
+a(S'john francis amherst cecil'
+p478
+g2
+(g6
+S'H\x84\x08~\xacN\xdf?'
+p479
+tp480
+Rp481
+tp482
+a(S'university of massachusetts amherst'
+p483
+g2
+(g6
+S't\xb1\xc9I\xa6H\xdf?'
+p484
+tp485
+Rp486
+tp487
+a(S'amherst ballet theatre company'
+p488
+g2
+(g6
+S'b\x1a\r\xbc|+\xdf?'
+p489
+tp490
+Rp491
+tp492
+a(S'amherst state park'
+p493
+g2
+(g6
+S'\rQ\x80\x06e*\xdf?'
+p494
+tp495
+Rp496
+tp497
+a(S'marion l. steele high school'
+p498
+g2
+(g6
+S'\xf5\xc6\x0e8\x87\xba\xde?'
+p499
+tp500
+Rp501
+tp502
+a(S'the glebe (amherst, virginia)'
+p503
+g2
+(g6
+S'\xc1koH\x81\x83\xde?'
+p504
+tp505
+Rp506
+tp507
+a(S'anthony marx'
+p508
+g2
+(g6
+S'v\xd1\xed\x02\x00\x7f\xde?'
+p509
+tp510
+Rp511
+tp512
+a(S'alumni field (amherst, massachusetts)'
+p513
+g2
+(g6
+S'\xc2"\xad\xb3\x18(\xde?'
+p514
+tp515
+Rp516
+tp517
+a(S'william augustus stearns'
+p518
+g2
+(g6
+S'\xe2\x8c\xdc\x10\xe7\x1d\xde?'
+p519
+tp520
+Rp521
+tp522
+a(S'josceline amherst'
+p523
+g2
+(g6
+S'1\xadY\xb6\x16\x17\xde?'
+p524
+tp525
+Rp526
+tp527
+a(S'richard henry mather'
+p528
+g2
+(g6
+S'u\x04\x89\x91\xa9\x13\xde?'
+p529
+tp530
+Rp531
+tp532
+a(S'amherst center, massachusetts'
+p533
+g2
+(g6
+S'\xa3\x01\x98\x9a\xd9\x04\xde?'
+p534
+tp535
+Rp536
+tp537
+a(S'edgewood, 1858 (amherst, virginia)'
+p538
+g2
+(g6
+S'Ss\xbd\x9c\x97\xbb\xdd?'
+p539
+tp540
+Rp541
+tp542
+a(S'general amherst high school'
+p543
+g2
+(g6
+S'\x98\x00N\tY\xab\xdd?'
+p544
+tp545
+Rp546
+tp547
+a(S'george olds'
+p548
+g2
+(g6
+S'\x04\xf5\xaa~\xd5|\xdd?'
+p549
+tp550
+Rp551
+tp552
+a(S'anson d. morse'
+p553
+g2
+(g6
+S'\xe6"m1p#\xdd?'
+p554
+tp555
+Rp556
+tp557
+a(S'amherst audubon field'
+p558
+g2
+(g6
+S';\x17\x16[\xfa\x08\xdd?'
+p559
+tp560
+Rp561
+tp562
+a(S'jack arena'
+p563
+g2
+(g6
+S'R<@\x10+\xf3\xdc?'
+p564
+tp565
+Rp566
+tp567
+a(S'lee badgett'
+p568
+g2
+(g6
+S'\xe1\x1a\xc3"\xbee\xdc?'
+p569
+tp570
+Rp571
+tp572
+a(S'james e. curry'
+p573
+g2
+(g6
+S'\xaa\xc0V\x92\xb4c\xdc?'
+p574
+tp575
+Rp576
+tp577
+a(S'william freeman (politician)'
+p578
+g2
+(g6
+S'\xb0\xe4\x98\x17\xadH\xdc?'
+p579
+tp580
+Rp581
+tp582
+a(S'mead art museum'
+p583
+g2
+(g6
+S'\x03GU\x8a/\xe5\xdb?'
+p584
+tp585
+Rp586
+tp587
+a(S'mount amherst'
+p588
+g2
+(g6
+S'\xc27s"\x8e\xda\xdb?'
+p589
+tp590
+Rp591
+tp592
+a(S'edward hitchcock'
+p593
+g2
+(g6
+S'\xff\xeb\x96;\xc3\xcf\xdb?'
+p594
+tp595
+Rp596
+tp597
+a(S'zephaniah swift moore'
+p598
+g2
+(g6
+S'\x86\xc6b\xcf\x08\xbb\xdb?'
+p599
+tp600
+Rp601
+tp602
+a(S"lady amherst's pheasant"
+p603
+g2
+(g6
+S'\xae\xd1\xc2\x0f\xd6\xaa\xdb?'
+p604
+tp605
+Rp606
+tp607
+a(S'john w. lederle graduate research center'
+p608
+g2
+(g6
+S'\xbf!\xe90\xd5\x83\xdb?'
+p609
+tp610
+Rp611
+tp612
+a(S'hitchcock ichnological cabinet'
+p613
+g2
+(g6
+S'\xbcm/\x06\x87w\xdb?'
+p614
+tp615
+Rp616
+tp617
+a(S'frank mccoy'
+p618
+g2
+(g6
+S'\xc5.\xcc\xd3\xa6s\xdb?'
+p619
+tp620
+Rp621
+tp622
+a(S'wamh'
+p623
+g2
+(g6
+S'\x03\xfb\xaa\xdf\xecl\xdb?'
+p624
+tp625
+Rp626
+tp627
+a(S'mount orient'
+p628
+g2
+(g6
+S'}\x06\xdc2="\xdb?'
+p629
+tp630
+Rp631
+tp632
+a(S'amherst internment camp'
+p633
+g2
+(g6
+S'\x18\x1em>\xd1\x1c\xdb?'
+p634
+tp635
+Rp636
+tp637
+a(S'1955 umass redmen football team'
+p638
+g2
+(g6
+S'\x1a\x19\x0fJ\xf6\x15\xdb?'
+p639
+tp640
+Rp641
+tp642
+a(S'1953 umass redmen football team'
+p643
+g2
+(g6
+S'\x1a\x19\x0fJ\xf6\x15\xdb?'
+p644
+tp645
+Rp646
+tp647
+a(S'1954 umass redmen football team'
+p648
+g2
+(g6
+S'\x1a\x19\x0fJ\xf6\x15\xdb?'
+p649
+tp650
+Rp651
+tp652
+a(S'goodwin memorial african methodist episcopal zion church'
+p653
+g2
+(g6
+S'\x9a\x8e\x92\x8f\x9b\x13\xdb?'
+p654
+tp655
+Rp656
+tp657
+a(S'g. armour craig'
+p658
+g2
+(g6
+S'Tl\xd0\xf5\xf3\n\xdb?'
+p659
+tp660
+Rp661
+tp662
+a(S'1962 umass redmen football team'
+p663
+g2
+(g6
+S'J\x8a`\xe5\x1a\n\xdb?'
+p664
+tp665
+Rp666
+tp667
+a(S'1957 umass redmen football team'
+p668
+g2
+(g6
+S'\x99\t\xa1\xbd\x04\x02\xdb?'
+p669
+tp670
+Rp671
+tp672
+a(S'1958 umass redmen football team'
+p673
+g2
+(g6
+S'\x99\t\xa1\xbd\x04\x02\xdb?'
+p674
+tp675
+Rp676
+tp677
+a(S'1948 umass redmen football team'
+p678
+g2
+(g6
+S'Y\x16\x05\xc2\x98\xf9\xda?'
+p679
+tp680
+Rp681
+tp682
+a(S'1949 umass redmen football team'
+p683
+g2
+(g6
+S'Y\x16\x05\xc2\x98\xf9\xda?'
+p684
+tp685
+Rp686
+tp687
+a(S'1950 umass redmen football team'
+p688
+g2
+(g6
+S'Y\x16\x05\xc2\x98\xf9\xda?'
+p689
+tp690
+Rp691
+tp692
+a(S'charles edward garman'
+p693
+g2
+(g6
+S'*\xcc\x82\x82\xba\xf6\xda?'
+p694
+tp695
+Rp696
+tp697
+a(S'jeffrey blaustein'
+p698
+g2
+(g6
+S'\xf0\xdc\x05\xa9a\xe5\xda?'
+p699
+tp700
+Rp701
+tp702
+a(S'1956 umass redmen football team'
+p703
+g2
+(g6
+S'\x1d\xe0"\xfe\xc5\xd1\xda?'
+p704
+tp705
+Rp706
+tp707
+a(S'stephen amherst'
+p708
+g2
+(g6
+S'*\xef\xbf\xbd\xd3\xb3\xda?'
+p709
+tp710
+Rp711
+tp712
+a(S'frederic brewster loomis'
+p713
+g2
+(g6
+S'\xf4y\xe3\xf1\xce\xb1\xda?'
+p714
+tp715
+Rp716
+tp717
+a(S'the octagon at amherst college'
+p718
+g2
+(g6
+S'\x11\xfa\xd4&c\x9e\xda?'
+p719
+tp720
+Rp721
+tp722
+a(S'osmyn baker'
+p723
+g2
+(g6
+S'\x16\xc7\x92\x14\xbe\x95\xda?'
+p724
+tp725
+Rp726
+tp727
+a(S'joseph bartlett eastman'
+p728
+g2
+(g6
+S'\xe0\xcb\xdc\x16\xc5\x84\xda?'
+p729
+tp730
+Rp731
+tp732
+a(S'thomas schneeweis'
+p733
+g2
+(g6
+S'!\xc3\x98\xa1k\x7f\xda?'
+p734
+tp735
+Rp736
+tp737
+a(S'arlene voski avakian'
+p738
+g2
+(g6
+S's\x0f\x81\x07\x8d^\xda?'
+p739
+tp740
+Rp741
+tp742
+a(S'little three'
+p743
+g2
+(g6
+S'\x9bX\xaf\xe3IZ\xda?'
+p744
+tp745
+Rp746
+tp747
+a(S'amherst, nebraska'
+p748
+g2
+(g6
+S'\xcf\x07C\xa7\xf5U\xda?'
+p749
+tp750
+Rp751
+tp752
+a(S'amity street'
+p753
+g2
+(g6
+S'e\xfe\xf1\\\xbfF\xda?'
+p754
+tp755
+Rp756
+tp757
+a(S'amherst political union'
+p758
+g2
+(g6
+S'Z\xe3\xc6\x88gD\xda?'
+p759
+tp760
+Rp761
+tp762
+a(S'amherst, maine'
+p763
+g2
+(g6
+S'\x04m\x80~\\*\xda?'
+p764
+tp765
+Rp766
+tp767
+a(S'amherst township, lorain county, ohio'
+p768
+g2
+(g6
+S'\xd7[\xf1\x83\xd8"\xda?'
+p769
+tp770
+Rp771
+tp772
+a(S'montreal park'
+p773
+g2
+(g6
+S'*\xa0\xff\rU\x0c\xda?'
+p774
+tp775
+Rp776
+tp777
+a(S'fort amherst'
+p778
+g2
+(g6
+S'\xdd\x069"\xfc\xf4\xd9?'
+p779
+tp780
+Rp781
+tp782
+a(S'charles humphrey atherton'
+p783
+g2
+(g6
+S'\x11\xbf\xdf\xaf\xb9\xe3\xd9?'
+p784
+tp785
+Rp786
+tp787
+a(S'will miller (therapist)'
+p788
+g2
+(g6
+S'\xb9>j\xd1:\xcd\xd9?'
+p789
+tp790
+Rp791
+tp792
+a(S'eggertsville, new york'
+p793
+g2
+(g6
+S'\xf6\xe8\x00\x89\x04\x8b\xd9?'
+p794
+tp795
+Rp796
+tp797
+a(S'calvin plimpton'
+p798
+g2
+(g6
+S'+\xf4B\xb5xd\xd9?'
+p799
+tp800
+Rp801
+tp802
+a(S'forest hill (amherst, virginia)'
+p803
+g2
+(g6
+S'\x87x\xc5\x04vV\xd9?'
+p804
+tp805
+Rp806
+tp807
+a(S'charles baker adams'
+p808
+g2
+(g6
+S'X\x8c\xa4\x84\x15U\xd9?'
+p809
+tp810
+Rp811
+tp812
+a(S'port-la-joye\xe2\x80\x93fort amherst'
+p813
+g2
+(g6
+S'\x7f.\xcc\xaewO\xd9?'
+p814
+tp815
+Rp816
+tp817
+a(S'edward lyman morris'
+p818
+g2
+(g6
+S'\xfd=\\\xbd%J\xd9?'
+p819
+tp820
+Rp821
+tp822
+a(S'1892 harvard crimson football team'
+p823
+g2
+(g6
+S']\xd4\xc8\xe8\xa6C\xd9?'
+p824
+tp825
+Rp826
+tp827
+a(S'amherst railway society railroad hobby show'
+p828
+g2
+(g6
+S'i\xc6nm\xce:\xd9?'
+p829
+tp830
+Rp831
+tp832
+a(S'list of communities in cumberland county, nova scotia'
+p833
+g2
+(g6
+S'\xab[\x98\xc0[6\xd9?'
+p834
+tp835
+Rp836
+tp837
+a(S'beneski museum of natural history'
+p838
+g2
+(g6
+S'\x9f>\xcb\xdfp\x1a\xd9?'
+p839
+tp840
+Rp841
+tp842
+a(S'1980 amherst, massachusetts water shortage'
+p843
+g2
+(g6
+S'N\xde\xe9\x97\xf5\x17\xd9?'
+p844
+tp845
+Rp846
+tp847
+a(S'herman h. hoffman'
+p848
+g2
+(g6
+S'f\xe8\xd9\x0b\xed\x11\xd9?'
+p849
+tp850
+Rp851
+tp852
+a(S'kyaikkami'
+p853
+g2
+(g6
+S'P\xcd\xab\xf0\x16\x01\xd9?'
+p854
+tp855
+Rp856
+tp857
+a(S'dulwich manor'
+p858
+g2
+(g6
+S'p\t\xe8\x02\xb6\xfa\xd8?'
+p859
+tp860
+Rp861
+tp862
+a(S'1952 umass redmen football team'
+p863
+g2
+(g6
+S'\x9c\x96^\x9b1\xd8\xd8?'
+p864
+tp865
+Rp866
+tp867
+a(S'charles whitman cross'
+p868
+g2
+(g6
+S'\xadlm*\x83\xd6\xd8?'
+p869
+tp870
+Rp871
+tp872
+a(S'1959 umass redmen football team'
+p873
+g2
+(g6
+S'A\xeeo\xe8\xde\xd5\xd8?'
+p874
+tp875
+Rp876
+tp877
+a(S'souhegan high school'
+p878
+g2
+(g6
+S'\x02u\x1e\x07D\xbe\xd8?'
+p879
+tp880
+Rp881
+tp882
+a(S'tusculum (amherst, virginia)'
+p883
+g2
+(g6
+S'\r\x10\x80]\x05\xaf\xd8?'
+p884
+tp885
+Rp886
+tp887
+a(S'norwin s. and elizabeth n. bean foundation'
+p888
+g2
+(g6
+S'jM\x8f\x0e\x88\x94\xd8?'
+p889
+tp890
+Rp891
+tp892
+a(S'1961 umass redmen football team'
+p893
+g2
+(g6
+S'\xd3\xdf\x94\x8c\x07\x91\xd8?'
+p894
+tp895
+Rp896
+tp897
+a(S'amherst junction, wisconsin'
+p898
+g2
+(g6
+S'\x1a\xfe\x9e\xfa\xc8\x86\xd8?'
+p899
+tp900
+Rp901
+tp902
+a(S'william white bent'
+p903
+g2
+(g6
+S'\xe0\xb5\x14q7{\xd8?'
+p904
+tp905
+Rp906
+tp907
+a(S'national register of historic places listings in amherst county, virginia'
+p908
+g2
+(g6
+S'\xe7Y\xc1T\xcay\xd8?'
+p909
+tp910
+Rp911
+tp912
+a(S'snyder, new york'
+p913
+g2
+(g6
+S'!^L\x0fIo\xd8?'
+p914
+tp915
+Rp916
+tp917
+a(S'gordon yaeger'
+p918
+g2
+(g6
+S't\x85\x17\x80}n\xd8?'
+p919
+tp920
+Rp921
+tp922
+a(S'r. bruce hoadley'
+p923
+g2
+(g6
+S'Is\x17\xfb\x1c`\xd8?'
+p924
+tp925
+Rp926
+tp927
+a(S'1951 umass redmen football team'
+p928
+g2
+(g6
+S'\x81\xa3\x8e9\x89I\xd8?'
+p929
+tp930
+Rp931
+tp932
+a(S'zoe weizenbaum'
+p933
+g2
+(g6
+S'\x89\xed\xe9\xc1\x0cH\xd8?'
+p934
+tp935
+Rp936
+tp937
+a(S'nova scotia route 366'
+p938
+g2
+(g6
+S'\x89}\xa1\x19\xa7@\xd8?'
+p939
+tp940
+Rp941
+tp942
+a(S'amherst cove'
+p943
+g2
+(g6
+S'\nf\xa6\x17G?\xd8?'
+p944
+tp945
+Rp946
+tp947
+a(S'2003 ncaa division i field hockey championship'
+p948
+g2
+(g6
+S'\xea\xe0\x86r\xc7=\xd8?'
+p949
+tp950
+Rp951
+tp952
+a(S'rick alley'
+p953
+g2
+(g6
+S'2\x04M\xa8\xc4;\xd8?'
+p954
+tp955
+Rp956
+tp957
+a(S'stubbs wood country park'
+p958
+g2
+(g6
+S'Xk\x0b\x06\x99\x18\xd8?'
+p959
+tp960
+Rp961
+tp962
+a(S'walter alden dyer'
+p963
+g2
+(g6
+S'\xc1,\xd5\x97H\xf8\xd7?'
+p964
+tp965
+Rp966
+tp967
+a(S'william amherst, 3rd earl amherst'
+p968
+g2
+(g6
+S'\xaa\xdb\r{\x1d\xf0\xd7?'
+p969
+tp970
+Rp971
+tp972
+a(S'john mckechnie (coach)'
+p973
+g2
+(g6
+S'J>\x91\rW\xed\xd7?'
+p974
+tp975
+Rp976
+tp977
+a(S'amherst college glee club'
+p978
+g2
+(g6
+S'b\x91\x0b\x15\xe7\xe5\xd7?'
+p979
+tp980
+Rp981
+tp982
+a(S'samuel m. garland'
+p983
+g2
+(g6
+S'\x8a\x80\t\x7f\xc0\xe5\xd7?'
+p984
+tp985
+Rp986
+tp987
+a(S'1891 harvard crimson football team'
+p988
+g2
+(g6
+S'\xc4\xc6\x10Z\xd4\xe4\xd7?'
+p989
+tp990
+Rp991
+tp992
+a(S'umass softball complex'
+p993
+g2
+(g6
+S'\xa1\xec\x9e\x1f\xad\xc6\xd7?'
+p994
+tp995
+Rp996
+tp997
+a(S'jane fountain'
+p998
+g2
+(g6
+S'\x88W\xec\x08T\xb2\xd7?'
+p999
+tp1000
+Rp1001
+tp1002
+a(S'new hampshire route 122'
+p1003
+g2
+(g6
+S'\x9di\x93\xd1\xd9\xa0\xd7?'
+p1004
+tp1005
+Rp1006
+tp1007
+a(S'amherst ramblers'
+p1008
+g2
+(g6
+S'\xd9Nn\x95\x13\x9c\xd7?'
+p1009
+tp1010
+Rp1011
+tp1012
+a(S'geddes (clifford, virginia)'
+p1013
+g2
+(g6
+S'\x89c\xbd\xa6\xac\x94\xd7?'
+p1014
+tp1015
+Rp1016
+tp1017
+a(S'laurens perseus hickok'
+p1018
+g2
+(g6
+S'\xc2\xa5Y\\Fg\xd7?'
+p1019
+tp1020
+Rp1021
+tp1022
+a(S'lynne rudder baker'
+p1023
+g2
+(g6
+S'\x82-\xb4NEa\xd7?'
+p1024
+tp1025
+Rp1026
+tp1027
+a(S'getzville, new york'
+p1028
+g2
+(g6
+S'\x01\xa0+\x13\\X\xd7?'
+p1029
+tp1030
+Rp1031
+tp1032
+a(S'thomas j. mccarthy'
+p1033
+g2
+(g6
+S'\xc2C\xd5\xd26K\xd7?'
+p1034
+tp1035
+Rp1036
+tp1037
+a(S'nova scotia route 204'
+p1038
+g2
+(g6
+S',\xb5E%-E\xd7?'
+p1039
+tp1040
+Rp1041
+tp1042
+a(S'catherine mcgeoch'
+p1043
+g2
+(g6
+S'\xb6zL\xf5\xfe>\xd7?'
+p1044
+tp1045
+Rp1046
+tp1047
+a(S'1960 umass redmen football team'
+p1048
+g2
+(g6
+S'\xcd\xaf\x1a\xb8\x8c>\xd7?'
+p1049
+tp1050
+Rp1051
+tp1052
+a(S'levi stockbridge'
+p1053
+g2
+(g6
+S"<\x8f\r'\x1f7\xd7?"
+p1054
+tp1055
+Rp1056
+tp1057
+a(S'robert ridgway (congressman)'
+p1058
+g2
+(g6
+S'\x7f\xdaH2\x164\xd7?'
+p1059
+tp1060
+Rp1061
+tp1062
+a(S'lord william cecil (courtier)'
+p1063
+g2
+(g6
+S'\xd53\xc5\xd4f/\xd7?'
+p1064
+tp1065
+Rp1066
+tp1067
+a(S'alexander george (philosopher)'
+p1068
+g2
+(g6
+S'\xcf\xc8\xf4\xbb\xab#\xd7?'
+p1069
+tp1070
+Rp1071
+tp1072
+a(S'martin j. kaufman'
+p1073
+g2
+(g6
+S'sF[\x16\x87\x18\xd7?'
+p1074
+tp1075
+Rp1076
+tp1077
+a(S'john fabel'
+p1078
+g2
+(g6
+S'X\x07\x98\x88\xb0\x12\xd7?'
+p1079
+tp1080
+Rp1081
+tp1082
+a(S'fairview (amherst, virginia)'
+p1083
+g2
+(g6
+S'\xc4]\xca(\xe1\x06\xd7?'
+p1084
+tp1085
+Rp1086
+tp1087
+a(S'winchester historic district (winchester, virginia)'
+p1088
+g2
+(g6
+S'%E\xce\x8f}\x04\xd7?'
+p1089
+tp1090
+Rp1091
+tp1092
+a(S'louis w. ross'
+p1093
+g2
+(g6
+S'c\xd5#\xff\xe3\xf7\xd6?'
+p1094
+tp1095
+Rp1096
+tp1097
+a(S'ann ferguson'
+p1098
+g2
+(g6
+S'\xea\x9d\xa38D\xe6\xd6?'
+p1099
+tp1100
+Rp1101
+tp1102
+a(S'charles couch'
+p1103
+g2
+(g6
+S'\x1d&0\xe3}\xd5\xd6?'
+p1104
+tp1105
+Rp1106
+tp1107
+a(S'amherst stadium'
+p1108
+g2
+(g6
+S'\x93\xdeT~1\xcf\xd6?'
+p1109
+tp1110
+Rp1111
+tp1112
+a(S'james c. greenough'
+p1113
+g2
+(g6
+S'uY7\xbb4\xc9\xd6?'
+p1114
+tp1115
+Rp1116
+tp1117
+a(S'amherst independent school district'
+p1118
+g2
+(g6
+S'\xda\xc0\x88\xc6\xda\xbe\xd6?'
+p1119
+tp1120
+Rp1121
+tp1122
+a(S'tidal moon'
+p1123
+g2
+(g6
+S'\x99\x8bL\xb8m\xa5\xd6?'
+p1124
+tp1125
+Rp1126
+tp1127
+a(S'list of tallest buildings in massachusetts, exclusive of boston'
+p1128
+g2
+(g6
+S'Rn%\x83K\x92\xd6?'
+p1129
+tp1130
+Rp1131
+tp1132
+a(S'clark hall'
+p1133
+g2
+(g6
+S'\x83\xa2e5\xe8z\xd6?'
+p1134
+tp1135
+Rp1136
+tp1137
+a(S'amherst township, fillmore county, minnesota'
+p1138
+g2
+(g6
+S'\xb7\x13\xf1\x03Hu\xd6?'
+p1139
+tp1140
+Rp1141
+tp1142
+a(S'amherst railway station'
+p1143
+g2
+(g6
+S'uZ\x8f_\xdfd\xd6?'
+p1144
+tp1145
+Rp1146
+tp1147
+a(S'five college radio astronomy observatory'
+p1148
+g2
+(g6
+S'\xb2\x1f\x85TI`\xd6?'
+p1149
+tp1150
+Rp1151
+tp1152
+a(S'loyalist, ontario'
+p1153
+g2
+(g6
+S'l\xb8\xef \xecL\xd6?'
+p1154
+tp1155
+Rp1156
+tp1157
+a(S'charles l. bestor'
+p1158
+g2
+(g6
+S'\xa92\x92_lI\xd6?'
+p1159
+tp1160
+Rp1161
+tp1162
+a(S'david peck todd'
+p1163
+g2
+(g6
+S'\xd6\x1c\x07\xd03G\xd6?'
+p1164
+tp1165
+Rp1166
+tp1167
+a(S'1878 yale bulldogs football team'
+p1168
+g2
+(g6
+S']\xa0\xa6\xd9\xd5C\xd6?'
+p1169
+tp1170
+Rp1171
+tp1172
+a(S'william s. clark'
+p1173
+g2
+(g6
+S'\x1as\x86\xeei=\xd6?'
+p1174
+tp1175
+Rp1176
+tp1177
+a(S'list of alpha delta phi members'
+p1178
+g2
+(g6
+S'\x16\x980\x18\x9d"\xd6?'
+p1179
+tp1180
+Rp1181
+tp1182
+a(S'academy theatre'
+p1183
+g2
+(g6
+S'\x9f\xe3\xab\x9f\xbd\x10\xd6?'
+p1184
+tp1185
+Rp1186
+tp1187
+a(S'jack siedlecki'
+p1188
+g2
+(g6
+S'\xa97\xbe\xfe\xb5\x08\xd6?'
+p1189
+tp1190
+Rp1191
+tp1192
+a(S'john hay-williams'
+p1193
+g2
+(g6
+S'\x1bD\xbbx\xfd\x07\xd6?'
+p1194
+tp1195
+Rp1196
+tp1197
+a(S'amherst west cemetery'
+p1198
+g2
+(g6
+S'/\x1f\xbf\xe2\xc2\x03\xd6?'
+p1199
+tp1200
+Rp1201
+tp1202
+a(S'amos hostetter jr.'
+p1203
+g2
+(g6
+S'&Y\x14\x12\xef\xfd\xd5?'
+p1204
+tp1205
+Rp1206
+tp1207
+a(S'thai lee'
+p1208
+g2
+(g6
+S'I0\xecU\xac\xdd\xd5?'
+p1209
+tp1210
+Rp1211
+tp1212
+a(S'george adams leland'
+p1213
+g2
+(g6
+S'~V{\x94\x92\xd8\xd5?'
+p1214
+tp1215
+Rp1216
+tp1217
+a(S'thomas flanagan (writer)'
+p1218
+g2
+(g6
+S'\xc9X5\xceC\xd8\xd5?'
+p1219
+tp1220
+Rp1221
+tp1222
+a(S'jason salkey'
+p1223
+g2
+(g6
+S'\x94H3\x80t\xcc\xd5?'
+p1224
+tp1225
+Rp1226
+tp1227
+a(S'stanley f. teele'
+p1228
+g2
+(g6
+S'\xaa\xa0h\xc5\xe3\xca\xd5?'
+p1229
+tp1230
+Rp1231
+tp1232
+a(S'peter m. haas'
+p1233
+g2
+(g6
+S'\xa5D\xa5eO\xc1\xd5?'
+p1234
+tp1235
+Rp1236
+tp1237
+a(S'1942 massachusetts state aggies football team'
+p1238
+g2
+(g6
+S'Me\xf7\xf2\xfc\xbd\xd5?'
+p1239
+tp1240
+Rp1241
+tp1242
+a(S'central corridor rail line'
+p1243
+g2
+(g6
+S'\xfa R{y\xb5\xd5?'
+p1244
+tp1245
+Rp1246
+tp1247
+a(S'robert m. graham'
+p1248
+g2
+(g6
+S'\x9b\xeb\xd7\xe1T\xb4\xd5?'
+p1249
+tp1250
+Rp1251
+tp1252
+a(S'randolph bromery'
+p1253
+g2
+(g6
+S'\x7fNz\x10\xb6\xa4\xd5?'
+p1254
+tp1255
+Rp1256
+tp1257
+a(S'lawrence douglas'
+p1258
+g2
+(g6
+S'\xab\xb3}\x85\xa1\x95\xd5?'
+p1259
+tp1260
+Rp1261
+tp1262
+a(S'new africa house'
+p1263
+g2
+(g6
+S'R:X\xd4I\x86\xd5?'
+p1264
+tp1265
+Rp1266
+tp1267
+a(S'orra white hitchcock'
+p1268
+g2
+(g6
+S'assW\xdb\x83\xd5?'
+p1269
+tp1270
+Rp1271
+tp1272
+a(S'molecular playground'
+p1273
+g2
+(g6
+S'\xc2\x9f\xca\x97hf\xd5?'
+p1274
+tp1275
+Rp1276
+tp1277
+a(S'upper amherst cove, newfoundland and labrador'
+p1278
+g2
+(g6
+S'\x9e\xd7%\xb2\\c\xd5?'
+p1279
+tp1280
+Rp1281
+tp1282
+a(S'warren p. mcguirk'
+p1283
+g2
+(g6
+S'\xeaNcF\xceY\xd5?'
+p1284
+tp1285
+Rp1286
+tp1287
+a(S'madeleine blais'
+p1288
+g2
+(g6
+S'\xc1"\x18&\x19Y\xd5?'
+p1289
+tp1290
+Rp1291
+tp1292
+a(S'mv frontenac ii'
+p1293
+g2
+(g6
+S'd*\x002\x0fX\xd5?'
+p1294
+tp1295
+Rp1296
+tp1297
+a(S'1930 massachusetts aggies football team'
+p1298
+g2
+(g6
+S'\xbalKw\xc3R\xd5?'
+p1299
+tp1300
+Rp1301
+tp1302
+a(S'arthur rupert dickey'
+p1303
+g2
+(g6
+S'v\x8a*\r\x10:\xd5?'
+p1304
+tp1305
+Rp1306
+tp1307
+a(S'earl lorden field'
+p1308
+g2
+(g6
+S'=\xa5\xc2\xa0\x8c6\xd5?'
+p1309
+tp1310
+Rp1311
+tp1312
+a(S'thomas law dickson'
+p1313
+g2
+(g6
+S'\x08R:\xb8\xa13\xd5?'
+p1314
+tp1315
+Rp1316
+tp1317
+a(S'arunas rudvalis'
+p1318
+g2
+(g6
+S'M\xdf\xf4\xed~$\xd5?'
+p1319
+tp1320
+Rp1321
+tp1322
+a(S'daily jolt'
+p1323
+g2
+(g6
+S'j\x8bY8\r\x1e\xd5?'
+p1324
+tp1325
+Rp1326
+tp1327
+a(S'kathryn burak'
+p1328
+g2
+(g6
+S'\xaa<5\x8f\xfc\x02\xd5?'
+p1329
+tp1330
+Rp1331
+tp1332
+a(S'stan rosenberg'
+p1333
+g2
+(g6
+S'\xb6\xdc)\xf8@\x02\xd5?'
+p1334
+tp1335
+Rp1336
+tp1337
+a(S'1717 in canada'
+p1338
+g2
+(g6
+S'\xb7\xfa2\x0c\xca\xfc\xd4?'
+p1339
+tp1340
+Rp1341
+tp1342
+a(S'richard goldsby'
+p1343
+g2
+(g6
+S'\xed\xa9\x9ft\xe0\xfb\xd4?'
+p1344
+tp1345
+Rp1346
+tp1347
+a(S'edward tuckerman'
+p1348
+g2
+(g6
+S'\xda\xc3\xdd]\xcd\xf2\xd4?'
+p1349
+tp1350
+Rp1351
+tp1352
+a(S'papyrus 12'
+p1353
+g2
+(g6
+S'\xdc\xbf\x84\xa9)\xee\xd4?'
+p1354
+tp1355
+Rp1356
+tp1357
+a(S'richard yarde'
+p1358
+g2
+(g6
+S' \xf2\xe5\x19\xe9\xe5\xd4?'
+p1359
+tp1360
+Rp1361
+tp1362
+a(S'list of amherst college people'
+p1363
+g2
+(g6
+S'\xc2\xdc\x10\x18B\xe5\xd4?'
+p1364
+tp1365
+Rp1366
+tp1367
+a(S'cfta-fm'
+p1368
+g2
+(g6
+S'1a\xb4\xf2\x87\xda\xd4?'
+p1369
+tp1370
+Rp1371
+tp1372
+a(S'christian appy'
+p1373
+g2
+(g6
+S'Sw\xf9\xfa=\xda\xd4?'
+p1374
+tp1375
+Rp1376
+tp1377
+a(S'masscrest'
+p1378
+g2
+(g6
+S'\xf7pO\x96\x14\xd9\xd4?'
+p1379
+tp1380
+Rp1381
+tp1382
+a(S'1947 umass redmen football team'
+p1383
+g2
+(g6
+S'\x963\xd1\r\x0e\xd1\xd4?'
+p1384
+tp1385
+Rp1386
+tp1387
+a(S'battle of ticonderoga (1759)'
+p1388
+g2
+(g6
+S'\x82\xc3uV\x0c\xce\xd4?'
+p1389
+tp1390
+Rp1391
+tp1392
+a(S'w. c. brownell'
+p1393
+g2
+(g6
+S'\n\xaa\xb0\x02I\xcd\xd4?'
+p1394
+tp1395
+Rp1396
+tp1397
+a(S'helena theresa goessmann'
+p1398
+g2
+(g6
+S'h\x11\x1e\xea\x10\xc0\xd4?'
+p1399
+tp1400
+Rp1401
+tp1402
+a(S'gareth matthews'
+p1403
+g2
+(g6
+S'\x86\x86{M\x9e\xbe\xd4?'
+p1404
+tp1405
+Rp1406
+tp1407
+a(S'hubert lyman clark'
+p1408
+g2
+(g6
+S'\xf1B\xc7\x1a\x0e\xba\xd4?'
+p1409
+tp1410
+Rp1411
+tp1412
+a(S'mary ellen clark'
+p1413
+g2
+(g6
+S'\x01\x19\xde\xa1#\xb8\xd4?'
+p1414
+tp1415
+Rp1416
+tp1417
+a(S'ohio house of representatives, 58th district'
+p1418
+g2
+(g6
+S'\x17\x81\xe2c\x9d\xb6\xd4?'
+p1419
+tp1420
+Rp1421
+tp1422
+a(S'old chapel'
+p1423
+g2
+(g6
+S'}M\x80\xfa\xc5\xb4\xd4?'
+p1424
+tp1425
+Rp1426
+tp1427
+a(S'kate dickinson sweetser'
+p1428
+g2
+(g6
+S'G\xcaZ\x99\xcc\xb2\xd4?'
+p1429
+tp1430
+Rp1431
+tp1432
+a(S'james henry coffin'
+p1433
+g2
+(g6
+S'\t$l\xa1\xe3\xa7\xd4?'
+p1434
+tp1435
+Rp1436
+tp1437
+a(S'charles delano'
+p1438
+g2
+(g6
+S'\xf5\xb07\x94\xff\x93\xd4?'
+p1439
+tp1440
+Rp1441
+tp1442
+a(S'1963 umass redmen football team'
+p1443
+g2
+(g6
+S'\xfcu3\xd1\xe6\x8f\xd4?'
+p1444
+tp1445
+Rp1446
+tp1447
+a(S'1945 massachusetts state aggies football team'
+p1448
+g2
+(g6
+S'3\xbe\x87p\x7fw\xd4?'
+p1449
+tp1450
+Rp1451
+tp1452
+a(S'nova scotia trunk 6'
+p1453
+g2
+(g6
+S'\xa98\xf5\xd3|h\xd4?'
+p1454
+tp1455
+Rp1456
+tp1457
+a(S'charles w. cole'
+p1458
+g2
+(g6
+S'\xa78\xe4v\xfd_\xd4?'
+p1459
+tp1460
+Rp1461
+tp1462
+a(S'amherst villiers'
+p1463
+g2
+(g6
+S'"\x8a]\xf3\x92Q\xd4?'
+p1464
+tp1465
+Rp1466
+tp1467
+a(S'pat schneider'
+p1468
+g2
+(g6
+S'!i\xac<\xa7B\xd4?'
+p1469
+tp1470
+Rp1471
+tp1472
+a(S'university of massachusetts press'
+p1473
+g2
+(g6
+S'\x9fr\x86\x98`A\xd4?'
+p1474
+tp1475
+Rp1476
+tp1477
+a(S'hiram black'
+p1478
+g2
+(g6
+S'n\x83\x9e(\xaa:\xd4?'
+p1479
+tp1480
+Rp1481
+tp1482
+a(S'st. mary of the angels motherhouse complex (williamsville, new york)'
+p1483
+g2
+(g6
+S'\xea\xcc,\xafA1\xd4?'
+p1484
+tp1485
+Rp1486
+tp1487
+a(S'james shannon morse'
+p1488
+g2
+(g6
+S"\xc6w{\xb2'+\xd4?"
+p1489
+tp1490
+Rp1491
+tp1492
+a(S'william gordon (new hampshire politician)'
+p1493
+g2
+(g6
+S'\x92&\x12\x06\xa8(\xd4?'
+p1494
+tp1495
+Rp1496
+tp1497
+a(S'john henry boalt'
+p1498
+g2
+(g6
+S'\xbb=<\xbd\x1a!\xd4?'
+p1499
+tp1500
+Rp1501
+tp1502
+a(S'william wheeler house (amherst, massachusetts)'
+p1503
+g2
+(g6
+S'\xa8\xe1\xec\xb1^\x11\xd4?'
+p1504
+tp1505
+Rp1506
+tp1507
+a(S'mike day (politician)'
+p1508
+g2
+(g6
+S'\x0bXX\xbcv\x01\xd4?'
+p1509
+tp1510
+Rp1511
+tp1512
+a.

@@ -1,0 +1,2728 @@
+(lp0
+(S'thomas j. watson research center'
+p1
+cnumpy.core.multiarray
+scalar
+p2
+(cnumpy
+dtype
+p3
+(S'f8'
+p4
+I0
+I1
+tp5
+Rp6
+(I3
+S'<'
+p7
+NNNI-1
+I-1
+I0
+tp8
+bS'\x01\x00\x00\x00\x00\x00\xf0?'
+p9
+tp10
+Rp11
+tp12
+a(S'ibm research'
+p13
+g2
+(g6
+S'e\x1f\x7f\xf3\x00\x0b\xe0?'
+p14
+tp15
+Rp16
+tp17
+a(S'yorktown, new york'
+p18
+g2
+(g6
+S'\x0b\x82sn\xe1c\xdf?'
+p19
+tp20
+Rp21
+tp22
+a(S'yorktown'
+p23
+g2
+(g6
+S'\xc2\x13\xae\xe8SW\xdd?'
+p24
+tp25
+Rp26
+tp27
+a(S'watson (computer)'
+p28
+g2
+(g6
+S'\xc7\xfe\xfa\xb1=\x1e\xdd?'
+p29
+tp30
+Rp31
+tp32
+a(S'thomas j. watson'
+p33
+g2
+(g6
+S'\xf0\x95\x94f\xf4\xb4\xdc?'
+p34
+tp35
+Rp36
+tp37
+a(S'thomas watson jr.'
+p38
+g2
+(g6
+S'\x15b\xe4{\x01I\xdc?'
+p39
+tp40
+Rp41
+tp42
+a(S'yorktown heights, new york'
+p43
+g2
+(g6
+S'\xd14/\x15\xc5\xfb\xdb?'
+p44
+tp45
+Rp46
+tp47
+a(S'ibm'
+p48
+g2
+(g6
+S'\xad\r\xbd\t\xc3\x9b\xdb?'
+p49
+tp50
+Rp51
+tp52
+a(S'yorktown, virginia'
+p53
+g2
+(g6
+S'\xdc\x85\x1b\x07\xb8\n\xdb?'
+p54
+tp55
+Rp56
+tp57
+a(S'uss yorktown (cg-48)'
+p58
+g2
+(g6
+S'\xfc$-\xcb\x97\xb6\xda?'
+p59
+tp60
+Rp61
+tp62
+a(S'yorktown independent school district'
+p63
+g2
+(g6
+S'\x045\xa8\xc6\x99\xa3\xd9?'
+p64
+tp65
+Rp66
+tp67
+a(S'arthur k. watson'
+p68
+g2
+(g6
+S'N\xe0\xce\x03\x94\xa0\xd9?'
+p69
+tp70
+Rp71
+tp72
+a(S'uss yorktown (pg-1)'
+p73
+g2
+(g6
+S'\xcet\xb3\x93\xeer\xd9?'
+p74
+tp75
+Rp76
+tp77
+a(S'history of ibm'
+p78
+g2
+(g6
+S'\x18)\xb4\xbe&<\xd9?'
+p79
+tp80
+Rp81
+tp82
+a(S'cambridge scientific center'
+p83
+g2
+(g6
+S'\xec\xb3\x1fy\nl\xd8?'
+p84
+tp85
+Rp86
+tp87
+a(S'yorktown central school district'
+p88
+g2
+(g6
+S'\x1d\xc1S\xc4y:\xd8?'
+p89
+tp90
+Rp91
+tp92
+a(S'yorktown high school (virginia)'
+p93
+g2
+(g6
+S'Z\x1d\xb2\xba*\x1f\xd8?'
+p94
+tp95
+Rp96
+tp97
+a(S'emanuel r. piore'
+p98
+g2
+(g6
+S'\xceJU\x06\xa9\t\xd8?'
+p99
+tp100
+Rp101
+tp102
+a(S'yorktown high school (texas)'
+p103
+g2
+(g6
+S'\x1bL\xb8a\xf9\xec\xd7?'
+p104
+tp105
+Rp106
+tp107
+a(S'watson'
+p108
+g2
+(g6
+S'\x01\xe4\xdc\x90\xc2\xe1\xd7?'
+p109
+tp110
+Rp111
+tp112
+a(S'ibm yamato facility'
+p113
+g2
+(g6
+S'\xf7~\xed\xf5_\xbf\xd7?'
+p114
+tp115
+Rp116
+tp117
+a(S'yorktown, indiana'
+p118
+g2
+(g6
+S'\x84ya\x0e\x15\x86\xd7?'
+p119
+tp120
+Rp121
+tp122
+a(S'scicomp'
+p123
+g2
+(g6
+S'}\xf5a\xce\xda\xd4\xd6?'
+p124
+tp125
+Rp126
+tp127
+a(S'ruchir puri'
+p128
+g2
+(g6
+S'\xab\x1ce\x04o\xb2\xd6?'
+p129
+tp130
+Rp131
+tp132
+a(S'history of ibm research in israel'
+p133
+g2
+(g6
+S'\xcf\x13\xf4\xd26\x8c\xd6?'
+p134
+tp135
+Rp136
+tp137
+a(S'thomas watson'
+p138
+g2
+(g6
+S'\x99\x82\x93\xfb\x90\x8b\xd6?'
+p139
+tp140
+Rp141
+tp142
+a(S'list of international subsidiaries of ibm'
+p143
+g2
+(g6
+S'\x95s\x17\xef\xb69\xd6?'
+p144
+tp145
+Rp146
+tp147
+a(S'uss yorktown (cv-5)'
+p148
+g2
+(g6
+S'R\x05V\x14t-\xd6?'
+p149
+tp150
+Rp151
+tp152
+a(S'wallace john eckert'
+p153
+g2
+(g6
+S'\xcf<\xad\xbd\xd7\xf1\xd5?'
+p154
+tp155
+Rp156
+tp157
+a(S'yorktown education'
+p158
+g2
+(g6
+S'^jg\xf4a\xe9\xd5?'
+p159
+tp160
+Rp161
+tp162
+a(S'tze-chiang chen'
+p163
+g2
+(g6
+S'\x17<\xb5\x95A\xba\xd5?'
+p164
+tp165
+Rp166
+tp167
+a(S'in front of yorktown'
+p168
+g2
+(g6
+S'H\x1c\xe88w\xa9\xd5?'
+p169
+tp170
+Rp171
+tp172
+a(S'ibm hursley'
+p173
+g2
+(g6
+S'\xe4y\x1eQ\xaa\x94\xd5?'
+p174
+tp175
+Rp176
+tp177
+a(S'john watson'
+p178
+g2
+(g6
+S't\x14\x9e\xc3\xcbu\xd5?'
+p179
+tp180
+Rp181
+tp182
+a(S'ibm china research laboratory'
+p183
+g2
+(g6
+S'\xb0\x92\xc9\x89\xd9Y\xd5?'
+p184
+tp185
+Rp186
+tp187
+a(S'ibm rochester'
+p188
+g2
+(g6
+S's\xb4j\xa6\x95-\xd5?'
+p189
+tp190
+Rp191
+tp192
+a(S'thomas nelson house (yorktown, virginia)'
+p193
+g2
+(g6
+S'\xf6\xbcE\x8a\xd0+\xd5?'
+p194
+tp195
+Rp196
+tp197
+a(S'uss yorktown (cv-10)'
+p198
+g2
+(g6
+S'\xd3\xeb\xb2n\x96\xf8\xd4?'
+p199
+tp200
+Rp201
+tp202
+a(S'yorktown, tulsa'
+p203
+g2
+(g6
+S'NP\x81\xb3\xaa\xe8\xd4?'
+p204
+tp205
+Rp206
+tp207
+a(S'list of ibm products'
+p208
+g2
+(g6
+S'\x14\xaf/J\x98\xe8\xd4?'
+p209
+tp210
+Rp211
+tp212
+a(S'peter hofstee'
+p213
+g2
+(g6
+S'\x8b\xe29\xb6\xf3\xb2\xd4?'
+p214
+tp215
+Rp216
+tp217
+a(S'ibm r&d labs in israel'
+p218
+g2
+(g6
+S'\x99\x9d\xaeM\xec\x95\xd4?'
+p219
+tp220
+Rp221
+tp222
+a(S'ibm eserver'
+p223
+g2
+(g6
+S'\xe8E\x97C\xfe\x89\xd4?'
+p224
+tp225
+Rp226
+tp227
+a(S'event driven executive'
+p228
+g2
+(g6
+S'VP\xed$un\xd4?'
+p229
+tp230
+Rp231
+tp232
+a(S'ibm netvista'
+p233
+g2
+(g6
+S'\xb2}\x05\xf4\xc0j\xd4?'
+p234
+tp235
+Rp236
+tp237
+a(S'james watson'
+p238
+g2
+(g6
+S'\x8aF\xd1\xee\x03Q\xd4?'
+p239
+tp240
+Rp241
+tp242
+a(S'ibm websphere'
+p243
+g2
+(g6
+S"'\xe7\x0c\xf3oJ\xd4?"
+p244
+tp245
+Rp246
+tp247
+a(S'brent hailpern'
+p248
+g2
+(g6
+S'\xda\x89\x9f\x19\x17D\xd4?'
+p249
+tp250
+Rp251
+tp252
+a(S'ibm 1800 data acquisition and control system'
+p253
+g2
+(g6
+S'\x8c\xcc\xc2\x7f\x99>\xd4?'
+p254
+tp255
+Rp256
+tp257
+a(S'watson (surname)'
+p258
+g2
+(g6
+S'\xc3r0K*<\xd4?'
+p259
+tp260
+Rp261
+tp262
+a(S'ibm director'
+p263
+g2
+(g6
+S'\xfak\xb8?\x8e0\xd4?'
+p264
+tp265
+Rp266
+tp267
+a(S'virginia state route 238'
+p268
+g2
+(g6
+S'(\x87\xaa\xf6\xe9\x14\xd4?'
+p269
+tp270
+Rp271
+tp272
+a(S'james j. wynne'
+p273
+g2
+(g6
+S'\xfdAn\xfb\x1c\x11\xd4?'
+p274
+tp275
+Rp276
+tp277
+a(S'nathaniel rochester (computer scientist)'
+p278
+g2
+(g6
+S'\xae"\xda@c\x0e\xd4?'
+p279
+tp280
+Rp281
+tp282
+a(S'ibm 5110'
+p283
+g2
+(g6
+S'\xb5\x84\nq\xad\x01\xd4?'
+p284
+tp285
+Rp286
+tp287
+a(S'ibm 1710'
+p288
+g2
+(g6
+S'\xc0vvm\x11\x00\xd4?'
+p289
+tp290
+Rp291
+tp292
+a(S'robert watson'
+p293
+g2
+(g6
+S'\xca!\xc0C\t\xfc\xd3?'
+p294
+tp295
+Rp296
+tp297
+a(S'michael watson (disambiguation)'
+p298
+g2
+(g6
+S'\xea\x16\\\xd1\xc7\xfb\xd3?'
+p299
+tp300
+Rp301
+tp302
+a(S'samuel j. palmisano'
+p303
+g2
+(g6
+S'5\xff9\x9fe\xfa\xd3?'
+p304
+tp305
+Rp306
+tp307
+a(S'ibm toyosu facility'
+p308
+g2
+(g6
+S'\x98tI\x8a\xa3\xea\xd3?'
+p309
+tp310
+Rp311
+tp312
+a(S'ibm research \xe2\x80\x93 ireland'
+p313
+g2
+(g6
+S'a\xcbT\xee2\xdd\xd3?'
+p314
+tp315
+Rp316
+tp317
+a(S'bruce odland'
+p318
+g2
+(g6
+S'\x00\xa7\xe6\xbc\xce\xca\xd3?'
+p319
+tp320
+Rp321
+tp322
+a(S'ibm 3090'
+p323
+g2
+(g6
+S'\x8f,\xae\xc8\xe1\xc0\xd3?'
+p324
+tp325
+Rp326
+tp327
+a(S'ibm and the holocaust'
+p328
+g2
+(g6
+S'\xb5\xa0\x03!\x18\xa2\xd3?'
+p329
+tp330
+Rp331
+tp332
+a(S'ibm i'
+p333
+g2
+(g6
+S'\x1ex_\xdaJ\x9d\xd3?'
+p334
+tp335
+Rp336
+tp337
+a(S'ibm 701'
+p338
+g2
+(g6
+S'\xd9-\xc95K\x89\xd3?'
+p339
+tp340
+Rp341
+tp342
+a(S'ibm fellow'
+p343
+g2
+(g6
+S'\xd6u\xd0@\xcb\x82\xd3?'
+p344
+tp345
+Rp346
+tp347
+a(S'david watson'
+p348
+g2
+(g6
+S'8\x0c\xc36\xc1x\xd3?'
+p349
+tp350
+Rp351
+tp352
+a(S'william watson'
+p353
+g2
+(g6
+S'u\x92\xb9\xbd)d\xd3?'
+p354
+tp355
+Rp356
+tp357
+a(S'ibm sametime'
+p358
+g2
+(g6
+S'"\xaaW\x9c\x1e[\xd3?'
+p359
+tp360
+Rp361
+tp362
+a(S'ibm 4683'
+p363
+g2
+(g6
+S'\x07\x8b\xe1\x07\xb0J\xd3?'
+p364
+tp365
+Rp366
+tp367
+a(S'ibm 716'
+p368
+g2
+(g6
+S'EW\x86F:5\xd3?'
+p369
+tp370
+Rp371
+tp372
+a(S'ibm india'
+p373
+g2
+(g6
+S'\xf4M\xfd\n\x933\xd3?'
+p374
+tp375
+Rp376
+tp377
+a(S'ibm 3740'
+p378
+g2
+(g6
+S'\x12\x84\xba`\xf2-\xd3?'
+p379
+tp380
+Rp381
+tp382
+a(S'ibm 4694'
+p383
+g2
+(g6
+S'\x0f\x12\x0e\xc6:-\xd3?'
+p384
+tp385
+Rp386
+tp387
+a(S'ibm research - almaden'
+p388
+g2
+(g6
+S'6EyF\x01*\xd3?'
+p389
+tp390
+Rp391
+tp392
+a(S'ibm 3767'
+p393
+g2
+(g6
+S'\xd4\xc2\xc9\xac\xfc%\xd3?'
+p394
+tp395
+Rp396
+tp397
+a(S'ibm retail store solutions'
+p398
+g2
+(g6
+S'?\xce\xc6@\xfb!\xd3?'
+p399
+tp400
+Rp401
+tp402
+a(S'ibm 1070'
+p403
+g2
+(g6
+S'\x05\x0fY\xf3\xa8 \xd3?'
+p404
+tp405
+Rp406
+tp407
+a(S'george watson'
+p408
+g2
+(g6
+S'\xffr\xc6\x0e\xbe\x19\xd3?'
+p409
+tp410
+Rp411
+tp412
+a(S'larry stockmeyer'
+p413
+g2
+(g6
+S'"\x93H\xbb\xbd\x18\xd3?'
+p414
+tp415
+Rp416
+tp417
+a(S'herb grosch'
+p418
+g2
+(g6
+S'\xd4y\xdfQ\xc8\x0f\xd3?'
+p419
+tp420
+Rp421
+tp422
+a(S'york county, virginia'
+p423
+g2
+(g6
+S',\x9b\x99\xd9\xda\t\xd3?'
+p424
+tp425
+Rp426
+tp427
+a(S'ibm system/360 model 40'
+p428
+g2
+(g6
+S'\xd1\x18\xf2Ms\x08\xd3?'
+p429
+tp430
+Rp431
+tp432
+a(S'ibm 7040'
+p433
+g2
+(g6
+S'M\x1fk\x06x\x03\xd3?'
+p434
+tp435
+Rp436
+tp437
+a(S'ibm toronto software lab'
+p438
+g2
+(g6
+S'\xa7\xf5\x16\xb4\x10\xee\xd2?'
+p439
+tp440
+Rp441
+tp442
+a(S'jia chen'
+p443
+g2
+(g6
+S'\x9e;F\xfe\xb7\xed\xd2?'
+p444
+tp445
+Rp446
+tp447
+a(S'notes on desire'
+p448
+g2
+(g6
+S'-dc\x92K\xea\xd2?'
+p449
+tp450
+Rp451
+tp452
+a(S'yorktown, texas'
+p453
+g2
+(g6
+S'4\x11b8d\xe7\xd2?'
+p454
+tp455
+Rp456
+tp457
+a(S'john haanstra'
+p458
+g2
+(g6
+S' \x13\x1c3\x95\xe4\xd2?'
+p459
+tp460
+Rp461
+tp462
+a(S'james watson (disambiguation)'
+p463
+g2
+(g6
+S"'\x94\xb8\x98\xd5\xdf\xd2?"
+p464
+tp465
+Rp466
+tp467
+a(S'arthur watson (cricketer, born 1866)'
+p468
+g2
+(g6
+S'\x89\xa3\xae)\xc5\xde\xd2?'
+p469
+tp470
+Rp471
+tp472
+a(S'ibm haifa research laboratory'
+p473
+g2
+(g6
+S'YbA\xff\xcb\xdb\xd2?'
+p474
+tp475
+Rp476
+tp477
+a(S'thomas e. watson'
+p478
+g2
+(g6
+S'\x14\x83\x81\x84\x87\xd5\xd2?'
+p479
+tp480
+Rp481
+tp482
+a(S'ibm 303x'
+p483
+g2
+(g6
+S'Rwl\xe9R\xc6\xd2?'
+p484
+tp485
+Rp486
+tp487
+a(S'john b. watson'
+p488
+g2
+(g6
+S']\xe0\xf8-\x89\xc0\xd2?'
+p489
+tp490
+Rp491
+tp492
+a(S'luke watson'
+p493
+g2
+(g6
+S'A\xaa\x7fk\x1f\xaf\xd2?'
+p494
+tp495
+Rp496
+tp497
+a(S'ibm 2821 control unit'
+p498
+g2
+(g6
+S'6m\x8ft\xb1\xa3\xd2?'
+p499
+tp500
+Rp501
+tp502
+a(S'ibm 3101'
+p503
+g2
+(g6
+S'{\xc9\xe0]\xda\x9b\xd2?'
+p504
+tp505
+Rp506
+tp507
+a(S'james s. watson'
+p508
+g2
+(g6
+S'\xce\xab\xdc\xf9\x10\x98\xd2?'
+p509
+tp510
+Rp511
+tp512
+a(S'ibm 3720'
+p513
+g2
+(g6
+S'\xd5\x11P\xbe\xb4\x96\xd2?'
+p514
+tp515
+Rp516
+tp517
+a(S'ibm 357'
+p518
+g2
+(g6
+S"b9'L\x8e\x95\xd2?"
+p519
+tp520
+Rp521
+tp522
+a(S'watson family'
+p523
+g2
+(g6
+S'\xeeG\x82\xcf\xc2\x94\xd2?'
+p524
+tp525
+Rp526
+tp527
+a(S'thomas a. watson'
+p528
+g2
+(g6
+S'\x8e\x02 \xac\x9f\x94\xd2?'
+p529
+tp530
+Rp531
+tp532
+a(S'ibm 4300'
+p533
+g2
+(g6
+S'\x07\xc1\xc6\x01\x7f\x86\xd2?'
+p534
+tp535
+Rp536
+tp537
+a(S'ibm 1500'
+p538
+g2
+(g6
+S'=RF\x02%\x81\xd2?'
+p539
+tp540
+Rp541
+tp542
+a(S'ibm 402'
+p543
+g2
+(g6
+S'D\x87\xd2\xb2G}\xd2?'
+p544
+tp545
+Rp546
+tp547
+a(S'ibm 1050'
+p548
+g2
+(g6
+S'\xe1\xd8I|\xdex\xd2?'
+p549
+tp550
+Rp551
+tp552
+a(S'jean calvignac'
+p553
+g2
+(g6
+S'\xa0\xeaT\xf9\xa2j\xd2?'
+p554
+tp555
+Rp556
+tp557
+a(S'ibm 5100'
+p558
+g2
+(g6
+S'k\xb4\xdb"\xf5^\xd2?'
+p559
+tp560
+Rp561
+tp562
+a(S'ibm 1400 series'
+p563
+g2
+(g6
+S'\xcc\\wW\xd2I\xd2?'
+p564
+tp565
+Rp566
+tp567
+a(S'hartree centre'
+p568
+g2
+(g6
+S'\xc6\xae\xff\xc1\x97E\xd2?'
+p569
+tp570
+Rp571
+tp572
+a(S'joseph watson'
+p573
+g2
+(g6
+S'}\x88\xadG\xb6D\xd2?'
+p574
+tp575
+Rp576
+tp577
+a(S'ibm champions'
+p578
+g2
+(g6
+S'(?\x84\x9d\x1eD\xd2?'
+p579
+tp580
+Rp581
+tp582
+a(S'watson house (chincoteague island, virginia)'
+p583
+g2
+(g6
+S'%\xd1-\xea\x14D\xd2?'
+p584
+tp585
+Rp586
+tp587
+a(S'ibm system 9000'
+p588
+g2
+(g6
+S'\xe2f\x93\xfeDC\xd2?'
+p589
+tp590
+Rp591
+tp592
+a(S'ibm 7070'
+p593
+g2
+(g6
+S'\xd5\xddv\xc2\xc97\xd2?'
+p594
+tp595
+Rp596
+tp597
+a(S'doc watson'
+p598
+g2
+(g6
+S'\x8b{\x83\xff[-\xd2?'
+p599
+tp600
+Rp601
+tp602
+a(S'ibm research \xe2\x80\x93 australia'
+p603
+g2
+(g6
+S'\xedy\xf2\xc4P-\xd2?'
+p604
+tp605
+Rp606
+tp607
+a(S'charles watson'
+p608
+g2
+(g6
+S"\xb7\xc3Fqs'\xd2?"
+p609
+tp610
+Rp611
+tp612
+a(S'ibm personal computer'
+p613
+g2
+(g6
+S'/_\xce\xd4$$\xd2?'
+p614
+tp615
+Rp616
+tp617
+a(S'james sibley watson'
+p618
+g2
+(g6
+S'\x13V\xae\x0f\x19#\xd2?'
+p619
+tp620
+Rp621
+tp622
+a(S'ginni rometty'
+p623
+g2
+(g6
+S'`\x0f,27\x1e\xd2?'
+p624
+tp625
+Rp626
+tp627
+a(S'ibm 711'
+p628
+g2
+(g6
+S'\xebW\xc0\xe5\xf0\x1c\xd2?'
+p629
+tp630
+Rp631
+tp632
+a(S'arthur watson'
+p633
+g2
+(g6
+S'\x96\xaa\x96\x03\x8e\x1b\xd2?'
+p634
+tp635
+Rp636
+tp637
+a(S'uss yorktown'
+p638
+g2
+(g6
+S'\xd91\x99\xc3`\x1a\xd2?'
+p639
+tp640
+Rp641
+tp642
+a(S'philip don estridge'
+p643
+g2
+(g6
+S'\xdc\x93\xff\x8c\xa3\x17\xd2?'
+p644
+tp645
+Rp646
+tp647
+a(S'puresystems'
+p648
+g2
+(g6
+S'\xed\x87\x7f\xa2\x9d\x15\xd2?'
+p649
+tp650
+Rp651
+tp652
+a(S'albert watson (photographer)'
+p653
+g2
+(g6
+S'B{\x90"|\r\xd2?'
+p654
+tp655
+Rp656
+tp657
+a(S'project joshua blue'
+p658
+g2
+(g6
+S'\r>\xb9\xed\x19\x08\xd2?'
+p659
+tp660
+Rp661
+tp662
+a(S'ibm system/3x'
+p663
+g2
+(g6
+S'\xbd~\xfa\x94\xd7\x06\xd2?'
+p664
+tp665
+Rp666
+tp667
+a(S'hursley house'
+p668
+g2
+(g6
+S'\xc5\x87\xe7\x99\xee\x05\xd2?'
+p669
+tp670
+Rp671
+tp672
+a(S'ibm austin research laboratory'
+p673
+g2
+(g6
+S'q]\xd3w\x82\x00\xd2?'
+p674
+tp675
+Rp676
+tp677
+a(S'ibm 7090'
+p678
+g2
+(g6
+S'\x13D\xd2\x82^\x00\xd2?'
+p679
+tp680
+Rp681
+tp682
+a(S'ibm system x'
+p683
+g2
+(g6
+S'a\xe8\xf7x\x07\xfe\xd1?'
+p684
+tp685
+Rp686
+tp687
+a(S'alan watson'
+p688
+g2
+(g6
+S'\x04\x08\xa4\xc7\xfa\xfa\xd1?'
+p689
+tp690
+Rp691
+tp692
+a(S'albert watson (south carolina)'
+p693
+g2
+(g6
+S'\xc8\x10\xb4\x01(\xf9\xd1?'
+p694
+tp695
+Rp696
+tp697
+a(S'ibm 801'
+p698
+g2
+(g6
+S'W.\xb3\xf21\xf2\xd1?'
+p699
+tp700
+Rp701
+tp702
+a(S'nobuo mii'
+p703
+g2
+(g6
+S'\x98hj%\x8e\xf0\xd1?'
+p704
+tp705
+Rp706
+tp707
+a(S'amdahl corporation'
+p708
+g2
+(g6
+S'M\xb3I$t\xf0\xd1?'
+p709
+tp710
+Rp711
+tp712
+a(S'brook watson'
+p713
+g2
+(g6
+S'\x0f\x8a\x11\x1cZ\xea\xd1?'
+p714
+tp715
+Rp716
+tp717
+a(S'ibm mainframe'
+p718
+g2
+(g6
+S'uz\x9e\xa4\x8e\xdb\xd1?'
+p719
+tp720
+Rp721
+tp722
+a(S'albert lynn williams'
+p723
+g2
+(g6
+S'\x16\x85\xb7\xf2#\xd4\xd1?'
+p724
+tp725
+Rp726
+tp727
+a(S'think (ibm)'
+p728
+g2
+(g6
+S'x\x0b\xb7\xec\xb9\xd2\xd1?'
+p729
+tp730
+Rp731
+tp732
+a(S'ibm notes'
+p733
+g2
+(g6
+S'%\xb3\xd7q\x9b\xcd\xd1?'
+p734
+tp735
+Rp736
+tp737
+a(S'yorktown formation'
+p738
+g2
+(g6
+S'\x8a.w\x8f\x11\xca\xd1?'
+p739
+tp740
+Rp741
+tp742
+a(S'summer watson'
+p743
+g2
+(g6
+S' \xc6Q\n\x82\xc7\xd1?'
+p744
+tp745
+Rp746
+tp747
+a(S'ibm system p'
+p748
+g2
+(g6
+S'\xd5Dv\xae%\xc7\xd1?'
+p749
+tp750
+Rp751
+tp752
+a(S's2 spreadsheet'
+p753
+g2
+(g6
+S'\xc7\xfbD\xbb\xdb\xbb\xd1?'
+p754
+tp755
+Rp756
+tp757
+a(S'cuthbert hurd'
+p758
+g2
+(g6
+S'\x05\x10djV\xab\xd1?'
+p759
+tp760
+Rp761
+tp762
+a(S'gene amdahl'
+p763
+g2
+(g6
+S'\xdd\xb0\xc3\xda*\xa8\xd1?'
+p764
+tp765
+Rp766
+tp767
+a(S'uss yorktown (1839)'
+p768
+g2
+(g6
+S'\xc0\xad\xd6\xfa\xbd\xa6\xd1?'
+p769
+tp770
+Rp771
+tp772
+a(S'steve watson (disambiguation)'
+p773
+g2
+(g6
+S'\xaa\xcf\xa2\x98\x1e\xa2\xd1?'
+p774
+tp775
+Rp776
+tp777
+a(S'ibm 603'
+p778
+g2
+(g6
+S'\xe2 T\xc1v\x9e\xd1?'
+p779
+tp780
+Rp781
+tp782
+a(S'list of ibm ceos'
+p783
+g2
+(g6
+S'\x06\x10\xc2F=\x9a\xd1?'
+p784
+tp785
+Rp786
+tp787
+a(S'ibm system/360 model 30'
+p788
+g2
+(g6
+S'\xbc\xe0l@\xca\x99\xd1?'
+p789
+tp790
+Rp791
+tp792
+a(S'ibm 1410'
+p793
+g2
+(g6
+S'\x91\xa6N\x95o\x97\xd1?'
+p794
+tp795
+Rp796
+tp797
+a(S'the heights'
+p798
+g2
+(g6
+S'\xe8/I(M\x93\xd1?'
+p799
+tp800
+Rp801
+tp802
+a(S'university heights'
+p803
+g2
+(g6
+S'\x9f\xe0x3\xa4\x90\xd1?'
+p804
+tp805
+Rp806
+tp807
+a(S'ibm bigfix'
+p808
+g2
+(g6
+S'(\x05\xfc\xebn\x8e\xd1?'
+p809
+tp810
+Rp811
+tp812
+a(S'crocinis'
+p813
+g2
+(g6
+S'Y\x81\x9b\xbfc\x85\xd1?'
+p814
+tp815
+Rp816
+tp817
+a(S'charles river shire'
+p818
+g2
+(g6
+S'\xae\xf4\xa0QR\x83\xd1?'
+p819
+tp820
+Rp821
+tp822
+a(S'ibm research \xe2\x80\x93 africa'
+p823
+g2
+(g6
+S'\xba\xa9\xac\x8a\x87\x81\xd1?'
+p824
+tp825
+Rp826
+tp827
+a(S'ibm india research laboratory'
+p828
+g2
+(g6
+S'\xba\xcd\xb2\xfa\xcc{\xd1?'
+p829
+tp830
+Rp831
+tp832
+a(S'ibm 7700 data acquisition system'
+p833
+g2
+(g6
+S'P0\xc5&?{\xd1?'
+p834
+tp835
+Rp836
+tp837
+a(S'elkanah watson'
+p838
+g2
+(g6
+S'\x11\x12+\xd1\xe2z\xd1?'
+p839
+tp840
+Rp841
+tp842
+a(S'ibm hakozaki facility'
+p843
+g2
+(g6
+S'b[\x98\x132x\xd1?'
+p844
+tp845
+Rp846
+tp847
+a(S'frank watson (politician)'
+p848
+g2
+(g6
+S'3b\xe5\x15 j\xd1?'
+p849
+tp850
+Rp851
+tp852
+a(S'tom watson (labour politician)'
+p853
+g2
+(g6
+S'\xd2\x7f\xfbXFe\xd1?'
+p854
+tp855
+Rp856
+tp857
+a(S'ibm type-iii library'
+p858
+g2
+(g6
+S'+\xaf\xc6,\xc7c\xd1?'
+p859
+tp860
+Rp861
+tp862
+a(S'ibm omnifind'
+p863
+g2
+(g6
+S'\x7f5|`\xc6Y\xd1?'
+p864
+tp865
+Rp866
+tp867
+a(S'ibm system/360 model 91'
+p868
+g2
+(g6
+S'\x11\xbd71\xb6Y\xd1?'
+p869
+tp870
+Rp871
+tp872
+a(S'ibm application performance management'
+p873
+g2
+(g6
+S'A\x91\x94\xac\x80V\xd1?'
+p874
+tp875
+Rp876
+tp877
+a(S'yorktown heights railroad station'
+p878
+g2
+(g6
+S'u`\x9e\xf6\x8dU\xd1?'
+p879
+tp880
+Rp881
+tp882
+a(S'ibm during world war ii'
+p883
+g2
+(g6
+S'\xb5\xc9\xee\xda\xefK\xd1?'
+p884
+tp885
+Rp886
+tp887
+a(S'4690 operating system'
+p888
+g2
+(g6
+S'-\x18p\x9c1C\xd1?'
+p889
+tp890
+Rp891
+tp892
+a(S'ibm office and document processing system'
+p893
+g2
+(g6
+S'!Q\xea;_B\xd1?'
+p894
+tp895
+Rp896
+tp897
+a(S'louis v. gerstner jr.'
+p898
+g2
+(g6
+S'\xe8RH\xbaPB\xd1?'
+p899
+tp900
+Rp901
+tp902
+a(S'mark watson (disambiguation)'
+p903
+g2
+(g6
+S'\x96\xdb"<>@\xd1?'
+p904
+tp905
+Rp906
+tp907
+a(S'ibm 9370'
+p908
+g2
+(g6
+S'\xb6AK\xc6\\?\xd1?'
+p909
+tp910
+Rp911
+tp912
+a(S'ibm research \xe2\x80\x93 tokyo'
+p913
+g2
+(g6
+S'u\xb5\x06,\xe05\xd1?'
+p914
+tp915
+Rp916
+tp917
+a(S'ibm redbooks'
+p918
+g2
+(g6
+S'`\x0c\x10\xed\x015\xd1?'
+p919
+tp920
+Rp921
+tp922
+a(S'edward watson'
+p923
+g2
+(g6
+S'\t\xb9\xae*/4\xd1?'
+p924
+tp925
+Rp926
+tp927
+a(S'mootaz elnozahy'
+p928
+g2
+(g6
+S'\xa1w7y\xff3\xd1?'
+p929
+tp930
+Rp931
+tp932
+a(S'lotuslive'
+p933
+g2
+(g6
+S'\xa9\x9f\x91\x16\xe61\xd1?'
+p934
+tp935
+Rp936
+tp937
+a(S'history of ibm magnetic disk drives'
+p938
+g2
+(g6
+S'\xe6\x19\x05\xfb\n/\xd1?'
+p939
+tp940
+Rp941
+tp942
+a(S'ibm 7030 stretch'
+p943
+g2
+(g6
+S'\x02_\xf3\xe5\xd8.\xd1?'
+p944
+tp945
+Rp946
+tp947
+a(S'william watson (decathlete)'
+p948
+g2
+(g6
+S'\xceK\x92\x1d\x03(\xd1?'
+p949
+tp950
+Rp951
+tp952
+a(S'colonial national historical park'
+p953
+g2
+(g6
+S'\xd7Tf[\xe1#\xd1?'
+p954
+tp955
+Rp956
+tp957
+a(S'bob o. evans'
+p958
+g2
+(g6
+S'\xa98\x96\xc0\xaa\x14\xd1?'
+p959
+tp960
+Rp961
+tp962
+a(S'watson institute for international and public affairs'
+p963
+g2
+(g6
+S'\xe3\x1b\x0cj&\x12\xd1?'
+p964
+tp965
+Rp966
+tp967
+a(S'ibm zurich research laboratory'
+p968
+g2
+(g6
+S'\x0c\xed\x86!\xc5\x0f\xd1?'
+p969
+tp970
+Rp971
+tp972
+a(S'ibm 270x'
+p973
+g2
+(g6
+S'r\x85B\x1b\xed\x08\xd1?'
+p974
+tp975
+Rp976
+tp977
+a(S'oleg vishnepolsky'
+p978
+g2
+(g6
+S'))fY\xfe\xfe\xd0?'
+p979
+tp980
+Rp981
+tp982
+a(S'jim watson'
+p983
+g2
+(g6
+S'\x8e\n\xe1-\xf8\xfc\xd0?'
+p984
+tp985
+Rp986
+tp987
+a(S'harry watson'
+p988
+g2
+(g6
+S' N\xc8W\xff\xf2\xd0?'
+p989
+tp990
+Rp991
+tp992
+a(S'ted selker'
+p993
+g2
+(g6
+S'\xd53tOx\xf1\xd0?'
+p994
+tp995
+Rp996
+tp997
+a(S'spss inc.'
+p998
+g2
+(g6
+S'p\x04\xbb\xd0\xe0\xec\xd0?'
+p999
+tp1000
+Rp1001
+tp1002
+a(S'ruth leach amonette'
+p1003
+g2
+(g6
+S'%\xfd+\xce^\xe8\xd0?'
+p1004
+tp1005
+Rp1006
+tp1007
+a(S'cognos'
+p1008
+g2
+(g6
+S'V\x0e\x18\xfc\x1d\xe6\xd0?'
+p1009
+tp1010
+Rp1011
+tp1012
+a(S'ibm system/360 model 75'
+p1013
+g2
+(g6
+S'\xff\x19}3\xdc\xe3\xd0?'
+p1014
+tp1015
+Rp1016
+tp1017
+a(S'ibm visualage'
+p1018
+g2
+(g6
+S'\xc5\xfb\x1f\x8c\xc8\xe1\xd0?'
+p1019
+tp1020
+Rp1021
+tp1022
+a(S'galina kofman'
+p1023
+g2
+(g6
+S'\xa4\xac\x0b\x0bj\xda\xd0?'
+p1024
+tp1025
+Rp1026
+tp1027
+a(S'ibm notes traveler'
+p1028
+g2
+(g6
+S'\xf7\x1f\xce\x8a\xa3\xd2\xd0?'
+p1029
+tp1030
+Rp1031
+tp1032
+a(S'jack kuehler'
+p1033
+g2
+(g6
+S'\x9e\xd9\x98\xc9\x05\xd0\xd0?'
+p1034
+tp1035
+Rp1036
+tp1037
+a(S'paul watson (disambiguation)'
+p1038
+g2
+(g6
+S'\xae\x16\x99J\x12\xcf\xd0?'
+p1039
+tp1040
+Rp1041
+tp1042
+a(S'list of women in technology international hall of fame inductees'
+p1043
+g2
+(g6
+S'\x1f\x89o\x199\xc9\xd0?'
+p1044
+tp1045
+Rp1046
+tp1047
+a(S'ibm system/360'
+p1048
+g2
+(g6
+S'\xa0\\9\x19\xa3\xc5\xd0?'
+p1049
+tp1050
+Rp1051
+tp1052
+a(S'edos'
+p1053
+g2
+(g6
+S'\xe6\xfb\xbbt\x91\xbe\xd0?'
+p1054
+tp1055
+Rp1056
+tp1057
+a(S'ibm kanji system'
+p1058
+g2
+(g6
+S'\xe7\x15>\xecH\xbe\xd0?'
+p1059
+tp1060
+Rp1061
+tp1062
+a(S'mark watson'
+p1063
+g2
+(g6
+S'1\xf1\xfe\xc3\x84\xbd\xd0?'
+p1064
+tp1065
+Rp1066
+tp1067
+a(S'ibm 610'
+p1068
+g2
+(g6
+S'\xfdGW\xff\x82\xbd\xd0?'
+p1069
+tp1070
+Rp1071
+tp1072
+a(S'henry watson'
+p1073
+g2
+(g6
+S'\xdf$\xdd,m\xbb\xd0?'
+p1074
+tp1075
+Rp1076
+tp1077
+a(S'ibm 1720'
+p1078
+g2
+(g6
+S'\x1f1\xfdv\xfd\xb8\xd0?'
+p1079
+tp1080
+Rp1081
+tp1082
+a(S'pen densham'
+p1083
+g2
+(g6
+S'No0\x12\xab\xb1\xd0?'
+p1084
+tp1085
+Rp1086
+tp1087
+a(S'matthew watson'
+p1088
+g2
+(g6
+S'R\x1e\xf4\x90\xf4\xaf\xd0?'
+p1089
+tp1090
+Rp1091
+tp1092
+a(S'ibm cloud computing'
+p1093
+g2
+(g6
+S'}d\xe4\xc5\xb0\xaf\xd0?'
+p1094
+tp1095
+Rp1096
+tp1097
+a(S'martin jetter'
+p1098
+g2
+(g6
+S'S\xd99\xd0\x01\xaa\xd0?'
+p1099
+tp1100
+Rp1101
+tp1102
+a(S'ibm system z'
+p1103
+g2
+(g6
+S'\x08\x9c\x1f\xe0)\xa7\xd0?'
+p1104
+tp1105
+Rp1106
+tp1107
+a(S'donald watson (disambiguation)'
+p1108
+g2
+(g6
+S'\x8c\xb5\x82\xbe\xcf\xa2\xd0?'
+p1109
+tp1110
+Rp1111
+tp1112
+a(S'ibm 2361 large capacity storage'
+p1113
+g2
+(g6
+S'\xae\xc2\xdff\xca\xa1\xd0?'
+p1114
+tp1115
+Rp1116
+tp1117
+a(S'chris watson (disambiguation)'
+p1118
+g2
+(g6
+S'l\xfa\x11\xee\x1a\x9d\xd0?'
+p1119
+tp1120
+Rp1121
+tp1122
+a(S'watson island (disambiguation)'
+p1123
+g2
+(g6
+S'\x17Jv\xde\xd5\x9c\xd0?'
+p1124
+tp1125
+Rp1126
+tp1127
+a(S'frank soltis'
+p1128
+g2
+(g6
+S'\x0e,\x10\xb0\xd0\x99\xd0?'
+p1129
+tp1130
+Rp1131
+tp1132
+a(S'christopher watson (musician)'
+p1133
+g2
+(g6
+S'\\\x98\xe6\xe8\xca\x8f\xd0?'
+p1134
+tp1135
+Rp1136
+tp1137
+a(S'theo watson'
+p1138
+g2
+(g6
+S'c\xa4 \xe8\xc5\x8a\xd0?'
+p1139
+tp1140
+Rp1141
+tp1142
+a(S'ibm press'
+p1143
+g2
+(g6
+S'\xca\xdbBH\xf7\x87\xd0?'
+p1144
+tp1145
+Rp1146
+tp1147
+a(S'ibm openpower'
+p1148
+g2
+(g6
+S'\xac\xb2\xe9d\xaa\x87\xd0?'
+p1149
+tp1150
+Rp1151
+tp1152
+a(S'sam watson'
+p1153
+g2
+(g6
+S'\x15d\xe3\xc9o\x87\xd0?'
+p1154
+tp1155
+Rp1156
+tp1157
+a(S'ibm global services'
+p1158
+g2
+(g6
+S'\x7f\x126Ga\x87\xd0?'
+p1159
+tp1160
+Rp1161
+tp1162
+a(S'jian xu'
+p1163
+g2
+(g6
+S'\x10\x0f\x14\xf6\x1c\x81\xd0?'
+p1164
+tp1165
+Rp1166
+tp1167
+a(S'ibm 700/7000 series'
+p1168
+g2
+(g6
+S'\xc9\x9a\xa2B\xcc\x7f\xd0?'
+p1169
+tp1170
+Rp1171
+tp1172
+a(S'paul watson'
+p1173
+g2
+(g6
+S'\xfd\xc7\xc6\xa3\xc4}\xd0?'
+p1174
+tp1175
+Rp1176
+tp1177
+a(S'ibm building, johannesburg'
+p1178
+g2
+(g6
+S"\xc3'\xe98R{\xd0?"
+p1179
+tp1180
+Rp1181
+tp1182
+a(S'richard watson'
+p1183
+g2
+(g6
+S',\xcb\x9d@\x04{\xd0?'
+p1184
+tp1185
+Rp1186
+tp1187
+a(S'ibm displaywriter system'
+p1188
+g2
+(g6
+S'0\x90u\x90\xbav\xd0?'
+p1189
+tp1190
+Rp1191
+tp1192
+a(S'frank watson'
+p1193
+g2
+(g6
+S'\x06\xc7\xe9d\xabv\xd0?'
+p1194
+tp1195
+Rp1196
+tp1197
+a(S'york river (virginia)'
+p1198
+g2
+(g6
+S'5\x83\xce4\xabv\xd0?'
+p1199
+tp1200
+Rp1201
+tp1202
+a(S'andrew watson'
+p1203
+g2
+(g6
+S'\xaf\x8c\x81\xb9Ip\xd0?'
+p1204
+tp1205
+Rp1206
+tp1207
+a(S'ibm system i'
+p1208
+g2
+(g6
+S'\xber\xc6k\ro\xd0?'
+p1209
+tp1210
+Rp1211
+tp1212
+a(S'ibm series/1'
+p1213
+g2
+(g6
+S'\n\xe4{\xd5\xe9g\xd0?'
+p1214
+tp1215
+Rp1216
+tp1217
+a(S'ryan watson (ice hockey)'
+p1218
+g2
+(g6
+S'\x04\xdf\x7f\x00>g\xd0?'
+p1219
+tp1220
+Rp1221
+tp1222
+a(S'naval weapons station yorktown'
+p1223
+g2
+(g6
+S'\xde\x8d[ymc\xd0?'
+p1224
+tp1225
+Rp1226
+tp1227
+a(S'john watson (boxer)'
+p1228
+g2
+(g6
+S'\xd8\xc1"\xf4\xdba\xd0?'
+p1229
+tp1230
+Rp1231
+tp1232
+a(S'edward h. sussenguth'
+p1233
+g2
+(g6
+S'\xb7\x95QU\xa5_\xd0?'
+p1234
+tp1235
+Rp1236
+tp1237
+a(S'training center yorktown'
+p1238
+g2
+(g6
+S'\x88\x99I\x9c\xfd^\xd0?'
+p1239
+tp1240
+Rp1241
+tp1242
+a(S'kompiler'
+p1243
+g2
+(g6
+S'`\x90\xc2\x08\x12\\\xd0?'
+p1244
+tp1245
+Rp1246
+tp1247
+a(S'jeffrey watson'
+p1248
+g2
+(g6
+S'\x03Vc\x85\x1cU\xd0?'
+p1249
+tp1250
+Rp1251
+tp1252
+a(S'ibm 7080'
+p1253
+g2
+(g6
+S'\x0c(\xee\x91<R\xd0?'
+p1254
+tp1255
+Rp1256
+tp1257
+a(S'epicampoptera'
+p1258
+g2
+(g6
+S'\xfa\xf8\x08\xab\xdfP\xd0?'
+p1259
+tp1260
+Rp1261
+tp1262
+a(S'ibm rome software lab'
+p1263
+g2
+(g6
+S'\x98\x0e\xbc\x1b\xdfM\xd0?'
+p1264
+tp1265
+Rp1266
+tp1267
+a(S'bijan davari'
+p1268
+g2
+(g6
+S'@\x95`7VH\xd0?'
+p1269
+tp1270
+Rp1271
+tp1272
+a(S'ibm 702'
+p1273
+g2
+(g6
+S'\x04\x9b\x07\xbc\xb7G\xd0?'
+p1274
+tp1275
+Rp1276
+tp1277
+a(S'chris watson'
+p1278
+g2
+(g6
+S'P\x13L.\xc9B\xd0?'
+p1279
+tp1280
+Rp1281
+tp1282
+a(S'ibm future systems project'
+p1283
+g2
+(g6
+S'\xfa\xee\x7f8$B\xd0?'
+p1284
+tp1285
+Rp1286
+tp1287
+a(S'ibm 1440'
+p1288
+g2
+(g6
+S"\xe4\xe3\xe6\xf0'<\xd0?"
+p1289
+tp1290
+Rp1291
+tp1292
+a(S'russell watson'
+p1293
+g2
+(g6
+S'\x9d\xf9\x16gR;\xd0?'
+p1294
+tp1295
+Rp1296
+tp1297
+a(S'ruth watson'
+p1298
+g2
+(g6
+S'RZ\x89i\x108\xd0?'
+p1299
+tp1300
+Rp1301
+tp1302
+a(S'ibm mobile'
+p1303
+g2
+(g6
+S'\xd9\xfe\x92H\x078\xd0?'
+p1304
+tp1305
+Rp1306
+tp1307
+a(S'ibm officevision'
+p1308
+g2
+(g6
+S'\xe5\x15:\x00]6\xd0?'
+p1309
+tp1310
+Rp1311
+tp1312
+a(S'c. mohan'
+p1313
+g2
+(g6
+S'\xfc\xa1\xf7\xf6\xa9.\xd0?'
+p1314
+tp1315
+Rp1316
+tp1317
+a(S'ibm lotus quickplace'
+p1318
+g2
+(g6
+S'\xa8\x1f\xb4uJ,\xd0?'
+p1319
+tp1320
+Rp1321
+tp1322
+a(S'ibm 3732'
+p1323
+g2
+(g6
+S'a)\xeb\x1d&+\xd0?'
+p1324
+tp1325
+Rp1326
+tp1327
+a(S'yorktown-class gunboat'
+p1328
+g2
+(g6
+S'\x88\tH\x02\x1b+\xd0?'
+p1329
+tp1330
+Rp1331
+tp1332
+a(S'santanu paul'
+p1333
+g2
+(g6
+S"A\x0e\x7f\x02G'\xd0?"
+p1334
+tp1335
+Rp1336
+tp1337
+a(S'mike watson, baron watson of invergowrie'
+p1338
+g2
+(g6
+S'\x86\xde\xff\xa8\xf6\x1e\xd0?'
+p1339
+tp1340
+Rp1341
+tp1342
+a(S'deshaun watson'
+p1343
+g2
+(g6
+S'g\x14\xa7\x88\x18\x1e\xd0?'
+p1344
+tp1345
+Rp1346
+tp1347
+a(S'ibm service management framework'
+p1348
+g2
+(g6
+S'\x1d\x8d\x1c\x9eK\x18\xd0?'
+p1349
+tp1350
+Rp1351
+tp1352
+a(S'carlos watson (journalist)'
+p1353
+g2
+(g6
+S'OT\xad\xea\xbc\x12\xd0?'
+p1354
+tp1355
+Rp1356
+tp1357
+a(S'roderick watson'
+p1358
+g2
+(g6
+S'\x86\xe3g\xba\x9e\x11\xd0?'
+p1359
+tp1360
+Rp1361
+tp1362
+a(S'whipper billy watson'
+p1363
+g2
+(g6
+S'\xbeG\xa7w9\r\xd0?'
+p1364
+tp1365
+Rp1366
+tp1367
+a(S'anthony watson'
+p1368
+g2
+(g6
+S'\xa58uH\x06\x0c\xd0?'
+p1369
+tp1370
+Rp1371
+tp1372
+a(S'ibm system/370 model 155'
+p1373
+g2
+(g6
+S'\xea\x86h\xaaQ\t\xd0?'
+p1374
+tp1375
+Rp1376
+tp1377
+a(S'watson chapel, pine bluff, arkansas'
+p1378
+g2
+(g6
+S'\x13\x7f\xcd\xb2\xd9\x05\xd0?'
+p1379
+tp1380
+Rp1381
+tp1382
+a(S'university of michigan executive system'
+p1383
+g2
+(g6
+S'\xb1O\x8b\x81\xe6\x03\xd0?'
+p1384
+tp1385
+Rp1386
+tp1387
+a(S'dilma da silva'
+p1388
+g2
+(g6
+S'$T\x01K\x9f\xfc\xcf?'
+p1389
+tp1390
+Rp1391
+tp1392
+a(S'ibm enterprise identity mapping'
+p1393
+g2
+(g6
+S'\xad\xae\xd5\xa1Q\xfa\xcf?'
+p1394
+tp1395
+Rp1396
+tp1397
+a(S'elkanah watson house'
+p1398
+g2
+(g6
+S'[\x9d\xcb\x17U\xf6\xcf?'
+p1399
+tp1400
+Rp1401
+tp1402
+a(S'watson realty corp.'
+p1403
+g2
+(g6
+S'\x96\x16\xbd\x93!\xf2\xcf?'
+p1404
+tp1405
+Rp1406
+tp1407
+a(S'ibm system/370 model 165'
+p1408
+g2
+(g6
+S'\xf5\xa9\xcd\xcf\xe2\xec\xcf?'
+p1409
+tp1410
+Rp1411
+tp1412
+a(S'nate edwards'
+p1413
+g2
+(g6
+S'8\xb0\xf0\xfdi\xe5\xcf?'
+p1414
+tp1415
+Rp1416
+tp1417
+a(S'laura m. haas'
+p1418
+g2
+(g6
+S'#\xdabI\x05\xe3\xcf?'
+p1419
+tp1420
+Rp1421
+tp1422
+a(S'william watson (sinologist)'
+p1423
+g2
+(g6
+S'4\xe2J\x8c\x13\xde\xcf?'
+p1424
+tp1425
+Rp1426
+tp1427
+a(S'columbia heights'
+p1428
+g2
+(g6
+S'\xf8\x1e\xa6#D\xd3\xcf?'
+p1429
+tp1430
+Rp1431
+tp1432
+a(S'ibm scale-out file services'
+p1433
+g2
+(g6
+S'{\xa0*%:\xd3\xcf?'
+p1434
+tp1435
+Rp1436
+tp1437
+a(S'josiah ogden watson'
+p1438
+g2
+(g6
+S'Uq]\xcd\xc1\xc8\xcf?'
+p1439
+tp1440
+Rp1441
+tp1442
+a(S'airgap (microelectronics)'
+p1443
+g2
+(g6
+S'\xfe\x0c\xf7\xfa\xd3\xc4\xcf?'
+p1444
+tp1445
+Rp1446
+tp1447
+a(S'geoffrey watson'
+p1448
+g2
+(g6
+S'\xaccI\x92\xc8\xbe\xcf?'
+p1449
+tp1450
+Rp1451
+tp1452
+a(S'lubomyr romankiw'
+p1453
+g2
+(g6
+S'\xcd^\xa4 \xf8\xbc\xcf?'
+p1454
+tp1455
+Rp1456
+tp1457
+a(S'bruce watson'
+p1458
+g2
+(g6
+S'\xf6\xc9\xdc\xe9\xf9\xb8\xcf?'
+p1459
+tp1460
+Rp1461
+tp1462
+a(S'dehomag'
+p1463
+g2
+(g6
+S'\x18qX\xf7\x98\xaf\xcf?'
+p1464
+tp1465
+Rp1466
+tp1467
+a(S'new york state route 132'
+p1468
+g2
+(g6
+S'\xa9\xdf=\x93\xa2\xa9\xcf?'
+p1469
+tp1470
+Rp1471
+tp1472
+a(S'peter watson'
+p1473
+g2
+(g6
+S'\xc1\xdeJ\xa0\x83\x9e\xcf?'
+p1474
+tp1475
+Rp1476
+tp1477
+a(S'james watson (mp)'
+p1478
+g2
+(g6
+S'\xe6e\x87\x85\x0c\x9e\xcf?'
+p1479
+tp1480
+Rp1481
+tp1482
+a(S'albert watson ii'
+p1483
+g2
+(g6
+S'o\xccE\x97\xc9\x9b\xcf?'
+p1484
+tp1485
+Rp1486
+tp1487
+a(S'ian watson'
+p1488
+g2
+(g6
+S'\xb4\x1cdi\xf8\x91\xcf?'
+p1489
+tp1490
+Rp1491
+tp1492
+a(S'donald f. ferguson'
+p1493
+g2
+(g6
+S'|\xd5\xda\x10W\x89\xcf?'
+p1494
+tp1495
+Rp1496
+tp1497
+a(S'flexos'
+p1498
+g2
+(g6
+S'\xeb.58\xa1\x88\xcf?'
+p1499
+tp1500
+Rp1501
+tp1502
+a(S'death of tina watson'
+p1503
+g2
+(g6
+S'\x83\xe6\x00\x16\xa2\x82\xcf?'
+p1504
+tp1505
+Rp1506
+tp1507
+a(S'ibm canada head office building'
+p1508
+g2
+(g6
+S'%\xc6\x16GJ\x81\xcf?'
+p1509
+tp1510
+Rp1511
+tp1512
+a.

@@ -1,0 +1,2728 @@
+(lp0
+(S'list of artificial intelligence films'
+p1
+cnumpy.core.multiarray
+scalar
+p2
+(cnumpy
+dtype
+p3
+(S'f8'
+p4
+I0
+I1
+tp5
+Rp6
+(I3
+S'<'
+p7
+NNNI-1
+I-1
+I0
+tp8
+bS'\xf7\xff\xff\xff\xff\xff\xef?'
+p9
+tp10
+Rp11
+tp12
+a(S'list of racism-related films'
+p13
+g2
+(g6
+S'1o?\xa4\xcac\xe5?'
+p14
+tp15
+Rp16
+tp17
+a(S'auto trail'
+p18
+g2
+(g6
+S'\x08\xd2uUfv\xe4?'
+p19
+tp20
+Rp21
+tp22
+a(S'list of newspaper comic strips a\xe2\x80\x93f'
+p23
+g2
+(g6
+S'\xae\xd2\xdf[M\xe4\xe3?'
+p24
+tp25
+Rp26
+tp27
+a(S'list of highest-certified music artists in the united states'
+p28
+g2
+(g6
+S'2F\xa4\x1b)\xcb\xe3?'
+p29
+tp30
+Rp31
+tp32
+a(S'fc twin'
+p33
+g2
+(g6
+S'~\xf1\x19S\xe9~\xe3?'
+p34
+tp35
+Rp36
+tp37
+a(S'list of lgbt-related films'
+p38
+g2
+(g6
+S'=\xb1\xac\xd9\x82T\xe3?'
+p39
+tp40
+Rp41
+tp42
+a(S'list of nigerian states by gdp'
+p43
+g2
+(g6
+S',ut\xeb\xdaA\xe3?'
+p44
+tp45
+Rp46
+tp47
+a(S'deal or no deal (arab world)'
+p48
+g2
+(g6
+S'^Y\x03Sv\x15\xe3?'
+p49
+tp50
+Rp51
+tp52
+a(S'list of newspaper comic strips g\xe2\x80\x93o'
+p53
+g2
+(g6
+S'\xdf\xa2}\x89\x15\xc0\xe2?'
+p54
+tp55
+Rp56
+tp57
+a(S'list of lgbt-related films by storyline'
+p58
+g2
+(g6
+S'2=Df\xf1<\xe2?'
+p59
+tp60
+Rp61
+tp62
+a(S'1953 new jersey state highway renumbering'
+p63
+g2
+(g6
+S'\x85\xd5\xbf\xb5\xd2\xfc\xe1?'
+p64
+tp65
+Rp66
+tp67
+a(S'one of us'
+p68
+g2
+(g6
+S"\x08\x04\x8a\x88'\xd6\xe1?"
+p69
+tp70
+Rp71
+tp72
+a(S'list of highway route numbers in oregon'
+p73
+g2
+(g6
+S"w']\xc35\xcc\xe1?"
+p74
+tp75
+Rp76
+tp77
+a(S'dreamworks records discography'
+p78
+g2
+(g6
+S'N\xa9\x9c\xbf\x08^\xe1?'
+p79
+tp80
+Rp81
+tp82
+a(S'two of us'
+p83
+g2
+(g6
+S'\x81\xbd`\x7f5J\xe1?'
+p84
+tp85
+Rp86
+tp87
+a(S'list of newspaper comic strips p\xe2\x80\x93z'
+p88
+g2
+(g6
+S'8{\xbf\xc6\xc1=\xe1?'
+p89
+tp90
+Rp91
+tp92
+a(S'u.s. route 84 in new mexico'
+p93
+g2
+(g6
+S'\x16\xb3\x16\xf6y/\xe1?'
+p94
+tp95
+Rp96
+tp97
+a(S'national network'
+p98
+g2
+(g6
+S'f\x0e\x9b\xf6\xd1\x19\xe1?'
+p99
+tp100
+Rp101
+tp102
+a(S'u.s. route 410'
+p103
+g2
+(g6
+S'\x17\x88J\xb2O\xea\xe0?'
+p104
+tp105
+Rp106
+tp107
+a(S'2008 norceca beach volleyball circuit (puerto rico)'
+p108
+g2
+(g6
+S'\x80\xba\xbdjb\xe8\xe0?'
+p109
+tp110
+Rp111
+tp112
+a(S'list of mondo macabro releases'
+p113
+g2
+(g6
+S'4\xa3i\x18\x9a\xca\xe0?'
+p114
+tp115
+Rp116
+tp117
+a(S'performance ranking of scientific papers for world universities'
+p118
+g2
+(g6
+S'\xc4\xf1+\xeb\xe0\x98\xe0?'
+p119
+tp120
+Rp121
+tp122
+a(S'companies listed on the new york stock exchange (p)'
+p123
+g2
+(g6
+S'p\xe8\xacdB\x84\xe0?'
+p124
+tp125
+Rp126
+tp127
+a(S'2008 norceca beach volleyball circuit (el salvador)'
+p128
+g2
+(g6
+S'\xf0\xd1\xb9I&V\xe0?'
+p129
+tp130
+Rp131
+tp132
+a(S'u.s. route 41 in tennessee'
+p133
+g2
+(g6
+S'\xac\xd9\x81G\xe1E\xe0?'
+p134
+tp135
+Rp136
+tp137
+a(S'between us'
+p138
+g2
+(g6
+S'X\xd95\xedaD\xe0?'
+p139
+tp140
+Rp141
+tp142
+a(S'companies listed on the new york stock exchange (f)'
+p143
+g2
+(g6
+S'\x94\xeb\xfc\x91\\=\xe0?'
+p144
+tp145
+Rp146
+tp147
+a(S'list of special routes of the united states numbered highway system'
+p148
+g2
+(g6
+S'D\x0c\x9aO\x8e;\xe0?'
+p149
+tp150
+Rp151
+tp152
+a(S'2008 norceca beach volleyball circuit (manzanillo)'
+p153
+g2
+(g6
+S'\xf9\x11Ay\x14\x1e\xe0?'
+p154
+tp155
+Rp156
+tp157
+a(S'2007 norceca beach volleyball circuit (guatemala)'
+p158
+g2
+(g6
+S'b\x98\xa7\x8eH\x14\xe0?'
+p159
+tp160
+Rp161
+tp162
+a(S'\xc3\x98yafestivalen'
+p163
+g2
+(g6
+S'q/\xb3\xc8\xfb\r\xe0?'
+p164
+tp165
+Rp166
+tp167
+a(S'u.s. route 69'
+p168
+g2
+(g6
+S'\x8f\x8d\x967x\xfb\xdf?'
+p169
+tp170
+Rp171
+tp172
+a(S'companies listed on the new york stock exchange (m)'
+p173
+g2
+(g6
+S'\xba\x18\x0c\x07\xc7\xf6\xdf?'
+p174
+tp175
+Rp176
+tp177
+a(S'u.s. route 76 in north carolina'
+p178
+g2
+(g6
+S'5\x91Cb\xbe\xef\xdf?'
+p179
+tp180
+Rp181
+tp182
+a(S'2008 norceca beach volleyball circuit (santo domingo)'
+p183
+g2
+(g6
+S'\x7f\x8a\x0b\t\xef\xd2\xdf?'
+p184
+tp185
+Rp186
+tp187
+a(S'companies listed on the new york stock exchange (u)'
+p188
+g2
+(g6
+S'\xd8\xf1\x19\xeb^\xbc\xdf?'
+p189
+tp190
+Rp191
+tp192
+a(S'list of rancid concert tours'
+p193
+g2
+(g6
+S'9\xb7\xf8\x15&\xa9\xdf?'
+p194
+tp195
+Rp196
+tp197
+a(S'2009 norceca beach volleyball circuit (guatemala)'
+p198
+g2
+(g6
+S'\xc30\x81R\xb0\x8e\xdf?'
+p199
+tp200
+Rp201
+tp202
+a(S'us (disambiguation)'
+p203
+g2
+(g6
+S'\xb8I\x11i\xc2V\xdf?'
+p204
+tp205
+Rp206
+tp207
+a(S'u.s. route 220'
+p208
+g2
+(g6
+S'\xd2\x1b)\xb9\x94C\xdf?'
+p209
+tp210
+Rp211
+tp212
+a(S'companies listed on the new york stock exchange (s)'
+p213
+g2
+(g6
+S'\xe8H\xb9\xdf8@\xdf?'
+p214
+tp215
+Rp216
+tp217
+a(S'2007 norceca beach volleyball circuit (puerto rico)'
+p218
+g2
+(g6
+S"\x8fP\x84#'0\xdf?"
+p219
+tp220
+Rp221
+tp222
+a(S'companies listed on the new york stock exchange (a)'
+p223
+g2
+(g6
+S'\xc5\xdd\x84\n\x91\x1b\xdf?'
+p224
+tp225
+Rp226
+tp227
+a(S'companies listed on the new york stock exchange (c)'
+p228
+g2
+(g6
+S'O\xc2(\xa9\xae\x03\xdf?'
+p229
+tp230
+Rp231
+tp232
+a(S'u.s. route 19 in north carolina'
+p233
+g2
+(g6
+S'\xbc\xe88\xf1T\xeb\xde?'
+p234
+tp235
+Rp236
+tp237
+a(S'companies listed on the new york stock exchange (t)'
+p238
+g2
+(g6
+S'\xe3\xad\x9c\r\xe3\xe5\xde?'
+p239
+tp240
+Rp241
+tp242
+a(S'companies listed on the new york stock exchange (o)'
+p243
+g2
+(g6
+S'j\x82\x9a\x7f9\xd9\xde?'
+p244
+tp245
+Rp246
+tp247
+a(S'companies listed on the new york stock exchange (e)'
+p248
+g2
+(g6
+S'\xa0\xfa&\xdcw\xca\xde?'
+p249
+tp250
+Rp251
+tp252
+a(S'companies listed on the new york stock exchange (g)'
+p253
+g2
+(g6
+S'U\xed\x80\x93>\xba\xde?'
+p254
+tp255
+Rp256
+tp257
+a(S'2007 norceca beach volleyball circuit (santo domingo)'
+p258
+g2
+(g6
+S'\xfb\x9d\xc2W\xbc\x89\xde?'
+p259
+tp260
+Rp261
+tp262
+a(S'2009 norceca beach volleyball circuit (cayman islands)'
+p263
+g2
+(g6
+S'\x19\x8c\xa2\x12\xc3v\xde?'
+p264
+tp265
+Rp266
+tp267
+a(S'companies listed on the new york stock exchange (l)'
+p268
+g2
+(g6
+S'\xb4\xc9N\xf5#C\xde?'
+p269
+tp270
+Rp271
+tp272
+a(S'list of divided u.s. routes'
+p273
+g2
+(g6
+S"\xc7*\xef'\xbf\xde\xdd?"
+p274
+tp275
+Rp276
+tp277
+a(S'glossary of british terms not widely used in the united states'
+p278
+g2
+(g6
+S'\x1e[\x9f\xa8P\xbb\xdd?'
+p279
+tp280
+Rp281
+tp282
+a(S'u.s. route 383'
+p283
+g2
+(g6
+S'\x12\xac\xc1\xe6B\xb9\xdd?'
+p284
+tp285
+Rp286
+tp287
+a(S'companies listed on the new york stock exchange (d)'
+p288
+g2
+(g6
+S'\xf8_\xf5\x92\xca\xb0\xdd?'
+p289
+tp290
+Rp291
+tp292
+a(S'companies listed on the new york stock exchange (h)'
+p293
+g2
+(g6
+S'\xcb\x9c\xdbU\x1c\xa3\xdd?'
+p294
+tp295
+Rp296
+tp297
+a(S'world university rankings 2015'
+p298
+g2
+(g6
+S'\xb9\xe9\xc8\xda\x98\x9f\xdd?'
+p299
+tp300
+Rp301
+tp302
+a(S'just the two of us'
+p303
+g2
+(g6
+S'\xfex\xaa\xda\xa6v\xdd?'
+p304
+tp305
+Rp306
+tp307
+a(S'rites of spring festival'
+p308
+g2
+(g6
+S'\xa1\xd3\x8b\x11\xaek\xdd?'
+p309
+tp310
+Rp311
+tp312
+a(S'sumerian records discography'
+p313
+g2
+(g6
+S'\x8co\xf0O\xb6a\xdd?'
+p314
+tp315
+Rp316
+tp317
+a(S'u.s. route 12 in illinois'
+p318
+g2
+(g6
+S'"\xbc\xa0\x80rJ\xdd?'
+p319
+tp320
+Rp321
+tp322
+a(S'companies listed on the new york stock exchange (w)'
+p323
+g2
+(g6
+S'\xe2\xbd[\r\x1dF\xdd?'
+p324
+tp325
+Rp326
+tp327
+a(S'just between us'
+p328
+g2
+(g6
+S"5'L\x19\xc0C\xdd?"
+p329
+tp330
+Rp331
+tp332
+a(S'u.s. route 28'
+p333
+g2
+(g6
+S'\x81\x85=\xc9\xb8*\xdd?'
+p334
+tp335
+Rp336
+tp337
+a(S'2009 norceca beach volleyball circuit (jamaica)'
+p338
+g2
+(g6
+S'F\x06\xbf\x1a(\x17\xdd?'
+p339
+tp340
+Rp341
+tp342
+a(S'2009 norceca beach volleyball circuit (montelimar)'
+p343
+g2
+(g6
+S'\x9f5|\x06\x18\xfe\xdc?'
+p344
+tp345
+Rp346
+tp347
+a(S'all of us (disambiguation)'
+p348
+g2
+(g6
+S'!\xcf\x19\x80\x11\xf2\xdc?'
+p349
+tp350
+Rp351
+tp352
+a(S'2009 norceca beach volleyball circuit (tijuana)'
+p353
+g2
+(g6
+S'\xce\xa2\xda\xcb\xa2\xe2\xdc?'
+p354
+tp355
+Rp356
+tp357
+a(S'companies listed on the new york stock exchange (r)'
+p358
+g2
+(g6
+S'\x19y\xb9\xf8\xa1\xc6\xdc?'
+p359
+tp360
+Rp361
+tp362
+a(S'u.s. route 69 in texas'
+p363
+g2
+(g6
+S'\x84\xd1\x83\xa0\xef\xc4\xdc?'
+p364
+tp365
+Rp366
+tp367
+a(S'companies listed on the new york stock exchange (k)'
+p368
+g2
+(g6
+S'\x94L$\x97\xa5\xc3\xdc?'
+p369
+tp370
+Rp371
+tp372
+a(S'list of public listed software companies of india'
+p373
+g2
+(g6
+S'}\xec\xef\x94\xac\xac\xdc?'
+p374
+tp375
+Rp376
+tp377
+a(S'just us'
+p378
+g2
+(g6
+S'\xfa\x83\x18\x1a\xd6\xab\xdc?'
+p379
+tp380
+Rp381
+tp382
+a(S'companies listed on the new york stock exchange (n)'
+p383
+g2
+(g6
+S'\x99Gm`|\xa7\xdc?'
+p384
+tp385
+Rp386
+tp387
+a(S'companies listed on the new york stock exchange (v)'
+p388
+g2
+(g6
+S'\xa7k\xca\xb4_\x98\xdc?'
+p389
+tp390
+Rp391
+tp392
+a(S'u.s. route 23 in north carolina'
+p393
+g2
+(g6
+S'\x186\xaa\x99\xfa\x92\xdc?'
+p394
+tp395
+Rp396
+tp397
+a(S'u.s. route 211'
+p398
+g2
+(g6
+S'\xcfO\xbcr\x7f\x82\xdc?'
+p399
+tp400
+Rp401
+tp402
+a(S'u.s. route 11 in virginia'
+p403
+g2
+(g6
+S'p\x0bKvDx\xdc?'
+p404
+tp405
+Rp406
+tp407
+a(S'u.s. route 287 in colorado'
+p408
+g2
+(g6
+S'\x9bv#T\xbdd\xdc?'
+p409
+tp410
+Rp411
+tp412
+a(S'u.s. route 60 in oklahoma'
+p413
+g2
+(g6
+S'\x04\xde:\xea(a\xdc?'
+p414
+tp415
+Rp416
+tp417
+a(S'u.s. route 50 in kansas'
+p418
+g2
+(g6
+S'f\t\x00\x15\xfe7\xdc?'
+p419
+tp420
+Rp421
+tp422
+a(S'2009 norceca beach volleyball circuit (puerto vallarta)'
+p423
+g2
+(g6
+S'\xea\x96\x95\x8f\xe10\xdc?'
+p424
+tp425
+Rp426
+tp427
+a(S'u.s. route 31'
+p428
+g2
+(g6
+S'\x92\x94#\x1e\xcc\x1c\xdc?'
+p429
+tp430
+Rp431
+tp432
+a(S'2009 norceca beach volleyball circuit (boca chica)'
+p433
+g2
+(g6
+S'\xbe\x8d\xe1\xd2\x10\xea\xdb?'
+p434
+tp435
+Rp436
+tp437
+a(S'u.s. route 70 in north carolina'
+p438
+g2
+(g6
+S'\x9eIf"\x8c\xb8\xdb?'
+p439
+tp440
+Rp441
+tp442
+a(S'u.s. route 60 in kentucky'
+p443
+g2
+(g6
+S'B3\xd0\xed\xe6\xa9\xdb?'
+p444
+tp445
+Rp446
+tp447
+a(S'u.s. route 59 in kansas'
+p448
+g2
+(g6
+S"'\xf8U$\x16\x9d\xdb?"
+p449
+tp450
+Rp451
+tp452
+a(S'list of patent case law'
+p453
+g2
+(g6
+S'\xee\xad\xff"\xc0\x91\xdb?'
+p454
+tp455
+Rp456
+tp457
+a(S'u.s. route 301 in south carolina'
+p458
+g2
+(g6
+S'\x12\xcf\xceA\xe7y\xdb?'
+p459
+tp460
+Rp461
+tp462
+a(S'list of unicorn startup companies'
+p463
+g2
+(g6
+S'\xca\xba\x17\xe2*s\xdb?'
+p464
+tp465
+Rp466
+tp467
+a(S'u.s. route 601'
+p468
+g2
+(g6
+S'\xea\xc4;\xbf\xb6r\xdb?'
+p469
+tp470
+Rp471
+tp472
+a(S'u.s. route 400'
+p473
+g2
+(g6
+S'd\x1e3\x0e\xf8d\xdb?'
+p474
+tp475
+Rp476
+tp477
+a(S'u.s. route 441 in north carolina'
+p478
+g2
+(g6
+S'\xde\xb93g\x19Q\xdb?'
+p479
+tp480
+Rp481
+tp482
+a(S'u.s. route 40'
+p483
+g2
+(g6
+S'\x1c\xa4\x11\xc0\x93?\xdb?'
+p484
+tp485
+Rp486
+tp487
+a(S'thomas & friends (series 20)'
+p488
+g2
+(g6
+S'H\xd2I=\x16?\xdb?'
+p489
+tp490
+Rp491
+tp492
+a(S'list of animated television series of the 1940s and 1950s'
+p493
+g2
+(g6
+S'\x1b\r\xdb\x82s=\xdb?'
+p494
+tp495
+Rp496
+tp497
+a(S'u.s. route 11'
+p498
+g2
+(g6
+S'S\x84<\xc9\xae3\xdb?'
+p499
+tp500
+Rp501
+tp502
+a(S'u.s. route 71 in arkansas'
+p503
+g2
+(g6
+S'\x00\xab&"L0\xdb?'
+p504
+tp505
+Rp506
+tp507
+a(S'u.s. route 441'
+p508
+g2
+(g6
+S'\x9d}\xf2\xc2\x16,\xdb?'
+p509
+tp510
+Rp511
+tp512
+a(S'2009 norceca beach volleyball circuit (manzanillo)'
+p513
+g2
+(g6
+S'o\xa8\r\x83\xe5(\xdb?'
+p514
+tp515
+Rp516
+tp517
+a(S'tennessee state route 17'
+p518
+g2
+(g6
+S'\xd2\xa0\x06y\xb6\x15\xdb?'
+p519
+tp520
+Rp521
+tp522
+a(S'list of animated television series of 1994'
+p523
+g2
+(g6
+S'\x14\xc9\xa1\x07\x9f\x03\xdb?'
+p524
+tp525
+Rp526
+tp527
+a(S'list of outlaw motorcycle clubs'
+p528
+g2
+(g6
+S'#\x04iEM\xfe\xda?'
+p529
+tp530
+Rp531
+tp532
+a(S'list of animated television series of 1987'
+p533
+g2
+(g6
+S'\x93\xa0\xea)\xd5\xea\xda?'
+p534
+tp535
+Rp536
+tp537
+a(S'companies listed on the new york stock exchange (i)'
+p538
+g2
+(g6
+S'\x8b\xcfY\x1fA\xdf\xda?'
+p539
+tp540
+Rp541
+tp542
+a(S'u.s. route 13 in north carolina'
+p543
+g2
+(g6
+S'\xc8\xfc \xdd\x98\xcd\xda?'
+p544
+tp545
+Rp546
+tp547
+a(S'u.s. route 96'
+p548
+g2
+(g6
+S'\x83\xb6\xc7a\xb2\xcb\xda?'
+p549
+tp550
+Rp551
+tp552
+a(S'unit identification code'
+p553
+g2
+(g6
+S'\xb6\xa5\x1fQs\xc3\xda?'
+p554
+tp555
+Rp556
+tp557
+a(S'u.s. route 183'
+p558
+g2
+(g6
+S'OP>=\xd8\xbf\xda?'
+p559
+tp560
+Rp561
+tp562
+a(S'list of u.s. routes in new york'
+p563
+g2
+(g6
+S'\xa1\x03\x8c\xb9\xfa\xab\xda?'
+p564
+tp565
+Rp566
+tp567
+a(S'u.s. route 84 in texas'
+p568
+g2
+(g6
+S'\\h/8^\x9b\xda?'
+p569
+tp570
+Rp571
+tp572
+a(S'the band perry discography'
+p573
+g2
+(g6
+S'\x06\x18^\xa9\xaaz\xda?'
+p574
+tp575
+Rp576
+tp577
+a(S'companies listed on the new york stock exchange (j)'
+p578
+g2
+(g6
+S'\xaf)5\x97\x04y\xda?'
+p579
+tp580
+Rp581
+tp582
+a(S'list of animated television series of 1996'
+p583
+g2
+(g6
+S'\x96\xc3\xc1sds\xda?'
+p584
+tp585
+Rp586
+tp587
+a(S'companies listed on the new york stock exchange (z)'
+p588
+g2
+(g6
+S';\xa7w8\xb3h\xda?'
+p589
+tp590
+Rp591
+tp592
+a(S'u.s. route 25 in north carolina'
+p593
+g2
+(g6
+S'\x88Cz&\xb4V\xda?'
+p594
+tp595
+Rp596
+tp597
+a(S'u.s. route 67 in texas'
+p598
+g2
+(g6
+S'\xfb\xafU\x1b1V\xda?'
+p599
+tp600
+Rp601
+tp602
+a(S'u.s. route 62 in oklahoma'
+p603
+g2
+(g6
+S'\xb9c\xce\xbf\xa4J\xda?'
+p604
+tp605
+Rp606
+tp607
+a(S'u.s. route 62'
+p608
+g2
+(g6
+S'\xbb\x12\xf7W\r\x04\xda?'
+p609
+tp610
+Rp611
+tp612
+a(S'this is us'
+p613
+g2
+(g6
+S'E\xa5y\xd6\xe1\xf9\xd9?'
+p614
+tp615
+Rp616
+tp617
+a(S'timeline of progressive rock (2000\xe2\x80\x9309)'
+p618
+g2
+(g6
+S'h\x8b\xf1\xab\x98\xf0\xd9?'
+p619
+tp620
+Rp621
+tp622
+a(S'u.s. route 283 in texas'
+p623
+g2
+(g6
+S'\x84\xca{\xc0\x84\xed\xd9?'
+p624
+tp625
+Rp626
+tp627
+a(S'u.s. route 19'
+p628
+g2
+(g6
+S'hV\x90q\x18\xd8\xd9?'
+p629
+tp630
+Rp631
+tp632
+a(S'what about us'
+p633
+g2
+(g6
+S'\xcc\x02\xa7\x08\x7f\xd4\xd9?'
+p634
+tp635
+Rp636
+tp637
+a(S'special routes of u.s. route 15'
+p638
+g2
+(g6
+S'o/\xec\xfd\xd2\xc9\xd9?'
+p639
+tp640
+Rp641
+tp642
+a(S'u.s. route 310'
+p643
+g2
+(g6
+S'o\xf6\x81\xd3\x03\xc7\xd9?'
+p644
+tp645
+Rp646
+tp647
+a(S'u.s. route 422'
+p648
+g2
+(g6
+S'/\x9e$\xed2\xb8\xd9?'
+p649
+tp650
+Rp651
+tp652
+a(S'list of animated television series of 1993'
+p653
+g2
+(g6
+S'\x06\x01\xbam\xae\xaf\xd9?'
+p654
+tp655
+Rp656
+tp657
+a(S'u.s. route 67 in iowa'
+p658
+g2
+(g6
+S'll\xd3Xn\x9e\xd9?'
+p659
+tp660
+Rp661
+tp662
+a(S'\xc2\xbfqui\xc3\xa9n merece ser millonario?'
+p663
+g2
+(g6
+S'\xce\xb3S\n\x01\x97\xd9?'
+p664
+tp665
+Rp666
+tp667
+a(S'list of 12-metre yachts'
+p668
+g2
+(g6
+S'\xa7\xc5^M\x9f\x90\xd9?'
+p669
+tp670
+Rp671
+tp672
+a(S'u.s. route 270'
+p673
+g2
+(g6
+S'B\xa7\x11\xe1.\x82\xd9?'
+p674
+tp675
+Rp676
+tp677
+a(S'u.s. route 7 in vermont'
+p678
+g2
+(g6
+S'\xe4fF\x81\xa8|\xd9?'
+p679
+tp680
+Rp681
+tp682
+a(S'u.s. route 20'
+p683
+g2
+(g6
+S'\xeb\xd3y\x1e\xe8z\xd9?'
+p684
+tp685
+Rp686
+tp687
+a(S'eric gable'
+p688
+g2
+(g6
+S'\xd3%b:\x05s\xd9?'
+p689
+tp690
+Rp691
+tp692
+a(S'u.s. route 311'
+p693
+g2
+(g6
+S'k\xb1x\xb4\xa4W\xd9?'
+p694
+tp695
+Rp696
+tp697
+a(S'companies listed on the new york stock exchange (q)'
+p698
+g2
+(g6
+S'Eq\x01F\xb5U\xd9?'
+p699
+tp700
+Rp701
+tp702
+a(S'u.s. route 19e'
+p703
+g2
+(g6
+S'i\xf6xDYP\xd9?'
+p704
+tp705
+Rp706
+tp707
+a(S'us and them'
+p708
+g2
+(g6
+S'\x8c\xe9\xc8\xe4\x16L\xd9?'
+p709
+tp710
+Rp711
+tp712
+a(S'u.s. route 64 in north carolina'
+p713
+g2
+(g6
+S'\xd3Q\xadQ\x8aB\xd9?'
+p714
+tp715
+Rp716
+tp717
+a(S'u.s. route 15'
+p718
+g2
+(g6
+S'\xee\xcd\x06~\xcc(\xd9?'
+p719
+tp720
+Rp721
+tp722
+a(S'people like us'
+p723
+g2
+(g6
+S'\xf9\xbd\xbc\x1b|%\xd9?'
+p724
+tp725
+Rp726
+tp727
+a(S'special routes of u.s. route 74'
+p728
+g2
+(g6
+S'\xa92\x92!\xb9#\xd9?'
+p729
+tp730
+Rp731
+tp732
+a(S'special routes of u.s. route 58'
+p733
+g2
+(g6
+S'\xe6\x19\x89E\xde\x1b\xd9?'
+p734
+tp735
+Rp736
+tp737
+a(S'u.s. route 84'
+p738
+g2
+(g6
+S',UZ\xc1\xa5\x14\xd9?'
+p739
+tp740
+Rp741
+tp742
+a(S'senzu collective'
+p743
+g2
+(g6
+S'\x8c\x9ak \x95\xf9\xd8?'
+p744
+tp745
+Rp746
+tp747
+a(S'u.s. route 15 in south carolina'
+p748
+g2
+(g6
+S'"Q \x18,\xea\xd8?'
+p749
+tp750
+Rp751
+tp752
+a(S'u.s. route 59 in texas'
+p753
+g2
+(g6
+S'\xa1\x94^a=\xd6\xd8?'
+p754
+tp755
+Rp756
+tp757
+a(S'2015 in public domain'
+p758
+g2
+(g6
+S'.\xdd\x82\x055\xd3\xd8?'
+p759
+tp760
+Rp761
+tp762
+a(S'wyoming highway 255'
+p763
+g2
+(g6
+S'\xa8\xb8\xe6\xcb{\xcd\xd8?'
+p764
+tp765
+Rp766
+tp767
+a(S'u.s. route 166'
+p768
+g2
+(g6
+S'a\xe8\x97\n\x04\xca\xd8?'
+p769
+tp770
+Rp771
+tp772
+a(S'u.s. route 41'
+p773
+g2
+(g6
+S'\xd4p-\xfa\xa9\xc9\xd8?'
+p774
+tp775
+Rp776
+tp777
+a(S'u.s. route 33 in michigan'
+p778
+g2
+(g6
+S'c\xd1\xc4P]\xbb\xd8?'
+p779
+tp780
+Rp781
+tp782
+a(S'u.s. route 701'
+p783
+g2
+(g6
+S'\x1b\x90+)?\x93\xd8?'
+p784
+tp785
+Rp786
+tp787
+a(S'all about us'
+p788
+g2
+(g6
+S'\\\xed,\x8e\x99\x92\xd8?'
+p789
+tp790
+Rp791
+tp792
+a(S'the luxury institute'
+p793
+g2
+(g6
+S' \xe2\xadD\xd4\x88\xd8?'
+p794
+tp795
+Rp796
+tp797
+a(S'thomas & friends (series 19)'
+p798
+g2
+(g6
+S'0\xab\x8f\xe4q\x86\xd8?'
+p799
+tp800
+Rp801
+tp802
+a(S'u.s. route 6'
+p803
+g2
+(g6
+S'\xcfb\x180f\x85\xd8?'
+p804
+tp805
+Rp806
+tp807
+a(S'u.s. route 301'
+p808
+g2
+(g6
+S'\xc0~g\x07G~\xd8?'
+p809
+tp810
+Rp811
+tp812
+a(S'u.s. route 77 alternate (texas)'
+p813
+g2
+(g6
+S'p;\xf2\xd8\xdez\xd8?'
+p814
+tp815
+Rp816
+tp817
+a(S'u.s. route 209'
+p818
+g2
+(g6
+S'\x08\xf7\x1e\xd8\xf2j\xd8?'
+p819
+tp820
+Rp821
+tp822
+a(S'list of beta theta pi members'
+p823
+g2
+(g6
+S'\x8d\x15 @\xcbc\xd8?'
+p824
+tp825
+Rp826
+tp827
+a(S'u.s. route 21'
+p828
+g2
+(g6
+S'\xdf\x04]\xd5\xc9b\xd8?'
+p829
+tp830
+Rp831
+tp832
+a(S'u.s. route 129 in north carolina'
+p833
+g2
+(g6
+S'\x9a\xa2l\xc1\xd9]\xd8?'
+p834
+tp835
+Rp836
+tp837
+a(S'u.s. route 17 in florida'
+p838
+g2
+(g6
+S'T\x03\xb4\xc3\x98Y\xd8?'
+p839
+tp840
+Rp841
+tp842
+a(S'u.s. route 76'
+p843
+g2
+(g6
+S'\x82c\x1c}\xb3P\xd8?'
+p844
+tp845
+Rp846
+tp847
+a(S'u.s. route 80 in new mexico'
+p848
+g2
+(g6
+S'\xde\x8f9\x19\x91K\xd8?'
+p849
+tp850
+Rp851
+tp852
+a(S'list of japanese by net worth'
+p853
+g2
+(g6
+S'0\x04\xc9\xc2\xb7F\xd8?'
+p854
+tp855
+Rp856
+tp857
+a(S'list of best-selling playstation 2 video games'
+p858
+g2
+(g6
+S'\xdd\xad\x04,\x05E\xd8?'
+p859
+tp860
+Rp861
+tp862
+a(S'u.s. route 221 in virginia'
+p863
+g2
+(g6
+S'\xfc.\x92B\xb3D\xd8?'
+p864
+tp865
+Rp866
+tp867
+a(S'u.s. route 12 in michigan'
+p868
+g2
+(g6
+S'\xfb\x1b\xbb\xd0\xef4\xd8?'
+p869
+tp870
+Rp871
+tp872
+a(S'special routes of u.s. route 422'
+p873
+g2
+(g6
+S'PM\x0f\x8c\xf5"\xd8?'
+p874
+tp875
+Rp876
+tp877
+a(S'u.s. route 64 in oklahoma'
+p878
+g2
+(g6
+S'\x0cp\xcc\xbd\xf4\x16\xd8?'
+p879
+tp880
+Rp881
+tp882
+a(S'indiana state road 152'
+p883
+g2
+(g6
+S'\xac\x96\x11*\xfa\x14\xd8?'
+p884
+tp885
+Rp886
+tp887
+a(S'u.s. route 10 in michigan'
+p888
+g2
+(g6
+S'\x0b\x98\xf6#[\n\xd8?'
+p889
+tp890
+Rp891
+tp892
+a(S'u.s. route 11e'
+p893
+g2
+(g6
+S'\xe3\x13\xdc\x93\xcf\x01\xd8?'
+p894
+tp895
+Rp896
+tp897
+a(S'lethbridge black diamonds'
+p898
+g2
+(g6
+S'\xa2\xd4m\xf0l\xfb\xd7?'
+p899
+tp900
+Rp901
+tp902
+a(S'u.s. route 19 in tennessee'
+p903
+g2
+(g6
+S'\x88\xe1\xc4)\x8b\xec\xd7?'
+p904
+tp905
+Rp906
+tp907
+a(S'u.s. route 19w'
+p908
+g2
+(g6
+S'\xaf\x07\xa3\xee\xa6\xe7\xd7?'
+p909
+tp910
+Rp911
+tp912
+a(S'list of u.s. highways in michigan'
+p913
+g2
+(g6
+S'{5\x9a\xf0I\xe7\xd7?'
+p914
+tp915
+Rp916
+tp917
+a(S"world's best reading"
+p918
+g2
+(g6
+S'\xb1\x80\xd5\xf65\xe5\xd7?'
+p919
+tp920
+Rp921
+tp922
+a(S'u.s. route 50 alternate (nevada)'
+p923
+g2
+(g6
+S'c\xb0\x8fcG\xe2\xd7?'
+p924
+tp925
+Rp926
+tp927
+a(S'u.s. route 258'
+p928
+g2
+(g6
+S'\xa0\xe6\x03\xf3y\xdd\xd7?'
+p929
+tp930
+Rp931
+tp932
+a(S'u.s. route 48 (1926)'
+p933
+g2
+(g6
+S'~p3g\xae\xcc\xd7?'
+p934
+tp935
+Rp936
+tp937
+a(S'u.s. route 181'
+p938
+g2
+(g6
+S'\xe7\xa4\xaa\xa4\x82\xb8\xd7?'
+p939
+tp940
+Rp941
+tp942
+a(S'list of ornithologists'
+p943
+g2
+(g6
+S'^\xd9\x85\xec7\xb3\xd7?'
+p944
+tp945
+Rp946
+tp947
+a(S'u.s. route 23 in florida'
+p948
+g2
+(g6
+S'\xf9\xc9;\x8cm\xb0\xd7?'
+p949
+tp950
+Rp951
+tp952
+a(S'special routes of u.s. route 501'
+p953
+g2
+(g6
+S'&\xfe\x1f\xc6@\xa8\xd7?'
+p954
+tp955
+Rp956
+tp957
+a(S'west michigan pike pure michigan byway'
+p958
+g2
+(g6
+S' %\x8f"\xb7\xa1\xd7?'
+p959
+tp960
+Rp961
+tp962
+a(S'u.s. route 33 in virginia'
+p963
+g2
+(g6
+S'2\x87\xc2OA\x95\xd7?'
+p964
+tp965
+Rp966
+tp967
+a(S'u.s. route 220 in north carolina'
+p968
+g2
+(g6
+S'3h\xa8\xa3}\x8d\xd7?'
+p969
+tp970
+Rp971
+tp972
+a(S'u.s. route 412 in oklahoma'
+p973
+g2
+(g6
+S'VZz`D\x89\xd7?'
+p974
+tp975
+Rp976
+tp977
+a(S'u.s. route 4'
+p978
+g2
+(g6
+S'\xb0$\xcd\x13\t\x89\xd7?'
+p979
+tp980
+Rp981
+tp982
+a(S'u.s. route 11 in louisiana'
+p983
+g2
+(g6
+S'\x1a\xbc\xf8<i\x85\xd7?'
+p984
+tp985
+Rp986
+tp987
+a(S'u.s. route 24 in indiana'
+p988
+g2
+(g6
+S'?\x00\x9b\x87\xa4~\xd7?'
+p989
+tp990
+Rp991
+tp992
+a(S'glenn jones'
+p993
+g2
+(g6
+S'\xe7d\xdb\xcd&}\xd7?'
+p994
+tp995
+Rp996
+tp997
+a(S'.us'
+p998
+g2
+(g6
+S'\x85\x87\xc6\xe3yq\xd7?'
+p999
+tp1000
+Rp1001
+tp1002
+a(S'u.s. route 74'
+p1003
+g2
+(g6
+S'y\xc7\xca\xd9\xd2k\xd7?'
+p1004
+tp1005
+Rp1006
+tp1007
+a(S'savan kotecha'
+p1008
+g2
+(g6
+S'+"\x06\x98,`\xd7?'
+p1009
+tp1010
+Rp1011
+tp1012
+a(S'special routes of u.s. route 13'
+p1013
+g2
+(g6
+S'z"FFoT\xd7?'
+p1014
+tp1015
+Rp1016
+tp1017
+a(S'ernesto gastaldi'
+p1018
+g2
+(g6
+S'\xd4\xf9\x9d3\xa4Q\xd7?'
+p1019
+tp1020
+Rp1021
+tp1022
+a(S'u.s. route 522 in maryland'
+p1023
+g2
+(g6
+S'\x01\xa7%NfQ\xd7?'
+p1024
+tp1025
+Rp1026
+tp1027
+a(S'u.s. route 80'
+p1028
+g2
+(g6
+S'*\xa5=\xc8\xf0M\xd7?'
+p1029
+tp1030
+Rp1031
+tp1032
+a(S'u.s. route 730'
+p1033
+g2
+(g6
+S'\xef\xe5:\xbfxD\xd7?'
+p1034
+tp1035
+Rp1036
+tp1037
+a(S'companies listed on the new york stock exchange (b)'
+p1038
+g2
+(g6
+S'\xfd\x97\xe9\xdf4<\xd7?'
+p1039
+tp1040
+Rp1041
+tp1042
+a(S'what about us? (total song)'
+p1043
+g2
+(g6
+S'C\x91V\x95\x8b1\xd7?'
+p1044
+tp1045
+Rp1046
+tp1047
+a(S'u.s. route 27'
+p1048
+g2
+(g6
+S'\xba\x10\x87\xa5U+\xd7?'
+p1049
+tp1050
+Rp1051
+tp1052
+a(S'u.s. route 277 in texas'
+p1053
+g2
+(g6
+S'\xbc\x93\x06I\xfd*\xd7?'
+p1054
+tp1055
+Rp1056
+tp1057
+a(S'special routes of u.s. route 17'
+p1058
+g2
+(g6
+S'\xcey\xa5\xdc\xb0#\xd7?'
+p1059
+tp1060
+Rp1061
+tp1062
+a(S'u.s. route 59 in oklahoma'
+p1063
+g2
+(g6
+S'\x81i\xfa\x1c\x89#\xd7?'
+p1064
+tp1065
+Rp1066
+tp1067
+a(S'list of animated television series of 1990'
+p1068
+g2
+(g6
+S'\xa2h\xdd*?\x1a\xd7?'
+p1069
+tp1070
+Rp1071
+tp1072
+a(S'business routes of u.s. route 127 in michigan'
+p1073
+g2
+(g6
+S'~\xeaM\xf4j\x19\xd7?'
+p1074
+tp1075
+Rp1076
+tp1077
+a(S'u.s. route 17'
+p1078
+g2
+(g6
+S'\x00n\xc2x-\x19\xd7?'
+p1079
+tp1080
+Rp1081
+tp1082
+a(S'u.s. route 27 in michigan'
+p1083
+g2
+(g6
+S'R\xb3\xa0?\x7f\x0b\xd7?'
+p1084
+tp1085
+Rp1086
+tp1087
+a(S'list of jews in sports'
+p1088
+g2
+(g6
+S'\x0f\xb9\x07vM\x06\xd7?'
+p1089
+tp1090
+Rp1091
+tp1092
+a(S'u.s. route 460 in virginia'
+p1093
+g2
+(g6
+S'\xfb%\xd9\x19.\x02\xd7?'
+p1094
+tp1095
+Rp1096
+tp1097
+a(S'oklahoma state highway 156'
+p1098
+g2
+(g6
+S'tq\x14\xb5!\xfd\xd6?'
+p1099
+tp1100
+Rp1101
+tp1102
+a(S'u.s. route 378'
+p1103
+g2
+(g6
+S'\xe1v\xed\x89\x01\xf5\xd6?'
+p1104
+tp1105
+Rp1106
+tp1107
+a(S'u.s. route 1a'
+p1108
+g2
+(g6
+S"'\x9cu\x1fn\xf1\xd6?"
+p1109
+tp1110
+Rp1111
+tp1112
+a(S'terminator (franchise)'
+p1113
+g2
+(g6
+S'\xa4\x1d\xb6\x84)\xef\xd6?'
+p1114
+tp1115
+Rp1116
+tp1117
+a(S'u.s. route 301 in delaware'
+p1118
+g2
+(g6
+S'\x8b\xdf\x0b\x8a\xf5\xe5\xd6?'
+p1119
+tp1120
+Rp1121
+tp1122
+a(S'u.s. route 52 in south carolina'
+p1123
+g2
+(g6
+S'\xf0P\x9b\xb1\xe3\xdc\xd6?'
+p1124
+tp1125
+Rp1126
+tp1127
+a(S'u.s. route 191'
+p1128
+g2
+(g6
+S'@z\xae\xa3\x07\xd8\xd6?'
+p1129
+tp1130
+Rp1131
+tp1132
+a(S'u.s. route 830'
+p1133
+g2
+(g6
+S'-\xa0)\xf4\xee\xd1\xd6?'
+p1134
+tp1135
+Rp1136
+tp1137
+a(S'list of colleges and universities named after people'
+p1138
+g2
+(g6
+S'\x1aj\x88_D\xcf\xd6?'
+p1139
+tp1140
+Rp1141
+tp1142
+a(S'u.s. route 158'
+p1143
+g2
+(g6
+S"\xdc'\x03h\xa2\xc7\xd6?"
+p1144
+tp1145
+Rp1146
+tp1147
+a(S'united states numbered highway system'
+p1148
+g2
+(g6
+S'\xc6\x9c\xa4\xfc\xab\xc2\xd6?'
+p1149
+tp1150
+Rp1151
+tp1152
+a(S'list of people buried at arlington national cemetery'
+p1153
+g2
+(g6
+S' i\x04`a\xb1\xd6?'
+p1154
+tp1155
+Rp1156
+tp1157
+a(S'john connor'
+p1158
+g2
+(g6
+S'B\xd9L,\xe5\xa3\xd6?'
+p1159
+tp1160
+Rp1161
+tp1162
+a(S'u.s. route 10'
+p1163
+g2
+(g6
+S'H\xf5\xd7\xd1\x8f\xa3\xd6?'
+p1164
+tp1165
+Rp1166
+tp1167
+a(S'u.s. route 11w'
+p1168
+g2
+(g6
+S'8]\xf5\xcf{\xa2\xd6?'
+p1169
+tp1170
+Rp1171
+tp1172
+a(S'u.s. route 81 in oklahoma'
+p1173
+g2
+(g6
+S'o\xbc\x1f\x83\x96\x9b\xd6?'
+p1174
+tp1175
+Rp1176
+tp1177
+a(S'cost of the olympic games'
+p1178
+g2
+(g6
+S'\x05t\xd6\xd9>\x9b\xd6?'
+p1179
+tp1180
+Rp1181
+tp1182
+a(S'list of animated television series of 1986'
+p1183
+g2
+(g6
+S'\x18i\x85H\xd1\x87\xd6?'
+p1184
+tp1185
+Rp1186
+tp1187
+a(S'list of animated television series of 2017'
+p1188
+g2
+(g6
+S'\x12\x06G\xae\xa6u\xd6?'
+p1189
+tp1190
+Rp1191
+tp1192
+a(S'u.s. route 69 in kansas'
+p1193
+g2
+(g6
+S'\xf5Z\xd5\xd0\x9du\xd6?'
+p1194
+tp1195
+Rp1196
+tp1197
+a(S'u.s. route 83 in texas'
+p1198
+g2
+(g6
+S'\xdb\xb3,f\x06u\xd6?'
+p1199
+tp1200
+Rp1201
+tp1202
+a(S'south carolina highway 421'
+p1203
+g2
+(g6
+S'\xc8t_\x97@r\xd6?'
+p1204
+tp1205
+Rp1206
+tp1207
+a(S'u.s. route 12'
+p1208
+g2
+(g6
+S'\x91\xcd\xdb\x985p\xd6?'
+p1209
+tp1210
+Rp1211
+tp1212
+a(S'list of animated television series of 1985'
+p1213
+g2
+(g6
+S'\x99\t\xa81\x06i\xd6?'
+p1214
+tp1215
+Rp1216
+tp1217
+a(S'list of animated television series of 1991'
+p1218
+g2
+(g6
+S'\x8f8\xab\xb1\x01f\xd6?'
+p1219
+tp1220
+Rp1221
+tp1222
+a(S'list of animated television series of 2000'
+p1223
+g2
+(g6
+S'\x84D\xd64\xeac\xd6?'
+p1224
+tp1225
+Rp1226
+tp1227
+a(S'special routes of u.s. route 67'
+p1228
+g2
+(g6
+S'EG\xb69\x80`\xd6?'
+p1229
+tp1230
+Rp1231
+tp1232
+a(S'u.s. route 40 in delaware'
+p1233
+g2
+(g6
+S'\xe0\xd3\xe0\xbf\x1bZ\xd6?'
+p1234
+tp1235
+Rp1236
+tp1237
+a(S'u.s. route 71'
+p1238
+g2
+(g6
+S'\xf0R\x95\x15\xe3X\xd6?'
+p1239
+tp1240
+Rp1241
+tp1242
+a(S'thomas rhett discography'
+p1243
+g2
+(g6
+S'\x84U\x81\xc3OX\xd6?'
+p1244
+tp1245
+Rp1246
+tp1247
+a(S'special routes of u.s. route 70'
+p1248
+g2
+(g6
+S'#\xba*\x0b\xadU\xd6?'
+p1249
+tp1250
+Rp1251
+tp1252
+a(S'u.s. route 63 in arkansas'
+p1253
+g2
+(g6
+S')Y\r\xf5tR\xd6?'
+p1254
+tp1255
+Rp1256
+tp1257
+a(S'special routes of u.s. route 11'
+p1258
+g2
+(g6
+S'\x0b\xeb\x88\xf5\xb5Q\xd6?'
+p1259
+tp1260
+Rp1261
+tp1262
+a(S'special routes of u.s. route 6'
+p1263
+g2
+(g6
+S'>+\xc0p\xbcO\xd6?'
+p1264
+tp1265
+Rp1266
+tp1267
+a(S'u.s. route 141'
+p1268
+g2
+(g6
+S'\xa6U*f_J\xd6?'
+p1269
+tp1270
+Rp1271
+tp1272
+a(S'u.s. route 23'
+p1273
+g2
+(g6
+S'\x03`\xfc\x18:C\xd6?'
+p1274
+tp1275
+Rp1276
+tp1277
+a(S'inpop records'
+p1278
+g2
+(g6
+S';6\xfe\xa3\xa8>\xd6?'
+p1279
+tp1280
+Rp1281
+tp1282
+a(S'u.s. route 421 in virginia'
+p1283
+g2
+(g6
+S'=b\xb2\xe7\xb88\xd6?'
+p1284
+tp1285
+Rp1286
+tp1287
+a(S'u.s. route 287 in texas'
+p1288
+g2
+(g6
+S'}\xdb\x0c\xc5\xba-\xd6?'
+p1289
+tp1290
+Rp1291
+tp1292
+a(S'u.s. route 25'
+p1293
+g2
+(g6
+S'\xda\xd9\xb1m\xd1*\xd6?'
+p1294
+tp1295
+Rp1296
+tp1297
+a(S'u.s. route 421 in indiana'
+p1298
+g2
+(g6
+S'\xc2M*u\xe1)\xd6?'
+p1299
+tp1300
+Rp1301
+tp1302
+a(S'u.s. route 72'
+p1303
+g2
+(g6
+S'\x86Z<\xfc\xdc(\xd6?'
+p1304
+tp1305
+Rp1306
+tp1307
+a(S'u.s. route 395'
+p1308
+g2
+(g6
+S'\xb7\xe4\xad\xfc\x99%\xd6?'
+p1309
+tp1310
+Rp1311
+tp1312
+a(S'u.s. route 17 alternate (south carolina)'
+p1313
+g2
+(g6
+S'~\xe9+q\x89\x17\xd6?'
+p1314
+tp1315
+Rp1316
+tp1317
+a(S'u.s. route 223'
+p1318
+g2
+(g6
+S'K\xfcV\x86j\x16\xd6?'
+p1319
+tp1320
+Rp1321
+tp1322
+a(S'terminator (character)'
+p1323
+g2
+(g6
+S'\x1e\xbcs\x96\xf7\x0e\xd6?'
+p1324
+tp1325
+Rp1326
+tp1327
+a(S'u.s. route 61'
+p1328
+g2
+(g6
+S'\xa1\xe3\xdf\xd0\xcf\x0b\xd6?'
+p1329
+tp1330
+Rp1331
+tp1332
+a(S'list of animated television series of 1972'
+p1333
+g2
+(g6
+S'Vk\xab\xd9\xa3\x0b\xd6?'
+p1334
+tp1335
+Rp1336
+tp1337
+a(S'special routes of u.s. route 19'
+p1338
+g2
+(g6
+S'j\xf4\xb8M\\\x07\xd6?'
+p1339
+tp1340
+Rp1341
+tp1342
+a(S'u.s. route 15 in virginia'
+p1343
+g2
+(g6
+S'S\xe3\xa3\xda\x0b\x06\xd6?'
+p1344
+tp1345
+Rp1346
+tp1347
+a(S'humanitarian response to the 2004 indian ocean earthquake'
+p1348
+g2
+(g6
+S'\x99\x9e\x1c!\xcc\xee\xd5?'
+p1349
+tp1350
+Rp1351
+tp1352
+a(S'u.s. route 6 in ohio'
+p1353
+g2
+(g6
+S'\xdbA\xbaFK\xe8\xd5?'
+p1354
+tp1355
+Rp1356
+tp1357
+a(S'u.s. route 301 in virginia'
+p1358
+g2
+(g6
+S'\x0f@r\xa9\x07\xe6\xd5?'
+p1359
+tp1360
+Rp1361
+tp1362
+a(S'harry maslin'
+p1363
+g2
+(g6
+S'\x8b\x87lX\xad\xdc\xd5?'
+p1364
+tp1365
+Rp1366
+tp1367
+a(S'business routes of u.s. route 31 in michigan'
+p1368
+g2
+(g6
+S'\x96!\xe61\xe4\xda\xd5?'
+p1369
+tp1370
+Rp1371
+tp1372
+a(S'u.s. route 127 in michigan'
+p1373
+g2
+(g6
+S'\xa0\xac\x93\x93\xa8\xda\xd5?'
+p1374
+tp1375
+Rp1376
+tp1377
+a(S'the story of us'
+p1378
+g2
+(g6
+S'\xd0\x1a\xfc\xe1?\xcd\xd5?'
+p1379
+tp1380
+Rp1381
+tp1382
+a(S'u.s. route 224'
+p1383
+g2
+(g6
+S'%L\xc0(\xf7\xc7\xd5?'
+p1384
+tp1385
+Rp1386
+tp1387
+a(S'u.s. route 183 in texas'
+p1388
+g2
+(g6
+S'\x82\xc7\xb7\x96\xb3\xbd\xd5?'
+p1389
+tp1390
+Rp1391
+tp1392
+a(S'terminator (character concept)'
+p1393
+g2
+(g6
+S'y\xa8>\xcd\r\xbd\xd5?'
+p1394
+tp1395
+Rp1396
+tp1397
+a(S'list of animated television series of 1995'
+p1398
+g2
+(g6
+S'\xb5\x97\x1c"\xf0\xb8\xd5?'
+p1399
+tp1400
+Rp1401
+tp1402
+a(S'toni tennille discography'
+p1403
+g2
+(g6
+S',\x9a\xc1C6\xb8\xd5?'
+p1404
+tp1405
+Rp1406
+tp1407
+a(S'bernard vorhaus'
+p1408
+g2
+(g6
+S'\x89\x07s1!\xb6\xd5?'
+p1409
+tp1410
+Rp1411
+tp1412
+a(S'asia pacific poker tour season 2 results'
+p1413
+g2
+(g6
+S'\xff\xa2\x1f\xaf\xe1\xb4\xd5?'
+p1414
+tp1415
+Rp1416
+tp1417
+a(S'u.s. route 202'
+p1418
+g2
+(g6
+S'\xb3\xee\xb5\x01+\xb1\xd5?'
+p1419
+tp1420
+Rp1421
+tp1422
+a(S'u.s. route 17 in north carolina'
+p1423
+g2
+(g6
+S'\xdb>\xae\xb7\x1b\xae\xd5?'
+p1424
+tp1425
+Rp1426
+tp1427
+a(S'list of stop motion films'
+p1428
+g2
+(g6
+S'\xdaG\xc0\x93\x84\xa8\xd5?'
+p1429
+tp1430
+Rp1431
+tp1432
+a(S'kendrick taylor'
+p1433
+g2
+(g6
+S'\xd2W\x8f\x1d\xed\xa6\xd5?'
+p1434
+tp1435
+Rp1436
+tp1437
+a(S'u.s. route 56'
+p1438
+g2
+(g6
+S'\xb1\xac\xae\xaf\xe6\xa6\xd5?'
+p1439
+tp1440
+Rp1441
+tp1442
+a(S'special routes of u.s. route 40'
+p1443
+g2
+(g6
+S'\xf1\x00\x9ej\r\xa6\xd5?'
+p1444
+tp1445
+Rp1446
+tp1447
+a(S'darius rucker discography'
+p1448
+g2
+(g6
+S'\xf0\x0b0\\\xa1\xa5\xd5?'
+p1449
+tp1450
+Rp1451
+tp1452
+a(S'business routes of u.s. route 10 in michigan'
+p1453
+g2
+(g6
+S'\x01\x15\xbe\xc3%\x9b\xd5?'
+p1454
+tp1455
+Rp1456
+tp1457
+a(S'thomas & friends (series 18)'
+p1458
+g2
+(g6
+S'q\xb27\xc47\x98\xd5?'
+p1459
+tp1460
+Rp1461
+tp1462
+a(S'u.s. route 80 in arizona'
+p1463
+g2
+(g6
+S'\xf1t^P\\\x95\xd5?'
+p1464
+tp1465
+Rp1466
+tp1467
+a(S'list of attack aircraft'
+p1468
+g2
+(g6
+S'\xcd,\xc5\x9f\xd8\x8d\xd5?'
+p1469
+tp1470
+Rp1471
+tp1472
+a(S'u.s. route 25e'
+p1473
+g2
+(g6
+S'\xd4\x14L\x8e\xb6\x89\xd5?'
+p1474
+tp1475
+Rp1476
+tp1477
+a(S'u.s. route 25w'
+p1478
+g2
+(g6
+S'\xaf\x83\xbe\xe7\x7f\x89\xd5?'
+p1479
+tp1480
+Rp1481
+tp1482
+a(S'list of reality television programs'
+p1483
+g2
+(g6
+S'\xb2P4\xafB\x89\xd5?'
+p1484
+tp1485
+Rp1486
+tp1487
+a(S'old oregon trail highway'
+p1488
+g2
+(g6
+S'\xf9\x06)\x82\x87f\xd5?'
+p1489
+tp1490
+Rp1491
+tp1492
+a(S'u.s. route 19 in virginia'
+p1493
+g2
+(g6
+S'lM\xc1\xa5/a\xd5?'
+p1494
+tp1495
+Rp1496
+tp1497
+a(S'special routes of u.s. route 421'
+p1498
+g2
+(g6
+S'\x93U\x89\xe5\x99^\xd5?'
+p1499
+tp1500
+Rp1501
+tp1502
+a(S'u.s. route 85'
+p1503
+g2
+(g6
+S'Dh\xbd\x89\x17^\xd5?'
+p1504
+tp1505
+Rp1506
+tp1507
+a(S'u.s. route 522 in pennsylvania'
+p1508
+g2
+(g6
+S'\x87I\xe8DU[\xd5?'
+p1509
+tp1510
+Rp1511
+tp1512
+a.

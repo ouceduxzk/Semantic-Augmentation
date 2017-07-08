@@ -1,0 +1,2728 @@
+(lp0
+(S'speed learning'
+p1
+cnumpy.core.multiarray
+scalar
+p2
+(cnumpy
+dtype
+p3
+(S'f8'
+p4
+I0
+I1
+tp5
+Rp6
+(I3
+S'<'
+p7
+NNNI-1
+I-1
+I0
+tp8
+bS'\x01\x00\x00\x00\x00\x00\xf0?'
+p9
+tp10
+Rp11
+tp12
+a(S'learning organization'
+p13
+g2
+(g6
+S'\x9d\xea/7$\xd4\xd9?'
+p14
+tp15
+Rp16
+tp17
+a(S'organizational learning'
+p18
+g2
+(g6
+S'\x8a\xbb\xac0\x95\x8c\xd9?'
+p19
+tp20
+Rp21
+tp22
+a(S'service-learning'
+p23
+g2
+(g6
+S'\xa7pO\xbd\x88<\xd9?'
+p24
+tp25
+Rp26
+tp27
+a(S'learning'
+p28
+g2
+(g6
+S'\xa9\x9b\xc9\xdfa\t\xd9?'
+p29
+tp30
+Rp31
+tp32
+a(S'learning environment'
+p33
+g2
+(g6
+S'\x16\xefY\xf6\x16*\xd8?'
+p34
+tp35
+Rp36
+tp37
+a(S'learning theory (education)'
+p38
+g2
+(g6
+S'\xc5(\x938 \t\xd8?'
+p39
+tp40
+Rp41
+tp42
+a(S'situated learning'
+p43
+g2
+(g6
+S'_h\x95\x9d\xc0\x93\xd7?'
+p44
+tp45
+Rp46
+tp47
+a(S'active learning'
+p48
+g2
+(g6
+S'\xa3\x9f\xebK\xae\x87\xd7?'
+p49
+tp50
+Rp51
+tp52
+a(S'learning plan'
+p53
+g2
+(g6
+S'\x1d\x17n\xe0\x1fA\xd7?'
+p54
+tp55
+Rp56
+tp57
+a(S'learning styles'
+p58
+g2
+(g6
+S'\x86&\xdf.L3\xd7?'
+p59
+tp60
+Rp61
+tp62
+a(S'microtraining'
+p63
+g2
+(g6
+S'\x95\xbea\xf1p\xfb\xd6?'
+p64
+tp65
+Rp66
+tp67
+a(S'organizational metacognition'
+p68
+g2
+(g6
+S'\x14\xb0\xc8\xa1\xf1\xe3\xd6?'
+p69
+tp70
+Rp71
+tp72
+a(S'lifelong learning'
+p73
+g2
+(g6
+S'&M/^O\x9a\xd6?'
+p74
+tp75
+Rp76
+tp77
+a(S'learning cell'
+p78
+g2
+(g6
+S'\x9d+\xe5\xb7\xc0|\xd6?'
+p79
+tp80
+Rp81
+tp82
+a(S'learning sciences'
+p83
+g2
+(g6
+S"\xe4\xf3@l\xae'\xd6?"
+p84
+tp85
+Rp86
+tp87
+a(S'connectivism'
+p88
+g2
+(g6
+S'\xeb(\rY\x86\xbe\xd5?'
+p89
+tp90
+Rp91
+tp92
+a(S'learning resource center'
+p93
+g2
+(g6
+S'\xdb\xcd\\I\t\xab\xd5?'
+p94
+tp95
+Rp96
+tp97
+a(S'social learning (social pedagogy)'
+p98
+g2
+(g6
+S'\xf6l 0\x14\x9b\xd5?'
+p99
+tp100
+Rp101
+tp102
+a(S'learning society'
+p103
+g2
+(g6
+S'\xa0w\xe6Y>_\xd5?'
+p104
+tp105
+Rp106
+tp107
+a(S'learning power'
+p108
+g2
+(g6
+S'w\x1b\r\xb3\x94\\\xd5?'
+p109
+tp110
+Rp111
+tp112
+a(S'action learning'
+p113
+g2
+(g6
+S'>^\x97F\x83\\\xd5?'
+p114
+tp115
+Rp116
+tp117
+a(S'learning pathway'
+p118
+g2
+(g6
+S'\x0f\xe3\xfc5\xa8Z\xd5?'
+p119
+tp120
+Rp121
+tp122
+a(S'learning curve'
+p123
+g2
+(g6
+S'Y\x8a\x1c\xd5!V\xd5?'
+p124
+tp125
+Rp126
+tp127
+a(S'educational technology'
+p128
+g2
+(g6
+S'wq=\xcbpO\xd5?'
+p129
+tp130
+Rp131
+tp132
+a(S'informal learning'
+p133
+g2
+(g6
+S'\xd7\xd5eSTM\xd5?'
+p134
+tp135
+Rp136
+tp137
+a(S'machine learning'
+p138
+g2
+(g6
+S'\x80\x16\xd3\xdf\xa9)\xd5?'
+p139
+tp140
+Rp141
+tp142
+a(S'teaching and learning research programme'
+p143
+g2
+(g6
+S'\xdbuk^e\x16\xd5?'
+p144
+tp145
+Rp146
+tp147
+a(S'microlearning'
+p148
+g2
+(g6
+S'\xd5M\x82\xcdO\xfa\xd4?'
+p149
+tp150
+Rp151
+tp152
+a(S'kinesthetic learning'
+p153
+g2
+(g6
+S'u\x00-\x97\xe7\xca\xd4?'
+p154
+tp155
+Rp156
+tp157
+a(S'learning space'
+p158
+g2
+(g6
+S'\xa6\x8c"\x8c!\xb8\xd4?'
+p159
+tp160
+Rp161
+tp162
+a(S'learning community'
+p163
+g2
+(g6
+S'\xca\xca\xa7l\xf1\xaa\xd4?'
+p164
+tp165
+Rp166
+tp167
+a(S'connected learning'
+p168
+g2
+(g6
+S'%!O\xc6b\x9c\xd4?'
+p169
+tp170
+Rp171
+tp172
+a(S'national youth leadership council'
+p173
+g2
+(g6
+S'\xc3Z\x1a\x17\x87r\xd4?'
+p174
+tp175
+Rp176
+tp177
+a(S'computer-supported collaborative learning'
+p178
+g2
+(g6
+S'\x8f/\xae-\xd7q\xd4?'
+p179
+tp180
+Rp181
+tp182
+a(S'learning alliance'
+p183
+g2
+(g6
+S'\xbb\xa2c\x1c[k\xd4?'
+p184
+tp185
+Rp186
+tp187
+a(S'peer learning'
+p188
+g2
+(g6
+S'EuE\xe4\x96`\xd4?'
+p189
+tp190
+Rp191
+tp192
+a(S'learning object'
+p193
+g2
+(g6
+S'Ur\xfd\xf9\xfdM\xd4?'
+p194
+tp195
+Rp196
+tp197
+a(S'contextual learning'
+p198
+g2
+(g6
+S'\xb4\xc9\xd0V\xb8L\xd4?'
+p199
+tp200
+Rp201
+tp202
+a(S'lifewide education'
+p203
+g2
+(g6
+S'[\xe4Ll-3\xd4?'
+p204
+tp205
+Rp206
+tp207
+a(S'andrew furco'
+p208
+g2
+(g6
+S'\x99p\xe0\x93\xea2\xd4?'
+p209
+tp210
+Rp211
+tp212
+a(S'deeper learning'
+p213
+g2
+(g6
+S'\x996Q\xae\x11.\xd4?'
+p214
+tp215
+Rp216
+tp217
+a(S'learning tree international'
+p218
+g2
+(g6
+S'\xaf\x8e\xa7\xc1i\x1b\xd4?'
+p219
+tp220
+Rp221
+tp222
+a(S'out-of-school learning'
+p223
+g2
+(g6
+S'!\xaa\xed\xac \x17\xd4?'
+p224
+tp225
+Rp226
+tp227
+a(S'national center for e-learning'
+p228
+g2
+(g6
+S'\x9a\xc9\xe5\x14\xbf\x12\xd4?'
+p229
+tp230
+Rp231
+tp232
+a(S'governmental learning spiral'
+p233
+g2
+(g6
+S'CM\xe6\x80\xbd\x0f\xd4?'
+p234
+tp235
+Rp236
+tp237
+a(S'robert m. gagn\xc3\xa9'
+p238
+g2
+(g6
+S'*\x90\xc0\xb85\x06\xd4?'
+p239
+tp240
+Rp241
+tp242
+a(S'm-learning'
+p243
+g2
+(g6
+S'\xd3\x8b\xac\x00\x14\xfc\xd3?'
+p244
+tp245
+Rp246
+tp247
+a(S'student-centred learning'
+p248
+g2
+(g6
+S'\xd8\x10\x99\xe4b\xfb\xd3?'
+p249
+tp250
+Rp251
+tp252
+a(S'collaborative learning'
+p253
+g2
+(g6
+S'b\xa52#J\xf9\xd3?'
+p254
+tp255
+Rp256
+tp257
+a(S'virtual learning environment'
+p258
+g2
+(g6
+S'A\xe4\xde\xccP\xb4\xd3?'
+p259
+tp260
+Rp261
+tp262
+a(S'authentic learning'
+p263
+g2
+(g6
+S'\x0b\xd6\xac\xc1\x06\xa6\xd3?'
+p264
+tp265
+Rp266
+tp267
+a(S'learning development'
+p268
+g2
+(g6
+S'O\r\xdf\t\xd9\xa3\xd3?'
+p269
+tp270
+Rp271
+tp272
+a(S'passive learning'
+p273
+g2
+(g6
+S'\xf0\xa6\xd8\xa6\xb3\x9c\xd3?'
+p274
+tp275
+Rp276
+tp277
+a(S'ieee transactions on learning technologies'
+p278
+g2
+(g6
+S'\x05\xf6U\x97q\x97\xd3?'
+p279
+tp280
+Rp281
+tp282
+a(S'social web academy'
+p283
+g2
+(g6
+S"B\xdb/'\xb4\x86\xd3?"
+p284
+tp285
+Rp286
+tp287
+a(S'learning disability'
+p288
+g2
+(g6
+S'BW\x10\xda\xe0\x80\xd3?'
+p289
+tp290
+Rp291
+tp292
+a(S'flexible learning'
+p293
+g2
+(g6
+S'\xdc\xa0`\xd0\x13o\xd3?'
+p294
+tp295
+Rp296
+tp297
+a(S'experiential learning'
+p298
+g2
+(g6
+S'\xc3%\xb1 \x86m\xd3?'
+p299
+tp300
+Rp301
+tp302
+a(S'networked learning'
+p303
+g2
+(g6
+S'\xfd\xe5\xfc\x82I7\xd3?'
+p304
+tp305
+Rp306
+tp307
+a(S'professional learning community'
+p308
+g2
+(g6
+S'\xa5J}\x0b\x940\xd3?'
+p309
+tp310
+Rp311
+tp312
+a(S'stanford learning lab'
+p313
+g2
+(g6
+S'\x1ax\xb7\x86\xbb\x16\xd3?'
+p314
+tp315
+Rp316
+tp317
+a(S'fle3'
+p318
+g2
+(g6
+S'\xe0\x969\xfc\xb9\x0f\xd3?'
+p319
+tp320
+Rp321
+tp322
+a(S'great learning'
+p323
+g2
+(g6
+S'\xdb\x04\xbd\xe6\x8d\x04\xd3?'
+p324
+tp325
+Rp326
+tp327
+a(S'degreed'
+p328
+g2
+(g6
+S'\xf1\xd6\x10\x03\x9c\xdb\xd2?'
+p329
+tp330
+Rp331
+tp332
+a(S'learning log'
+p333
+g2
+(g6
+S'\xdc\xfa\xd2\xe4B\xd2\xd2?'
+p334
+tp335
+Rp336
+tp337
+a(S'lifewide learning'
+p338
+g2
+(g6
+S'W\x8f\xee\xa9V\xc7\xd2?'
+p339
+tp340
+Rp341
+tp342
+a(S'practice-based professional learning'
+p343
+g2
+(g6
+S'\xca<O$\xb5\xbc\xd2?'
+p344
+tp345
+Rp346
+tp347
+a(S'knowledge society'
+p348
+g2
+(g6
+S'\xfbE\xd5\xbc\x8a\xb6\xd2?'
+p349
+tp350
+Rp351
+tp352
+a(S'jay cross'
+p353
+g2
+(g6
+S'\x04!\x9a\xa4\xb6\x97\xd2?'
+p354
+tp355
+Rp356
+tp357
+a(S'implicit learning'
+p358
+g2
+(g6
+S'\xb1\xaf\x0e@\xbe}\xd2?'
+p359
+tp360
+Rp361
+tp362
+a(S'national summer learning association'
+p363
+g2
+(g6
+S'\xb3I\x83G~v\xd2?'
+p364
+tp365
+Rp366
+tp367
+a(S'sslearn'
+p368
+g2
+(g6
+S'D\x0b\xe2{\xe9m\xd2?'
+p369
+tp370
+Rp371
+tp372
+a(S'principles of learning'
+p373
+g2
+(g6
+S'*\xb4 \xec\xfck\xd2?'
+p374
+tp375
+Rp376
+tp377
+a(S'learning and skills network'
+p378
+g2
+(g6
+S'\xcbH2U\xa3i\xd2?'
+p379
+tp380
+Rp381
+tp382
+a(S'e-learning (theory)'
+p383
+g2
+(g6
+S'~\xdd\xf9\xeb?i\xd2?'
+p384
+tp385
+Rp386
+tp387
+a(S'rapid learning'
+p388
+g2
+(g6
+S'\xca[\x1c\xc4oW\xd2?'
+p389
+tp390
+Rp391
+tp392
+a(S'knowledge building'
+p393
+g2
+(g6
+S'\x01\xfa\xf9\xd59R\xd2?'
+p394
+tp395
+Rp396
+tp397
+a(S'cooperative learning'
+p398
+g2
+(g6
+S'\x1bpX\xe9\x15K\xd2?'
+p399
+tp400
+Rp401
+tp402
+a(S'digital learning'
+p403
+g2
+(g6
+S'\xb2\x04\xfb\xaf\x98J\xd2?'
+p404
+tp405
+Rp406
+tp407
+a(S'social learning tools'
+p408
+g2
+(g6
+S'2\xbd\x84\xd3\x1fB\xd2?'
+p409
+tp410
+Rp411
+tp412
+a(S'learning nugget'
+p413
+g2
+(g6
+S'\xa9DA\xd7s1\xd2?'
+p414
+tp415
+Rp416
+tp417
+a(S'q-learning'
+p418
+g2
+(g6
+S'gD]\xe3\xc2\x1a\xd2?'
+p419
+tp420
+Rp421
+tp422
+a(S'meaningful learning'
+p423
+g2
+(g6
+S'\xf0(gk\x9e\x1a\xd2?'
+p424
+tp425
+Rp426
+tp427
+a(S'celstec'
+p428
+g2
+(g6
+S'uR\xe1=\xf3\x19\xd2?'
+p429
+tp430
+Rp431
+tp432
+a(S'sequence learning'
+p433
+g2
+(g6
+S'5\x81rP\xb0\x03\xd2?'
+p434
+tp435
+Rp436
+tp437
+a(S'meta learning (computer science)'
+p438
+g2
+(g6
+S'\r4L\x17\xd5\x00\xd2?'
+p439
+tp440
+Rp441
+tp442
+a(S'interactive learning'
+p443
+g2
+(g6
+S'\xf2y\xc4\x81\x85\xfa\xd1?'
+p444
+tp445
+Rp446
+tp447
+a(S'open learning'
+p448
+g2
+(g6
+S'\t\x1b\xc5\x83\xfe\xf1\xd1?'
+p449
+tp450
+Rp451
+tp452
+a(S'learning circle'
+p453
+g2
+(g6
+S'\x8f\xf7@\x87\xb4\xed\xd1?'
+p454
+tp455
+Rp456
+tp457
+a(S'recognising and recording progress and achievement'
+p458
+g2
+(g6
+S'\x9e\xa0\xb3\xce\xa8\xe8\xd1?'
+p459
+tp460
+Rp461
+tp462
+a(S'cumulative learning'
+p463
+g2
+(g6
+S"'=j\x19@\xe5\xd1?"
+p464
+tp465
+Rp466
+tp467
+a(S'dreambox (company)'
+p468
+g2
+(g6
+S'wJ>?\x82\xcd\xd1?'
+p469
+tp470
+Rp471
+tp472
+a(S'psychology of learning'
+p473
+g2
+(g6
+S'\xb3@\xdf\xb9\x1d\xcb\xd1?'
+p474
+tp475
+Rp476
+tp477
+a(S'knowledge based community sharing system'
+p478
+g2
+(g6
+S'\xa8\xd9\xf5\xb2\xfe\xc1\xd1?'
+p479
+tp480
+Rp481
+tp482
+a(S'norman longworth'
+p483
+g2
+(g6
+S'.\x08\x9a5E\xad\xd1?'
+p484
+tp485
+Rp486
+tp487
+a(S'visual learning'
+p488
+g2
+(g6
+S'\x94\x85*x\x1e\xab\xd1?'
+p489
+tp490
+Rp491
+tp492
+a(S'social learning theory'
+p493
+g2
+(g6
+S'PI\xaa\xd3\xb7\xa3\xd1?'
+p494
+tp495
+Rp496
+tp497
+a(S'educational game'
+p498
+g2
+(g6
+S'\xf5\x04\xb04\x95\x8a\xd1?'
+p499
+tp500
+Rp501
+tp502
+a(S"kolb's experiential learning"
+p503
+g2
+(g6
+S'\xe4\xc8f\x96\xd2\x88\xd1?'
+p504
+tp505
+Rp506
+tp507
+a(S'learning and skills in england'
+p508
+g2
+(g6
+S'\\\x8ed$\xb8{\xd1?'
+p509
+tp510
+Rp511
+tp512
+a(S'learning cycle'
+p513
+g2
+(g6
+S"n'\xe8l]r\xd1?"
+p514
+tp515
+Rp516
+tp517
+a(S'knowledge integration'
+p518
+g2
+(g6
+S'R\xe5\xef\xc3\xben\xd1?'
+p519
+tp520
+Rp521
+tp522
+a(S'the book of learning and forgetting'
+p523
+g2
+(g6
+S'\xbbw`\xf2vm\xd1?'
+p524
+tp525
+Rp526
+tp527
+a(S'project-based learning'
+p528
+g2
+(g6
+S'\xd2|\x04\xb3\xbfi\xd1?'
+p529
+tp530
+Rp531
+tp532
+a(S'melodic learning'
+p533
+g2
+(g6
+S'\xbfR\x8b\x10\xdb^\xd1?'
+p534
+tp535
+Rp536
+tp537
+a(S'distributed learning'
+p538
+g2
+(g6
+S'<\n\xc8\xfe\xe4X\xd1?'
+p539
+tp540
+Rp541
+tp542
+a(S'action model learning'
+p543
+g2
+(g6
+S'\xef77\x8d@P\xd1?'
+p544
+tp545
+Rp546
+tp547
+a(S'andragogy'
+p548
+g2
+(g6
+S'\xaa\x17\x8ci7P\xd1?'
+p549
+tp550
+Rp551
+tp552
+a(S'outline of open educational resources'
+p553
+g2
+(g6
+S'\x08[\x9fp\x14M\xd1?'
+p554
+tp555
+Rp556
+tp557
+a(S'learning commons'
+p558
+g2
+(g6
+S'8P\xeas$G\xd1?'
+p559
+tp560
+Rp561
+tp562
+a(S'motor learning'
+p563
+g2
+(g6
+S'%O/\x19\xb08\xd1?'
+p564
+tp565
+Rp566
+tp567
+a(S'wikiversity'
+p568
+g2
+(g6
+S'\xee,7m\x04"\xd1?'
+p569
+tp570
+Rp571
+tp572
+a(S'student approaches to learning'
+p573
+g2
+(g6
+S'\x12\x16\xbb\xf0K \xd1?'
+p574
+tp575
+Rp576
+tp577
+a(S'international society of the learning sciences'
+p578
+g2
+(g6
+S'\x9a\xb31\x9e\x7f\x1e\xd1?'
+p579
+tp580
+Rp581
+tp582
+a(S'gamification of learning'
+p583
+g2
+(g6
+S'\xc7\xe8\xb6A\\\r\xd1?'
+p584
+tp585
+Rp586
+tp587
+a(S'social software in education'
+p588
+g2
+(g6
+S'HG\x96\xbf\xa3\x0b\xd1?'
+p589
+tp590
+Rp591
+tp592
+a(S'chief knowledge officer'
+p593
+g2
+(g6
+S'\xfc\xe6H\xa9\xf0\x06\xd1?'
+p594
+tp595
+Rp596
+tp597
+a(S'open-source learning'
+p598
+g2
+(g6
+S'\x05\xcf\xc3R\xf1\xf9\xd0?'
+p599
+tp600
+Rp601
+tp602
+a(S'glossary of education terms (a\xe2\x80\x93c)'
+p603
+g2
+(g6
+S'\xc3yxD\xc6\xe4\xd0?'
+p604
+tp605
+Rp606
+tp607
+a(S'glossary of education terms (d\xe2\x80\x93f)'
+p608
+g2
+(g6
+S'\xf1\xa9\x90\xac\x82\xda\xd0?'
+p609
+tp610
+Rp611
+tp612
+a(S'constructivism (philosophy of education)'
+p613
+g2
+(g6
+S'\x03\x01\x83,\xd5\xd9\xd0?'
+p614
+tp615
+Rp616
+tp617
+a(S'nonformal learning'
+p618
+g2
+(g6
+S'\x19f\xc5\xc2\xa7\xd5\xd0?'
+p619
+tp620
+Rp621
+tp622
+a(S'caroline haythornthwaite'
+p623
+g2
+(g6
+S'\xc5Bg\xf5\xbb\xc7\xd0?'
+p624
+tp625
+Rp626
+tp627
+a(S'mobile-assisted language learning'
+p628
+g2
+(g6
+S'UK\xa1\x82\xc0\xc5\xd0?'
+p629
+tp630
+Rp631
+tp632
+a(S'transfer of learning'
+p633
+g2
+(g6
+S"a!\x02B'\xc4\xd0?"
+p634
+tp635
+Rp636
+tp637
+a(S'litmos'
+p638
+g2
+(g6
+S'\ru\xd6;\xda\xb6\xd0?'
+p639
+tp640
+Rp641
+tp642
+a(S'online learning community'
+p643
+g2
+(g6
+S'VR\x9d\x1e\xef\xb3\xd0?'
+p644
+tp645
+Rp646
+tp647
+a(S'learningni'
+p648
+g2
+(g6
+S'\xd6g\xea\xc5:\xa8\xd0?'
+p649
+tp650
+Rp651
+tp652
+a(S'learnstyle'
+p653
+g2
+(g6
+S'B\x01\x93\xec\xfb\xa3\xd0?'
+p654
+tp655
+Rp656
+tp657
+a(S'games and learning'
+p658
+g2
+(g6
+S'\xb6\x96\x9f9\xf1\xa2\xd0?'
+p659
+tp660
+Rp661
+tp662
+a(S'glossary of education terms (g\xe2\x80\x93l)'
+p663
+g2
+(g6
+S'\xc9\x83e\xb52\x98\xd0?'
+p664
+tp665
+Rp666
+tp667
+a(S'observational learning'
+p668
+g2
+(g6
+S'"\xedsi\xac\x8e\xd0?'
+p669
+tp670
+Rp671
+tp672
+a(S'small group learning'
+p673
+g2
+(g6
+S'\x9c7\x15\x03c\x89\xd0?'
+p674
+tp675
+Rp676
+tp677
+a(S'problem-based learning'
+p678
+g2
+(g6
+S'\xf0\xa0.\x04u\x88\xd0?'
+p679
+tp680
+Rp681
+tp682
+a(S'personal knowledge management'
+p683
+g2
+(g6
+S'\x95S2+\xa2\x86\xd0?'
+p684
+tp685
+Rp686
+tp687
+a(S'blended learning'
+p688
+g2
+(g6
+S'\x05\x98\xb5\x08\r\x82\xd0?'
+p689
+tp690
+Rp691
+tp692
+a(S'organizational memory'
+p693
+g2
+(g6
+S'\xc2\xbb\xf8\xac^}\xd0?'
+p694
+tp695
+Rp696
+tp697
+a(S'frontal instruction'
+p698
+g2
+(g6
+S'\x0fw\xb5\x1f\xb7a\xd0?'
+p699
+tp700
+Rp701
+tp702
+a(S'emantras'
+p703
+g2
+(g6
+S'4\x13\xc8\x0b\xa1]\xd0?'
+p704
+tp705
+Rp706
+tp707
+a(S'abcmouse.com early learning academy'
+p708
+g2
+(g6
+S'\xd2z\xd6\x89i]\xd0?'
+p709
+tp710
+Rp711
+tp712
+a(S'european foundation for quality in e-learning'
+p713
+g2
+(g6
+S'>mb\xd6\xf6[\xd0?'
+p714
+tp715
+Rp716
+tp717
+a(S'leadership for learning: the cambridge network'
+p718
+g2
+(g6
+S'r+Z:N[\xd0?'
+p719
+tp720
+Rp721
+tp722
+a(S'canadian council on learning'
+p723
+g2
+(g6
+S"f\x04'z\xe5>\xd0?"
+p724
+tp725
+Rp726
+tp727
+a(S'applied academics'
+p728
+g2
+(g6
+S'\xe5B\x8a\x18\x19;\xd0?'
+p729
+tp730
+Rp731
+tp732
+a(S'social learning'
+p733
+g2
+(g6
+S'b:p#\xcb3\xd0?'
+p734
+tp735
+Rp736
+tp737
+a(S'apex learning'
+p738
+g2
+(g6
+S'\x0c\x08\xb4Se/\xd0?'
+p739
+tp740
+Rp741
+tp742
+a(S'reading comprehension'
+p743
+g2
+(g6
+S'\x12\xf98\x9bc,\xd0?'
+p744
+tp745
+Rp746
+tp747
+a(S'competency-based learning'
+p748
+g2
+(g6
+S'\xbe\x90m\xb3\x9d&\xd0?'
+p749
+tp750
+Rp751
+tp752
+a(S'comprehension approach'
+p753
+g2
+(g6
+S'\xdaC7\xb7W\x1e\xd0?'
+p754
+tp755
+Rp756
+tp757
+a(S'the journal of the learning sciences'
+p758
+g2
+(g6
+S'N\x1e\xb6a\x14\x17\xd0?'
+p759
+tp760
+Rp761
+tp762
+a(S'learning curve (disambiguation)'
+p763
+g2
+(g6
+S'&\xeb\x1fox\x16\xd0?'
+p764
+tp765
+Rp766
+tp767
+a(S'scientific teaching'
+p768
+g2
+(g6
+S'\xc6>\xb9Ii\r\xd0?'
+p769
+tp770
+Rp771
+tp772
+a(S'augmented learning'
+p773
+g2
+(g6
+S'45.t\x91\n\xd0?'
+p774
+tp775
+Rp776
+tp777
+a(S'co-construction'
+p778
+g2
+(g6
+S'd(\tE\xd9\x05\xd0?'
+p779
+tp780
+Rp781
+tp782
+a(S'discovery learning'
+p783
+g2
+(g6
+S'#\xb1\xeb\xc3\x89\xf9\xcf?'
+p784
+tp785
+Rp786
+tp787
+a(S'caleb gattegno'
+p788
+g2
+(g6
+S'R\x8er^5\xf8\xcf?'
+p789
+tp790
+Rp791
+tp792
+a(S'science learning centres'
+p793
+g2
+(g6
+S'+\x8d1a\x0e\xf6\xcf?'
+p794
+tp795
+Rp796
+tp797
+a(S'reinforcement learning'
+p798
+g2
+(g6
+S'\x8d\x98]M&\xf0\xcf?'
+p799
+tp800
+Rp801
+tp802
+a(S'new line learning'
+p803
+g2
+(g6
+S'\x10\xbf\x8f\x01f\xe8\xcf?'
+p804
+tp805
+Rp806
+tp807
+a(S'institute of learning innovation'
+p808
+g2
+(g6
+S'\xfe\x9f\xe0 \xa1\xd8\xcf?'
+p809
+tp810
+Rp811
+tp812
+a(S'21st century skills'
+p813
+g2
+(g6
+S'\x887\x11)\x99\xcf\xcf?'
+p814
+tp815
+Rp816
+tp817
+a(S'personal learning network'
+p818
+g2
+(g6
+S'\xe8\xa7\x0f\xa9\xc1\xcd\xcf?'
+p819
+tp820
+Rp821
+tp822
+a(S'constructionism (learning theory)'
+p823
+g2
+(g6
+S'\x08\xca\x9d\x8d\xf7\xbd\xcf?'
+p824
+tp825
+Rp826
+tp827
+a(S'knowledge worker'
+p828
+g2
+(g6
+S'\xfe\x81,P\xc2\xbc\xcf?'
+p829
+tp830
+Rp831
+tp832
+a(S'patricia alexander'
+p833
+g2
+(g6
+S'7\x8f\xa9(\xf6\xb0\xcf?'
+p834
+tp835
+Rp836
+tp837
+a(S'knowledge management'
+p838
+g2
+(g6
+S'\xc6^\xb4\x91\x82\xac\xcf?'
+p839
+tp840
+Rp841
+tp842
+a(S'team learning'
+p843
+g2
+(g6
+S'\x95D\x85\xa8:\xa2\xcf?'
+p844
+tp845
+Rp846
+tp847
+a(S'fox learning systems'
+p848
+g2
+(g6
+S'-\xaf}\xcc\x15\x97\xcf?'
+p849
+tp850
+Rp851
+tp852
+a(S'educational psychology'
+p853
+g2
+(g6
+S'\xdcY\x9aA\x87\x92\xcf?'
+p854
+tp855
+Rp856
+tp857
+a(S'knowledge forum'
+p858
+g2
+(g6
+S'*\xc8\xad_hn\xcf?'
+p859
+tp860
+Rp861
+tp862
+a(S'topyx'
+p863
+g2
+(g6
+S'f\nt\x7f/l\xcf?'
+p864
+tp865
+Rp866
+tp867
+a(S'active learning (machine learning)'
+p868
+g2
+(g6
+S'\xd4\x94M\xa0\xb4k\xcf?'
+p869
+tp870
+Rp871
+tp872
+a(S'world bank institute'
+p873
+g2
+(g6
+S'\x86\x04/1VT\xcf?'
+p874
+tp875
+Rp876
+tp877
+a(S'scholarship of teaching and learning'
+p878
+g2
+(g6
+S'\xa7\xb2b\xb6\x1fM\xcf?'
+p879
+tp880
+Rp881
+tp882
+a(S'national learning network'
+p883
+g2
+(g6
+S'\xbb\xf7\xb3=)L\xcf?'
+p884
+tp885
+Rp886
+tp887
+a(S'second-language acquisition classroom research'
+p888
+g2
+(g6
+S"'v\x18f\xe83\xcf?"
+p889
+tp890
+Rp891
+tp892
+a(S'mastery learning'
+p893
+g2
+(g6
+S'\xdc\xc0G\x84M1\xcf?'
+p894
+tp895
+Rp896
+tp897
+a(S'personalized learning'
+p898
+g2
+(g6
+S'\xb1\x94K\xe5\xea,\xcf?'
+p899
+tp900
+Rp901
+tp902
+a(S'l. dee fink'
+p903
+g2
+(g6
+S'd\x1a\xb5\x82\xc0\x0f\xcf?'
+p904
+tp905
+Rp906
+tp907
+a(S'descriptive knowledge'
+p908
+g2
+(g6
+S'\xa8`\xa54\x94\n\xcf?'
+p909
+tp910
+Rp911
+tp912
+a(S'knowledge entrepreneurship'
+p913
+g2
+(g6
+S'\x1e\x92\x195\xbd\xf5\xce?'
+p914
+tp915
+Rp916
+tp917
+a(S'self-regulated learning'
+p918
+g2
+(g6
+S"\x1f'\xf4\xbd\xe2\xed\xce?"
+p919
+tp920
+Rp921
+tp922
+a(S'challenge-based learning'
+p923
+g2
+(g6
+S'W\xb7\x83\xdcb\xe4\xce?'
+p924
+tp925
+Rp926
+tp927
+a(S'knud illeris'
+p928
+g2
+(g6
+S'\xa8N\x90@\x10\xe3\xce?'
+p929
+tp930
+Rp931
+tp932
+a(S'activity-based learning in india'
+p933
+g2
+(g6
+S'\r\xc2\x8dT\xf4\xe0\xce?'
+p934
+tp935
+Rp936
+tp937
+a(S'outline of knowledge'
+p938
+g2
+(g6
+S'#\x92\xe0\xd9\xc1\xd9\xce?'
+p939
+tp940
+Rp941
+tp942
+a(S'universal design for learning'
+p943
+g2
+(g6
+S'x\xa3\xf6\xa1\xf0\xd5\xce?'
+p944
+tp945
+Rp946
+tp947
+a(S'constructivist teaching methods'
+p948
+g2
+(g6
+S'\xe8\x15r\x80\x84\xd0\xce?'
+p949
+tp950
+Rp951
+tp952
+a(S'index of education articles'
+p953
+g2
+(g6
+S'\xc9g\x87l\xe2\xce\xce?'
+p954
+tp955
+Rp956
+tp957
+a(S'flex model of learning'
+p958
+g2
+(g6
+S'/u\xf2Z\xe5\xc8\xce?'
+p959
+tp960
+Rp961
+tp962
+a(S'evidence-based education'
+p963
+g2
+(g6
+S'\xc7\xf1\xca\xca\xf0\xc5\xce?'
+p964
+tp965
+Rp966
+tp967
+a(S'programmed learning'
+p968
+g2
+(g6
+S'\xf2\x0f\x0b\xe0\xd7\xc2\xce?'
+p969
+tp970
+Rp971
+tp972
+a(S'8 learning management questions'
+p973
+g2
+(g6
+S'.-\xc7\x96\x12\xc1\xce?'
+p974
+tp975
+Rp976
+tp977
+a(S'concept learning'
+p978
+g2
+(g6
+S'}\xbeK\x1fy\xae\xce?'
+p979
+tp980
+Rp981
+tp982
+a(S'lams'
+p983
+g2
+(g6
+S',\xf3\xfa\xdee\xad\xce?'
+p984
+tp985
+Rp986
+tp987
+a(S'perceptual learning'
+p988
+g2
+(g6
+S'\xdbn\x86\\q\xac\xce?'
+p989
+tp990
+Rp991
+tp992
+a(S'learning management'
+p993
+g2
+(g6
+S'\xf4$\xf5\x1d\x86\xa5\xce?'
+p994
+tp995
+Rp996
+tp997
+a(S'speed reading'
+p998
+g2
+(g6
+S'L\x1e\xec=\xc1\xa4\xce?'
+p999
+tp1000
+Rp1001
+tp1002
+a(S'peter senge'
+p1003
+g2
+(g6
+S'L\x15\xebD\xaf\x9f\xce?'
+p1004
+tp1005
+Rp1006
+tp1007
+a(S'semi-supervised learning'
+p1008
+g2
+(g6
+S'\x87\x04\xb0}\xca\x9e\xce?'
+p1009
+tp1010
+Rp1011
+tp1012
+a(S'language mooc'
+p1013
+g2
+(g6
+S'3KT\x0b\xc3\x90\xce?'
+p1014
+tp1015
+Rp1016
+tp1017
+a(S'teaching method'
+p1018
+g2
+(g6
+S'Fj\x92\xb7Q\x90\xce?'
+p1019
+tp1020
+Rp1021
+tp1022
+a(S'learning rule'
+p1023
+g2
+(g6
+S"\xbf\x0e'\xef\x02\x87\xce?"
+p1024
+tp1025
+Rp1026
+tp1027
+a(S'online learning in higher education'
+p1028
+g2
+(g6
+S'\xb0!\x0b\x91\xfb\x83\xce?'
+p1029
+tp1030
+Rp1031
+tp1032
+a(S'school of creative learning'
+p1033
+g2
+(g6
+S'\xbd\xe6\xce\xcbz\x82\xce?'
+p1034
+tp1035
+Rp1036
+tp1037
+a(S'badrul khan'
+p1038
+g2
+(g6
+S'\xd4R?\xcf\x8d~\xce?'
+p1039
+tp1040
+Rp1041
+tp1042
+a(S'learning enterprises'
+p1043
+g2
+(g6
+S'\x14\xf4\xc0\x97\xa8z\xce?'
+p1044
+tp1045
+Rp1046
+tp1047
+a(S'glossary of education terms (m\xe2\x80\x93o)'
+p1048
+g2
+(g6
+S'G\n.\x9aNx\xce?'
+p1049
+tp1050
+Rp1051
+tp1052
+a(S'thematic learning'
+p1053
+g2
+(g6
+S'\x8fF\xde\x13\x04q\xce?'
+p1054
+tp1055
+Rp1056
+tp1057
+a(S'history of virtual learning environments in the 1990s'
+p1058
+g2
+(g6
+S'!\xcd\xa2\xc3\xb2b\xce?'
+p1059
+tp1060
+Rp1061
+tp1062
+a(S'metacognition'
+p1063
+g2
+(g6
+S'\x16h;\xd1EO\xce?'
+p1064
+tp1065
+Rp1066
+tp1067
+a(S"bloom's taxonomy"
+p1068
+g2
+(g6
+S'\xaf\x08\xf5\x91\x02N\xce?'
+p1069
+tp1070
+Rp1071
+tp1072
+a(S'robot learning'
+p1073
+g2
+(g6
+S'sr\xd9\xd3DF\xce?'
+p1074
+tp1075
+Rp1076
+tp1077
+a(S'knowledge transfer'
+p1078
+g2
+(g6
+S'e\x98\xa4\xc0=A\xce?'
+p1079
+tp1080
+Rp1081
+tp1082
+a(S'virtual collaborative learning'
+p1083
+g2
+(g6
+S'/%\x08\xe6\x04:\xce?'
+p1084
+tp1085
+Rp1086
+tp1087
+a(S'rote learning'
+p1088
+g2
+(g6
+S'\xc6K\xf3W\x8d8\xce?'
+p1089
+tp1090
+Rp1091
+tp1092
+a(S'computational learning theory'
+p1093
+g2
+(g6
+S'7\xbe\x05\x9f\xad4\xce?'
+p1094
+tp1095
+Rp1096
+tp1097
+a(S'motivation in second-language learning'
+p1098
+g2
+(g6
+S'D\xcfe\x90\x190\xce?'
+p1099
+tp1100
+Rp1101
+tp1102
+a(S'itworx clg'
+p1103
+g2
+(g6
+S'\xcb\xd9\xef\x93\xc9,\xce?'
+p1104
+tp1105
+Rp1106
+tp1107
+a(S'knowledge organization (management)'
+p1108
+g2
+(g6
+S'#\xe6\x8f\x1f\\,\xce?'
+p1109
+tp1110
+Rp1111
+tp1112
+a(S'european lifelong learning indicators'
+p1113
+g2
+(g6
+S'\x1c\x92\x1d\xf9j+\xce?'
+p1114
+tp1115
+Rp1116
+tp1117
+a(S'comparison of deep learning software/resources'
+p1118
+g2
+(g6
+S';!\xadi\xfd&\xce?'
+p1119
+tp1120
+Rp1121
+tp1122
+a(S'active learning in higher education'
+p1123
+g2
+(g6
+S'v\x18M\xf2\x0f$\xce?'
+p1124
+tp1125
+Rp1126
+tp1127
+a(S'domain-specific learning'
+p1128
+g2
+(g6
+S'\xc5\xc8;\xf8z \xce?'
+p1129
+tp1130
+Rp1131
+tp1132
+a(S'institute for research on learning'
+p1133
+g2
+(g6
+S'\xc4\xb8)/\xbc\x1d\xce?'
+p1134
+tp1135
+Rp1136
+tp1137
+a(S'instructional theory'
+p1138
+g2
+(g6
+S'a\x87^P\xd0\x11\xce?'
+p1139
+tp1140
+Rp1141
+tp1142
+a(S'open education'
+p1143
+g2
+(g6
+S'mp\xb8\x8d\xcf\xfa\xcd?'
+p1144
+tp1145
+Rp1146
+tp1147
+a(S'learning music'
+p1148
+g2
+(g6
+S'\xf3r\xfbj\xd5\xe8\xcd?'
+p1149
+tp1150
+Rp1151
+tp1152
+a(S'co-coaching'
+p1153
+g2
+(g6
+S'\x93\xbfx\x01\xdc\xbf\xcd?'
+p1154
+tp1155
+Rp1156
+tp1157
+a(S'dialogue education'
+p1158
+g2
+(g6
+S'K\x01h\xd6\xd7\xbc\xcd?'
+p1159
+tp1160
+Rp1161
+tp1162
+a(S'association for learning technology'
+p1163
+g2
+(g6
+S'\xa3\x0bK\x9aO\xb1\xcd?'
+p1164
+tp1165
+Rp1166
+tp1167
+a(S'child development of the indigenous peoples of the americas'
+p1168
+g2
+(g6
+S'M\xd4\xf3\xd4\xa2\xad\xcd?'
+p1169
+tp1170
+Rp1171
+tp1172
+a(S'pittsburgh science of learning center'
+p1173
+g2
+(g6
+S'\xf8\xc5YCb\xa1\xcd?'
+p1174
+tp1175
+Rp1176
+tp1177
+a(S'school organizational models'
+p1178
+g2
+(g6
+S"'.\xb1\xc0\xcc\x9f\xcd?"
+p1179
+tp1180
+Rp1181
+tp1182
+a(S'national curriculum framework (ncf 2005)'
+p1183
+g2
+(g6
+S'\xc5\xbe<\xb4\x06\x97\xcd?'
+p1184
+tp1185
+Rp1186
+tp1187
+a(S'school of one'
+p1188
+g2
+(g6
+S'c\x1c\xe9e\x84\x8c\xcd?'
+p1189
+tp1190
+Rp1191
+tp1192
+a(S'community education'
+p1193
+g2
+(g6
+S'\x9biQM\n\x8b\xcd?'
+p1194
+tp1195
+Rp1196
+tp1197
+a(S'assessment in computer-supported collaborative learning'
+p1198
+g2
+(g6
+S'=\xab\xe2h\xb4\x8a\xcd?'
+p1199
+tp1200
+Rp1201
+tp1202
+a(S'knowledge'
+p1203
+g2
+(g6
+S'\xa8\x02o\xd5f|\xcd?'
+p1204
+tp1205
+Rp1206
+tp1207
+a(S'educational video game'
+p1208
+g2
+(g6
+S'\x1e\xf5K*kx\xcd?'
+p1209
+tp1210
+Rp1211
+tp1212
+a(S'language learning strategies'
+p1213
+g2
+(g6
+S'\xf6\xc0>\x85dn\xcd?'
+p1214
+tp1215
+Rp1216
+tp1217
+a(S'inquiry-based learning'
+p1218
+g2
+(g6
+S'\xc63\xc5\xf1mf\xcd?'
+p1219
+tp1220
+Rp1221
+tp1222
+a(S'meta learning'
+p1223
+g2
+(g6
+S'\xe3\xf0\xc88\x9ac\xcd?'
+p1224
+tp1225
+Rp1226
+tp1227
+a(S'learning leaders'
+p1228
+g2
+(g6
+S'_\xd3b\x18\x8a`\xcd?'
+p1229
+tp1230
+Rp1231
+tp1232
+a(S'confidence-based learning'
+p1233
+g2
+(g6
+S'_\x86\xf6\x82\x85]\xcd?'
+p1234
+tp1235
+Rp1236
+tp1237
+a(S'online educa berlin'
+p1238
+g2
+(g6
+S'^\x80\x08%\xedX\xcd?'
+p1239
+tp1240
+Rp1241
+tp1242
+a(S'design-based learning'
+p1243
+g2
+(g6
+S'\xad\x1e\x1d\xc1\x7fK\xcd?'
+p1244
+tp1245
+Rp1246
+tp1247
+a(S'formal learning'
+p1248
+g2
+(g6
+S'\xb1\x02\xa2f\x18F\xcd?'
+p1249
+tp1250
+Rp1251
+tp1252
+a(S'the fifth discipline'
+p1253
+g2
+(g6
+S'\xfcO\x05\xb0\xe8>\xcd?'
+p1254
+tp1255
+Rp1256
+tp1257
+a(S'social knowledge management'
+p1258
+g2
+(g6
+S'\xc0k\xad\xb8\x946\xcd?'
+p1259
+tp1260
+Rp1261
+tp1262
+a(S'community service'
+p1263
+g2
+(g6
+S'\x06\xbe\x99\xa9\xaf5\xcd?'
+p1264
+tp1265
+Rp1266
+tp1267
+a(S'indiana e-learning academy'
+p1268
+g2
+(g6
+S'J+\x82\xfe~1\xcd?'
+p1269
+tp1270
+Rp1271
+tp1272
+a(S'social media language learning'
+p1273
+g2
+(g6
+S'1\x81\x80\xef\x1a1\xcd?'
+p1274
+tp1275
+Rp1276
+tp1277
+a(S'experiential education'
+p1278
+g2
+(g6
+S'\x1eL\x1a&\xa6)\xcd?'
+p1279
+tp1280
+Rp1281
+tp1282
+a(S'social learning in animals'
+p1283
+g2
+(g6
+S'm\xd2\xc8?\'"\xcd?'
+p1284
+tp1285
+Rp1286
+tp1287
+a(S'reading (process)'
+p1288
+g2
+(g6
+S'H5\x9a9\x8b\x12\xcd?'
+p1289
+tp1290
+Rp1291
+tp1292
+a(S'knowledge divide'
+p1293
+g2
+(g6
+S'\x91]v\xa5|\x0e\xcd?'
+p1294
+tp1295
+Rp1296
+tp1297
+a(S'aslerd'
+p1298
+g2
+(g6
+S'\xe2\xf8\x1d\xac\x82\t\xcd?'
+p1299
+tp1300
+Rp1301
+tp1302
+a(S'experiential business learning'
+p1303
+g2
+(g6
+S'm`\x9c8f\x01\xcd?'
+p1304
+tp1305
+Rp1306
+tp1307
+a(S'learning theory'
+p1308
+g2
+(g6
+S'\xfaZ\xcc~\xfd\xf6\xcc?'
+p1309
+tp1310
+Rp1311
+tp1312
+a(S'study skills'
+p1313
+g2
+(g6
+S'\xa3\x93~\xdb:\xf4\xcc?'
+p1314
+tp1315
+Rp1316
+tp1317
+a(S'learning store'
+p1318
+g2
+(g6
+S'\x8as/\xb1S\xe5\xcc?'
+p1319
+tp1320
+Rp1321
+tp1322
+a(S'laboratory for interactive learning technologies'
+p1323
+g2
+(g6
+S'"\xfe(dy\xd0\xcc?'
+p1324
+tp1325
+Rp1326
+tp1327
+a(S'bluedrop performance learning'
+p1328
+g2
+(g6
+S'\xce1\x0b\x10\xf3\xc9\xcc?'
+p1329
+tp1330
+Rp1331
+tp1332
+a(S'garden-based learning'
+p1333
+g2
+(g6
+S'\x05\xc4z\xaa#\xbe\xcc?'
+p1334
+tp1335
+Rp1336
+tp1337
+a(S'chief learning officer'
+p1338
+g2
+(g6
+S'\xac;\xfeF\x90\xa5\xcc?'
+p1339
+tp1340
+Rp1341
+tp1342
+a(S'thomas sticht'
+p1343
+g2
+(g6
+S'\xf7Z\xf6\x8f\xdf\x9f\xcc?'
+p1344
+tp1345
+Rp1346
+tp1347
+a(S'history of virtual learning environments'
+p1348
+g2
+(g6
+S'\xa6L\x05\xe9\x95\x96\xcc?'
+p1349
+tp1350
+Rp1351
+tp1352
+a(S'service-learning in engineering education'
+p1353
+g2
+(g6
+S'0\xb1\xf7\x1f\x8d\x94\xcc?'
+p1354
+tp1355
+Rp1356
+tp1357
+a(S'differentiated instruction'
+p1358
+g2
+(g6
+S'\xf2\xf4\x19\xaf\x81\x94\xcc?'
+p1359
+tp1360
+Rp1361
+tp1362
+a(S'learning analytics'
+p1363
+g2
+(g6
+S'L\x8eU\xedv\x88\xcc?'
+p1364
+tp1365
+Rp1366
+tp1367
+a(S'spaced learning'
+p1368
+g2
+(g6
+S'\x90Z\xde\x0c\xaf}\xcc?'
+p1369
+tp1370
+Rp1371
+tp1372
+a(S'center for universal education'
+p1373
+g2
+(g6
+S'!\x88\x9e\xd5\x9fs\xcc?'
+p1374
+tp1375
+Rp1376
+tp1377
+a(S'marlene scardamalia'
+p1378
+g2
+(g6
+S'\xa9\xab9\x95\xfdr\xcc?'
+p1379
+tp1380
+Rp1381
+tp1382
+a(S'knowledge building community'
+p1383
+g2
+(g6
+S'\x97\x988\xf8Zk\xcc?'
+p1384
+tp1385
+Rp1386
+tp1387
+a(S'supervised learning'
+p1388
+g2
+(g6
+S'\t*\x84\x1d\xe3Y\xcc?'
+p1389
+tp1390
+Rp1391
+tp1392
+a(S'learning ally'
+p1393
+g2
+(g6
+S'\xbe\x00D\x0fVT\xcc?'
+p1394
+tp1395
+Rp1396
+tp1397
+a(S'adaptive learning'
+p1398
+g2
+(g6
+S'\xaa\xe5\t\x82[S\xcc?'
+p1399
+tp1400
+Rp1401
+tp1402
+a(S'personal knowledge networking'
+p1403
+g2
+(g6
+S'\xa6\xc9D\x96XR\xcc?'
+p1404
+tp1405
+Rp1406
+tp1407
+a(S'bbc learning'
+p1408
+g2
+(g6
+S'V)p}\xb6Q\xcc?'
+p1409
+tp1410
+Rp1411
+tp1412
+a(S'international learning unit'
+p1413
+g2
+(g6
+S'7w\x99\x9b\xbfN\xcc?'
+p1414
+tp1415
+Rp1416
+tp1417
+a(S'john d. bransford'
+p1418
+g2
+(g6
+S'\xd2\x1c\xeaA\xadE\xcc?'
+p1419
+tp1420
+Rp1421
+tp1422
+a(S'cognitive emotional pedagogy'
+p1423
+g2
+(g6
+S'\xce\xb0\x18k>5\xcc?'
+p1424
+tp1425
+Rp1426
+tp1427
+a(S'alejandro armellini'
+p1428
+g2
+(g6
+S'\xb4KGR\x043\xcc?'
+p1429
+tp1430
+Rp1431
+tp1432
+a(S'smart moves (carla hannaford book)'
+p1433
+g2
+(g6
+S'\x91F\x81\x0f\x94/\xcc?'
+p1434
+tp1435
+Rp1436
+tp1437
+a(S'keris'
+p1438
+g2
+(g6
+S'\xec\n\x0b\x08G"\xcc?'
+p1439
+tp1440
+Rp1441
+tp1442
+a(S'research in learning technology'
+p1443
+g2
+(g6
+S'\xc9\x9f\x9eD\x82!\xcc?'
+p1444
+tp1445
+Rp1446
+tp1447
+a(S'cognitivism (psychology)'
+p1448
+g2
+(g6
+S'I\xf0S$\x02\t\xcc?'
+p1449
+tp1450
+Rp1451
+tp1452
+a(S'paradisolms'
+p1453
+g2
+(g6
+S'K1W~;\x05\xcc?'
+p1454
+tp1455
+Rp1456
+tp1457
+a(S'eager learning'
+p1458
+g2
+(g6
+S'\x0c\xa4\xaa\x01^\xf6\xcb?'
+p1459
+tp1460
+Rp1461
+tp1462
+a(S'smart.fm'
+p1463
+g2
+(g6
+S'K\xa4\xc5F{\xee\xcb?'
+p1464
+tp1465
+Rp1466
+tp1467
+a(S'work-based learning'
+p1468
+g2
+(g6
+S'\xf5|?y\r\xec\xcb?'
+p1469
+tp1470
+Rp1471
+tp1472
+a(S'cambium learning group'
+p1473
+g2
+(g6
+S'\xfd#\xf4\xc6\x83\xc4\xcb?'
+p1474
+tp1475
+Rp1476
+tp1477
+a(S'jei learning'
+p1478
+g2
+(g6
+S'\xd2\x82;-\xc3\xba\xcb?'
+p1479
+tp1480
+Rp1481
+tp1482
+a(S'national service learning conference'
+p1483
+g2
+(g6
+S'5?\xc5\x14\x99\xb4\xcb?'
+p1484
+tp1485
+Rp1486
+tp1487
+a(S'technology integration'
+p1488
+g2
+(g6
+S'9\x9b\xbb\xc3*\xb1\xcb?'
+p1489
+tp1490
+Rp1491
+tp1492
+a(S'centre for excellence in teaching and learning through design'
+p1493
+g2
+(g6
+S'b\x0e\xcci\xb2\xae\xcb?'
+p1494
+tp1495
+Rp1496
+tp1497
+a(S'conditions of learning'
+p1498
+g2
+(g6
+S'z\xa9\xd3\x87\x85\xae\xcb?'
+p1499
+tp1500
+Rp1501
+tp1502
+a(S'community of practice'
+p1503
+g2
+(g6
+S'\xdc#\x9dV\xcf\xad\xcb?'
+p1504
+tp1505
+Rp1506
+tp1507
+a(S'instructional design'
+p1508
+g2
+(g6
+S'\xfb\xfbl\xcd.\x9d\xcb?'
+p1509
+tp1510
+Rp1511
+tp1512
+a.

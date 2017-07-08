@@ -1,0 +1,2728 @@
+(lp0
+(S'carnegie mellon university'
+p1
+cnumpy.core.multiarray
+scalar
+p2
+(cnumpy
+dtype
+p3
+(S'f8'
+p4
+I0
+I1
+tp5
+Rp6
+(I3
+S'<'
+p7
+NNNI-1
+I-1
+I0
+tp8
+bS'\x01\x00\x00\x00\x00\x00\xf0?'
+p9
+tp10
+Rp11
+tp12
+a(S'jared cohon'
+p13
+g2
+(g6
+S'l\x1e8\xca\xde\xc9\xe7?'
+p14
+tp15
+Rp16
+tp17
+a(S'mellon institute of industrial research'
+p18
+g2
+(g6
+S'\x9b\xfa\xb9\x17Q\x18\xe7?'
+p19
+tp20
+Rp21
+tp22
+a(S'language technologies institute'
+p23
+g2
+(g6
+S'\x83Zf\x99\x82\xc0\xe6?'
+p24
+tp25
+Rp26
+tp27
+a(S'carnegie mellon college of engineering'
+p28
+g2
+(g6
+S'\x95\xf7\x9bR8z\xe6?'
+p29
+tp30
+Rp31
+tp32
+a(S'mellon college of science'
+p33
+g2
+(g6
+S'jJ\xbd\xc7\xf03\xe6?'
+p34
+tp35
+Rp36
+tp37
+a(S'arthur hamerschlag'
+p38
+g2
+(g6
+S'E\x1e\xe3\xd2D\x9a\xe5?'
+p39
+tp40
+Rp41
+tp42
+a(S'mellon'
+p43
+g2
+(g6
+S'gs\x0c\x1e\x82"\xe5?'
+p44
+tp45
+Rp46
+tp47
+a(S'rich lackner'
+p48
+g2
+(g6
+S'\xa6\x07{\x04\xdc\n\xe5?'
+p49
+tp50
+Rp51
+tp52
+a(S'carnegie mellon silicon valley'
+p53
+g2
+(g6
+S'0\xfc\xaf\x12\xc3\xd2\xe4?'
+p54
+tp55
+Rp56
+tp57
+a(S'carnegie mellon school of music'
+p58
+g2
+(g6
+S'}\xeey+\xa6\xc4\xe4?'
+p59
+tp60
+Rp61
+tp62
+a(S'carnegie mellon university, australia'
+p63
+g2
+(g6
+S'.\xfdy\x05\xd7\xbd\xe4?'
+p64
+tp65
+Rp66
+tp67
+a(S'carnegie mellon college of fine arts'
+p68
+g2
+(g6
+S'`\x10t$Yl\xe4?'
+p69
+tp70
+Rp71
+tp72
+a(S'carnegie mellon university in qatar'
+p73
+g2
+(g6
+S'\xfb\xd8|\xc1yK\xe4?'
+p74
+tp75
+Rp76
+tp77
+a(S'mellon family'
+p78
+g2
+(g6
+S"!\xca\xeb\xc2\x00'\xe4?"
+p79
+tp80
+Rp81
+tp82
+a(S'paul mellon'
+p83
+g2
+(g6
+S'\xce\xdf\x06\xff\x18\xfe\xe3?'
+p84
+tp85
+Rp86
+tp87
+a(S'miller gallery at carnegie mellon university'
+p88
+g2
+(g6
+S'\x7fD\xff\xe0$\xbb\xe3?'
+p89
+tp90
+Rp91
+tp92
+a(S'priya narasimhan'
+p93
+g2
+(g6
+S'\x01^\xae\xd1q\xb6\xe3?'
+p94
+tp95
+Rp96
+tp97
+a(S'carnegie mellon university press'
+p98
+g2
+(g6
+S'J|\xd0\x17\x17\x95\xe3?'
+p99
+tp100
+Rp101
+tp102
+a(S'andrew mellon'
+p103
+g2
+(g6
+S'\x8c\x1d\xff\x17\xfb\x93\xe3?'
+p104
+tp105
+Rp106
+tp107
+a(S'john warner (college president)'
+p108
+g2
+(g6
+S'\xec\xba[\xbcD\x93\xe3?'
+p109
+tp110
+Rp111
+tp112
+a(S'peter cooley'
+p113
+g2
+(g6
+S'\x82\x12oS\xd7\x81\xe3?'
+p114
+tp115
+Rp116
+tp117
+a(S'richard king mellon'
+p118
+g2
+(g6
+S'!\x03\xfa\x99\xc9s\xe3?'
+p119
+tp120
+Rp121
+tp122
+a(S'william larimer mellon, sr.'
+p123
+g2
+(g6
+S'\xeb\xd1%\x9b!7\xe3?'
+p124
+tp125
+Rp126
+tp127
+a(S'integrated innovation institute'
+p128
+g2
+(g6
+S'\xd5\x1bV\t\xd76\xe3?'
+p129
+tp130
+Rp131
+tp132
+a(S'thomas mellon'
+p133
+g2
+(g6
+S"\xbb\xbaS\x87\xf2'\xe3?"
+p134
+tp135
+Rp136
+tp137
+a(S'richard b. mellon'
+p138
+g2
+(g6
+S'\x11\x95U.\x7f\xee\xe2?'
+p139
+tp140
+Rp141
+tp142
+a(S'carnegie'
+p143
+g2
+(g6
+S'\xb99\xd1\xcc>\x9d\xe2?'
+p144
+tp145
+Rp146
+tp147
+a(S'andrew carnegie'
+p148
+g2
+(g6
+S'T\xebk\x9c\x0b\x96\xe2?'
+p149
+tp150
+Rp151
+tp152
+a(S'madeira interactive technologies institute'
+p153
+g2
+(g6
+S'\xc3|\xedQR\x8a\xe2?'
+p154
+tp155
+Rp156
+tp157
+a(S'jack lee (american football)'
+p158
+g2
+(g6
+S'{G\x83\x9b\xd4|\xe2?'
+p159
+tp160
+Rp161
+tp162
+a(S'matthew mellon'
+p163
+g2
+(g6
+S'\xa0\n<R\xd5p\xe2?'
+p164
+tp165
+Rp166
+tp167
+a(S'william f. pounds'
+p168
+g2
+(g6
+S'B\x9d8_\xdeZ\xe2?'
+p169
+tp170
+Rp171
+tp172
+a(S'andrew w. mellon foundation'
+p173
+g2
+(g6
+S'C1?\xe5TP\xe2?'
+p174
+tp175
+Rp176
+tp177
+a(S'henry hornbostel'
+p178
+g2
+(g6
+S'\x8bD\xb6\x9f\xacD\xe2?'
+p179
+tp180
+Rp181
+tp182
+a(S'sarah mellon'
+p183
+g2
+(g6
+S'\x1e\xb2\xa6X\x96)\xe2?'
+p184
+tp185
+Rp186
+tp187
+a(S'university athletic association'
+p188
+g2
+(g6
+S'\xdf\xa2\x01^S\x0e\xe2?'
+p189
+tp190
+Rp191
+tp192
+a(S'mellon financial'
+p193
+g2
+(g6
+S'\xbf\xaca\xf4\xc9\x02\xe2?'
+p194
+tp195
+Rp196
+tp197
+a(S'edward mellon'
+p198
+g2
+(g6
+S'HW>Qx\xff\xe1?'
+p199
+tp200
+Rp201
+tp202
+a(S'margaret morrison carnegie college'
+p203
+g2
+(g6
+S'\xeb\x84\x95\x86\x00\xfd\xe1?'
+p204
+tp205
+Rp206
+tp207
+a(S'paul s. goodman'
+p208
+g2
+(g6
+S'"8Lg\\\xcd\xe1?'
+p209
+tp210
+Rp211
+tp212
+a(S'carnegie school'
+p213
+g2
+(g6
+S'\xdcF\xb2\xb6\x1e\xcb\xe1?'
+p214
+tp215
+Rp216
+tp217
+a(S'the bank of new york mellon'
+p218
+g2
+(g6
+S'\xc1\x96\xffX\xaa\xa5\xe1?'
+p219
+tp220
+Rp221
+tp222
+a(S'bennett mccallum'
+p223
+g2
+(g6
+S'x\xee\x10\xe2q\xa1\xe1?'
+p224
+tp225
+Rp226
+tp227
+a(S'jay meek'
+p228
+g2
+(g6
+S'\xee\x9f\xc2\xf7\xb8\x8e\xe1?'
+p229
+tp230
+Rp231
+tp232
+a(S'christopher mellon'
+p233
+g2
+(g6
+S'\x04*\xa7a\x8c[\xe1?'
+p234
+tp235
+Rp236
+tp237
+a(S'carnegie mellon tartans football'
+p238
+g2
+(g6
+S'\x0f\n\xbe\x19\xdcY\xe1?'
+p239
+tp240
+Rp241
+tp242
+a(S'james h. morris'
+p243
+g2
+(g6
+S'8\xa1\x04k\xea;\xe1?'
+p244
+tp245
+Rp246
+tp247
+a(S'alan w. black'
+p248
+g2
+(g6
+S'\x16r\xd9%\xe93\xe1?'
+p249
+tp250
+Rp251
+tp252
+a(S'uscgc mellon (whec-717)'
+p253
+g2
+(g6
+S'\xd0\xd6\x011.\x1d\xe1?'
+p254
+tp255
+Rp256
+tp257
+a(S'jed allen harris'
+p258
+g2
+(g6
+S'\xdf\x8f3]\xde\x14\xe1?'
+p259
+tp260
+Rp261
+tp262
+a(S'jeff eppinger'
+p263
+g2
+(g6
+S'\x11\x8e\x81\x11\x04\x02\xe1?'
+p264
+tp265
+Rp266
+tp267
+a(S'carnegie hall, inc.'
+p268
+g2
+(g6
+S'm\x01\x83Hn\x01\xe1?'
+p269
+tp270
+Rp271
+tp272
+a(S'red whittaker'
+p273
+g2
+(g6
+S'\x07#\xb1xh\xf9\xe0?'
+p274
+tp275
+Rp276
+tp277
+a(S'carnegie mellon school of computer science'
+p278
+g2
+(g6
+S'\x7f\x12L\x81\x9f\xf7\xe0?'
+p279
+tp280
+Rp281
+tp282
+a(S'kenneth koedinger'
+p283
+g2
+(g6
+S'wp\xe6\x1b\x19\xf2\xe0?'
+p284
+tp285
+Rp286
+tp287
+a(S'carnegie hall (disambiguation)'
+p288
+g2
+(g6
+S'\x9b\xfa,\xa5\xe1\x95\xe0?'
+p289
+tp290
+Rp291
+tp292
+a(S'hugh d. young'
+p293
+g2
+(g6
+S'?;"\xa9\x91y\xe0?'
+p294
+tp295
+Rp296
+tp297
+a(S'bonnie e. john'
+p298
+g2
+(g6
+S'\xc0\x8c\x8feAC\xe0?'
+p299
+tp300
+Rp301
+tp302
+a(S'robert mehrabian'
+p303
+g2
+(g6
+S'\x05\x1dQ\xb9vA\xe0?'
+p304
+tp305
+Rp306
+tp307
+a(S'mellon square'
+p308
+g2
+(g6
+S'\x88-\x918\x10@\xe0?'
+p309
+tp310
+Rp311
+tp312
+a(S'richard cyert'
+p313
+g2
+(g6
+S'\x08\xb9\xfa\xd7\x807\xe0?'
+p314
+tp315
+Rp316
+tp317
+a(S'wireless andrew'
+p318
+g2
+(g6
+S'cu\x17\xd0\xc8\x10\xe0?'
+p319
+tp320
+Rp321
+tp322
+a(S'525 william penn place'
+p323
+g2
+(g6
+S'\x9f\xee\xee\xe7\xe1\xd2\xdf?'
+p324
+tp325
+Rp326
+tp327
+a(S'nico habermann'
+p328
+g2
+(g6
+S'h\xc3e4\xa5\xa5\xdf?'
+p329
+tp330
+Rp331
+tp332
+a(S'rachel lambert mellon'
+p333
+g2
+(g6
+S'i/\xb5\x1f\x98\x98\xdf?'
+p334
+tp335
+Rp336
+tp337
+a(S'the cecilia chorus of new york'
+p338
+g2
+(g6
+S'\xcf]\x04\x105s\xdf?'
+p339
+tp340
+Rp341
+tp342
+a(S'carnegie library (disambiguation)'
+p343
+g2
+(g6
+S'@\nl\x00\xaae\xdf?'
+p344
+tp345
+Rp346
+tp347
+a(S'harry humphry mellon'
+p348
+g2
+(g6
+S"\xd5\x88\x0c]'c\xdf?"
+p349
+tp350
+Rp351
+tp352
+a(S'carnegie museums of pittsburgh'
+p353
+g2
+(g6
+S'\xa2\xc6\xf0/\xb8Q\xdf?'
+p354
+tp355
+Rp356
+tp357
+a(S'herbert s. scott'
+p358
+g2
+(g6
+S'p#\x8a\x10L\x1f\xdf?'
+p359
+tp360
+Rp361
+tp362
+a(S'carnegie library'
+p363
+g2
+(g6
+S'\xd9a\x84T\x8c\x10\xdf?'
+p364
+tp365
+Rp366
+tp367
+a(S'carnegie foundation'
+p368
+g2
+(g6
+S'K\\\xde\x05\x9f\x01\xdf?'
+p369
+tp370
+Rp371
+tp372
+a(S'tamara mellon'
+p373
+g2
+(g6
+S'\xa1\x8c\xba\xd4g\xc0\xde?'
+p374
+tp375
+Rp376
+tp377
+a(S'finn e. kydland'
+p378
+g2
+(g6
+S'\x953\xc0\x872\xc0\xde?'
+p379
+tp380
+Rp381
+tp382
+a(S'carnegie, oklahoma'
+p383
+g2
+(g6
+S'\xd5]a\xc5\x89\xba\xde?'
+p384
+tp385
+Rp386
+tp387
+a(S'carnegie hall'
+p388
+g2
+(g6
+S'\xc1\xe2\x8e\x92\xfd\xac\xde?'
+p389
+tp390
+Rp391
+tp392
+a(S'john skoyles (poet)'
+p393
+g2
+(g6
+S'T\x1a\x81\xbc\x1d\x87\xde?'
+p394
+tp395
+Rp396
+tp397
+a(S'carnegie mellon cylab'
+p398
+g2
+(g6
+S'\x93T{\xb8\xfdP\xde?'
+p399
+tp400
+Rp401
+tp402
+a(S'andrew carnegie free library & music hall (carnegie, pennsylvania)'
+p403
+g2
+(g6
+S'KE\xc0\xc1<L\xde?'
+p404
+tp405
+Rp406
+tp407
+a(S'occupy pittsburgh'
+p408
+g2
+(g6
+S'\x0e\x0f\xec\xd5\x04\x04\xde?'
+p409
+tp410
+Rp411
+tp412
+a(S'tepper school of business'
+p413
+g2
+(g6
+S'|\xe5f#\xb0\x01\xde?'
+p414
+tp415
+Rp416
+tp417
+a(S'jeff friedman'
+p418
+g2
+(g6
+S'\xa0o\x00J\xbb\xf7\xdd?'
+p419
+tp420
+Rp421
+tp422
+a(S'everard mott williams'
+p423
+g2
+(g6
+S'R+\x90?\xfa\xd8\xdd?'
+p424
+tp425
+Rp426
+tp427
+a(S'angel g. jordan'
+p428
+g2
+(g6
+S'\xa7\x97\xc5\xc1/\xbd\xdd?'
+p429
+tp430
+Rp431
+tp432
+a(S'carnegie endowment for international peace'
+p433
+g2
+(g6
+S'd\x14:\x9c\xe4\xb0\xdd?'
+p434
+tp435
+Rp436
+tp437
+a(S'carnegie community centre'
+p438
+g2
+(g6
+S'\xb5X)\xef\x07\xad\xdd?'
+p439
+tp440
+Rp441
+tp442
+a(S'ariel d. procaccia'
+p443
+g2
+(g6
+S'\x96\xa7\x12\xb1\xd1\x9d\xdd?'
+p444
+tp445
+Rp446
+tp447
+a(S'howard harpster'
+p448
+g2
+(g6
+S"7V\xad'B\x9c\xdd?"
+p449
+tp450
+Rp451
+tp452
+a(S'mellon park'
+p453
+g2
+(g6
+S'V\x07\xd9\x0f\xcb\x86\xdd?'
+p454
+tp455
+Rp456
+tp457
+a(S't.e. schlesinger'
+p458
+g2
+(g6
+S'\xfc\x8f5\xca\xf6m\xdd?'
+p459
+tp460
+Rp461
+tp462
+a(S'carnegie medal of philanthropy'
+p463
+g2
+(g6
+S'\xcb\xa6s\xe3\xd7W\xdd?'
+p464
+tp465
+Rp466
+tp467
+a(S'george carnegie, 6th earl of northesk'
+p468
+g2
+(g6
+S'L+\x0c\xd9\xea=\xdd?'
+p469
+tp470
+Rp471
+tp472
+a(S'remaking cities institute'
+p473
+g2
+(g6
+S'\xa9\x03ZW\x1e<\xdd?'
+p474
+tp475
+Rp476
+tp477
+a(S'ollie carnegie'
+p478
+g2
+(g6
+S' w%I;:\xdd?'
+p479
+tp480
+Rp481
+tp482
+a(S'frank pfenning'
+p483
+g2
+(g6
+S'\xf40\xc6X\x14\x13\xdd?'
+p484
+tp485
+Rp486
+tp487
+a(S'andrew mellon building'
+p488
+g2
+(g6
+S'\xa2;\xc9J=\x10\xdd?'
+p489
+tp490
+Rp491
+tp492
+a(S'robert lepper'
+p493
+g2
+(g6
+S'x\\\ri\xf6\x02\xdd?'
+p494
+tp495
+Rp496
+tp497
+a(S'steven klepper'
+p498
+g2
+(g6
+S'\xf4\xbf\xfe\xf4\x1f\xfb\xdc?'
+p499
+tp500
+Rp501
+tp502
+a(S'james hoe'
+p503
+g2
+(g6
+S'R\xf4\x17R;\xea\xdc?'
+p504
+tp505
+Rp506
+tp507
+a(S'main building, u.s. bureau of mines'
+p508
+g2
+(g6
+S'y\x04\x01\xe9x\xe1\xdc?'
+p509
+tp510
+Rp511
+tp512
+a(S'niall mellon'
+p513
+g2
+(g6
+S'\x9c7\x1a\xfd\xb1\xe0\xdc?'
+p514
+tp515
+Rp516
+tp517
+a(S'steven rudich'
+p518
+g2
+(g6
+S'L\x14,M\x86\xd6\xdc?'
+p519
+tp520
+Rp521
+tp522
+a(S'robert doherty (college president)'
+p523
+g2
+(g6
+S'\x0c\x14\xfd\xbf4\xd4\xdc?'
+p524
+tp525
+Rp526
+tp527
+a(S'mellon green'
+p528
+g2
+(g6
+S'\xa1\x8cX\x94D\xcd\xdc?'
+p529
+tp530
+Rp531
+tp532
+a(S'at carnegie hall'
+p533
+g2
+(g6
+S'\x0e\xad\x9a\xf3\xde\xc0\xdc?'
+p534
+tp535
+Rp536
+tp537
+a(S"scotch'n'soda"
+p538
+g2
+(g6
+S'\xa9ch%\x18\xbd\xdc?'
+p539
+tp540
+Rp541
+tp542
+a(S'ray tesser'
+p543
+g2
+(g6
+S"\xdf<\x81b'\xa1\xdc?"
+p544
+tp545
+Rp546
+tp547
+a(S'carnegie mellon school of design'
+p548
+g2
+(g6
+S'\x8eb\xacD\x9d\x9a\xdc?'
+p549
+tp550
+Rp551
+tp552
+a(S'carnegie moscow center'
+p553
+g2
+(g6
+S'\xcc\xdd\n\xe2\xf5\x97\xdc?'
+p554
+tp555
+Rp556
+tp557
+a(S'margaret carnegie miller'
+p558
+g2
+(g6
+S'q\xf7\xf29\xd3\x81\xdc?'
+p559
+tp560
+Rp561
+tp562
+a(S'ryan mellon'
+p563
+g2
+(g6
+S'q\x8c@\xbe\xef\x80\xdc?'
+p564
+tp565
+Rp566
+tp567
+a(S'carnegie hall concert'
+p568
+g2
+(g6
+S'\xa5\x9c\x9e\x84"x\xdc?'
+p569
+tp570
+Rp571
+tp572
+a(S'carnegie, victoria'
+p573
+g2
+(g6
+S'\xa4^\x00B\xda]\xdc?'
+p574
+tp575
+Rp576
+tp577
+a(S'carnegie investment bank'
+p578
+g2
+(g6
+S'2\xa9\xd1\xd1\x11N\xdc?'
+p579
+tp580
+Rp581
+tp582
+a(S'klaus sutner'
+p583
+g2
+(g6
+S'\x92wr\xae&C\xdc?'
+p584
+tp585
+Rp586
+tp587
+a(S'robert t. siegel'
+p588
+g2
+(g6
+S'\xf8sQ\xd6{A\xdc?'
+p589
+tp590
+Rp591
+tp592
+a(S'rachel mellon walton'
+p593
+g2
+(g6
+S'\xd7\x95\x1f\x1e\x13<\xdc?'
+p594
+tp595
+Rp596
+tp597
+a(S'carnegie corporation of new york'
+p598
+g2
+(g6
+S'a\xd8\xc3\x82\x1c%\xdc?'
+p599
+tp600
+Rp601
+tp602
+a(S'dietrich college of humanities and social sciences'
+p603
+g2
+(g6
+S'\x01\xe1\x11+\xb0\x1e\xdc?'
+p604
+tp605
+Rp606
+tp607
+a(S'list of carnegie libraries in florida'
+p608
+g2
+(g6
+S'\xb3\xdd a=\x19\xdc?'
+p609
+tp610
+Rp611
+tp612
+a(S'gerald costanzo'
+p613
+g2
+(g6
+S')\xfa\x0e\xfc\xa5\x12\xdc?'
+p614
+tp615
+Rp616
+tp617
+a(S'the gospel of wealth'
+p618
+g2
+(g6
+S'.D\xd7;>\t\xdc?'
+p619
+tp620
+Rp621
+tp622
+a(S'dzvinia orlowsky'
+p623
+g2
+(g6
+S'9\xd5m\x8e\x16\x01\xdc?'
+p624
+tp625
+Rp626
+tp627
+a(S'john patrick crecine'
+p628
+g2
+(g6
+S'\xd7\x17\x12\xdcY\xfb\xdb?'
+p629
+tp630
+Rp631
+tp632
+a(S'david carnegie, 1st earl of southesk'
+p633
+g2
+(g6
+S'Z\xa4zQ\xc0\xf4\xdb?'
+p634
+tp635
+Rp636
+tp637
+a(S'carnegie library (north tonawanda, new york)'
+p638
+g2
+(g6
+S'\xbd\xfc-\x9a\x0f\xd6\xdb?'
+p639
+tp640
+Rp641
+tp642
+a(S'joint cmu-pitt ph.d. program in computational biology'
+p643
+g2
+(g6
+S'\xf3\xa8\xfd\xdf\xb2\xbc\xdb?'
+p644
+tp645
+Rp646
+tp647
+a(S'etcetera edutainment'
+p648
+g2
+(g6
+S'^;\xa4\x85\x1b\xaa\xdb?'
+p649
+tp650
+Rp651
+tp652
+a(S'robert f. murphy (computational biologist)'
+p653
+g2
+(g6
+S'\xa3I\x0c\x19\xf1\xa4\xdb?'
+p654
+tp655
+Rp656
+tp657
+a(S'carnegie vanguard high school'
+p658
+g2
+(g6
+S')\xe2\xb8lk\x90\xdb?'
+p659
+tp660
+Rp661
+tp662
+a(S'robert p. kelly'
+p663
+g2
+(g6
+S'\xe5\x99\x90\xacb\x90\xdb?'
+p664
+tp665
+Rp666
+tp667
+a(S'franklin nicola'
+p668
+g2
+(g6
+S'\xf03\x9cR\xd1\x8b\xdb?'
+p669
+tp670
+Rp671
+tp672
+a(S'carnegie mellon school of art'
+p673
+g2
+(g6
+S'\xf8\x04\xf7]\x80\x89\xdb?'
+p674
+tp675
+Rp676
+tp677
+a(S'james carnegie (died 1700)'
+p678
+g2
+(g6
+S'\x11L\x87,p~\xdb?'
+p679
+tp680
+Rp681
+tp682
+a(S'ailsa mellon bruce'
+p683
+g2
+(g6
+S'\xba\xc4\xbe\xc7\xb8{\xdb?'
+p684
+tp685
+Rp686
+tp687
+a(S'john carnegie, 1st earl of northesk'
+p688
+g2
+(g6
+S'P\x96P\xff\xa9z\xdb?'
+p689
+tp690
+Rp691
+tp692
+a(S'david carnegie'
+p693
+g2
+(g6
+S'}g\x00ZVp\xdb?'
+p694
+tp695
+Rp696
+tp697
+a(S'list of carnegie libraries in pennsylvania'
+p698
+g2
+(g6
+S'\xb3_^\xc8\x8bo\xdb?'
+p699
+tp700
+Rp701
+tp702
+a(S'amos h. carnegie'
+p703
+g2
+(g6
+S'\xa0\xe5B\xe5ma\xdb?'
+p704
+tp705
+Rp706
+tp707
+a(S's\xc3\xbcleyman ba\xc5\x9fak'
+p708
+g2
+(g6
+S'.\xdc\xcd\xef\xcdZ\xdb?'
+p709
+tp710
+Rp711
+tp712
+a(S'heinz college'
+p713
+g2
+(g6
+S'\x91~\x03\xe0kW\xdb?'
+p714
+tp715
+Rp716
+tp717
+a(S'annie fairlamb mellon'
+p718
+g2
+(g6
+S'\xb9BrC\xf3U\xdb?'
+p719
+tp720
+Rp721
+tp722
+a(S'jeannette wing'
+p723
+g2
+(g6
+S'\xb9\x1fe\xda\x06A\xdb?'
+p724
+tp725
+Rp726
+tp727
+a(S'tom carnegie'
+p728
+g2
+(g6
+S'R\x98n\x14\xbc1\xdb?'
+p729
+tp730
+Rp731
+tp732
+a(S'carnegie free library (connellsville, pennsylvania)'
+p733
+g2
+(g6
+S'\xce\x8a\x8e\xa9\xbf\x1c\xdb?'
+p734
+tp735
+Rp736
+tp737
+a(S'hattie carnegie'
+p738
+g2
+(g6
+S'\xf9\x97\xe9\xf6\xf1\x0f\xdb?'
+p739
+tp740
+Rp741
+tp742
+a(S'information networking institute'
+p743
+g2
+(g6
+S'\x99\x14\xc8\x124\t\xdb?'
+p744
+tp745
+Rp746
+tp747
+a(S'erwin steinberg'
+p748
+g2
+(g6
+S'\x91/S\xcc\xb6\xf4\xda?'
+p749
+tp750
+Rp751
+tp752
+a(S'john carnegie, 12th earl of northesk'
+p753
+g2
+(g6
+S'\\\\\xbbPX\xbd\xda?'
+p754
+tp755
+Rp756
+tp757
+a(S'carnegie free library of allegheny'
+p758
+g2
+(g6
+S'L\xaep\x97D\xba\xda?'
+p759
+tp760
+Rp761
+tp762
+a(S'carnegie heritage centre'
+p763
+g2
+(g6
+S"\xadN\xc2'\xf0\xb3\xda?"
+p764
+tp765
+Rp766
+tp767
+a(S'lake carnegie (new jersey)'
+p768
+g2
+(g6
+S'\x19\xd7\xb5\x1f\x7f\xb2\xda?'
+p769
+tp770
+Rp771
+tp772
+a(S'carnegie learning'
+p773
+g2
+(g6
+S'%#\x1f\x05\xb0\xb0\xda?'
+p774
+tp775
+Rp776
+tp777
+a(S'carnegie library center'
+p778
+g2
+(g6
+S'\xe6\xd6\xe0\xff\xd1\x9c\xda?'
+p779
+tp780
+Rp781
+tp782
+a(S'dina dublon'
+p783
+g2
+(g6
+S'[\x19\xdc\x12\xa8\x97\xda?'
+p784
+tp785
+Rp786
+tp787
+a(S'carnegie education pavilion'
+p788
+g2
+(g6
+S'\xac2]\xccR\x80\xda?'
+p789
+tp790
+Rp791
+tp792
+a(S'carnegie hero fund'
+p793
+g2
+(g6
+S'^\x82\xf8L"q\xda?'
+p794
+tp795
+Rp796
+tp797
+a(S'haniel long'
+p798
+g2
+(g6
+S'\x84CR\xe3*S\xda?'
+p799
+tp800
+Rp801
+tp802
+a(S'michael mcfee'
+p803
+g2
+(g6
+S'\xa8\xcar\n\xe9>\xda?'
+p804
+tp805
+Rp806
+tp807
+a(S'vincent aleven'
+p808
+g2
+(g6
+S'\x8e\xab\xcb\xb2\xac1\xda?'
+p809
+tp810
+Rp811
+tp812
+a(S'north bend carnegie library'
+p813
+g2
+(g6
+S'\x18k\x05\xa6\x9a\x1b\xda?'
+p814
+tp815
+Rp816
+tp817
+a(S'gerald l. thompson'
+p818
+g2
+(g6
+S'\x11\x1eh1n\x14\xda?'
+p819
+tp820
+Rp821
+tp822
+a(S'william w. mullins'
+p823
+g2
+(g6
+S'%\xa41g\xe6\x01\xda?'
+p824
+tp825
+Rp826
+tp827
+a(S'peter stearns'
+p828
+g2
+(g6
+S'\xcc\x8b\r)b\xdf\xd9?'
+p829
+tp830
+Rp831
+tp832
+a(S'dale carnegie'
+p833
+g2
+(g6
+S'\x86\x99\x9fR\x07\xd5\xd9?'
+p834
+tp835
+Rp836
+tp837
+a(S'thomas m. carnegie'
+p838
+g2
+(g6
+S'\xe1\xf5\xa3l\xf8\xcf\xd9?'
+p839
+tp840
+Rp841
+tp842
+a(S'administration building, carnegie institution of washington'
+p843
+g2
+(g6
+S']\xdb\x9f\xb5\x86\xcc\xd9?'
+p844
+tp845
+Rp846
+tp847
+a(S'douglas carnegie'
+p848
+g2
+(g6
+S'\x8d\xcc4p8\xbe\xd9?'
+p849
+tp850
+Rp851
+tp852
+a(S'live at carnegie hall'
+p853
+g2
+(g6
+S'\xee\xe1\x00\xad\xe3\xb2\xd9?'
+p854
+tp855
+Rp856
+tp857
+a(S'death risk rankings'
+p858
+g2
+(g6
+S'\x0c\x9c\x18\xa2\x81\xa9\xd9?'
+p859
+tp860
+Rp861
+tp862
+a(S'canton township carnegie library'
+p863
+g2
+(g6
+S'\x8cPZ\x10\x0b\x93\xd9?'
+p864
+tp865
+Rp866
+tp867
+a(S'carnegie mellon university traditions'
+p868
+g2
+(g6
+S'\xe2\xf0a\x9f\xbew\xd9?'
+p869
+tp870
+Rp871
+tp872
+a(S'carnegie library building (athens, georgia)'
+p873
+g2
+(g6
+S'\xbb\x0c\x8e\xe1\xa7s\xd9?'
+p874
+tp875
+Rp876
+tp877
+a(S'louise whitfield carnegie'
+p878
+g2
+(g6
+S'\x18\xa4\xd4DWn\xd9?'
+p879
+tp880
+Rp881
+tp882
+a(S'the empire of business'
+p883
+g2
+(g6
+S'\xd2\xd7&\xe5\x18n\xd9?'
+p884
+tp885
+Rp886
+tp887
+a(S'timothy mellon'
+p888
+g2
+(g6
+S'\x05\xef\x83>\xbdf\xd9?'
+p889
+tp890
+Rp891
+tp892
+a(S'rolling rock club'
+p893
+g2
+(g6
+S'.\xaao\xc0c[\xd9?'
+p894
+tp895
+Rp896
+tp897
+a(S'david a. hounshell'
+p898
+g2
+(g6
+S'\xcf\x1a\x85]\xe4U\xd9?'
+p899
+tp900
+Rp901
+tp902
+a(S'leslie adrienne miller'
+p903
+g2
+(g6
+S'[\xde\x91\xd0\x00N\xd9?'
+p904
+tp905
+Rp906
+tp907
+a(S'daniel nagin'
+p908
+g2
+(g6
+S'v7ix\xf2I\xd9?'
+p909
+tp910
+Rp911
+tp912
+a(S'carnegie library (parsons, kansas)'
+p913
+g2
+(g6
+S'8\x95ToEH\xd9?'
+p914
+tp915
+Rp916
+tp917
+a(S'mariana villanueva'
+p918
+g2
+(g6
+S"\x93\x8cC'!9\xd9?"
+p919
+tp920
+Rp921
+tp922
+a(S'death of kenton joel carnegie'
+p923
+g2
+(g6
+S'\xf3.\xa7Q\xa75\xd9?'
+p924
+tp925
+Rp926
+tp927
+a(S'mellon national bank building'
+p928
+g2
+(g6
+S'*_1\xfbs/\xd9?'
+p929
+tp930
+Rp931
+tp932
+a(S'carnegie science center'
+p933
+g2
+(g6
+S'?Dy\xc9\xb5+\xd9?'
+p934
+tp935
+Rp936
+tp937
+a(S'james carnegie'
+p938
+g2
+(g6
+S'&\x1e\x1e\x80Y\x1d\xd9?'
+p939
+tp940
+Rp941
+tp942
+a(S'carnegie station'
+p943
+g2
+(g6
+S'@W\xf1\xb7\xb9\x19\xd9?'
+p944
+tp945
+Rp946
+tp947
+a(S'eduardo alonso-crespo'
+p948
+g2
+(g6
+S'\xd8#\xa4[\xb2\x15\xd9?'
+p949
+tp950
+Rp951
+tp952
+a(S'carnegie, pennsylvania'
+p953
+g2
+(g6
+S'\xa7k/U\xf3\x0f\xd9?'
+p954
+tp955
+Rp956
+tp957
+a(S'carnegie, minnesota'
+p958
+g2
+(g6
+S'\x94\\\xf9\xafL\x01\xd9?'
+p959
+tp960
+Rp961
+tp962
+a(S'william s. dietrich ii'
+p963
+g2
+(g6
+S'\x91AP\xcf%\xfe\xd8?'
+p964
+tp965
+Rp966
+tp967
+a(S'carnegie institution for science'
+p968
+g2
+(g6
+S'G\x84\x1f\xfa\xb3\xec\xd8?'
+p969
+tp970
+Rp971
+tp972
+a(S'bny mellon center (philadelphia)'
+p973
+g2
+(g6
+S'IV\xc4E\x0c\xea\xd8?'
+p974
+tp975
+Rp976
+tp977
+a(S'bny mellon center (pittsburgh)'
+p978
+g2
+(g6
+S'.\n\xaagt\xe7\xd8?'
+p979
+tp980
+Rp981
+tp982
+a(S'mary ruefle'
+p983
+g2
+(g6
+S'\xa1^\xa5\xa6\xb8\xe6\xd8?'
+p984
+tp985
+Rp986
+tp987
+a(S'walking to the sky'
+p988
+g2
+(g6
+S'\xdf\xca\xacoS\xc2\xd8?'
+p989
+tp990
+Rp991
+tp992
+a(S'david carnegie, 2nd earl of northesk'
+p993
+g2
+(g6
+S'\x07\x0cx\x84T\xba\xd8?'
+p994
+tp995
+Rp996
+tp997
+a(S'carnegie middle east center'
+p998
+g2
+(g6
+S'\x9e\x1d\x9f\xb8\xce\xac\xd8?'
+p999
+tp1000
+Rp1001
+tp1002
+a(S'oakland (pittsburgh)'
+p1003
+g2
+(g6
+S'\x8b7O}\x90\xab\xd8?'
+p1004
+tp1005
+Rp1006
+tp1007
+a(S'list of carnegie libraries in oregon'
+p1008
+g2
+(g6
+S'\xa8-\xe1\xa7\xcc\x9d\xd8?'
+p1009
+tp1010
+Rp1011
+tp1012
+a(S'alex hauptmann'
+p1013
+g2
+(g6
+S'\x19x\x067\xbd^\xd8?'
+p1014
+tp1015
+Rp1016
+tp1017
+a(S'pradeep khosla'
+p1018
+g2
+(g6
+S'\x81\xaf\xa4\xa0\xeaZ\xd8?'
+p1019
+tp1020
+Rp1021
+tp1022
+a(S'william larimer mellon, jr.'
+p1023
+g2
+(g6
+S'\xdf\xf9\xe6}\nW\xd8?'
+p1024
+tp1025
+Rp1026
+tp1027
+a(S't. alan broughton'
+p1028
+g2
+(g6
+S'\xdb\xa9\x1f\x1bJT\xd8?'
+p1029
+tp1030
+Rp1031
+tp1032
+a(S'edmund m. clarke'
+p1033
+g2
+(g6
+S'\xa2\xde&\x81\xc3P\xd8?'
+p1034
+tp1035
+Rp1036
+tp1037
+a(S'baruch fischhoff'
+p1038
+g2
+(g6
+S'vM\x12%\xbaE\xd8?'
+p1039
+tp1040
+Rp1041
+tp1042
+a(S'gloriana st. clair'
+p1043
+g2
+(g6
+S'\x9bT\xd2\xf4\xfb;\xd8?'
+p1044
+tp1045
+Rp1046
+tp1047
+a(S'james k. baker'
+p1048
+g2
+(g6
+S'\xec\x93\xd4\xe18$\xd8?'
+p1049
+tp1050
+Rp1051
+tp1052
+a(S'illinois carnegie libraries multiple property submission'
+p1053
+g2
+(g6
+S'\x81\xcf\x07\xe7\xda\x1b\xd8?'
+p1054
+tp1055
+Rp1056
+tp1057
+a(S'list of carnegie libraries in nevada'
+p1058
+g2
+(g6
+S"'\xaczM0\n\xd8?"
+p1059
+tp1060
+Rp1061
+tp1062
+a(S'herb carnegie'
+p1063
+g2
+(g6
+S'\xa7voac\xfe\xd7?'
+p1064
+tp1065
+Rp1066
+tp1067
+a(S'valley city carnegie library'
+p1068
+g2
+(g6
+S'\x80j\x96"\xcf\xf7\xd7?'
+p1069
+tp1070
+Rp1071
+tp1072
+a(S'sir james carnegie, 3rd baronet'
+p1073
+g2
+(g6
+S't\xb0\xa1\xd0@\xf0\xd7?'
+p1074
+tp1075
+Rp1076
+tp1077
+a(S'david klahr'
+p1078
+g2
+(g6
+S'\xe2\xb2W\xe0]\xe2\xd7?'
+p1079
+tp1080
+Rp1081
+tp1082
+a(S'earl of southesk'
+p1083
+g2
+(g6
+S'Y\xe5\xd7\xd2\xc2\xdc\xd7?'
+p1084
+tp1085
+Rp1086
+tp1087
+a(S'forbes avenue'
+p1088
+g2
+(g6
+S'\x84\xbf\xa7d\x0f\xdc\xd7?'
+p1089
+tp1090
+Rp1091
+tp1092
+a(S'mysecurecyberspace'
+p1093
+g2
+(g6
+S'*\x9b6-\xc9\xd0\xd7?'
+p1094
+tp1095
+Rp1096
+tp1097
+a(S'david carnegie (explorer)'
+p1098
+g2
+(g6
+S'\x19\xa3_\x87i\xc2\xd7?'
+p1099
+tp1100
+Rp1101
+tp1102
+a(S'carnegie theatre'
+p1103
+g2
+(g6
+S'r\x0b\xc1Q\\\xc2\xd7?'
+p1104
+tp1105
+Rp1106
+tp1107
+a(S'micky mellon'
+p1108
+g2
+(g6
+S'\xfa=\xce\xb6\xad\xc1\xd7?'
+p1109
+tp1110
+Rp1111
+tp1112
+a(S'clan carnegie'
+p1113
+g2
+(g6
+S'f`\x7fed\xc0\xd7?'
+p1114
+tp1115
+Rp1116
+tp1117
+a(S'lawrence carra'
+p1118
+g2
+(g6
+S'\xf2\x9a\x93EE\xac\xd7?'
+p1119
+tp1120
+Rp1121
+tp1122
+a(S'clarinda carnegie library'
+p1123
+g2
+(g6
+S'{\x1f\xc6\x83\xaa\xa8\xd7?'
+p1124
+tp1125
+Rp1126
+tp1127
+a(S'carnegie brothers and company'
+p1128
+g2
+(g6
+S'!2\xaf>\xea\xa4\xd7?'
+p1129
+tp1130
+Rp1131
+tp1132
+a(S'venkatesan guruswami'
+p1133
+g2
+(g6
+S'L\x10\x08\x05\xce\xa2\xd7?'
+p1134
+tp1135
+Rp1136
+tp1137
+a(S'carnegie foundation for the advancement of teaching'
+p1138
+g2
+(g6
+S'\x07\x03\x10K\xd0\xa0\xd7?'
+p1139
+tp1140
+Rp1141
+tp1142
+a(S'allen hall (university of pittsburgh)'
+p1143
+g2
+(g6
+S'xm\xa3\x13.\x9e\xd7?'
+p1144
+tp1145
+Rp1146
+tp1147
+a(S'guy blelloch'
+p1148
+g2
+(g6
+S'\xf4\xab\xd3\x87}\x96\xd7?'
+p1149
+tp1150
+Rp1151
+tp1152
+a(S'david s. touretzky'
+p1153
+g2
+(g6
+S'b`\xff\xbah\x89\xd7?'
+p1154
+tp1155
+Rp1156
+tp1157
+a(S'dan martin (academic)'
+p1158
+g2
+(g6
+S'\xf9bk\xcb\rw\xd7?'
+p1159
+tp1160
+Rp1161
+tp1162
+a(S'anita k. jones'
+p1163
+g2
+(g6
+S'a\x8f}:\x1et\xd7?'
+p1164
+tp1165
+Rp1166
+tp1167
+a(S'cordelia scaife may'
+p1168
+g2
+(g6
+S'X$\xf2#\x8dn\xd7?'
+p1169
+tp1170
+Rp1171
+tp1172
+a(S'alexander knaster'
+p1173
+g2
+(g6
+S'\xbee\xc1\xe2\xc2Z\xd7?'
+p1174
+tp1175
+Rp1176
+tp1177
+a(S'regenerative medicine partnership in education'
+p1178
+g2
+(g6
+S'\x01\xc3\xf2\x91\xd8L\xd7?'
+p1179
+tp1180
+Rp1181
+tp1182
+a(S'intelligent robotics group'
+p1183
+g2
+(g6
+S'7\xbe\xe3\x1d\xdaK\xd7?'
+p1184
+tp1185
+Rp1186
+tp1187
+a(S'dawn song'
+p1188
+g2
+(g6
+S'\n\xe3\xda\x0b\xf4F\xd7?'
+p1189
+tp1190
+Rp1191
+tp1192
+a(S'robert s. harris'
+p1193
+g2
+(g6
+S'q\x93n\xf0\xad?\xd7?'
+p1194
+tp1195
+Rp1196
+tp1197
+a(S'wyvern (programming language)'
+p1198
+g2
+(g6
+S'0\xb1\xfb,\x063\xd7?'
+p1199
+tp1200
+Rp1201
+tp1202
+a(S'm. satyanarayanan'
+p1203
+g2
+(g6
+S'\x1d1\xfd\xd2\x18-\xd7?'
+p1204
+tp1205
+Rp1206
+tp1207
+a(S'albert ando'
+p1208
+g2
+(g6
+S'V$\xa6\xf1\xe7+\xd7?'
+p1209
+tp1210
+Rp1211
+tp1212
+a(S's. thomas emerson'
+p1213
+g2
+(g6
+S"\x9a\xf68\x01\xb3'\xd7?"
+p1214
+tp1215
+Rp1216
+tp1217
+a(S'research i university'
+p1218
+g2
+(g6
+S'\xd1\xf3\x12\xb1\xa4\x1c\xd7?'
+p1219
+tp1220
+Rp1221
+tp1222
+a(S'virgil d. gligor'
+p1223
+g2
+(g6
+S'b\xa3\x11\xee\xc3\x18\xd7?'
+p1224
+tp1225
+Rp1226
+tp1227
+a(S'eduard hovy'
+p1228
+g2
+(g6
+S'\x8e\xe9\xb7\n\xeb\x16\xd7?'
+p1229
+tp1230
+Rp1231
+tp1232
+a(S'mellon udrigle'
+p1233
+g2
+(g6
+S'\xd9\xb9\xae[\x0e\x0f\xd7?'
+p1234
+tp1235
+Rp1236
+tp1237
+a(S'list of carnegie mellon university people'
+p1238
+g2
+(g6
+S'\x0e\xe1\x82)\x10\x07\xd7?'
+p1239
+tp1240
+Rp1241
+tp1242
+a(S'carnegie (ship)'
+p1243
+g2
+(g6
+S"\xe5'z6\x80\x05\xd7?"
+p1244
+tp1245
+Rp1246
+tp1247
+a(S'robert carnegie, 13th earl of northesk'
+p1248
+g2
+(g6
+S'\xa6\xd5\xa1\x05\x15\x01\xd7?'
+p1249
+tp1250
+Rp1251
+tp1252
+a(S'carnegie hero fund trust'
+p1253
+g2
+(g6
+S'\xa5\xddY"\x91\xf9\xd6?'
+p1254
+tp1255
+Rp1256
+tp1257
+a(S'hooman radfar'
+p1258
+g2
+(g6
+S'=\xf7\xa2\xed*\xf5\xd6?'
+p1259
+tp1260
+Rp1261
+tp1262
+a(S'carnegie museum of natural history'
+p1263
+g2
+(g6
+S'\x91\xf6*\xceh\xf1\xd6?'
+p1264
+tp1265
+Rp1266
+tp1267
+a(S'dunfermline carnegie library'
+p1268
+g2
+(g6
+S'e\xb1\xeb\xc4*\xdf\xd6?'
+p1269
+tp1270
+Rp1271
+tp1272
+a(S'computerworld smithsonian award'
+p1273
+g2
+(g6
+S'\xe4\n\xffke\xd1\xd6?'
+p1274
+tp1275
+Rp1276
+tp1277
+a(S'ocala carnegie library'
+p1278
+g2
+(g6
+S'J\xbb\xe3\x80q\xcc\xd6?'
+p1279
+tp1280
+Rp1281
+tp1282
+a(S'ramayya krishnan'
+p1283
+g2
+(g6
+S'\xb2\xe1\xf8h+\xbf\xd6?'
+p1284
+tp1285
+Rp1286
+tp1287
+a(S'edward jones-imhotep'
+p1288
+g2
+(g6
+S'F2&\xc5\xb3\xb6\xd6?'
+p1289
+tp1290
+Rp1291
+tp1292
+a(S'academic bowl (college football)'
+p1293
+g2
+(g6
+S'\xee\xae-H\xf0\xb1\xd6?'
+p1294
+tp1295
+Rp1296
+tp1297
+a(S'arleta branch library'
+p1298
+g2
+(g6
+S'\x13\xe7\xc9\x1f\xee\xab\xd6?'
+p1299
+tp1300
+Rp1301
+tp1302
+a(S'william carnegie, 7th earl of northesk'
+p1303
+g2
+(g6
+S'\xc6\xf4@R\x07\xa4\xd6?'
+p1304
+tp1305
+Rp1306
+tp1307
+a(S'pittsburgh mayoral election, 1945'
+p1308
+g2
+(g6
+S'\xe3\xd4\x03\x9fE\xa1\xd6?'
+p1309
+tp1310
+Rp1311
+tp1312
+a(S'willis van devanter (art appraiser)'
+p1313
+g2
+(g6
+S'oM\x87\x10\x9f\xa0\xd6?'
+p1314
+tp1315
+Rp1316
+tp1317
+a(S'goodland city library'
+p1318
+g2
+(g6
+S'8-\x12\xbf\xa4\x9c\xd6?'
+p1319
+tp1320
+Rp1321
+tp1322
+a(S'really achieving your childhood dreams'
+p1323
+g2
+(g6
+S'\xe9\x00]\t\x0b\x94\xd6?'
+p1324
+tp1325
+Rp1326
+tp1327
+a(S'dippy'
+p1328
+g2
+(g6
+S'\xe75`\xc4\xe1\x90\xd6?'
+p1329
+tp1330
+Rp1331
+tp1332
+a(S'list of carnegie libraries in washington, d.c.'
+p1333
+g2
+(g6
+S'\n}\x02\xc2\x0e\x90\xd6?'
+p1334
+tp1335
+Rp1336
+tp1337
+a(S'houston carnegie library'
+p1338
+g2
+(g6
+S'\xdc\n\xdc\x0b4\x8f\xd6?'
+p1339
+tp1340
+Rp1341
+tp1342
+a(S'carnegie public library (tyler, texas)'
+p1343
+g2
+(g6
+S'\x95\x87\xb9\xf2\x86\x8b\xd6?'
+p1344
+tp1345
+Rp1346
+tp1347
+a(S'carnegie mellon school of drama'
+p1348
+g2
+(g6
+S'f\x00E\x15w\x89\xd6?'
+p1349
+tp1350
+Rp1351
+tp1352
+a(S'david carnegie, 4th earl of northesk'
+p1353
+g2
+(g6
+S'\x9b\xc9\xc09~\x88\xd6?'
+p1354
+tp1355
+Rp1356
+tp1357
+a(S'kewanee public library'
+p1358
+g2
+(g6
+S'\x8f\x1d*\xbbd\x88\xd6?'
+p1359
+tp1360
+Rp1361
+tp1362
+a(S'junction hollow'
+p1363
+g2
+(g6
+S'\xc6\xce?\x19\r\x7f\xd6?'
+p1364
+tp1365
+Rp1366
+tp1367
+a(S'annals of carnegie museum'
+p1368
+g2
+(g6
+S's\xf9\xcc\x81\xd7{\xd6?'
+p1369
+tp1370
+Rp1371
+tp1372
+a(S'sally dixon'
+p1373
+g2
+(g6
+S'\x1b\xcb4\xac\xdav\xd6?'
+p1374
+tp1375
+Rp1376
+tp1377
+a(S'bone wars (book)'
+p1378
+g2
+(g6
+S'\x8aDO\x03\xdcl\xd6?'
+p1379
+tp1380
+Rp1381
+tp1382
+a(S'canastota public library'
+p1383
+g2
+(g6
+S']\x8c\xf7\x13\x04M\xd6?'
+p1384
+tp1385
+Rp1386
+tp1387
+a(S'gladys schmitt'
+p1388
+g2
+(g6
+S"/N\xc9v'L\xd6?"
+p1389
+tp1390
+Rp1391
+tp1392
+a(S'sir david carnegie, 4th baronet'
+p1393
+g2
+(g6
+S'\x8a\xe30\xac\x08H\xd6?'
+p1394
+tp1395
+Rp1396
+tp1397
+a(S'anderson center for the arts'
+p1398
+g2
+(g6
+S'\x8a\xe2\x03\x03\xd0:\xd6?'
+p1399
+tp1400
+Rp1401
+tp1402
+a(S'mary shaw (computer scientist)'
+p1403
+g2
+(g6
+S'^\xeb\xf2\x9b\x8c8\xd6?'
+p1404
+tp1405
+Rp1406
+tp1407
+a(S'carnegie library of pittsburgh'
+p1408
+g2
+(g6
+S'i\xec\x0f-:/\xd6?'
+p1409
+tp1410
+Rp1411
+tp1412
+a(S'david carnegie, 4th duke of fife'
+p1413
+g2
+(g6
+S'\x95.\x03b\xfd,\xd6?'
+p1414
+tp1415
+Rp1416
+tp1417
+a(S'dreyfus corporation'
+p1418
+g2
+(g6
+S'\x14\xc2\x9c\xdd\xa5*\xd6?'
+p1419
+tp1420
+Rp1421
+tp1422
+a(S'carnegie building (pittsburgh)'
+p1423
+g2
+(g6
+S'S\xec\xae\x95\xf8)\xd6?'
+p1424
+tp1425
+Rp1426
+tp1427
+a(S'list of carnegie libraries in europe'
+p1428
+g2
+(g6
+S'F\x85P\x9c\x04#\xd6?'
+p1429
+tp1430
+Rp1431
+tp1432
+a(S'ronald d. macfarlane'
+p1433
+g2
+(g6
+S'\x03\xeb\x0e\xb8[\x0e\xd6?'
+p1434
+tp1435
+Rp1436
+tp1437
+a(S'cibc mellon'
+p1438
+g2
+(g6
+S'\xd9<\x91\xfc\x8e\x03\xd6?'
+p1439
+tp1440
+Rp1441
+tp1442
+a(S'randy pausch'
+p1443
+g2
+(g6
+S'\xa4\x19\xb4Q\x98\xff\xd5?'
+p1444
+tp1445
+Rp1446
+tp1447
+a(S'george loewenstein'
+p1448
+g2
+(g6
+S'\x87\x9a\t\xc5~\xf6\xd5?'
+p1449
+tp1450
+Rp1451
+tp1452
+a(S'jack chow'
+p1453
+g2
+(g6
+S'rU\x1d\x9cD\xf6\xd5?'
+p1454
+tp1455
+Rp1456
+tp1457
+a(S'jure leskovec'
+p1458
+g2
+(g6
+S'\x9b=V`<\xf6\xd5?'
+p1459
+tp1460
+Rp1461
+tp1462
+a(S'robert wilburn'
+p1463
+g2
+(g6
+S'\xb3j|\xf9\x92\xf3\xd5?'
+p1464
+tp1465
+Rp1466
+tp1467
+a(S'carnegie group'
+p1468
+g2
+(g6
+S'2R\xe9\xea\xb3\xec\xd5?'
+p1469
+tp1470
+Rp1471
+tp1472
+a(S'michael l. kazar'
+p1473
+g2
+(g6
+S'~\x9e\x95\xdeL\xe5\xd5?'
+p1474
+tp1475
+Rp1476
+tp1477
+a(S'david carnegie, 10th earl of northesk'
+p1478
+g2
+(g6
+S'\xc0=\xbbRn\xe4\xd5?'
+p1479
+tp1480
+Rp1481
+tp1482
+a(S'carnegie library (guthrie, oklahoma)'
+p1483
+g2
+(g6
+S'\x7f\xc1\xa4\xbc\x89\xdf\xd5?'
+p1484
+tp1485
+Rp1486
+tp1487
+a(S'west end branch of the carnegie library of pittsburgh'
+p1488
+g2
+(g6
+S'~\xf9\xaf@r\xd9\xd5?'
+p1489
+tp1490
+Rp1491
+tp1492
+a(S'manuela m. veloso'
+p1493
+g2
+(g6
+S'\t\\\xec\xd2^\xd0\xd5?'
+p1494
+tp1495
+Rp1496
+tp1497
+a(S'cormac kinney'
+p1498
+g2
+(g6
+S'\xd7%\x0f\xa8^\xc7\xd5?'
+p1499
+tp1500
+Rp1501
+tp1502
+a(S'jefferson carnegie library'
+p1503
+g2
+(g6
+S'\x08$\x95\x07\xe4\xc5\xd5?'
+p1504
+tp1505
+Rp1506
+tp1507
+a(S'john mark ockerbloom'
+p1508
+g2
+(g6
+S'\xfb\x07V&\x07\xc4\xd5?'
+p1509
+tp1510
+Rp1511
+tp1512
+a.

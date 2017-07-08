@@ -1,0 +1,2728 @@
+(lp0
+(S'forward kinematics'
+p1
+cnumpy.core.multiarray
+scalar
+p2
+(cnumpy
+dtype
+p3
+(S'f8'
+p4
+I0
+I1
+tp5
+Rp6
+(I3
+S'<'
+p7
+NNNI-1
+I-1
+I0
+tp8
+bS'\x02\x00\x00\x00\x00\x00\xf0?'
+p9
+tp10
+Rp11
+tp12
+a(S'kinematics equations'
+p13
+g2
+(g6
+S'\xd8\x18\xe0\x15\xe1F\xe8?'
+p14
+tp15
+Rp16
+tp17
+a(S'inverse kinematics'
+p18
+g2
+(g6
+S'\x98\\\xd9\xc0@\xf8\xe6?'
+p19
+tp20
+Rp21
+tp22
+a(S'robot kinematics'
+p23
+g2
+(g6
+S'\x83\x86\xcd\x15\x95f\xe6?'
+p24
+tp25
+Rp26
+tp27
+a(S'kinematic chain'
+p28
+g2
+(g6
+S'\x19\xd1SW\x93\x15\xe1?'
+p29
+tp30
+Rp31
+tp32
+a(S'321 kinematic structure'
+p33
+g2
+(g6
+S'\xfe\xb5\xdaJv\xd8\xdc?'
+p34
+tp35
+Rp36
+tp37
+a(S'denavit\xe2\x80\x93hartenberg parameters'
+p38
+g2
+(g6
+S'w\n\x17\x8e\xc6\xd4\xdc?'
+p39
+tp40
+Rp41
+tp42
+a(S'inverse dynamics'
+p43
+g2
+(g6
+S'\x1b\xa2\xfa\x06\xb2\xfc\xd8?'
+p44
+tp45
+Rp46
+tp47
+a(S'gerard of brussels'
+p48
+g2
+(g6
+S'\xb0s\xd7\xe2\xa8\x0f\xd8?'
+p49
+tp50
+Rp51
+tp52
+a(S'serial manipulator'
+p53
+g2
+(g6
+S'\x19\xd6N\xaaz\x9d\xd7?'
+p54
+tp55
+Rp56
+tp57
+a(S'openrave'
+p58
+g2
+(g6
+S'\x1e~\xc7\xda\x15\xaa\xd5?'
+p59
+tp60
+Rp61
+tp62
+a(S'franz reuleaux'
+p63
+g2
+(g6
+S'\xe8\xd7\x13\x08IE\xd4?'
+p64
+tp65
+Rp66
+tp67
+a(S'revolute joint'
+p68
+g2
+(g6
+S' \xf8\xbf\xf61t\xd3?'
+p69
+tp70
+Rp71
+tp72
+a(S'sensory-motor map'
+p73
+g2
+(g6
+S'\\o&\xd3\xb8j\xd3?'
+p74
+tp75
+Rp76
+tp77
+a(S'kinematics'
+p78
+g2
+(g6
+S'[\xbd\xf7\x98G\x19\xd3?'
+p79
+tp80
+Rp81
+tp82
+a(S'kinematic diagram'
+p83
+g2
+(g6
+S'aJ\xda\xfe\x02\xf5\xd2?'
+p84
+tp85
+Rp86
+tp87
+a(S'arm solution'
+p88
+g2
+(g6
+S'NC\xb6\x87\xba\xf3\xd2?'
+p89
+tp90
+Rp91
+tp92
+a(S'cylindrical joint'
+p93
+g2
+(g6
+S'\r\xd0dV/T\xd2?'
+p94
+tp95
+Rp96
+tp97
+a(S'robotics conventions'
+p98
+g2
+(g6
+S'\xd0K\xd3`\x9a0\xd2?'
+p99
+tp100
+Rp101
+tp102
+a(S'bionickangaroo'
+p103
+g2
+(g6
+S'\xc0]\xab\xedY\x16\xd2?'
+p104
+tp105
+Rp106
+tp107
+a(S'simultaneous equations'
+p108
+g2
+(g6
+S'"\\\x08\xc4\x10\xb5\xd1?'
+p109
+tp110
+Rp111
+tp112
+a(S'screw joint'
+p113
+g2
+(g6
+S'\xe5\xe2\xbc\xbb9\xa7\xd1?'
+p114
+tp115
+Rp116
+tp117
+a(S'industrial robot'
+p118
+g2
+(g6
+S'i\xd2sS\x82h\xd1?'
+p119
+tp120
+Rp121
+tp122
+a(S'nahm equations'
+p123
+g2
+(g6
+S'\xe8+\x85\xae@V\xd1?'
+p124
+tp125
+Rp126
+tp127
+a(S'skeletal animation'
+p128
+g2
+(g6
+S'pB>n\x91\x03\xd1?'
+p129
+tp130
+Rp131
+tp132
+a(S'armature (computer animation)'
+p133
+g2
+(g6
+S']\xd4\x897\x8c\xef\xd0?'
+p134
+tp135
+Rp136
+tp137
+a(S'scara'
+p138
+g2
+(g6
+S'\xe7\xb0\xee$:\xed\xd0?'
+p139
+tp140
+Rp141
+tp142
+a(S'common normal (robotics)'
+p143
+g2
+(g6
+S'%+\xb5+\xf6\x97\xd0?'
+p144
+tp145
+Rp146
+tp147
+a(S'overdetermined system'
+p148
+g2
+(g6
+S'\x91\n*\x9f\xadS\xd0?'
+p149
+tp150
+Rp151
+tp152
+a(S'ambiguities in chinese character simplification'
+p153
+g2
+(g6
+S'W`f\xd0\x88\xfd\xce?'
+p154
+tp155
+Rp156
+tp157
+a(S'communes of chile'
+p158
+g2
+(g6
+S'&\x19\x839\x87\xc5\xce?'
+p159
+tp160
+Rp161
+tp162
+a(S'i, robot (short story)'
+p163
+g2
+(g6
+S'\xd8]\x9b\x82\x01\xbb\xce?'
+p164
+tp165
+Rp166
+tp167
+a(S'theory of equations'
+p168
+g2
+(g6
+S'x}\xdd\xd0e\xb1\xce?'
+p169
+tp170
+Rp171
+tp172
+a(S'painlev\xc3\xa9 transcendents'
+p173
+g2
+(g6
+S'\xef\xdeT\x15\x0ba\xce?'
+p174
+tp175
+Rp176
+tp177
+a(S'machine (mechanical)'
+p178
+g2
+(g6
+S'\xa8]\xf9\x7fY \xce?'
+p179
+tp180
+Rp181
+tp182
+a(S'rigid transformation'
+p183
+g2
+(g6
+S'\xcf\x1b\x8a\xe0\xe2\x07\xce?'
+p184
+tp185
+Rp186
+tp187
+a(S'visual3d'
+p188
+g2
+(g6
+S'\xc7\x0b&\x1cp\xf3\xcd?'
+p189
+tp190
+Rp191
+tp192
+a(S'robot calibration'
+p193
+g2
+(g6
+S'\xcd)\xabt\x14\xee\xcd?'
+p194
+tp195
+Rp196
+tp197
+a(S'ludwig burmester'
+p198
+g2
+(g6
+S'\xb6\xd3_\x93\xb7\xda\xcd?'
+p199
+tp200
+Rp201
+tp202
+a(S'index of robotics articles'
+p203
+g2
+(g6
+S'\xa9\xa4X\xb5u\xaf\xcd?'
+p204
+tp205
+Rp206
+tp207
+a(S'shallow water equations'
+p208
+g2
+(g6
+S'!BS\x1f\x7f\x85\xcd?'
+p209
+tp210
+Rp211
+tp212
+a(S'direct linear transformation'
+p213
+g2
+(g6
+S'\x16\xc9nw.\x7f\xcd?'
+p214
+tp215
+Rp216
+tp217
+a(S'rank condition'
+p218
+g2
+(g6
+S'\x81\x00W\x0b\xf4v\xcd?'
+p219
+tp220
+Rp221
+tp222
+a(S'field equation'
+p223
+g2
+(g6
+S'\x8d\xa0\x92]jP\xcd?'
+p224
+tp225
+Rp226
+tp227
+a(S'robotic arm'
+p228
+g2
+(g6
+S'3-\xe2\x88Q\n\xcd?'
+p229
+tp230
+Rp231
+tp232
+a(S'balance equation'
+p233
+g2
+(g6
+S'\x96j`T\xe6\xbd\xcc?'
+p234
+tp235
+Rp236
+tp237
+a(S'link'
+p238
+g2
+(g6
+S'=Xg\xbd\xb9\xa6\xcc?'
+p239
+tp240
+Rp241
+tp242
+a(S'isomonodromic deformation'
+p243
+g2
+(g6
+S':n\xff\x88\xa7\x89\xcc?'
+p244
+tp245
+Rp246
+tp247
+a(S'mangler transformation'
+p248
+g2
+(g6
+S'\xc0\xcccB\xaay\xcc?'
+p249
+tp250
+Rp251
+tp252
+a(S'link 4'
+p253
+g2
+(g6
+S's\x7f\xda\x1c\x8c]\xcc?'
+p254
+tp255
+Rp256
+tp257
+a(S'list of universal theme park attractions'
+p258
+g2
+(g6
+S'\xeaF\x85\xe1\xf3L\xcc?'
+p259
+tp260
+Rp261
+tp262
+a(S'eleague season 1'
+p263
+g2
+(g6
+S'\xb7\x9d\x9e6\xa4L\xcc?'
+p264
+tp265
+Rp266
+tp267
+a(S'derivations of the lorentz transformations'
+p268
+g2
+(g6
+S'Zi\x83\x89M?\xcc?'
+p269
+tp270
+Rp271
+tp272
+a(S'transformation matrix'
+p273
+g2
+(g6
+S'\xf5"6\xd2\xda(\xcc?'
+p274
+tp275
+Rp276
+tp277
+a(S'analytical dynamics'
+p278
+g2
+(g6
+S"(\xba\xc1dY'\xcc?"
+p279
+tp280
+Rp281
+tp282
+a(S'adam link'
+p283
+g2
+(g6
+S'\xb6Xd\x96\xa6\x1a\xcc?'
+p284
+tp285
+Rp286
+tp287
+a(S'kinemation'
+p288
+g2
+(g6
+S'k\xd3\xa4\xdbg\x04\xcc?'
+p289
+tp290
+Rp291
+tp292
+a(S'language equation'
+p293
+g2
+(g6
+S'^\xb96L>\x04\xcc?'
+p294
+tp295
+Rp296
+tp297
+a(S'joint constraints'
+p298
+g2
+(g6
+S'\xae\x93\x93%\t\xf8\xcb?'
+p299
+tp300
+Rp301
+tp302
+a(S'system of linear equations'
+p303
+g2
+(g6
+S'\xf1hRh0\xee\xcb?'
+p304
+tp305
+Rp306
+tp307
+a(S"jefimenko's equations"
+p308
+g2
+(g6
+S'K\x98\x83\xe1\xf2\xdb\xcb?'
+p309
+tp310
+Rp311
+tp312
+a(S'actin (software)'
+p313
+g2
+(g6
+S'\xc8Y\x92\x06\x03\xdb\xcb?'
+p314
+tp315
+Rp316
+tp317
+a(S'degrees of freedom (mechanics)'
+p318
+g2
+(g6
+S'\xb7\xfb\xb9R\x8d\xda\xcb?'
+p319
+tp320
+Rp321
+tp322
+a(S'tunisia at the 1991 all-africa games'
+p323
+g2
+(g6
+S'a\x8c\x8d\x84\x8f\xd3\xcb?'
+p324
+tp325
+Rp326
+tp327
+a(S'gheorghe moro\xc8\x99anu'
+p328
+g2
+(g6
+S'J\xe9\xa1\x8dt\xc8\xcb?'
+p329
+tp330
+Rp331
+tp332
+a(S'glossary of robotics'
+p333
+g2
+(g6
+S'\xb0\x95\xd7E\x93\xc5\xcb?'
+p334
+tp335
+Rp336
+tp337
+a(S'tunisia at the 1973 all-africa games'
+p338
+g2
+(g6
+S'\xa9\x94\xe0\x9eT\xc5\xcb?'
+p339
+tp340
+Rp341
+tp342
+a(S'tunisia at the 1987 all-africa games'
+p343
+g2
+(g6
+S'\xa5o\x0f\xa0\x7f\xc3\xcb?'
+p344
+tp345
+Rp346
+tp347
+a(S'tunisia at the 2010 african youth games'
+p348
+g2
+(g6
+S'|\x86\xda\x87M\xc3\xcb?'
+p349
+tp350
+Rp351
+tp352
+a(S'tunisia at the 1978 all-africa games'
+p353
+g2
+(g6
+S'\xc1\xa3}\xd6^\xbf\xcb?'
+p354
+tp355
+Rp356
+tp357
+a(S'tunisia at the 2007 all-africa games'
+p358
+g2
+(g6
+S'z\xd2\x0eh\xae\xb7\xcb?'
+p359
+tp360
+Rp361
+tp362
+a(S'tunisia at the 2003 all-africa games'
+p363
+g2
+(g6
+S'\xfeC$\x8d5\xb7\xcb?'
+p364
+tp365
+Rp366
+tp367
+a(S'multibody system'
+p368
+g2
+(g6
+S'\xf8J\xd5t\x80\xb5\xcb?'
+p369
+tp370
+Rp371
+tp372
+a(S'tunisia at the 1995 all-africa games'
+p373
+g2
+(g6
+S'G"\xa2Sw\xb4\xcb?'
+p374
+tp375
+Rp376
+tp377
+a(S'tunisia at the 1965 all-africa games'
+p378
+g2
+(g6
+S'\x14,G\xb9b\xb3\xcb?'
+p379
+tp380
+Rp381
+tp382
+a(S'integrodifference equation'
+p383
+g2
+(g6
+S';u\xc3\x0c\xf9\xaa\xcb?'
+p384
+tp385
+Rp386
+tp387
+a(S'tunisia at the 1999 all-africa games'
+p388
+g2
+(g6
+S'MV\xfdq\xf2\xa9\xcb?'
+p389
+tp390
+Rp391
+tp392
+a(S'pose to pose animation'
+p393
+g2
+(g6
+S']\xcf\xe2q=\xa8\xcb?'
+p394
+tp395
+Rp396
+tp397
+a(S'physics equations'
+p398
+g2
+(g6
+S'\xc4\xc5\x08 lt\xcb?'
+p399
+tp400
+Rp401
+tp402
+a(S'equations of motion'
+p403
+g2
+(g6
+S'\x96G<=\xf2d\xcb?'
+p404
+tp405
+Rp406
+tp407
+a(S'llobregat\xe2\x80\x93anoia line'
+p408
+g2
+(g6
+S'a\xd7x\xd4\x95]\xcb?'
+p409
+tp410
+Rp411
+tp412
+a(S'articulated robot'
+p413
+g2
+(g6
+S'\xcb\n\xbff\x0f9\xcb?'
+p414
+tp415
+Rp416
+tp417
+a(S'bogomolny equations'
+p418
+g2
+(g6
+S'\x85\x1b\xb9\xf5/2\xcb?'
+p419
+tp420
+Rp421
+tp422
+a(S'independent equation'
+p423
+g2
+(g6
+S'\xa0\x18Jal%\xcb?'
+p424
+tp425
+Rp426
+tp427
+a(S'algeria at the 1978 all-africa games'
+p428
+g2
+(g6
+S")c}\xe4'#\xcb?"
+p429
+tp430
+Rp431
+tp432
+a(S'inverse problem'
+p433
+g2
+(g6
+S'\x05\xfb>\xf1\xa7"\xcb?'
+p434
+tp435
+Rp436
+tp437
+a(S'list of mbta commuter rail stations'
+p438
+g2
+(g6
+S'O\x99\xa5\x96\xfe\xe7\xca?'
+p439
+tp440
+Rp441
+tp442
+a(S"drode's equations"
+p443
+g2
+(g6
+S'\xa5\xe4\xe99Q\xde\xca?'
+p444
+tp445
+Rp446
+tp447
+a(S'hector chang (mathematician)'
+p448
+g2
+(g6
+S'\xc4\x00\xa1o\xa3\xbb\xca?'
+p449
+tp450
+Rp451
+tp452
+a(S'eqworld'
+p453
+g2
+(g6
+S'\xe5\t}\xc9\x88\xa4\xca?'
+p454
+tp455
+Rp456
+tp457
+a(S'euler equations (fluid dynamics)'
+p458
+g2
+(g6
+S'\x0e\x15^A\x97\xa3\xca?'
+p459
+tp460
+Rp461
+tp462
+a(S'mathisson\xe2\x80\x93papapetrou\xe2\x80\x93dixon equations'
+p463
+g2
+(g6
+S'\xfes\x90\x8fD\x97\xca?'
+p464
+tp465
+Rp466
+tp467
+a(S'list of metra stations'
+p468
+g2
+(g6
+S' \x18\xd2\x90\x7f\x80\xca?'
+p469
+tp470
+Rp471
+tp472
+a(S'prismatic joint'
+p473
+g2
+(g6
+S'\x86\xd8\x99\xdePR\xca?'
+p474
+tp475
+Rp476
+tp477
+a(S'optimal projection equations'
+p478
+g2
+(g6
+S'O\xd3\xc5`\xd0M\xca?'
+p479
+tp480
+Rp481
+tp482
+a(S'model transformation'
+p483
+g2
+(g6
+S'\x93\x9fF\x8f\xc4L\xca?'
+p484
+tp485
+Rp486
+tp487
+a(S'riemann invariant'
+p488
+g2
+(g6
+S'\x15b\xe7\x8d\xf87\xca?'
+p489
+tp490
+Rp491
+tp492
+a(S'f\xc3\xb6ppl\xe2\x80\x93von k\xc3\xa1rm\xc3\xa1n equations'
+p493
+g2
+(g6
+S'\x96\x88\x0eKt\x18\xca?'
+p494
+tp495
+Rp496
+tp497
+a(S'kinematic self-replicating machines'
+p498
+g2
+(g6
+S'U\xc4\xd6\xe8\x83\x17\xca?'
+p499
+tp500
+Rp501
+tp502
+a(S'rational motion'
+p503
+g2
+(g6
+S'\x03\x054\xe7R\x02\xca?'
+p504
+tp505
+Rp506
+tp507
+a(S'vasiliev equations'
+p508
+g2
+(g6
+S'\x99\xeb\x11\xaaV\xfc\xc9?'
+p509
+tp510
+Rp511
+tp512
+a(S'kinematic pair'
+p513
+g2
+(g6
+S'\x9b\xfdQ\x18_\xd8\xc9?'
+p514
+tp515
+Rp516
+tp517
+a(S'delta robot'
+p518
+g2
+(g6
+S'\xd8\xf8\x88\x0co\xd2\xc9?'
+p519
+tp520
+Rp521
+tp522
+a(S'bijaganita'
+p523
+g2
+(g6
+S'1x\xcd\x17\x12\xb4\xc9?'
+p524
+tp525
+Rp526
+tp527
+a(S'hidden field equations'
+p528
+g2
+(g6
+S'm\x8d|\xab\x12\x9a\xc9?'
+p529
+tp530
+Rp531
+tp532
+a(S'primitive equations'
+p533
+g2
+(g6
+S'gl\xe9\x83\x13\x96\xc9?'
+p534
+tp535
+Rp536
+tp537
+a(S'precision mechanics'
+p538
+g2
+(g6
+S'E\xd0\xc1\xb2I\x88\xc9?'
+p539
+tp540
+Rp541
+tp542
+a(S"maxwell's equations"
+p543
+g2
+(g6
+S'D\xbf\xc7\xb5\xf9U\xc9?'
+p544
+tp545
+Rp546
+tp547
+a(S'chebychev\xe2\x80\x93gr\xc3\xbcbler\xe2\x80\x93kutzbach criterion'
+p548
+g2
+(g6
+S'\x8b=\xa4\x155P\xc9?'
+p549
+tp550
+Rp551
+tp552
+a(S"matrix representation of maxwell's equations"
+p553
+g2
+(g6
+S"l,\xde'm)\xc9?"
+p554
+tp555
+Rp556
+tp557
+a(S'rigid body dynamics'
+p558
+g2
+(g6
+S'\x1d\x00\xbf\xf4\x08\x14\xc9?'
+p559
+tp560
+Rp561
+tp562
+a(S'ragdoll physics'
+p563
+g2
+(g6
+S'>vZ\xa7\xd7\xf3\xc8?'
+p564
+tp565
+Rp566
+tp567
+a(S'i love my country'
+p568
+g2
+(g6
+S'?\x90?\xe8\x1e\xee\xc8?'
+p569
+tp570
+Rp571
+tp572
+a(S'parallel manipulator'
+p573
+g2
+(g6
+S'\xe0{\xe0\r\x98\xea\xc8?'
+p574
+tp575
+Rp576
+tp577
+a(S'aleksandr kotelnikov'
+p578
+g2
+(g6
+S'\xae\xd2\xfe\x8e`\xe4\xc8?'
+p579
+tp580
+Rp581
+tp582
+a(S'helmert transformation'
+p583
+g2
+(g6
+S'\x8c\xc0\x1d7\xb7\xdf\xc8?'
+p584
+tp585
+Rp586
+tp587
+a(S'model transformation language'
+p588
+g2
+(g6
+S'\xb1\xb8\xcf\xce\xae\xdd\xc8?'
+p589
+tp590
+Rp591
+tp592
+a(S'pocketdelta robot'
+p593
+g2
+(g6
+S' \xfaJ\xd7\x1e\xc3\xc8?'
+p594
+tp595
+Rp596
+tp597
+a(S'linear transformation in rotating electrical machines'
+p598
+g2
+(g6
+S'\x16\x97\xf8Q\x02\xbc\xc8?'
+p599
+tp600
+Rp601
+tp602
+a(S'underdetermined system'
+p603
+g2
+(g6
+S'$\xa9\xc02B\x9b\xc8?'
+p604
+tp605
+Rp606
+tp607
+a(S'screw theory'
+p608
+g2
+(g6
+S'\xc9\x8b\x813K\x96\xc8?'
+p609
+tp610
+Rp611
+tp612
+a(S'time-scale calculus'
+p613
+g2
+(g6
+S'\x05l\xb2\xfdJz\xc8?'
+p614
+tp615
+Rp616
+tp617
+a(S'list of metrovalencia stations'
+p618
+g2
+(g6
+S'\x13\xd1\xa3\xa0)`\xc8?'
+p619
+tp620
+Rp621
+tp622
+a(S'fk'
+p623
+g2
+(g6
+S'\xe3a\xb5\x92YV\xc8?'
+p624
+tp625
+Rp626
+tp627
+a(S'i, robot (1964 the outer limits)'
+p628
+g2
+(g6
+S'\xda\xe7eR\xc7M\xc8?'
+p629
+tp630
+Rp631
+tp632
+a(S'maxwell\xe2\x80\x93bloch equations'
+p633
+g2
+(g6
+S'E\x9bp\xb7XE\xc8?'
+p634
+tp635
+Rp636
+tp637
+a(S'roothaan equations'
+p638
+g2
+(g6
+S']ec\x15\xd2@\xc8?'
+p639
+tp640
+Rp641
+tp642
+a(S'robot software'
+p643
+g2
+(g6
+S'y\xcc\x8eu\xc3/\xc8?'
+p644
+tp645
+Rp646
+tp647
+a(S'parametric equation'
+p648
+g2
+(g6
+S'\xbc\xd7\xee\x1c\xf0,\xc8?'
+p649
+tp650
+Rp651
+tp652
+a(S'timeline of algebra'
+p653
+g2
+(g6
+S'\x12\xab\xf2\x86)\x1e\xc8?'
+p654
+tp655
+Rp656
+tp657
+a(S'taarlab'
+p658
+g2
+(g6
+S'\x91\xd2\xeb\xa4\x95\t\xc8?'
+p659
+tp660
+Rp661
+tp662
+a(S'tactical data link'
+p663
+g2
+(g6
+S'\x1c\xbeH*a\x06\xc8?'
+p664
+tp665
+Rp666
+tp667
+a(S'mathematical descriptions of the electromagnetic field'
+p668
+g2
+(g6
+S'\xab]j\xf4(\x02\xc8?'
+p669
+tp670
+Rp671
+tp672
+a(S'2013 island games'
+p673
+g2
+(g6
+S'\xe2\x90>1\xfa\xc8\xc7?'
+p674
+tp675
+Rp676
+tp677
+a(S'viatra'
+p678
+g2
+(g6
+S'C\xcd\x1aF\xdf\xb5\xc7?'
+p679
+tp680
+Rp681
+tp682
+a(S'robologix'
+p683
+g2
+(g6
+S'\x16\xce\x9b\xe0\xfc\xb0\xc7?'
+p684
+tp685
+Rp686
+tp687
+a(S'augmented matrix'
+p688
+g2
+(g6
+S'\xb8n\xe8\x1a.\xb0\xc7?'
+p689
+tp690
+Rp691
+tp692
+a(S'equation'
+p693
+g2
+(g6
+S'-\xf0H\xc0.\x9a\xc7?'
+p694
+tp695
+Rp696
+tp697
+a(S'nonlinear partial differential equation'
+p698
+g2
+(g6
+S'\x98\xe6|T\xb0\x98\xc7?'
+p699
+tp700
+Rp701
+tp702
+a(S'off-line programming (robotics)'
+p703
+g2
+(g6
+S'\x12tb\x8ab\x95\xc7?'
+p704
+tp705
+Rp706
+tp707
+a(S'outline of robotics'
+p708
+g2
+(g6
+S'\x12.\xf6d\x02\x90\xc7?'
+p709
+tp710
+Rp711
+tp712
+a(S'gravitoelectromagnetism'
+p713
+g2
+(g6
+S'\nS\x06\x1c\xa3\x8b\xc7?'
+p714
+tp715
+Rp716
+tp717
+a(S'invertible matrix'
+p718
+g2
+(g6
+S'\xac\x91\xe1\xdc\x8d\x8b\xc7?'
+p719
+tp720
+Rp721
+tp722
+a(S'kolmogorov equations (markov jump process)'
+p723
+g2
+(g6
+S'\xdeo\xf2@#\x85\xc7?'
+p724
+tp725
+Rp726
+tp727
+a(S'ferdinand freudenstein'
+p728
+g2
+(g6
+S'o\xc6\x7fEkw\xc7?'
+p729
+tp730
+Rp731
+tp732
+a(S"history of maxwell's equations"
+p733
+g2
+(g6
+S'\xad\xb1\xb4\x9c2f\xc7?'
+p734
+tp735
+Rp736
+tp737
+a(S'ordinary differential equation'
+p738
+g2
+(g6
+S'\xd3\x9fO\xec\xcca\xc7?'
+p739
+tp740
+Rp741
+tp742
+a(S'automationml'
+p743
+g2
+(g6
+S'N\x8b!\xca\xf2[\xc7?'
+p744
+tp745
+Rp746
+tp747
+a(S'inverse (mathematics)'
+p748
+g2
+(g6
+S'\xf0\xedHaM[\xc7?'
+p749
+tp750
+Rp751
+tp752
+a(S'split link'
+p753
+g2
+(g6
+S'\x9d\xa7P\xbd\x94Z\xc7?'
+p754
+tp755
+Rp756
+tp757
+a(S'transformation'
+p758
+g2
+(g6
+S'\xd1d\xd9I`M\xc7?'
+p759
+tp760
+Rp761
+tp762
+a(S'istv\xc3\xa1n feny\xc5\x91'
+p763
+g2
+(g6
+S'\x83)D\xfa\xb9)\xc7?'
+p764
+tp765
+Rp766
+tp767
+a(S'matrix (mathematics)'
+p768
+g2
+(g6
+S'g\xactV"\x1c\xc7?'
+p769
+tp770
+Rp771
+tp772
+a(S'opinion polling for the french presidential election, 2017'
+p773
+g2
+(g6
+S't*4\x81\xa3\x1a\xc7?'
+p774
+tp775
+Rp776
+tp777
+a(S"cramer's rule"
+p778
+g2
+(g6
+S'\xbe\xe4\x7f\x8e\xbb\x18\xc7?'
+p779
+tp780
+Rp781
+tp782
+a(S'system of bilinear equations'
+p783
+g2
+(g6
+S'\xb5\xa8\x88g\xe4\xf6\xc6?'
+p784
+tp785
+Rp786
+tp787
+a(S'qvt'
+p788
+g2
+(g6
+S'8\xfc\x88\xdb6\xf6\xc6?'
+p789
+tp790
+Rp791
+tp792
+a(S'indeterminate system'
+p793
+g2
+(g6
+S'\xba\xa3`M.\xeb\xc6?'
+p794
+tp795
+Rp796
+tp797
+a(S'newton\xe2\x80\x93euler equations'
+p798
+g2
+(g6
+S'f+Y\x84@\xe8\xc6?'
+p799
+tp800
+Rp801
+tp802
+a(S'john j. uicker'
+p803
+g2
+(g6
+S'V\xb3y\xc8\x10\xe7\xc6?'
+p804
+tp805
+Rp806
+tp807
+a(S'list of equations in fluid mechanics'
+p808
+g2
+(g6
+S'~\xcb\x11T\x8f\xe3\xc6?'
+p809
+tp810
+Rp811
+tp812
+a(S'list of knitters in literature'
+p813
+g2
+(g6
+S'\xa2\x03\x8e8\xbe\xdb\xc6?'
+p814
+tp815
+Rp816
+tp817
+a(S'robot (disambiguation)'
+p818
+g2
+(g6
+S'cQ\xff\xc23\xd6\xc6?'
+p819
+tp820
+Rp821
+tp822
+a(S'diffeomorphism constraint'
+p823
+g2
+(g6
+S'Y\x11\t\xd5\x8f\xc8\xc6?'
+p824
+tp825
+Rp826
+tp827
+a(S'kinematic wave'
+p828
+g2
+(g6
+S'\xd0\xe4\x82\x89\x11\xc6\xc6?'
+p829
+tp830
+Rp831
+tp832
+a(S'transmission angle'
+p833
+g2
+(g6
+S'"\x1d\x0b\xcb\xda\xc2\xc6?'
+p834
+tp835
+Rp836
+tp837
+a(S'jeans equations'
+p838
+g2
+(g6
+S'\xe9\xd3\x08\xb7\xa2\xbc\xc6?'
+p839
+tp840
+Rp841
+tp842
+a(S'list of snakes in the republic of macedonia'
+p843
+g2
+(g6
+S'\xf2a\xb9K\x00\xac\xc6?'
+p844
+tp845
+Rp846
+tp847
+a(S'o. winston link'
+p848
+g2
+(g6
+S'J\xd3\x91aq\x96\xc6?'
+p849
+tp850
+Rp851
+tp852
+a(S'state variable'
+p853
+g2
+(g6
+S'\x85\xe6\xc4+Y\x8f\xc6?'
+p854
+tp855
+Rp856
+tp857
+a(S'list of fictional robots and androids'
+p858
+g2
+(g6
+S'l\xe8\xb7Jd\x8c\xc6?'
+p859
+tp860
+Rp861
+tp862
+a(S'edwin albert link'
+p863
+g2
+(g6
+S'\x8cK\xff\x14@\x8b\xc6?'
+p864
+tp865
+Rp866
+tp867
+a(S'gempack'
+p868
+g2
+(g6
+S'\xa7\x89\x05\x1f\x9f\x81\xc6?'
+p869
+tp870
+Rp871
+tp872
+a(S'highways in estonia'
+p873
+g2
+(g6
+S'I\x075X\xfa{\xc6?'
+p874
+tp875
+Rp876
+tp877
+a(S'master link'
+p878
+g2
+(g6
+S'\xefA^\x82\xa0w\xc6?'
+p879
+tp880
+Rp881
+tp882
+a(S'programmable universal machine for assembly'
+p883
+g2
+(g6
+S'/\x1a\xe3\x03sm\xc6?'
+p884
+tp885
+Rp886
+tp887
+a(S'salvius'
+p888
+g2
+(g6
+S'P\xe6\xee\x9b\x81a\xc6?'
+p889
+tp890
+Rp891
+tp892
+a(S'solutions of the einstein field equations'
+p893
+g2
+(g6
+S'\xb1\xf5\x15\x9eqa\xc6?'
+p894
+tp895
+Rp896
+tp897
+a(S'joint mathematics meetings'
+p898
+g2
+(g6
+S'\xe5\n\x91s\xceT\xc6?'
+p899
+tp900
+Rp901
+tp902
+a(S'm13 link'
+p903
+g2
+(g6
+S'2W\xee\x02\xc1I\xc6?'
+p904
+tp905
+Rp906
+tp907
+a(S'slope deflection method'
+p908
+g2
+(g6
+S'\xa7~\xabH\x86H\xc6?'
+p909
+tp910
+Rp911
+tp912
+a(S'2mass 0532+8246'
+p913
+g2
+(g6
+S'\xcf}\xcb\x9e\xee<\xc6?'
+p914
+tp915
+Rp916
+tp917
+a(S'fish curve'
+p918
+g2
+(g6
+S'\xce+Y\xc4\xb1;\xc6?'
+p919
+tp920
+Rp921
+tp922
+a(S'quick return mechanism'
+p923
+g2
+(g6
+S'\xefK\x1d\x83-:\xc6?'
+p924
+tp925
+Rp926
+tp927
+a(S'cartesian coordinate robot'
+p928
+g2
+(g6
+S'\xd2\xb3\xf4\x04\xc50\xc6?'
+p929
+tp930
+Rp931
+tp932
+a(S'european route e65'
+p933
+g2
+(g6
+S'|\xef\xce\xf0E"\xc6?'
+p934
+tp935
+Rp936
+tp937
+a(S'characters in the legend of zelda series'
+p938
+g2
+(g6
+S'\xf9\xffF\xff\xd5!\xc6?'
+p939
+tp940
+Rp941
+tp942
+a(S'lorentz transformation'
+p943
+g2
+(g6
+S'\xe7T\x13\x91&\x18\xc6?'
+p944
+tp945
+Rp946
+tp947
+a(S'cholo (video game)'
+p948
+g2
+(g6
+S'\xec\x92!B\x1c\xfa\xc5?'
+p949
+tp950
+Rp951
+tp952
+a(S'partial differential equation'
+p953
+g2
+(g6
+S'X,\xa2k\xc4\xf4\xc5?'
+p954
+tp955
+Rp956
+tp957
+a(S'linear prediction'
+p958
+g2
+(g6
+S'R\x15\xfa\x99\xac\xf1\xc5?'
+p959
+tp960
+Rp961
+tp962
+a(S'combots'
+p963
+g2
+(g6
+S'?\xb0VE\xa9\xde\xc5?'
+p964
+tp965
+Rp966
+tp967
+a(S'model year (computer modeling)'
+p968
+g2
+(g6
+S'\\\xe5\xe0;%\xd5\xc5?'
+p969
+tp970
+Rp971
+tp972
+a(S'bruce harding'
+p973
+g2
+(g6
+S'}\x1f\xc4\xb0\x9e\xd1\xc5?'
+p974
+tp975
+Rp976
+tp977
+a(S'yang\xe2\x80\x93mills\xe2\x80\x93higgs equations'
+p978
+g2
+(g6
+S'\xceK\xe2 )\xce\xc5?'
+p979
+tp980
+Rp981
+tp982
+a(S'robotics'
+p983
+g2
+(g6
+S'\x12\xd4\xff\x80\xd4\xc8\xc5?'
+p984
+tp985
+Rp986
+tp987
+a(S'computer animation'
+p988
+g2
+(g6
+S'\x93\x84\xae\xb5\xdc\xbe\xc5?'
+p989
+tp990
+Rp991
+tp992
+a(S'valentina borok'
+p993
+g2
+(g6
+S'G\xa2#\x98|\xbd\xc5?'
+p994
+tp995
+Rp996
+tp997
+a(S'active and passive transformation'
+p998
+g2
+(g6
+S'D\xb0\xcd\xc9\x0c\xb5\xc5?'
+p999
+tp1000
+Rp1001
+tp1002
+a(S'linkage (mechanical)'
+p1003
+g2
+(g6
+S'}\x840%\xc0\xb0\xc5?'
+p1004
+tp1005
+Rp1006
+tp1007
+a(S'traffic equations'
+p1008
+g2
+(g6
+S'\x1d\t\xd9\xd0\x13\xb0\xc5?'
+p1009
+tp1010
+Rp1011
+tp1012
+a(S'integral equation'
+p1013
+g2
+(g6
+S'\x06\xe7\xc6\xd1\x0f\xad\xc5?'
+p1014
+tp1015
+Rp1016
+tp1017
+a(S'coefficient matrix'
+p1018
+g2
+(g6
+S'l\xe4\xa1\xc4\x1e\xa8\xc5?'
+p1019
+tp1020
+Rp1021
+tp1022
+a(S'conrad dasypodius'
+p1023
+g2
+(g6
+S'\xd6\x92\xc0\x05\xb7\xa4\xc5?'
+p1024
+tp1025
+Rp1026
+tp1027
+a(S'boussinesq approximation (water waves)'
+p1028
+g2
+(g6
+S'\x9f\xb8A\x1c\xc4\x94\xc5?'
+p1029
+tp1030
+Rp1031
+tp1032
+a(S'bundesvision song contest 2015'
+p1033
+g2
+(g6
+S'\x10\x10\xc84Y\x92\xc5?'
+p1034
+tp1035
+Rp1036
+tp1037
+a(S'list of rio de janeiro brt stations'
+p1038
+g2
+(g6
+S'5l\xc2\x8e\xb5\x8d\xc5?'
+p1039
+tp1040
+Rp1041
+tp1042
+a(S'robot (comics)'
+p1043
+g2
+(g6
+S'\xd1F\x9d\xb65\x81\xc5?'
+p1044
+tp1045
+Rp1046
+tp1047
+a(S'voivodeship road 797 (poland)'
+p1048
+g2
+(g6
+S'\xc5\xb2\xa1\x1d\xfe|\xc5?'
+p1049
+tp1050
+Rp1051
+tp1052
+a(S'bargmann\xe2\x80\x93wigner equations'
+p1053
+g2
+(g6
+S'\x85\xd2\xdeA\x17u\xc5?'
+p1054
+tp1055
+Rp1056
+tp1057
+a(S'little lost robot'
+p1058
+g2
+(g6
+S'!\x03\xa4\x89\x8ar\xc5?'
+p1059
+tp1060
+Rp1061
+tp1062
+a(S'hierarchical matrix'
+p1063
+g2
+(g6
+S'\xe8\xca\xa3\x17\xcfp\xc5?'
+p1064
+tp1065
+Rp1066
+tp1067
+a(S'list of u.s. national parks by elevation'
+p1068
+g2
+(g6
+S'#P\x1bf\xc6j\xc5?'
+p1069
+tp1070
+Rp1071
+tp1072
+a(S'matrix multiplication'
+p1073
+g2
+(g6
+S'\xf4L\x93\x9b\x01h\xc5?'
+p1074
+tp1075
+Rp1076
+tp1077
+a(S'differential equation'
+p1078
+g2
+(g6
+S'c\x82V\xdc@f\xc5?'
+p1079
+tp1080
+Rp1081
+tp1082
+a(S'inverse problem for lagrangian mechanics'
+p1083
+g2
+(g6
+S'\xe3\xd2&\xa5\xc8P\xc5?'
+p1084
+tp1085
+Rp1086
+tp1087
+a(S'automotive suspension design'
+p1088
+g2
+(g6
+S'\xff\xbc:\x8a\x96H\xc5?'
+p1089
+tp1090
+Rp1091
+tp1092
+a(S'the link (retailer)'
+p1093
+g2
+(g6
+S'\xb3+\x1b\xd7/A\xc5?'
+p1094
+tp1095
+Rp1096
+tp1097
+a(S'unlink'
+p1098
+g2
+(g6
+S'\xde\xc7\xb6(t8\xc5?'
+p1099
+tp1100
+Rp1101
+tp1102
+a(S'broken link'
+p1103
+g2
+(g6
+S'\xb5^s\x1a^5\xc5?'
+p1104
+tp1105
+Rp1106
+tp1107
+a(S'european route e80'
+p1108
+g2
+(g6
+S'\xf3\xe9,\x17!3\xc5?'
+p1109
+tp1110
+Rp1111
+tp1112
+a(S'manakov system'
+p1113
+g2
+(g6
+S'\x9fp\x1e\x9e|1\xc5?'
+p1114
+tp1115
+Rp1116
+tp1117
+a(S'matrix-free methods'
+p1118
+g2
+(g6
+S'Af\xdam\xdc\x1f\xc5?'
+p1119
+tp1120
+Rp1121
+tp1122
+a(S'surface robotics laboratory-cmeri'
+p1123
+g2
+(g6
+S'~\xe3H^\x91\x1a\xc5?'
+p1124
+tp1125
+Rp1126
+tp1127
+a(S'link (the legend of zelda)'
+p1128
+g2
+(g6
+S'\xe0\xd8]@\xc2\x19\xc5?'
+p1129
+tp1130
+Rp1131
+tp1132
+a(S'wildlife and countryside link'
+p1133
+g2
+(g6
+S'\xab<\xce\x85\xfc\x13\xc5?'
+p1134
+tp1135
+Rp1136
+tp1137
+a(S'telecommunications link'
+p1138
+g2
+(g6
+S'\n.\xb2*\xa5\x12\xc5?'
+p1139
+tp1140
+Rp1141
+tp1142
+a(S'fyodor avelan'
+p1143
+g2
+(g6
+S'\xfb\xd4;\xe9\r\x12\xc5?'
+p1144
+tp1145
+Rp1146
+tp1147
+a(S'robot combat'
+p1148
+g2
+(g6
+S'\xd2s\xeb\xd9{\x08\xc5?'
+p1149
+tp1150
+Rp1151
+tp1152
+a(S'linear elasticity'
+p1153
+g2
+(g6
+S'sY5]U\x05\xc5?'
+p1154
+tp1155
+Rp1156
+tp1157
+a(S'tadeusz wa\xc5\xbcewski'
+p1158
+g2
+(g6
+S'\x96\xf0\x96\xb8\x0b\x04\xc5?'
+p1159
+tp1160
+Rp1161
+tp1162
+a(S"strominger's equations"
+p1163
+g2
+(g6
+S'\x99\xa0\x1c\xed\xdb\x02\xc5?'
+p1164
+tp1165
+Rp1166
+tp1167
+a(S'list of equations in classical mechanics'
+p1168
+g2
+(g6
+S'\x03\x8bS\x92\xe8\xfd\xc4?'
+p1169
+tp1170
+Rp1171
+tp1172
+a(S'reymond clavel'
+p1173
+g2
+(g6
+S'g\xa4|\xa2\x80\xfd\xc4?'
+p1174
+tp1175
+Rp1176
+tp1177
+a(S'wake-up robot problem'
+p1178
+g2
+(g6
+S'\x86\xc8\x12\x9d?\xfd\xc4?'
+p1179
+tp1180
+Rp1181
+tp1182
+a(S'human\xe2\x80\x93robot interaction'
+p1183
+g2
+(g6
+S'\x06R\x02z\x10\xf4\xc4?'
+p1184
+tp1185
+Rp1186
+tp1187
+a(S'einstein field equations'
+p1188
+g2
+(g6
+S'\xc6\xd5\x86\x0c\xfd\xf3\xc4?'
+p1189
+tp1190
+Rp1191
+tp1192
+a(S'fundamental matrix (linear differential equation)'
+p1193
+g2
+(g6
+S'\xb7\xe2`zT\xf1\xc4?'
+p1194
+tp1195
+Rp1196
+tp1197
+a(S'cybermotion 3d'
+p1198
+g2
+(g6
+S'^\x99\xbeT"\xed\xc4?'
+p1199
+tp1200
+Rp1201
+tp1202
+a(S'kinematic coupling'
+p1203
+g2
+(g6
+S'\xf4\xb2\xf27\xeb\xeb\xc4?'
+p1204
+tp1205
+Rp1206
+tp1207
+a(S'lrk'
+p1208
+g2
+(g6
+S'\xd00\xd4\x13\xbc\xeb\xc4?'
+p1209
+tp1210
+Rp1211
+tp1212
+a(S'robert williams (robot fatality)'
+p1213
+g2
+(g6
+S'\xfe\x86w\xd5t\xe7\xc4?'
+p1214
+tp1215
+Rp1216
+tp1217
+a(S'picone identity'
+p1218
+g2
+(g6
+S'\x93\xe6k\xdf\xa7\xdf\xc4?'
+p1219
+tp1220
+Rp1221
+tp1222
+a(S'boris rufimovich vainberg'
+p1223
+g2
+(g6
+S'\xffuN\xbc\x08\xcf\xc4?'
+p1224
+tp1225
+Rp1226
+tp1227
+a(S'the international journal of robotics research'
+p1228
+g2
+(g6
+S'\xe8=\xe2^\x8f\xce\xc4?'
+p1229
+tp1230
+Rp1231
+tp1232
+a(S'estimating equations'
+p1233
+g2
+(g6
+S'w\x93\x92U\x81\xc8\xc4?'
+p1234
+tp1235
+Rp1236
+tp1237
+a(S'modelica'
+p1238
+g2
+(g6
+S'\x95%\x95\xa2\x96\xbd\xc4?'
+p1239
+tp1240
+Rp1241
+tp1242
+a(S'b\xc3\xado b\xc3\xado region'
+p1243
+g2
+(g6
+S'!\x9b\x08AM\xb9\xc4?'
+p1244
+tp1245
+Rp1246
+tp1247
+a(S'list of relativistic equations'
+p1248
+g2
+(g6
+S'\x03\x82X"6\xb7\xc4?'
+p1249
+tp1250
+Rp1251
+tp1252
+a(S'd-link'
+p1253
+g2
+(g6
+S'|zb\x94T\xab\xc4?'
+p1254
+tp1255
+Rp1256
+tp1257
+a(S'atlas 3d survey'
+p1258
+g2
+(g6
+S'\x06\x84\x0b\x1a\x98\xaa\xc4?'
+p1259
+tp1260
+Rp1261
+tp1262
+a(S'auto-latex equations'
+p1263
+g2
+(g6
+S'\x84\x18r\x88C\xa7\xc4?'
+p1264
+tp1265
+Rp1266
+tp1267
+a(S'robot (dance)'
+p1268
+g2
+(g6
+S'vB\xfc4\xf8\xa5\xc4?'
+p1269
+tp1270
+Rp1271
+tp1272
+a(S'dynamical simulation'
+p1273
+g2
+(g6
+S'^t\xa3\x04|\xa4\xc4?'
+p1274
+tp1275
+Rp1276
+tp1277
+a(S'hessian equation'
+p1278
+g2
+(g6
+S'\xadP\x98\xf2\x8f\x9f\xc4?'
+p1279
+tp1280
+Rp1281
+tp1282
+a(S'irobot'
+p1283
+g2
+(g6
+S'\xdd\xfa0K!\x9f\xc4?'
+p1284
+tp1285
+Rp1286
+tp1287
+a(S'mathtype'
+p1288
+g2
+(g6
+S'"\x873P?\x91\xc4?'
+p1289
+tp1290
+Rp1291
+tp1292
+a(S'robot battle'
+p1293
+g2
+(g6
+S'\x86\t\x8c\nb\x90\xc4?'
+p1294
+tp1295
+Rp1296
+tp1297
+a(S'i, robot (1995 the outer limits)'
+p1298
+g2
+(g6
+S'\xec9\x19\xf5w\x8f\xc4?'
+p1299
+tp1300
+Rp1301
+tp1302
+a(S'westlink'
+p1303
+g2
+(g6
+S'\x8f\x92\x96s\x95\x8b\xc4?'
+p1304
+tp1305
+Rp1306
+tp1307
+a(S'surena (robot)'
+p1308
+g2
+(g6
+S'\xe7\x964\xfb\xe4\x8a\xc4?'
+p1309
+tp1310
+Rp1311
+tp1312
+a(S'farmer wants a wife'
+p1313
+g2
+(g6
+S'"\xde\x0cQ\xeb\x89\xc4?'
+p1314
+tp1315
+Rp1316
+tp1317
+a(S'linear least squares (mathematics)'
+p1318
+g2
+(g6
+S'g8\xf0\xa0+\x88\xc4?'
+p1319
+tp1320
+Rp1321
+tp1322
+a(S'motion interpolation (computer graphics)'
+p1323
+g2
+(g6
+S'\xc7\xd9\xa7\xfd\x10\x86\xc4?'
+p1324
+tp1325
+Rp1326
+tp1327
+a(S'k\xe2\x80\x93omega turbulence model'
+p1328
+g2
+(g6
+S'\xbdF\xfb\xfb\xe6\x82\xc4?'
+p1329
+tp1330
+Rp1331
+tp1332
+a(S'list of equations in nuclear and particle physics'
+p1333
+g2
+(g6
+S'6\xa4\x86/Q\x82\xc4?'
+p1334
+tp1335
+Rp1336
+tp1337
+a(S'schwinger\xe2\x80\x93dyson equation'
+p1338
+g2
+(g6
+S'*\x94\x82\x16"\x82\xc4?'
+p1339
+tp1340
+Rp1341
+tp1342
+a(S'mobile robot'
+p1343
+g2
+(g6
+S'\xd6\xbd\xa9^?{\xc4?'
+p1344
+tp1345
+Rp1346
+tp1347
+a(S'reynolds-averaged navier\xe2\x80\x93stokes equations'
+p1348
+g2
+(g6
+S'\xd3I\x87=\xafw\xc4?'
+p1349
+tp1350
+Rp1351
+tp1352
+a(S'change of variables'
+p1353
+g2
+(g6
+S'\x94?e\xef\x1dv\xc4?'
+p1354
+tp1355
+Rp1356
+tp1357
+a(S'vaimos'
+p1358
+g2
+(g6
+S'\xd5\x05P_0r\xc4?'
+p1359
+tp1360
+Rp1361
+tp1362
+a(S'list of socialist newspapers in sweden'
+p1363
+g2
+(g6
+S'\x88\xbc\xef\x8a7q\xc4?'
+p1364
+tp1365
+Rp1366
+tp1367
+a(S'solution algorithms for pressure-velocity coupling in steady flows'
+p1368
+g2
+(g6
+S'\x12R\xba\x0b\xcdf\xc4?'
+p1369
+tp1370
+Rp1371
+tp1372
+a(S'large workspace robot'
+p1373
+g2
+(g6
+S'\xdc%\xc5\xd0\x9ce\xc4?'
+p1374
+tp1375
+Rp1376
+tp1377
+a(S'robotics simulator'
+p1378
+g2
+(g6
+S'\x1er\x0eP\x01d\xc4?'
+p1379
+tp1380
+Rp1381
+tp1382
+a(S'robot taekwon v'
+p1383
+g2
+(g6
+S'\xe4b\xaf~\xfc`\xc4?'
+p1384
+tp1385
+Rp1386
+tp1387
+a(S'drazin inverse'
+p1388
+g2
+(g6
+S'\xa3\x90UJ\xfa`\xc4?'
+p1389
+tp1390
+Rp1391
+tp1392
+a(S'animation'
+p1393
+g2
+(g6
+S'\xca\xc6\xe6\x7f\xf1`\xc4?'
+p1394
+tp1395
+Rp1396
+tp1397
+a(S'list of endangered and protected species of china'
+p1398
+g2
+(g6
+S'\xf2\x9fW\xa9q`\xc4?'
+p1399
+tp1400
+Rp1401
+tp1402
+a(S'unbalanced oil and vinegar'
+p1403
+g2
+(g6
+S'\x08`OK\x02]\xc4?'
+p1404
+tp1405
+Rp1406
+tp1407
+a(S'large-scale macroeconometric model'
+p1408
+g2
+(g6
+S'\x81\xc0\r\xde\xeaK\xc4?'
+p1409
+tp1410
+Rp1411
+tp1412
+a(S'red link'
+p1413
+g2
+(g6
+S"23b':B\xc4?"
+p1414
+tp1415
+Rp1416
+tp1417
+a(S'jewellery chain'
+p1418
+g2
+(g6
+S'{\xbd\xcf\xe6\xaaA\xc4?'
+p1419
+tp1420
+Rp1421
+tp1422
+a(S"telegrapher's equations"
+p1423
+g2
+(g6
+S'\xc4O\x9bV\xcc=\xc4?'
+p1424
+tp1425
+Rp1426
+tp1427
+a(S'constrained generalized inverse'
+p1428
+g2
+(g6
+S'\x87\xa1\xc1?\xd2;\xc4?'
+p1429
+tp1430
+Rp1431
+tp1432
+a(S'navier\xe2\x80\x93stokes equations'
+p1433
+g2
+(g6
+S'd\xe91\xda\x1f5\xc4?'
+p1434
+tp1435
+Rp1436
+tp1437
+a(S'european route e50'
+p1438
+g2
+(g6
+S'@\x18\rt\\4\xc4?'
+p1439
+tp1440
+Rp1441
+tp1442
+a(S'transformation (function)'
+p1443
+g2
+(g6
+S'\x18SL\xfbL2\xc4?'
+p1444
+tp1445
+Rp1446
+tp1447
+a(S'kenneth h. hunt'
+p1448
+g2
+(g6
+S'\\\xaf_\xd6\xb4+\xc4?'
+p1449
+tp1450
+Rp1451
+tp1452
+a(S'european route e15'
+p1453
+g2
+(g6
+S'\xed\xf7V\xf4S*\xc4?'
+p1454
+tp1455
+Rp1456
+tp1457
+a(S'stellar drift'
+p1458
+g2
+(g6
+S'\xf1\x7f2Z\xed&\xc4?'
+p1459
+tp1460
+Rp1461
+tp1462
+a(S'integral equations and operator theory'
+p1463
+g2
+(g6
+S'\xb3\xa5\x99\xf5\xe3$\xc4?'
+p1464
+tp1465
+Rp1466
+tp1467
+a(S'generalized inverse'
+p1468
+g2
+(g6
+S'\xf4Wh\xc7\xae"\xc4?'
+p1469
+tp1470
+Rp1471
+tp1472
+a(S'y-\xce\x94 transform'
+p1473
+g2
+(g6
+S'\xd1\\\x90]\x03\x1d\xc4?'
+p1474
+tp1475
+Rp1476
+tp1477
+a(S'brunnian link'
+p1478
+g2
+(g6
+S'\x96\t\xd3\xc5\xd5\x15\xc4?'
+p1479
+tp1480
+Rp1481
+tp1482
+a(S'emma vyssotsky'
+p1483
+g2
+(g6
+S'\x9f\x1d\xa0\xdc^\x11\xc4?'
+p1484
+tp1485
+Rp1486
+tp1487
+a(S'peter link'
+p1488
+g2
+(g6
+S'\x93q\x82\x18\x17\x11\xc4?'
+p1489
+tp1490
+Rp1491
+tp1492
+a(S's-link'
+p1493
+g2
+(g6
+S'\xcepm\xda\xc3\n\xc4?'
+p1494
+tp1495
+Rp1496
+tp1497
+a(S'bundesvision song contest 2006'
+p1498
+g2
+(g6
+S'\x9d\xfc\x0c\xb4R\x05\xc4?'
+p1499
+tp1500
+Rp1501
+tp1502
+a(S'arden buck equation'
+p1503
+g2
+(g6
+S'\xb6L\x9e[\xf9\xfe\xc3?'
+p1504
+tp1505
+Rp1506
+tp1507
+a(S'routhian mechanics'
+p1508
+g2
+(g6
+S'\xb7\x19LS\x96\xfc\xc3?'
+p1509
+tp1510
+Rp1511
+tp1512
+a.

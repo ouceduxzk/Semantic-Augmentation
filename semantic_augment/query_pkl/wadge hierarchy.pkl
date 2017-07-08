@@ -1,0 +1,2728 @@
+(lp0
+(S'wadge hierarchy'
+p1
+cnumpy.core.multiarray
+scalar
+p2
+(cnumpy
+dtype
+p3
+(S'f8'
+p4
+I0
+I1
+tp5
+Rp6
+(I3
+S'<'
+p7
+NNNI-1
+I-1
+I0
+tp8
+bS'\x01\x00\x00\x00\x00\x00\xf0?'
+p9
+tp10
+Rp11
+tp12
+a(S'borel hierarchy'
+p13
+g2
+(g6
+S'\xe9%NT\xcc=\xe3?'
+p14
+tp15
+Rp16
+tp17
+a(S'descriptive set theory'
+p18
+g2
+(g6
+S'8\x03\x8a\xd1x\xcb\xe0?'
+p19
+tp20
+Rp21
+tp22
+a(S'borel set'
+p23
+g2
+(g6
+S'h\x90\xc7\xc4\xf6\x82\xde?'
+p24
+tp25
+Rp26
+tp27
+a(S'borel determinacy theorem'
+p28
+g2
+(g6
+S'!\xe2\xb7\xcb\xfb\xec\xdd?'
+p29
+tp30
+Rp31
+tp32
+a(S'infinity-borel set'
+p33
+g2
+(g6
+S'\xf1\xf7\xb3M\xed\xbe\xdd?'
+p34
+tp35
+Rp36
+tp37
+a(S'difference hierarchy'
+p38
+g2
+(g6
+S'\xf6\x85j\xc1\xeb4\xdd?'
+p39
+tp40
+Rp41
+tp42
+a(S'hierarchy (mathematics)'
+p43
+g2
+(g6
+S'B\xfbV!\x8b\x8a\xda?'
+p44
+tp45
+Rp46
+tp47
+a(S'pointclass'
+p48
+g2
+(g6
+S'\xa7\x00\x9e%]\x1e\xda?'
+p49
+tp50
+Rp51
+tp52
+a(S'frostman lemma'
+p53
+g2
+(g6
+S'\xd0iU\x1e\x12\xc2\xd9?'
+p54
+tp55
+Rp56
+tp57
+a(S'fast-growing hierarchy'
+p58
+g2
+(g6
+S'\xc3g\x8b\x88\xf7\x13\xd8?'
+p59
+tp60
+Rp61
+tp62
+a(S'analytic set'
+p63
+g2
+(g6
+S"\x07z\xc3zb'\xd7?"
+p64
+tp65
+Rp66
+tp67
+a(S'hardy hierarchy'
+p68
+g2
+(g6
+S'F\x82\xfdg\x1d\xc8\xd6?'
+p69
+tp70
+Rp71
+tp72
+a(S'f\xcf\x83 set'
+p73
+g2
+(g6
+S']\xd0H\x11\x04\xc5\xd6?'
+p74
+tp75
+Rp76
+tp77
+a(S'determinacy'
+p78
+g2
+(g6
+S'\xf0>\xfaL\xb6\xbb\xd6?'
+p79
+tp80
+Rp81
+tp82
+a(S'borel equivalence relation'
+p83
+g2
+(g6
+S'\x05\x93\xb2\xcdzU\xd6?'
+p84
+tp85
+Rp86
+tp87
+a(S'projective hierarchy'
+p88
+g2
+(g6
+S"+'\xb0~@H\xd6?"
+p89
+tp90
+Rp91
+tp92
+a(S'borel'
+p93
+g2
+(g6
+S'\xf1\x00\x1b\x19\x0eD\xd6?'
+p94
+tp95
+Rp96
+tp97
+a(S'baire set'
+p98
+g2
+(g6
+S'\x11\xf1\xddZ\x86\xe5\xd5?'
+p99
+tp100
+Rp101
+tp102
+a(S'borel measure'
+p103
+g2
+(g6
+S'E3+\x91\x83\xaa\xd5?'
+p104
+tp105
+Rp106
+tp107
+a(S'borel (surname)'
+p108
+g2
+(g6
+S"\xd3\x84\x9a'\xcf\xa6\xd5?"
+p109
+tp110
+Rp111
+tp112
+a(S'hierarchy'
+p113
+g2
+(g6
+S'\x81vn\xab\xf7\x9f\xd5?'
+p114
+tp115
+Rp116
+tp117
+a(S'arithmetical hierarchy'
+p118
+g2
+(g6
+S'\xc11\xfaBb\n\xd5?'
+p119
+tp120
+Rp121
+tp122
+a(S'g\xce\xb4 set'
+p123
+g2
+(g6
+S'W\x817\xb1-\x97\xd4?'
+p124
+tp125
+Rp126
+tp127
+a(S'cumulative hierarchy'
+p128
+g2
+(g6
+S'\xd7r\x1d\x92\\\x93\xd4?'
+p129
+tp130
+Rp131
+tp132
+a(S'\xc3\x89mile borel'
+p133
+g2
+(g6
+S'\x13u\xff\x10\x91\x90\xd4?'
+p134
+tp135
+Rp136
+tp137
+a(S'baire measure'
+p138
+g2
+(g6
+S'\xbe\xf6zgl\x8b\xd4?'
+p139
+tp140
+Rp141
+tp142
+a(S'borel isomorphism'
+p143
+g2
+(g6
+S'\xbd\xf4\x15\xec\x81\x1c\xd4?'
+p144
+tp145
+Rp146
+tp147
+a(S'slow-growing hierarchy'
+p148
+g2
+(g6
+S'\xaf\xc8\x03\xbe\xe4\xae\xd3?'
+p149
+tp150
+Rp151
+tp152
+a(S'hyperarithmetical theory'
+p153
+g2
+(g6
+S'\xed|4\xe5\x1b\xa8\xd3?'
+p154
+tp155
+Rp156
+tp157
+a(S'family of sets'
+p158
+g2
+(g6
+S')\xe8(\xa4\xad\x92\xd3?'
+p159
+tp160
+Rp161
+tp162
+a(S'etablissements borel'
+p163
+g2
+(g6
+S'q\xd5T\x81\xb7\x86\xd3?'
+p164
+tp165
+Rp166
+tp167
+a(S'grzegorczyk hierarchy'
+p168
+g2
+(g6
+S'\x10w\xe7\xf7b|\xd3?'
+p169
+tp170
+Rp171
+tp172
+a(S'lipschitz continuity'
+p173
+g2
+(g6
+S'\xaf\xd2\xae\xe4\x9a]\xd3?'
+p174
+tp175
+Rp176
+tp177
+a(S'borel\xe2\x80\x93cantelli lemma'
+p178
+g2
+(g6
+S'o\x8d\xd8\x147J\xd3?'
+p179
+tp180
+Rp181
+tp182
+a(S'von neumann universe'
+p183
+g2
+(g6
+S'\x9f\xa9\x91\xae3\x06\xd3?'
+p184
+tp185
+Rp186
+tp187
+a(S'polynomial hierarchy'
+p188
+g2
+(g6
+S'\x9a\x0f\xadz\x90\xea\xd2?'
+p189
+tp190
+Rp191
+tp192
+a(S"lusin's separation theorem"
+p193
+g2
+(g6
+S'\xee\x0fu\xb5u\xcb\xd2?'
+p194
+tp195
+Rp196
+tp197
+a(S'analytical hierarchy'
+p198
+g2
+(g6
+S'M\x9e\x1c<5\xc7\xd2?'
+p199
+tp200
+Rp201
+tp202
+a(S'1974 new york sets season'
+p203
+g2
+(g6
+S'\x82R&\xd1\xa1\x92\xd2?'
+p204
+tp205
+Rp206
+tp207
+a(S'jensen hierarchy'
+p208
+g2
+(g6
+S'\x84\xc0yzTV\xd2?'
+p209
+tp210
+Rp211
+tp212
+a(S'ring of sets'
+p213
+g2
+(g6
+S's\xbc\xca\xc5T2\xd2?'
+p214
+tp215
+Rp216
+tp217
+a(S'borel summation'
+p218
+g2
+(g6
+S'\x9cT4z\xe8"\xd2?'
+p219
+tp220
+Rp221
+tp222
+a(S'hierarchy (disambiguation)'
+p223
+g2
+(g6
+S'\x0b=\xe3\n\r\x1c\xd2?'
+p224
+tp225
+Rp226
+tp227
+a(S'axiom of determinacy'
+p228
+g2
+(g6
+S'sR\x8f[\x81\xa2\xd1?'
+p229
+tp230
+Rp231
+tp232
+a(S'sigma-algebra'
+p233
+g2
+(g6
+S'\x82\x11\x9b\xbc\x03|\xd1?'
+p234
+tp235
+Rp236
+tp237
+a(S'condensation lemma'
+p238
+g2
+(g6
+S'R]\x99fkz\xd1?'
+p239
+tp240
+Rp241
+tp242
+a(S'aldo borel'
+p243
+g2
+(g6
+S':\xdf\x04u6h\xd1?'
+p244
+tp245
+Rp246
+tp247
+a(S'suslin operation'
+p248
+g2
+(g6
+S'\xaf\xa21\x03\xaf`\xd1?'
+p249
+tp250
+Rp251
+tp252
+a(S'negative selection (politics)'
+p253
+g2
+(g6
+S'\xe20\x98\xaf\xc7/\xd1?'
+p254
+tp255
+Rp256
+tp257
+a(S'borel regular measure'
+p258
+g2
+(g6
+S'\xb0\x9aO\x06d\xfb\xd0?'
+p259
+tp260
+Rp261
+tp262
+a(S'scott\xe2\x80\x93potter set theory'
+p263
+g2
+(g6
+S'8\xe1\x12o\xa3\xe3\xd0?'
+p264
+tp265
+Rp266
+tp267
+a(S'\xc3\x89ric borel'
+p268
+g2
+(g6
+S'\xee\x96q\x8cO\xdd\xd0?'
+p269
+tp270
+Rp271
+tp272
+a(S'doob\xe2\x80\x93dynkin lemma'
+p273
+g2
+(g6
+S'wR\xb9\xcat\xcb\xd0?'
+p274
+tp275
+Rp276
+tp277
+a(S'daniel borel'
+p278
+g2
+(g6
+S'\x10\xe1#i\xb1\xc0\xd0?'
+p279
+tp280
+Rp281
+tp282
+a(S'riesz\xe2\x80\x93markov\xe2\x80\x93kakutani representation theorem'
+p283
+g2
+(g6
+S'\xc1\xab\x7f\xb1\xab\xa8\xd0?'
+p284
+tp285
+Rp286
+tp287
+a(S'ernest borel'
+p288
+g2
+(g6
+S'\x1bjcZ\x98\x9f\xd0?'
+p289
+tp290
+Rp291
+tp292
+a(S'pascal borel'
+p293
+g2
+(g6
+S'F<vP\xb8\x94\xd0?'
+p294
+tp295
+Rp296
+tp297
+a(S'set (mathematics)'
+p298
+g2
+(g6
+S'\xac\xdft\xd4\xac\x94\xd0?'
+p299
+tp300
+Rp301
+tp302
+a(S'set theory'
+p303
+g2
+(g6
+S'.=\xf2/\x8c\x89\xd0?'
+p304
+tp305
+Rp306
+tp307
+a(S'space hierarchy theorem'
+p308
+g2
+(g6
+S':Sv$i\x85\xd0?'
+p309
+tp310
+Rp311
+tp312
+a(S'ad+'
+p313
+g2
+(g6
+S'\xc8\xca\x11\xc2\xe8X\xd0?'
+p314
+tp315
+Rp316
+tp317
+a(S"urysohn's lemma"
+p318
+g2
+(g6
+S"\xc7\xc5'Y\xe5P\xd0?"
+p319
+tp320
+Rp321
+tp322
+a(S'constructible universe'
+p323
+g2
+(g6
+S'\x0f\xd0UEs9\xd0?'
+p324
+tp325
+Rp326
+tp327
+a(S'petrus borel'
+p328
+g2
+(g6
+S'\xdc\xe1\xd3\xb4\r*\xd0?'
+p329
+tp330
+Rp331
+tp332
+a(S"scott's trick"
+p333
+g2
+(g6
+S'\xd3\x08l\x9e\xda)\xd0?'
+p334
+tp335
+Rp336
+tp337
+a(S'sierpi\xc5\x84ski set'
+p338
+g2
+(g6
+S'\x85\xa0\xd2\x05\xf0"\xd0?'
+p339
+tp340
+Rp341
+tp342
+a(S"borel's lemma"
+p343
+g2
+(g6
+S'\x10M\xddU\xbc\xee\xcf?'
+p344
+tp345
+Rp346
+tp347
+a(S'lipschitz domain'
+p348
+g2
+(g6
+S'\xaa\xcb\xfa\xed\xa5\xee\xcf?'
+p349
+tp350
+Rp351
+tp352
+a(S'hutchinson metric'
+p353
+g2
+(g6
+S'^\x15\x9c\xb5w\xc0\xcf?'
+p354
+tp355
+Rp356
+tp357
+a(S'kathryn borel'
+p358
+g2
+(g6
+S'T\xa6R2\xaa\x9f\xcf?'
+p359
+tp360
+Rp361
+tp362
+a(S'h\xc3\xb6lder condition'
+p363
+g2
+(g6
+S'\x1e\xa6\xab\xdd\x97\x91\xcf?'
+p364
+tp365
+Rp366
+tp367
+a(S'the three degrees (disambiguation)'
+p368
+g2
+(g6
+S';\xa1\xd8\x81\x10x\xcf?'
+p369
+tp370
+Rp371
+tp372
+a(S'system of imprimitivity'
+p373
+g2
+(g6
+S'\xc3\xcc\n>fO\xcf?'
+p374
+tp375
+Rp376
+tp377
+a(S'borel & co.'
+p378
+g2
+(g6
+S"+F'\x00_C\xcf?"
+p379
+tp380
+Rp381
+tp382
+a(S'calvin borel'
+p383
+g2
+(g6
+S'.p,\x92_!\xcf?'
+p384
+tp385
+Rp386
+tp387
+a(S'george frederik willem borel'
+p388
+g2
+(g6
+S'C9\x08\x02\x16!\xcf?'
+p389
+tp390
+Rp391
+tp392
+a(S'rothberger space'
+p393
+g2
+(g6
+S'\xf79$\xa0\xbb\x03\xcf?'
+p394
+tp395
+Rp396
+tp397
+a(S'borel (author)'
+p398
+g2
+(g6
+S'\x18\xa6a\xbd\xa6\xfe\xce?'
+p399
+tp400
+Rp401
+tp402
+a(S'content (measure theory)'
+p403
+g2
+(g6
+S'`%\xcb\x86\xac\xe8\xce?'
+p404
+tp405
+Rp406
+tp407
+a(S'knaster\xe2\x80\x93kuratowski\xe2\x80\x93mazurkiewicz lemma'
+p408
+g2
+(g6
+S'\x8ar\xcb\xee\xfc\xce\xce?'
+p409
+tp410
+Rp411
+tp412
+a(S'equinumerosity'
+p413
+g2
+(g6
+S'f\x15+7\xa7\xb6\xce?'
+p414
+tp415
+Rp416
+tp417
+a(S'implementation of mathematics in set theory'
+p418
+g2
+(g6
+S'\xca\xa6P.V\xa3\xce?'
+p419
+tp420
+Rp421
+tp422
+a(S"malliavin's absolute continuity lemma"
+p423
+g2
+(g6
+S'\xb0\xff$\x1d\xc8\x9e\xce?'
+p424
+tp425
+Rp426
+tp427
+a(S's (set theory)'
+p428
+g2
+(g6
+S'\x1e\xcf\xf7d\x84\x9e\xce?'
+p429
+tp430
+Rp431
+tp432
+a(S'settlement hierarchy'
+p433
+g2
+(g6
+S'\x97\xc9F!\xfbw\xce?'
+p434
+tp435
+Rp436
+tp437
+a(S'zermelo set theory'
+p438
+g2
+(g6
+S'\x00\xd4\xbf\x17\x1a]\xce?'
+p439
+tp440
+Rp441
+tp442
+a(S'rudolf lipschitz'
+p443
+g2
+(g6
+S'\x05\xdd\x92;iE\xce?'
+p444
+tp445
+Rp446
+tp447
+a(S'random algebra'
+p448
+g2
+(g6
+S'\xa4\xf7wZ\xff=\xce?'
+p449
+tp450
+Rp451
+tp452
+a(S'martin measure'
+p453
+g2
+(g6
+S'\xbb\x18C\xffc.\xce?'
+p454
+tp455
+Rp456
+tp457
+a(S'charles b. borel'
+p458
+g2
+(g6
+S'\x05\xb4\xcfUD-\xce?'
+p459
+tp460
+Rp461
+tp462
+a(S'pasting lemma'
+p463
+g2
+(g6
+S'\xd3\x9c]\x1d?"\xce?'
+p464
+tp465
+Rp466
+tp467
+a(S'zermelo\xe2\x80\x93fraenkel set theory'
+p468
+g2
+(g6
+S'\tti3\x83\x1e\xce?'
+p469
+tp470
+Rp471
+tp472
+a(S'borel distribution'
+p473
+g2
+(g6
+S'\xee\xe5\xefN\xbf\xbc\xcd?'
+p474
+tp475
+Rp476
+tp477
+a(S'digital multiplex hierarchy'
+p478
+g2
+(g6
+S'\xfa8\xb2P\x10\xae\xcd?'
+p479
+tp480
+Rp481
+tp482
+a(S'diondre borel'
+p483
+g2
+(g6
+S'M8\x10\xde\x9f\xa8\xcd?'
+p484
+tp485
+Rp486
+tp487
+a(S'sauer\xe2\x80\x93shelah lemma'
+p488
+g2
+(g6
+S'\x15\xd5\xea\xe9@\xa7\xcd?'
+p489
+tp490
+Rp491
+tp492
+a(S'sierpi\xc5\x84ski space'
+p493
+g2
+(g6
+S'R\xa7>C\x82\x8c\xcd?'
+p494
+tp495
+Rp496
+tp497
+a(S'armand borel'
+p498
+g2
+(g6
+S'_ba\xfa\xe4\x86\xcd?'
+p499
+tp500
+Rp501
+tp502
+a(S"massera's lemma"
+p503
+g2
+(g6
+S'WQ\xf3xKy\xcd?'
+p504
+tp505
+Rp506
+tp507
+a(S'38 degrees'
+p508
+g2
+(g6
+S'.\xd5l\xc2wb\xcd?'
+p509
+tp510
+Rp511
+tp512
+a(S'axiom of choice'
+p513
+g2
+(g6
+S'\x99\x07\xc1\xc20E\xcd?'
+p514
+tp515
+Rp516
+tp517
+a(S'rising sun lemma'
+p518
+g2
+(g6
+S'vUqTD;\xcd?'
+p519
+tp520
+Rp521
+tp522
+a(S'six degrees (disambiguation)'
+p523
+g2
+(g6
+S'*$\xcfr\x01-\xcd?'
+p524
+tp525
+Rp526
+tp527
+a(S'null set'
+p528
+g2
+(g6
+S'\xcf\xf9\x07\xba)\xd8\xcc?'
+p529
+tp530
+Rp531
+tp532
+a(S"martin's axiom"
+p533
+g2
+(g6
+S'>j\x1e\xf2\x9e\xcb\xcc?'
+p534
+tp535
+Rp536
+tp537
+a(S'lipschitz'
+p538
+g2
+(g6
+S'\xb9\xd7\xd7\xf5]\xbb\xcc?'
+p539
+tp540
+Rp541
+tp542
+a(S'universe (mathematics)'
+p543
+g2
+(g6
+S'h\x03\xa2\x12\xaa\xa7\xcc?'
+p544
+tp545
+Rp546
+tp547
+a(S'hierarchy theory'
+p548
+g2
+(g6
+S'4!`\xc3\x80\xa5\xcc?'
+p549
+tp550
+Rp551
+tp552
+a(S'axiom of countable choice'
+p553
+g2
+(g6
+S'Q\x13\rVP\x9f\xcc?'
+p554
+tp555
+Rp556
+tp557
+a(S"nachbin's theorem"
+p558
+g2
+(g6
+S'\r\x98\xbb\x19e\x97\xcc?'
+p559
+tp560
+Rp561
+tp562
+a(S'list of geothermal springs in the united kingdom'
+p563
+g2
+(g6
+S'\xfd"\x99\x94_\x8d\xcc?'
+p564
+tp565
+Rp566
+tp567
+a(S'federer\xe2\x80\x93morse theorem'
+p568
+g2
+(g6
+S'\x8e\x80\x15\xc9\xf2\x83\xcc?'
+p569
+tp570
+Rp571
+tp572
+a(S'naive set theory'
+p573
+g2
+(g6
+S'\xd8\xa2\x1a`\xbcw\xcc?'
+p574
+tp575
+Rp576
+tp577
+a(S'low and high hierarchies'
+p578
+g2
+(g6
+S'\x96\x1c\xbcc\x83k\xcc?'
+p579
+tp580
+Rp581
+tp582
+a(S'positive set theory'
+p583
+g2
+(g6
+S'\xf4\x85q{\xced\xcc?'
+p584
+tp585
+Rp586
+tp587
+a(S'polyl'
+p588
+g2
+(g6
+S'\xd0\xf1Z\x1d\xbdE\xcc?'
+p589
+tp590
+Rp591
+tp592
+a(S'strong measure zero set'
+p593
+g2
+(g6
+S'\xaa\xc8]\xa4\xd99\xcc?'
+p594
+tp595
+Rp596
+tp597
+a(S'group structure and the axiom of choice'
+p598
+g2
+(g6
+S'\xd1\xe5\xf2l\x93/\xcc?'
+p599
+tp600
+Rp601
+tp602
+a(S'szemer\xc3\xa9di regularity lemma'
+p603
+g2
+(g6
+S'\xde\xa4\xfa\xa2r#\xcc?'
+p604
+tp605
+Rp606
+tp607
+a(S"baumgartner's axiom"
+p608
+g2
+(g6
+S'_4\xb5\xa2"\x06\xcc?'
+p609
+tp610
+Rp611
+tp612
+a(S'age set'
+p613
+g2
+(g6
+S'F\x90\xb8\xc2\xfc\x04\xcc?'
+p614
+tp615
+Rp616
+tp617
+a(S'yannick borel'
+p618
+g2
+(g6
+S'Z}\x11Q\xfb\xf4\xcb?'
+p619
+tp620
+Rp621
+tp622
+a(S'borel right process'
+p623
+g2
+(g6
+S'\xed\xb9\x84\xc3z\xe0\xcb?'
+p624
+tp625
+Rp626
+tp627
+a(S'axiom of limitation of size'
+p628
+g2
+(g6
+S'\xb7\x98\x0c\x9b~\xd8\xcb?'
+p629
+tp630
+Rp631
+tp632
+a(S'transfinite induction'
+p633
+g2
+(g6
+S'\x800\xac\r\x85\xd5\xcb?'
+p634
+tp635
+Rp636
+tp637
+a(S'constructible set (topology)'
+p638
+g2
+(g6
+S'\xcbb\x19\xa7K\xd5\xcb?'
+p639
+tp640
+Rp641
+tp642
+a(S"andr\xc3\xa9 borel d'hauterive"
+p643
+g2
+(g6
+S'\x99\xf0\xbc\xd8\x18\xb5\xcb?'
+p644
+tp645
+Rp646
+tp647
+a(S'pradeep mulye'
+p648
+g2
+(g6
+S'\xcbO$3\xb8\xb1\xcb?'
+p649
+tp650
+Rp651
+tp652
+a(S'eug\xc3\xa8ne borel'
+p653
+g2
+(g6
+S'\xd2i\x8f\x08\x0b\x8b\xcb?'
+p654
+tp655
+Rp656
+tp657
+a(S'reverse mathematics'
+p658
+g2
+(g6
+S'=xR\xe9\x8d\x81\xcb?'
+p659
+tp660
+Rp661
+tp662
+a(S'continuous function'
+p663
+g2
+(g6
+S'\xabx\x9d\\\x93v\xcb?'
+p664
+tp665
+Rp666
+tp667
+a(S'veblen function'
+p668
+g2
+(g6
+S'\xe4H\xd2\xc8:u\xcb?'
+p669
+tp670
+Rp671
+tp672
+a(S'moral hierarchy'
+p673
+g2
+(g6
+S'=\xeao1um\xcb?'
+p674
+tp675
+Rp676
+tp677
+a(S'selection principle'
+p678
+g2
+(g6
+S'\xdc\x058.\xdbf\xcb?'
+p679
+tp680
+Rp681
+tp682
+a(S'hyperfinite set'
+p683
+g2
+(g6
+S'1\xf0N\xaf\xb5[\xcb?'
+p684
+tp685
+Rp686
+tp687
+a(S'subanalytic set'
+p688
+g2
+(g6
+S'\xe0l\x00j\xdeJ\xcb?'
+p689
+tp690
+Rp691
+tp692
+a(S'turing degree'
+p693
+g2
+(g6
+S'\xb5\xd4\x9f\xbb\xd9E\xcb?'
+p694
+tp695
+Rp696
+tp697
+a(S'mikhail yakovlevich suslin'
+p698
+g2
+(g6
+S'\x14tk\xc5\xcdB\xcb?'
+p699
+tp700
+Rp701
+tp702
+a(S'list of lemmas'
+p703
+g2
+(g6
+S'\x1a:\x9c\xbe\x14;\xcb?'
+p704
+tp705
+Rp706
+tp707
+a(S'near sets'
+p708
+g2
+(g6
+S'q\xe9\xc9\x8d\xfa!\xcb?'
+p709
+tp710
+Rp711
+tp712
+a(S'heine\xe2\x80\x93borel theorem'
+p713
+g2
+(g6
+S'\xa74\x89Za\x17\xcb?'
+p714
+tp715
+Rp716
+tp717
+a(S'analytic hierarchy process'
+p718
+g2
+(g6
+S'\x9f\x0ce\xe3\xd0\x0e\xcb?'
+p719
+tp720
+Rp721
+tp722
+a(S'real-valued function'
+p723
+g2
+(g6
+S'\x82^\xe5\xfd\xa1\x0b\xcb?'
+p724
+tp725
+Rp726
+tp727
+a(S'von neumann\xe2\x80\x93bernays\xe2\x80\x93g\xc3\xb6del set theory'
+p728
+g2
+(g6
+S'\x04>A\xbf\x1a\t\xcb?'
+p729
+tp730
+Rp731
+tp732
+a(S'computability theory'
+p733
+g2
+(g6
+S'*`\xd0\\/\x03\xcb?'
+p734
+tp735
+Rp736
+tp737
+a(S'steve jackson (mathematician)'
+p738
+g2
+(g6
+S'6\xad\xe27\xd2\xfc\xca?'
+p739
+tp740
+Rp741
+tp742
+a(S'non-measurable set'
+p743
+g2
+(g6
+S'j\xc8\x90\xa1\xc3\xf9\xca?'
+p744
+tp745
+Rp746
+tp747
+a(S'felice borel'
+p748
+g2
+(g6
+S'\xa4\xa7\xb2$^\xee\xca?'
+p749
+tp750
+Rp751
+tp752
+a(S'category of sets'
+p753
+g2
+(g6
+S'\xeb\x80y\xa1\xf5\xe9\xca?'
+p754
+tp755
+Rp756
+tp757
+a(S'kripke\xe2\x80\x93platek set theory'
+p758
+g2
+(g6
+S'\t\x1f\x0f\x82\xd6\xdf\xca?'
+p759
+tp760
+Rp761
+tp762
+a(S'metric outer measure'
+p763
+g2
+(g6
+S'\xb6\xfd@\xd6\xf2\xc2\xca?'
+p764
+tp765
+Rp766
+tp767
+a(S'borel subgroup'
+p768
+g2
+(g6
+S'\x84\xcc\xa4\xc6\xda\xba\xca?'
+p769
+tp770
+Rp771
+tp772
+a(S'forcing (mathematics)'
+p773
+g2
+(g6
+S'~\x81\x83(%\xa0\xca?'
+p774
+tp775
+Rp776
+tp777
+a(S'damien borel'
+p778
+g2
+(g6
+S'\x00\xa2o"~\x9b\xca?'
+p779
+tp780
+Rp781
+tp782
+a(S'non-well-founded set theory'
+p783
+g2
+(g6
+S'|s\xf4\xa7I\x8d\xca?'
+p784
+tp785
+Rp786
+tp787
+a(S'continuity set'
+p788
+g2
+(g6
+S'/w\x87\x05j\x81\xca?'
+p789
+tp790
+Rp791
+tp792
+a(S'pierre borel'
+p793
+g2
+(g6
+S'\x15u\xa6\xb2Dz\xca?'
+p794
+tp795
+Rp796
+tp797
+a(S'continuous game'
+p798
+g2
+(g6
+S"AW`_'z\xca?"
+p799
+tp800
+Rp801
+tp802
+a(S'axiom of global choice'
+p803
+g2
+(g6
+S'\xb1)j&\xd8v\xca?'
+p804
+tp805
+Rp806
+tp807
+a(S"eilenberg's inequality"
+p808
+g2
+(g6
+S'8\xc4P,hf\xca?'
+p809
+tp810
+Rp811
+tp812
+a(S"freiling's axiom of symmetry"
+p813
+g2
+(g6
+S'\x01r\x81SzQ\xca?'
+p814
+tp815
+Rp816
+tp817
+a(S'rectifiable set'
+p818
+g2
+(g6
+S'\x96\x82}\x1a\xbaK\xca?'
+p819
+tp820
+Rp821
+tp822
+a(S'closed set'
+p823
+g2
+(g6
+S'|*}\xc3\xca5\xca?'
+p824
+tp825
+Rp826
+tp827
+a(S'axiom of regularity'
+p828
+g2
+(g6
+S'r\x17\x03\xc0H5\xca?'
+p829
+tp830
+Rp831
+tp832
+a(S'coarea formula'
+p833
+g2
+(g6
+S'\xad\xb8+\xbc\xe5\x12\xca?'
+p834
+tp835
+Rp836
+tp837
+a(S'countable set'
+p838
+g2
+(g6
+S'\xf22\xc8\xe88\xff\xc9?'
+p839
+tp840
+Rp841
+tp842
+a(S'outer measure'
+p843
+g2
+(g6
+S'u\xae\xd2\xc8w\xf4\xc9?'
+p844
+tp845
+Rp846
+tp847
+a(S'morse\xe2\x80\x93kelley set theory'
+p848
+g2
+(g6
+S'\x8c\x88>\x95\x02\xf3\xc9?'
+p849
+tp850
+Rp851
+tp852
+a(S'sydney trains fleet'
+p853
+g2
+(g6
+S'\xdf\xd1\xce\xb7c\xf1\xc9?'
+p854
+tp855
+Rp856
+tp857
+a(S'absolute continuity'
+p858
+g2
+(g6
+S'\xbe-\xa4\xda\x0b\xef\xc9?'
+p859
+tp860
+Rp861
+tp862
+a(S'suslin representation'
+p863
+g2
+(g6
+S'Q\xdaJ\x13\xea\xe5\xc9?'
+p864
+tp865
+Rp866
+tp867
+a(S"suslin's theorem"
+p868
+g2
+(g6
+S'^4\xb2\x10}\xd3\xc9?'
+p869
+tp870
+Rp871
+tp872
+a(S'effective descriptive set theory'
+p873
+g2
+(g6
+S'w\xad\x1b\xe1 \xce\xc9?'
+p874
+tp875
+Rp876
+tp877
+a(S'set-theoretic limit'
+p878
+g2
+(g6
+S'8\xbe\xf3\x97\xd2\xc3\xc9?'
+p879
+tp880
+Rp881
+tp882
+a(S'universe at war: earth assault'
+p883
+g2
+(g6
+S'\x81h!qO\xb5\xc9?'
+p884
+tp885
+Rp886
+tp887
+a(S'base (topology)'
+p888
+g2
+(g6
+S'\x10\xf2\xa7\x96\xb4\xa6\xc9?'
+p889
+tp890
+Rp891
+tp892
+a(S'lifting theory'
+p893
+g2
+(g6
+S'\x95\xa1k4h\x98\xc9?'
+p894
+tp895
+Rp896
+tp897
+a(S'lemma (mathematics)'
+p898
+g2
+(g6
+S'\x93u\xac\x0cM\x90\xc9?'
+p899
+tp900
+Rp901
+tp902
+a(S'tietze extension theorem'
+p903
+g2
+(g6
+S'\xa2\xc5[\xd9\xb8\x8c\xc9?'
+p904
+tp905
+Rp906
+tp907
+a(S'borel functional calculus'
+p908
+g2
+(g6
+S'7\xa3N\x86\x8b\x8c\xc9?'
+p909
+tp910
+Rp911
+tp912
+a(S'prewellordering'
+p913
+g2
+(g6
+S'\x8dG\xae\xd5\x9cz\xc9?'
+p914
+tp915
+Rp916
+tp917
+a(S'hautus lemma'
+p918
+g2
+(g6
+S'B\xfe<\xbe\x08u\xc9?'
+p919
+tp920
+Rp921
+tp922
+a(S'axiom of pairing'
+p923
+g2
+(g6
+S'\xdfE\xb0\xfa\x10r\xc9?'
+p924
+tp925
+Rp926
+tp927
+a(S'role hierarchy'
+p928
+g2
+(g6
+S'\xcc]\x06\xaa\xdcl\xc9?'
+p929
+tp930
+Rp931
+tp932
+a(S'union (set theory)'
+p933
+g2
+(g6
+S'\xbc\xf78\xbcDb\xc9?'
+p934
+tp935
+Rp936
+tp937
+a(S'borel\xe2\x80\x93carath\xc3\xa9odory theorem'
+p938
+g2
+(g6
+S'\x14*\xdbl\x0e`\xc9?'
+p939
+tp940
+Rp941
+tp942
+a(S'borel\xe2\x80\x93moore homology'
+p943
+g2
+(g6
+S'\xbe\x8dC\x03hU\xc9?'
+p944
+tp945
+Rp946
+tp947
+a(S'named set theory'
+p948
+g2
+(g6
+S'\x04\x05aE\xbeJ\xc9?'
+p949
+tp950
+Rp951
+tp952
+a(S'sunflower (mathematics)'
+p953
+g2
+(g6
+S'F\x1e\x99|6D\xc9?'
+p954
+tp955
+Rp956
+tp957
+a(S'belokrinitskaya hierarchy'
+p958
+g2
+(g6
+S'67\x97M\x18=\xc9?'
+p959
+tp960
+Rp961
+tp962
+a(S'pocket set theory'
+p963
+g2
+(g6
+S'\xde_\xfai`6\xc9?'
+p964
+tp965
+Rp966
+tp967
+a(S'subadditive set function'
+p968
+g2
+(g6
+S'-p \x9a\xfb+\xc9?'
+p969
+tp970
+Rp971
+tp972
+a(S'perpetual motion (short story)'
+p973
+g2
+(g6
+S'\x85\x07`%=$\xc9?'
+p974
+tp975
+Rp976
+tp977
+a(S'michelle borel'
+p978
+g2
+(g6
+S'\x82\xd1\xc1g\xe0!\xc9?'
+p979
+tp980
+Rp981
+tp982
+a(S'early television museum'
+p983
+g2
+(g6
+S"c\x99\xc1\xe7'!\xc9?"
+p984
+tp985
+Rp986
+tp987
+a(S'regular measure'
+p988
+g2
+(g6
+S'\xcc(\xc7\x88\x82\x18\xc9?'
+p989
+tp990
+Rp991
+tp992
+a(S'g\xce\xb4 space'
+p993
+g2
+(g6
+S'\x8fZ\x03\xdb\xba\n\xc9?'
+p994
+tp995
+Rp996
+tp997
+a(S"borel's theorem"
+p998
+g2
+(g6
+S'\x96P\xd2\xa42\x00\xc9?'
+p999
+tp1000
+Rp1001
+tp1002
+a(S'axiom schema of replacement'
+p1003
+g2
+(g6
+S'\x81\xd4\x18\xc0\xa3\xfb\xc8?'
+p1004
+tp1005
+Rp1006
+tp1007
+a(S'partition regularity'
+p1008
+g2
+(g6
+S'\xc5\xe0WT\x17\xfb\xc8?'
+p1009
+tp1010
+Rp1011
+tp1012
+a(S'kdv hierarchy'
+p1013
+g2
+(g6
+S'^\xc5\xc2\x0c\x03\xef\xc8?'
+p1014
+tp1015
+Rp1016
+tp1017
+a(S"diaconescu's theorem"
+p1018
+g2
+(g6
+S'\xcb\xd0\x1b\x9c\x83\xe9\xc8?'
+p1019
+tp1020
+Rp1021
+tp1022
+a(S'continuous function (set theory)'
+p1023
+g2
+(g6
+S'\xd7\x10l\xec\x92\xe8\xc8?'
+p1024
+tp1025
+Rp1026
+tp1027
+a(S'power set'
+p1028
+g2
+(g6
+S'\xd3\xc1\xd4\xc3\x11\xdf\xc8?'
+p1029
+tp1030
+Rp1031
+tp1032
+a(S'locally finite collection'
+p1033
+g2
+(g6
+S'\x1a\x90RO\x13\xdb\xc8?'
+p1034
+tp1035
+Rp1036
+tp1037
+a(S'baire space'
+p1038
+g2
+(g6
+S'\x9e\xf0\xe5,0\xd6\xc8?'
+p1039
+tp1040
+Rp1041
+tp1042
+a(S'rasiowa\xe2\x80\x93sikorski lemma'
+p1043
+g2
+(g6
+S'\x8c>\x0bp\xb1\xd4\xc8?'
+p1044
+tp1045
+Rp1046
+tp1047
+a(S'teichm\xc3\xbcller\xe2\x80\x93tukey lemma'
+p1048
+g2
+(g6
+S'\xf4a\xc1g\xba\xd3\xc8?'
+p1049
+tp1050
+Rp1051
+tp1052
+a(S'cylinder set'
+p1053
+g2
+(g6
+S'\x93\x1b\x99\x93\xbb\xcc\xc8?'
+p1054
+tp1055
+Rp1056
+tp1057
+a(S'perfect measure'
+p1058
+g2
+(g6
+S'\x87V\x9d\xb0S\xcb\xc8?'
+p1059
+tp1060
+Rp1061
+tp1062
+a(S'classification of academic degrees'
+p1063
+g2
+(g6
+S'\xd0\xd5\xf4\xac\r\xc9\xc8?'
+p1064
+tp1065
+Rp1066
+tp1067
+a(S'phonological hierarchy'
+p1068
+g2
+(g6
+S'(\xe3\xae\xf4n\xc5\xc8?'
+p1069
+tp1070
+Rp1071
+tp1072
+a(S'\xce\xa001 class'
+p1073
+g2
+(g6
+S'b\x93\xc4B\xbd\xbe\xc8?'
+p1074
+tp1075
+Rp1076
+tp1077
+a(S'borel conjecture'
+p1078
+g2
+(g6
+S'q\x9fR\xdeA\xb5\xc8?'
+p1079
+tp1080
+Rp1081
+tp1082
+a(S'\xce\x98 (set theory)'
+p1083
+g2
+(g6
+S']\xae?K\xbe\xb2\xc8?'
+p1084
+tp1085
+Rp1086
+tp1087
+a(S'caccioppoli set'
+p1088
+g2
+(g6
+S'\x19\xee]=\x02\xa9\xc8?'
+p1089
+tp1090
+Rp1091
+tp1092
+a(S'glossary of topology'
+p1093
+g2
+(g6
+S'\xeb\xdb]w\xbb\xa8\xc8?'
+p1094
+tp1095
+Rp1096
+tp1097
+a(S'polar set (potential theory)'
+p1098
+g2
+(g6
+S'gF\xe1\x8a0\xa7\xc8?'
+p1099
+tp1100
+Rp1101
+tp1102
+a(S'johnson\xe2\x80\x93lindenstrauss lemma'
+p1103
+g2
+(g6
+S'g]_\xe2\xb9\x93\xc8?'
+p1104
+tp1105
+Rp1106
+tp1107
+a(S"sperner's theorem"
+p1108
+g2
+(g6
+S'v\xef[\xd45}\xc8?'
+p1109
+tp1110
+Rp1111
+tp1112
+a(S'kakeya set'
+p1113
+g2
+(g6
+S'\x16\x89Q\xb45i\xc8?'
+p1114
+tp1115
+Rp1116
+tp1117
+a(S'structural complexity theory'
+p1118
+g2
+(g6
+S'\xa6\xf6\x0fg\x11i\xc8?'
+p1119
+tp1120
+Rp1121
+tp1122
+a(S'cocountable topology'
+p1123
+g2
+(g6
+S'P\xf60\xf7<`\xc8?'
+p1124
+tp1125
+Rp1126
+tp1127
+a(S'banach\xe2\x80\x93mazur game'
+p1128
+g2
+(g6
+S'\xf8Bwi\x8e_\xc8?'
+p1129
+tp1130
+Rp1131
+tp1132
+a(S"glicksberg's theorem"
+p1133
+g2
+(g6
+S'Z\x92z\xf5AW\xc8?'
+p1134
+tp1135
+Rp1136
+tp1137
+a(S'cofinality'
+p1138
+g2
+(g6
+S'\xe1\x83o{\x06W\xc8?'
+p1139
+tp1140
+Rp1141
+tp1142
+a(S"martin's maximum"
+p1143
+g2
+(g6
+S'H\xc8M#CB\xc8?'
+p1144
+tp1145
+Rp1146
+tp1147
+a(S'six degrees of separation'
+p1148
+g2
+(g6
+S'\xaddu\x846A\xc8?'
+p1149
+tp1150
+Rp1151
+tp1152
+a(S'divisor topology'
+p1153
+g2
+(g6
+S'\xe7 \xf4\xeb\x9d5\xc8?'
+p1154
+tp1155
+Rp1156
+tp1157
+a(S'isolation lemma'
+p1158
+g2
+(g6
+S"]6]\xbc\xd6'\xc8?"
+p1159
+tp1160
+Rp1161
+tp1162
+a(S'degrees of freedom'
+p1163
+g2
+(g6
+S'Y\x13]\\\xc2$\xc8?'
+p1164
+tp1165
+Rp1166
+tp1167
+a(S'whitney extension theorem'
+p1168
+g2
+(g6
+S'\x04\x82\xcb\x17\xde\x1f\xc8?'
+p1169
+tp1170
+Rp1171
+tp1172
+a(S'constructive set theory'
+p1173
+g2
+(g6
+S'\x05\x03\x14\xb0K\x1b\xc8?'
+p1174
+tp1175
+Rp1176
+tp1177
+a(S"lindel\xc3\xb6f's lemma"
+p1178
+g2
+(g6
+S'\x88\x93\xa1\xe3\xc7\x14\xc8?'
+p1179
+tp1180
+Rp1181
+tp1182
+a(S'new foundations'
+p1183
+g2
+(g6
+S'\x82\x84\xdc\xd4\xd8\xf7\xc7?'
+p1184
+tp1185
+Rp1186
+tp1187
+a(S'nikodym set'
+p1188
+g2
+(g6
+S'\xa5\r\xd2\xbd\xcf\xf5\xc7?'
+p1189
+tp1190
+Rp1191
+tp1192
+a(S'time hierarchy theorem'
+p1193
+g2
+(g6
+S'\xc8\xd2Om\x9f\xee\xc7?'
+p1194
+tp1195
+Rp1196
+tp1197
+a(S'class (set theory)'
+p1198
+g2
+(g6
+S'i\xad\x1f1\x88\xe8\xc7?'
+p1199
+tp1200
+Rp1201
+tp1202
+a(S'reflection principle'
+p1203
+g2
+(g6
+S'J\xac\x00;\xe0\xe7\xc7?'
+p1204
+tp1205
+Rp1206
+tp1207
+a(S'derived set (mathematics)'
+p1208
+g2
+(g6
+S'r\xfa\x8a\xf3>\xd0\xc7?'
+p1209
+tp1210
+Rp1211
+tp1212
+a(S'continuous functions on a compact hausdorff space'
+p1213
+g2
+(g6
+S'v0\xfb\x9d9\xcd\xc7?'
+p1214
+tp1215
+Rp1216
+tp1217
+a(S'property of baire'
+p1218
+g2
+(g6
+S'\xb9\xaa\xc7\xa5D\xc8\xc7?'
+p1219
+tp1220
+Rp1221
+tp1222
+a(S'baire space (set theory)'
+p1223
+g2
+(g6
+S'{\nb\r!\xc7\xc7?'
+p1224
+tp1225
+Rp1226
+tp1227
+a(S'supermodular function'
+p1228
+g2
+(g6
+S'\xc8\xf2\xea\xe9\x98\xba\xc7?'
+p1229
+tp1230
+Rp1231
+tp1232
+a(S'volleyball at the 2013 canada summer games'
+p1233
+g2
+(g6
+S'E\xef\x11\xc1\xae\xb4\xc7?'
+p1234
+tp1235
+Rp1236
+tp1237
+a(S'vitali\xe2\x80\x93carath\xc3\xa9odory theorem'
+p1238
+g2
+(g6
+S'\xc5\xe8JI*\xb0\xc7?'
+p1239
+tp1240
+Rp1241
+tp1242
+a(S'lemma'
+p1243
+g2
+(g6
+S'\x9e\xd4\x95fw\xab\xc7?'
+p1244
+tp1245
+Rp1246
+tp1247
+a(S'borel (crater)'
+p1248
+g2
+(g6
+S'\xe1\x92@\xa4\x07\xa0\xc7?'
+p1249
+tp1250
+Rp1251
+tp1252
+a(S'open set'
+p1253
+g2
+(g6
+S'a5\xf4IG\x9c\xc7?'
+p1254
+tp1255
+Rp1256
+tp1257
+a(S"cantor's intersection theorem"
+p1258
+g2
+(g6
+S'\xeb\xe0\xd0\xbb,\x93\xc7?'
+p1259
+tp1260
+Rp1261
+tp1262
+a(S'rokhlin lemma'
+p1263
+g2
+(g6
+S'\xa2\xe3\xd6"1\x90\xc7?'
+p1264
+tp1265
+Rp1266
+tp1267
+a(S'memory hierarchy'
+p1268
+g2
+(g6
+S'\xe7\xee=\xf4\xea\x7f\xc7?'
+p1269
+tp1270
+Rp1271
+tp1272
+a(S'set theory (music)'
+p1273
+g2
+(g6
+S'\xe8$\xb9N\x95p\xc7?'
+p1274
+tp1275
+Rp1276
+tp1277
+a(S'topological game'
+p1278
+g2
+(g6
+S'\xb0\xd3\xa8\xba\x90o\xc7?'
+p1279
+tp1280
+Rp1281
+tp1282
+a(S'hartogs number'
+p1283
+g2
+(g6
+S'\xb4\xb9\x08n\xf9m\xc7?'
+p1284
+tp1285
+Rp1286
+tp1287
+a(S'axiom schema of predicative separation'
+p1288
+g2
+(g6
+S'\xac9C\xd8\xe3i\xc7?'
+p1289
+tp1290
+Rp1291
+tp1292
+a(S'general topology'
+p1293
+g2
+(g6
+S'\xda\xc0\xae\xbf\x84i\xc7?'
+p1294
+tp1295
+Rp1296
+tp1297
+a(S'semi-continuity'
+p1298
+g2
+(g6
+S'k\xc3X\xc1\x1bg\xc7?'
+p1299
+tp1300
+Rp1301
+tp1302
+a(S'rate function'
+p1303
+g2
+(g6
+S'\xfb\x95\xcc\x84\r\\\xc7?'
+p1304
+tp1305
+Rp1306
+tp1307
+a(S'haar measure'
+p1308
+g2
+(g6
+S'1k\xf0\xec\xbfK\xc7?'
+p1309
+tp1310
+Rp1311
+tp1312
+a(S'aleph number'
+p1313
+g2
+(g6
+S'\x0f\xa2\xb1tPA\xc7?'
+p1314
+tp1315
+Rp1316
+tp1317
+a(S'fuzzy set operations'
+p1318
+g2
+(g6
+S"\xe1_#\x13'?\xc7?"
+p1319
+tp1320
+Rp1321
+tp1322
+a(S'pyotr borel'
+p1323
+g2
+(g6
+S'\xba\x19r\x01\x80<\xc7?'
+p1324
+tp1325
+Rp1326
+tp1327
+a(S'field of sets'
+p1328
+g2
+(g6
+S'\xabN\x87\xca=5\xc7?'
+p1329
+tp1330
+Rp1331
+tp1332
+a(S"riesz's lemma"
+p1333
+g2
+(g6
+S'\xdf\x9f\xbf,\xa5-\xc7?'
+p1334
+tp1335
+Rp1336
+tp1337
+a(S"tarski's theorem about choice"
+p1338
+g2
+(g6
+S'\xae\xd1\xed\x8cd&\xc7?'
+p1339
+tp1340
+Rp1341
+tp1342
+a(S'coarse structure'
+p1343
+g2
+(g6
+S'\x86\xe0x5\xf3!\xc7?'
+p1344
+tp1345
+Rp1346
+tp1347
+a(S'street hierarchy'
+p1348
+g2
+(g6
+S'\x19\x93\xd9/\x8f\x17\xc7?'
+p1349
+tp1350
+Rp1351
+tp1352
+a(S'polish space'
+p1353
+g2
+(g6
+S'\x11\xca\xa17\xe7\x10\xc7?'
+p1354
+tp1355
+Rp1356
+tp1357
+a(S'baire function'
+p1358
+g2
+(g6
+S'\xd8\x15b\x8c\xc5\x06\xc7?'
+p1359
+tp1360
+Rp1361
+tp1362
+a(S'hans van dalsum'
+p1363
+g2
+(g6
+S'\xc2d|\x1ap\x06\xc7?'
+p1364
+tp1365
+Rp1366
+tp1367
+a(S'erd\xc5\x91s\xe2\x80\x93ko\xe2\x80\x93rado theorem'
+p1368
+g2
+(g6
+S'\xea\xd7\x13\xf2{\xfa\xc6?'
+p1369
+tp1370
+Rp1371
+tp1372
+a(S'exposure hierarchy'
+p1373
+g2
+(g6
+S'\x9a\xcc\x81:\xed\xf8\xc6?'
+p1374
+tp1375
+Rp1376
+tp1377
+a(S'antimatroid'
+p1378
+g2
+(g6
+S'\xa3R(3C\xf1\xc6?'
+p1379
+tp1380
+Rp1381
+tp1382
+a(S'list of types of functions'
+p1383
+g2
+(g6
+S'\x050\xb8<n\xeb\xc6?'
+p1384
+tp1385
+Rp1386
+tp1387
+a(S'ordinal number'
+p1388
+g2
+(g6
+S'\xa7.\xf8\x10\x1e\xdf\xc6?'
+p1389
+tp1390
+Rp1391
+tp1392
+a(S'nine lemma'
+p1393
+g2
+(g6
+S'\xfd\xd1\x88N\xc5\xdb\xc6?'
+p1394
+tp1395
+Rp1396
+tp1397
+a(S'club 3 degrees'
+p1398
+g2
+(g6
+S'\xc0\xbe\xcfI\xec\xd5\xc6?'
+p1399
+tp1400
+Rp1401
+tp1402
+a(S'partition refinement'
+p1403
+g2
+(g6
+S'\xdf\x04\x96\xd2\x03\xd5\xc6?'
+p1404
+tp1405
+Rp1406
+tp1407
+a(S'inclusion\xe2\x80\x93exclusion principle'
+p1408
+g2
+(g6
+S']\x1a\xca\xa0\xc7\xd3\xc6?'
+p1409
+tp1410
+Rp1411
+tp1412
+a(S'degrees of freedom (physics and chemistry)'
+p1413
+g2
+(g6
+S'4hOdR\xd3\xc6?'
+p1414
+tp1415
+Rp1416
+tp1417
+a(S'dspace'
+p1418
+g2
+(g6
+S'\xee[j!\xfa\xcd\xc6?'
+p1419
+tp1420
+Rp1421
+tp1422
+a(S'uniformly distributed measure'
+p1423
+g2
+(g6
+S'\xc4\xed\x83\x8eM\xb3\xc6?'
+p1424
+tp1425
+Rp1426
+tp1427
+a(S'paradoxes of set theory'
+p1428
+g2
+(g6
+S'"@2\x88\xda\xac\xc6?'
+p1429
+tp1430
+Rp1431
+tp1432
+a(S'axiom of projective determinacy'
+p1433
+g2
+(g6
+S'ok\xb6\xc1\xed\xa4\xc6?'
+p1434
+tp1435
+Rp1436
+tp1437
+a(S'\xce\x97 set'
+p1438
+g2
+(g6
+S'\x90\x0b\xe6r\xb7\xa2\xc6?'
+p1439
+tp1440
+Rp1441
+tp1442
+a(S'boolean hierarchy'
+p1443
+g2
+(g6
+S'\x7f\xc6\xcb\xdf\xdd\x94\xc6?'
+p1444
+tp1445
+Rp1446
+tp1447
+a(S'combinatorial hierarchy'
+p1448
+g2
+(g6
+S'\xb1Q\xf4\xeb\xa2\x93\xc6?'
+p1449
+tp1450
+Rp1451
+tp1452
+a(S'pytkeev space'
+p1453
+g2
+(g6
+S'\xbb\xc1\xb2\xdf\xdf\x92\xc6?'
+p1454
+tp1455
+Rp1456
+tp1457
+a(S'interlocking interval topology'
+p1458
+g2
+(g6
+S'\xdb\x13%B\xad\x90\xc6?'
+p1459
+tp1460
+Rp1461
+tp1462
+a(S'bramble\xe2\x80\x93hilbert lemma'
+p1463
+g2
+(g6
+S'\xfb7\x0f\x89\xec\x8c\xc6?'
+p1464
+tp1465
+Rp1466
+tp1467
+a(S'transperth b-series train'
+p1468
+g2
+(g6
+S'\x95r\xe7\xbdW\x83\xc6?'
+p1469
+tp1470
+Rp1471
+tp1472
+a(S'set (abstract data type)'
+p1473
+g2
+(g6
+S'\xb5\x1fY\xc7\x9b~\xc6?'
+p1474
+tp1475
+Rp1476
+tp1477
+a(S'l\xc3\xa9vy hierarchy'
+p1478
+g2
+(g6
+S'g\xc0\x16\xd3\x00t\xc6?'
+p1479
+tp1480
+Rp1481
+tp1482
+a(S'glossary of game theory'
+p1483
+g2
+(g6
+S'i\xfe\x11oss\xc6?'
+p1484
+tp1485
+Rp1486
+tp1487
+a(S'tokyo metro 9000 series'
+p1488
+g2
+(g6
+S'0=\x99\xc8\xebq\xc6?'
+p1489
+tp1490
+Rp1491
+tp1492
+a(S'popovtsy'
+p1493
+g2
+(g6
+S'\xea\x0f\x02e\xf0m\xc6?'
+p1494
+tp1495
+Rp1496
+tp1497
+a(S'superadditive set function'
+p1498
+g2
+(g6
+S'p\x7f\xaa \x08l\xc6?'
+p1499
+tp1500
+Rp1501
+tp1502
+a(S'krylov\xe2\x80\x93bogolyubov theorem'
+p1503
+g2
+(g6
+S'\xceK\x98t\xbbj\xc6?'
+p1504
+tp1505
+Rp1506
+tp1507
+a(S'heterarchy'
+p1508
+g2
+(g6
+S'\xd1\r\xadv\xceg\xc6?'
+p1509
+tp1510
+Rp1511
+tp1512
+a.

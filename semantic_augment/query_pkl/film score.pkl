@@ -1,0 +1,2728 @@
+(lp0
+(S'film score'
+p1
+cnumpy.core.multiarray
+scalar
+p2
+(cnumpy
+dtype
+p3
+(S'f8'
+p4
+I0
+I1
+tp5
+Rp6
+(I3
+S'<'
+p7
+NNNI-1
+I-1
+I0
+tp8
+bS'\xfa\xff\xff\xff\xff\xff\xef?'
+p9
+tp10
+Rp11
+tp12
+a(S'british academy of film and television arts'
+p13
+g2
+(g6
+S'\xc4P\x1d\xb5\x9d\x88\xd8?'
+p14
+tp15
+Rp16
+tp17
+a(S'british academy film awards'
+p18
+g2
+(g6
+S'5\xd6\x9aGz+\xd8?'
+p19
+tp20
+Rp21
+tp22
+a(S'bafta cymru'
+p23
+g2
+(g6
+S'\xeb\x1eG\xc2"N\xd7?'
+p24
+tp25
+Rp26
+tp27
+a(S'academy award for best original score'
+p28
+g2
+(g6
+S'\xc3\xacd\x89\x17E\xd6?'
+p29
+tp30
+Rp31
+tp32
+a(S'emmy (disambiguation)'
+p33
+g2
+(g6
+S'\xff\xee\x16\xa4\xa6\xe7\xd4?'
+p34
+tp35
+Rp36
+tp37
+a(S'international film music critics association'
+p38
+g2
+(g6
+S'\xe0\t\x96Pdt\xd4?'
+p39
+tp40
+Rp41
+tp42
+a(S'chauncy welliver'
+p43
+g2
+(g6
+S'\xb1\xd1\x9dR\xde\xb7\xd3?'
+p44
+tp45
+Rp46
+tp47
+a(S'george fenton'
+p48
+g2
+(g6
+S'\xd40\xba\tks\xd3?'
+p49
+tp50
+Rp51
+tp52
+a(S'sandy saddler'
+p53
+g2
+(g6
+S'\x98\x03\x1c)\x08h\xd3?'
+p54
+tp55
+Rp56
+tp57
+a(S'elvir muriqi'
+p58
+g2
+(g6
+S'u\x89\xae;mg\xd3?'
+p59
+tp60
+Rp61
+tp62
+a(S'marlon tapales'
+p63
+g2
+(g6
+S'L\x9erR\xbb+\xd3?'
+p64
+tp65
+Rp66
+tp67
+a(S'yori boy campas'
+p68
+g2
+(g6
+S'\x7fKT0\xa5\x19\xd3?'
+p69
+tp70
+Rp71
+tp72
+a(S'avtandil khurtsidze'
+p73
+g2
+(g6
+S'\xfd\xf5T\x93\x8b\xeb\xd2?'
+p74
+tp75
+Rp76
+tp77
+a(S'blue-zoo productions'
+p78
+g2
+(g6
+S'c\xb8O\xb5o\xe2\xd2?'
+p79
+tp80
+Rp81
+tp82
+a(S'john williams'
+p83
+g2
+(g6
+S'\x1c\x9c\xf0X\xf5\xcc\xd2?'
+p84
+tp85
+Rp86
+tp87
+a(S'vinnie curto'
+p88
+g2
+(g6
+S'\xee\xc5\xf7c\x83\xad\xd2?'
+p89
+tp90
+Rp91
+tp92
+a(S'emmy (given name)'
+p93
+g2
+(g6
+S'tr\xcbu=\xa3\xd2?'
+p94
+tp95
+Rp96
+tp97
+a(S'jennie muskett'
+p98
+g2
+(g6
+S'\xaf\xa3f\xfdE\xa2\xd2?'
+p99
+tp100
+Rp101
+tp102
+a(S'joseph dubin'
+p103
+g2
+(g6
+S'$\x01\x8c{;\x89\xd2?'
+p104
+tp105
+Rp106
+tp107
+a(S'luis abreg\xc3\xba'
+p108
+g2
+(g6
+S'n?\x08`7\x7f\xd2?'
+p109
+tp110
+Rp111
+tp112
+a(S'kreshnik qato'
+p113
+g2
+(g6
+S'K\xb0\xee\x94do\xd2?'
+p114
+tp115
+Rp116
+tp117
+a(S'michael oliveira'
+p118
+g2
+(g6
+S'\r8\xceiXn\xd2?'
+p119
+tp120
+Rp121
+tp122
+a(S'scene (uk tv series)'
+p123
+g2
+(g6
+S'\x82\x99\x02\x0boh\xd2?'
+p124
+tp125
+Rp126
+tp127
+a(S'paulus ambunda'
+p128
+g2
+(g6
+S'\x10\xc2\xcc;sQ\xd2?'
+p129
+tp130
+Rp131
+tp132
+a(S'nicolino locche'
+p133
+g2
+(g6
+S'a6\x0b\xe7\xd1O\xd2?'
+p134
+tp135
+Rp136
+tp137
+a(S'julio c\xc3\xa9sar v\xc3\xa1squez'
+p138
+g2
+(g6
+S'*\xfe9\x1afM\xd2?'
+p139
+tp140
+Rp141
+tp142
+a(S'damian jonak'
+p143
+g2
+(g6
+S'\xf9\xf7|\xf2\xa7L\xd2?'
+p144
+tp145
+Rp146
+tp147
+a(S'jerwin ancajas'
+p148
+g2
+(g6
+S'!\xeaM\xe15L\xd2?'
+p149
+tp150
+Rp151
+tp152
+a(S'marcus browne'
+p153
+g2
+(g6
+S'\x15\xea\xd2\xd4\x98E\xd2?'
+p154
+tp155
+Rp156
+tp157
+a(S'up (film score)'
+p158
+g2
+(g6
+S'\x048\x11\x99\xfa4\xd2?'
+p159
+tp160
+Rp161
+tp162
+a(S'andrea morricone'
+p163
+g2
+(g6
+S'%\x88a\xcb*.\xd2?'
+p164
+tp165
+Rp166
+tp167
+a(S'win win (disambiguation)'
+p168
+g2
+(g6
+S'\xc7.\xbe\xca\xf7)\xd2?'
+p169
+tp170
+Rp171
+tp172
+a(S'midsouth emmy awards'
+p173
+g2
+(g6
+S'\xc26\xa1Z\xa8)\xd2?'
+p174
+tp175
+Rp176
+tp177
+a(S'blake caparello'
+p178
+g2
+(g6
+S'\x9e\x02\xf7\x8f.(\xd2?'
+p179
+tp180
+Rp181
+tp182
+a(S'robert knights'
+p183
+g2
+(g6
+S'\xd5\xc6\x1f\xce\x91\x15\xd2?'
+p184
+tp185
+Rp186
+tp187
+a(S'brunet zamora'
+p188
+g2
+(g6
+S'P\xcel\xfaY\x14\xd2?'
+p189
+tp190
+Rp191
+tp192
+a(S'brian keane'
+p193
+g2
+(g6
+S'\xe1\x04\x81\x87U\x11\xd2?'
+p194
+tp195
+Rp196
+tp197
+a(S'tandis jenhudson'
+p198
+g2
+(g6
+S'\xe2\x9fgz+\r\xd2?'
+p199
+tp200
+Rp201
+tp202
+a(S'zolani tete'
+p203
+g2
+(g6
+S'l\x0f\x1b\xca\x93\x07\xd2?'
+p204
+tp205
+Rp206
+tp207
+a(S'moises flores'
+p208
+g2
+(g6
+S'M\tR\xdc\xcf\xf6\xd1?'
+p209
+tp210
+Rp211
+tp212
+a(S'sheena napier'
+p213
+g2
+(g6
+S'_Hth5\xe4\xd1?'
+p214
+tp215
+Rp216
+tp217
+a(S'list of prime suspect (u.k. tv series) episodes'
+p218
+g2
+(g6
+S'\xc9\x96\xc2\xe8P\xdf\xd1?'
+p219
+tp220
+Rp221
+tp222
+a(S'sumbu kalambay'
+p223
+g2
+(g6
+S'\xcf\xc55{\x08\xcf\xd1?'
+p224
+tp225
+Rp226
+tp227
+a(S'list of people who have won academy, emmy, grammy, and tony awards'
+p228
+g2
+(g6
+S'\xb5\x15\xd1\xb9\xbc\xc7\xd1?'
+p229
+tp230
+Rp231
+tp232
+a(S'youri kayembre kalenga'
+p233
+g2
+(g6
+S'X\x87I\xde\xf2\xc4\xd1?'
+p234
+tp235
+Rp236
+tp237
+a(S'frank tate (boxer)'
+p238
+g2
+(g6
+S'O`=2\xe9\xc1\xd1?'
+p239
+tp240
+Rp241
+tp242
+a(S'olanrewaju durodola'
+p243
+g2
+(g6
+S'\xf1\xfc\x8f\x9b\x04\xbf\xd1?'
+p244
+tp245
+Rp246
+tp247
+a(S'\xc5\x81ukasz janik'
+p248
+g2
+(g6
+S"\xd3m\xda'N\xb7\xd1?"
+p249
+tp250
+Rp251
+tp252
+a(S'kid azteca'
+p253
+g2
+(g6
+S'7\x0fx\xb6\xa8\xb3\xd1?'
+p254
+tp255
+Rp256
+tp257
+a(S'soundelux'
+p258
+g2
+(g6
+S'p\xe9\x7f\x07\x8f\x92\xd1?'
+p259
+tp260
+Rp261
+tp262
+a(S'willie pastrano'
+p263
+g2
+(g6
+S'\xb5*T\xc6)\x92\xd1?'
+p264
+tp265
+Rp266
+tp267
+a(S'schiller hyppolite'
+p268
+g2
+(g6
+S'\xa4\xe3PU\xc3\x83\xd1?'
+p269
+tp270
+Rp271
+tp272
+a(S'filip hrgovi\xc4\x87'
+p273
+g2
+(g6
+S'\xa0\xd5\xcd\x06\xe8\x7f\xd1?'
+p274
+tp275
+Rp276
+tp277
+a(S'omari kimweri'
+p278
+g2
+(g6
+S'\x08\xeb\xbd\x14kj\xd1?'
+p279
+tp280
+Rp281
+tp282
+a(S'srisaket sor rungvisai'
+p283
+g2
+(g6
+S'\xe6\xd9uNLe\xd1?'
+p284
+tp285
+Rp286
+tp287
+a(S'romain jacob'
+p288
+g2
+(g6
+S'\x80O\x9c\xc2\xaa_\xd1?'
+p289
+tp290
+Rp291
+tp292
+a(S'daud yordan'
+p293
+g2
+(g6
+S'\xaf\x87xe\x84[\xd1?'
+p294
+tp295
+Rp296
+tp297
+a(S'sebastian sylvester'
+p298
+g2
+(g6
+S'\xff/\xf0\x9evX\xd1?'
+p299
+tp300
+Rp301
+tp302
+a(S'sam eggington'
+p303
+g2
+(g6
+S'\x9f\x195\x85aQ\xd1?'
+p304
+tp305
+Rp306
+tp307
+a(S'mike rossman'
+p308
+g2
+(g6
+S'\x81\xb8l]\xbcN\xd1?'
+p309
+tp310
+Rp311
+tp312
+a(S'ivan redkach'
+p313
+g2
+(g6
+S'\xfa\x17!\xac\x14N\xd1?'
+p314
+tp315
+Rp316
+tp317
+a(S'amanda sonia berry'
+p318
+g2
+(g6
+S'\x94\xb5\xbcN!6\xd1?'
+p319
+tp320
+Rp321
+tp322
+a(S'pablo chac\xc3\xb3n'
+p323
+g2
+(g6
+S'\x8c\xa5/\xfb\xb55\xd1?'
+p324
+tp325
+Rp326
+tp327
+a(S'miguel angel castellini'
+p328
+g2
+(g6
+S"\xa4\x9f'\x14\xa71\xd1?"
+p329
+tp330
+Rp331
+tp332
+a(S'park chong-pal'
+p333
+g2
+(g6
+S'\xcbW\xc8\xf6\x9b(\xd1?'
+p334
+tp335
+Rp336
+tp337
+a(S'david michael frank'
+p338
+g2
+(g6
+S'I\xf7E8\x95%\xd1?'
+p339
+tp340
+Rp341
+tp342
+a(S'vito antuofermo'
+p343
+g2
+(g6
+S'c\xcd\xad\x97\x95 \xd1?'
+p344
+tp345
+Rp346
+tp347
+a(S'sergey rabchenko'
+p348
+g2
+(g6
+S'\x8d\xea\xac\x15~\x1f\xd1?'
+p349
+tp350
+Rp351
+tp352
+a(S'pedro guevara (boxer)'
+p353
+g2
+(g6
+S'L\xfb\x03t6\x1e\xd1?'
+p354
+tp355
+Rp356
+tp357
+a(S'josesito l\xc3\xb3pez'
+p358
+g2
+(g6
+S'j\xce\xb7y\xa2\x17\xd1?'
+p359
+tp360
+Rp361
+tp362
+a(S'alejandro gonz\xc3\xa1lez (boxer)'
+p363
+g2
+(g6
+S'f\xd6\xe1\xc7b\x0b\xd1?'
+p364
+tp365
+Rp366
+tp367
+a(S'rommel asenjo'
+p368
+g2
+(g6
+S'\xeb\xd7\x08\x12P\x0b\xd1?'
+p369
+tp370
+Rp371
+tp372
+a(S'international academy of television arts and sciences'
+p373
+g2
+(g6
+S'\xa6\xed\xbaSE\x02\xd1?'
+p374
+tp375
+Rp376
+tp377
+a(S'hugo centeno, jr.'
+p378
+g2
+(g6
+S'\x10s\x81\xf6\xf3\xf7\xd0?'
+p379
+tp380
+Rp381
+tp382
+a(S'javier jauregui'
+p383
+g2
+(g6
+S'\xb1\xb6C\x90s\xf1\xd0?'
+p384
+tp385
+Rp386
+tp387
+a(S'erik skoglund (boxer)'
+p388
+g2
+(g6
+S'5A\xea\xd6\t\xe6\xd0?'
+p389
+tp390
+Rp391
+tp392
+a(S'yudel johnson'
+p393
+g2
+(g6
+S'>\xfc\x86\xaa\x1e\xe0\xd0?'
+p394
+tp395
+Rp396
+tp397
+a(S'list of film director and composer collaborations'
+p398
+g2
+(g6
+S"Nd\xc4'\x86\xd6\xd0?"
+p399
+tp400
+Rp401
+tp402
+a(S'anthony yigit'
+p403
+g2
+(g6
+S'QL^\x82F\xd3\xd0?'
+p404
+tp405
+Rp406
+tp407
+a(S'sergio victor palma'
+p408
+g2
+(g6
+S'\xd0\x80\xaf\xf1U\xd1\xd0?'
+p409
+tp410
+Rp411
+tp412
+a(S'evhen khytrov'
+p413
+g2
+(g6
+S'\xf4`\x16\xf2\xb4\xc9\xd0?'
+p414
+tp415
+Rp416
+tp417
+a(S'carlos buitrago'
+p418
+g2
+(g6
+S'\xff\x1f\xf9\xeb\xa8\xc4\xd0?'
+p419
+tp420
+Rp421
+tp422
+a(S'british academy scotland awards'
+p423
+g2
+(g6
+S'3+\x12\xd11\xbd\xd0?'
+p424
+tp425
+Rp426
+tp427
+a(S'gravity: original motion picture soundtrack'
+p428
+g2
+(g6
+S'\xbf=/H\x17\xb5\xd0?'
+p429
+tp430
+Rp431
+tp432
+a(S'howard shore'
+p433
+g2
+(g6
+S'g\xeb\xfeT\x81\xb2\xd0?'
+p434
+tp435
+Rp436
+tp437
+a(S'bafta award for best film music'
+p438
+g2
+(g6
+S'6\x14\x86>!\xb2\xd0?'
+p439
+tp440
+Rp441
+tp442
+a(S'ond\xc5\x99ej p\xc3\xa1la'
+p443
+g2
+(g6
+S'\x0e\x9ck\xd7\n\xaf\xd0?'
+p444
+tp445
+Rp446
+tp447
+a(S'british academy television award for best supporting actor'
+p448
+g2
+(g6
+S'\x81\xefj\x90\xfd\xaa\xd0?'
+p449
+tp450
+Rp451
+tp452
+a(S'victor terrazas'
+p453
+g2
+(g6
+S"'\xe7\xd5]\xf2\xa3\xd0?"
+p454
+tp455
+Rp456
+tp457
+a(S'martina amati'
+p458
+g2
+(g6
+S'\xcej\xb0\xa7\x12\xa1\xd0?'
+p459
+tp460
+Rp461
+tp462
+a(S'marco antonio perib\xc3\xa1n'
+p463
+g2
+(g6
+S'\x0e\xe5\xf3\xdd0\x97\xd0?'
+p464
+tp465
+Rp466
+tp467
+a(S'2000 los angeles sparks season'
+p468
+g2
+(g6
+S'CDd<\xf9\x96\xd0?'
+p469
+tp470
+Rp471
+tp472
+a(S'ryo miyazaki'
+p473
+g2
+(g6
+S'\xda\xb9:\xda\xeb\x96\xd0?'
+p474
+tp475
+Rp476
+tp477
+a(S'eddy joseph'
+p478
+g2
+(g6
+S'\xea\xcaG\xf0K\x96\xd0?'
+p479
+tp480
+Rp481
+tp482
+a(S'alonzo butler'
+p483
+g2
+(g6
+S'$\xa2A?6\x91\xd0?'
+p484
+tp485
+Rp486
+tp487
+a(S'mickey bey, jr.'
+p488
+g2
+(g6
+S"\xd8}('\x0c\x87\xd0?"
+p489
+tp490
+Rp491
+tp492
+a(S'david saucedo'
+p493
+g2
+(g6
+S'e\x1a\x08T\xe0\x81\xd0?'
+p494
+tp495
+Rp496
+tp497
+a(S'2001 los angeles sparks season'
+p498
+g2
+(g6
+S'~B\xc4Mb\x81\xd0?'
+p499
+tp500
+Rp501
+tp502
+a(S'gavin rees'
+p503
+g2
+(g6
+S'\xef\x9a^)Dw\xd0?'
+p504
+tp505
+Rp506
+tp507
+a(S'richard conway (special effects artist)'
+p508
+g2
+(g6
+S'\x9c\x9c\x18IDv\xd0?'
+p509
+tp510
+Rp511
+tp512
+a(S'win'
+p513
+g2
+(g6
+S'\xa4\x9a\xa9\xa9\xd8t\xd0?'
+p514
+tp515
+Rp516
+tp517
+a(S'grigory drozd'
+p518
+g2
+(g6
+S'\x93\xf7\xd3\x00\x8dq\xd0?'
+p519
+tp520
+Rp521
+tp522
+a(S'john david jackson (boxer)'
+p523
+g2
+(g6
+S'\xc1&\xad\x8a\x99p\xd0?'
+p524
+tp525
+Rp526
+tp527
+a(S'classic 100 music in the movies (abc)'
+p528
+g2
+(g6
+S'\x93\xf7\xb1E?n\xd0?'
+p529
+tp530
+Rp531
+tp532
+a(S'marcelino nicolas lopez'
+p533
+g2
+(g6
+S'Abj\xc4\xa3l\xd0?'
+p534
+tp535
+Rp536
+tp537
+a(S'usc thornton school of music'
+p538
+g2
+(g6
+S'St\x01T-g\xd0?'
+p539
+tp540
+Rp541
+tp542
+a(S'yvon durelle'
+p543
+g2
+(g6
+S'\xcd\xb6Q\xd8%f\xd0?'
+p544
+tp545
+Rp546
+tp547
+a(S'juan carlos reveco'
+p548
+g2
+(g6
+S'\xd0\xd2\x9e:\x83e\xd0?'
+p549
+tp550
+Rp551
+tp552
+a(S'grammy award for best musical theater album'
+p553
+g2
+(g6
+S"\xf4\xf1?\xd9'e\xd0?"
+p554
+tp555
+Rp556
+tp557
+a(S'geoff zanelli'
+p558
+g2
+(g6
+S'o\xd8\x03<\xf9b\xd0?'
+p559
+tp560
+Rp561
+tp562
+a(S'mike anchondo'
+p563
+g2
+(g6
+S'\xf2Cp\n\x01`\xd0?'
+p564
+tp565
+Rp566
+tp567
+a(S'luke snellin'
+p568
+g2
+(g6
+S'\x1c)\x93\xf3^^\xd0?'
+p569
+tp570
+Rp571
+tp572
+a(S'how to train your dragon: music from the motion picture'
+p573
+g2
+(g6
+S'ED\xd8\xef\xf2Z\xd0?'
+p574
+tp575
+Rp576
+tp577
+a(S'grammy award for best score soundtrack for visual media'
+p578
+g2
+(g6
+S'\xfe\x1d\xe0\xf6\xc4Z\xd0?'
+p579
+tp580
+Rp581
+tp582
+a(S'emmy award'
+p583
+g2
+(g6
+S'x\x0f\x8f}\x7fZ\xd0?'
+p584
+tp585
+Rp586
+tp587
+a(S'brad solomon'
+p588
+g2
+(g6
+S'\xd0\x1a\x91T\xf8V\xd0?'
+p589
+tp590
+Rp591
+tp592
+a(S'milton burrow'
+p593
+g2
+(g6
+S'\x91P\xbe *R\xd0?'
+p594
+tp595
+Rp596
+tp597
+a(S'dan zeff'
+p598
+g2
+(g6
+S'@n)\xb8}K\xd0?'
+p599
+tp600
+Rp601
+tp602
+a(S'vicente mart\xc3\xadn rodr\xc3\xadguez'
+p603
+g2
+(g6
+S'=tx\xa7PJ\xd0?'
+p604
+tp605
+Rp606
+tp607
+a(S'3rd international emmy awards'
+p608
+g2
+(g6
+S')\x88XE\tI\xd0?'
+p609
+tp610
+Rp611
+tp612
+a(S'richard joseph'
+p613
+g2
+(g6
+S'5\xa6\xe4R\xafF\xd0?'
+p614
+tp615
+Rp616
+tp617
+a(S'17th international emmy awards'
+p618
+g2
+(g6
+S'%\x85=;mD\xd0?'
+p619
+tp620
+Rp621
+tp622
+a(S'nicholas hooper'
+p623
+g2
+(g6
+S'!t\xb6p\x98@\xd0?'
+p624
+tp625
+Rp626
+tp627
+a(S'2000 houston comets season'
+p628
+g2
+(g6
+S'\x16\xcd\xd4H\x8b?\xd0?'
+p629
+tp630
+Rp631
+tp632
+a(S'jean-paul mendy'
+p633
+g2
+(g6
+S'\xa7\xf8\xd7\xb1\xce:\xd0?'
+p634
+tp635
+Rp636
+tp637
+a(S'george blades (boxer)'
+p638
+g2
+(g6
+S'~\x03+>s:\xd0?'
+p639
+tp640
+Rp641
+tp642
+a(S'kevin satchell'
+p643
+g2
+(g6
+S'@@\xea\x8f\xf47\xd0?'
+p644
+tp645
+Rp646
+tp647
+a(S'sullivan barrera'
+p648
+g2
+(g6
+S'\xd9U\xa4S\xa36\xd0?'
+p649
+tp650
+Rp651
+tp652
+a(S'2002 los angeles sparks season'
+p653
+g2
+(g6
+S'0CT\xee\x1d5\xd0?'
+p654
+tp655
+Rp656
+tp657
+a(S'harry greb'
+p658
+g2
+(g6
+S'Y}\xe9\xb8\x912\xd0?'
+p659
+tp660
+Rp661
+tp662
+a(S'javier mendoza (boxer)'
+p663
+g2
+(g6
+S'\xd8e\x7f\xf6\xc20\xd0?'
+p664
+tp665
+Rp666
+tp667
+a(S'dimitri tiomkin'
+p668
+g2
+(g6
+S'^\xbcM\x8c\xad0\xd0?'
+p669
+tp670
+Rp671
+tp672
+a(S'gustavo ballas'
+p673
+g2
+(g6
+S'\xae\x8c\x03\x87\x12\x13\xd0?'
+p674
+tp675
+Rp676
+tp677
+a(S'horacio accavallo'
+p678
+g2
+(g6
+S'\x01\x86\xb4\x97\x14\x10\xd0?'
+p679
+tp680
+Rp681
+tp682
+a(S'american beauty: original motion picture score'
+p683
+g2
+(g6
+S'\xa3M\x10\x03\xe5\x08\xd0?'
+p684
+tp685
+Rp686
+tp687
+a(S'paul butler (boxer)'
+p688
+g2
+(g6
+S'Ru\xd4!;\x07\xd0?'
+p689
+tp690
+Rp691
+tp692
+a(S'samuel vargas'
+p693
+g2
+(g6
+S'\xbe\x9fH\xee-\xf2\xcf?'
+p694
+tp695
+Rp696
+tp697
+a(S'vyacheslav shabranskyy'
+p698
+g2
+(g6
+S'\xb3\x13\xbcaz\xef\xcf?'
+p699
+tp700
+Rp701
+tp702
+a(S'paul leonard-morgan'
+p703
+g2
+(g6
+S'\xd4\xe1[\x18\x1d\xe3\xcf?'
+p704
+tp705
+Rp706
+tp707
+a(S'william joppy'
+p708
+g2
+(g6
+S'\xdf3~\x8e\xaa\xe1\xcf?'
+p709
+tp710
+Rp711
+tp712
+a(S'merlito sabillo'
+p713
+g2
+(g6
+S'O\xdd7\x05&\xe0\xcf?'
+p714
+tp715
+Rp716
+tp717
+a(S'list of film score composers'
+p718
+g2
+(g6
+S'\x10\x8e\x9cKO\xd9\xcf?'
+p719
+tp720
+Rp721
+tp722
+a(S'jimmy mclarnin'
+p723
+g2
+(g6
+S'n\x9dU7\x87\xd5\xcf?'
+p724
+tp725
+Rp726
+tp727
+a(S'mercito gesta'
+p728
+g2
+(g6
+S'>*\x93\xc7\xa2\xd1\xcf?'
+p729
+tp730
+Rp731
+tp732
+a(S'takashi miura'
+p733
+g2
+(g6
+S'\xb9\xb6\x85C\x08\xcc\xcf?'
+p734
+tp735
+Rp736
+tp737
+a(S'gabriel elorde'
+p738
+g2
+(g6
+S'\xb6\\}\xd5\xd2\xc8\xcf?'
+p739
+tp740
+Rp741
+tp742
+a(S'ryan farrag'
+p743
+g2
+(g6
+S'{t^\x89\xf9\xc4\xcf?'
+p744
+tp745
+Rp746
+tp747
+a(S'jonathan victor barros'
+p748
+g2
+(g6
+S'\xef\xf6\xf1\x9c\xd8\xc3\xcf?'
+p749
+tp750
+Rp751
+tp752
+a(S'santos laciar'
+p753
+g2
+(g6
+S'Sf\xd4\x88\x8d\xc1\xcf?'
+p754
+tp755
+Rp756
+tp757
+a(S'elliot goldenthal'
+p758
+g2
+(g6
+S'\x98\x19X\x19\xd4\xc0\xcf?'
+p759
+tp760
+Rp761
+tp762
+a(S'debbie wiseman'
+p763
+g2
+(g6
+S'\x90\x0e\xe0f\xf9\xad\xcf?'
+p764
+tp765
+Rp766
+tp767
+a(S'the snow goose (film)'
+p768
+g2
+(g6
+S'E\xb6f\xf9\xb0\xaa\xcf?'
+p769
+tp770
+Rp771
+tp772
+a(S'andreas evensen'
+p773
+g2
+(g6
+S'\xd1\xd8\x87\xeeu\xa8\xcf?'
+p774
+tp775
+Rp776
+tp777
+a(S'denver cuello'
+p778
+g2
+(g6
+S'.E\t}\\\xa7\xcf?'
+p779
+tp780
+Rp781
+tp782
+a(S'patrick l\xc3\xb3pez'
+p783
+g2
+(g6
+S'\xdd7\x88%\xfd\xa6\xcf?'
+p784
+tp785
+Rp786
+tp787
+a(S'carlos takam'
+p788
+g2
+(g6
+S'\xd9\xe7\xddi)\xa4\xcf?'
+p789
+tp790
+Rp791
+tp792
+a(S'valdemir pereira'
+p793
+g2
+(g6
+S'\x17V\xdf\x8b\xdc\x9a\xcf?'
+p794
+tp795
+Rp796
+tp797
+a(S'jack culcay-keth'
+p798
+g2
+(g6
+S'\x13S\xdc\t\xec\x92\xcf?'
+p799
+tp800
+Rp801
+tp802
+a(S'marcelo dom\xc3\xadnguez'
+p803
+g2
+(g6
+S'FI6\xb2d\x8d\xcf?'
+p804
+tp805
+Rp806
+tp807
+a(S'richard blair-oliphant'
+p808
+g2
+(g6
+S'A\x9cW\xfc\xe9\x8c\xcf?'
+p809
+tp810
+Rp811
+tp812
+a(S'juan martin coggi'
+p813
+g2
+(g6
+S'\x9f\xb0\xc2u\xe2\x84\xcf?'
+p814
+tp815
+Rp816
+tp817
+a(S'saving mr. banks (soundtrack)'
+p818
+g2
+(g6
+S'\xe6\x0e\xcaP\x91\x82\xcf?'
+p819
+tp820
+Rp821
+tp822
+a(S'marcin rekowski'
+p823
+g2
+(g6
+S'\\\xd7\xbfD\x86q\xcf?'
+p824
+tp825
+Rp826
+tp827
+a(S'11th international emmy awards'
+p828
+g2
+(g6
+S'\xefw\xbfY\xd9m\xcf?'
+p829
+tp830
+Rp831
+tp832
+a(S'bafta scotland'
+p833
+g2
+(g6
+S'\xd8\xcd\x90\xfere\xcf?'
+p834
+tp835
+Rp836
+tp837
+a(S'ezequiel maderna'
+p838
+g2
+(g6
+S'owf\xcb\x91b\xcf?'
+p839
+tp840
+Rp841
+tp842
+a(S'shinsuke yamanaka'
+p843
+g2
+(g6
+S'\xc5I\x00 ~S\xcf?'
+p844
+tp845
+Rp846
+tp847
+a(S'hugo rafael soto'
+p848
+g2
+(g6
+S'\xc6\xe6*\xdc\xfaJ\xcf?'
+p849
+tp850
+Rp851
+tp852
+a(S'1998 houston comets season'
+p853
+g2
+(g6
+S'\x99\n\x16G\x86J\xcf?'
+p854
+tp855
+Rp856
+tp857
+a(S'hamid rahimi'
+p858
+g2
+(g6
+S'\xd6\xa1\x9be\xe49\xcf?'
+p859
+tp860
+Rp861
+tp862
+a(S'johan p\xc3\xa9rez'
+p863
+g2
+(g6
+S'T:6\xf6k8\xcf?'
+p864
+tp865
+Rp866
+tp867
+a(S'john altman (composer)'
+p868
+g2
+(g6
+S'\x85\x0ew\xf7\xc32\xcf?'
+p869
+tp870
+Rp871
+tp872
+a(S'hedgemon lewis'
+p873
+g2
+(g6
+S'gs\xbd\x1b\xe5\x06\xcf?'
+p874
+tp875
+Rp876
+tp877
+a(S'hector saldivia'
+p878
+g2
+(g6
+S'\xde\xca\x10\xead\x05\xcf?'
+p879
+tp880
+Rp881
+tp882
+a(S'martin smith (film maker)'
+p883
+g2
+(g6
+S'\x8fk\x86-\xb3\x02\xcf?'
+p884
+tp885
+Rp886
+tp887
+a(S'2002 houston comets season'
+p888
+g2
+(g6
+S'\xf1\x91\rV\xc5\xf2\xce?'
+p889
+tp890
+Rp891
+tp892
+a(S'sinan \xc5\x9eamil sam'
+p893
+g2
+(g6
+S'@\xa2\nu\xe7\xec\xce?'
+p894
+tp895
+Rp896
+tp897
+a(S'british academy scotland new talent awards'
+p898
+g2
+(g6
+S'Uz4\x138\xd2\xce?'
+p899
+tp900
+Rp901
+tp902
+a(S'dmitry chudinov'
+p903
+g2
+(g6
+S'yo\x92-\x19\xce\xce?'
+p904
+tp905
+Rp906
+tp907
+a(S'george kallis'
+p908
+g2
+(g6
+S'\x05\xc9\x9e\x19\xc6\xcb\xce?'
+p909
+tp910
+Rp911
+tp912
+a(S'mateusz masternak'
+p913
+g2
+(g6
+S'\xd1F\x04\xa6\x9e\xc7\xce?'
+p914
+tp915
+Rp916
+tp917
+a(S'bea ballard'
+p918
+g2
+(g6
+S'>\xcaPas\xc5\xce?'
+p919
+tp920
+Rp921
+tp922
+a(S'omar narv\xc3\xa1ez (boxer)'
+p923
+g2
+(g6
+S'=\x08/\xfbI\xc4\xce?'
+p924
+tp925
+Rp926
+tp927
+a(S'rafael herrera'
+p928
+g2
+(g6
+S'#\x02a\x06\xae\x9b\xce?'
+p929
+tp930
+Rp931
+tp932
+a(S'jason pagara'
+p933
+g2
+(g6
+S'P3\xcc\xba\x8f\x92\xce?'
+p934
+tp935
+Rp936
+tp937
+a(S'jon foster (writer)'
+p938
+g2
+(g6
+S'\xe1\r\xdf\xf6\x13{\xce?'
+p939
+tp940
+Rp941
+tp942
+a(S'rafa\xc5\x82 jackiewicz'
+p943
+g2
+(g6
+S'0R\t`\xe7y\xce?'
+p944
+tp945
+Rp946
+tp947
+a(S'abc theater'
+p948
+g2
+(g6
+S'\xba1D\xf0\xd0v\xce?'
+p949
+tp950
+Rp951
+tp952
+a(S'david blair (director)'
+p953
+g2
+(g6
+S',\xc5\xc2Z6s\xce?'
+p954
+tp955
+Rp956
+tp957
+a(S'cleotis pendarvis'
+p958
+g2
+(g6
+S'\x83\x1fL\x90\xc3p\xce?'
+p959
+tp960
+Rp961
+tp962
+a(S'john jackson (virgin islands boxer)'
+p963
+g2
+(g6
+S'bf\xab\x02\xdce\xce?'
+p964
+tp965
+Rp966
+tp967
+a(S'win-win game'
+p968
+g2
+(g6
+S'\x06\x0f\x95\xfe\xb8Y\xce?'
+p969
+tp970
+Rp971
+tp972
+a(S'pawe\xc5\x82 g\xc5\x82a\xc5\xbcewski'
+p973
+g2
+(g6
+S'\x13~\x14/\xd9V\xce?'
+p974
+tp975
+Rp976
+tp977
+a(S'ryoichi taguchi'
+p978
+g2
+(g6
+S'*Y\x16\x84cQ\xce?'
+p979
+tp980
+Rp981
+tp982
+a(S'2012 maria sharapova tennis season'
+p983
+g2
+(g6
+S'\x070p!\x08Q\xce?'
+p984
+tp985
+Rp986
+tp987
+a(S'jerry goldsmith'
+p988
+g2
+(g6
+S'\x8c\x98\xdf\xd7\x9eL\xce?'
+p989
+tp990
+Rp991
+tp992
+a(S'xiong chaozhong'
+p993
+g2
+(g6
+S'ufg\xe2\x9aK\xce?'
+p994
+tp995
+Rp996
+tp997
+a(S'alfred newman (composer)'
+p998
+g2
+(g6
+S'\x8dg\xfd\x16\xbcI\xce?'
+p999
+tp1000
+Rp1001
+tp1002
+a(S'todd soundelux'
+p1003
+g2
+(g6
+S'\xa5ON\x19\x95;\xce?'
+p1004
+tp1005
+Rp1006
+tp1007
+a(S'jose zepeda'
+p1008
+g2
+(g6
+S'\xd5\x94\x81\xb0V:\xce?'
+p1009
+tp1010
+Rp1011
+tp1012
+a(S'malik scott'
+p1013
+g2
+(g6
+S"\xa3'\xab!\xe65\xce?"
+p1014
+tp1015
+Rp1016
+tp1017
+a(S'trevor jones (composer)'
+p1018
+g2
+(g6
+S'\xe8U]\x97\x92$\xce?'
+p1019
+tp1020
+Rp1021
+tp1022
+a(S'k\xc3\xa1roly balzsay'
+p1023
+g2
+(g6
+S'\x9d\xf0WI\x03\x10\xce?'
+p1024
+tp1025
+Rp1026
+tp1027
+a(S'hern\xc3\xa1n m\xc3\xa1rquez'
+p1028
+g2
+(g6
+S'\xa1\x0b\x00\xe9\xb1\x0c\xce?'
+p1029
+tp1030
+Rp1031
+tp1032
+a(S'paulus moses'
+p1033
+g2
+(g6
+S'\xff\xfc\xbd\xb5\xeb\x06\xce?'
+p1034
+tp1035
+Rp1036
+tp1037
+a(S'yoandris salinas'
+p1038
+g2
+(g6
+S'\x19/\x84=\xaa\xfc\xcd?'
+p1039
+tp1040
+Rp1041
+tp1042
+a(S'c\xc3\xa9sar cuenca'
+p1043
+g2
+(g6
+S'\xce\x19:\xda\t\xf5\xcd?'
+p1044
+tp1045
+Rp1046
+tp1047
+a(S'shirley walker'
+p1048
+g2
+(g6
+S'\x9c\xfe\xc3\xe5\xaf\xf0\xcd?'
+p1049
+tp1050
+Rp1051
+tp1052
+a(S'world soundtrack academy'
+p1053
+g2
+(g6
+S'@P\xee\xc0\xe1\xee\xcd?'
+p1054
+tp1055
+Rp1056
+tp1057
+a(S'daniel rosas'
+p1058
+g2
+(g6
+S'{c\xb4\xc01\xda\xcd?'
+p1059
+tp1060
+Rp1061
+tp1062
+a(S'2nd international emmy awards'
+p1063
+g2
+(g6
+S'Os\x1b|_\xd7\xcd?'
+p1064
+tp1065
+Rp1066
+tp1067
+a(S'danny brocklehurst'
+p1068
+g2
+(g6
+S'\rAue-\xd7\xcd?'
+p1069
+tp1070
+Rp1071
+tp1072
+a(S'thomas newman'
+p1073
+g2
+(g6
+S'\x94\x9a\x1ddv\xd6\xcd?'
+p1074
+tp1075
+Rp1076
+tp1077
+a(S'the tester'
+p1078
+g2
+(g6
+S'\xba\x7f\n\xa6\xee\xc6\xcd?'
+p1079
+tp1080
+Rp1081
+tp1082
+a(S'jerome moross'
+p1083
+g2
+(g6
+S'\x87`P\x06\x88\xc3\xcd?'
+p1084
+tp1085
+Rp1086
+tp1087
+a(S'academy award for best original musical'
+p1088
+g2
+(g6
+S'n\x86\xce\xd9\x88\xc2\xcd?'
+p1089
+tp1090
+Rp1091
+tp1092
+a(S'terry hughes (director)'
+p1093
+g2
+(g6
+S'\xb8\x9e?\x9b(\xbe\xcd?'
+p1094
+tp1095
+Rp1096
+tp1097
+a(S'laura karpman'
+p1098
+g2
+(g6
+S'[\x8c\xea\x81\xb6\xbc\xcd?'
+p1099
+tp1100
+Rp1101
+tp1102
+a(S"you can't win"
+p1103
+g2
+(g6
+S'\x8f\xfd\x89\x9d>\xbb\xcd?'
+p1104
+tp1105
+Rp1106
+tp1107
+a(S'sean sullivan (boxer)'
+p1108
+g2
+(g6
+S"\x8aM\xb9d'\xb1\xcd?"
+p1109
+tp1110
+Rp1111
+tp1112
+a(S'adam lewis'
+p1113
+g2
+(g6
+S'\xb84\xf3\xeb\x9d\xa7\xcd?'
+p1114
+tp1115
+Rp1116
+tp1117
+a(S'francisco guilledo'
+p1118
+g2
+(g6
+S'? <?\xc0\xa2\xcd?'
+p1119
+tp1120
+Rp1121
+tp1122
+a(S'gene fullmer'
+p1123
+g2
+(g6
+S'\x0e\xe0q\xccx\x93\xcd?'
+p1124
+tp1125
+Rp1126
+tp1127
+a(S'girl with a pearl earring (soundtrack)'
+p1128
+g2
+(g6
+S'D\x11\x1a\x1dx\x92\xcd?'
+p1129
+tp1130
+Rp1131
+tp1132
+a(S'denton vassell'
+p1133
+g2
+(g6
+S'\x06\xecOb$\x85\xcd?'
+p1134
+tp1135
+Rp1136
+tp1137
+a(S'in it to win it (disambiguation)'
+p1138
+g2
+(g6
+S'\xdc\x0b8x:\x80\xcd?'
+p1139
+tp1140
+Rp1141
+tp1142
+a(S'randy caballero'
+p1143
+g2
+(g6
+S'"V\x1d\x96\xe7}\xcd?'
+p1144
+tp1145
+Rp1146
+tp1147
+a(S'abel korzeniowski'
+p1148
+g2
+(g6
+S'\xcf\xd7\xfd\xbb\xdax\xcd?'
+p1149
+tp1150
+Rp1151
+tp1152
+a(S'henry hughes (director)'
+p1153
+g2
+(g6
+S'_ho1$t\xcd?'
+p1154
+tp1155
+Rp1156
+tp1157
+a(S'orlando cruz'
+p1158
+g2
+(g6
+S'?\x94FJ\xe6j\xcd?'
+p1159
+tp1160
+Rp1161
+tp1162
+a(S'garbis zakaryan'
+p1163
+g2
+(g6
+S'26\xde\x80\xd8i\xcd?'
+p1164
+tp1165
+Rp1166
+tp1167
+a(S"gary o'sullivan"
+p1168
+g2
+(g6
+S'"M\x122\xdbg\xcd?'
+p1169
+tp1170
+Rp1171
+tp1172
+a(S'carlos gabriel salazar'
+p1173
+g2
+(g6
+S'\x1a\x9f)\x95)d\xcd?'
+p1174
+tp1175
+Rp1176
+tp1177
+a(S'2006 los angeles sparks season'
+p1178
+g2
+(g6
+S'O\xcdu\x8f\x08Z\xcd?'
+p1179
+tp1180
+Rp1181
+tp1182
+a(S'paul wroblewski'
+p1183
+g2
+(g6
+S"\xedjY'\xc2Y\xcd?"
+p1184
+tp1185
+Rp1186
+tp1187
+a(S'triple crown of acting'
+p1188
+g2
+(g6
+S'5\xb1\xdc\xa5"X\xcd?'
+p1189
+tp1190
+Rp1191
+tp1192
+a(S'josh warrington'
+p1193
+g2
+(g6
+S'C\xc4\xc4\xe2\x07V\xcd?'
+p1194
+tp1195
+Rp1196
+tp1197
+a(S'alejandra oliveras'
+p1198
+g2
+(g6
+S'\xdf\x03\x8e\x1b\x9cT\xcd?'
+p1199
+tp1200
+Rp1201
+tp1202
+a(S'chris van heerden'
+p1203
+g2
+(g6
+S'\xf7\xe2:f\x97I\xcd?'
+p1204
+tp1205
+Rp1206
+tp1207
+a(S'james newton howard'
+p1208
+g2
+(g6
+S'\tO\xba\x94\xedG\xcd?'
+p1209
+tp1210
+Rp1211
+tp1212
+a(S'douglas pipes'
+p1213
+g2
+(g6
+S'\xe7\x8ea/\x99F\xcd?'
+p1214
+tp1215
+Rp1216
+tp1217
+a(S'pawe\xc5\x82 ko\xc5\x82odziej'
+p1218
+g2
+(g6
+S'\x08\xa5d\x13\x11?\xcd?'
+p1219
+tp1220
+Rp1221
+tp1222
+a(S'brian percival'
+p1223
+g2
+(g6
+S'9f\xd1\xc8\xd2:\xcd?'
+p1224
+tp1225
+Rp1226
+tp1227
+a(S'todd-ao'
+p1228
+g2
+(g6
+S'\xc0\xbd\x06\x7fU2\xcd?'
+p1229
+tp1230
+Rp1231
+tp1232
+a(S'philo t. farnsworth award'
+p1233
+g2
+(g6
+S'\x9c%\x0e\x88\x9a/\xcd?'
+p1234
+tp1235
+Rp1236
+tp1237
+a(S'georg brandl egloff'
+p1238
+g2
+(g6
+S'_,L\x86\xf1*\xcd?'
+p1239
+tp1240
+Rp1241
+tp1242
+a(S'enad li\xc4\x8dina'
+p1243
+g2
+(g6
+S'\xdc\xf7j[\\*\xcd?'
+p1244
+tp1245
+Rp1246
+tp1247
+a(S'gabriel campillo'
+p1248
+g2
+(g6
+S'\x90"\x08\xcc*$\xcd?'
+p1249
+tp1250
+Rp1251
+tp1252
+a(S'oscar bonavena'
+p1253
+g2
+(g6
+S'@\x91\x13jO\x1f\xcd?'
+p1254
+tp1255
+Rp1256
+tp1257
+a(S'2001 cleveland rockers season'
+p1258
+g2
+(g6
+S'\xcd\x08\x83\x07H\x18\xcd?'
+p1259
+tp1260
+Rp1261
+tp1262
+a(S'list of compositions by john williams'
+p1263
+g2
+(g6
+S'Z\x9c\xa8\x90\xdd\x0b\xcd?'
+p1264
+tp1265
+Rp1266
+tp1267
+a(S'hamid sourian'
+p1268
+g2
+(g6
+S'[\xfb\x0f\x9b\xd4\x0b\xcd?'
+p1269
+tp1270
+Rp1271
+tp1272
+a(S'magne havn\xc3\xa5'
+p1273
+g2
+(g6
+S'Lxx\xe1\xf2\x06\xcd?'
+p1274
+tp1275
+Rp1276
+tp1277
+a(S'yu kimura (boxer)'
+p1278
+g2
+(g6
+S'\xd4\xf9}F\xd3\x04\xcd?'
+p1279
+tp1280
+Rp1281
+tp1282
+a(S'2001 miami sol season'
+p1283
+g2
+(g6
+S'J/Q\x06A\x01\xcd?'
+p1284
+tp1285
+Rp1286
+tp1287
+a(S'malik bouziane'
+p1288
+g2
+(g6
+S'\x1d\x08W\x1b\xf9\x00\xcd?'
+p1289
+tp1290
+Rp1291
+tp1292
+a(S'patrick hyland'
+p1293
+g2
+(g6
+S'\xc5"0R\xc2\xf7\xcc?'
+p1294
+tp1295
+Rp1296
+tp1297
+a(S'christopher slaski'
+p1298
+g2
+(g6
+S'I\xa4\xd34\xb0\xf3\xcc?'
+p1299
+tp1300
+Rp1301
+tp1302
+a(S'michael josephs'
+p1303
+g2
+(g6
+S'jT\xe5\x19\x9f\xf2\xcc?'
+p1304
+tp1305
+Rp1306
+tp1307
+a(S'mike keta'
+p1308
+g2
+(g6
+S'\xd0\xe8\\\x00\r\xf1\xcc?'
+p1309
+tp1310
+Rp1311
+tp1312
+a(S'eder kurti'
+p1313
+g2
+(g6
+S'\xf1\x9bEL\xb5\xee\xcc?'
+p1314
+tp1315
+Rp1316
+tp1317
+a(S'composer'
+p1318
+g2
+(g6
+S'\xe3?\x05c\xf5\xeb\xcc?'
+p1319
+tp1320
+Rp1321
+tp1322
+a(S'primetime engineering emmy awards'
+p1323
+g2
+(g6
+S'c\x06Ge\xc8\xe2\xcc?'
+p1324
+tp1325
+Rp1326
+tp1327
+a(S'martin santiago augusto castillo'
+p1328
+g2
+(g6
+S'(\xf8\x9c\xceC\xd4\xcc?'
+p1329
+tp1330
+Rp1331
+tp1332
+a(S'taras shelestyuk'
+p1333
+g2
+(g6
+S'\x90\xb8e\x0c\xdd\xd3\xcc?'
+p1334
+tp1335
+Rp1336
+tp1337
+a(S'robert kovacik'
+p1338
+g2
+(g6
+S'\xa9\x88\xf2\n\xb6\xc7\xcc?'
+p1339
+tp1340
+Rp1341
+tp1342
+a(S'darleys p\xc3\xa9rez'
+p1343
+g2
+(g6
+S'\x84s\x0e\xcf5\xc5\xcc?'
+p1344
+tp1345
+Rp1346
+tp1347
+a(S'juan carlos salgado'
+p1348
+g2
+(g6
+S'\x8bhW\xfe\x14\xc2\xcc?'
+p1349
+tp1350
+Rp1351
+tp1352
+a(S'saturn award for best music'
+p1353
+g2
+(g6
+S'Pq\x07\x17\xc8\xbc\xcc?'
+p1354
+tp1355
+Rp1356
+tp1357
+a(S'e.t. the extra-terrestrial (soundtrack)'
+p1358
+g2
+(g6
+S'\xaf\n\x03\x1cv\xb9\xcc?'
+p1359
+tp1360
+Rp1361
+tp1362
+a(S'azea augustama'
+p1363
+g2
+(g6
+S'\xac^P\xe6\xd8\xab\xcc?'
+p1364
+tp1365
+Rp1366
+tp1367
+a(S'felipe orucuta'
+p1368
+g2
+(g6
+S'\xf8\r\xe0\xfa\xbf\xa4\xcc?'
+p1369
+tp1370
+Rp1371
+tp1372
+a(S'scott glasgow'
+p1373
+g2
+(g6
+S'\x1d\x85\xedl\x16\xa3\xcc?'
+p1374
+tp1375
+Rp1376
+tp1377
+a(S'nikola stevanovi\xc4\x87'
+p1378
+g2
+(g6
+S'-\x07\xad\x07\\\x9f\xcc?'
+p1379
+tp1380
+Rp1381
+tp1382
+a(S'gilberto rom\xc3\xa1n'
+p1383
+g2
+(g6
+S'k\t\x1e\xc1\x88\x9c\xcc?'
+p1384
+tp1385
+Rp1386
+tp1387
+a(S'julian williams (boxer)'
+p1388
+g2
+(g6
+S'H\xb0\xfa~\xc2\x94\xcc?'
+p1389
+tp1390
+Rp1391
+tp1392
+a(S'american classical music'
+p1393
+g2
+(g6
+S'\xf1\x8aD\x83+\x93\xcc?'
+p1394
+tp1395
+Rp1396
+tp1397
+a(S'dave malkoff'
+p1398
+g2
+(g6
+S'kI\x95\xe8\xb6\x8f\xcc?'
+p1399
+tp1400
+Rp1401
+tp1402
+a(S'kellyanne farquhar'
+p1403
+g2
+(g6
+S'n\xd1\x12;\xfe\x8b\xcc?'
+p1404
+tp1405
+Rp1406
+tp1407
+a(S'list of composers by nationality'
+p1408
+g2
+(g6
+S'FP\x81Ct\x89\xcc?'
+p1409
+tp1410
+Rp1411
+tp1412
+a(S'stephen warbeck'
+p1413
+g2
+(g6
+S'"\xbf\x03\xaa]\x87\xcc?'
+p1414
+tp1415
+Rp1416
+tp1417
+a(S'music of the marvel cinematic universe'
+p1418
+g2
+(g6
+S'MiU\x87\x97\x84\xcc?'
+p1419
+tp1420
+Rp1421
+tp1422
+a(S'pablo c\xc3\xa9sar cano'
+p1423
+g2
+(g6
+S'\x02\xe6&\xb3\x94{\xcc?'
+p1424
+tp1425
+Rp1426
+tp1427
+a(S'walter matthysse'
+p1428
+g2
+(g6
+S'\xd8tJT\x0ce\xcc?'
+p1429
+tp1430
+Rp1431
+tp1432
+a(S'czar amonsot'
+p1433
+g2
+(g6
+S'\xb0\xde\xe5 \xf9d\xcc?'
+p1434
+tp1435
+Rp1436
+tp1437
+a(S'les darcy'
+p1438
+g2
+(g6
+S'\xb5d\xfe\x87\x8d]\xcc?'
+p1439
+tp1440
+Rp1441
+tp1442
+a(S'aleksy kuziemski'
+p1443
+g2
+(g6
+S"\xc4'\xa9Xp]\xcc?"
+p1444
+tp1445
+Rp1446
+tp1447
+a(S'jeff cardoni'
+p1448
+g2
+(g6
+S'J-\xae-\xad\\\xcc?'
+p1449
+tp1450
+Rp1451
+tp1452
+a(S'david lean filmography'
+p1453
+g2
+(g6
+S'B\x84\xfdDgV\xcc?'
+p1454
+tp1455
+Rp1456
+tp1457
+a(S'summer (2008 film)'
+p1458
+g2
+(g6
+S'X\x9bJ\xd0\x84U\xcc?'
+p1459
+tp1460
+Rp1461
+tp1462
+a(S'dominic wade'
+p1463
+g2
+(g6
+S'\xba\x86\x10\xa2[Q\xcc?'
+p1464
+tp1465
+Rp1466
+tp1467
+a(S'israel h\xc3\xa9ctor perez'
+p1468
+g2
+(g6
+S'\t\xa3\xba\x12\xeaO\xcc?'
+p1469
+tp1470
+Rp1471
+tp1472
+a(S'2001 new york liberty season'
+p1473
+g2
+(g6
+S'.z\xe3\x18\xb5K\xcc?'
+p1474
+tp1475
+Rp1476
+tp1477
+a(S'michael j. mcalister'
+p1478
+g2
+(g6
+S'\x9c<\x92"\xd7G\xcc?'
+p1479
+tp1480
+Rp1481
+tp1482
+a(S'gregorio peralta'
+p1483
+g2
+(g6
+S'\xb4\x94\xd4h\x08B\xcc?'
+p1484
+tp1485
+Rp1486
+tp1487
+a(S'list of eastman school of music people'
+p1488
+g2
+(g6
+S'\xe9M\xef\xef\xec>\xcc?'
+p1489
+tp1490
+Rp1491
+tp1492
+a(S'win\xe2\x80\x93loss'
+p1493
+g2
+(g6
+S'\x0e\xfc\xb6"\x01<\xcc?'
+p1494
+tp1495
+Rp1496
+tp1497
+a(S'score'
+p1498
+g2
+(g6
+S'y\xfa1\x03\xbe1\xcc?'
+p1499
+tp1500
+Rp1501
+tp1502
+a(S'vaitele soi'
+p1503
+g2
+(g6
+S'w\x7fH<\x96(\xcc?'
+p1504
+tp1505
+Rp1506
+tp1507
+a(S'lanardo tyner'
+p1508
+g2
+(g6
+S'<\xfc\x84)\xdd%\xcc?'
+p1509
+tp1510
+Rp1511
+tp1512
+a.

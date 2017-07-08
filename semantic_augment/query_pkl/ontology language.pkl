@@ -1,0 +1,2728 @@
+(lp0
+(S'ontology language'
+p1
+cnumpy.core.multiarray
+scalar
+p2
+(cnumpy
+dtype
+p3
+(S'f8'
+p4
+I0
+I1
+tp5
+Rp6
+(I3
+S'<'
+p7
+NNNI-1
+I-1
+I0
+tp8
+bS'\x04\x00\x00\x00\x00\x00\xf0?'
+p9
+tp10
+Rp11
+tp12
+a(S'ontology engineering'
+p13
+g2
+(g6
+S'/\xa4\xa7\x17@\xe4\xe3?'
+p14
+tp15
+Rp16
+tp17
+a(S'ontology (information science)'
+p18
+g2
+(g6
+S'$\x8a@2\x00B\xe3?'
+p19
+tp20
+Rp21
+tp22
+a(S'tool for ontology development and editing (tode)'
+p23
+g2
+(g6
+S'\x01\x82\xa8\x91\xfa\xf8\xe2?'
+p24
+tp25
+Rp26
+tp27
+a(S'ontology inference layer'
+p28
+g2
+(g6
+S'\x99\xa3\x95\xe0PK\xe2?'
+p29
+tp30
+Rp31
+tp32
+a(S'f-logic'
+p33
+g2
+(g6
+S'\xa0\xa8\xcf\x1e\xf29\xe2?'
+p34
+tp35
+Rp36
+tp37
+a(S'upper ontology'
+p38
+g2
+(g6
+S'\xfb\xe1B\n\xd88\xe2?'
+p39
+tp40
+Rp41
+tp42
+a(S'formal ontology'
+p43
+g2
+(g6
+S'I\x11\xc1\xb4\x86\xcb\xe1?'
+p44
+tp45
+Rp46
+tp47
+a(S'web services modeling language'
+p48
+g2
+(g6
+S'#\xf9\xec\xa7"\x80\xe0?'
+p49
+tp50
+Rp51
+tp52
+a(S'ontology alignment'
+p53
+g2
+(g6
+S'\x93tu \xac4\xe0?'
+p54
+tp55
+Rp56
+tp57
+a(S'process specification language'
+p58
+g2
+(g6
+S'{\r\xe2|\xdd1\xe0?'
+p59
+tp60
+Rp61
+tp62
+a(S'daml+oil'
+p63
+g2
+(g6
+S'\x83\x04\xab}\xe0(\xe0?'
+p64
+tp65
+Rp66
+tp67
+a(S'mod ontology'
+p68
+g2
+(g6
+S']\x05\xc1\xa1\xcd\xed\xdf?'
+p69
+tp70
+Rp71
+tp72
+a(S'barry smith (academic)'
+p73
+g2
+(g6
+S'u\x0c\xfd\xe17\xcf\xdf?'
+p74
+tp75
+Rp76
+tp77
+a(S'human phenotype ontology'
+p78
+g2
+(g6
+S'b\xe27|-\xb0\xdf?'
+p79
+tp80
+Rp81
+tp82
+a(S'obo foundry'
+p83
+g2
+(g6
+S'\xfc\x02A\x97\x9b\xa6\xdf?'
+p84
+tp85
+Rp86
+tp87
+a(S'open biomedical ontologies'
+p88
+g2
+(g6
+S'\x8a`\xcb\x82;r\xdf?'
+p89
+tp90
+Rp91
+tp92
+a(S'process ontology'
+p93
+g2
+(g6
+S'>\x97(UwC\xdf?'
+p94
+tp95
+Rp96
+tp97
+a(S'idef5'
+p98
+g2
+(g6
+S'\x0b\xa7u\x15\xf6$\xdf?'
+p99
+tp100
+Rp101
+tp102
+a(S'basic formal ontology'
+p103
+g2
+(g6
+S'\xdf\x03\x97\xf9\xacM\xde?'
+p104
+tp105
+Rp106
+tp107
+a(S'conceptualization (information science)'
+p108
+g2
+(g6
+S'\x0c\xdfl\xbd\xa4#\xde?'
+p109
+tp110
+Rp111
+tp112
+a(S'semantic interoperability'
+p113
+g2
+(g6
+S'e\xe6|\xc9X\x18\xde?'
+p114
+tp115
+Rp116
+tp117
+a(S'ontology definition metamodel'
+p118
+g2
+(g6
+S'\xf2\xff<\x8e\xc5\xf3\xdd?'
+p119
+tp120
+Rp121
+tp122
+a(S'core ontology'
+p123
+g2
+(g6
+S':\xaa\x92\xc5\xab\xa9\xdd?'
+p124
+tp125
+Rp126
+tp127
+a(S'bibliographic ontology'
+p128
+g2
+(g6
+S'\x8f\xefk2\x92u\xdd?'
+p129
+tp130
+Rp131
+tp132
+a(S'content completeness problem'
+p133
+g2
+(g6
+S'x\xe3\xf3\x00ek\xdd?'
+p134
+tp135
+Rp136
+tp137
+a(S'ontology learning'
+p138
+g2
+(g6
+S'B\xf9\xc1p\xca(\xdd?'
+p139
+tp140
+Rp141
+tp142
+a(S'ontology double articulation'
+p143
+g2
+(g6
+S'^\xfc=\n\x8e$\xdd?'
+p144
+tp145
+Rp146
+tp147
+a(S'description logic'
+p148
+g2
+(g6
+S'%\xc2\x8d\xff\xc5\xfd\xdc?'
+p149
+tp150
+Rp151
+tp152
+a(S'class (knowledge representation)'
+p153
+g2
+(g6
+S'A\xf3S\xb9\xd0\xfc\xdc?'
+p154
+tp155
+Rp156
+tp157
+a(S'darpa agent markup language'
+p158
+g2
+(g6
+S'\x1d\x12(55\xf4\xdc?'
+p159
+tp160
+Rp161
+tp162
+a(S'dogma'
+p163
+g2
+(g6
+S'\xee\x12,\xfa\x96\xc7\xdc?'
+p164
+tp165
+Rp166
+tp167
+a(S'logic'
+p168
+g2
+(g6
+S'\xff\x02\xc0\xb6\xe6\xc1\xdc?'
+p169
+tp170
+Rp171
+tp172
+a(S'applied ontology'
+p173
+g2
+(g6
+S'Z\x103\x15\xb3\x88\xdc?'
+p174
+tp175
+Rp176
+tp177
+a(S'ontology systems'
+p178
+g2
+(g6
+S'\xda\xbf\x92\xca\xab\x7f\xdc?'
+p179
+tp180
+Rp181
+tp182
+a(S'weak ontology'
+p183
+g2
+(g6
+S'\x13\x82j\xa1\xc8\xfe\xdb?'
+p184
+tp185
+Rp186
+tp187
+a(S'logic (disambiguation)'
+p188
+g2
+(g6
+S'\xda\x96=6\xdf\xd0\xdb?'
+p189
+tp190
+Rp191
+tp192
+a(S'foundational model of anatomy'
+p193
+g2
+(g6
+S'\xd1"(\x9f\xb3\xae\xdb?'
+p194
+tp195
+Rp196
+tp197
+a(S'rival conceptions of logic'
+p198
+g2
+(g6
+S'\x045\x19\xbft\xa8\xdb?'
+p199
+tp200
+Rp201
+tp202
+a(S'meta-ontology'
+p203
+g2
+(g6
+S'L\xf2T\x0f>\xa1\xdb?'
+p204
+tp205
+Rp206
+tp207
+a(S'disease ontology'
+p208
+g2
+(g6
+S'+\xe7#\xa3\xd7\xf6\xda?'
+p209
+tp210
+Rp211
+tp212
+a(S'gold (ontology)'
+p213
+g2
+(g6
+S'\x96{\xf7h&\xe7\xda?'
+p214
+tp215
+Rp216
+tp217
+a(S'index of logic articles'
+p218
+g2
+(g6
+S'\xdb\x1c1R\xab\xd2\xda?'
+p219
+tp220
+Rp221
+tp222
+a(S'common logic'
+p223
+g2
+(g6
+S'\xf6\xe7)\xba!t\xda?'
+p224
+tp225
+Rp226
+tp227
+a(S'web ontology language'
+p228
+g2
+(g6
+S'\xf30,c\xecq\xda?'
+p229
+tp230
+Rp231
+tp232
+a(S'dcgo'
+p233
+g2
+(g6
+S'iR\xb5\x088X\xda?'
+p234
+tp235
+Rp236
+tp237
+a(S'outline of logic'
+p238
+g2
+(g6
+S"\xc1\xab\x91m'S\xda?"
+p239
+tp240
+Rp241
+tp242
+a(S'kaon'
+p243
+g2
+(g6
+S'&\xcc\xb0p\x01E\xda?'
+p244
+tp245
+Rp246
+tp247
+a(S'free logic'
+p248
+g2
+(g6
+S'C\xbb\x15\xcf1\xbf\xd9?'
+p249
+tp250
+Rp251
+tp252
+a(S'paraconsistent logic'
+p253
+g2
+(g6
+S'\x047\xedp\x84\x91\xd9?'
+p254
+tp255
+Rp256
+tp257
+a(S'semantic web rule language'
+p258
+g2
+(g6
+S'3p\x0e\x14\x18u\xd9?'
+p259
+tp260
+Rp261
+tp262
+a(S'logic in computer science'
+p263
+g2
+(g6
+S'\xa6M\xa2\xe3Lr\xd9?'
+p264
+tp265
+Rp266
+tp267
+a(S'jerzy perzanowski'
+p268
+g2
+(g6
+S's\x0e\x9d\x98\xa98\xd9?'
+p269
+tp270
+Rp271
+tp272
+a(S'frame language'
+p273
+g2
+(g6
+S'K\xc4c?\x888\xd9?'
+p274
+tp275
+Rp276
+tp277
+a(S'nicola guarino'
+p278
+g2
+(g6
+S'\xc0\xef\xc49\x1d7\xd9?'
+p279
+tp280
+Rp281
+tp282
+a(S'dialectical logic'
+p283
+g2
+(g6
+S'\x19\xea\xb0,M \xd9?'
+p284
+tp285
+Rp286
+tp287
+a(S'logic programming'
+p288
+g2
+(g6
+S'\xfe\x16 \x89\x02\x14\xd9?'
+p289
+tp290
+Rp291
+tp292
+a(S'ontology components'
+p293
+g2
+(g6
+S'\x17\x8fo\xf1o\xe3\xd8?'
+p294
+tp295
+Rp296
+tp297
+a(S'higher-order logic'
+p298
+g2
+(g6
+S' \xf0\xea\\S\xdd\xd8?'
+p299
+tp300
+Rp301
+tp302
+a(S'dogmamodeler'
+p303
+g2
+(g6
+S'\xd3a~\xbb\xbd\xdb\xd8?'
+p304
+tp305
+Rp306
+tp307
+a(S'ontology chart'
+p308
+g2
+(g6
+S'\x89\xddw}P\xc7\xd8?'
+p309
+tp310
+Rp311
+tp312
+a(S'guerrilla ontology'
+p313
+g2
+(g6
+S';\xeb\x90N\x0c\xc4\xd8?'
+p314
+tp315
+Rp316
+tp317
+a(S'vivo (software)'
+p318
+g2
+(g6
+S'^3\xb6%~\x9e\xd8?'
+p319
+tp320
+Rp321
+tp322
+a(S'logic in islamic philosophy'
+p323
+g2
+(g6
+S'\xb2\x1a \r\x88\x8c\xd8?'
+p324
+tp325
+Rp326
+tp327
+a(S'knowledge representation and reasoning'
+p328
+g2
+(g6
+S'#6\x8d\xcb\xad\x88\xd8?'
+p329
+tp330
+Rp331
+tp332
+a(S'history of logic'
+p333
+g2
+(g6
+S'0xT\xb0\x10\x82\xd8?'
+p334
+tp335
+Rp336
+tp337
+a(S'ian horrocks'
+p338
+g2
+(g6
+S'\xda\x8fjxH}\xd8?'
+p339
+tp340
+Rp341
+tp342
+a(S'boro'
+p343
+g2
+(g6
+S'\xbc.\x02\r\xfdt\xd8?'
+p344
+tp345
+Rp346
+tp347
+a(S'combinational logic'
+p348
+g2
+(g6
+S'\xc9\xba\xeb\x88,8\xd8?'
+p349
+tp350
+Rp351
+tp352
+a(S'indian logic'
+p353
+g2
+(g6
+S'\xbdD\xa1\xdd\x08!\xd8?'
+p354
+tp355
+Rp356
+tp357
+a(S'affine logic'
+p358
+g2
+(g6
+S'Us\x07\x987\x1a\xd8?'
+p359
+tp360
+Rp361
+tp362
+a(S'melvin fitting'
+p363
+g2
+(g6
+S'+\xf9>\x1b\xc9\x10\xd8?'
+p364
+tp365
+Rp366
+tp367
+a(S'minimal logic'
+p368
+g2
+(g6
+S'\x7fY1\x9c\xe6\xfc\xd7?'
+p369
+tp370
+Rp371
+tp372
+a(S'gene ontology'
+p373
+g2
+(g6
+S'G|\xc8\xbf\xc3\xf9\xd7?'
+p374
+tp375
+Rp376
+tp377
+a(S'hybrid logic'
+p378
+g2
+(g6
+S'\x00p\x04\xac\x0f\xdc\xd7?'
+p379
+tp380
+Rp381
+tp382
+a(S'km programming language'
+p383
+g2
+(g6
+S'\t\xd2\xe2\xa9\xd0\xdb\xd7?'
+p384
+tp385
+Rp386
+tp387
+a(S'logic (musician)'
+p388
+g2
+(g6
+S'\x01\xdd\x14-;\xd6\xd7?'
+p389
+tp390
+Rp391
+tp392
+a(S'game semantics'
+p393
+g2
+(g6
+S'\xf8\xbe\x99k8\xc4\xd7?'
+p394
+tp395
+Rp396
+tp397
+a(S'intuitionistic logic'
+p398
+g2
+(g6
+S'8\x8c\xa0\xf5I\xc3\xd7?'
+p399
+tp400
+Rp401
+tp402
+a(S'giorgi japaridze'
+p403
+g2
+(g6
+S'\x88\x1cq\x94f\xaa\xd7?'
+p404
+tp405
+Rp406
+tp407
+a(S'journal of logic, language and information'
+p408
+g2
+(g6
+S'\x02\xa6U?w\xa8\xd7?'
+p409
+tp410
+Rp411
+tp412
+a(S'multimedia web ontology language'
+p413
+g2
+(g6
+S'k\x06\x12-j\x98\xd7?'
+p414
+tp415
+Rp416
+tp417
+a(S'nana april jun'
+p418
+g2
+(g6
+S'\xfa\xcc/\x7f\xf6x\xd7?'
+p419
+tp420
+Rp421
+tp422
+a(S'johan van benthem (logician)'
+p423
+g2
+(g6
+S"j'\xa6\xb4.D\xd7?"
+p424
+tp425
+Rp426
+tp427
+a(S'logic pro'
+p428
+g2
+(g6
+S"\x0b'\x00?\xe8:\xd7?"
+p429
+tp430
+Rp431
+tp432
+a(S'ontology'
+p433
+g2
+(g6
+S'\xaa\x9d\xd2\xb5\x8f9\xd7?'
+p434
+tp435
+Rp436
+tp437
+a(S'ideas group'
+p438
+g2
+(g6
+S'\xe8*r\xab\x10.\xd7?'
+p439
+tp440
+Rp441
+tp442
+a(S'computational logic'
+p443
+g2
+(g6
+S'\xf0\xdc}\xb0X-\xd7?'
+p444
+tp445
+Rp446
+tp447
+a(S'stewart shapiro'
+p448
+g2
+(g6
+S'\xf5\x8f7\x91\x16\x13\xd7?'
+p449
+tp450
+Rp451
+tp452
+a(S'provability logic'
+p453
+g2
+(g6
+S'\xe9\xfd\x82m\xa9\t\xd7?'
+p454
+tp455
+Rp456
+tp457
+a(S'vienna summer of logic'
+p458
+g2
+(g6
+S'\x13\xaeh\n\xd1\xff\xd6?'
+p459
+tp460
+Rp461
+tp462
+a(S'logic express'
+p463
+g2
+(g6
+S'\xf2\xad*}\xfb\xfb\xd6?'
+p464
+tp465
+Rp466
+tp467
+a(S'logic in china'
+p468
+g2
+(g6
+S'\xa6.\x03\x96/\xfb\xd6?'
+p469
+tp470
+Rp471
+tp472
+a(S'classical logic'
+p473
+g2
+(g6
+S'#\xd2RI\xe2\xf3\xd6?'
+p474
+tp475
+Rp476
+tp477
+a(S'second-order logic'
+p478
+g2
+(g6
+S'q1x\x12.\xe1\xd6?'
+p479
+tp480
+Rp481
+tp482
+a(S'intermediate logic'
+p483
+g2
+(g6
+S'\x90\xdafB\xdf\xde\xd6?'
+p484
+tp485
+Rp486
+tp487
+a(S'universal logic'
+p488
+g2
+(g6
+S'\x84\xae\xcb\x90\xa0\xb0\xd6?'
+p489
+tp490
+Rp491
+tp492
+a(S'term logic'
+p493
+g2
+(g6
+S'\xf4\x9a\xac\x90\x98\xa4\xd6?'
+p494
+tp495
+Rp496
+tp497
+a(S'ontology for biomedical investigations'
+p498
+g2
+(g6
+S'\xe6\xb0\xb9\x17\x88\x85\xd6?'
+p499
+tp500
+Rp501
+tp502
+a(S'logic (song)'
+p503
+g2
+(g6
+S'F\x87j\x85j\x85\xd6?'
+p504
+tp505
+Rp506
+tp507
+a(S'lightweight ontology'
+p508
+g2
+(g6
+S'\x0crEf~\x80\xd6?'
+p509
+tp510
+Rp511
+tp512
+a(S'nijaz ibrulj'
+p513
+g2
+(g6
+S'\xa72\xa3L-|\xd6?'
+p514
+tp515
+Rp516
+tp517
+a(S'geopolitical ontology'
+p518
+g2
+(g6
+S'\x89_\xa7\xbb<u\xd6?'
+p519
+tp520
+Rp521
+tp522
+a(S'dependence logic'
+p523
+g2
+(g6
+S'%\x12\xfev0r\xd6?'
+p524
+tp525
+Rp526
+tp527
+a(S'george boolos'
+p528
+g2
+(g6
+S'\x0f,Q\xbc\xf4h\xd6?'
+p529
+tp530
+Rp531
+tp532
+a(S'knowledge interchange format'
+p533
+g2
+(g6
+S'\x1e\xff\r\xb8\xa9f\xd6?'
+p534
+tp535
+Rp536
+tp537
+a(S'logic family'
+p538
+g2
+(g6
+S'ty\xdc\x8e;]\xd6?'
+p539
+tp540
+Rp541
+tp542
+a(S'defeasible logic'
+p543
+g2
+(g6
+S' \x9dEh\xd1\\\xd6?'
+p544
+tp545
+Rp546
+tp547
+a(S'ontology-based data integration'
+p548
+g2
+(g6
+S'\xa4\x8a3)X\x1c\xd6?'
+p549
+tp550
+Rp551
+tp552
+a(S'logic gate'
+p553
+g2
+(g6
+S')\xb1y\xe4\x81\x16\xd6?'
+p554
+tp555
+Rp556
+tp557
+a(S'ontology versioning'
+p558
+g2
+(g6
+S'\xdc?\\P"\xf6\xd5?'
+p559
+tp560
+Rp561
+tp562
+a(S'dynamic logic (modal logic)'
+p563
+g2
+(g6
+S':\xa3\xf2$\xb0\xe9\xd5?'
+p564
+tp565
+Rp566
+tp567
+a(S'many-valued logic'
+p568
+g2
+(g6
+S'\xc6\x7f\xc3\xce\x01\xd5\xd5?'
+p569
+tp570
+Rp571
+tp572
+a(S'nino cocchiarella'
+p573
+g2
+(g6
+S'Cl\xb14A\xd4\xd5?'
+p574
+tp575
+Rp576
+tp577
+a(S'joseph kaipayil'
+p578
+g2
+(g6
+S'V<\xa4[\x9c\xd3\xd5?'
+p579
+tp580
+Rp581
+tp582
+a(S'jon barwise'
+p583
+g2
+(g6
+S'\x0bPd\xf1\x9a\xc6\xd5?'
+p584
+tp585
+Rp586
+tp587
+a(S'jean-yves b\xc3\xa9ziau'
+p588
+g2
+(g6
+S'),\xc9\xe4\xed\xbb\xd5?'
+p589
+tp590
+Rp591
+tp592
+a(S'lennart \xc3\x85qvist'
+p593
+g2
+(g6
+S'm\xd4{A\xa8\xac\xd5?'
+p594
+tp595
+Rp596
+tp597
+a(S'deductive classifier'
+p598
+g2
+(g6
+S'D\x1dIe\xe6\xa0\xd5?'
+p599
+tp600
+Rp601
+tp602
+a(S'under pressure (album)'
+p603
+g2
+(g6
+S'\xdeh\x0f\x85G\x9e\xd5?'
+p604
+tp605
+Rp606
+tp607
+a(S'buddhist logic'
+p608
+g2
+(g6
+S'\xb9\x06[r\xb0\x9a\xd5?'
+p609
+tp610
+Rp611
+tp612
+a(S'dov gabbay'
+p613
+g2
+(g6
+S'}>il\x81\x8e\xd5?'
+p614
+tp615
+Rp616
+tp617
+a(S'deborah mcguinness'
+p618
+g2
+(g6
+S'\x8a\xb4\xa2Wz\x82\xd5?'
+p619
+tp620
+Rp621
+tp622
+a(S'commonsense knowledge (artificial intelligence)'
+p623
+g2
+(g6
+S'pF\xf8k\x1bo\xd5?'
+p624
+tp625
+Rp626
+tp627
+a(S'intensional logic'
+p628
+g2
+(g6
+S'\x14\x0c=6\xe1l\xd5?'
+p629
+tp630
+Rp631
+tp632
+a(S'lists of languages'
+p633
+g2
+(g6
+S'\xbc\xbe\xda\x05"k\xd5?'
+p634
+tp635
+Rp636
+tp637
+a(S'is logic empirical?'
+p638
+g2
+(g6
+S'\xbb\xea\xc5\xf9\n_\xd5?'
+p639
+tp640
+Rp641
+tp642
+a(S'logic level'
+p643
+g2
+(g6
+S'\x9d\x1c\xfe4P\\\xd5?'
+p644
+tp645
+Rp646
+tp647
+a(S'non-classical logic'
+p648
+g2
+(g6
+S'\xe4\xa8?T?\\\xd5?'
+p649
+tp650
+Rp651
+tp652
+a(S'high threshold logic'
+p653
+g2
+(g6
+S'\xeae\xbcCcH\xd5?'
+p654
+tp655
+Rp656
+tp657
+a(S'engineered language'
+p658
+g2
+(g6
+S'\x8b\xf0\xee\x84\xf6D\xd5?'
+p659
+tp660
+Rp661
+tp662
+a(S'alan ross anderson'
+p663
+g2
+(g6
+S'\xa2\x98\xd2V\xad1\xd5?'
+p664
+tp665
+Rp666
+tp667
+a(S'karel lambert'
+p668
+g2
+(g6
+S'\x99\xb3\xf1`\x9b\x1e\xd5?'
+p669
+tp670
+Rp671
+tp672
+a(S'sigma knowledge engineering environment'
+p673
+g2
+(g6
+S'0\x97\xc5*\xba\x12\xd5?'
+p674
+tp675
+Rp676
+tp677
+a(S'deontic logic'
+p678
+g2
+(g6
+S'i\xac\t%,\x10\xd5?'
+p679
+tp680
+Rp681
+tp682
+a(S'pat hayes'
+p683
+g2
+(g6
+S'\x9a\xa9w\x04\xb2\xfe\xd4?'
+p684
+tp685
+Rp686
+tp687
+a(S'experimental factor ontology'
+p688
+g2
+(g6
+S'6\xe1\xd1Z\xed\xec\xd4?'
+p689
+tp690
+Rp691
+tp692
+a(S'noise-based logic'
+p693
+g2
+(g6
+S'\x9e\xc2\x8a(\x90\xe6\xd4?'
+p694
+tp695
+Rp696
+tp697
+a(S'l\xc3\xb6wenheim number'
+p698
+g2
+(g6
+S'\xc7\x18\xd8\x15\x82\xdd\xd4?'
+p699
+tp700
+Rp701
+tp702
+a(S'rohit jivanlal parikh'
+p703
+g2
+(g6
+S'\t\xe8\x81\x8fg\xab\xd4?'
+p704
+tp705
+Rp706
+tp707
+a(S'philosophical logic'
+p708
+g2
+(g6
+S'\xc6\x8f\x06Qv\xa8\xd4?'
+p709
+tp710
+Rp711
+tp712
+a(S'general formal ontology'
+p713
+g2
+(g6
+S'\xec!\xa9t]\x94\xd4?'
+p714
+tp715
+Rp716
+tp717
+a(S'list of constructed languages'
+p718
+g2
+(g6
+S'\xc4\xb4\x03\xd4\xac\x8b\xd4?'
+p719
+tp720
+Rp721
+tp722
+a(S'owl-s'
+p723
+g2
+(g6
+S'lr\xc0\x16\xe5\x89\xd4?'
+p724
+tp725
+Rp726
+tp727
+a(S'joan moschovakis'
+p728
+g2
+(g6
+S'\xab\xe6\xd6,|\x82\xd4?'
+p729
+tp730
+Rp731
+tp732
+a(S'digital electronics'
+p733
+g2
+(g6
+S'\xe7\xb6\x9eP\xbd~\xd4?'
+p734
+tp735
+Rp736
+tp737
+a(S'social semantic web'
+p738
+g2
+(g6
+S'\x85\x1cNS\xc3{\xd4?'
+p739
+tp740
+Rp741
+tp742
+a(S'dynamic logic (digital electronics)'
+p743
+g2
+(g6
+S'\x0f\x8e\xd3\x19\x89x\xd4?'
+p744
+tp745
+Rp746
+tp747
+a(S'wordnet'
+p748
+g2
+(g6
+S'K\x8e\xb0\xd3"\\\xd4?'
+p749
+tp750
+Rp751
+tp752
+a(S'alasdair urquhart'
+p753
+g2
+(g6
+S'Se\xcd\xb7\xc0X\xd4?'
+p754
+tp755
+Rp756
+tp757
+a(S'logic probe'
+p758
+g2
+(g6
+S'\x81H\x9a\xe7@M\xd4?'
+p759
+tp760
+Rp761
+tp762
+a(S'complex programmable logic device'
+p763
+g2
+(g6
+S'Q\xb4k\x01\xf0?\xd4?'
+p764
+tp765
+Rp766
+tp767
+a(S'informal logic'
+p768
+g2
+(g6
+S'\xdb\x12/\xed\x04:\xd4?'
+p769
+tp770
+Rp771
+tp772
+a(S'infinitary logic'
+p773
+g2
+(g6
+S'\x01\x8c!\x11\xeb2\xd4?'
+p774
+tp775
+Rp776
+tp777
+a(S'linear logic'
+p778
+g2
+(g6
+S"'=\xab\xa1\x91*\xd4?"
+p779
+tp780
+Rp781
+tp782
+a(S'philosophy of logic'
+p783
+g2
+(g6
+S'\x02e]\xf7\x90*\xd4?'
+p784
+tp785
+Rp786
+tp787
+a(S'cirquent calculus'
+p788
+g2
+(g6
+S'\\)J\xf8\xcc)\xd4?'
+p789
+tp790
+Rp791
+tp792
+a(S'abstract logic'
+p793
+g2
+(g6
+S'\x1b\xf65?\x1f#\xd4?'
+p794
+tp795
+Rp796
+tp797
+a(S'anti-psychologism'
+p798
+g2
+(g6
+S'$\xe4\xb2\xe5U!\xd4?'
+p799
+tp800
+Rp801
+tp802
+a(S'first-order logic'
+p803
+g2
+(g6
+S'\xb4\x07\xfe[\xfa\x1f\xd4?'
+p804
+tp805
+Rp806
+tp807
+a(S'ontocape'
+p808
+g2
+(g6
+S'.k\xa5\x90\x10\r\xd4?'
+p809
+tp810
+Rp811
+tp812
+a(S'richard zach'
+p813
+g2
+(g6
+S'\xbe\xd1\xe4\xf3m\x01\xd4?'
+p814
+tp815
+Rp816
+tp817
+a(S'institute for logic, language and computation'
+p818
+g2
+(g6
+S'|\x89\xdd\xe8m\xff\xd3?'
+p819
+tp820
+Rp821
+tp822
+a(S'nuel belnap'
+p823
+g2
+(g6
+S'=\xae\xb3;n\xf7\xd3?'
+p824
+tp825
+Rp826
+tp827
+a(S'metaclass (semantic web)'
+p828
+g2
+(g6
+S"'8k\xea\xc5\xf2\xd3?"
+p829
+tp830
+Rp831
+tp832
+a(S'plant ontology'
+p833
+g2
+(g6
+S'\rPnn\xca\xf1\xd3?'
+p834
+tp835
+Rp836
+tp837
+a(S'sin-a-matic'
+p838
+g2
+(g6
+S'\xfb\x03H2u\xe4\xd3?'
+p839
+tp840
+Rp841
+tp842
+a(S'library of congress classification:class p, subclass pm -- hyperborean, indian and artificial languages'
+p843
+g2
+(g6
+S'\xf2\xe8\r\xb9\xb5\xcf\xd3?'
+p844
+tp845
+Rp846
+tp847
+a(S'cyc'
+p848
+g2
+(g6
+S'R{Y\xf3\x80\xac\xd3?'
+p849
+tp850
+Rp851
+tp852
+a(S'stanis\xc5\x82aw le\xc5\x9bniewski'
+p853
+g2
+(g6
+S'\xc2F\xd67 \xa7\xd3?'
+p854
+tp855
+Rp856
+tp857
+a(S'abstract logic (disambiguation)'
+p858
+g2
+(g6
+S'\xbe\xb6\xec\xd7\x1e\xa3\xd3?'
+p859
+tp860
+Rp861
+tp862
+a(S'logic synthesis'
+p863
+g2
+(g6
+S'\xfam\x1e\xbb\xfa\x93\xd3?'
+p864
+tp865
+Rp866
+tp867
+a(S'cascode voltage switch logic'
+p868
+g2
+(g6
+S'\x82j\x80\xbc\t\x8f\xd3?'
+p869
+tp870
+Rp871
+tp872
+a(S'john corcoran (logician)'
+p873
+g2
+(g6
+S'\x9a:\xb0\xb1\xc7\x8c\xd3?'
+p874
+tp875
+Rp876
+tp877
+a(S'domino logic'
+p878
+g2
+(g6
+S',\n\xddzd\x89\xd3?'
+p879
+tp880
+Rp881
+tp882
+a(S'suggested upper merged ontology'
+p883
+g2
+(g6
+S'\x86\x7f\x9a\x03gl\xd3?'
+p884
+tp885
+Rp886
+tp887
+a(S'algebraic logic'
+p888
+g2
+(g6
+S'\xda\x867oIe\xd3?'
+p889
+tp890
+Rp891
+tp892
+a(S'biomoby'
+p893
+g2
+(g6
+S'\xbf3q\xc2`\\\xd3?'
+p894
+tp895
+Rp896
+tp897
+a(S'simple programmable logic device'
+p898
+g2
+(g6
+S'\xa3\xe1 \x0c\x89[\xd3?'
+p899
+tp900
+Rp901
+tp902
+a(S'meontology'
+p903
+g2
+(g6
+S'\xc3\x93\x9b\xb8\xf68\xd3?'
+p904
+tp905
+Rp906
+tp907
+a(S'irving copi'
+p908
+g2
+(g6
+S'\x80\x7f\xdcH\xd97\xd3?'
+p909
+tp910
+Rp911
+tp912
+a(S'logic (electronic cigarette)'
+p913
+g2
+(g6
+S'O\xb8\xfd0;3\xd3?'
+p914
+tp915
+Rp916
+tp917
+a(S'controlled natural language'
+p918
+g2
+(g6
+S'9d\x8akF2\xd3?'
+p919
+tp920
+Rp921
+tp922
+a(S'multimodal logic'
+p923
+g2
+(g6
+S'P]\xf5%41\xd3?'
+p924
+tp925
+Rp926
+tp927
+a(S'transaction logic'
+p928
+g2
+(g6
+S'\x8e|\xd7Kt/\xd3?'
+p929
+tp930
+Rp931
+tp932
+a(S'saleae'
+p933
+g2
+(g6
+S'e!xKB*\xd3?'
+p934
+tp935
+Rp936
+tp937
+a(S'bunched logic'
+p938
+g2
+(g6
+S'\x11\xa5\xb8\xf8\xe6#\xd3?'
+p939
+tp940
+Rp941
+tp942
+a(S'eli hirsch'
+p943
+g2
+(g6
+S'"1\xa45\xbf!\xd3?'
+p944
+tp945
+Rp946
+tp947
+a(S'european master program in computational logic'
+p948
+g2
+(g6
+S'0\x9d8\xc2}!\xd3?'
+p949
+tp950
+Rp951
+tp952
+a(S'ucla logic center'
+p953
+g2
+(g6
+S'\x9e\xdb\xc2&A \xd3?'
+p954
+tp955
+Rp956
+tp957
+a(S'monadic predicate calculus'
+p958
+g2
+(g6
+S'2\x83\x07\x15\xed\x1b\xd3?'
+p959
+tp960
+Rp961
+tp962
+a(S'jacob lorhard'
+p963
+g2
+(g6
+S'\xfbmt\xb2\x82\x08\xd3?'
+p964
+tp965
+Rp966
+tp967
+a(S'languages of the african union'
+p968
+g2
+(g6
+S'K\\Wn\x1f\x05\xd3?'
+p969
+tp970
+Rp971
+tp972
+a(S'historical language'
+p973
+g2
+(g6
+S':\xe6Jx\xed\x04\xd3?'
+p974
+tp975
+Rp976
+tp977
+a(S'semantic integration'
+p978
+g2
+(g6
+S'\xe8\xe7\xc2#|\x03\xd3?'
+p979
+tp980
+Rp981
+tp982
+a(S'mvcml'
+p983
+g2
+(g6
+S'\x17\xde*\xa8\xf9\xff\xd2?'
+p984
+tp985
+Rp986
+tp987
+a(S'business logic'
+p988
+g2
+(g6
+S'kHi\x01v\xfa\xd2?'
+p989
+tp990
+Rp991
+tp992
+a(S'descriptive complexity theory'
+p993
+g2
+(g6
+S'\xcbJv\xb9\x88\xf3\xd2?'
+p994
+tp995
+Rp996
+tp997
+a(S'two-variable logic'
+p998
+g2
+(g6
+S'\x06\x1eh|\x08\xf3\xd2?'
+p999
+tp1000
+Rp1001
+tp1002
+a(S'uberon'
+p1003
+g2
+(g6
+S'ObP\xd7`\xf2\xd2?'
+p1004
+tp1005
+Rp1006
+tp1007
+a(S'many-sorted logic'
+p1008
+g2
+(g6
+S'H/\xa4+\x89\xd1\xd2?'
+p1009
+tp1010
+Rp1011
+tp1012
+a(S'association for logic, language and information'
+p1013
+g2
+(g6
+S'\xba\xcc@\x0e\xe4\xb9\xd2?'
+p1014
+tp1015
+Rp1016
+tp1017
+a(S'steven kuhn'
+p1018
+g2
+(g6
+S'\x1f-.\x85\x9a\xb6\xd2?'
+p1019
+tp1020
+Rp1021
+tp1022
+a(S'temporal logic'
+p1023
+g2
+(g6
+S'\xc3!5JU\xb2\xd2?'
+p1024
+tp1025
+Rp1026
+tp1027
+a(S'random logic'
+p1028
+g2
+(g6
+S'\xc4\x08\xcc\x88\xe9\xae\xd2?'
+p1029
+tp1030
+Rp1031
+tp1032
+a(S'espresso heuristic logic minimizer'
+p1033
+g2
+(g6
+S'\x19\xd8E@\xac\xa8\xd2?'
+p1034
+tp1035
+Rp1036
+tp1037
+a(S'list of language families'
+p1038
+g2
+(g6
+S'\xe1\n\xd3"\x8b\xa2\xd2?'
+p1039
+tp1040
+Rp1041
+tp1042
+a(S'artistic language'
+p1043
+g2
+(g6
+S'\xbea\xb3\xa4\x99\x98\xd2?'
+p1044
+tp1045
+Rp1046
+tp1047
+a(S'william kneale'
+p1048
+g2
+(g6
+S'\xbcy\xe3\x9bT\x90\xd2?'
+p1049
+tp1050
+Rp1051
+tp1052
+a(S'sergei n. artemov'
+p1053
+g2
+(g6
+S'`\xc44a\xd0\x80\xd2?'
+p1054
+tp1055
+Rp1056
+tp1057
+a(S'carveth read'
+p1058
+g2
+(g6
+S'O\x14\xffp`|\xd2?'
+p1059
+tp1060
+Rp1061
+tp1062
+a(S'list of programming languages'
+p1063
+g2
+(g6
+S"\xd1'\xde\xecZ{\xd2?"
+p1064
+tp1065
+Rp1066
+tp1067
+a(S'arthur prior'
+p1068
+g2
+(g6
+S'\xc3z\xfe\x80\xd7w\xd2?'
+p1069
+tp1070
+Rp1071
+tp1072
+a(S'school of languages'
+p1073
+g2
+(g6
+S'\xa41\x1d\xb9)d\xd2?'
+p1074
+tp1075
+Rp1076
+tp1077
+a(S'computability logic'
+p1078
+g2
+(g6
+S'\x9d\xa4QW\xe7`\xd2?'
+p1079
+tp1080
+Rp1081
+tp1082
+a(S'najm al-d\xc4\xabn al-qazw\xc4\xabn\xc4\xab al-k\xc4\x81tib\xc4\xab'
+p1083
+g2
+(g6
+S':\xf7\x17\xaf\x1b]\xd2?'
+p1084
+tp1085
+Rp1086
+tp1087
+a(S'noncommutative logic'
+p1088
+g2
+(g6
+S'|\x7fr\x8bKW\xd2?'
+p1089
+tp1090
+Rp1091
+tp1092
+a(S'programming language'
+p1093
+g2
+(g6
+S'8Y\x96\xa0;U\xd2?'
+p1094
+tp1095
+Rp1096
+tp1097
+a(S'soft ontology'
+p1098
+g2
+(g6
+S'j\xf7_\x93\xfeM\xd2?'
+p1099
+tp1100
+Rp1101
+tp1102
+a(S'yirram languages'
+p1103
+g2
+(g6
+S'\x0e>\xc5\xa4]E\xd2?'
+p1104
+tp1105
+Rp1106
+tp1107
+a(S'wsmo'
+p1108
+g2
+(g6
+S'\xf8\xc7\x81E\xd9>\xd2?'
+p1109
+tp1110
+Rp1111
+tp1112
+a(S'chris welty'
+p1113
+g2
+(g6
+S'\xd1Tb=\xf99\xd2?'
+p1114
+tp1115
+Rp1116
+tp1117
+a(S'logic model'
+p1118
+g2
+(g6
+S'\xfe%\x0b=\xf97\xd2?'
+p1119
+tp1120
+Rp1121
+tp1122
+a(S'cognitive ontology'
+p1123
+g2
+(g6
+S'\xf2\xa4y\x0e\x0f7\xd2?'
+p1124
+tp1125
+Rp1126
+tp1127
+a(S'natural language'
+p1128
+g2
+(g6
+S'\x81\xe0[q\xd01\xd2?'
+p1129
+tp1130
+Rp1131
+tp1132
+a(S'polysynthetic language'
+p1133
+g2
+(g6
+S'>\x8bb\x93s-\xd2?'
+p1134
+tp1135
+Rp1136
+tp1137
+a(S'pass transistor logic'
+p1138
+g2
+(g6
+S'Q\xb2%\xc8\xaf+\xd2?'
+p1139
+tp1140
+Rp1141
+tp1142
+a(S'logic bomb'
+p1143
+g2
+(g6
+S'h3\xca\x0c\x94!\xd2?'
+p1144
+tp1145
+Rp1146
+tp1147
+a(S'principle of distributivity'
+p1148
+g2
+(g6
+S'\xd3r\xdbdk\x1e\xd2?'
+p1149
+tp1150
+Rp1151
+tp1152
+a(S'e. j. lowe (philosopher)'
+p1153
+g2
+(g6
+S'\x1a%\x1aJ\xc8\x19\xd2?'
+p1154
+tp1155
+Rp1156
+tp1157
+a(S'kl-one'
+p1158
+g2
+(g6
+S'\x1bKC\x9er\x14\xd2?'
+p1159
+tp1160
+Rp1161
+tp1162
+a(S'eastern grassfields languages'
+p1163
+g2
+(g6
+S'\x8b,J\xd1\x8c\t\xd2?'
+p1164
+tp1165
+Rp1166
+tp1167
+a(S'service-dominant logic'
+p1168
+g2
+(g6
+S'\xb4\x1e\xe3\x1aO\x03\xd2?'
+p1169
+tp1170
+Rp1171
+tp1172
+a(S'john lane bell'
+p1173
+g2
+(g6
+S'\x082\xae}O\xfd\xd1?'
+p1174
+tp1175
+Rp1176
+tp1177
+a(S'state logic'
+p1178
+g2
+(g6
+S'\xe6\x97}\x80u\xfc\xd1?'
+p1179
+tp1180
+Rp1181
+tp1182
+a(S'sequential logic'
+p1183
+g2
+(g6
+S'\xcfEtR\x8d\xec\xd1?'
+p1184
+tp1185
+Rp1186
+tp1187
+a(S'robert kowalski'
+p1188
+g2
+(g6
+S'\x9d\x82?\xd2/\xde\xd1?'
+p1189
+tp1190
+Rp1191
+tp1192
+a(S'zeroth-order logic'
+p1193
+g2
+(g6
+S'\xe6\xea\xfa\xa9J\xda\xd1?'
+p1194
+tp1195
+Rp1196
+tp1197
+a(S'ontoclean'
+p1198
+g2
+(g6
+S'\x94\x7f\xdd\x8a\xa0\xd8\xd1?'
+p1199
+tp1200
+Rp1201
+tp1202
+a(S'three-valued logic'
+p1203
+g2
+(g6
+S'\xe8\x9e\x9f\x18\xf5\xd6\xd1?'
+p1204
+tp1205
+Rp1206
+tp1207
+a(S'introduction to mathematical philosophy'
+p1208
+g2
+(g6
+S'\xfc\x00\xf9\x88\xee\xd2\xd1?'
+p1209
+tp1210
+Rp1211
+tp1212
+a(S'lora logic'
+p1213
+g2
+(g6
+S'\x10\xcdC\x86@\xd2\xd1?'
+p1214
+tp1215
+Rp1216
+tp1217
+a(S'interval temporal logic'
+p1218
+g2
+(g6
+S'\xc6\x88\x18\r7\xd2\xd1?'
+p1219
+tp1220
+Rp1221
+tp1222
+a(S'monadic second-order logic'
+p1223
+g2
+(g6
+S'R\xf2\xd6S\xcf\xd1\xd1?'
+p1224
+tp1225
+Rp1226
+tp1227
+a(S'autoepistemic logic'
+p1228
+g2
+(g6
+S'\xa1\xc3\xea\xb9\xc1\xd1\xd1?'
+p1229
+tp1230
+Rp1231
+tp1232
+a(S'magnetic logic'
+p1233
+g2
+(g6
+S'LeU\xc6s\xc8\xd1?'
+p1234
+tp1235
+Rp1236
+tp1237
+a(S'ontic'
+p1238
+g2
+(g6
+S'\x8fY\x01\xb5c\xbf\xd1?'
+p1239
+tp1240
+Rp1241
+tp1242
+a(S'logic for programming, artificial intelligence and reasoning'
+p1243
+g2
+(g6
+S'\xca*\x94\xe9j\xb9\xd1?'
+p1244
+tp1245
+Rp1246
+tp1247
+a(S'logics for computability'
+p1248
+g2
+(g6
+S't!b\x9e\xdb\xb5\xd1?'
+p1249
+tp1250
+Rp1251
+tp1252
+a(S'glue logic'
+p1253
+g2
+(g6
+S'\xcdr\xc2T\x8f\xab\xd1?'
+p1254
+tp1255
+Rp1256
+tp1257
+a(S'journal of philosophical logic'
+p1258
+g2
+(g6
+S'A\x1e\xd4-\xb5\xaa\xd1?'
+p1259
+tp1260
+Rp1261
+tp1262
+a(S'lu\xc3\xads moniz pereira'
+p1263
+g2
+(g6
+S'\xdel\x7f\xd8\xb3\xa9\xd1?'
+p1264
+tp1265
+Rp1266
+tp1267
+a(S'list of iso 639-5 codes'
+p1268
+g2
+(g6
+S'\xbdJn\xbe\x1c\xa9\xd1?'
+p1269
+tp1270
+Rp1271
+tp1272
+a(S'borneo\xe2\x80\x93philippine languages'
+p1273
+g2
+(g6
+S'\xdf\x82a\x87\x93\x98\xd1?'
+p1274
+tp1275
+Rp1276
+tp1277
+a(S'stanis\xc5\x82aw ja\xc5\x9bkowski'
+p1278
+g2
+(g6
+S'\xca,\x8e6+\x93\xd1?'
+p1279
+tp1280
+Rp1281
+tp1282
+a(S'mathematical logic'
+p1283
+g2
+(g6
+S'AJ\x8d\xc1\x8c\x90\xd1?'
+p1284
+tp1285
+Rp1286
+tp1287
+a(S'ontology merging'
+p1288
+g2
+(g6
+S'\xd5\xdev\x1de\x8d\xd1?'
+p1289
+tp1290
+Rp1291
+tp1292
+a(S'gellish'
+p1293
+g2
+(g6
+S'\x06\xfd\x98(\xc6\x8a\xd1?'
+p1294
+tp1295
+Rp1296
+tp1297
+a(S'uss logic (am-258)'
+p1298
+g2
+(g6
+S'8\xe5\xc1\xb8\x8b\x88\xd1?'
+p1299
+tp1300
+Rp1301
+tp1302
+a(S'ieee 1164'
+p1303
+g2
+(g6
+S'\x10];K:\x82\xd1?'
+p1304
+tp1305
+Rp1306
+tp1307
+a(S'deductive language'
+p1308
+g2
+(g6
+S'2\xd7\x9c\x10\x12u\xd1?'
+p1309
+tp1310
+Rp1311
+tp1312
+a(S'robert david stevens'
+p1313
+g2
+(g6
+S'\x97\x15}\xaf\x15e\xd1?'
+p1314
+tp1315
+Rp1316
+tp1317
+a(S'molecular logic gate'
+p1318
+g2
+(g6
+S'Y\xc3Y*\x89_\xd1?'
+p1319
+tp1320
+Rp1321
+tp1322
+a(S'abstract algebraic logic'
+p1323
+g2
+(g6
+S'\xf9\xff\xf5\xa8\xbc^\xd1?'
+p1324
+tp1325
+Rp1326
+tp1327
+a(S'instart logic'
+p1328
+g2
+(g6
+S'\x00\xf6\x1d\x90$R\xd1?'
+p1329
+tp1330
+Rp1331
+tp1332
+a(S'smartmatch'
+p1333
+g2
+(g6
+S'\x99\xc2\x15T\xaaP\xd1?'
+p1334
+tp1335
+Rp1336
+tp1337
+a(S'wysiwym (interaction technique)'
+p1338
+g2
+(g6
+S'(\xe3\xfbS\xcaB\xd1?'
+p1339
+tp1340
+Rp1341
+tp1342
+a(S'languages of south asia'
+p1343
+g2
+(g6
+S'+H\x12\xa2\xb6@\xd1?'
+p1344
+tp1345
+Rp1346
+tp1347
+a(S'relevance logic'
+p1348
+g2
+(g6
+S'u\xd2\xfb*\x1c7\xd1?'
+p1349
+tp1350
+Rp1351
+tp1352
+a(S'list of multilingual countries and regions'
+p1353
+g2
+(g6
+S'\t\xf9\x1e\xaa%.\xd1?'
+p1354
+tp1355
+Rp1356
+tp1357
+a(S'ulrike sattler'
+p1358
+g2
+(g6
+S'\x89k\xf3!\xce"\xd1?'
+p1359
+tp1360
+Rp1361
+tp1362
+a(S'semantic reasoner'
+p1363
+g2
+(g6
+S'\xb22\x96\x86\x06\x1e\xd1?'
+p1364
+tp1365
+Rp1366
+tp1367
+a(S'agbase'
+p1368
+g2
+(g6
+S')\xbd\x93-\x18\x1b\xd1?'
+p1369
+tp1370
+Rp1371
+tp1372
+a(S'treatise on logic'
+p1373
+g2
+(g6
+S'\x8b\x93.9\xb5\x14\xd1?'
+p1374
+tp1375
+Rp1376
+tp1377
+a(S'control logic'
+p1378
+g2
+(g6
+S'4\t"\x8d\xb7\x13\xd1?'
+p1379
+tp1380
+Rp1381
+tp1382
+a(S'third-generation programming language'
+p1383
+g2
+(g6
+S'_,9\xb8\x92\x11\xd1?'
+p1384
+tp1385
+Rp1386
+tp1387
+a(S'modal logic'
+p1388
+g2
+(g6
+S'\n\xde\xc3\x8e\x9f\x0b\xd1?'
+p1389
+tp1390
+Rp1391
+tp1392
+a(S'decidability'
+p1393
+g2
+(g6
+S'\xaf\x97,\x19\xc3\xf0\xd0?'
+p1394
+tp1395
+Rp1396
+tp1397
+a(S'algorithmic logic'
+p1398
+g2
+(g6
+S'\xc0o0Y\xa3\xed\xd0?'
+p1399
+tp1400
+Rp1401
+tp1402
+a(S'epistemic modal logic'
+p1403
+g2
+(g6
+S'\xb2\xf1\x0e\xad\x1e\xea\xd0?'
+p1404
+tp1405
+Rp1406
+tp1407
+a(S'probabilistic soft logic'
+p1408
+g2
+(g6
+S';6\xa5\x97\x82\xe8\xd0?'
+p1409
+tp1410
+Rp1411
+tp1412
+a(S'rules of passage (logic)'
+p1413
+g2
+(g6
+S'\xa3\t{hg\xe4\xd0?'
+p1414
+tp1415
+Rp1416
+tp1417
+a(S'bobby tarantino'
+p1418
+g2
+(g6
+S'\xb77\x8c>4\xe0\xd0?'
+p1419
+tp1420
+Rp1421
+tp1422
+a(S'ivan orlov (philosopher)'
+p1423
+g2
+(g6
+S'9\xb8\xd2\xd5u\xd7\xd0?'
+p1424
+tp1425
+Rp1426
+tp1427
+a(S'indigenous language'
+p1428
+g2
+(g6
+S'*5\xef\x81\xa2\xd0\xd0?'
+p1429
+tp1430
+Rp1431
+tp1432
+a(S'time-item'
+p1433
+g2
+(g6
+S'h|\xfd\x8fk\xcf\xd0?'
+p1434
+tp1435
+Rp1436
+tp1437
+a(S'ontology modularization'
+p1438
+g2
+(g6
+S'\xa8\x94`6\xae\xc6\xd0?'
+p1439
+tp1440
+Rp1441
+tp1442
+a(S'structural rule'
+p1443
+g2
+(g6
+S'\x7f*%\xe6\xc0\xb8\xd0?'
+p1444
+tp1445
+Rp1446
+tp1447
+a(S'alternating-time temporal logic'
+p1448
+g2
+(g6
+S'\xe2\x7f\\\xca\xe7\xb1\xd0?'
+p1449
+tp1450
+Rp1451
+tp1452
+a(S'relay logic'
+p1453
+g2
+(g6
+S'i\x00\x82^\x1c\xaf\xd0?'
+p1454
+tp1455
+Rp1456
+tp1457
+a(S'paradigm classification'
+p1458
+g2
+(g6
+S'?[\x8b\x1b\xff\xae\xd0?'
+p1459
+tp1460
+Rp1461
+tp1462
+a(S'quertle'
+p1463
+g2
+(g6
+S'g\x11\x84\xf5d\xa3\xd0?'
+p1464
+tp1465
+Rp1466
+tp1467
+a(S'iso 639-2'
+p1468
+g2
+(g6
+S'\x9b\xbac\x87\x93\x9c\xd0?'
+p1469
+tp1470
+Rp1471
+tp1472
+a(S'vladimir lifschitz'
+p1473
+g2
+(g6
+S'\xc9\xbf\xb5\xf0)\x9c\xd0?'
+p1474
+tp1475
+Rp1476
+tp1477
+a(S'register-transfer level'
+p1478
+g2
+(g6
+S'\xb3Q\x01\xe0%\x99\xd0?'
+p1479
+tp1480
+Rp1481
+tp1482
+a(S'czes\xc5\x82aw lejewski'
+p1483
+g2
+(g6
+S'\xaetU\x05\xdb\x97\xd0?'
+p1484
+tp1485
+Rp1486
+tp1487
+a(S'ogml'
+p1488
+g2
+(g6
+S'-\xa2\xea\x9b5\x97\xd0?'
+p1489
+tp1490
+Rp1491
+tp1492
+a(S'language'
+p1493
+g2
+(g6
+S'q^7\x16w\x90\xd0?'
+p1494
+tp1495
+Rp1496
+tp1497
+a(S'reasoning system'
+p1498
+g2
+(g6
+S'k\xd8(\x97\xd0\x8f\xd0?'
+p1499
+tp1500
+Rp1501
+tp1502
+a(S'dominant logic'
+p1503
+g2
+(g6
+S'\xb5@\xfc\xbe_\x8b\xd0?'
+p1504
+tp1505
+Rp1506
+tp1507
+a(S'knowledge extraction'
+p1508
+g2
+(g6
+S"\x7f\x9a\xd4\xec'\x89\xd0?"
+p1509
+tp1510
+Rp1511
+tp1512
+a.

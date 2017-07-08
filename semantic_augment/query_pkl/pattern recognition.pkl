@@ -1,0 +1,2728 @@
+(lp0
+(S'pattern recognition'
+p1
+cnumpy.core.multiarray
+scalar
+p2
+(cnumpy
+dtype
+p3
+(S'f8'
+p4
+I0
+I1
+tp5
+Rp6
+(I3
+S'<'
+p7
+NNNI-1
+I-1
+I0
+tp8
+bS'\x03\x00\x00\x00\x00\x00\xf0?'
+p9
+tp10
+Rp11
+tp12
+a(S'statistical classification'
+p13
+g2
+(g6
+S'\x88\x88\x059\xbf\xc6\xe2?'
+p14
+tp15
+Rp16
+tp17
+a(S'supervised learning'
+p18
+g2
+(g6
+S'\xa2<I\xb4V\xa4\xe0?'
+p19
+tp20
+Rp21
+tp22
+a(S'machine learning'
+p23
+g2
+(g6
+S'^|\x91wS\xa5\xdf?'
+p24
+tp25
+Rp26
+tp27
+a(S'feature (machine learning)'
+p28
+g2
+(g6
+S"\x1c>\xaf\xb4l'\xdc?"
+p29
+tp30
+Rp31
+tp32
+a(S'feature learning'
+p33
+g2
+(g6
+S'\x00\xa2O\xa9\xd1\x8a\xdb?'
+p34
+tp35
+Rp36
+tp37
+a(S'semi-supervised learning'
+p38
+g2
+(g6
+S'4\xd5\x05M\x7f/\xda?'
+p39
+tp40
+Rp41
+tp42
+a(S'statistical learning theory'
+p43
+g2
+(g6
+S'\xfc\x9c\x9a\xd5\xd8\x03\xda?'
+p44
+tp45
+Rp46
+tp47
+a(S'international conference on pattern recognition and image analysis'
+p48
+g2
+(g6
+S'y\x85_9\xdf\xd6\xd9?'
+p49
+tp50
+Rp51
+tp52
+a(S'deep learning'
+p53
+g2
+(g6
+S'N\xd4\xdd\x9a\x85\x9a\xd9?'
+p54
+tp55
+Rp56
+tp57
+a(S'prior knowledge for pattern recognition'
+p58
+g2
+(g6
+S'\xe5\x10QaO!\xd8?'
+p59
+tp60
+Rp61
+tp62
+a(S'king-sun fu'
+p63
+g2
+(g6
+S'ps<\\\x84\xe5\xd7?'
+p64
+tp65
+Rp66
+tp67
+a(S'adversarial machine learning'
+p68
+g2
+(g6
+S'\x0f\xb4\xe7\x1a\x15\xe3\xd7?'
+p69
+tp70
+Rp71
+tp72
+a(S'linear classifier'
+p73
+g2
+(g6
+S'\xa8\xbd\x1d\xad;\xdd\xd7?'
+p74
+tp75
+Rp76
+tp77
+a(S'list of machine learning concepts'
+p78
+g2
+(g6
+S'd\x93\xa5Q\x9b\xb1\xd7?'
+p79
+tp80
+Rp81
+tp82
+a(S'support vector machine'
+p83
+g2
+(g6
+S'\x1b"+\xf1\xbf\x99\xd7?'
+p84
+tp85
+Rp86
+tp87
+a(S'perceptron'
+p88
+g2
+(g6
+S'\x0b\xb1\xc1~|r\xd7?'
+p89
+tp90
+Rp91
+tp92
+a(S'unsupervised learning'
+p93
+g2
+(g6
+S':\xe9\x9b\x84\x87\x04\xd7?'
+p94
+tp95
+Rp96
+tp97
+a(S'international association for pattern recognition'
+p98
+g2
+(g6
+S'\x9ao\xdf\xdf\x9a\xea\xd6?'
+p99
+tp100
+Rp101
+tp102
+a(S'yooreeka'
+p103
+g2
+(g6
+S'\xee\xc1 \x8c\xfaJ\xd6?'
+p104
+tp105
+Rp106
+tp107
+a(S'fusion adaptive resonance theory'
+p108
+g2
+(g6
+S'Q\x17-\xba\xc94\xd6?'
+p109
+tp110
+Rp111
+tp112
+a(S'pattern matching'
+p113
+g2
+(g6
+S'\x1f\xb4\xad\xdd\xe4\x10\xd6?'
+p114
+tp115
+Rp116
+tp117
+a(S'multi-label classification'
+p118
+g2
+(g6
+S'I\x9c\t\xd2n\xe2\xd5?'
+p119
+tp120
+Rp121
+tp122
+a(S'meta learning (computer science)'
+p123
+g2
+(g6
+S'(`\x97\xa6\xd4\xad\xd5?'
+p124
+tp125
+Rp126
+tp127
+a(S'behavioral pattern'
+p128
+g2
+(g6
+S'\x89\xd5\xc4\xe4\x8c\xa4\xd5?'
+p129
+tp130
+Rp131
+tp132
+a(S'active learning (machine learning)'
+p133
+g2
+(g6
+S',\xd7;!4\xa3\xd5?'
+p134
+tp135
+Rp136
+tp137
+a(S'online machine learning'
+p138
+g2
+(g6
+S'\x95\x0f\xabxV\x9c\xd5?'
+p139
+tp140
+Rp141
+tp142
+a(S'atlantic city algorithm'
+p143
+g2
+(g6
+S'\x8e}-\xc6\xad\x8a\xd5?'
+p144
+tp145
+Rp146
+tp147
+a(S'ensemble learning'
+p148
+g2
+(g6
+S'<\xc6\xf2\xc0\x8c[\xd5?'
+p149
+tp150
+Rp151
+tp152
+a(S'mlpy'
+p153
+g2
+(g6
+S'\x93\xae\xabh\xf64\xd5?'
+p154
+tp155
+Rp156
+tp157
+a(S'josef kittler'
+p158
+g2
+(g6
+S'm\xe3\xf9 \xe4\x05\xd5?'
+p159
+tp160
+Rp161
+tp162
+a(S'geometric feature learning'
+p163
+g2
+(g6
+S')sp-\xa5\x00\xd5?'
+p164
+tp165
+Rp166
+tp167
+a(S'software analysis pattern'
+p168
+g2
+(g6
+S'u6H\x006\xf4\xd4?'
+p169
+tp170
+Rp171
+tp172
+a(S'grammar induction'
+p173
+g2
+(g6
+S'\xf2\x9cl\x08\t\xe8\xd4?'
+p174
+tp175
+Rp176
+tp177
+a(S'algorithm'
+p178
+g2
+(g6
+S')\x83Q@\xd7\xe3\xd4?'
+p179
+tp180
+Rp181
+tp182
+a(S'heuristiclab'
+p183
+g2
+(g6
+S']Sc[\xa7\x99\xd4?'
+p184
+tp185
+Rp186
+tp187
+a(S'hikkake pattern'
+p188
+g2
+(g6
+S'\xf5\xcc|R\r\x91\xd4?'
+p189
+tp190
+Rp191
+tp192
+a(S'introduction to algorithms'
+p193
+g2
+(g6
+S'\xb0!\xf8\xf0\x97\x90\xd4?'
+p194
+tp195
+Rp196
+tp197
+a(S'in-place algorithm'
+p198
+g2
+(g6
+S'\xd5\x18Q*z\x8c\xd4?'
+p199
+tp200
+Rp201
+tp202
+a(S'probabilistic classification'
+p203
+g2
+(g6
+S'0\xa3\xfd\xce\r\x85\xd4?'
+p204
+tp205
+Rp206
+tp207
+a(S'elki'
+p208
+g2
+(g6
+S'{\xd92\xee\xde\x80\xd4?'
+p209
+tp210
+Rp211
+tp212
+a(S'weka (machine learning)'
+p213
+g2
+(g6
+S'c\x06\xe3Z\xf5_\xd4?'
+p214
+tp215
+Rp216
+tp217
+a(S'activity recognition'
+p218
+g2
+(g6
+S'^\r\xd4\x88\x10M\xd4?'
+p219
+tp220
+Rp221
+tp222
+a(S'vowpal wabbit'
+p223
+g2
+(g6
+S'\xc8\xba=\xe2\xaeF\xd4?'
+p224
+tp225
+Rp226
+tp227
+a(S'generalization error'
+p228
+g2
+(g6
+S'\xcb\x97I\xa7\xf4A\xd4?'
+p229
+tp230
+Rp231
+tp232
+a(S'syntactic pattern recognition'
+p233
+g2
+(g6
+S'\x8a6\xba,\xbe7\xd4?'
+p234
+tp235
+Rp236
+tp237
+a(S'types of artificial neural networks'
+p238
+g2
+(g6
+S'\xf8\xae\x9dD^*\xd4?'
+p239
+tp240
+Rp241
+tp242
+a(S'stability (learning theory)'
+p243
+g2
+(g6
+S'\xd7\xdf\xf2|\xc3)\xd4?'
+p244
+tp245
+Rp246
+tp247
+a(S'memetic algorithm'
+p248
+g2
+(g6
+S'W1\t\xac\xc1\x1c\xd4?'
+p249
+tp250
+Rp251
+tp252
+a(S'pattern language'
+p253
+g2
+(g6
+S'Gq-\xb1\x02\x15\xd4?'
+p254
+tp255
+Rp256
+tp257
+a(S'approximate string matching'
+p258
+g2
+(g6
+S'\x13\xdb\x9e\x1f>\xeb\xd3?'
+p259
+tp260
+Rp261
+tp262
+a(S'conditional random field'
+p263
+g2
+(g6
+S'\x98\x96\xf9\x8b\x08\xda\xd3?'
+p264
+tp265
+Rp266
+tp267
+a(S'weighted majority algorithm'
+p268
+g2
+(g6
+S'\xb3\xf4\x01F\x87\xd7\xd3?'
+p269
+tp270
+Rp271
+tp272
+a(S'hybrid algorithm'
+p273
+g2
+(g6
+S'\x0e3\x94Bp\xd5\xd3?'
+p274
+tp275
+Rp276
+tp277
+a(S'incremental learning'
+p278
+g2
+(g6
+S'I\xa5\xf2z&\xba\xd3?'
+p279
+tp280
+Rp281
+tp282
+a(S'pattern language (formal languages)'
+p283
+g2
+(g6
+S'+B\xfeE\x8a\xb3\xd3?'
+p284
+tp285
+Rp286
+tp287
+a(S'data analysis techniques for fraud detection'
+p288
+g2
+(g6
+S'C\xe4\x7f\x94\x87\xa3\xd3?'
+p289
+tp290
+Rp291
+tp292
+a(S'the pattern (the chronicles of amber)'
+p293
+g2
+(g6
+S'4\xa9@\x98\x81\xa2\xd3?'
+p294
+tp295
+Rp296
+tp297
+a(S'recognition'
+p298
+g2
+(g6
+S'\xa76\xd4B\xc2\x99\xd3?'
+p299
+tp300
+Rp301
+tp302
+a(S'international psychopharmacology algorithm project'
+p303
+g2
+(g6
+S'\x0c\x05\xe3\x8a`\x97\xd3?'
+p304
+tp305
+Rp306
+tp307
+a(S'multiclass classification'
+p308
+g2
+(g6
+S'\xa0F\xb2\xdd}\x8f\xd3?'
+p309
+tp310
+Rp311
+tp312
+a(S'event detection for wsn'
+p313
+g2
+(g6
+S'Q\x85\xd46\xcbk\xd3?'
+p314
+tp315
+Rp316
+tp317
+a(S'group method of data handling'
+p318
+g2
+(g6
+S'\x8e\xc2\x97\xa5\x06_\xd3?'
+p319
+tp320
+Rp321
+tp322
+a(S'ipo underpricing algorithm'
+p323
+g2
+(g6
+S'\xc1u\xc5\xbd\xf8\\\xd3?'
+p324
+tp325
+Rp326
+tp327
+a(S'adaptive resonance theory'
+p328
+g2
+(g6
+S'\x9fY\x0c\xa1GG\xd3?'
+p329
+tp330
+Rp331
+tp332
+a(S'feature extraction'
+p333
+g2
+(g6
+S'O\xc1T\xdedE\xd3?'
+p334
+tp335
+Rp336
+tp337
+a(S'speech recognition'
+p338
+g2
+(g6
+S'\x1d\x01o\xdb\xd89\xd3?'
+p339
+tp340
+Rp341
+tp342
+a(S'boosting (machine learning)'
+p343
+g2
+(g6
+S'U\x98w\x94*9\xd3?'
+p344
+tp345
+Rp346
+tp347
+a(S'pattern (disambiguation)'
+p348
+g2
+(g6
+S'\xc6\x9f\xb5\xf2{0\xd3?'
+p349
+tp350
+Rp351
+tp352
+a(S'multispectral pattern recognition'
+p353
+g2
+(g6
+S'\xd04bN)\x07\xd3?'
+p354
+tp355
+Rp356
+tp357
+a(S'feret (facial recognition technology)'
+p358
+g2
+(g6
+S'n\x10\x04\x86\x13\xfc\xd2?'
+p359
+tp360
+Rp361
+tp362
+a(S'pattern recognition (psychology)'
+p363
+g2
+(g6
+S'K\xd6@<a\xf9\xd2?'
+p364
+tp365
+Rp366
+tp367
+a(S'artificial neural network'
+p368
+g2
+(g6
+S'\xb1h\x0e8\xa5\xd2\xd2?'
+p369
+tp370
+Rp371
+tp372
+a(S'one-shot learning'
+p373
+g2
+(g6
+S'\tm\x881B\xc5\xd2?'
+p374
+tp375
+Rp376
+tp377
+a(S'traditional patterns of korea'
+p378
+g2
+(g6
+S'\x13\xf2(\xa5=\xb3\xd2?'
+p379
+tp380
+Rp381
+tp382
+a(S'output-sensitive algorithm'
+p383
+g2
+(g6
+S"\xf4'ZU\xa0\xab\xd2?"
+p384
+tp385
+Rp386
+tp387
+a(S'overfitting'
+p388
+g2
+(g6
+S'T\xd3\xfdg\x92\xa8\xd2?'
+p389
+tp390
+Rp391
+tp392
+a(S'string searching algorithm'
+p393
+g2
+(g6
+S'#n\xeao\xad\xa4\xd2?'
+p394
+tp395
+Rp396
+tp397
+a(S'pattern language (disambiguation)'
+p398
+g2
+(g6
+S'\xaa;\xd9\xa9\xf8\xa0\xd2?'
+p399
+tp400
+Rp401
+tp402
+a(S'probabilistic neural network'
+p403
+g2
+(g6
+S'\xcc#\xff\xbcQ\x9b\xd2?'
+p404
+tp405
+Rp406
+tp407
+a(S'pattern (sewing)'
+p408
+g2
+(g6
+S'\xac\xd3:-<\x9a\xd2?'
+p409
+tp410
+Rp411
+tp412
+a(S'automatic label placement'
+p413
+g2
+(g6
+S'V\x8c\x89\xb0\xd5v\xd2?'
+p414
+tp415
+Rp416
+tp417
+a(S'instance-based learning'
+p418
+g2
+(g6
+S'$\x9d\x13\xde\xceu\xd2?'
+p419
+tp420
+Rp421
+tp422
+a(S'sequence labeling'
+p423
+g2
+(g6
+S'\xb8\xdf\xecj\xa2t\xd2?'
+p424
+tp425
+Rp426
+tp427
+a(S'time series'
+p428
+g2
+(g6
+S'\xec~@\x9b\x1aj\xd2?'
+p429
+tp430
+Rp431
+tp432
+a(S'jubatus'
+p433
+g2
+(g6
+S'\x11\x91\xa1\x1fEe\xd2?'
+p434
+tp435
+Rp436
+tp437
+a(S'scheduled-task pattern'
+p438
+g2
+(g6
+S'\x87\x9f\xbd%Ce\xd2?'
+p439
+tp440
+Rp441
+tp442
+a(S'three-dimensional face recognition'
+p443
+g2
+(g6
+S'w\xcb\xbcym]\xd2?'
+p444
+tp445
+Rp446
+tp447
+a(S'algorithm selection'
+p448
+g2
+(g6
+S'\xb1:9\x9e\x17G\xd2?'
+p449
+tp450
+Rp451
+tp452
+a(S'sepp hochreiter'
+p453
+g2
+(g6
+S'Y\xacID\xbdA\xd2?'
+p454
+tp455
+Rp456
+tp457
+a(S'structure mining'
+p458
+g2
+(g6
+S'\x96\xb8\x92\x1d)6\xd2?'
+p459
+tp460
+Rp461
+tp462
+a(S'parallel algorithm'
+p463
+g2
+(g6
+S'\x93P\xdam\xb42\xd2?'
+p464
+tp465
+Rp466
+tp467
+a(S'robert haralick'
+p468
+g2
+(g6
+S'&!\x84~\xc51\xd2?'
+p469
+tp470
+Rp471
+tp472
+a(S'empirical risk minimization'
+p473
+g2
+(g6
+S'\\\xd2e\xc0\x180\xd2?'
+p474
+tp475
+Rp476
+tp477
+a(S'streaming algorithm'
+p478
+g2
+(g6
+S'\xe7~\x97K_)\xd2?'
+p479
+tp480
+Rp481
+tp482
+a(S'bayesian network'
+p483
+g2
+(g6
+S'W*_Y\xc0\x1e\xd2?'
+p484
+tp485
+Rp486
+tp487
+a(S'learning classifier system'
+p488
+g2
+(g6
+S'\xfb\x8a\xf4w\x12\x1b\xd2?'
+p489
+tp490
+Rp491
+tp492
+a(S'pattern theory'
+p493
+g2
+(g6
+S'\xe00\x90\x01\xff\x17\xd2?'
+p494
+tp495
+Rp496
+tp497
+a(S'least squares support vector machine'
+p498
+g2
+(g6
+S'-\xbf9P\xd1\x15\xd2?'
+p499
+tp500
+Rp501
+tp502
+a(S'feature vector'
+p503
+g2
+(g6
+S']\xa4\x06"\x14\x0c\xd2?'
+p504
+tp505
+Rp506
+tp507
+a(S'quincunx'
+p508
+g2
+(g6
+S'\x97[\x05\xa9t\n\xd2?'
+p509
+tp510
+Rp511
+tp512
+a(S'face recognition vendor test'
+p513
+g2
+(g6
+S'hT\xa1\x88[\t\xd2?'
+p514
+tp515
+Rp516
+tp517
+a(S'adaboost'
+p518
+g2
+(g6
+S'\xdb\xc0\xa6\xac\xa2\xf3\xd1?'
+p519
+tp520
+Rp521
+tp522
+a(S'data stream mining'
+p523
+g2
+(g6
+S'\xd0\xc7/|\x1e\xef\xd1?'
+p524
+tp525
+Rp526
+tp527
+a(S'learning vector quantization'
+p528
+g2
+(g6
+S'\x05k\x8f\x9e\x19\xed\xd1?'
+p529
+tp530
+Rp531
+tp532
+a(S'natural language processing'
+p533
+g2
+(g6
+S'kO\xac#e\xeb\xd1?'
+p534
+tp535
+Rp536
+tp537
+a(S'softmax function'
+p538
+g2
+(g6
+S'\xec\xd0\xa8c\x91\xe9\xd1?'
+p539
+tp540
+Rp541
+tp542
+a(S'with high probability'
+p543
+g2
+(g6
+S'\xfc\x06\xea\xf2j\xde\xd1?'
+p544
+tp545
+Rp546
+tp547
+a(S'facial recognition system'
+p548
+g2
+(g6
+S'\xdd4`\xd5\xaf\xd8\xd1?'
+p549
+tp550
+Rp551
+tp552
+a(S'paris kanellakis award'
+p553
+g2
+(g6
+S'I\xba\xda\xfap\xd8\xd1?'
+p554
+tp555
+Rp556
+tp557
+a(S'multiple kernel learning'
+p558
+g2
+(g6
+S'\xe6\x9cyF\xd7\xd6\xd1?'
+p559
+tp560
+Rp561
+tp562
+a(S'structural pattern'
+p563
+g2
+(g6
+S'\xc3]\xe34A\xcd\xd1?'
+p564
+tp565
+Rp566
+tp567
+a(S'design pattern'
+p568
+g2
+(g6
+S'\xb7\xfe\t\xea\x11\xca\xd1?'
+p569
+tp570
+Rp571
+tp572
+a(S'feature scaling'
+p573
+g2
+(g6
+S'\x80?-\x10\xe2\xc8\xd1?'
+p574
+tp575
+Rp576
+tp577
+a(S'naive bayes classifier'
+p578
+g2
+(g6
+S'\x92\xe4T\xf7\x9c\xbf\xd1?'
+p579
+tp580
+Rp581
+tp582
+a(S'recurrent neural network'
+p583
+g2
+(g6
+S'\x90\x00\xd1\x98L\xbb\xd1?'
+p584
+tp585
+Rp586
+tp587
+a(S'search algorithm'
+p588
+g2
+(g6
+S'\xcc\x7f\xff\x1d\xcd\xb7\xd1?'
+p589
+tp590
+Rp591
+tp592
+a(S'manifold regularization'
+p593
+g2
+(g6
+S'\xef\x83\xe0\xdf\x14\xa8\xd1?'
+p594
+tp595
+Rp596
+tp597
+a(S'algorithm (c++)'
+p598
+g2
+(g6
+S'\xf4\xa3_\x80\x8a\x9c\xd1?'
+p599
+tp600
+Rp601
+tp602
+a(S'yuri zhuravlyov (mathematician)'
+p603
+g2
+(g6
+S',i2\x83a\x98\xd1?'
+p604
+tp605
+Rp606
+tp607
+a(S'multinomial logistic regression'
+p608
+g2
+(g6
+S'}\xd8\xbd\x80U\x98\xd1?'
+p609
+tp610
+Rp611
+tp612
+a(S'probabilistic analysis of algorithms'
+p613
+g2
+(g6
+S'A}_\x9b\xfd\x8f\xd1?'
+p614
+tp615
+Rp616
+tp617
+a(S'pattern recognition letters'
+p618
+g2
+(g6
+S'N\xa3\xffN\xb0\x8d\xd1?'
+p619
+tp620
+Rp621
+tp622
+a(S'medical algorithm'
+p623
+g2
+(g6
+S'\xf8s\xd1-\xb1\x86\xd1?'
+p624
+tp625
+Rp626
+tp627
+a(S'catastrophic interference'
+p628
+g2
+(g6
+S'\x18\xd0\x90\xfec}\xd1?'
+p629
+tp630
+Rp631
+tp632
+a(S'link analysis'
+p633
+g2
+(g6
+S'\x1cD#\x01\xb0z\xd1?'
+p634
+tp635
+Rp636
+tp637
+a(S'algorithms unlocked'
+p638
+g2
+(g6
+S'\xbc\x16\xa5\xbeQp\xd1?'
+p639
+tp640
+Rp641
+tp642
+a(S'timeline of machine learning'
+p643
+g2
+(g6
+S'D$\xb7c]d\xd1?'
+p644
+tp645
+Rp646
+tp647
+a(S'randomized algorithms as zero-sum games'
+p648
+g2
+(g6
+S'=\x8ct\x87\xc2`\xd1?'
+p649
+tp650
+Rp651
+tp652
+a(S'kernel methods for vector output'
+p653
+g2
+(g6
+S'\xb1\x9a\xd3\x16\xf2_\xd1?'
+p654
+tp655
+Rp656
+tp657
+a(S'margin classifier'
+p658
+g2
+(g6
+S'\xe7\xc0\xce\xabd^\xd1?'
+p659
+tp660
+Rp661
+tp662
+a(S'data mining'
+p663
+g2
+(g6
+S'\xcd\x9d\xf1\x1e\x89[\xd1?'
+p664
+tp665
+Rp666
+tp667
+a(S'convolutional neural network'
+p668
+g2
+(g6
+S'J\xa4\xeed\x89R\xd1?'
+p669
+tp670
+Rp671
+tp672
+a(S'handwriting recognition'
+p673
+g2
+(g6
+S'P\x92\xca[\xccJ\xd1?'
+p674
+tp675
+Rp676
+tp677
+a(S'relevance vector machine'
+p678
+g2
+(g6
+S'B\xfa1\xcb\x8dJ\xd1?'
+p679
+tp680
+Rp681
+tp682
+a(S'bayesian programming'
+p683
+g2
+(g6
+S'F\xc54,\xe1G\xd1?'
+p684
+tp685
+Rp686
+tp687
+a(S'autoencoder'
+p688
+g2
+(g6
+S'\xc1\xa9\x0e\xb3\xf5C\xd1?'
+p689
+tp690
+Rp691
+tp692
+a(S'taras vintsiuk'
+p693
+g2
+(g6
+S'\xa91\x04q,B\xd1?'
+p694
+tp695
+Rp696
+tp697
+a(S'orange (software)'
+p698
+g2
+(g6
+S'\xa7\x9a~\x98g?\xd1?'
+p699
+tp700
+Rp701
+tp702
+a(S'learning to rank'
+p703
+g2
+(g6
+S'"9Z\x0b\xdb7\xd1?'
+p704
+tp705
+Rp706
+tp707
+a(S'discriminative model'
+p708
+g2
+(g6
+S'\xac\xc9\xebU\xba+\xd1?'
+p709
+tp710
+Rp711
+tp712
+a(S'coboosting'
+p713
+g2
+(g6
+S'\xacK\x16XY*\xd1?'
+p714
+tp715
+Rp716
+tp717
+a(S'l\xc3\xa9on bottou'
+p718
+g2
+(g6
+S'\xd5\xd7\x03\x84E&\xd1?'
+p719
+tp720
+Rp721
+tp722
+a(S'genetic algorithm'
+p723
+g2
+(g6
+S'\x1d$\xd3\xb0v%\xd1?'
+p724
+tp725
+Rp726
+tp727
+a(S'context of computational complexity'
+p728
+g2
+(g6
+S'\x17\x10\x82\x0b\x9c\x1e\xd1?'
+p729
+tp730
+Rp731
+tp732
+a(S'generative model'
+p733
+g2
+(g6
+S'\x9d\xac\x8f\xf6\x87\x19\xd1?'
+p734
+tp735
+Rp736
+tp737
+a(S'decision tree learning'
+p738
+g2
+(g6
+S'^\x1bg\xeeK\x17\xd1?'
+p739
+tp740
+Rp741
+tp742
+a(S'time delay neural network'
+p743
+g2
+(g6
+S'D\xe6\xe0\xf9\xec\x16\xd1?'
+p744
+tp745
+Rp746
+tp747
+a(S'steve omohundro'
+p748
+g2
+(g6
+S'\x07\xa2\x8bF\xe7\x16\xd1?'
+p749
+tp750
+Rp751
+tp752
+a(S'ayasdi'
+p753
+g2
+(g6
+S'o\x96\xf7\x1a\xe1\x15\xd1?'
+p754
+tp755
+Rp756
+tp757
+a(S'9 algorithms that changed the future'
+p758
+g2
+(g6
+S',BD\xc5S\x10\xd1?'
+p759
+tp760
+Rp761
+tp762
+a(S'data set'
+p763
+g2
+(g6
+S'\x8a\xf8\xdd\xf5\xd4\x0f\xd1?'
+p764
+tp765
+Rp766
+tp767
+a(S'biclustering'
+p768
+g2
+(g6
+S'=\xcf;/s\x0e\xd1?'
+p769
+tp770
+Rp771
+tp772
+a(S'estimation of distribution algorithm'
+p773
+g2
+(g6
+S'\x91X\xf9\x98\xa1\x0c\xd1?'
+p774
+tp775
+Rp776
+tp777
+a(S'co-training'
+p778
+g2
+(g6
+S'Y\xd3\xf3p\x7f\x0c\xd1?'
+p779
+tp780
+Rp781
+tp782
+a(S'platt scaling'
+p783
+g2
+(g6
+S'\xc6\xe3\xa3V\x14\t\xd1?'
+p784
+tp785
+Rp786
+tp787
+a(S'neural designer'
+p788
+g2
+(g6
+S'O\x87\xfd\x90\xf6\xfb\xd0?'
+p789
+tp790
+Rp791
+tp792
+a(S'hashlife'
+p793
+g2
+(g6
+S'#=k\xc0\xef\xf5\xd0?'
+p794
+tp795
+Rp796
+tp797
+a(S'the pattern (band)'
+p798
+g2
+(g6
+S'n44\x01I\xf4\xd0?'
+p799
+tp800
+Rp801
+tp802
+a(S'classifier chains'
+p803
+g2
+(g6
+S'\xaf\xc1\x80\xc9\x8a\xea\xd0?'
+p804
+tp805
+Rp806
+tp807
+a(S'backpropagation'
+p808
+g2
+(g6
+S'\xaam\xbc\x9c\xb7\xe9\xd0?'
+p809
+tp810
+Rp811
+tp812
+a(S'pedagogical patterns'
+p813
+g2
+(g6
+S'\x9c\xf8\xa2]\xb8\xe6\xd0?'
+p814
+tp815
+Rp816
+tp817
+a(S'graphlab'
+p818
+g2
+(g6
+S'\xc4@\xf9\xbf\xfa\xdf\xd0?'
+p819
+tp820
+Rp821
+tp822
+a(S'step detection'
+p823
+g2
+(g6
+S'\xd8S\xda\x89\xe0\xdd\xd0?'
+p824
+tp825
+Rp826
+tp827
+a(S'dictionary of algorithms and data structures'
+p828
+g2
+(g6
+S'\x90\xd0\xf4\\=\xd9\xd0?'
+p829
+tp830
+Rp831
+tp832
+a(S'feature selection'
+p833
+g2
+(g6
+S'@b\x846\xd4\xd7\xd0?'
+p834
+tp835
+Rp836
+tp837
+a(S'reinforcement learning'
+p838
+g2
+(g6
+S'x"\xceD\xe0\xd3\xd0?'
+p839
+tp840
+Rp841
+tp842
+a(S'randomized algorithm'
+p843
+g2
+(g6
+S'u\x17K\x81\xdc\xcd\xd0?'
+p844
+tp845
+Rp846
+tp847
+a(S'zero instruction set computer'
+p848
+g2
+(g6
+S'\x91\xe8p/a\xcd\xd0?'
+p849
+tp850
+Rp851
+tp852
+a(S'dynamic problem (algorithms)'
+p853
+g2
+(g6
+S'\xd7z\xd5\x93\x0e\xc6\xd0?'
+p854
+tp855
+Rp856
+tp857
+a(S'teradata warehouse miner'
+p858
+g2
+(g6
+S'\xcf\x1f\xacnz\xc1\xd0?'
+p859
+tp860
+Rp861
+tp862
+a(S'tanagra (machine learning)'
+p863
+g2
+(g6
+S'ew\x90DI\xbd\xd0?'
+p864
+tp865
+Rp866
+tp867
+a(S'kernel method'
+p868
+g2
+(g6
+S'\xcb\xc3\xc5 \xc2\xb9\xd0?'
+p869
+tp870
+Rp871
+tp872
+a(S'anytime algorithm'
+p873
+g2
+(g6
+S'!\\\xa1\xdbp\xb6\xd0?'
+p874
+tp875
+Rp876
+tp877
+a(S'rule induction'
+p878
+g2
+(g6
+S'\x84\x9a\x1f\xae\xbf\xb1\xd0?'
+p879
+tp880
+Rp881
+tp882
+a(S'computational learning theory'
+p883
+g2
+(g6
+S'\x161#Y\x99\xa7\xd0?'
+p884
+tp885
+Rp886
+tp887
+a(S'security patterns'
+p888
+g2
+(g6
+S'l\xd3\xe9\xf05\xa3\xd0?'
+p889
+tp890
+Rp891
+tp892
+a(S'opennn'
+p893
+g2
+(g6
+S'\xdc=\xc4\x8e\x8f\x94\xd0?'
+p894
+tp895
+Rp896
+tp897
+a(S'gad landau'
+p898
+g2
+(g6
+S'D\x96~\x18.\x8b\xd0?'
+p899
+tp900
+Rp901
+tp902
+a(S'm05'
+p903
+g2
+(g6
+S"\x94'v&0\x87\xd0?"
+p904
+tp905
+Rp906
+tp907
+a(S'transduction (machine learning)'
+p908
+g2
+(g6
+S'\xa4\xe1B\xd1\x15\x86\xd0?'
+p909
+tp910
+Rp911
+tp912
+a(S'urban traffic modeling and analysis'
+p913
+g2
+(g6
+S'[Xv\xf1\xd5\x85\xd0?'
+p914
+tp915
+Rp916
+tp917
+a(S'data analysis'
+p918
+g2
+(g6
+S'r\x84\xe5\xf8\xaf\x84\xd0?'
+p919
+tp920
+Rp921
+tp922
+a(S'images in sound (he xuntian)'
+p923
+g2
+(g6
+S'\xfc\xe6\xd9-\x9b\x84\xd0?'
+p924
+tp925
+Rp926
+tp927
+a(S'examples of data mining'
+p928
+g2
+(g6
+S'FF\r7\xe9\x83\xd0?'
+p929
+tp930
+Rp931
+tp932
+a(S'multi-task learning'
+p933
+g2
+(g6
+S'^\x0c;\xc8\xb1|\xd0?'
+p934
+tp935
+Rp936
+tp937
+a(S'theoretical computer science'
+p938
+g2
+(g6
+S'\xb4\xe1\x88\xf7\xe0{\xd0?'
+p939
+tp940
+Rp941
+tp942
+a(S'face recognition grand challenge'
+p943
+g2
+(g6
+S"a'\xe5\x05`z\xd0?"
+p944
+tp945
+Rp946
+tp947
+a(S'structured prediction'
+p948
+g2
+(g6
+S'\x05\xbe\xcdG;y\xd0?'
+p949
+tp950
+Rp951
+tp952
+a(S'u.s. woodland'
+p953
+g2
+(g6
+S'\xe2\xbf\xb1D\xceu\xd0?'
+p954
+tp955
+Rp956
+tp957
+a(S'multiton pattern'
+p958
+g2
+(g6
+S'7\xb1\xefJ\xe4m\xd0?'
+p959
+tp960
+Rp961
+tp962
+a(S'xdais algorithms'
+p963
+g2
+(g6
+S';j\x8d\xfc!h\xd0?'
+p964
+tp965
+Rp966
+tp967
+a(S'snobol'
+p968
+g2
+(g6
+S'\xfc\xd8*;\x1ac\xd0?'
+p969
+tp970
+Rp971
+tp972
+a(S'hierarchical temporal memory'
+p973
+g2
+(g6
+S'\x9e\xd0\xf1\xe3\x87b\xd0?'
+p974
+tp975
+Rp976
+tp977
+a(S'multiple instance learning'
+p978
+g2
+(g6
+S'pj\xc7N\xd2`\xd0?'
+p979
+tp980
+Rp981
+tp982
+a(S'nonlinear dimensionality reduction'
+p983
+g2
+(g6
+S'\x18"\xc4\xb4U]\xd0?'
+p984
+tp985
+Rp986
+tp987
+a(S'wake-sleep algorithm'
+p988
+g2
+(g6
+S'\x15\xcb\xb9\x0c\xe4[\xd0?'
+p989
+tp990
+Rp991
+tp992
+a(S'predictive analytics'
+p993
+g2
+(g6
+S'\xaa\xd9\x059iZ\xd0?'
+p994
+tp995
+Rp996
+tp997
+a(S'quality control and genetic algorithms'
+p998
+g2
+(g6
+S'\xbc\xdc6\xa7\xa3O\xd0?'
+p999
+tp1000
+Rp1001
+tp1002
+a(S'dimensionality reduction'
+p1003
+g2
+(g6
+S'\xcc\xdbv\xfa$L\xd0?'
+p1004
+tp1005
+Rp1006
+tp1007
+a(S'string kernel'
+p1008
+g2
+(g6
+S'\xcd\xbf\xe7-7B\xd0?'
+p1009
+tp1010
+Rp1011
+tp1012
+a(S'guess value'
+p1013
+g2
+(g6
+S'\xa1\xec\xe1?$9\xd0?'
+p1014
+tp1015
+Rp1016
+tp1017
+a(S'nello cristianini'
+p1018
+g2
+(g6
+S'\xec\x07\xe6\xc7]*\xd0?'
+p1019
+tp1020
+Rp1021
+tp1022
+a(S'k-means clustering'
+p1023
+g2
+(g6
+S'\xe05\x92\xfa\xd6#\xd0?'
+p1024
+tp1025
+Rp1026
+tp1027
+a(S'logic learning machine'
+p1028
+g2
+(g6
+S'i\xe8y\x91\x1b\x19\xd0?'
+p1029
+tp1030
+Rp1031
+tp1032
+a(S'multilayer perceptron'
+p1033
+g2
+(g6
+S'%\xf3\xfb\xf30\n\xd0?'
+p1034
+tp1035
+Rp1036
+tp1037
+a(S'bell pattern'
+p1038
+g2
+(g6
+S'\n\xe3\xa5\x89\x18\n\xd0?'
+p1039
+tp1040
+Rp1041
+tp1042
+a(S'software design pattern'
+p1043
+g2
+(g6
+S'x\x193k\x07\x01\xd0?'
+p1044
+tp1045
+Rp1046
+tp1047
+a(S'history of natural language processing'
+p1048
+g2
+(g6
+S'I\xdfJ{\x00\xf3\xcf?'
+p1049
+tp1050
+Rp1051
+tp1052
+a(S'neocognitron'
+p1053
+g2
+(g6
+S'\x08\xe6\xd0l \xe7\xcf?'
+p1054
+tp1055
+Rp1056
+tp1057
+a(S'prognostics'
+p1058
+g2
+(g6
+S'\x9bVDO\x9d\xe6\xcf?'
+p1059
+tp1060
+Rp1061
+tp1062
+a(S'generalized iterative scaling'
+p1063
+g2
+(g6
+S')\xd5>\x86N\xe2\xcf?'
+p1064
+tp1065
+Rp1066
+tp1067
+a(S'evolutionary data mining'
+p1068
+g2
+(g6
+S'\x12\xcbrP\x13\xe2\xcf?'
+p1069
+tp1070
+Rp1071
+tp1072
+a(S'david e. goldberg'
+p1073
+g2
+(g6
+S'\xc9\xb6<X\t\xe0\xcf?'
+p1074
+tp1075
+Rp1076
+tp1077
+a(S'international conference on pattern recognition in bioinformatics'
+p1078
+g2
+(g6
+S'b\x14 \x7fm\xd7\xcf?'
+p1079
+tp1080
+Rp1081
+tp1082
+a(S'error tolerance (pac learning)'
+p1083
+g2
+(g6
+S'\xc2\x8fd5\xd9\xbf\xcf?'
+p1084
+tp1085
+Rp1086
+tp1087
+a(S'algorithmic composition'
+p1088
+g2
+(g6
+S'\xbd \xc2\x85\xef\xbc\xcf?'
+p1089
+tp1090
+Rp1091
+tp1092
+a(S'massive online analysis'
+p1093
+g2
+(g6
+S'\n\xbf8\xf3\x0e\xb6\xcf?'
+p1094
+tp1095
+Rp1096
+tp1097
+a(S'deep belief network'
+p1098
+g2
+(g6
+S'\xe1@\x0b[\xed\xb5\xcf?'
+p1099
+tp1100
+Rp1101
+tp1102
+a(S'nonlinear system identification'
+p1103
+g2
+(g6
+S'\xaa4\x18\xd6\xa4\xab\xcf?'
+p1104
+tp1105
+Rp1106
+tp1107
+a(S'ieee transactions on pattern analysis and machine intelligence'
+p1108
+g2
+(g6
+S'\x89K\xe1\x82\x07\x8e\xcf?'
+p1109
+tp1110
+Rp1111
+tp1112
+a(S'feature selection toolbox'
+p1113
+g2
+(g6
+S'B#\x83u^d\xcf?'
+p1114
+tp1115
+Rp1116
+tp1117
+a(S'brigitte vall\xc3\xa9e'
+p1118
+g2
+(g6
+S',]S"\x0cK\xcf?'
+p1119
+tp1120
+Rp1121
+tp1122
+a(S'list of ford bellhousing patterns'
+p1123
+g2
+(g6
+S'v8\x97n7C\xcf?'
+p1124
+tp1125
+Rp1126
+tp1127
+a(S'long short-term memory'
+p1128
+g2
+(g6
+S'\xc9d%\xd1\xbb>\xcf?'
+p1129
+tp1130
+Rp1131
+tp1132
+a(S'amelioration pattern'
+p1133
+g2
+(g6
+S'\xd6L\xba\xdeE9\xcf?'
+p1134
+tp1135
+Rp1136
+tp1137
+a(S'competitive learning'
+p1138
+g2
+(g6
+S'\xf7\x9f\xc6\x8b\xf94\xcf?'
+p1139
+tp1140
+Rp1141
+tp1142
+a(S'svetha venkatesh'
+p1143
+g2
+(g6
+S'\x85J\xcd\xfb\xc03\xcf?'
+p1144
+tp1145
+Rp1146
+tp1147
+a(S'the pattern'
+p1148
+g2
+(g6
+S'\xc6"qc\x051\xcf?'
+p1149
+tp1150
+Rp1151
+tp1152
+a(S'mlpack (c++ library)'
+p1153
+g2
+(g6
+S'\xe7\x1c\xef\xf2\x13/\xcf?'
+p1154
+tp1155
+Rp1156
+tp1157
+a(S'predictive model markup language'
+p1158
+g2
+(g6
+S"\x0e\x06(H\x00'\xcf?"
+p1159
+tp1160
+Rp1161
+tp1162
+a(S'empirical algorithmics'
+p1163
+g2
+(g6
+S'FV\x162Z%\xcf?'
+p1164
+tp1165
+Rp1166
+tp1167
+a(S'chart pattern'
+p1168
+g2
+(g6
+S'G\x12\x92\xe9r!\xcf?'
+p1169
+tp1170
+Rp1171
+tp1172
+a(S'pattern (architecture)'
+p1173
+g2
+(g6
+S'Qi\x0bqs\x1b\xcf?'
+p1174
+tp1175
+Rp1176
+tp1177
+a(S'iterator pattern'
+p1178
+g2
+(g6
+S'\xb1O\x05\xc8\xf7\x16\xcf?'
+p1179
+tp1180
+Rp1181
+tp1182
+a(S'anil k. jain (computer scientist, born 1948)'
+p1183
+g2
+(g6
+S'\x1d\xd6\x95\xf8\xb1\x16\xcf?'
+p1184
+tp1185
+Rp1186
+tp1187
+a(S'splaysort'
+p1188
+g2
+(g6
+S'\x0f\x91^,\xdf\x15\xcf?'
+p1189
+tp1190
+Rp1191
+tp1192
+a(S'rcase'
+p1193
+g2
+(g6
+S'\r|jk\xcf\x14\xcf?'
+p1194
+tp1195
+Rp1196
+tp1197
+a(S'algorithmic efficiency'
+p1198
+g2
+(g6
+S'\xe9\xd7<U\xca\x12\xcf?'
+p1199
+tp1200
+Rp1201
+tp1202
+a(S'paxata'
+p1203
+g2
+(g6
+S'\xc4=\xca\x83*\x0c\xcf?'
+p1204
+tp1205
+Rp1206
+tp1207
+a(S'data science'
+p1208
+g2
+(g6
+S'\xdfw(\xa3\xf4\n\xcf?'
+p1209
+tp1210
+Rp1211
+tp1212
+a(S'astronomical algorithm'
+p1213
+g2
+(g6
+S'\xaa\x99\xa6\xbe\xaa\x02\xcf?'
+p1214
+tp1215
+Rp1216
+tp1217
+a(S'bayesian inference'
+p1218
+g2
+(g6
+S'{0%V\x80\xfa\xce?'
+p1219
+tp1220
+Rp1221
+tp1222
+a(S'deeplearning4j'
+p1223
+g2
+(g6
+S'\x14x+-\xdc\xf0\xce?'
+p1224
+tp1225
+Rp1226
+tp1227
+a(S'factorial code'
+p1228
+g2
+(g6
+S'\x96\xb0\xf8iY\xed\xce?'
+p1229
+tp1230
+Rp1231
+tp1232
+a(S'automatic summarization'
+p1233
+g2
+(g6
+S'\xa4\xfd\xcdB\x8b\xe4\xce?'
+p1234
+tp1235
+Rp1236
+tp1237
+a(S'universal camouflage pattern'
+p1238
+g2
+(g6
+S'\xa6z\x97\x08&\xd8\xce?'
+p1239
+tp1240
+Rp1241
+tp1242
+a(S'guy blelloch'
+p1243
+g2
+(g6
+S'\xcbK\x87KG\xc7\xce?'
+p1244
+tp1245
+Rp1246
+tp1247
+a(S'hidden markov model'
+p1248
+g2
+(g6
+S'3&\xe9\xf1X\xa0\xce?'
+p1249
+tp1250
+Rp1251
+tp1252
+a(S'mehryar mohri'
+p1253
+g2
+(g6
+S'\xb0\xfd\xc1\xa9\xce\x8c\xce?'
+p1254
+tp1255
+Rp1256
+tp1257
+a(S'cviptools'
+p1258
+g2
+(g6
+S'\xe9\xae]\x1f_\x80\xce?'
+p1259
+tp1260
+Rp1261
+tp1262
+a(S'mixture model'
+p1263
+g2
+(g6
+S'|&\x875_~\xce?'
+p1264
+tp1265
+Rp1266
+tp1267
+a(S'statistics'
+p1268
+g2
+(g6
+S'x{\xc5V\xe1u\xce?'
+p1269
+tp1270
+Rp1271
+tp1272
+a(S'\xc5\xa0ar\xc5\xabnas raudys'
+p1273
+g2
+(g6
+S'\x17\x19x\xc9Cr\xce?'
+p1274
+tp1275
+Rp1276
+tp1277
+a(S'k-nearest neighbors algorithm'
+p1278
+g2
+(g6
+S"\x86\\\xb4E'i\xce?"
+p1279
+tp1280
+Rp1281
+tp1282
+a(S'analysis of algorithms'
+p1283
+g2
+(g6
+S'{n\xf3\xbbBV\xce?'
+p1284
+tp1285
+Rp1286
+tp1287
+a(S'history of sewing patterns'
+p1288
+g2
+(g6
+S'\xca\n\x04jGR\xce?'
+p1289
+tp1290
+Rp1291
+tp1292
+a(S'pattern-oriented modeling'
+p1293
+g2
+(g6
+S'\xa7\xf0\x8a\xab\xf2O\xce?'
+p1294
+tp1295
+Rp1296
+tp1297
+a(S'automate this'
+p1298
+g2
+(g6
+S'|\xae\xfcl\xee:\xce?'
+p1299
+tp1300
+Rp1301
+tp1302
+a(S'input\xe2\x80\x93output model'
+p1303
+g2
+(g6
+S'\x84\x93?\xd0\xf59\xce?'
+p1304
+tp1305
+Rp1306
+tp1307
+a(S'algebraic data type'
+p1308
+g2
+(g6
+S'\xd6\xc2\x03\xcf\xaf2\xce?'
+p1309
+tp1310
+Rp1311
+tp1312
+a(S'semidefinite embedding'
+p1313
+g2
+(g6
+S'Q\xcc\xf4\xaf\x1f*\xce?'
+p1314
+tp1315
+Rp1316
+tp1317
+a(S'quincunx (disambiguation)'
+p1318
+g2
+(g6
+S'\x83\xd9\x9b[\xe8 \xce?'
+p1319
+tp1320
+Rp1321
+tp1322
+a(S'list of statistics articles'
+p1323
+g2
+(g6
+S'\xa2\xe2 L\xf4\x0e\xce?'
+p1324
+tp1325
+Rp1326
+tp1327
+a(S'bayesian approaches to brain function'
+p1328
+g2
+(g6
+S'C\xb3\xac\xb0U\x0b\xce?'
+p1329
+tp1330
+Rp1331
+tp1332
+a(S'early stopping'
+p1333
+g2
+(g6
+S'8a\x11\xcd\x04\n\xce?'
+p1334
+tp1335
+Rp1336
+tp1337
+a(S'fastica'
+p1338
+g2
+(g6
+S'e\xc9\x9e\xd1N\x08\xce?'
+p1339
+tp1340
+Rp1341
+tp1342
+a(S'q-learning'
+p1343
+g2
+(g6
+S'\xa0\x84k#4\x07\xce?'
+p1344
+tp1345
+Rp1346
+tp1347
+a(S'association rule learning'
+p1348
+g2
+(g6
+S'j\xe1\x91\xbdW\x04\xce?'
+p1349
+tp1350
+Rp1351
+tp1352
+a(S'bayesian inference in phylogeny'
+p1353
+g2
+(g6
+S'M\xa1\xf2wx\x02\xce?'
+p1354
+tp1355
+Rp1356
+tp1357
+a(S'self-organizing map'
+p1358
+g2
+(g6
+S'\xd6o\x12\x98\xe5\xfc\xcd?'
+p1359
+tp1360
+Rp1361
+tp1362
+a(S'pattern'
+p1363
+g2
+(g6
+S'\x85K\xc0\xae\x97\xfc\xcd?'
+p1364
+tp1365
+Rp1366
+tp1367
+a(S'architectural pattern'
+p1368
+g2
+(g6
+S'\xac\x95U\xeb\x8e\xf5\xcd?'
+p1369
+tp1370
+Rp1371
+tp1372
+a(S'cluster analysis'
+p1373
+g2
+(g6
+S'\xd2\xfe\xf8U\xb1\xf3\xcd?'
+p1374
+tp1375
+Rp1376
+tp1377
+a(S'glossary of artificial intelligence'
+p1378
+g2
+(g6
+S"\x8d\x03'\xbeF\xed\xcd?"
+p1379
+tp1380
+Rp1381
+tp1382
+a(S'test set'
+p1383
+g2
+(g6
+S'E]\xc3-9\xe9\xcd?'
+p1384
+tp1385
+Rp1386
+tp1387
+a(S'artificial intelligence'
+p1388
+g2
+(g6
+S'\xb4\x93\x90\x80\x00\xe2\xcd?'
+p1389
+tp1390
+Rp1391
+tp1392
+a(S'educational data mining'
+p1393
+g2
+(g6
+S'\xe0\xcd\xfe\xf2>\xd5\xcd?'
+p1394
+tp1395
+Rp1396
+tp1397
+a(S'maximum-entropy markov model'
+p1398
+g2
+(g6
+S'\xe4{\xbbE\xc5\xd3\xcd?'
+p1399
+tp1400
+Rp1401
+tp1402
+a(S'structured support vector machine'
+p1403
+g2
+(g6
+S'7`b\xe2\x8f\xd0\xcd?'
+p1404
+tp1405
+Rp1406
+tp1407
+a(S'big data'
+p1408
+g2
+(g6
+S'\x80X\xebt\x91\xc9\xcd?'
+p1409
+tp1410
+Rp1411
+tp1412
+a(S'distribution learning theory'
+p1413
+g2
+(g6
+S'\x9a\x9fK<\x83\xc6\xcd?'
+p1414
+tp1415
+Rp1416
+tp1417
+a(S'bidirectional recurrent neural networks'
+p1418
+g2
+(g6
+S'El: \x8e\xc2\xcd?'
+p1419
+tp1420
+Rp1421
+tp1422
+a(S'online algorithm'
+p1423
+g2
+(g6
+S'\xe83}\x1b\x7f\xc2\xcd?'
+p1424
+tp1425
+Rp1426
+tp1427
+a(S'margin (machine learning)'
+p1428
+g2
+(g6
+S'b\xec\xebOZ\xc2\xcd?'
+p1429
+tp1430
+Rp1431
+tp1432
+a(S'sequential pattern mining'
+p1433
+g2
+(g6
+S'\xa3\xdb\x8e}\xcc\xc0\xcd?'
+p1434
+tp1435
+Rp1436
+tp1437
+a(S'splinter pattern camouflage'
+p1438
+g2
+(g6
+S'\x03\xd9\t7\x08\xba\xcd?'
+p1439
+tp1440
+Rp1441
+tp1442
+a(S'infomax'
+p1443
+g2
+(g6
+S'z\xdde\r\xa1\xb9\xcd?'
+p1444
+tp1445
+Rp1446
+tp1447
+a(S'hopfield network'
+p1448
+g2
+(g6
+S'\n^\x90\xf3\xec\xb2\xcd?'
+p1449
+tp1450
+Rp1451
+tp1452
+a(S'awk'
+p1453
+g2
+(g6
+S'\x02\xd8\xca-\n\xaf\xcd?'
+p1454
+tp1455
+Rp1456
+tp1457
+a(S'neural gas'
+p1458
+g2
+(g6
+S'\xc4\xb0\xcd\xa0\xd5\xac\xcd?'
+p1459
+tp1460
+Rp1461
+tp1462
+a(S'messaging pattern'
+p1463
+g2
+(g6
+S'\xfe=\x91\xfcs\xa9\xcd?'
+p1464
+tp1465
+Rp1466
+tp1467
+a(S's. rao kosaraju'
+p1468
+g2
+(g6
+S'5\xae\xde\xb6\xbe\xa0\xcd?'
+p1469
+tp1470
+Rp1471
+tp1472
+a(S'large margin nearest neighbor'
+p1473
+g2
+(g6
+S'\x82#%\xe9\xd3\x98\xcd?'
+p1474
+tp1475
+Rp1476
+tp1477
+a(S'linear discriminant analysis'
+p1478
+g2
+(g6
+S'\xf1"7\xc1\x90\x94\xcd?'
+p1479
+tp1480
+Rp1481
+tp1482
+a(S'a pattern language'
+p1483
+g2
+(g6
+S'\x0bk\x17\xab|\x8b\xcd?'
+p1484
+tp1485
+Rp1486
+tp1487
+a(S'mapreduce'
+p1488
+g2
+(g6
+S'\xcc\xb9\x05ky\x88\xcd?'
+p1489
+tp1490
+Rp1491
+tp1492
+a(S'sorting algorithm'
+p1493
+g2
+(g6
+S'\x1c\xaaN\xc6O\x88\xcd?'
+p1494
+tp1495
+Rp1496
+tp1497
+a(S'mikkel thorup'
+p1498
+g2
+(g6
+S'P\xf5\xac6\xc3\x81\xcd?'
+p1499
+tp1500
+Rp1501
+tp1502
+a(S'waffles (machine learning)'
+p1503
+g2
+(g6
+S'\xe9n\x0fe0y\xcd?'
+p1504
+tp1505
+Rp1506
+tp1507
+a(S'learning rule'
+p1508
+g2
+(g6
+S'i\xd02h\x89k\xcd?'
+p1509
+tp1510
+Rp1511
+tp1512
+a.

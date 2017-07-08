@@ -1,0 +1,2728 @@
+(lp0
+(S'information theory'
+p1
+cnumpy.core.multiarray
+scalar
+p2
+(cnumpy
+dtype
+p3
+(S'f8'
+p4
+I0
+I1
+tp5
+Rp6
+(I3
+S'<'
+p7
+NNNI-1
+I-1
+I0
+tp8
+bS'\x03\x00\x00\x00\x00\x00\xf0?'
+p9
+tp10
+Rp11
+tp12
+a(S'index of information theory articles'
+p13
+g2
+(g6
+S'\xfe\x0c\x91)\x95v\xe8?'
+p14
+tp15
+Rp16
+tp17
+a(S'entropy (information theory)'
+p18
+g2
+(g6
+S'$\x8e\xd9\x98\xe3\x93\xe6?'
+p19
+tp20
+Rp21
+tp22
+a(S'quantities of information'
+p23
+g2
+(g6
+S'\xda2\x83\xc6\x97\xa6\xe5?'
+p24
+tp25
+Rp26
+tp27
+a(S'history of information theory'
+p28
+g2
+(g6
+S'\xef}h\x94` \xe5?'
+p29
+tp30
+Rp31
+tp32
+a(S'entropy in thermodynamics and information theory'
+p33
+g2
+(g6
+S'GD\x8f#\xce\xb3\xe3?'
+p34
+tp35
+Rp36
+tp37
+a(S'binary entropy function'
+p38
+g2
+(g6
+S'\xfb\x9dy\n\x95@\xe3?'
+p39
+tp40
+Rp41
+tp42
+a(S'information diagram'
+p43
+g2
+(g6
+S'\xbc\xcf\x8dl|!\xe3?'
+p44
+tp45
+Rp46
+tp47
+a(S'conditional entropy'
+p48
+g2
+(g6
+S'\x874\x00i\xe8\x13\xe3?'
+p49
+tp50
+Rp51
+tp52
+a(S'information theory and measure theory'
+p53
+g2
+(g6
+S'le\xde\xaa\x9f\xd6\xe2?'
+p54
+tp55
+Rp56
+tp57
+a(S'physical information'
+p58
+g2
+(g6
+S'7k\t\x1c\xd6\xce\xe2?'
+p59
+tp60
+Rp61
+tp62
+a(S'r\xc3\xa9nyi entropy'
+p63
+g2
+(g6
+S'\xc0N=m\xc1\xc4\xe2?'
+p64
+tp65
+Rp66
+tp67
+a(S'principle of maximum entropy'
+p68
+g2
+(g6
+S'\xbe\xaf\xfe ;\x96\xe2?'
+p69
+tp70
+Rp71
+tp72
+a(S'entropy (disambiguation)'
+p73
+g2
+(g6
+S'\xbc\xfd\xcb(\x96G\xe2?'
+p74
+tp75
+Rp76
+tp77
+a(S'entropy power inequality'
+p78
+g2
+(g6
+S'\xbb\xc9\xdc\x8a\x7f\xdc\xe1?'
+p79
+tp80
+Rp81
+tp82
+a(S'negentropy'
+p83
+g2
+(g6
+S'\x11\xa4\xa2w\xfd\xd1\xe1?'
+p84
+tp85
+Rp86
+tp87
+a(S'maximum entropy thermodynamics'
+p88
+g2
+(g6
+S"'>g\x05\x86\xa1\xe1?"
+p89
+tp90
+Rp91
+tp92
+a(S'mutual information'
+p93
+g2
+(g6
+S'i\x8c\x11\xc0$j\xe1?'
+p94
+tp95
+Rp96
+tp97
+a(S'cross entropy'
+p98
+g2
+(g6
+S'\xe32\xe3C\xcbI\xe1?'
+p99
+tp100
+Rp101
+tp102
+a(S'grammatical man'
+p103
+g2
+(g6
+S'&\xdf%%\xa1A\xe1?'
+p104
+tp105
+Rp106
+tp107
+a(S'self-information'
+p108
+g2
+(g6
+S'\xf7h$F\x072\xe1?'
+p109
+tp110
+Rp111
+tp112
+a(S'joint quantum entropy'
+p113
+g2
+(g6
+S"D\xa8\xba\xd24'\xe1?"
+p114
+tp115
+Rp116
+tp117
+a(S'differential entropy'
+p118
+g2
+(g6
+S'{?N\xfe\x82\x1e\xe1?'
+p119
+tp120
+Rp121
+tp122
+a(S'entropy'
+p123
+g2
+(g6
+S'\xe4>\xc9\x19\xdc\x1c\xe1?'
+p124
+tp125
+Rp126
+tp127
+a(S'information dimension'
+p128
+g2
+(g6
+S'\x19\xd5\xb8\xc3{\x1b\xe1?'
+p129
+tp130
+Rp131
+tp132
+a(S'joint entropy'
+p133
+g2
+(g6
+S'\xc1\x13\x84\x02\x0b\x01\xe1?'
+p134
+tp135
+Rp136
+tp137
+a(S'history of entropy'
+p138
+g2
+(g6
+S'\xa4\xf8f\x9a@\xb7\xe0?'
+p139
+tp140
+Rp141
+tp142
+a(S'information'
+p143
+g2
+(g6
+S'\x0bv@\x17u[\xe0?'
+p144
+tp145
+Rp146
+tp147
+a(S'maximum entropy probability distribution'
+p148
+g2
+(g6
+S'\x15\xb6\xec\xb7\x07Z\xe0?'
+p149
+tp150
+Rp151
+tp152
+a(S'transfer entropy'
+p153
+g2
+(g6
+S'\xe6\xc3\x1d\xbb\xf0U\xe0?'
+p154
+tp155
+Rp156
+tp157
+a(S'decoding the universe'
+p158
+g2
+(g6
+S'\x81\xcbk\xb6\x939\xe0?'
+p159
+tp160
+Rp161
+tp162
+a(S'min entropy'
+p163
+g2
+(g6
+S'S\xee\x8f\x87\xb9)\xe0?'
+p164
+tp165
+Rp166
+tp167
+a(S'information source (mathematics)'
+p168
+g2
+(g6
+S'3K\xca\xd5\x1a\xde\xdf?'
+p169
+tp170
+Rp171
+tp172
+a(S'variation of information'
+p173
+g2
+(g6
+S'\x12\x03qG*V\xdf?'
+p174
+tp175
+Rp176
+tp177
+a(S'configuration entropy'
+p178
+g2
+(g6
+S'\xae}1\x9a\x1a\x07\xdf?'
+p179
+tp180
+Rp181
+tp182
+a(S'tsallis entropy'
+p183
+g2
+(g6
+S'\xfe\x81=q\n\x03\xdf?'
+p184
+tp185
+Rp186
+tp187
+a(S'entropy (order and disorder)'
+p188
+g2
+(g6
+S'\x07A%\xbe"\xe8\xde?'
+p189
+tp190
+Rp191
+tp192
+a(S'redundancy (information theory)'
+p193
+g2
+(g6
+S'\xe2l\xb6#\xbe\xdc\xde?'
+p194
+tp195
+Rp196
+tp197
+a(S'entropy encoding'
+p198
+g2
+(g6
+S'"ul\xb0\xe7\xdb\xde?'
+p199
+tp200
+Rp201
+tp202
+a(S'arieh ben-naim'
+p203
+g2
+(g6
+S'\xf4\x11\x84=\xaa\xd1\xde?'
+p204
+tp205
+Rp206
+tp207
+a(S'conditional quantum entropy'
+p208
+g2
+(g6
+S'+\xb1\xf5\xfc\xb2\xd0\xde?'
+p209
+tp210
+Rp211
+tp212
+a(S'entropy (computing)'
+p213
+g2
+(g6
+S'\xa2e7\xd1g\xb4\xde?'
+p214
+tp215
+Rp216
+tp217
+a(S'nonextensive entropy'
+p218
+g2
+(g6
+S'\xe3$L[\x11\xb0\xde?'
+p219
+tp220
+Rp221
+tp222
+a(S'generalized relative entropy'
+p223
+g2
+(g6
+S'\x91\xbb\xe9\xcf+\x9e\xde?'
+p224
+tp225
+Rp226
+tp227
+a(S'entropy (statistical thermodynamics)'
+p228
+g2
+(g6
+S'\xfb\xf93\xf8ht\xde?'
+p229
+tp230
+Rp231
+tp232
+a(S'kullback\xe2\x80\x93leibler divergence'
+p233
+g2
+(g6
+S'\x1a\x15\xdem\xd8m\xde?'
+p234
+tp235
+Rp236
+tp237
+a(S'orders of magnitude (entropy)'
+p238
+g2
+(g6
+S'\x06\xbe\xebv\x04=\xde?'
+p239
+tp240
+Rp241
+tp242
+a(S"shannon's source coding theorem"
+p243
+g2
+(g6
+S'\xc4fq\x02~\xec\xdd?'
+p244
+tp245
+Rp246
+tp247
+a(S'von neumann entropy'
+p248
+g2
+(g6
+S'ud\xa9\x81\xaf\xe0\xdd?'
+p249
+tp250
+Rp251
+tp252
+a(S'entropy (classical thermodynamics)'
+p253
+g2
+(g6
+S'\x8f3^\xa6\xd8\xce\xdd?'
+p254
+tp255
+Rp256
+tp257
+a(S'quantum relative entropy'
+p258
+g2
+(g6
+S'"Bq\x8eh\xb0\xdd?'
+p259
+tp260
+Rp261
+tp262
+a(S'mark semenovich pinsker'
+p263
+g2
+(g6
+S'3\x958\xf0\x92\x9f\xdd?'
+p264
+tp265
+Rp266
+tp267
+a(S'noisy-channel coding theorem'
+p268
+g2
+(g6
+S'\r\x84\x9b\xb1\x1d\x9a\xdd?'
+p269
+tp270
+Rp271
+tp272
+a(S'entropy: a new world view'
+p273
+g2
+(g6
+S'\xce\xab4g\xc2\x95\xdd?'
+p274
+tp275
+Rp276
+tp277
+a(S'entropy rate'
+p278
+g2
+(g6
+S']\xa3\x9b4\xd5x\xdd?'
+p279
+tp280
+Rp281
+tp282
+a(S'entropy (anonymous data store)'
+p283
+g2
+(g6
+S'&\xd6\xdc\x8d\x934\xdd?'
+p284
+tp285
+Rp286
+tp287
+a(S'holographic principle'
+p288
+g2
+(g6
+S'\xccJ\x81\x85\xd4$\xdd?'
+p289
+tp290
+Rp291
+tp292
+a(S'conditional mutual information'
+p293
+g2
+(g6
+S'\x89\xf1\x12\xc45\x13\xdd?'
+p294
+tp295
+Rp296
+tp297
+a(S'information gain in decision trees'
+p298
+g2
+(g6
+S'\n\x04%\xff\xf5\xad\xdc?'
+p299
+tp300
+Rp301
+tp302
+a(S'information (disambiguation)'
+p303
+g2
+(g6
+S':\x12tr\x801\xdc?'
+p304
+tp305
+Rp306
+tp307
+a(S'entropy (arrow of time)'
+p308
+g2
+(g6
+S'\x14\x06o\xbd\x0b&\xdc?'
+p309
+tp310
+Rp311
+tp312
+a(S'limiting density of discrete points'
+p313
+g2
+(g6
+S'\xc5;\r\xd4\xd3\x11\xdc?'
+p314
+tp315
+Rp316
+tp317
+a(S'entropy and life'
+p318
+g2
+(g6
+S'0\xc0HD\x05\xcc\xdb?'
+p319
+tp320
+Rp321
+tp322
+a(S'linear entropy'
+p323
+g2
+(g6
+S'\xd7\xa5\x14\\~\xb4\xdb?'
+p324
+tp325
+Rp326
+tp327
+a(S'the information: a history, a theory, a flood'
+p328
+g2
+(g6
+S'\xddg\xceM\xe9\xa4\xdb?'
+p329
+tp330
+Rp331
+tp332
+a(S'beyond entropy'
+p333
+g2
+(g6
+S'\xc7$@^\xd9\x8f\xdb?'
+p334
+tp335
+Rp336
+tp337
+a(S'introduction to entropy'
+p338
+g2
+(g6
+S'$\x89\x0c\x19\x87\x8c\xdb?'
+p339
+tp340
+Rp341
+tp342
+a(S'braunstein-ghosh-severini entropy'
+p343
+g2
+(g6
+S',i\x94rM|\xdb?'
+p344
+tp345
+Rp346
+tp347
+a(S'decoding reality'
+p348
+g2
+(g6
+S'\n\xf7\xfc4Ux\xdb?'
+p349
+tp350
+Rp351
+tp352
+a(S'information history'
+p353
+g2
+(g6
+S'\x83=\x92\xb4\r4\xdb?'
+p354
+tp355
+Rp356
+tp357
+a(S'a mathematical theory of communication'
+p358
+g2
+(g6
+S'\xa8\x81\xf0\x18\xb1\xf8\xda?'
+p359
+tp360
+Rp361
+tp362
+a(S'nat (unit)'
+p363
+g2
+(g6
+S'R\x0ex\x9a\xec\xf2\xda?'
+p364
+tp365
+Rp366
+tp367
+a(S'coherent information'
+p368
+g2
+(g6
+S'\xc7\xe7D\xa3J\xc4\xda?'
+p369
+tp370
+Rp371
+tp372
+a(S'maximum entropy spectral estimation'
+p373
+g2
+(g6
+S'\x1c\x8dE\xeeXt\xda?'
+p374
+tp375
+Rp376
+tp377
+a(S'entropy (comics)'
+p378
+g2
+(g6
+S'{\xab.\x02\xed%\xda?'
+p379
+tp380
+Rp381
+tp382
+a(S'information science'
+p383
+g2
+(g6
+S'\x96\x89;.\x9e\x1a\xda?'
+p384
+tp385
+Rp386
+tp387
+a(S'standard molar entropy'
+p388
+g2
+(g6
+S'\x8dgY\xff\x92\x13\xda?'
+p389
+tp390
+Rp391
+tp392
+a(S'directed information'
+p393
+g2
+(g6
+S'\x86%7o\xbe\x03\xda?'
+p394
+tp395
+Rp396
+tp397
+a(S'wehrl entropy'
+p398
+g2
+(g6
+S'\x81\xeeh\x88\xc5\xe9\xd9?'
+p399
+tp400
+Rp401
+tp402
+a(S'communication theory'
+p403
+g2
+(g6
+S'\x8c\xde+\xab\x82\xe1\xd9?'
+p404
+tp405
+Rp406
+tp407
+a(S'gambling and information theory'
+p408
+g2
+(g6
+S'\xeeP\x9az\xf6\xde\xd9?'
+p409
+tp410
+Rp411
+tp412
+a(S'anti-information'
+p413
+g2
+(g6
+S'\x83\xc7)\x0e|\xdd\xd9?'
+p414
+tp415
+Rp416
+tp417
+a(S'fortuna (prng)'
+p418
+g2
+(g6
+S'|\xfbq\x9d`\xd5\xd9?'
+p419
+tp420
+Rp421
+tp422
+a(S'entropy production'
+p423
+g2
+(g6
+S'/El\x17\xb0\xd3\xd9?'
+p424
+tp425
+Rp426
+tp427
+a(S'quantum mutual information'
+p428
+g2
+(g6
+S'\xea_\xb2j)\x90\xd9?'
+p429
+tp430
+Rp431
+tp432
+a(S'randomness merger'
+p433
+g2
+(g6
+S'\x1c\x031(#\x90\xd9?'
+p434
+tp435
+Rp436
+tp437
+a(S'tsallis distribution'
+p438
+g2
+(g6
+S'\xcb\xc4\x90\xb1]\x8c\xd9?'
+p439
+tp440
+Rp441
+tp442
+a(S'coding theory'
+p443
+g2
+(g6
+S'\xbc\x1f@\xff\xff\x81\xd9?'
+p444
+tp445
+Rp446
+tp447
+a(S'shannon\xe2\x80\x93weaver model'
+p448
+g2
+(g6
+S'\x93ck\x8f\xa2|\xd9?'
+p449
+tp450
+Rp451
+tp452
+a(S'typical set'
+p453
+g2
+(g6
+S"\xb2\x13(B'i\xd9?"
+p454
+tp455
+Rp456
+tp457
+a(S'frank l. lambert'
+p458
+g2
+(g6
+S'\x13x\xc3\xac}_\xd9?'
+p459
+tp460
+Rp461
+tp462
+a(S"gibbs' inequality"
+p463
+g2
+(g6
+S'\xb7\xef\xca`\x8aB\xd9?'
+p464
+tp465
+Rp466
+tp467
+a(S'electronic entropy'
+p468
+g2
+(g6
+S'^F\xc1k\x8d5\xd9?'
+p469
+tp470
+Rp471
+tp472
+a(S'/dev/random'
+p473
+g2
+(g6
+S'\x1a\xd2K\x84\xc2\x02\xd9?'
+p474
+tp475
+Rp476
+tp477
+a(S'thomas m. cover'
+p478
+g2
+(g6
+S'msp\xf2\xc2\xee\xd8?'
+p479
+tp480
+Rp481
+tp482
+a(S'shannon (unit)'
+p483
+g2
+(g6
+S'\x94\x00\xcc}H\xcd\xd8?'
+p484
+tp485
+Rp486
+tp487
+a(S'monster (physics)'
+p488
+g2
+(g6
+S'"I\x90\xce\xcb\xb8\xd8?'
+p489
+tp490
+Rp491
+tp492
+a(S'information economics'
+p493
+g2
+(g6
+S'\xfa\xdc\x08\xfe\x00j\xd8?'
+p494
+tp495
+Rp496
+tp497
+a(S'masanori ohya'
+p498
+g2
+(g6
+S'k\x85\x92\x9dDA\xd8?'
+p499
+tp500
+Rp501
+tp502
+a(S'philosophy of information'
+p503
+g2
+(g6
+S'Q\xde\xf24\x1c/\xd8?'
+p504
+tp505
+Rp506
+tp507
+a(S'asymmetric numeral systems'
+p508
+g2
+(g6
+S'\xb5p\x8f\x02\x95\x14\xd8?'
+p509
+tp510
+Rp511
+tp512
+a(S"landauer's principle"
+p513
+g2
+(g6
+S'\xe9\x04\xab\xd1q\x0e\xd8?'
+p514
+tp515
+Rp516
+tp517
+a(S'volume entropy'
+p518
+g2
+(g6
+S'\xee\xaf\xfb\xbe\xfc\xf9\xd7?'
+p519
+tp520
+Rp521
+tp522
+a(S'h-theorem'
+p523
+g2
+(g6
+S'\xb7\x96az\x8d\xef\xd7?'
+p524
+tp525
+Rp526
+tp527
+a(S'allocution (media theory)'
+p528
+g2
+(g6
+S's\xa1\x15\x85\xa3\xe5\xd7?'
+p529
+tp530
+Rp531
+tp532
+a(S'information society (disambiguation)'
+p533
+g2
+(g6
+S'B\xf9\x9f\xb3\x10\xbf\xd7?'
+p534
+tp535
+Rp536
+tp537
+a(S'third law of thermodynamics'
+p538
+g2
+(g6
+S'O\xe8\xaf1\x7f\x9e\xd7?'
+p539
+tp540
+Rp541
+tp542
+a(S'information school'
+p543
+g2
+(g6
+S'\xcf\xe8\xbc?8M\xd7?'
+p544
+tp545
+Rp546
+tp547
+a(S'outline of information science'
+p548
+g2
+(g6
+S'\xa4\xda\x97\xa5\xdaA\xd7?'
+p549
+tp550
+Rp551
+tp552
+a(S'software entropy'
+p553
+g2
+(g6
+S'X\xec\x9a\xe9\xd1:\xd7?'
+p554
+tp555
+Rp556
+tp557
+a(S'entropy monitoring'
+p558
+g2
+(g6
+S'\x94\xa1&\xc2f0\xd7?'
+p559
+tp560
+Rp561
+tp562
+a(S'entropy estimation'
+p563
+g2
+(g6
+S'c\xb2c\x96\x85"\xd7?'
+p564
+tp565
+Rp566
+tp567
+a(S'information system'
+p568
+g2
+(g6
+S'\xedx\x9d\xccV \xd7?'
+p569
+tp570
+Rp571
+tp572
+a(S'channel capacity'
+p573
+g2
+(g6
+S'\x95\x86\x01\xdff\x1e\xd7?'
+p574
+tp575
+Rp576
+tp577
+a(S'clausius theorem'
+p578
+g2
+(g6
+S'\x16\x00\x98`H\x14\xd7?'
+p579
+tp580
+Rp581
+tp582
+a(S'gibbs paradox'
+p583
+g2
+(g6
+S'<\x19\x89\xec\x88\x12\xd7?'
+p584
+tp585
+Rp586
+tp587
+a(S'algorithmic information theory'
+p588
+g2
+(g6
+S'E\xeb/\x8f\xd9\t\xd7?'
+p589
+tp590
+Rp591
+tp592
+a(S'joint source and channel coding'
+p593
+g2
+(g6
+S'x.\x02\xd2\xb3\xff\xd6?'
+p594
+tp595
+Rp596
+tp597
+a(S"dudley's theorem"
+p598
+g2
+(g6
+S'w\x7f\xd6%#\xff\xd6?'
+p599
+tp600
+Rp601
+tp602
+a(S'list of information schools'
+p603
+g2
+(g6
+S'\xf0\xa2x\xe2\x11\xe5\xd6?'
+p604
+tp605
+Rp606
+tp607
+a(S'topological entropy'
+p608
+g2
+(g6
+S'\\\xa1\xaf\x1c\xf9\xb4\xd6?'
+p609
+tp610
+Rp611
+tp612
+a(S'thermomass theory'
+p613
+g2
+(g6
+S'\x84\x82+\x814\xa4\xd6?'
+p614
+tp615
+Rp616
+tp617
+a(S'entropy (energy dispersal)'
+p618
+g2
+(g6
+S'\x10\n\x7f\x9dG\xa3\xd6?'
+p619
+tp620
+Rp621
+tp622
+a(S'leftover hash lemma'
+p623
+g2
+(g6
+S'\x80\x97\xb7K\x89\x9b\xd6?'
+p624
+tp625
+Rp626
+tp627
+a(S'fisher information'
+p628
+g2
+(g6
+S'{\xb3\x9b\x8c\xac\x93\xd6?'
+p629
+tp630
+Rp631
+tp632
+a(S'information seeking behavior'
+p633
+g2
+(g6
+S'\xe5a\xbak\xc8q\xd6?'
+p634
+tp635
+Rp636
+tp637
+a(S'information management'
+p638
+g2
+(g6
+S']\xd9\xd9\xb2\xd9Y\xd6?'
+p639
+tp640
+Rp641
+tp642
+a(S'theory'
+p643
+g2
+(g6
+S'p|\xb9\x1bR6\xd6?'
+p644
+tp645
+Rp646
+tp647
+a(S'algorithmic cooling'
+p648
+g2
+(g6
+S'\xb4\x1e\xb5\xb4\xf0+\xd6?'
+p649
+tp650
+Rp651
+tp652
+a(S'graph entropy'
+p653
+g2
+(g6
+S"\xcc*\xca\x90\x12'\xd6?"
+p654
+tp655
+Rp656
+tp657
+a(S'information capital'
+p658
+g2
+(g6
+S'\xa2\x9eY\xb2\xe2\n\xd6?'
+p659
+tp660
+Rp661
+tp662
+a(S'thomas d. wilson'
+p663
+g2
+(g6
+S'\x92\xe6\x83\xcc\xd4\t\xd6?'
+p664
+tp665
+Rp666
+tp667
+a(S'strong subadditivity of quantum entropy'
+p668
+g2
+(g6
+S"v)\x9d'Y\x07\xd6?"
+p669
+tp670
+Rp671
+tp672
+a(S'information policy'
+p673
+g2
+(g6
+S'On\x89\xbb\xe9\x05\xd6?'
+p674
+tp675
+Rp676
+tp677
+a(S'pragmatic theory of information'
+p678
+g2
+(g6
+S'\xb2\xb8\x0b\x81\r\xfa\xd5?'
+p679
+tp680
+Rp681
+tp682
+a(S"boltzmann's entropy formula"
+p683
+g2
+(g6
+S"\x03'\xb04G\xf4\xd5?"
+p684
+tp685
+Rp686
+tp687
+a(S'information design'
+p688
+g2
+(g6
+S'\xf1\xe3\x97\x17\x88\xea\xd5?'
+p689
+tp690
+Rp691
+tp692
+a(S'entropy of mixing'
+p693
+g2
+(g6
+S'\xcd[\x8f\xf7g\xe6\xd5?'
+p694
+tp695
+Rp696
+tp697
+a(S'large deviations theory'
+p698
+g2
+(g6
+S'\xff\xdc\x82\xed\x91\xd9\xd5?'
+p699
+tp700
+Rp701
+tp702
+a(S'multivariate mutual information'
+p703
+g2
+(g6
+S'\x04\xc4C\xd7,\xd8\xd5?'
+p704
+tp705
+Rp706
+tp707
+a(S'information culture'
+p708
+g2
+(g6
+S'\x16F\xf6&\x8c\xcd\xd5?'
+p709
+tp710
+Rp711
+tp712
+a(S'ieee transactions on information theory'
+p713
+g2
+(g6
+S'\xb7\xbf\x97\xf1\xd3\xc8\xd5?'
+p714
+tp715
+Rp716
+tp717
+a(S'extremal principles in non-equilibrium thermodynamics'
+p718
+g2
+(g6
+S'\xbdLr\xf4<\x91\xd5?'
+p719
+tp720
+Rp721
+tp722
+a(S'interaction information'
+p723
+g2
+(g6
+S'\xd5\xa0^g\x8de\xd5?'
+p724
+tp725
+Rp726
+tp727
+a(S'shannon\xe2\x80\x93hartley theorem'
+p728
+g2
+(g6
+S'<iu]Rc\xd5?'
+p729
+tp730
+Rp731
+tp732
+a(S'black hole thermodynamics'
+p733
+g2
+(g6
+S'\xec\x87\xf8\xaa\xe5N\xd5?'
+p734
+tp735
+Rp736
+tp737
+a(S'conformational entropy'
+p738
+g2
+(g6
+S'\x93 \xf2\x8a\\J\xd5?'
+p739
+tp740
+Rp741
+tp742
+a(S'information seeking'
+p743
+g2
+(g6
+S'\x01$\x81\xf3\xc6C\xd5?'
+p744
+tp745
+Rp746
+tp747
+a(S'loop entropy'
+p748
+g2
+(g6
+S'\xac\xea\x809\xf31\xd5?'
+p749
+tp750
+Rp751
+tp752
+a(S'z-channel (information theory)'
+p753
+g2
+(g6
+S'A\x1b\xcf\x0cH,\xd5?'
+p754
+tp755
+Rp756
+tp757
+a(S'robert g. gallager'
+p758
+g2
+(g6
+S'\xd8\x95Z\\\xc5\x1e\xd5?'
+p759
+tp760
+Rp761
+tp762
+a(S'information revolution'
+p763
+g2
+(g6
+S'E\x980\x19\x0f\x0c\xd5?'
+p764
+tp765
+Rp766
+tp767
+a(S'information needs'
+p768
+g2
+(g6
+S'\xa2\x90\xb7\x03\x86\xfc\xd4?'
+p769
+tp770
+Rp771
+tp772
+a(S'second law of thermodynamics'
+p773
+g2
+(g6
+S'\xffq,-\xb4\xec\xd4?'
+p774
+tp775
+Rp776
+tp777
+a(S'slepian\xe2\x80\x93wolf coding'
+p778
+g2
+(g6
+S'\xf9+\x12xS\xeb\xd4?'
+p779
+tp780
+Rp781
+tp782
+a(S'incomplete nature'
+p783
+g2
+(g6
+S'\xc9\x13\x95 \x82\xe9\xd4?'
+p784
+tp785
+Rp786
+tp787
+a(S'entropic vector'
+p788
+g2
+(g6
+S'xZ?\x13\xa9\xda\xd4?'
+p789
+tp790
+Rp791
+tp792
+a(S'marcia j. bates'
+p793
+g2
+(g6
+S'\xd2\xe6^_B\xda\xd4?'
+p794
+tp795
+Rp796
+tp797
+a(S'free entropy'
+p798
+g2
+(g6
+S'\xe2x\x94\xcdw\xd5\xd4?'
+p799
+tp800
+Rp801
+tp802
+a(S'list of american library association accredited library schools'
+p803
+g2
+(g6
+S'3F\xf8\xe4{\xc7\xd4?'
+p804
+tp805
+Rp806
+tp807
+a(S'maximum-entropy markov model'
+p808
+g2
+(g6
+S'\xdb"\xb2\x14C\xa5\xd4?'
+p809
+tp810
+Rp811
+tp812
+a(S'sackur\xe2\x80\x93tetrode equation'
+p813
+g2
+(g6
+S'\x91\x11\xdd\x165\xa3\xd4?'
+p814
+tp815
+Rp816
+tp817
+a(S'university of michigan school of information'
+p818
+g2
+(g6
+S'\xca\xe8\xd6\x18\xfe\x9b\xd4?'
+p819
+tp820
+Rp821
+tp822
+a(S'information processing theory'
+p823
+g2
+(g6
+S'\xd1\xb3\xd0\x91\xf2\x98\xd4?'
+p824
+tp825
+Rp826
+tp827
+a(S'q-exponential distribution'
+p828
+g2
+(g6
+S'\xde\xf7\x96\xa6\xa5y\xd4?'
+p829
+tp830
+Rp831
+tp832
+a(S"loschmidt's paradox"
+p833
+g2
+(g6
+S'\xa3\xf2\xfc\x86\xc2u\xd4?'
+p834
+tp835
+Rp836
+tp837
+a(S'information excellence'
+p838
+g2
+(g6
+S'G\xf1\xe0\xd4\xaat\xd4?'
+p839
+tp840
+Rp841
+tp842
+a(S'binary erasure channel'
+p843
+g2
+(g6
+S'\x83\x84#r\x0bo\xd4?'
+p844
+tp845
+Rp846
+tp847
+a(S'information foraging'
+p848
+g2
+(g6
+S'Nm\x00\x9bA]\xd4?'
+p849
+tp850
+Rp851
+tp852
+a(S'information pollution'
+p853
+g2
+(g6
+S'=]\x95\xc0\x11U\xd4?'
+p854
+tp855
+Rp856
+tp857
+a(S'aaron d. wyner'
+p858
+g2
+(g6
+S'\x10\xdb\x08.mP\xd4?'
+p859
+tp860
+Rp861
+tp862
+a(S'generalized entropy index'
+p863
+g2
+(g6
+S'>\xc16\xdbbL\xd4?'
+p864
+tp865
+Rp866
+tp867
+a(S'error exponent'
+p868
+g2
+(g6
+S'\x97;\xf6\x91\x90C\xd4?'
+p869
+tp870
+Rp871
+tp872
+a(S'perplexity'
+p873
+g2
+(g6
+S'Dm\xd0\x9d3=\xd4?'
+p874
+tp875
+Rp876
+tp877
+a(S'rate\xe2\x80\x93distortion theory'
+p878
+g2
+(g6
+S'Z\x0f\x99\xef\xc32\xd4?'
+p879
+tp880
+Rp881
+tp882
+a(S'information flow diagram'
+p883
+g2
+(g6
+S'\x1e\xd9\xa4Av2\xd4?'
+p884
+tp885
+Rp886
+tp887
+a(S'ieee information theory society'
+p888
+g2
+(g6
+S'lH\x88\x11\xa1,\xd4?'
+p889
+tp890
+Rp891
+tp892
+a(S'jaxon modulation'
+p893
+g2
+(g6
+S'\xb9\xc4\\\xa8\x0f \xd4?'
+p894
+tp895
+Rp896
+tp897
+a(S'gibbs algorithm'
+p898
+g2
+(g6
+S'?\xb4`\xdc;\x12\xd4?'
+p899
+tp900
+Rp901
+tp902
+a(S'entropy of fusion'
+p903
+g2
+(g6
+S'Q\xe4}\xcc\xe7\x11\xd4?'
+p904
+tp905
+Rp906
+tp907
+a(S'university of arizona school of information'
+p908
+g2
+(g6
+S'\xaaQ\xd25e\x0b\xd4?'
+p909
+tp910
+Rp911
+tp912
+a(S'adjusted mutual information'
+p913
+g2
+(g6
+S'\tO]*G\x03\xd4?'
+p914
+tp915
+Rp916
+tp917
+a(S'cardy formula'
+p918
+g2
+(g6
+S'\xfcK\xd3P\x14\x00\xd4?'
+p919
+tp920
+Rp921
+tp922
+a(S'access to public information in armenia'
+p923
+g2
+(g6
+S'\xefP\xc9VH\xff\xd3?'
+p924
+tp925
+Rp926
+tp927
+a(S'total correlation'
+p928
+g2
+(g6
+S'nI\xc8\x189\xfb\xd3?'
+p929
+tp930
+Rp931
+tp932
+a(S'quantum depolarizing channel'
+p933
+g2
+(g6
+S'|*\x88y\xd0\xfa\xd3?'
+p934
+tp935
+Rp936
+tp937
+a(S'dual total correlation'
+p938
+g2
+(g6
+S'\xce\x87\xd6K\x12\xf3\xd3?'
+p939
+tp940
+Rp941
+tp942
+a(S'theory of motivated information management'
+p943
+g2
+(g6
+S'\x14\xc5\xc6\x11\x8b\xf0\xd3?'
+p944
+tp945
+Rp946
+tp947
+a(S'freedom of information laws by country'
+p948
+g2
+(g6
+S'\xf2\xc7\xb6\xcaW\xea\xd3?'
+p949
+tp950
+Rp951
+tp952
+a(S'information processor'
+p953
+g2
+(g6
+S'7o{\x0f\xeb\xe7\xd3?'
+p954
+tp955
+Rp956
+tp957
+a(S'information logistics'
+p958
+g2
+(g6
+S'/\xb4\xf2\x88\xb1\xe0\xd3?'
+p959
+tp960
+Rp961
+tp962
+a(S'bekenstein bound'
+p963
+g2
+(g6
+S'\x0e\xd4W\xd0\xf9\xdf\xd3?'
+p964
+tp965
+Rp966
+tp967
+a(S'mosaic theory (investments)'
+p968
+g2
+(g6
+S'tZ9\x9a^\xdb\xd3?'
+p969
+tp970
+Rp971
+tp972
+a(S'exformation'
+p973
+g2
+(g6
+S'{dm\xe6[\xd6\xd3?'
+p974
+tp975
+Rp976
+tp977
+a(S'claude shannon'
+p978
+g2
+(g6
+S'\xdb\x9eN\xe4\x0c\xd4\xd3?'
+p979
+tp980
+Rp981
+tp982
+a(S'information flow (disambiguation)'
+p983
+g2
+(g6
+S'\xc7p\xac\x19\x1e\xd3\xd3?'
+p984
+tp985
+Rp986
+tp987
+a(S'q-gaussian distribution'
+p988
+g2
+(g6
+S'\\\x90O\x98G\xd0\xd3?'
+p989
+tp990
+Rp991
+tp992
+a(S'hartley function'
+p993
+g2
+(g6
+S'e\xb9\x84\x1b\x82\xbc\xd3?'
+p994
+tp995
+Rp996
+tp997
+a(S'information overload'
+p998
+g2
+(g6
+S'|\xd9\x9f%|\xaf\xd3?'
+p999
+tp1000
+Rp1001
+tp1002
+a(S'information processing technology and aging'
+p1003
+g2
+(g6
+S'49\xb3K\x97\x9f\xd3?'
+p1004
+tp1005
+Rp1006
+tp1007
+a(S'key finding attacks'
+p1008
+g2
+(g6
+S'i\xc7\x0b\x13R\x9f\xd3?'
+p1009
+tp1010
+Rp1011
+tp1012
+a(S"maxwell's demon"
+p1013
+g2
+(g6
+S'5\xf5sw`\x98\xd3?'
+p1014
+tp1015
+Rp1016
+tp1017
+a(S"wilson's model of information behavior"
+p1018
+g2
+(g6
+S'\x96\xa9\x806b\x90\xd3?'
+p1019
+tp1020
+Rp1021
+tp1022
+a(S'information behavior'
+p1023
+g2
+(g6
+S'b\xa7\x00\xac\\\x8e\xd3?'
+p1024
+tp1025
+Rp1026
+tp1027
+a(S'receiver (information theory)'
+p1028
+g2
+(g6
+S'\x06L\xd2m\xf1\x85\xd3?'
+p1029
+tp1030
+Rp1031
+tp1032
+a(S'state-merging'
+p1033
+g2
+(g6
+S'#\x96q\x08y~\xd3?'
+p1034
+tp1035
+Rp1036
+tp1037
+a(S'passenger information'
+p1038
+g2
+(g6
+S'\x08\xe96\nct\xd3?'
+p1039
+tp1040
+Rp1041
+tp1042
+a(S'information filtering system'
+p1043
+g2
+(g6
+S'\x15f\x1b\xda\x84m\xd3?'
+p1044
+tp1045
+Rp1046
+tp1047
+a(S"fano's inequality"
+p1048
+g2
+(g6
+S'\xb51\xf4\xf4\x14m\xd3?'
+p1049
+tp1050
+Rp1051
+tp1052
+a(S'gold universe'
+p1053
+g2
+(g6
+S'\x7fB%\x8aQj\xd3?'
+p1054
+tp1055
+Rp1056
+tp1057
+a(S'residual entropy'
+p1058
+g2
+(g6
+S'\x9d3Lj\rf\xd3?'
+p1059
+tp1060
+Rp1061
+tp1062
+a(S'jensen\xe2\x80\x93shannon divergence'
+p1063
+g2
+(g6
+S'*\xc8\xc6\xc2\nV\xd3?'
+p1064
+tp1065
+Rp1066
+tp1067
+a(S'information sensitivity'
+p1068
+g2
+(g6
+S'\xbe\x18p`MJ\xd3?'
+p1069
+tp1070
+Rp1071
+tp1072
+a(S'uncertainty coefficient'
+p1073
+g2
+(g6
+S'\xdf\xed)\x83OH\xd3?'
+p1074
+tp1075
+Rp1076
+tp1077
+a(S'binary symmetric channel'
+p1078
+g2
+(g6
+S'\xb3g\x9b\\\xf9G\xd3?'
+p1079
+tp1080
+Rp1081
+tp1082
+a(S'toby berger'
+p1083
+g2
+(g6
+S'!\xef\xd80\x07F\xd3?'
+p1084
+tp1085
+Rp1086
+tp1087
+a(S'kenneth c. laudon'
+p1088
+g2
+(g6
+S'\xcb+\xf2\x10\xeeD\xd3?'
+p1089
+tp1090
+Rp1091
+tp1092
+a(S'open archival information system'
+p1093
+g2
+(g6
+S'\xe6J\xca\xebF7\xd3?'
+p1094
+tp1095
+Rp1096
+tp1097
+a(S'information continuum'
+p1098
+g2
+(g6
+S'fR\xe6\xd1\x07%\xd3?'
+p1099
+tp1100
+Rp1101
+tp1102
+a(S'information access'
+p1103
+g2
+(g6
+S'\xcf\x06T\x0bu#\xd3?'
+p1104
+tp1105
+Rp1106
+tp1107
+a(S'theoretical computer science'
+p1108
+g2
+(g6
+S'\xb9Zj\x82G!\xd3?'
+p1109
+tp1110
+Rp1111
+tp1112
+a(S'heat death of the universe'
+p1113
+g2
+(g6
+S'?\x93q\xb7m\x1e\xd3?'
+p1114
+tp1115
+Rp1116
+tp1117
+a(S'information gain ratio'
+p1118
+g2
+(g6
+S'\xe6\xa1\xd3\xd0\xdc\x18\xd3?'
+p1119
+tp1120
+Rp1121
+tp1122
+a(S'typical subspace'
+p1123
+g2
+(g6
+S'6RV\xbf\xc5\x00\xd3?'
+p1124
+tp1125
+Rp1126
+tp1127
+a(S'tele-information services'
+p1128
+g2
+(g6
+S'\xab\x84\xb5\x85*\x00\xd3?'
+p1129
+tp1130
+Rp1131
+tp1132
+a(S"holevo's theorem"
+p1133
+g2
+(g6
+S'1qG\x03\xab\xf4\xd2?'
+p1134
+tp1135
+Rp1136
+tp1137
+a(S'channel (communications)'
+p1138
+g2
+(g6
+S'o\xa4\xb6%\xd0\xf3\xd2?'
+p1139
+tp1140
+Rp1141
+tp1142
+a(S'evan shanks'
+p1143
+g2
+(g6
+S'Q\xa6\x8e-f\xeb\xd2?'
+p1144
+tp1145
+Rp1146
+tp1147
+a(S'asymptotic equipartition property'
+p1148
+g2
+(g6
+S'{bwG\x04\xdf\xd2?'
+p1149
+tp1150
+Rp1151
+tp1152
+a(S'list of unsolved problems in information theory'
+p1153
+g2
+(g6
+S'\x1e\r\xaf\xe4`\xde\xd2?'
+p1154
+tp1155
+Rp1156
+tp1157
+a(S'entropic uncertainty'
+p1158
+g2
+(g6
+S'\xb6\xc9\xaa\x07\xe3\xdb\xd2?'
+p1159
+tp1160
+Rp1161
+tp1162
+a(S'information quality'
+p1163
+g2
+(g6
+S'\xa7\xc4\x911\x00\xd8\xd2?'
+p1164
+tp1165
+Rp1166
+tp1167
+a(S'low-information rationality'
+p1168
+g2
+(g6
+S"\xb20'\x87\x06\xce\xd2?"
+p1169
+tp1170
+Rp1171
+tp1172
+a(S'comprehensive model of information seeking'
+p1173
+g2
+(g6
+S'q\xefz\xa03\xcb\xd2?'
+p1174
+tp1175
+Rp1176
+tp1177
+a(S'information cycle'
+p1178
+g2
+(g6
+S'\x92\x0c\x97qW\xc1\xd2?'
+p1179
+tp1180
+Rp1181
+tp1182
+a(S'information good'
+p1183
+g2
+(g6
+S'\xe6M\x96+\x14\xc0\xd2?'
+p1184
+tp1185
+Rp1186
+tp1187
+a(S'partition function (mathematics)'
+p1188
+g2
+(g6
+S'\x19<\x8d\xb3\x11\xae\xd2?'
+p1189
+tp1190
+Rp1191
+tp1192
+a(S'information security'
+p1193
+g2
+(g6
+S'\xd1"\xdap$\xac\xd2?'
+p1194
+tp1195
+Rp1196
+tp1197
+a(S'information flow (information theory)'
+p1198
+g2
+(g6
+S'A\\\xed\x08#\xa5\xd2?'
+p1199
+tp1200
+Rp1201
+tp1202
+a(S'ministry of information'
+p1203
+g2
+(g6
+S'j\x04\xd5.\r\xa1\xd2?'
+p1204
+tp1205
+Rp1206
+tp1207
+a(S'information strategist'
+p1208
+g2
+(g6
+S'sa+\x83H\x9d\xd2?'
+p1209
+tp1210
+Rp1211
+tp1212
+a(S'bit'
+p1213
+g2
+(g6
+S'(\xd2v\xe7\x8f\x9a\xd2?'
+p1214
+tp1215
+Rp1216
+tp1217
+a(S'coding'
+p1218
+g2
+(g6
+S'!-\xe1D\xe4\x97\xd2?'
+p1219
+tp1220
+Rp1221
+tp1222
+a(S'dual-coding theory'
+p1223
+g2
+(g6
+S'=D\xe5\xf6\xce\x94\xd2?'
+p1224
+tp1225
+Rp1226
+tp1227
+a(S'information professional'
+p1228
+g2
+(g6
+S'\xbf\x9a>\x14F\x93\xd2?'
+p1229
+tp1230
+Rp1231
+tp1232
+a(S'for official use only'
+p1233
+g2
+(g6
+S"\x16\x81'\xd5\xa6\x90\xd2?"
+p1234
+tp1235
+Rp1236
+tp1237
+a(S'sample entropy'
+p1238
+g2
+(g6
+S'\xd4!\x99j\x0c\x90\xd2?'
+p1239
+tp1240
+Rp1241
+tp1242
+a(S'information-theoretic security'
+p1243
+g2
+(g6
+S'\x1fR\x01y.\x8e\xd2?'
+p1244
+tp1245
+Rp1246
+tp1247
+a(S'shannon coding'
+p1248
+g2
+(g6
+S'Cq-*\x94\x8c\xd2?'
+p1249
+tp1250
+Rp1251
+tp1252
+a(S'erik verlinde'
+p1253
+g2
+(g6
+S'\xbai\x98p\x89\x8c\xd2?'
+p1254
+tp1255
+Rp1256
+tp1257
+a(S'information mapping'
+p1258
+g2
+(g6
+S'\xbd\xf9@\x80\x13}\xd2?'
+p1259
+tp1260
+Rp1261
+tp1262
+a(S'string theory'
+p1263
+g2
+(g6
+S'\xce\r\xa5`\xd0{\xd2?'
+p1264
+tp1265
+Rp1266
+tp1267
+a(S'quantum statistical mechanics'
+p1268
+g2
+(g6
+S'8\x82\x954\x01{\xd2?'
+p1269
+tp1270
+Rp1271
+tp1272
+a(S'access to public information in europe'
+p1273
+g2
+(g6
+S'\xfb\x9d\x0b_nw\xd2?'
+p1274
+tp1275
+Rp1276
+tp1277
+a(S'a.j. han vinck'
+p1278
+g2
+(g6
+S'&\x98\xe4\xbd\xd5t\xd2?'
+p1279
+tp1280
+Rp1281
+tp1282
+a(S'information minister'
+p1283
+g2
+(g6
+S'J\x80\x8f[\x9cq\xd2?'
+p1284
+tp1285
+Rp1286
+tp1287
+a(S'field theory'
+p1288
+g2
+(g6
+S'a\xc6efYn\xd2?'
+p1289
+tp1290
+Rp1291
+tp1292
+a(S'university of texas at austin school of information'
+p1293
+g2
+(g6
+S'=\x84P-Em\xd2?'
+p1294
+tp1295
+Rp1296
+tp1297
+a(S'information literacy'
+p1298
+g2
+(g6
+S'\x8b\xa6\x07\xed7i\xd2?'
+p1299
+tp1300
+Rp1301
+tp1302
+a(S'principle of maximum caliber'
+p1303
+g2
+(g6
+S'\x8d\xdf\x1f\xdc\xdcX\xd2?'
+p1304
+tp1305
+Rp1306
+tp1307
+a(S'jannis kallinikos'
+p1308
+g2
+(g6
+S'zk\xc9sjN\xd2?'
+p1309
+tp1310
+Rp1311
+tp1312
+a(S'entanglement-assisted classical capacity'
+p1313
+g2
+(g6
+S'\xda\xc7\xb0dC=\xd2?'
+p1314
+tp1315
+Rp1316
+tp1317
+a(S'information development'
+p1318
+g2
+(g6
+S'\xd7l^_\xcd"\xd2?'
+p1319
+tp1320
+Rp1321
+tp1322
+a(S'additive white gaussian noise'
+p1323
+g2
+(g6
+S't\xcb-Z\xd9 \xd2?'
+p1324
+tp1325
+Rp1326
+tp1327
+a(S'university of wisconsin\xe2\x80\x93milwaukee school of information studies'
+p1328
+g2
+(g6
+S'}\x806\xb2\x8b\x1d\xd2?'
+p1329
+tp1330
+Rp1331
+tp1332
+a(S'information transfer'
+p1333
+g2
+(g6
+S'\x02;\xef\xb7\x11\x1a\xd2?'
+p1334
+tp1335
+Rp1336
+tp1337
+a(S'iran workshop on communication and information theory'
+p1338
+g2
+(g6
+S'\xb0\xf8\x05\xe7e\x19\xd2?'
+p1339
+tp1340
+Rp1341
+tp1342
+a(S'quantum information'
+p1343
+g2
+(g6
+S'\xad\xc9\x0b7\x1c\x19\xd2?'
+p1344
+tp1345
+Rp1346
+tp1347
+a(S'ehrenfest equations'
+p1348
+g2
+(g6
+S'\n\x1e\x95j\t\x19\xd2?'
+p1349
+tp1350
+Rp1351
+tp1352
+a(S'david slepian'
+p1353
+g2
+(g6
+S'\x19\x9b\x15\x9d\xa0\x16\xd2?'
+p1354
+tp1355
+Rp1356
+tp1357
+a(S'information commissioner'
+p1358
+g2
+(g6
+S'\x99:\xbaQ\xb0\x11\xd2?'
+p1359
+tp1360
+Rp1361
+tp1362
+a(S'information market'
+p1363
+g2
+(g6
+S'\x87\xf9\x9e8\xa1\xfa\xd1?'
+p1364
+tp1365
+Rp1366
+tp1367
+a(S'information algebra'
+p1368
+g2
+(g6
+S'a\x8a\x7f\xae\x17\xf7\xd1?'
+p1369
+tp1370
+Rp1371
+tp1372
+a(S'timeline of information theory'
+p1373
+g2
+(g6
+S'\x7fw\xec\xca1\xf0\xd1?'
+p1374
+tp1375
+Rp1376
+tp1377
+a(S'inforg'
+p1378
+g2
+(g6
+S's\x9d\xc9\xd0i\xef\xd1?'
+p1379
+tp1380
+Rp1381
+tp1382
+a(S'entropy of activation'
+p1383
+g2
+(g6
+S'E\xacx6f\xeb\xd1?'
+p1384
+tp1385
+Rp1386
+tp1387
+a(S'paula nascimento'
+p1388
+g2
+(g6
+S'\xa0\xd0\x96\x8d\x84\xe3\xd1?'
+p1389
+tp1390
+Rp1391
+tp1392
+a(S'jacob wolfowitz'
+p1393
+g2
+(g6
+S'\\\xb5\xfd\xa1\xe1\xe0\xd1?'
+p1394
+tp1395
+Rp1396
+tp1397
+a(S'quantum thermodynamics'
+p1398
+g2
+(g6
+S'\xd5JP\xac\x06\xd8\xd1?'
+p1399
+tp1400
+Rp1401
+tp1402
+a(S'onsager reciprocal relations'
+p1403
+g2
+(g6
+S'\xc5\x15\xa7\xe3*\xcb\xd1?'
+p1404
+tp1405
+Rp1406
+tp1407
+a(S'hidden profile'
+p1408
+g2
+(g6
+S'V\xbb\x86\xa6\xfb\xc1\xd1?'
+p1409
+tp1410
+Rp1411
+tp1412
+a(S'access to public information in moldova'
+p1413
+g2
+(g6
+S'\x0b\xbc\x13q\x83\xc1\xd1?'
+p1414
+tp1415
+Rp1416
+tp1417
+a(S'freedom of information act 2000'
+p1418
+g2
+(g6
+S'\x81\xa3\x98\x89\xe3\xc0\xd1?'
+p1419
+tp1420
+Rp1421
+tp1422
+a(S'information industry'
+p1423
+g2
+(g6
+S'\xb5\xc7\xcb3r\xbf\xd1?'
+p1424
+tp1425
+Rp1426
+tp1427
+a(S'theory (disambiguation)'
+p1428
+g2
+(g6
+S'\xe8\xfd\xc0\xf3|\xbb\xd1?'
+p1429
+tp1430
+Rp1431
+tp1432
+a(S'chrisanthi avgerou'
+p1433
+g2
+(g6
+S'\x8c\xe8|c\xd4\xba\xd1?'
+p1434
+tp1435
+Rp1436
+tp1437
+a(S'hubert yockey'
+p1438
+g2
+(g6
+S'y\x81\x98\xbe\xdb\xb7\xd1?'
+p1439
+tp1440
+Rp1441
+tp1442
+a(S'participatory information services'
+p1443
+g2
+(g6
+S'\xb5\xfb\xe2\xa6\xeb\xa9\xd1?'
+p1444
+tp1445
+Rp1446
+tp1447
+a(S'information exchange'
+p1448
+g2
+(g6
+S'\xcf"xaD\xa9\xd1?'
+p1449
+tp1450
+Rp1451
+tp1452
+a(S'list of types of systems theory'
+p1453
+g2
+(g6
+S'b\x1e:\r\xe8\xa7\xd1?'
+p1454
+tp1455
+Rp1456
+tp1457
+a(S'code rate'
+p1458
+g2
+(g6
+S'\x02c\x91\xbc\xee\xa3\xd1?'
+p1459
+tp1460
+Rp1461
+tp1462
+a(S'information inequality'
+p1463
+g2
+(g6
+S'e\x1f\x91"8\xa1\xd1?'
+p1464
+tp1465
+Rp1466
+tp1467
+a(S'social entropy'
+p1468
+g2
+(g6
+S'\xbb\x02\x17\x94\x8c\xa0\xd1?'
+p1469
+tp1470
+Rp1471
+tp1472
+a(S'information warfare'
+p1473
+g2
+(g6
+S'\xb4\xb2x\xd8\x95\x9c\xd1?'
+p1474
+tp1475
+Rp1476
+tp1477
+a(S'information age'
+p1478
+g2
+(g6
+S'F\xd1\xfa\x88"\x99\xd1?'
+p1479
+tp1480
+Rp1481
+tp1482
+a(S'organizational information theory'
+p1483
+g2
+(g6
+S'\xd0\x0b\xeak\x93\x95\xd1?'
+p1484
+tp1485
+Rp1486
+tp1487
+a(S'the entropy influence conjecture'
+p1488
+g2
+(g6
+S'\xc6\xf8\xa5\xbbR\x92\xd1?'
+p1489
+tp1490
+Rp1491
+tp1492
+a(S'infonomics'
+p1493
+g2
+(g6
+S'\xec\x8dL\x05\xd0\x8c\xd1?'
+p1494
+tp1495
+Rp1496
+tp1497
+a(S'theory (mathematical logic)'
+p1498
+g2
+(g6
+S'v\xf3P\xd1\xfd\x85\xd1?'
+p1499
+tp1500
+Rp1501
+tp1502
+a(S'entropy (journal)'
+p1503
+g2
+(g6
+S'\xd85\x94!\xaa\x85\xd1?'
+p1504
+tp1505
+Rp1506
+tp1507
+a(S'set theory'
+p1508
+g2
+(g6
+S'\xdfG{?\xf4r\xd1?'
+p1509
+tp1510
+Rp1511
+tp1512
+a.

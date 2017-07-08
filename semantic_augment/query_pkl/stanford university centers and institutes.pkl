@@ -1,0 +1,2728 @@
+(lp0
+(S'stanford university centers and institutes'
+p1
+cnumpy.core.multiarray
+scalar
+p2
+(cnumpy
+dtype
+p3
+(S'f8'
+p4
+I0
+I1
+tp5
+Rp6
+(I3
+S'<'
+p7
+NNNI-1
+I-1
+I0
+tp8
+bS'\x04\x00\x00\x00\x00\x00\xf0?'
+p9
+tp10
+Rp11
+tp12
+a(S'stanford university'
+p13
+g2
+(g6
+S'\xb5h\xcfT,\xa3\xe5?'
+p14
+tp15
+Rp16
+tp17
+a(S'stanford (disambiguation)'
+p18
+g2
+(g6
+S'\x82\xd0\xbe\x0bH&\xe4?'
+p19
+tp20
+Rp21
+tp22
+a(S'stanford (name)'
+p23
+g2
+(g6
+S'\xd6\xd1\x87;\xa3\x1c\xe4?'
+p24
+tp25
+Rp26
+tp27
+a(S'history of stanford university'
+p28
+g2
+(g6
+S'<\xc4]\x1c\x86\x0f\xe4?'
+p29
+tp30
+Rp31
+tp32
+a(S'stanford in popular culture'
+p33
+g2
+(g6
+S'H\xfcB\xf8\xb5y\xe3?'
+p34
+tp35
+Rp36
+tp37
+a(S'john stanford'
+p38
+g2
+(g6
+S'\x07\x1d\x10\xb8\xde\xef\xe2?'
+p39
+tp40
+Rp41
+tp42
+a(S'stanford field'
+p43
+g2
+(g6
+S'\xc89\xf9\xe2\xaa\xc9\xe2?'
+p44
+tp45
+Rp46
+tp47
+a(S'1905 stanford football team'
+p48
+g2
+(g6
+S'?\xdf\x11\xd4\xe0\xad\xe2?'
+p49
+tp50
+Rp51
+tp52
+a(S'bill walsh legacy game'
+p53
+g2
+(g6
+S"\xf4'y;\xda\xa1\xe2?"
+p54
+tp55
+Rp56
+tp57
+a(S'allen stanford'
+p58
+g2
+(g6
+S'w\xaf\x047\xb5\\\xe2?'
+p59
+tp60
+Rp61
+tp62
+a(S'charles villiers stanford'
+p63
+g2
+(g6
+S'k\xd0\x00\xddhI\xe2?'
+p64
+tp65
+Rp66
+tp67
+a(S'stanford financial group'
+p68
+g2
+(g6
+S'\x83+x3!\xe1\xe1?'
+p69
+tp70
+Rp71
+tp72
+a(S'1960 stanford indians football team'
+p73
+g2
+(g6
+S'\xd1%\x1e\x1b\xf9\xdb\xe1?'
+p74
+tp75
+Rp76
+tp77
+a(S'1925 stanford football team'
+p78
+g2
+(g6
+S'4\xb0-9A\xcc\xe1?'
+p79
+tp80
+Rp81
+tp82
+a(S'leland stanford'
+p83
+g2
+(g6
+S'\xf2\xacY\xeb\x84\xc2\xe1?'
+p84
+tp85
+Rp86
+tp87
+a(S'frank stanford'
+p88
+g2
+(g6
+S'\n\rz\x8eP\xba\xe1?'
+p89
+tp90
+Rp91
+tp92
+a(S'stanford center for design research'
+p93
+g2
+(g6
+S'c\xcb\xf148\xb9\xe1?'
+p94
+tp95
+Rp96
+tp97
+a(S'stanford woods institute for the environment'
+p98
+g2
+(g6
+S'\xd0\xb8Z\t\xda\xa9\xe1?'
+p99
+tp100
+Rp101
+tp102
+a(S'daniel okimoto'
+p103
+g2
+(g6
+S'Fq\x1b\x1c\n\x89\xe1?'
+p104
+tp105
+Rp106
+tp107
+a(S'wallace sterling'
+p108
+g2
+(g6
+S'\xe7v\xfe\xb8\xb6]\xe1?'
+p109
+tp110
+Rp111
+tp112
+a(S'1921 stanford football team'
+p113
+g2
+(g6
+S'\xae\x98\x97\x93\x08T\xe1?'
+p114
+tp115
+Rp116
+tp117
+a(S'john stanford (general)'
+p118
+g2
+(g6
+S'\x05^*6\x9a7\xe1?'
+p119
+tp120
+Rp121
+tp122
+a(S'stanford online'
+p123
+g2
+(g6
+S')v\x90Ch"\xe1?'
+p124
+tp125
+Rp126
+tp127
+a(S'hasso plattner institute of design'
+p128
+g2
+(g6
+S'3\xe4\xe3\x0eR"\xe1?'
+p129
+tp130
+Rp131
+tp132
+a(S'stanford raagapella'
+p133
+g2
+(g6
+S'Q&\x86\xbb\x93\x18\xe1?'
+p134
+tp135
+Rp136
+tp137
+a(S'1929 stanford football team'
+p138
+g2
+(g6
+S'!\xa6\xcf\x8a[\xfe\xe0?'
+p139
+tp140
+Rp141
+tp142
+a(S'stanford, western cape'
+p143
+g2
+(g6
+S'\xb2\xee \x8b\xf2\xfb\xe0?'
+p144
+tp145
+Rp146
+tp147
+a(S'stanford health care'
+p148
+g2
+(g6
+S'\xe1\xf8\xbe\x0e-\xa3\xe0?'
+p149
+tp150
+Rp151
+tp152
+a(S'1919 stanford football team'
+p153
+g2
+(g6
+S'b\x99\xe7\xd5\xa0U\xe0?'
+p154
+tp155
+Rp156
+tp157
+a(S'1927 stanford football team'
+p158
+g2
+(g6
+S'&\xc9\xe6\xf7\xd73\xe0?'
+p159
+tp160
+Rp161
+tp162
+a(S'1930 stanford football team'
+p163
+g2
+(g6
+S'\x83-\x04\xd9\xe3 \xe0?'
+p164
+tp165
+Rp166
+tp167
+a(S'1983 stanford cardinal football team'
+p168
+g2
+(g6
+S'\xb6\xde\x95\xb8\xb1\x08\xe0?'
+p169
+tp170
+Rp171
+tp172
+a(S'1924 stanford football team'
+p173
+g2
+(g6
+S'\xff\x80\xc6\xd9\xfe\x02\xe0?'
+p174
+tp175
+Rp176
+tp177
+a(S'john c. mitchell'
+p178
+g2
+(g6
+S'p\xf2\x0f\x99\xab\xec\xdf?'
+p179
+tp180
+Rp181
+tp182
+a(S'knowledge systems laboratory'
+p183
+g2
+(g6
+S'V\xe6\xdd\xb9E\xe4\xdf?'
+p184
+tp185
+Rp186
+tp187
+a(S'1899 stanford football team'
+p188
+g2
+(g6
+S'\xe1\x13`\x86*\xd6\xdf?'
+p189
+tp190
+Rp191
+tp192
+a(S'1928 stanford football team'
+p193
+g2
+(g6
+S'\xaf\x1a3\xb1x\xc8\xdf?'
+p194
+tp195
+Rp196
+tp197
+a(S'1894 stanford football team'
+p198
+g2
+(g6
+S'\x15U\xb7`\xcf\xc7\xdf?'
+p199
+tp200
+Rp201
+tp202
+a(S'1904 stanford football team'
+p203
+g2
+(g6
+S'\xfet\x088\xb2\xc6\xdf?'
+p204
+tp205
+Rp206
+tp207
+a(S'stanford university medical center'
+p208
+g2
+(g6
+S'\xfb2\xdc"&\xad\xdf?'
+p209
+tp210
+Rp211
+tp212
+a(S'1922 stanford football team'
+p213
+g2
+(g6
+S'\xcf\x1a\x842`\xa7\xdf?'
+p214
+tp215
+Rp216
+tp217
+a(S'stanford art spaces'
+p218
+g2
+(g6
+S'\xcb_\xd3\xf9c\x99\xdf?'
+p219
+tp220
+Rp221
+tp222
+a(S'jason stanford (consultant)'
+p223
+g2
+(g6
+S'\xc5\xc1f_~\x8a\xdf?'
+p224
+tp225
+Rp226
+tp227
+a(S'education program for gifted youth'
+p228
+g2
+(g6
+S'\x14t5.\xa8x\xdf?'
+p229
+tp230
+Rp231
+tp232
+a(S'richard stanford'
+p233
+g2
+(g6
+S'.\xd1Y\xd1QO\xdf?'
+p234
+tp235
+Rp236
+tp237
+a(S'william stanford'
+p238
+g2
+(g6
+S'\x8b@k\xdcLJ\xdf?'
+p239
+tp240
+Rp241
+tp242
+a(S'stanford university school of medicine'
+p243
+g2
+(g6
+S'\xad\xa4~Q\x87H\xdf?'
+p244
+tp245
+Rp246
+tp247
+a(S'stanford university school of earth, energy & environmental sciences'
+p248
+g2
+(g6
+S'\x89\xa2\xcdC\xd1!\xdf?'
+p249
+tp250
+Rp251
+tp252
+a(S'mikaela ruef'
+p253
+g2
+(g6
+S'\xb8\xbc\xaa\xd6\xcb!\xdf?'
+p254
+tp255
+Rp256
+tp257
+a(S'leland stanford jr.'
+p258
+g2
+(g6
+S'\xc4\xa1\x98m\xbb\x10\xdf?'
+p259
+tp260
+Rp261
+tp262
+a(S'1926 stanford football team'
+p263
+g2
+(g6
+S'\xa4vc\x8d\x95\x0f\xdf?'
+p264
+tp265
+Rp266
+tp267
+a(S'1954 stanford indians football team'
+p268
+g2
+(g6
+S' l$\x95\xad\t\xdf?'
+p269
+tp270
+Rp271
+tp272
+a(S'stanford institutes of medicine summer research program (simr)'
+p273
+g2
+(g6
+S'\xbeq:\xd9\xce\x05\xdf?'
+p274
+tp275
+Rp276
+tp277
+a(S'1936 stanford indians football team'
+p278
+g2
+(g6
+S'\\*\x06\xcc\xc0\xd1\xde?'
+p279
+tp280
+Rp281
+tp282
+a(S'jane stanford'
+p283
+g2
+(g6
+S'\x9a\xad\xab\xbe\xdd\xb1\xde?'
+p284
+tp285
+Rp286
+tp287
+a(S'thomas welton stanford'
+p288
+g2
+(g6
+S'RM\xa4\x94\xc1y\xde?'
+p289
+tp290
+Rp291
+tp292
+a(S'arthur bienenstock'
+p293
+g2
+(g6
+S'\xd2XkfQ_\xde?'
+p294
+tp295
+Rp296
+tp297
+a(S'1938 stanford indians football team'
+p298
+g2
+(g6
+S'\xc6\t\x82\x84\nJ\xde?'
+p299
+tp300
+Rp301
+tp302
+a(S'\xc5\x9eebnem kimyac\xc4\xb1o\xc4\x9flu'
+p303
+g2
+(g6
+S'\xa3U\x8d\xf6\xa6?\xde?'
+p304
+tp305
+Rp306
+tp307
+a(S'1947 stanford indians football team'
+p308
+g2
+(g6
+S'\xce\x9d\x11\xc5\x0e9\xde?'
+p309
+tp310
+Rp311
+tp312
+a(S'leslie p. hume'
+p313
+g2
+(g6
+S'\x94\xb3\xa6x\x92,\xde?'
+p314
+tp315
+Rp316
+tp317
+a(S'persis drell'
+p318
+g2
+(g6
+S'\x98\x1c\xafe\x8b \xde?'
+p319
+tp320
+Rp321
+tp322
+a(S'gerhard casper'
+p323
+g2
+(g6
+S'\x91\x83\x05\x14\xdd\x11\xde?'
+p324
+tp325
+Rp326
+tp327
+a(S'mount stanford'
+p328
+g2
+(g6
+S'4\xddD\x14.\x10\xde?'
+p329
+tp330
+Rp331
+tp332
+a(S'stanford entrepreneurship corner'
+p333
+g2
+(g6
+S'\x99\xb1\x08\x1ai\x04\xde?'
+p334
+tp335
+Rp336
+tp337
+a(S'1958 stanford indians football team'
+p338
+g2
+(g6
+S'\x99]\xc6\xbd\xed\xfb\xdd?'
+p339
+tp340
+Rp341
+tp342
+a(S'1895 stanford football team'
+p343
+g2
+(g6
+S'\xbd\x03>\x12\x0e\xf9\xdd?'
+p344
+tp345
+Rp346
+tp347
+a(S'rawghlie clement stanford'
+p348
+g2
+(g6
+S'X-\x10Q?\xf8\xdd?'
+p349
+tp350
+Rp351
+tp352
+a(S'1906\xe2\x80\x9317 stanford rugby teams'
+p353
+g2
+(g6
+S'\xa2Z\xb9l\x9d\xf3\xdd?'
+p354
+tp355
+Rp356
+tp357
+a(S"ncaa division i women's tennis championship"
+p358
+g2
+(g6
+S'\x1b\x13\xc1\x1f\x1d\x9d\xdd?'
+p359
+tp360
+Rp361
+tp362
+a(S'2005 stanford cardinal football team'
+p363
+g2
+(g6
+S'\x0f\x03\x02\xa1k\x86\xdd?'
+p364
+tp365
+Rp366
+tp367
+a(S'stanford cardinal football'
+p368
+g2
+(g6
+S'\xdc\x9f-\x84\x8by\xdd?'
+p369
+tp370
+Rp371
+tp372
+a(S'stanford university press'
+p373
+g2
+(g6
+S'V\xcc#\xc4\xe9?\xdd?'
+p374
+tp375
+Rp376
+tp377
+a(S'jason palumbis'
+p378
+g2
+(g6
+S'\x07R\x14\r$=\xdd?'
+p379
+tp380
+Rp381
+tp382
+a(S'stanford federal credit union'
+p383
+g2
+(g6
+S'\x10\xe2\xe8\x8bf\x1a\xdd?'
+p384
+tp385
+Rp386
+tp387
+a(S'1892 stanford football team'
+p388
+g2
+(g6
+S'\x8a\x1ci\xfa\xd1\n\xdd?'
+p389
+tp390
+Rp391
+tp392
+a(S'tom wasow'
+p393
+g2
+(g6
+S':Y\x16\xbbO\xf5\xdc?'
+p394
+tp395
+Rp396
+tp397
+a(S'caroline winterer'
+p398
+g2
+(g6
+S'\xbbc\x1ei\x07\xd5\xdc?'
+p399
+tp400
+Rp401
+tp402
+a(S'john frederick stanford'
+p403
+g2
+(g6
+S'r\x0bl#\xc7\xcf\xdc?'
+p404
+tp405
+Rp406
+tp407
+a(S'stanford research park'
+p408
+g2
+(g6
+S'\xdf\x05\xcfy\x13\xad\xdc?'
+p409
+tp410
+Rp411
+tp412
+a(S'1931 stanford indians football team'
+p413
+g2
+(g6
+S'\xc1\xef)7G\xa7\xdc?'
+p414
+tp415
+Rp416
+tp417
+a(S'frederick terman'
+p418
+g2
+(g6
+S'\xad<\xe6\xb7\x8e\xa5\xdc?'
+p419
+tp420
+Rp421
+tp422
+a(S'stanford super series'
+p423
+g2
+(g6
+S'\x0fGo\x02\xc7\x9d\xdc?'
+p424
+tp425
+Rp426
+tp427
+a(S'startx'
+p428
+g2
+(g6
+S'&\xec8\xfb\n\x97\xdc?'
+p429
+tp430
+Rp431
+tp432
+a(S"1941\xe2\x80\x9342 stanford indians men's basketball team"
+p433
+g2
+(g6
+S'\xc2\t4U\xc5~\xdc?'
+p434
+tp435
+Rp436
+tp437
+a(S'dean roden chapman'
+p438
+g2
+(g6
+S'\xee\xb4\xa0F\x1co\xdc?'
+p439
+tp440
+Rp441
+tp442
+a(S'stanford, kent'
+p443
+g2
+(g6
+S'8\xf0\x02D\x80d\xdc?'
+p444
+tp445
+Rp446
+tp447
+a(S"it wasn't a dream, it was a flood"
+p448
+g2
+(g6
+S'\xc8$\x9b\x89\xb4M\xdc?'
+p449
+tp450
+Rp451
+tp452
+a(S'1980 stanford cardinals football team'
+p453
+g2
+(g6
+S'\xae\xb6zelM\xdc?'
+p454
+tp455
+Rp456
+tp457
+a(S"2001 ncaa division i women's volleyball tournament"
+p458
+g2
+(g6
+S'Db\xcb\xa7!\x17\xdc?'
+p459
+tp460
+Rp461
+tp462
+a(S'chungnam national university'
+p463
+g2
+(g6
+S'\x1a\x7f\xe0\xcaJ\x02\xdc?'
+p464
+tp465
+Rp466
+tp467
+a(S'stanford memorial church'
+p468
+g2
+(g6
+S'\xd9BGf\xe1\xff\xdb?'
+p469
+tp470
+Rp471
+tp472
+a(S'donald tresidder'
+p473
+g2
+(g6
+S'\x95\x13@\xa3!\xee\xdb?'
+p474
+tp475
+Rp476
+tp477
+a(S'jonathan levin (economist)'
+p478
+g2
+(g6
+S'\xba\x84\xa5\x99{\xdf\xdb?'
+p479
+tp480
+Rp481
+tp482
+a(S'dickie stanford'
+p483
+g2
+(g6
+S'\xdbQ\nl<\xaf\xdb?'
+p484
+tp485
+Rp486
+tp487
+a(S'nicholas bloom'
+p488
+g2
+(g6
+S'\xa0\x90\x15\xd7\xf3\xa1\xdb?'
+p489
+tp490
+Rp491
+tp492
+a(S'stanford, california'
+p493
+g2
+(g6
+S'\xc2\x1cn\x80o\xa0\xdb?'
+p494
+tp495
+Rp496
+tp497
+a(S'mariann byerwalter'
+p498
+g2
+(g6
+S'$\xc3\xb3\x19m\x85\xdb?'
+p499
+tp500
+Rp501
+tp502
+a(S'1946 stanford indians football team'
+p503
+g2
+(g6
+S'\xee\x8b\xc9ra\x84\xdb?'
+p504
+tp505
+Rp506
+tp507
+a(S'mehran sahami'
+p508
+g2
+(g6
+S'\x07\xadLsw\x81\xdb?'
+p509
+tp510
+Rp511
+tp512
+a(S'jason stanford (baseball)'
+p513
+g2
+(g6
+S'iFa\xa7\x02Y\xdb?'
+p514
+tp515
+Rp516
+tp517
+a(S'1893 stanford football team'
+p518
+g2
+(g6
+S'\xfa \x17\x02\x929\xdb?'
+p519
+tp520
+Rp521
+tp522
+a(S'hugh de stanford'
+p523
+g2
+(g6
+S'|t\xa0\x82\xc9-\xdb?'
+p524
+tp525
+Rp526
+tp527
+a(S'1937 stanford indians football team'
+p528
+g2
+(g6
+S'\x1c\xa6f\x8fJ,\xdb?'
+p529
+tp530
+Rp531
+tp532
+a(S'list of members of the national academy of sciences (psychology)'
+p533
+g2
+(g6
+S'\x93\xcb\x94K\xc5\x1a\xdb?'
+p534
+tp535
+Rp536
+tp537
+a(S'terry winograd'
+p538
+g2
+(g6
+S'\xa3\xbfr\xc4\xa8\x19\xdb?'
+p539
+tp540
+Rp541
+tp542
+a(S'stanford law school'
+p543
+g2
+(g6
+S'\xbba\xbf\x85\x03\x11\xdb?'
+p544
+tp545
+Rp546
+tp547
+a(S'2006 stanford cardinal football team'
+p548
+g2
+(g6
+S'dO.J\xfc\x07\xdb?'
+p549
+tp550
+Rp551
+tp552
+a(S'james f. lanagan'
+p553
+g2
+(g6
+S'\xb8\xfa\x1dm+\x06\xdb?'
+p554
+tp555
+Rp556
+tp557
+a(S'list of stanford cardinal bowl games'
+p558
+g2
+(g6
+S't\xd3\x08\x0f)\xec\xda?'
+p559
+tp560
+Rp561
+tp562
+a(S'jonathan berek'
+p563
+g2
+(g6
+S'\x1aWt%\x8d\xe4\xda?'
+p564
+tp565
+Rp566
+tp567
+a(S'big game (american football)'
+p568
+g2
+(g6
+S'c\xef,\xcc\xd7\xe2\xda?'
+p569
+tp570
+Rp571
+tp572
+a(S'james m. davis'
+p573
+g2
+(g6
+S'\xcaM\xe0\xfc=\xde\xda?'
+p574
+tp575
+Rp576
+tp577
+a(S'richard stanford (sussex cricketer)'
+p578
+g2
+(g6
+S'\x1ei:2\xd0\xd7\xda?'
+p579
+tp580
+Rp581
+tp582
+a(S'charles a. holloway'
+p583
+g2
+(g6
+S'MS\xa6m\x07\xd1\xda?'
+p584
+tp585
+Rp586
+tp587
+a(S'stanford wong flunks big-time'
+p588
+g2
+(g6
+S'\xa3\x04\xc2\xdf{\xb2\xda?'
+p589
+tp590
+Rp591
+tp592
+a(S'cecilia burciaga'
+p593
+g2
+(g6
+S'\xd7\xb3\xfeDp\xb2\xda?'
+p594
+tp595
+Rp596
+tp597
+a(S'the stanford daily'
+p598
+g2
+(g6
+S'\x98z\x01\xe2\xa7\xa9\xda?'
+p599
+tp600
+Rp601
+tp602
+a(S'1941 stanford indians football team'
+p603
+g2
+(g6
+S'\xc8\x06\xda\xf6\xa0\x92\xda?'
+p604
+tp605
+Rp606
+tp607
+a(S'center for environmental science and policy'
+p608
+g2
+(g6
+S'\x9bp\xebT\x1eo\xda?'
+p609
+tp610
+Rp611
+tp612
+a(S'donald kennedy'
+p613
+g2
+(g6
+S'f\xee\x0c##2\xda?'
+p614
+tp615
+Rp616
+tp617
+a(S'stanford center for computers and the law'
+p618
+g2
+(g6
+S'\xf0\x11\xfa\x11\xb9,\xda?'
+p619
+tp620
+Rp621
+tp622
+a(S'paul stanford'
+p623
+g2
+(g6
+S'\xfc\t\x86\x97\xe4*\xda?'
+p624
+tp625
+Rp626
+tp627
+a(S'1935 stanford indians football team'
+p628
+g2
+(g6
+S'\xa1s\xe2\xa7\x97\x1d\xda?'
+p629
+tp630
+Rp631
+tp632
+a(S'john ioannidis'
+p633
+g2
+(g6
+S'\xb9\x81\xc7\x82\x8e\x17\xda?'
+p634
+tp635
+Rp636
+tp637
+a(S'sebastian doniach'
+p638
+g2
+(g6
+S'?kM\xabf\x13\xda?'
+p639
+tp640
+Rp641
+tp642
+a(S'stanford dash'
+p643
+g2
+(g6
+S'o|\xbd/)\x08\xda?'
+p644
+tp645
+Rp646
+tp647
+a(S'phil moffatt'
+p648
+g2
+(g6
+S'\x1d\x8f\x9d\xbef\x01\xda?'
+p649
+tp650
+Rp651
+tp652
+a(S'john etchemendy'
+p653
+g2
+(g6
+S',\x1f\xf8\xd6J\xfa\xd9?'
+p654
+tp655
+Rp656
+tp657
+a(S'2002 stanford cardinal football team'
+p658
+g2
+(g6
+S'\xeaA\xc5\xae\xb0\xef\xd9?'
+p659
+tp660
+Rp661
+tp662
+a(S'elisabeth pate-cornell'
+p663
+g2
+(g6
+S'\xf5^T\xb3\xfe\xed\xd9?'
+p664
+tp665
+Rp666
+tp667
+a(S'richard stanford (politician)'
+p668
+g2
+(g6
+S'\xbe\x17\x03\xbdi\xd7\xd9?'
+p669
+tp670
+Rp671
+tp672
+a(S'robert c. calfee'
+p673
+g2
+(g6
+S'\xfb\xc9\xcb\x18\x1b\xd6\xd9?'
+p674
+tp675
+Rp676
+tp677
+a(S'1940 stanford indians football team'
+p678
+g2
+(g6
+S'r\xf0\x94\x05\x85\xd2\xd9?'
+p679
+tp680
+Rp681
+tp682
+a(S'edward stanford'
+p683
+g2
+(g6
+S'\xb2i3\xf9\xc1\xcc\xd9?'
+p684
+tp685
+Rp686
+tp687
+a(S'zurcher v. stanford daily'
+p688
+g2
+(g6
+S'\x89!e\xc4R\xc9\xd9?'
+p689
+tp690
+Rp691
+tp692
+a(S'history of stanford medicine'
+p693
+g2
+(g6
+S'o\x11\xc2\x93\xd8\xc5\xd9?'
+p694
+tp695
+Rp696
+tp697
+a(S'1951 stanford indians football team'
+p698
+g2
+(g6
+S'\x16\x98\x97\x0b\xee\xc0\xd9?'
+p699
+tp700
+Rp701
+tp702
+a(S'stanford university libraries'
+p703
+g2
+(g6
+S"'\x084Sl\xb7\xd9?"
+p704
+tp705
+Rp706
+tp707
+a(S"pac-12 conference women's basketball player of the year"
+p708
+g2
+(g6
+S'\xe1\xe8\x84}\xa0\xb0\xd9?'
+p709
+tp710
+Rp711
+tp712
+a(S'jeanne ruark hoff'
+p713
+g2
+(g6
+S'$2wp\x18\xa1\xd9?'
+p714
+tp715
+Rp716
+tp717
+a(S'2008 stanford cardinal football team'
+p718
+g2
+(g6
+S'\x0bNp\xd7\x9e\x95\xd9?'
+p719
+tp720
+Rp721
+tp722
+a(S'stanford graduate school of education'
+p723
+g2
+(g6
+S'\x0e&\x0e\xd0\xdc\x8e\xd9?'
+p724
+tp725
+Rp726
+tp727
+a(S'haas center for public service'
+p728
+g2
+(g6
+S'\xfb\xe9w\xf2f\x8d\xd9?'
+p729
+tp730
+Rp731
+tp732
+a(S"2000\xe2\x80\x9301 stanford cardinal men's basketball team"
+p733
+g2
+(g6
+S'\x17\r$eY\x8c\xd9?'
+p734
+tp735
+Rp736
+tp737
+a(S'stanford graduate school of business'
+p738
+g2
+(g6
+S'S\xf3\x7f\x8em|\xd9?'
+p739
+tp740
+Rp741
+tp742
+a(S'mark krasnow'
+p743
+g2
+(g6
+S'\x82Q\xdf\xb2\xa5p\xd9?'
+p744
+tp745
+Rp746
+tp747
+a(S'1955 stanford indians football team'
+p748
+g2
+(g6
+S'\xb7)\x9b\xe7\xedj\xd9?'
+p749
+tp750
+Rp751
+tp752
+a(S'alvin c. eurich'
+p753
+g2
+(g6
+S'\xd9Q\xa1\x93\x18i\xd9?'
+p754
+tp755
+Rp756
+tp757
+a(S'sally stanford'
+p758
+g2
+(g6
+S'\x0c\x03\x82\xd7\xc0g\xd9?'
+p759
+tp760
+Rp761
+tp762
+a(S'stephen haber'
+p763
+g2
+(g6
+S'\xdf\x7fV\x89^f\xd9?'
+p764
+tp765
+Rp766
+tp767
+a(S'lathrop library'
+p768
+g2
+(g6
+S'Mo\x90\xc9S\\\xd9?'
+p769
+tp770
+Rp771
+tp772
+a(S'malcolm beasley'
+p773
+g2
+(g6
+S'\x1a\x83SyM>\xd9?'
+p774
+tp775
+Rp776
+tp777
+a(S'john shoven'
+p778
+g2
+(g6
+S' n\xcd3\x94<\xd9?'
+p779
+tp780
+Rp781
+tp782
+a(S'stanford sierra camp'
+p783
+g2
+(g6
+S'm\xb0=\xfa\xce8\xd9?'
+p784
+tp785
+Rp786
+tp787
+a(S'yasemin kimyac\xc4\xb1o\xc4\x9flu'
+p788
+g2
+(g6
+S'\xc4\x96\xd8C\xfb4\xd9?'
+p789
+tp790
+Rp791
+tp792
+a(S'stanford bank venezuela'
+p793
+g2
+(g6
+S'\xc4\xe6\xbb\xe7\x05/\xd9?'
+p794
+tp795
+Rp796
+tp797
+a(S'joseph grundfest'
+p798
+g2
+(g6
+S'W~\x8a\x86\x88"\xd9?'
+p799
+tp800
+Rp801
+tp802
+a(S'laura pendergest-holt'
+p803
+g2
+(g6
+S'\x17\xdc!\x8f\x95\x10\xd9?'
+p804
+tp805
+Rp806
+tp807
+a(S'stanford institute for economic policy research'
+p808
+g2
+(g6
+S'H\xdftZe\x05\xd9?'
+p809
+tp810
+Rp811
+tp812
+a(S'stanford in the vale'
+p813
+g2
+(g6
+S'G*\xf0C\xfc\x04\xd9?'
+p814
+tp815
+Rp816
+tp817
+a(S'daniel p. kessler'
+p818
+g2
+(g6
+S'X=T%\x16\x01\xd9?'
+p819
+tp820
+Rp821
+tp822
+a(S'1979 stanford cardinals football team'
+p823
+g2
+(g6
+S'\xa8\x8a\x83\xc5v\xfc\xd8?'
+p824
+tp825
+Rp826
+tp827
+a(S'stanford university network'
+p828
+g2
+(g6
+S'\x07\xc6>EC\xf9\xd8?'
+p829
+tp830
+Rp831
+tp832
+a(S'konkuk university'
+p833
+g2
+(g6
+S'\xbdb@\xc5\x12\xe0\xd8?'
+p834
+tp835
+Rp836
+tp837
+a(S'stanford american language institution'
+p838
+g2
+(g6
+S'\xd8\xc5\xb8\x9d\x9b\xdc\xd8?'
+p839
+tp840
+Rp841
+tp842
+a(S'symphony no. 1 (stanford)'
+p843
+g2
+(g6
+S'\xd8%\xd2\t^\xd6\xd8?'
+p844
+tp845
+Rp846
+tp847
+a(S'arthur p. barnes'
+p848
+g2
+(g6
+S'\xc8\xbcV\x89\xcd\xd1\xd8?'
+p849
+tp850
+Rp851
+tp852
+a(S'inha university'
+p853
+g2
+(g6
+S'\x7f\x08\x05\xf7\xff\xd0\xd8?'
+p854
+tp855
+Rp856
+tp857
+a(S'1959 stanford indians football team'
+p858
+g2
+(g6
+S'4\xb5\xcb-\xdf\xbe\xd8?'
+p859
+tp860
+Rp861
+tp862
+a(S'1897 stanford football team'
+p863
+g2
+(g6
+S'\x90%\xc6\xc2\xc2\xb1\xd8?'
+p864
+tp865
+Rp866
+tp867
+a(S'1956 stanford indians football team'
+p868
+g2
+(g6
+S'\x1f\xf6\xa04\xdd\xac\xd8?'
+p869
+tp870
+Rp871
+tp872
+a(S'richard foster jones'
+p873
+g2
+(g6
+S'\x10\xa9\xe6\x15\x97\xaa\xd8?'
+p874
+tp875
+Rp876
+tp877
+a(S"2008\xe2\x80\x9309 stanford cardinal women's basketball team"
+p878
+g2
+(g6
+S';\xf2+\xd2\xbd\xa9\xd8?'
+p879
+tp880
+Rp881
+tp882
+a(S'gordy ceresino'
+p883
+g2
+(g6
+S'\x1b\x92\xe1A\x1e\xa8\xd8?'
+p884
+tp885
+Rp886
+tp887
+a(S'stanford cardinal'
+p888
+g2
+(g6
+S'\x85\xf9!\xf5\xa4\x9d\xd8?'
+p889
+tp890
+Rp891
+tp892
+a(S'1900 stanford football team'
+p893
+g2
+(g6
+S'`\xc0V\x19\x1d\x98\xd8?'
+p894
+tp895
+Rp896
+tp897
+a(S'scott l. delp'
+p898
+g2
+(g6
+S'04|\x03\xf7\x95\xd8?'
+p899
+tp900
+Rp901
+tp902
+a(S'stanford pulse institute'
+p903
+g2
+(g6
+S'g\x86n\xb2\r\x8c\xd8?'
+p904
+tp905
+Rp906
+tp907
+a(S'frances k. conley'
+p908
+g2
+(g6
+S'?\xfc\x8a\xf0\x94\x8a\xd8?'
+p909
+tp910
+Rp911
+tp912
+a(S'bernadette meyler'
+p913
+g2
+(g6
+S'e6_\xf6\xd7\x87\xd8?'
+p914
+tp915
+Rp916
+tp917
+a(S'craig heller (physiologist)'
+p918
+g2
+(g6
+S'\xea\x824\x16\x7fy\xd8?'
+p919
+tp920
+Rp921
+tp922
+a(S'come join the band'
+p923
+g2
+(g6
+S'u\xf0\xc9\xf9\x9ax\xd8?'
+p924
+tp925
+Rp926
+tp927
+a(S'2011 orange bowl'
+p928
+g2
+(g6
+S'\xe2\xeb\xc2:\xb9s\xd8?'
+p929
+tp930
+Rp931
+tp932
+a(S'jef caers'
+p933
+g2
+(g6
+S'\x9a\xbf\xde4ek\xd8?'
+p934
+tp935
+Rp936
+tp937
+a(S'1949 stanford indians football team'
+p938
+g2
+(g6
+S'\x8cA\xba\x19\xbad\xd8?'
+p939
+tp940
+Rp941
+tp942
+a(S'barry r. weingast'
+p943
+g2
+(g6
+S'\xe4\xc5\xab\xa4\x82W\xd8?'
+p944
+tp945
+Rp946
+tp947
+a(S'1894 chicago vs. stanford football game'
+p948
+g2
+(g6
+S'\x11\x02F\x9f\x1eN\xd8?'
+p949
+tp950
+Rp951
+tp952
+a(S'1903 stanford football team'
+p953
+g2
+(g6
+S'\xf84\xe5\xceRE\xd8?'
+p954
+tp955
+Rp956
+tp957
+a(S'kunle olukotun'
+p958
+g2
+(g6
+S'\xea\xe1\x07\xc3\xdf@\xd8?'
+p959
+tp960
+Rp961
+tp962
+a(S'thomas c. merigan'
+p963
+g2
+(g6
+S'\x1aXq:"\'\xd8?'
+p964
+tp965
+Rp966
+tp967
+a(S'stanford university libraries digital image collections'
+p968
+g2
+(g6
+S'\xad\xdej)<&\xd8?'
+p969
+tp970
+Rp971
+tp972
+a(S'kfir gavrieli'
+p973
+g2
+(g6
+S'\xb5\xb2\xac\x94y#\xd8?'
+p974
+tp975
+Rp976
+tp977
+a(S'1939 stanford indians football team'
+p978
+g2
+(g6
+S'\x8ei\xac\x9d+\x18\xd8?'
+p979
+tp980
+Rp981
+tp982
+a(S'don burness'
+p983
+g2
+(g6
+S'\x9a\xf8\x0f\x05\xae\x0e\xd8?'
+p984
+tp985
+Rp986
+tp987
+a(S'marvin chodorow'
+p988
+g2
+(g6
+S'\xd3Z\xe1\xe4`\r\xd8?'
+p989
+tp990
+Rp991
+tp992
+a(S'stanford mausoleum'
+p993
+g2
+(g6
+S'\xe0\x03YJ\x9a\x0b\xd8?'
+p994
+tp995
+Rp996
+tp997
+a(S'list of research institutes in greece'
+p998
+g2
+(g6
+S'?+A\xdd\xf2\x05\xd8?'
+p999
+tp1000
+Rp1001
+tp1002
+a(S'stanford joint program in design'
+p1003
+g2
+(g6
+S'!\x8b\x96\xca\x87\xef\xd7?'
+p1004
+tp1005
+Rp1006
+tp1007
+a(S'1962 stanford indians football team'
+p1008
+g2
+(g6
+S'p\x0e%\x0cd\xd9\xd7?'
+p1009
+tp1010
+Rp1011
+tp1012
+a(S'kenneth tolon ii'
+p1013
+g2
+(g6
+S'Z5\x8e&\xb4\xd7\xd7?'
+p1014
+tp1015
+Rp1016
+tp1017
+a(S'centers and institutes of washington university in st. louis'
+p1018
+g2
+(g6
+S'\xbb\xbaS\xf4\xac\xd0\xd7?'
+p1019
+tp1020
+Rp1021
+tp1022
+a(S'braun music center'
+p1023
+g2
+(g6
+S'\xf4\xcf\x16Y\x1c\xcc\xd7?'
+p1024
+tp1025
+Rp1026
+tp1027
+a(S'via (volunteers in asia)'
+p1028
+g2
+(g6
+S',T\xec\xee\xa8\xbd\xd7?'
+p1029
+tp1030
+Rp1031
+tp1032
+a(S'coit d. blacker'
+p1033
+g2
+(g6
+S'A\xc5\xe3\xa4b\xbb\xd7?'
+p1034
+tp1035
+Rp1036
+tp1037
+a(S"2009\xe2\x80\x9310 pacific-10 conference women's basketball season"
+p1038
+g2
+(g6
+S'(HP\xc6p\xb9\xd7?'
+p1039
+tp1040
+Rp1041
+tp1042
+a(S'andy stanford-clark'
+p1043
+g2
+(g6
+S'\xba \xbf\xae\xc2\xb8\xd7?'
+p1044
+tp1045
+Rp1046
+tp1047
+a(S'ross stanford'
+p1048
+g2
+(g6
+S'\x85y\xb2|\x08\xa9\xd7?'
+p1049
+tp1050
+Rp1051
+tp1052
+a(S'howard h. pattee'
+p1053
+g2
+(g6
+S'\x8au`\xc5\x8e\xa1\xd7?'
+p1054
+tp1055
+Rp1056
+tp1057
+a(S'1952 stanford indians football team'
+p1058
+g2
+(g6
+S'A\x94\xf2\x05Q\xa0\xd7?'
+p1059
+tp1060
+Rp1061
+tp1062
+a(S'beati quorum via (stanford)'
+p1063
+g2
+(g6
+S'\x16\xf5f\x80\xe4\x9a\xd7?'
+p1064
+tp1065
+Rp1066
+tp1067
+a(S'list of members of the national academy of sciences (genetics)'
+p1068
+g2
+(g6
+S'\x8a\xb5Q\xc5\xca\x99\xd7?'
+p1069
+tp1070
+Rp1071
+tp1072
+a(S"stanford cardinal women's basketball"
+p1073
+g2
+(g6
+S'\xdc\x8ekn\xb0\x8f\xd7?'
+p1074
+tp1075
+Rp1076
+tp1077
+a(S'research center'
+p1078
+g2
+(g6
+S'\xc6R\x0e\x96\xa5\x89\xd7?'
+p1079
+tp1080
+Rp1081
+tp1082
+a(S'virginia walbot'
+p1083
+g2
+(g6
+S'\xcb\xd4i\x01\xd8}\xd7?'
+p1084
+tp1085
+Rp1086
+tp1087
+a(S'charles thomas-stanford'
+p1088
+g2
+(g6
+S'\xeb\xb3yA t\xd7?'
+p1089
+tp1090
+Rp1091
+tp1092
+a(S'council of american overseas research centers'
+p1093
+g2
+(g6
+S'\xea\xbe\xc8\x19Dn\xd7?'
+p1094
+tp1095
+Rp1096
+tp1097
+a(S'1986 stanford cardinal football team'
+p1098
+g2
+(g6
+S'u\xf1\x82\x82\x10m\xd7?'
+p1099
+tp1100
+Rp1101
+tp1102
+a(S'david shepherd nivison'
+p1103
+g2
+(g6
+S'=\xc1\x91\xd2\xbck\xd7?'
+p1104
+tp1105
+Rp1106
+tp1107
+a(S'john hopkins (football)'
+p1108
+g2
+(g6
+S'd\xab\xa3\x9eF\\\xd7?'
+p1109
+tp1110
+Rp1111
+tp1112
+a(S'james gross'
+p1113
+g2
+(g6
+S'\x1e\xba\xe9^\xd8B\xd7?'
+p1114
+tp1115
+Rp1116
+tp1117
+a(S'stanford jazz workshop'
+p1118
+g2
+(g6
+S'\x92\x0b*}\x1f2\xd7?'
+p1119
+tp1120
+Rp1121
+tp1122
+a(S'branner earth sciences library'
+p1123
+g2
+(g6
+S'|\x02\xec|I0\xd7?'
+p1124
+tp1125
+Rp1126
+tp1127
+a(S"1981 ncaa men's water polo championship"
+p1128
+g2
+(g6
+S'\xbdU\xd6\xd2q+\xd7?'
+p1129
+tp1130
+Rp1131
+tp1132
+a(S'stanford, illinois'
+p1133
+g2
+(g6
+S'\xa8\xf5eQT#\xd7?'
+p1134
+tp1135
+Rp1136
+tp1137
+a(S'1992 stanford cardinal football team'
+p1138
+g2
+(g6
+S'\xd2\xed\xa6\x0ca!\xd7?'
+p1139
+tp1140
+Rp1141
+tp1142
+a(S'warren treadgold'
+p1143
+g2
+(g6
+S'<\xaaV\xb7~\x1f\xd7?'
+p1144
+tp1145
+Rp1146
+tp1147
+a(S'j. henry meyer memorial library'
+p1148
+g2
+(g6
+S'.\x85\x06y/\x1f\xd7?'
+p1149
+tp1150
+Rp1151
+tp1152
+a(S'rodolphe gasch\xc3\xa9'
+p1153
+g2
+(g6
+S'R7\xe5\t\\\x1b\xd7?'
+p1154
+tp1155
+Rp1156
+tp1157
+a(S'patrick suppes'
+p1158
+g2
+(g6
+S'\xb8\xab\xd9\xc2\x94\x1a\xd7?'
+p1159
+tp1160
+Rp1161
+tp1162
+a(S'1891 stanford football team'
+p1163
+g2
+(g6
+S'\x07*eZ\x8c\x19\xd7?'
+p1164
+tp1165
+Rp1166
+tp1167
+a(S'stanford\xe2\x80\x93usc football rivalry'
+p1168
+g2
+(g6
+S'\x03h}\xe9\x05\x13\xd7?'
+p1169
+tp1170
+Rp1171
+tp1172
+a(S'neil daswani'
+p1173
+g2
+(g6
+S'\x11UWk\x0c\n\xd7?'
+p1174
+tp1175
+Rp1176
+tp1177
+a(S'1950 stanford indians football team'
+p1178
+g2
+(g6
+S'\x08\xfe\x92\x12\xc7\xfc\xd6?'
+p1179
+tp1180
+Rp1181
+tp1182
+a(S'richard w. tsien'
+p1183
+g2
+(g6
+S'\xf1\x9b\x11}\xc2\xe2\xd6?'
+p1184
+tp1185
+Rp1186
+tp1187
+a(S'list of stanford cardinal football seasons'
+p1188
+g2
+(g6
+S'\xc9\x96~t{\xd4\xd6?'
+p1189
+tp1190
+Rp1191
+tp1192
+a(S'list of think tanks in the united states'
+p1193
+g2
+(g6
+S'0HDx\xfb\xcd\xd6?'
+p1194
+tp1195
+Rp1196
+tp1197
+a(S"2007 ncaa division i women's volleyball tournament"
+p1198
+g2
+(g6
+S'&\xa9\xc1\x1a\xcc\xc2\xd6?'
+p1199
+tp1200
+Rp1201
+tp1202
+a(S'stanford, kentucky'
+p1203
+g2
+(g6
+S'\xf9\xd8Z6\xc4\xc1\xd6?'
+p1204
+tp1205
+Rp1206
+tp1207
+a(S'allen weiner'
+p1208
+g2
+(g6
+S'o\xc8Ku\xa7\xbe\xd6?'
+p1209
+tp1210
+Rp1211
+tp1212
+a(S'stanford international bank'
+p1213
+g2
+(g6
+S'\xefE\x9e\x86\x04\xb8\xd6?'
+p1214
+tp1215
+Rp1216
+tp1217
+a(S'list of members of the national academy of sciences (applied mathematical sciences)'
+p1218
+g2
+(g6
+S'\xd9\x87\x84\x13\xb8\xa7\xd6?'
+p1219
+tp1220
+Rp1221
+tp1222
+a(S'kharazmi university'
+p1223
+g2
+(g6
+S'(\xc4\x92\x06w\xa6\xd6?'
+p1224
+tp1225
+Rp1226
+tp1227
+a(S'research centers at boston college'
+p1228
+g2
+(g6
+S'\xd7{?\x0b\xec\xa5\xd6?'
+p1229
+tp1230
+Rp1231
+tp1232
+a(S'anthony wilkerson'
+p1233
+g2
+(g6
+S'\xffzK\xa97\xa5\xd6?'
+p1234
+tp1235
+Rp1236
+tp1237
+a(S'russ altman'
+p1238
+g2
+(g6
+S'\x9cM\tp\xd7\xa0\xd6?'
+p1239
+tp1240
+Rp1241
+tp1242
+a(S'stanford social innovation review'
+p1243
+g2
+(g6
+S'\n\xbe)\x8ds\x91\xd6?'
+p1244
+tp1245
+Rp1246
+tp1247
+a(S'academic regalia of stanford university'
+p1248
+g2
+(g6
+S'\xdebp%\xb4\x89\xd6?'
+p1249
+tp1250
+Rp1251
+tp1252
+a(S'black community services center'
+p1253
+g2
+(g6
+S']I;Q\x89\x82\xd6?'
+p1254
+tp1255
+Rp1256
+tp1257
+a(S'stanford stadium'
+p1258
+g2
+(g6
+S'\xca\xc8v\xd1\x9b~\xd6?'
+p1259
+tp1260
+Rp1261
+tp1262
+a(S'david luenberger'
+p1263
+g2
+(g6
+S'L?/,>s\xd6?'
+p1264
+tp1265
+Rp1266
+tp1267
+a(S'2010 stanford cardinal football team'
+p1268
+g2
+(g6
+S"1-\x0f'\xd1^\xd6?"
+p1269
+tp1270
+Rp1271
+tp1272
+a(S'lloyd b. minor'
+p1273
+g2
+(g6
+S'\xf3k\x0b\xab\\\\\xd6?'
+p1274
+tp1275
+Rp1276
+tp1277
+a(S'ted selker'
+p1278
+g2
+(g6
+S'2\x8b\x82\xfc\nX\xd6?'
+p1279
+tp1280
+Rp1281
+tp1282
+a(S'ilia state university'
+p1283
+g2
+(g6
+S'C\xbbH"\xd6W\xd6?'
+p1284
+tp1285
+Rp1286
+tp1287
+a(S'1901 stanford football team'
+p1288
+g2
+(g6
+S'Vx\x93T$W\xd6?'
+p1289
+tp1290
+Rp1291
+tp1292
+a(S'1972 stanford cardinals football team'
+p1293
+g2
+(g6
+S"\x93^\x8b\x94'=\xd6?"
+p1294
+tp1295
+Rp1296
+tp1297
+a(S'stanford persuasive technology lab'
+p1298
+g2
+(g6
+S'dL}\x89\xe7;\xd6?'
+p1299
+tp1300
+Rp1301
+tp1302
+a(S'darrell duffie'
+p1303
+g2
+(g6
+S'\t\xb5\x81\xf2\xd27\xd6?'
+p1304
+tp1305
+Rp1306
+tp1307
+a(S'david m. kreps'
+p1308
+g2
+(g6
+S'Vr\x97\xfb\xd7$\xd6?'
+p1309
+tp1310
+Rp1311
+tp1312
+a(S'walter stanford'
+p1313
+g2
+(g6
+S'\xd6V\x85\xf4"$\xd6?'
+p1314
+tp1315
+Rp1316
+tp1317
+a(S'stanford university v. roche molecular systems, inc.'
+p1318
+g2
+(g6
+S'\xdb(\xa9\x8aI!\xd6?'
+p1319
+tp1320
+Rp1321
+tp1322
+a(S't\xc3\x9cb\xc4\xb0tak marmara research center'
+p1323
+g2
+(g6
+S'\xfcF\x14\x8c\x83 \xd6?'
+p1324
+tp1325
+Rp1326
+tp1327
+a(S'list of national laboratories (japan)'
+p1328
+g2
+(g6
+S'u\x8cM\x99\xae\x17\xd6?'
+p1329
+tp1330
+Rp1331
+tp1332
+a(S'miles j. stanford'
+p1333
+g2
+(g6
+S'\xeb\x8c\xf1\xb1\xe8\x14\xd6?'
+p1334
+tp1335
+Rp1336
+tp1337
+a(S'carl l. clemans'
+p1338
+g2
+(g6
+S'\x838\xcb\xf0\xfb\x13\xd6?'
+p1339
+tp1340
+Rp1341
+tp1342
+a(S'richard shavelson'
+p1343
+g2
+(g6
+S'8Z\x1d\x92*\x12\xd6?'
+p1344
+tp1345
+Rp1346
+tp1347
+a(S'sam schwartzstein'
+p1348
+g2
+(g6
+S'\x1b*\x99\xf7\x9e\x0e\xd6?'
+p1349
+tp1350
+Rp1351
+tp1352
+a(S'phoenix five (prank)'
+p1353
+g2
+(g6
+S'\xcd\x93Y\x9ai\x0e\xd6?'
+p1354
+tp1355
+Rp1356
+tp1357
+a(S'ron tomsic'
+p1358
+g2
+(g6
+S'\x0f\x04\xbd\xa1X\x07\xd6?'
+p1359
+tp1360
+Rp1361
+tp1362
+a(S'karen cook'
+p1363
+g2
+(g6
+S'\xed\xfd\x94LY\xf6\xd5?'
+p1364
+tp1365
+Rp1366
+tp1367
+a(S'hank luisetti'
+p1368
+g2
+(g6
+S'\xe4l\x17BJ\xf6\xd5?'
+p1369
+tp1370
+Rp1371
+tp1372
+a(S"1999 ncaa division i women's volleyball tournament"
+p1373
+g2
+(g6
+S'\x99b\x1b\x93\x8c\xe9\xd5?'
+p1374
+tp1375
+Rp1376
+tp1377
+a(S'deborah rhode'
+p1378
+g2
+(g6
+S'\xff\xe6e>\xd1\xdf\xd5?'
+p1379
+tp1380
+Rp1381
+tp1382
+a(S'herbert john shaw'
+p1383
+g2
+(g6
+S'g\xd6>\xc1g\xd6\xd5?'
+p1384
+tp1385
+Rp1386
+tp1387
+a(S"2010 pacific-10 conference women's basketball tournament"
+p1388
+g2
+(g6
+S'\x82\x98o\x1c4\xd0\xd5?'
+p1389
+tp1390
+Rp1391
+tp1392
+a(S'ron george (american football)'
+p1393
+g2
+(g6
+S'\x8f(\xd2\xcfY\xcc\xd5?'
+p1394
+tp1395
+Rp1396
+tp1397
+a(S'ray carey (swimmer)'
+p1398
+g2
+(g6
+S'X\x87\xad5:\xca\xd5?'
+p1399
+tp1400
+Rp1401
+tp1402
+a(S'james c. bliss'
+p1403
+g2
+(g6
+S'e\xa5\xd7\x04P\xc5\xd5?'
+p1404
+tp1405
+Rp1406
+tp1407
+a(S"2002 ncaa division i women's volleyball tournament"
+p1408
+g2
+(g6
+S'%\xcb\xf6\x16F\xbf\xd5?'
+p1409
+tp1410
+Rp1411
+tp1412
+a(S'william bedell stanford'
+p1413
+g2
+(g6
+S'\xe0\x15k`\n\xb9\xd5?'
+p1414
+tp1415
+Rp1416
+tp1417
+a(S'wayne s. vucinich'
+p1418
+g2
+(g6
+S'\xab\xfc\xc8\xabj\xb1\xd5?'
+p1419
+tp1420
+Rp1421
+tp1422
+a(S'yuliy sannikov'
+p1423
+g2
+(g6
+S'\x85\xe3~\x80=\xa8\xd5?'
+p1424
+tp1425
+Rp1426
+tp1427
+a(S'gates computer science building, stanford'
+p1428
+g2
+(g6
+S'\xa0\xeb\xa9\x9a\n\xa8\xd5?'
+p1429
+tp1430
+Rp1431
+tp1432
+a(S'stanford us\xe2\x80\x93russia forum'
+p1433
+g2
+(g6
+S'\xb4V@w\x11\x96\xd5?'
+p1434
+tp1435
+Rp1436
+tp1437
+a(S'paul saffo'
+p1438
+g2
+(g6
+S'\xcc\xa1p\x08\xf3\x92\xd5?'
+p1439
+tp1440
+Rp1441
+tp1442
+a(S'sarah rafanelli'
+p1443
+g2
+(g6
+S'\xa6\xc2\xc2\x8e\xf2\x8b\xd5?'
+p1444
+tp1445
+Rp1446
+tp1447
+a(S'institute for advanced study at university of minnesota'
+p1448
+g2
+(g6
+S'\x14~\xa2\xbd7\x89\xd5?'
+p1449
+tp1450
+Rp1451
+tp1452
+a(S'john r. rickford'
+p1453
+g2
+(g6
+S'\x11\xc7\xe5,\xff\x88\xd5?'
+p1454
+tp1455
+Rp1456
+tp1457
+a(S'list of members of the national academy of engineering (computer science)'
+p1458
+g2
+(g6
+S'S\xcf\x80\x0f\x01\x88\xd5?'
+p1459
+tp1460
+Rp1461
+tp1462
+a(S'1965 stanford indians football team'
+p1463
+g2
+(g6
+S'\xea\xf3%\x888\x81\xd5?'
+p1464
+tp1465
+Rp1466
+tp1467
+a(S'corry v. stanford university'
+p1468
+g2
+(g6
+S'\xc5\xef\xeb \xbfq\xd5?'
+p1469
+tp1470
+Rp1471
+tp1472
+a(S'1942 stanford indians football team'
+p1473
+g2
+(g6
+S'\xff6+J\xf0p\xd5?'
+p1474
+tp1475
+Rp1476
+tp1477
+a(S'james gaughran'
+p1478
+g2
+(g6
+S'\x03V5\xb7\x1ak\xd5?'
+p1479
+tp1480
+Rp1481
+tp1482
+a(S'cecil h. green library'
+p1483
+g2
+(g6
+S"'\xc1\x1d\x17&d\xd5?"
+p1484
+tp1485
+Rp1486
+tp1487
+a(S'stanford sweet hall'
+p1488
+g2
+(g6
+S'\xf4\x83\xd2\xd3\xa6[\xd5?'
+p1489
+tp1490
+Rp1491
+tp1492
+a(S'chris chafe'
+p1493
+g2
+(g6
+S'\x9dU\x8d\x13\x13U\xd5?'
+p1494
+tp1495
+Rp1496
+tp1497
+a(S'staniforth'
+p1498
+g2
+(g6
+S'\xfa_\xf5\xd7\x0bU\xd5?'
+p1499
+tp1500
+Rp1501
+tp1502
+a(S'1924 united states rugby union tour of england and france'
+p1503
+g2
+(g6
+S'Le)\xcc\x82R\xd5?'
+p1504
+tp1505
+Rp1506
+tp1507
+a(S"2001 ncaa men's water polo championship"
+p1508
+g2
+(g6
+S'_\xfa\xebJHP\xd5?'
+p1509
+tp1510
+Rp1511
+tp1512
+a.

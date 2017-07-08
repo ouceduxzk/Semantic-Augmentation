@@ -1,0 +1,2728 @@
+(lp0
+(S'spectroscopy'
+p1
+cnumpy.core.multiarray
+scalar
+p2
+(cnumpy
+dtype
+p3
+(S'f8'
+p4
+I0
+I1
+tp5
+Rp6
+(I3
+S'<'
+p7
+NNNI-1
+I-1
+I0
+tp8
+bS'\x02\x00\x00\x00\x00\x00\xf0?'
+p9
+tp10
+Rp11
+tp12
+a(S'spectroscopy (magazine)'
+p13
+g2
+(g6
+S'\xab\xa7\x90\xa8\xa2\x1b\xe8?'
+p14
+tp15
+Rp16
+tp17
+a(S'photoemission spectroscopy'
+p18
+g2
+(g6
+S'?\xfa\xde\x80:\x81\xe5?'
+p19
+tp20
+Rp21
+tp22
+a(S'society for applied spectroscopy'
+p23
+g2
+(g6
+S'\xf8\xfbN\xe4\x1a+\xe5?'
+p24
+tp25
+Rp26
+tp27
+a(S'institute for spectroscopy russian academy of sciences'
+p28
+g2
+(g6
+S'\xf46o\xb8Vo\xe4?'
+p29
+tp30
+Rp31
+tp32
+a(S'list of materials analysis methods'
+p33
+g2
+(g6
+S'\x0fg\x0eT\xcfj\xe4?'
+p34
+tp35
+Rp36
+tp37
+a(S'history of spectroscopy'
+p38
+g2
+(g6
+S'\x85^\xc7\xf9.`\xe4?'
+p39
+tp40
+Rp41
+tp42
+a(S'foil a. miller'
+p43
+g2
+(g6
+S'0\xf1\xf5gV|\xe3?'
+p44
+tp45
+Rp46
+tp47
+a(S'time-resolved spectroscopy'
+p48
+g2
+(g6
+S'\xbe\x87\xce\xe0\xe0?\xe3?'
+p49
+tp50
+Rp51
+tp52
+a(S'brian orr'
+p53
+g2
+(g6
+S'\xdbU\x9aW\xd98\xe3?'
+p54
+tp55
+Rp56
+tp57
+a(S'richard c. lord'
+p58
+g2
+(g6
+S"\xc7\x9e\x11\xa7\xad'\xe2?"
+p59
+tp60
+Rp61
+tp62
+a(S'coblentz society'
+p63
+g2
+(g6
+S'\x83\x02\x82\x8b\x08"\xe2?'
+p64
+tp65
+Rp66
+tp67
+a(S'characterization (materials science)'
+p68
+g2
+(g6
+S'X\x07\x08%\xf7\x10\xe2?'
+p69
+tp70
+Rp71
+tp72
+a(S'list of chemical analysis methods'
+p73
+g2
+(g6
+S'nD\xac\xef\xea\xfa\xe1?'
+p74
+tp75
+Rp76
+tp77
+a(S'infrared spectroscopy'
+p78
+g2
+(g6
+S'\x8d\xc2\x1e\x0b\xf1\xe2\xe1?'
+p79
+tp80
+Rp81
+tp82
+a(S'applied spectroscopy (journal)'
+p83
+g2
+(g6
+S'\x05\xb4\xbd;\xd3\xc0\xe1?'
+p84
+tp85
+Rp86
+tp87
+a(S'resonance raman spectroscopy'
+p88
+g2
+(g6
+S'mF\x96\n[\x8f\xe1?'
+p89
+tp90
+Rp91
+tp92
+a(S'richard j. saykally'
+p93
+g2
+(g6
+S'qH\xc0\x03q\xcb\xe0?'
+p94
+tp95
+Rp96
+tp97
+a(S'bernhard lendl'
+p98
+g2
+(g6
+S'a\x9f\xb1\xc8X\x93\xe0?'
+p99
+tp100
+Rp101
+tp102
+a(S'instrumental chemistry'
+p103
+g2
+(g6
+S'\xbf:\xfd6\x89m\xe0?'
+p104
+tp105
+Rp106
+tp107
+a(S'near-infrared spectroscopy'
+p108
+g2
+(g6
+S'}4\xff\x12jS\xe0?'
+p109
+tp110
+Rp111
+tp112
+a(S'absorption spectroscopy'
+p113
+g2
+(g6
+S'\xfc\n\x97"r*\xe0?'
+p114
+tp115
+Rp116
+tp117
+a(S'earle k. plyler prize for molecular spectroscopy'
+p118
+g2
+(g6
+S'\x94C+ \x00\x00\xe0?'
+p119
+tp120
+Rp121
+tp122
+a(S'soft x-ray emission spectroscopy'
+p123
+g2
+(g6
+S'\x89J\xe7<\x8b\xf5\xdf?'
+p124
+tp125
+Rp126
+tp127
+a(S'atomic emission spectroscopy'
+p128
+g2
+(g6
+S'\xa9H\x1c\x83\xa5\x8c\xdf?'
+p129
+tp130
+Rp131
+tp132
+a(S'cho minhaeng'
+p133
+g2
+(g6
+S'\x13\xd8z74h\xdf?'
+p134
+tp135
+Rp136
+tp137
+a(S'photothermal spectroscopy'
+p138
+g2
+(g6
+S"'\xd3^zS\\\xdf?"
+p139
+tp140
+Rp141
+tp142
+a(S'ultraviolet photoelectron spectroscopy'
+p143
+g2
+(g6
+S'\xb88(W\x99%\xdf?'
+p144
+tp145
+Rp146
+tp147
+a(S'jerome j. workman, jr.'
+p148
+g2
+(g6
+S'\x977\xdcb\xad\x19\xdf?'
+p149
+tp150
+Rp151
+tp152
+a(S'federation of analytical chemistry and spectroscopy societies'
+p153
+g2
+(g6
+S'yo?\xeb6\x19\xdf?'
+p154
+tp155
+Rp156
+tp157
+a(S'atomic spectroscopy'
+p158
+g2
+(g6
+S'\xb5\x83\x1d\xb8\xf0\xf7\xde?'
+p159
+tp160
+Rp161
+tp162
+a(S'fourier transform spectroscopy'
+p163
+g2
+(g6
+S'\x8c|d`\xde\x1a\xde?'
+p164
+tp165
+Rp166
+tp167
+a(S'emission spectrum'
+p168
+g2
+(g6
+S'\x08\xde(2x\xb9\xdd?'
+p169
+tp170
+Rp171
+tp172
+a(S'saturated spectroscopy'
+p173
+g2
+(g6
+S'\x1b!8\x924\xb9\xdd?'
+p174
+tp175
+Rp176
+tp177
+a(S'variable pathlength cell'
+p178
+g2
+(g6
+S'wLQ\x83\xad\xab\xdd?'
+p179
+tp180
+Rp181
+tp182
+a(S'spectrochimica acta part a: molecular and biomolecular spectroscopy'
+p183
+g2
+(g6
+S'v\xc4\x19[\xb1\x99\xdd?'
+p184
+tp185
+Rp186
+tp187
+a(S'isao noda'
+p188
+g2
+(g6
+S'\x1d\xed\xd7\xd6\xb4S\xdd?'
+p189
+tp190
+Rp191
+tp192
+a(S'biomedical spectroscopy'
+p193
+g2
+(g6
+S'>V\xbc|Z\xed\xdc?'
+p194
+tp195
+Rp196
+tp197
+a(S'm\xc3\xb6ssbauer spectroscopy'
+p198
+g2
+(g6
+S"\xcc\xab\x12'\n\xe6\xdc?"
+p199
+tp200
+Rp201
+tp202
+a(S'applied spectroscopy'
+p203
+g2
+(g6
+S'gV\xfd\xfb\xbd\xba\xdc?'
+p204
+tp205
+Rp206
+tp207
+a(S'derek long'
+p208
+g2
+(g6
+S'\xb7\xe5?Kk/\xdc?'
+p209
+tp210
+Rp211
+tp212
+a(S'halina abramczyk'
+p213
+g2
+(g6
+S'\xf5\x14\x90Gg*\xdc?'
+p214
+tp215
+Rp216
+tp217
+a(S'operando spectroscopy'
+p218
+g2
+(g6
+S'V\xf5\xbeE#&\xdc?'
+p219
+tp220
+Rp221
+tp222
+a(S'coherent spectroscopy'
+p223
+g2
+(g6
+S'\xdb\xf77\xe8\x9e$\xdc?'
+p224
+tp225
+Rp226
+tp227
+a(S'dithiete'
+p228
+g2
+(g6
+S'@\xa3\xe9\x1a\xfe\n\xdc?'
+p229
+tp230
+Rp231
+tp232
+a(S'george samuel hurst'
+p233
+g2
+(g6
+S'R\x97\xfd\x82\xaa\n\xdc?'
+p234
+tp235
+Rp236
+tp237
+a(S'kotcherlakota rangadhama rao memorial lecture award'
+p238
+g2
+(g6
+S'\x10`\xa5P\xb3\xf5\xdb?'
+p239
+tp240
+Rp241
+tp242
+a(S'vibrational temperature'
+p243
+g2
+(g6
+S',\xdbL\x8e\x97\xe9\xdb?'
+p244
+tp245
+Rp246
+tp247
+a(S'angle-resolved photoemission spectroscopy'
+p248
+g2
+(g6
+S'\xf5!9\xa8g\xe5\xdb?'
+p249
+tp250
+Rp251
+tp252
+a(S'wolfgang demtr\xc3\xb6der'
+p253
+g2
+(g6
+S'\x1e\xaa\xbf\x0bE\x9d\xdb?'
+p254
+tp255
+Rp256
+tp257
+a(S'david w. turner'
+p258
+g2
+(g6
+S'\x0c%\xaafnb\xdb?'
+p259
+tp260
+Rp261
+tp262
+a(S'globar'
+p263
+g2
+(g6
+S'\xf2\x8a;\x08[\x13\xdb?'
+p264
+tp265
+Rp266
+tp267
+a(S'stereoscopic spectroscopy'
+p268
+g2
+(g6
+S'FS\xa4\xe3\x19\x11\xdb?'
+p269
+tp270
+Rp271
+tp272
+a(S'spectrochimica acta part b: atomic spectroscopy'
+p273
+g2
+(g6
+S'\xc2s\x05*<\xfd\xda?'
+p274
+tp275
+Rp276
+tp277
+a(S'photoacoustic spectroscopy'
+p278
+g2
+(g6
+S'E$5\xa1\xc3\xf6\xda?'
+p279
+tp280
+Rp281
+tp282
+a(S'quantum-optical spectroscopy'
+p283
+g2
+(g6
+S'\xf8\x8d~P\x8e\x9b\xda?'
+p284
+tp285
+Rp286
+tp287
+a(S'hans stammreich'
+p288
+g2
+(g6
+S'6Y\x8f\x84\x04\x92\xda?'
+p289
+tp290
+Rp291
+tp292
+a(S'e. bright wilson award in spectroscopy'
+p293
+g2
+(g6
+S'\x88\xf2dCkj\xda?'
+p294
+tp295
+Rp296
+tp297
+a(S'dp code'
+p298
+g2
+(g6
+S'\x19u@\x92\xccg\xda?'
+p299
+tp300
+Rp301
+tp302
+a(S'earle k. plyler'
+p303
+g2
+(g6
+S'\x15`\x18\xae\xd49\xda?'
+p304
+tp305
+Rp306
+tp307
+a(S'hypernuclear spectroscopy'
+p308
+g2
+(g6
+S'\xed\xf8\xb0\xffs9\xda?'
+p309
+tp310
+Rp311
+tp312
+a(S'ultraviolet-visible spectroscopy of stereoisomers'
+p313
+g2
+(g6
+S"'\xbf\xf4wG+\xda?"
+p314
+tp315
+Rp316
+tp317
+a(S'williams-wright award'
+p318
+g2
+(g6
+S'Cl\x80\x13[\xfa\xd9?'
+p319
+tp320
+Rp321
+tp322
+a(S'boris p. stoicheff'
+p323
+g2
+(g6
+S'\x06%\xfd\xbfI\xe1\xd9?'
+p324
+tp325
+Rp326
+tp327
+a(S'charlotte moore sitterly'
+p328
+g2
+(g6
+S'\x81VoX\xf9\xca\xd9?'
+p329
+tp330
+Rp331
+tp332
+a(S'journal of raman spectroscopy'
+p333
+g2
+(g6
+S'h\xfb8"\xed\xc7\xd9?'
+p334
+tp335
+Rp336
+tp337
+a(S'raman spectroscopy'
+p338
+g2
+(g6
+S'\xd2\xbf@SZ\x8b\xd9?'
+p339
+tp340
+Rp341
+tp342
+a(S'splatalogue'
+p343
+g2
+(g6
+S"'\x94\xadt\x1aW\xd9?"
+p344
+tp345
+Rp346
+tp347
+a(S'diffusing-wave spectroscopy'
+p348
+g2
+(g6
+S'\x1a_\xcd^*\x02\xd9?'
+p349
+tp350
+Rp351
+tp352
+a(S'manne siegbahn'
+p353
+g2
+(g6
+S'fR\xf0*\x95\xaa\xd8?'
+p354
+tp355
+Rp356
+tp357
+a(S'x-ray spectroscopy'
+p358
+g2
+(g6
+S'\xb7i\xd9\x8b\x9c\xa6\xd8?'
+p359
+tp360
+Rp361
+tp362
+a(S'jean jeener'
+p363
+g2
+(g6
+S'\xf3m\xdez\xf9\x8c\xd8?'
+p364
+tp365
+Rp366
+tp367
+a(S'transmission raman spectroscopy'
+p368
+g2
+(g6
+S'\r_C>%\x89\xd8?'
+p369
+tp370
+Rp371
+tp372
+a(S'integral field spectrograph'
+p373
+g2
+(g6
+S'b-\xd4\xa1;7\xd8?'
+p374
+tp375
+Rp376
+tp377
+a(S'kevin k. lehmann'
+p378
+g2
+(g6
+S'\x84\x86$\xc4{\x10\xd8?'
+p379
+tp380
+Rp381
+tp382
+a(S'ultraviolet\xe2\x80\x93visible spectroscopy'
+p383
+g2
+(g6
+S'/\xbb\x83\xe1w\x02\xd8?'
+p384
+tp385
+Rp386
+tp387
+a(S'rotational spectroscopy'
+p388
+g2
+(g6
+S'\xe5\xc0\xfdXD\xc1\xd7?'
+p389
+tp390
+Rp391
+tp392
+a(S'journal of biomolecular nmr'
+p393
+g2
+(g6
+S'\xa0v\x1f\xb6\xb3\xbc\xd7?'
+p394
+tp395
+Rp396
+tp397
+a(S'astronomical spectroscopy'
+p398
+g2
+(g6
+S'\x8d\n\xba\x01@\xb9\xd7?'
+p399
+tp400
+Rp401
+tp402
+a(S'terahertz spectroscopy and technology'
+p403
+g2
+(g6
+S'\xed\x9e\nt\xd8l\xd7?'
+p404
+tp405
+Rp406
+tp407
+a(S'chemical imaging'
+p408
+g2
+(g6
+S'\xec0\x95s\xdeE\xd7?'
+p409
+tp410
+Rp411
+tp412
+a(S'rotational temperature'
+p413
+g2
+(g6
+S'\xa1,\x0e\xed\xe76\xd7?'
+p414
+tp415
+Rp416
+tp417
+a(S"shoolery's rule"
+p418
+g2
+(g6
+S'Pz*\xea\xca\x14\xd7?'
+p419
+tp420
+Rp421
+tp422
+a(S'two-photon photoelectron spectroscopy'
+p423
+g2
+(g6
+S'\x1f<E\x880\x0f\xd7?'
+p424
+tp425
+Rp426
+tp427
+a(S'transferability (chemistry)'
+p428
+g2
+(g6
+S'i\x98\x8d#_\xfd\xd6?'
+p429
+tp430
+Rp431
+tp432
+a(S'yukihiro ozaki'
+p433
+g2
+(g6
+S'bM\xbfz\xff\xfb\xd6?'
+p434
+tp435
+Rp436
+tp437
+a(S'slitless spectroscopy'
+p438
+g2
+(g6
+S'|\xf1#\xeb`\xe9\xd6?'
+p439
+tp440
+Rp441
+tp442
+a(S'chemical state'
+p443
+g2
+(g6
+S'\xb2VU\x06\x9d\xdb\xd6?'
+p444
+tp445
+Rp446
+tp447
+a(S'john s. waugh'
+p448
+g2
+(g6
+S'H\x9e\x13\xbf\x8b\xd5\xd6?'
+p449
+tp450
+Rp451
+tp452
+a(S'jeremy walsh (astronomer)'
+p453
+g2
+(g6
+S'\xee\xa5\xbc\x85r\xc3\xd6?'
+p454
+tp455
+Rp456
+tp457
+a(S'spectral line shape'
+p458
+g2
+(g6
+S'Z\xe6\xda9\xc0\xbd\xd6?'
+p459
+tp460
+Rp461
+tp462
+a(S'michael d. fayer'
+p463
+g2
+(g6
+S'o\xeb\xdc7q\xab\xd6?'
+p464
+tp465
+Rp466
+tp467
+a(S'nuclear magnetic resonance spectroscopy'
+p468
+g2
+(g6
+S'\xa6<\xb9\x00\x8c\xa8\xd6?'
+p469
+tp470
+Rp471
+tp472
+a(S'b\xc3\xb8rge bak'
+p473
+g2
+(g6
+S'\xd0\xc9\xf5\x958\xa2\xd6?'
+p474
+tp475
+Rp476
+tp477
+a(S'pulsed field gradient'
+p478
+g2
+(g6
+S"a\xcb{\xdd'\x8f\xd6?"
+p479
+tp480
+Rp481
+tp482
+a(S'brillouin spectroscopy'
+p483
+g2
+(g6
+S'\xa0\xdd\xa4\xddj\x8c\xd6?'
+p484
+tp485
+Rp486
+tp487
+a(S'siegbahn notation'
+p488
+g2
+(g6
+S'\xef^\xdaG>\x82\xd6?'
+p489
+tp490
+Rp491
+tp492
+a(S'wavelength-dispersive x-ray spectroscopy'
+p493
+g2
+(g6
+S'7\xcf-?\xd7{\xd6?'
+p494
+tp495
+Rp496
+tp497
+a(S'noninvasive glucose monitor'
+p498
+g2
+(g6
+S'\x02\xd9Z0\xf0r\xd6?'
+p499
+tp500
+Rp501
+tp502
+a(S'infrared (disambiguation)'
+p503
+g2
+(g6
+S'\xbc\xb8\x82\xbf\xdd]\xd6?'
+p504
+tp505
+Rp506
+tp507
+a(S'kai siegbahn'
+p508
+g2
+(g6
+S'\xffu\x94\xae|W\xd6?'
+p509
+tp510
+Rp511
+tp512
+a(S'molecular physics'
+p513
+g2
+(g6
+S'\x10\xc1{9\xa1S\xd6?'
+p514
+tp515
+Rp516
+tp517
+a(S'g\xc3\xbcnther laukien'
+p518
+g2
+(g6
+S'\x12#\xee3"\x0e\xd6?'
+p519
+tp520
+Rp521
+tp522
+a(S'robert w. field'
+p523
+g2
+(g6
+S'\x8d\x89\x03\xea\x18\x0b\xd6?'
+p524
+tp525
+Rp526
+tp527
+a(S'two-dimensional nuclear magnetic resonance spectroscopy'
+p528
+g2
+(g6
+S'\xca\xd1\x96*\xda\xee\xd5?'
+p529
+tp530
+Rp531
+tp532
+a(S'vladimir konstantinovich prokofiev'
+p533
+g2
+(g6
+S'Gr\xb4\xc2\xb2\xec\xd5?'
+p534
+tp535
+Rp536
+tp537
+a(S'elemental analysis'
+p538
+g2
+(g6
+S'SY\xa4\xc9j\xda\xd5?'
+p539
+tp540
+Rp541
+tp542
+a(S'soret peak'
+p543
+g2
+(g6
+S'\xac^\xd2\x0f\x9a\xd8\xd5?'
+p544
+tp545
+Rp546
+tp547
+a(S'the unscrambler'
+p548
+g2
+(g6
+S'\xd9\x1e\xb2C\x9d\xd0\xd5?'
+p549
+tp550
+Rp551
+tp552
+a(S'scanning transmission x-ray microscopy'
+p553
+g2
+(g6
+S'\xa4\xd5\x99\xd1\xe7\xce\xd5?'
+p554
+tp555
+Rp556
+tp557
+a(S'alexander edgar douglas'
+p558
+g2
+(g6
+S'\x10\xa1\xb6\xaf\x04\xcb\xd5?'
+p559
+tp560
+Rp561
+tp562
+a(S'lester andrews'
+p563
+g2
+(g6
+S'\x7fN6A\xee\xc0\xd5?'
+p564
+tp565
+Rp566
+tp567
+a(S'peter e. toschek'
+p568
+g2
+(g6
+S'\xfd\xe3\xe9\x01\xba\xba\xd5?'
+p569
+tp570
+Rp571
+tp572
+a(S'vladimir broude'
+p573
+g2
+(g6
+S'>pg\xfc\xc4\xb4\xd5?'
+p574
+tp575
+Rp576
+tp577
+a(S'nuclear magnetic resonance spectroscopy of stereoisomers'
+p578
+g2
+(g6
+S'3\x1ec\x9e\x18\x9c\xd5?'
+p579
+tp580
+Rp581
+tp582
+a(S'micro-spectrophotometry'
+p583
+g2
+(g6
+S'\x13^\xc1d\x06\x91\xd5?'
+p584
+tp585
+Rp586
+tp587
+a(S'coherent anti-stokes raman spectroscopy'
+p588
+g2
+(g6
+S'\xd9\x03\x80\xbe\x80\x83\xd5?'
+p589
+tp590
+Rp591
+tp592
+a(S'microanalysis'
+p593
+g2
+(g6
+S'aD\xa3\x9f8}\xd5?'
+p594
+tp595
+Rp596
+tp597
+a(S'ad bax'
+p598
+g2
+(g6
+S'\xa6\xd2<Oij\xd5?'
+p599
+tp600
+Rp601
+tp602
+a(S'isotopic shift'
+p603
+g2
+(g6
+S'\xa7\x00\x171O_\xd5?'
+p604
+tp605
+Rp606
+tp607
+a(S'van der waals molecule'
+p608
+g2
+(g6
+S'\x04\x96\x17\xd4\xe96\xd5?'
+p609
+tp610
+Rp611
+tp612
+a(S'vnir'
+p613
+g2
+(g6
+S'xw~@\x97,\xd5?'
+p614
+tp615
+Rp616
+tp617
+a(S'ultrasound attenuation spectroscopy'
+p618
+g2
+(g6
+S'\x95\xa9k@3\x1d\xd5?'
+p619
+tp620
+Rp621
+tp622
+a(S'national laboratory of atomic, molecular and optical physics'
+p623
+g2
+(g6
+S'\n\x8b\xa4\x93L\x1a\xd5?'
+p624
+tp625
+Rp626
+tp627
+a(S'tip-enhanced raman spectroscopy'
+p628
+g2
+(g6
+S'7\x1c2\xe9W\x12\xd5?'
+p629
+tp630
+Rp631
+tp632
+a(S'atomic, molecular, and optical physics'
+p633
+g2
+(g6
+S"Q\xd6\xd9\x14'\xec\xd4?"
+p634
+tp635
+Rp636
+tp637
+a(S'laser-based angle-resolved photoemission spectroscopy'
+p638
+g2
+(g6
+S'z\x90\xe3\xf7[\xea\xd4?'
+p639
+tp640
+Rp641
+tp642
+a(S'spatially offset raman spectroscopy'
+p643
+g2
+(g6
+S'\xf5\x1a\xdc\x16t\xe5\xd4?'
+p644
+tp645
+Rp646
+tp647
+a(S'electron phenomenological spectroscopy'
+p648
+g2
+(g6
+S'\x81]\xa3\x00b\xe0\xd4?'
+p649
+tp650
+Rp651
+tp652
+a(S'x-ray absorption near edge structure'
+p653
+g2
+(g6
+S'\xff\xae\xf6\x8ex\xd3\xd4?'
+p654
+tp655
+Rp656
+tp657
+a(S'irsweep'
+p658
+g2
+(g6
+S'\x9c\x1e\xc8\xb5,\xc7\xd4?'
+p659
+tp660
+Rp661
+tp662
+a(S'deuterated dmso'
+p663
+g2
+(g6
+S'W\x12\xe7J\x16\xc7\xd4?'
+p664
+tp665
+Rp666
+tp667
+a(S'stark spectroscopy'
+p668
+g2
+(g6
+S';\xfd\x84\xd06\x9c\xd4?'
+p669
+tp670
+Rp671
+tp672
+a(S'absorption band'
+p673
+g2
+(g6
+S'\xa6\x02 ^\x15\x8e\xd4?'
+p674
+tp675
+Rp676
+tp677
+a(S'force spectroscopy'
+p678
+g2
+(g6
+S'\x0bR\xad\xef\xc8\x89\xd4?'
+p679
+tp680
+Rp681
+tp682
+a(S'electron spectroscopy'
+p683
+g2
+(g6
+S'X\xb49\xadpz\xd4?'
+p684
+tp685
+Rp686
+tp687
+a(S'walter gordy'
+p688
+g2
+(g6
+S'\xcf\xa6U\x84\x0bv\xd4?'
+p689
+tp690
+Rp691
+tp692
+a(S'william coblentz'
+p693
+g2
+(g6
+S"\xecj\x9b'em\xd4?"
+p694
+tp695
+Rp696
+tp697
+a(S'physical organic chemistry'
+p698
+g2
+(g6
+S'\x96{O\xcb|k\xd4?'
+p699
+tp700
+Rp701
+tp702
+a(S'absorption (electromagnetic radiation)'
+p703
+g2
+(g6
+S'\xaa-\xf1\xde\x13k\xd4?'
+p704
+tp705
+Rp706
+tp707
+a(S'wavenumber'
+p708
+g2
+(g6
+S'\xd4\r\xc3<\x8b^\xd4?'
+p709
+tp710
+Rp711
+tp712
+a(S'ultrafast laser spectroscopy'
+p713
+g2
+(g6
+S'[\xf6\xd4\x82\t[\xd4?'
+p714
+tp715
+Rp716
+tp717
+a(S'surface core level shift'
+p718
+g2
+(g6
+S'\xcb\xf8\xe0\x03\x12N\xd4?'
+p719
+tp720
+Rp721
+tp722
+a(S'william frederick meggers'
+p723
+g2
+(g6
+S' k=\xb5\x98B\xd4?'
+p724
+tp725
+Rp726
+tp727
+a(S'reinhard mecke'
+p728
+g2
+(g6
+S'v^/\xf0W<\xd4?'
+p729
+tp730
+Rp731
+tp732
+a(S'spin optics laboratory'
+p733
+g2
+(g6
+S'\x07\tm\xd5~\x17\xd4?'
+p734
+tp735
+Rp736
+tp737
+a(S'spectral analysis'
+p738
+g2
+(g6
+S'\xcdK\x08%F\x17\xd4?'
+p739
+tp740
+Rp741
+tp742
+a(S'mrinalini puranik'
+p743
+g2
+(g6
+S';\x97\x9ey\xa7\x0e\xd4?'
+p744
+tp745
+Rp746
+tp747
+a(S'michael zerner'
+p748
+g2
+(g6
+S'E\xaf\xe4_\xfd\x0b\xd4?'
+p749
+tp750
+Rp751
+tp752
+a(S'two-dimensional infrared spectroscopy'
+p753
+g2
+(g6
+S'\x13\xd9=|)\xfb\xd3?'
+p754
+tp755
+Rp756
+tp757
+a(S'pittsburgh conference on analytical chemistry and applied spectroscopy'
+p758
+g2
+(g6
+S'\x92\xda$&\xaf\xde\xd3?'
+p759
+tp760
+Rp761
+tp762
+a(S'video spectroscopy'
+p763
+g2
+(g6
+S'\xc4\xe3\x90\r\x96\xd9\xd3?'
+p764
+tp765
+Rp766
+tp767
+a(S'peter hannaford'
+p768
+g2
+(g6
+S'\xb5\x91\xd7\xf3J\xd3\xd3?'
+p769
+tp770
+Rp771
+tp772
+a(S'tunable diode laser absorption spectroscopy'
+p773
+g2
+(g6
+S'\x9f\xe6A\xd4)\xb8\xd3?'
+p774
+tp775
+Rp776
+tp777
+a(S'marc baldus'
+p778
+g2
+(g6
+S' 8\xa7\x8e\x0b\xb5\xd3?'
+p779
+tp780
+Rp781
+tp782
+a(S'diffuse reflectance infrared fourier transform'
+p783
+g2
+(g6
+S'\xb3\x88\xfb\xef\xb1\xad\xd3?'
+p784
+tp785
+Rp786
+tp787
+a(S'extended x-ray absorption fine structure'
+p788
+g2
+(g6
+S'\xd7\xcf\xcd\xae\x17\xac\xd3?'
+p789
+tp790
+Rp791
+tp792
+a(S'anders jonas \xc3\x85ngstr\xc3\xb6m'
+p793
+g2
+(g6
+S'\xceoo=\xa6\x99\xd3?'
+p794
+tp795
+Rp796
+tp797
+a(S'photoelectrochemical process'
+p798
+g2
+(g6
+S'e\x80\xb6\xc6a\x93\xd3?'
+p799
+tp800
+Rp801
+tp802
+a(S'stanford synchrotron radiation lightsource'
+p803
+g2
+(g6
+S'b\x10|t\xb8\x91\xd3?'
+p804
+tp805
+Rp806
+tp807
+a(S'bernhard schrader'
+p808
+g2
+(g6
+S"\x9c\xe0(\x14'\x8c\xd3?"
+p809
+tp810
+Rp811
+tp812
+a(S'takeshi oka'
+p813
+g2
+(g6
+S'\x83\xb6sV\xe6v\xd3?'
+p814
+tp815
+Rp816
+tp817
+a(S'spectral energy distribution'
+p818
+g2
+(g6
+S'\xb8@\x13\x14\tb\xd3?'
+p819
+tp820
+Rp821
+tp822
+a(S'edgar bright wilson'
+p823
+g2
+(g6
+S'\x084\xb7\xe6\xce`\xd3?'
+p824
+tp825
+Rp826
+tp827
+a(S'sultana n. nahar'
+p828
+g2
+(g6
+S'\xffQ\xff\x98\x00M\xd3?'
+p829
+tp830
+Rp831
+tp832
+a(S'virtual state'
+p833
+g2
+(g6
+S']48\x96`H\xd3?'
+p834
+tp835
+Rp836
+tp837
+a(S'nuclear magnetic resonance spectroscopy of proteins'
+p838
+g2
+(g6
+S'\xee\xc8\xbf\xe7zC\xd3?'
+p839
+tp840
+Rp841
+tp842
+a(S'james w. brault'
+p843
+g2
+(g6
+S'\xec\x82\xe8\x87G+\xd3?'
+p844
+tp845
+Rp846
+tp847
+a(S'shaul mukamel'
+p848
+g2
+(g6
+S"\xd18h\x81\x1c'\xd3?"
+p849
+tp850
+Rp851
+tp852
+a(S'auger electron spectroscopy'
+p853
+g2
+(g6
+S'\xbf\xb1\xe1\x17v&\xd3?'
+p854
+tp855
+Rp856
+tp857
+a(S'terahertz radiation'
+p858
+g2
+(g6
+S'\x05\xbc\xca\xb4\\\x1e\xd3?'
+p859
+tp860
+Rp861
+tp862
+a(S'janine connes'
+p863
+g2
+(g6
+S'G\xef\xd2fJ\x15\xd3?'
+p864
+tp865
+Rp866
+tp867
+a(S'l. g. tang'
+p868
+g2
+(g6
+S'w\xc3\xf9\xf6\xc1\x02\xd3?'
+p869
+tp870
+Rp871
+tp872
+a(S'camille sandorfy'
+p873
+g2
+(g6
+S'YI\x16\x82\xdd\xf8\xd2?'
+p874
+tp875
+Rp876
+tp877
+a(S'laser absorption spectrometry'
+p878
+g2
+(g6
+S'\x8e/y\xedQ\xe6\xd2?'
+p879
+tp880
+Rp881
+tp882
+a(S'nitrogen-15 nuclear magnetic resonance spectroscopy'
+p883
+g2
+(g6
+S'\xd4\xa8\x07\xfe\xf7\xc1\xd2?'
+p884
+tp885
+Rp886
+tp887
+a(S'giacinto scoles'
+p888
+g2
+(g6
+S'Y\x91S\xc8\xa4\xb7\xd2?'
+p889
+tp890
+Rp891
+tp892
+a(S'x-ray absorption fine structure'
+p893
+g2
+(g6
+S'\x08\xd4\x02\xcc\xbf\x9c\xd2?'
+p894
+tp895
+Rp896
+tp897
+a(S'x-ray absorption spectroscopy'
+p898
+g2
+(g6
+S'\x07U\xc2\x88\xc8\x98\xd2?'
+p899
+tp900
+Rp901
+tp902
+a(S'kankan bhattacharyya'
+p903
+g2
+(g6
+S'\xac\xab\xa2\xbd"\x8f\xd2?'
+p904
+tp905
+Rp906
+tp907
+a(S'infrared multiphoton dissociation'
+p908
+g2
+(g6
+S'\x05\xe3\xa0\xde}\x8e\xd2?'
+p909
+tp910
+Rp911
+tp912
+a(S'raman scattering'
+p913
+g2
+(g6
+S'cc\x18\xf9.\x89\xd2?'
+p914
+tp915
+Rp916
+tp917
+a(S'two-dimensional correlation analysis'
+p918
+g2
+(g6
+S'x\xd4Qd\x94{\xd2?'
+p919
+tp920
+Rp921
+tp922
+a(S'bathochromic shift'
+p923
+g2
+(g6
+S'z5`\x10Z{\xd2?'
+p924
+tp925
+Rp926
+tp927
+a(S'synchrotron light source'
+p928
+g2
+(g6
+S'\xc6\x16\x1d\xc7\t{\xd2?'
+p929
+tp930
+Rp931
+tp932
+a(S'allen shenstone'
+p933
+g2
+(g6
+S'\xe7m*\x92-w\xd2?'
+p934
+tp935
+Rp936
+tp937
+a(S'herbert s. gutowsky'
+p938
+g2
+(g6
+S'\xad\x17\xdb\xb0\xa8r\xd2?'
+p939
+tp940
+Rp941
+tp942
+a(S'wolf prize in chemistry'
+p943
+g2
+(g6
+S'\xde\x80\xa7\xe8ha\xd2?'
+p944
+tp945
+Rp946
+tp947
+a(S'k-alpha'
+p948
+g2
+(g6
+S'\xb9\xdb\xcav\x9f[\xd2?'
+p949
+tp950
+Rp951
+tp952
+a(S'horia hulubei'
+p953
+g2
+(g6
+S'\x9a{^\xc8X[\xd2?'
+p954
+tp955
+Rp956
+tp957
+a(S'cavity ring-down spectroscopy'
+p958
+g2
+(g6
+S'\x8a\xfb\xec\xf7..\xd2?'
+p959
+tp960
+Rp961
+tp962
+a(S'polymer characterization'
+p963
+g2
+(g6
+S'l\x12\xc2\xa4%.\xd2?'
+p964
+tp965
+Rp966
+tp967
+a(S'analytical chemistry'
+p968
+g2
+(g6
+S'\x92\x18E\xf80,\xd2?'
+p969
+tp970
+Rp971
+tp972
+a(S'antony john williams'
+p973
+g2
+(g6
+S'\x0e\x1d\xf4s_%\xd2?'
+p974
+tp975
+Rp976
+tp977
+a(S'einstein coefficients'
+p978
+g2
+(g6
+S"\xb1'\xb2R\x1f\x16\xd2?"
+p979
+tp980
+Rp981
+tp982
+a(S'saturated absorption spectroscopy'
+p983
+g2
+(g6
+S'\x18\xc9J\xfa\x92\x06\xd2?'
+p984
+tp985
+Rp986
+tp987
+a(S'x-ray photoelectron spectroscopy'
+p988
+g2
+(g6
+S'\xd9\xd6D\x147\x06\xd2?'
+p989
+tp990
+Rp991
+tp992
+a(S'leonard woodward'
+p993
+g2
+(g6
+S'\xd3Hn\x80 \x02\xd2?'
+p994
+tp995
+Rp996
+tp997
+a(S'theodor w. h\xc3\xa4nsch'
+p998
+g2
+(g6
+S'7"\xb1\x833\xfe\xd1?'
+p999
+tp1000
+Rp1001
+tp1002
+a(S'gas in scattering media absorption spectroscopy'
+p1003
+g2
+(g6
+S'aU!\xf3Z\xf7\xd1?'
+p1004
+tp1005
+Rp1006
+tp1007
+a(S"antonina prikhot'ko"
+p1008
+g2
+(g6
+S'|n\x1c\t[\xf2\xd1?'
+p1009
+tp1010
+Rp1011
+tp1012
+a(S'hai-lung dai'
+p1013
+g2
+(g6
+S'\xca\x85\xb8\x12\x88\xeb\xd1?'
+p1014
+tp1015
+Rp1016
+tp1017
+a(S'nuclear forensics'
+p1018
+g2
+(g6
+S"rc'\x8c\x91\xea\xd1?"
+p1019
+tp1020
+Rp1021
+tp1022
+a(S'murcray heights'
+p1023
+g2
+(g6
+S'\x07m\x0c\xfd.\xe7\xd1?'
+p1024
+tp1025
+Rp1026
+tp1027
+a(S'lai-sheng wang'
+p1028
+g2
+(g6
+S'\xdd\xd0\xbd\x11~\xdf\xd1?'
+p1029
+tp1030
+Rp1031
+tp1032
+a(S'conversion electron m\xc3\xb6ssbauer spectroscopy'
+p1033
+g2
+(g6
+S'\xcf\x01s\x8b}\xde\xd1?'
+p1034
+tp1035
+Rp1036
+tp1037
+a(S'nanometrology'
+p1038
+g2
+(g6
+S'\xb3!\xf7\x953\xdd\xd1?'
+p1039
+tp1040
+Rp1041
+tp1042
+a(S'nuclear overhauser effect'
+p1043
+g2
+(g6
+S'\xee\x8a(q\x0e\xcf\xd1?'
+p1044
+tp1045
+Rp1046
+tp1047
+a(S'teraview'
+p1048
+g2
+(g6
+S'^y>\xf0\xd2\xcd\xd1?'
+p1049
+tp1050
+Rp1051
+tp1052
+a(S'resonance-enhanced multiphoton ionization'
+p1053
+g2
+(g6
+S'\x95g\xf5P\xcf\xc7\xd1?'
+p1054
+tp1055
+Rp1056
+tp1057
+a(S'spectral imaging'
+p1058
+g2
+(g6
+S'\r\xf4\xd6\xf7.\xc3\xd1?'
+p1059
+tp1060
+Rp1061
+tp1062
+a(S'william klemperer'
+p1063
+g2
+(g6
+S'l\x7fy\x90\xed\xc0\xd1?'
+p1064
+tp1065
+Rp1066
+tp1067
+a(S'repulsive state'
+p1068
+g2
+(g6
+S'\xe3\x9d\xbc\x1b\xf9\xb3\xd1?'
+p1069
+tp1070
+Rp1071
+tp1072
+a(S'nirspec (near-infrared spectrograph)'
+p1073
+g2
+(g6
+S'_=\x8f\x8b\xed\xb2\xd1?'
+p1074
+tp1075
+Rp1076
+tp1077
+a(S'carolyn mountford'
+p1078
+g2
+(g6
+S'\xff*\x19ax\xb1\xd1?'
+p1079
+tp1080
+Rp1081
+tp1082
+a(S'journal of molecular spectroscopy'
+p1083
+g2
+(g6
+S'\xa2\xea\xbd\xa5>\xaf\xd1?'
+p1084
+tp1085
+Rp1086
+tp1087
+a(S'bruker'
+p1088
+g2
+(g6
+S'e\xaf\x95{\x8c\xad\xd1?'
+p1089
+tp1090
+Rp1091
+tp1092
+a(S'fourier transform infrared spectroscopy'
+p1093
+g2
+(g6
+S'[qI\xe3L\xa0\xd1?'
+p1094
+tp1095
+Rp1096
+tp1097
+a(S'fluorescence spectroscopy'
+p1098
+g2
+(g6
+S'\x1e\xab\xbb\xb7\n\x93\xd1?'
+p1099
+tp1100
+Rp1101
+tp1102
+a(S'bill price (physicist)'
+p1103
+g2
+(g6
+S'\x1bKJ~\x82\x8e\xd1?'
+p1104
+tp1105
+Rp1106
+tp1107
+a(S'characteristic x-ray'
+p1108
+g2
+(g6
+S'\xcf\x7f\xee\x156\x8d\xd1?'
+p1109
+tp1110
+Rp1111
+tp1112
+a(S'george series'
+p1113
+g2
+(g6
+S'\x9bL\x85zq~\xd1?'
+p1114
+tp1115
+Rp1116
+tp1117
+a(S'thermal infrared spectroscopy'
+p1118
+g2
+(g6
+S'U\xdb\xf8\x90az\xd1?'
+p1119
+tp1120
+Rp1121
+tp1122
+a(S'nmr in biomedicine'
+p1123
+g2
+(g6
+S'\xf7\x05\xf7\x84\xb7y\xd1?'
+p1124
+tp1125
+Rp1126
+tp1127
+a(S'hyperspectral imaging'
+p1128
+g2
+(g6
+S'yP\xde\xf5\x81x\xd1?'
+p1129
+tp1130
+Rp1131
+tp1132
+a(S'nuclear magnetic resonance decoupling'
+p1133
+g2
+(g6
+S'\xf44:]\xfck\xd1?'
+p1134
+tp1135
+Rp1136
+tp1137
+a(S'photoluminescence excitation'
+p1138
+g2
+(g6
+S'jp:\x0fFk\xd1?'
+p1139
+tp1140
+Rp1141
+tp1142
+a(S'in vivo magnetic resonance spectroscopy'
+p1143
+g2
+(g6
+S'\x94\xf2\x8a\x94\xa8d\xd1?'
+p1144
+tp1145
+Rp1146
+tp1147
+a(S'surface science'
+p1148
+g2
+(g6
+S'\xa8\xb3Q2\xe5c\xd1?'
+p1149
+tp1150
+Rp1151
+tp1152
+a(S'huib bakker'
+p1153
+g2
+(g6
+S'B\x88\xbf>\xc2`\xd1?'
+p1154
+tp1155
+Rp1156
+tp1157
+a(S'juli feigon'
+p1158
+g2
+(g6
+S'4\x06\xf6\xbc\xadT\xd1?'
+p1159
+tp1160
+Rp1161
+tp1162
+a(S'ernest k. warburton'
+p1163
+g2
+(g6
+S'\x00i]^"S\xd1?'
+p1164
+tp1165
+Rp1166
+tp1167
+a(S'x-plor'
+p1168
+g2
+(g6
+S']\xa9\xebj\xdeQ\xd1?'
+p1169
+tp1170
+Rp1171
+tp1172
+a(S'energy-dispersive x-ray spectroscopy'
+p1173
+g2
+(g6
+S'\xacy\xcf\xce\xbeO\xd1?'
+p1174
+tp1175
+Rp1176
+tp1177
+a(S'international x-ray observatory'
+p1178
+g2
+(g6
+S'2$\x1e\x9b\x81H\xd1?'
+p1179
+tp1180
+Rp1181
+tp1182
+a(S'hadron spectroscopy'
+p1183
+g2
+(g6
+S')\x90U\xb1\x87=\xd1?'
+p1184
+tp1185
+Rp1186
+tp1187
+a(S'optogalvanic effect'
+p1188
+g2
+(g6
+S'\xe9\xad\x0c\xaei;\xd1?'
+p1189
+tp1190
+Rp1191
+tp1192
+a(S'collision-induced absorption and emission'
+p1193
+g2
+(g6
+S'\xa1\xa9z8\x8b:\xd1?'
+p1194
+tp1195
+Rp1196
+tp1197
+a(S'journal of luminescence'
+p1198
+g2
+(g6
+S'3|*\x02m)\xd1?'
+p1199
+tp1200
+Rp1201
+tp1202
+a(S'birge\xe2\x80\x93sponer method'
+p1203
+g2
+(g6
+S'\x04\\\x1f\xa9\xfa#\xd1?'
+p1204
+tp1205
+Rp1206
+tp1207
+a(S'x-ray notation'
+p1208
+g2
+(g6
+S'\x813n\xa2\x9b\x14\xd1?'
+p1209
+tp1210
+Rp1211
+tp1212
+a(S'rathgen research laboratory'
+p1213
+g2
+(g6
+S'\x13\xd4\x9b\x84v\x13\xd1?'
+p1214
+tp1215
+Rp1216
+tp1217
+a(S'michael stephen feld'
+p1218
+g2
+(g6
+S'/Lh\xfaz\x12\xd1?'
+p1219
+tp1220
+Rp1221
+tp1222
+a(S'sharon ashbrook'
+p1223
+g2
+(g6
+S'\xb1\x17\xef\xc8\xbe\x0c\xd1?'
+p1224
+tp1225
+Rp1226
+tp1227
+a(S'joseph b. lambert'
+p1228
+g2
+(g6
+S'\xaf\x13a\xa8\xa7\n\xd1?'
+p1229
+tp1230
+Rp1231
+tp1232
+a(S'max planck institute of quantum optics'
+p1233
+g2
+(g6
+S'|\x85\xca\xf2\xcc\x06\xd1?'
+p1234
+tp1235
+Rp1236
+tp1237
+a(S'cold vapour atomic fluorescence spectroscopy'
+p1238
+g2
+(g6
+S'\x9c\xbaR2\xe0\x03\xd1?'
+p1239
+tp1240
+Rp1241
+tp1242
+a(S'vernier spectroscopy'
+p1243
+g2
+(g6
+S'w)\x89\xb3,\xdf\xd0?'
+p1244
+tp1245
+Rp1246
+tp1247
+a(S'elliott formula'
+p1248
+g2
+(g6
+S'%LF\x13[\xde\xd0?'
+p1249
+tp1250
+Rp1251
+tp1252
+a(S'vibronic spectroscopy'
+p1253
+g2
+(g6
+S'\\\xe6a\r$\xd9\xd0?'
+p1254
+tp1255
+Rp1256
+tp1257
+a(S'marilyn e. jacox'
+p1258
+g2
+(g6
+S'\xe8\x1b\x14\xac\xdb\xd1\xd0?'
+p1259
+tp1260
+Rp1261
+tp1262
+a(S'laser-induced fluorescence'
+p1263
+g2
+(g6
+S'=\xacG\xf2\xe6\xb2\xd0?'
+p1264
+tp1265
+Rp1266
+tp1267
+a(S'joachim seelig'
+p1268
+g2
+(g6
+S'f\xa6W\r\xbd\xb0\xd0?'
+p1269
+tp1270
+Rp1271
+tp1272
+a(S'prabhakar misra'
+p1273
+g2
+(g6
+S'/Y \x18}\xa8\xd0?'
+p1274
+tp1275
+Rp1276
+tp1277
+a(S'george r. rossman'
+p1278
+g2
+(g6
+S'\x85\xc5\xcb\xd4\x86\xa6\xd0?'
+p1279
+tp1280
+Rp1281
+tp1282
+a(S'metabominer'
+p1283
+g2
+(g6
+S'k\xeb\xcf\xa5\x8e\x9b\xd0?'
+p1284
+tp1285
+Rp1286
+tp1287
+a(S'imaging spectroscopy'
+p1288
+g2
+(g6
+S'\x8d\xf2\xfcP\xb5\x87\xd0?'
+p1289
+tp1290
+Rp1291
+tp1292
+a(S'solid-state nuclear magnetic resonance'
+p1293
+g2
+(g6
+S'\xc4\xba\x18\xa8\x06\x86\xd0?'
+p1294
+tp1295
+Rp1296
+tp1297
+a(S'forensic chemistry'
+p1298
+g2
+(g6
+S'\xae\xc4\xb6@\ts\xd0?'
+p1299
+tp1300
+Rp1301
+tp1302
+a(S'photoluminescence'
+p1303
+g2
+(g6
+S'1\xc7((\x80l\xd0?'
+p1304
+tp1305
+Rp1306
+tp1307
+a(S'electron microprobe'
+p1308
+g2
+(g6
+S'H\xf0\xb5\x9a\xdf\\\xd0?'
+p1309
+tp1310
+Rp1311
+tp1312
+a(S'sextuple bond'
+p1313
+g2
+(g6
+S'!=<\xb6\xe0Q\xd0?'
+p1314
+tp1315
+Rp1316
+tp1317
+a(S'cosmic origins spectrograph'
+p1318
+g2
+(g6
+S'x\x95q\x8bzO\xd0?'
+p1319
+tp1320
+Rp1321
+tp1322
+a(S'optical spectrometer'
+p1323
+g2
+(g6
+S'l\x1f\xcf\xa3\x1bO\xd0?'
+p1324
+tp1325
+Rp1326
+tp1327
+a(S'john j. hopfield (spectroscopist)'
+p1328
+g2
+(g6
+S'H\x8ct\xa6WM\xd0?'
+p1329
+tp1330
+Rp1331
+tp1332
+a(S'analytical technique'
+p1333
+g2
+(g6
+S'`\xfc""\xffB\xd0?'
+p1334
+tp1335
+Rp1336
+tp1337
+a(S'isogenous series'
+p1338
+g2
+(g6
+S'>\xc4\x1f\xbc\xc3@\xd0?'
+p1339
+tp1340
+Rp1341
+tp1342
+a(S'high-valent iron'
+p1343
+g2
+(g6
+S'\xbd\xc1\xf9W\xde?\xd0?'
+p1344
+tp1345
+Rp1346
+tp1347
+a(S'zohra ben lakhdar'
+p1348
+g2
+(g6
+S'g\xe1\rB\xf8<\xd0?'
+p1349
+tp1350
+Rp1351
+tp1352
+a(S'deb shankar ray'
+p1353
+g2
+(g6
+S'\xab\x0b\xc4\x8e\x9b7\xd0?'
+p1354
+tp1355
+Rp1356
+tp1357
+a(S'exclusive correlation spectroscopy'
+p1358
+g2
+(g6
+S'\xed+\x92A\xa4)\xd0?'
+p1359
+tp1360
+Rp1361
+tp1362
+a(S'nirs'
+p1363
+g2
+(g6
+S"\xea\x13\t=\xab'\xd0?"
+p1364
+tp1365
+Rp1366
+tp1367
+a(S'electromagnetic spectrum'
+p1368
+g2
+(g6
+S'g\xb3\xa9\x1d\xe1%\xd0?'
+p1369
+tp1370
+Rp1371
+tp1372
+a(S'long-slit spectroscopy'
+p1373
+g2
+(g6
+S'a\xc4]7O$\xd0?'
+p1374
+tp1375
+Rp1376
+tp1377
+a(S'electric field nmr'
+p1378
+g2
+(g6
+S'\xef$o\xd7b\x19\xd0?'
+p1379
+tp1380
+Rp1381
+tp1382
+a(S'beckman laser institute'
+p1383
+g2
+(g6
+S'm\xa4\x05\xe2\x1e\x11\xd0?'
+p1384
+tp1385
+Rp1386
+tp1387
+a(S'functional magnetic resonance spectroscopy of the brain'
+p1388
+g2
+(g6
+S'\xbduK\xb7N\x07\xd0?'
+p1389
+tp1390
+Rp1391
+tp1392
+a(S'deuterated chloroform'
+p1393
+g2
+(g6
+S'~[\xb7o\xda\xf9\xcf?'
+p1394
+tp1395
+Rp1396
+tp1397
+a(S'j-coupling'
+p1398
+g2
+(g6
+S'X\xf8\xc8\xef\xf7\xf5\xcf?'
+p1399
+tp1400
+Rp1401
+tp1402
+a(S'ultramicroscopy'
+p1403
+g2
+(g6
+S'\x80yv\xedD\xf5\xcf?'
+p1404
+tp1405
+Rp1406
+tp1407
+a(S'grigory landsberg'
+p1408
+g2
+(g6
+S'\x10\xb0\xcd\x97\xb5\xf2\xcf?'
+p1409
+tp1410
+Rp1411
+tp1412
+a(S'wallace r. brode'
+p1413
+g2
+(g6
+S';\xfa\x07\xf6\xa7\xbe\xcf?'
+p1414
+tp1415
+Rp1416
+tp1417
+a(S'iaedans'
+p1418
+g2
+(g6
+S'4\x85\xd5\xb7\x08\xbe\xcf?'
+p1419
+tp1420
+Rp1421
+tp1422
+a(S'hydrogen spectral series'
+p1423
+g2
+(g6
+S'\x11\x00k\x17\xec\xb9\xcf?'
+p1424
+tp1425
+Rp1426
+tp1427
+a(S'coronium'
+p1428
+g2
+(g6
+S'g\x83U\xf1\xb9\x91\xcf?'
+p1429
+tp1430
+Rp1431
+tp1432
+a(S'kotcherlakota rangadhama rao'
+p1433
+g2
+(g6
+S'2\xf1-\x844\x91\xcf?'
+p1434
+tp1435
+Rp1436
+tp1437
+a(S'meggers'
+p1438
+g2
+(g6
+S'\xa1e\xf6U\x9d\x87\xcf?'
+p1439
+tp1440
+Rp1441
+tp1442
+a(S'magnetic resonance'
+p1443
+g2
+(g6
+S'\xb4B[*\x02t\xcf?'
+p1444
+tp1445
+Rp1446
+tp1447
+a(S'phosphorus-31 nuclear magnetic resonance'
+p1448
+g2
+(g6
+S'?\xb9.\xa9\xadk\xcf?'
+p1449
+tp1450
+Rp1451
+tp1452
+a(S'gordon sutherland'
+p1453
+g2
+(g6
+S'\x06\x0b\xb3\xcd\xdfd\xcf?'
+p1454
+tp1455
+Rp1456
+tp1457
+a(S'yambo code'
+p1458
+g2
+(g6
+S'B\xccP\x1d\xb0_\xcf?'
+p1459
+tp1460
+Rp1461
+tp1462
+a(S'edward roy pike'
+p1463
+g2
+(g6
+S't\xb7saX_\xcf?'
+p1464
+tp1465
+Rp1466
+tp1467
+a(S'kramers\xe2\x80\x93kronig relations'
+p1468
+g2
+(g6
+S'"B\x9cX\x80[\xcf?'
+p1469
+tp1470
+Rp1471
+tp1472
+a(S'electron energy loss spectroscopy'
+p1473
+g2
+(g6
+S']r\x95!\x89P\xcf?'
+p1474
+tp1475
+Rp1476
+tp1477
+a(S'resonant inelastic x-ray scattering'
+p1478
+g2
+(g6
+S'\xfc\x83\xdbJh6\xcf?'
+p1479
+tp1480
+Rp1481
+tp1482
+a(S'semiconductor characterization techniques'
+p1483
+g2
+(g6
+S"'\x13\xcc\xa4,2\xcf?"
+p1484
+tp1485
+Rp1486
+tp1487
+a(S'emission'
+p1488
+g2
+(g6
+S'\xb7\xdb{.\x9c \xcf?'
+p1489
+tp1490
+Rp1491
+tp1492
+a(S'spectrophotometry'
+p1493
+g2
+(g6
+S'\x12\xee\xf0K\x8c\x1c\xcf?'
+p1494
+tp1495
+Rp1496
+tp1497
+a(S'richard r. ernst'
+p1498
+g2
+(g6
+S'\xe5\xf5\xa8\xfd\x03\x0e\xcf?'
+p1499
+tp1500
+Rp1501
+tp1502
+a(S'geoffrey b. jameson'
+p1503
+g2
+(g6
+S'0e\x90\xfd\xd0\x05\xcf?'
+p1504
+tp1505
+Rp1506
+tp1507
+a(S'tetramethylsilane'
+p1508
+g2
+(g6
+S'\xe3_\xbd\xcdN\x05\xcf?'
+p1509
+tp1510
+Rp1511
+tp1512
+a.

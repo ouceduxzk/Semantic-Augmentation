@@ -1,0 +1,2728 @@
+(lp0
+(S'bayesian probability'
+p1
+cnumpy.core.multiarray
+scalar
+p2
+(cnumpy
+dtype
+p3
+(S'f8'
+p4
+I0
+I1
+tp5
+Rp6
+(I3
+S'<'
+p7
+NNNI-1
+I-1
+I0
+tp8
+bS'\xfe\xff\xff\xff\xff\xff\xef?'
+p9
+tp10
+Rp11
+tp12
+a(S'bayesian inference'
+p13
+g2
+(g6
+S'\xc7G\x10a\xe5G\xe9?'
+p14
+tp15
+Rp16
+tp17
+a(S'bayesian'
+p18
+g2
+(g6
+S'$S\xc3\x0f\xec\xd8\xe8?'
+p19
+tp20
+Rp21
+tp22
+a(S'bayesian inference in marketing'
+p23
+g2
+(g6
+S'F\xcb\x8a\xc0\xc6\x85\xe6?'
+p24
+tp25
+Rp26
+tp27
+a(S'bayesian statistics'
+p28
+g2
+(g6
+S'\x17\xae\x17\xe1H\x04\xe6?'
+p29
+tp30
+Rp31
+tp32
+a(S'list of things named after thomas bayes'
+p33
+g2
+(g6
+S'L\xb1/\xa0\xf8\xf9\xe5?'
+p34
+tp35
+Rp36
+tp37
+a(S'foundations of statistics'
+p38
+g2
+(g6
+S'o}\r\xc9\xc9\xa4\xe5?'
+p39
+tp40
+Rp41
+tp42
+a(S'bayesian network'
+p43
+g2
+(g6
+S'\x0b\x85\xc1\xe2\x12M\xe4?'
+p44
+tp45
+Rp46
+tp47
+a(S'bayesian programming'
+p48
+g2
+(g6
+S'\xaf\xa3S\xe3Z\x1b\xe4?'
+p49
+tp50
+Rp51
+tp52
+a(S'frequentist inference'
+p53
+g2
+(g6
+S'yHg-i\x0f\xe4?'
+p54
+tp55
+Rp56
+tp57
+a(S'history of statistics'
+p58
+g2
+(g6
+S'\xb4!\xcb{P\xa8\xe3?'
+p59
+tp60
+Rp61
+tp62
+a(S'bayesian inference in phylogeny'
+p63
+g2
+(g6
+S'\x8cq\x0f\x97\x0et\xe3?'
+p64
+tp65
+Rp66
+tp67
+a(S'jasp'
+p68
+g2
+(g6
+S'\xf0\x1c,\xe7\x81\xe0\xe2?'
+p69
+tp70
+Rp71
+tp72
+a(S'bayesian econometrics'
+p73
+g2
+(g6
+S'\xac.\xf0NW\x8d\xe2?'
+p74
+tp75
+Rp76
+tp77
+a(S'bayesian approaches to brain function'
+p78
+g2
+(g6
+S'\xb8\xdf\x13\x18\x907\xe2?'
+p79
+tp80
+Rp81
+tp82
+a(S'robust bayesian analysis'
+p83
+g2
+(g6
+S'\x1a\xd4\t\x9e-"\xe2?'
+p84
+tp85
+Rp86
+tp87
+a(S'bayesian analysis (journal)'
+p88
+g2
+(g6
+S'\xee\xba\xb8`H\xe4\xe1?'
+p89
+tp90
+Rp91
+tp92
+a(S'inverse probability'
+p93
+g2
+(g6
+S'\xdd\xf6\xf9F\xd1\xb9\xe1?'
+p94
+tp95
+Rp96
+tp97
+a(S'frequentist probability'
+p98
+g2
+(g6
+S'6x\xf1`\xc0\x8e\xe1?'
+p99
+tp100
+Rp101
+tp102
+a(S"lindley's paradox"
+p103
+g2
+(g6
+S'\xd1\xe8?4\x0b\x1c\xe1?'
+p104
+tp105
+Rp106
+tp107
+a(S'probability interpretations'
+p108
+g2
+(g6
+S'\xaf\x9f\x96G\x9f\xcb\xe0?'
+p109
+tp110
+Rp111
+tp112
+a(S'bayesian structural time series'
+p113
+g2
+(g6
+S'\x98\x18\xef\xfe"\xa9\xe0?'
+p114
+tp115
+Rp116
+tp117
+a(S'thomas h. leonard'
+p118
+g2
+(g6
+S'\xdb\x91\xfb\x96\xbd\x9d\xe0?'
+p119
+tp120
+Rp121
+tp122
+a(S'bayesian vector autoregression'
+p123
+g2
+(g6
+S'\x14\xcc\xe8:1k\xe0?'
+p124
+tp125
+Rp126
+tp127
+a(S'dynamic bayesian network'
+p128
+g2
+(g6
+S'\x07\xc0\xd4s0g\xe0?'
+p129
+tp130
+Rp131
+tp132
+a(S'international society for bayesian analysis'
+p133
+g2
+(g6
+S'+\xd2\x8f\x1b\xecG\xe0?'
+p134
+tp135
+Rp136
+tp137
+a(S'expectation propagation'
+p138
+g2
+(g6
+S'\x98"\xe1x\xdb(\xe0?'
+p139
+tp140
+Rp141
+tp142
+a(S'bayes linear statistics'
+p143
+g2
+(g6
+S'\x89"C8\x01\xca\xdf?'
+p144
+tp145
+Rp146
+tp147
+a(S'probability'
+p148
+g2
+(g6
+S'\x16k\xa5\xcc\xb0\x84\xdf?'
+p149
+tp150
+Rp151
+tp152
+a(S'inductive probability'
+p153
+g2
+(g6
+S'&;\t\xcb\x7fM\xdf?'
+p154
+tp155
+Rp156
+tp157
+a(S'bayesian cognitive science'
+p158
+g2
+(g6
+S'\x05(\xfeL\xac+\xdf?'
+p159
+tp160
+Rp161
+tp162
+a(S"bayes' theorem"
+p163
+g2
+(g6
+S'\xfd\xec\xfa\xc7\xc5\xa0\xde?'
+p164
+tp165
+Rp166
+tp167
+a(S'bayesian inference in motor learning'
+p168
+g2
+(g6
+S'\xc2!\x92\x0e\xf0\x8f\xde?'
+p169
+tp170
+Rp171
+tp172
+a(S'bayes factor'
+p173
+g2
+(g6
+S'&\xf4Y\x1c\x1fZ\xde?'
+p174
+tp175
+Rp176
+tp177
+a(S'classical definition of probability'
+p178
+g2
+(g6
+S'\xe2:\xbb\xdb\xb8\xb2\xdd?'
+p179
+tp180
+Rp181
+tp182
+a(S'recursive bayesian estimation'
+p183
+g2
+(g6
+S'\xf7u\x01$\xf8\xb1\xdd?'
+p184
+tp185
+Rp186
+tp187
+a(S'bayesian optimization'
+p188
+g2
+(g6
+S'\xbd\x85d\xd6\x7f\x8f\xdd?'
+p189
+tp190
+Rp191
+tp192
+a(S'quantum bayesianism'
+p193
+g2
+(g6
+S'\xfe\xca\x97\x9e\xc9K\xdd?'
+p194
+tp195
+Rp196
+tp197
+a(S'wombling'
+p198
+g2
+(g6
+S'\xfd\xe7~\xe0\xb7+\xdd?'
+p199
+tp200
+Rp201
+tp202
+a(S'credal network'
+p203
+g2
+(g6
+S'\xadq\x14\xf9\xa0\xfa\xdc?'
+p204
+tp205
+Rp206
+tp207
+a(S'empirical probability'
+p208
+g2
+(g6
+S'w\x86Y\x87\xfb\xd9\xdc?'
+p209
+tp210
+Rp211
+tp212
+a(S"cromwell's rule"
+p213
+g2
+(g6
+S'\xb3x\xd3Z\xf6\xb2\xdc?'
+p214
+tp215
+Rp216
+tp217
+a(S'bayesian game'
+p218
+g2
+(g6
+S'gZ!\x8d\xceK\xdc?'
+p219
+tp220
+Rp221
+tp222
+a(S'bayesian average'
+p223
+g2
+(g6
+S'\x00>`EyE\xdc?'
+p224
+tp225
+Rp226
+tp227
+a(S'imprecise probability'
+p228
+g2
+(g6
+S'$\xabD\rd\x8c\xdb?'
+p229
+tp230
+Rp231
+tp232
+a(S'bayesian operational modal analysis'
+p233
+g2
+(g6
+S'\x1b@\xb1\x17\xf9m\xdb?'
+p234
+tp235
+Rp236
+tp237
+a(S'conditional probability'
+p238
+g2
+(g6
+S'\xb5\xb8\xea\x8e\xa6g\xdb?'
+p239
+tp240
+Rp241
+tp242
+a(S'bayesian search theory'
+p243
+g2
+(g6
+S'\x91\xdb\x8aC*N\xdb?'
+p244
+tp245
+Rp246
+tp247
+a(S'coherence (statistics)'
+p248
+g2
+(g6
+S'\xe9r\x19\x1d\x8e\x16\xdb?'
+p249
+tp250
+Rp251
+tp252
+a(S'an essay towards solving a problem in the doctrine of chances'
+p253
+g2
+(g6
+S'\xa9O6b\x83\xcc\xda?'
+p254
+tp255
+Rp256
+tp257
+a(S'posterior probability'
+p258
+g2
+(g6
+S'=\xd4\x1f\x98/\xc9\xda?'
+p259
+tp260
+Rp261
+tp262
+a(S'credal set'
+p263
+g2
+(g6
+S'\xabHcK3\xa3\xda?'
+p264
+tp265
+Rp266
+tp267
+a(S'edwin thompson jaynes'
+p268
+g2
+(g6
+S'$\xe7s\xf6\x84\x9e\xda?'
+p269
+tp270
+Rp271
+tp272
+a(S'statistical inference'
+p273
+g2
+(g6
+S'\x95L\xae\xd4\x1aX\xda?'
+p274
+tp275
+Rp276
+tp277
+a(S'henry e. kyburg, jr.'
+p278
+g2
+(g6
+S'\x17\xf7}%\xa4W\xda?'
+p279
+tp280
+Rp281
+tp282
+a(S'history of probability'
+p283
+g2
+(g6
+S'wZ\xcaC\x98O\xda?'
+p284
+tp285
+Rp286
+tp287
+a(S'probability space'
+p288
+g2
+(g6
+S'uA\xa4I\x05L\xda?'
+p289
+tp290
+Rp291
+tp292
+a(S'bayesian linear regression'
+p293
+g2
+(g6
+S"'\x86\xd7?h\x07\xda?"
+p294
+tp295
+Rp296
+tp297
+a(S'probability and statistics'
+p298
+g2
+(g6
+S'X*\xde\xa2\xbd\xfa\xd9?'
+p299
+tp300
+Rp301
+tp302
+a(S'colin howson'
+p303
+g2
+(g6
+S'HJs\xf3\x94\xf0\xd9?'
+p304
+tp305
+Rp306
+tp307
+a(S'outline of probability'
+p308
+g2
+(g6
+S'x\x02\xdc\xa2>\xc4\xd9?'
+p309
+tp310
+Rp311
+tp312
+a(S'arnold zellner'
+p313
+g2
+(g6
+S'\x0co\x88Q\x82\xb4\xd9?'
+p314
+tp315
+Rp316
+tp317
+a(S'sunrise problem'
+p318
+g2
+(g6
+S'\x16\x0c\xf1\xf5w\xb2\xd9?'
+p319
+tp320
+Rp321
+tp322
+a(S'bayesian hierarchical modeling'
+p323
+g2
+(g6
+S'\xa5?"\xa1\x82y\xd9?'
+p324
+tp325
+Rp326
+tp327
+a(S'laplacesdemon'
+p328
+g2
+(g6
+S'\xe3a\x9dl\xc1a\xd9?'
+p329
+tp330
+Rp331
+tp332
+a(S'marginal likelihood'
+p333
+g2
+(g6
+S'j\xdbg%\x1fX\xd9?'
+p334
+tp335
+Rp336
+tp337
+a(S'strong prior'
+p338
+g2
+(g6
+S'"\xe3d\xb7@/\xd9?'
+p339
+tp340
+Rp341
+tp342
+a(S"bayes' rule"
+p343
+g2
+(g6
+S'\xaf&\x81\xe8\xc3\xfe\xd8?'
+p344
+tp345
+Rp346
+tp347
+a(S'standard boolean model'
+p348
+g2
+(g6
+S'\xa6\xe08\xa5}\xc8\xd8?'
+p349
+tp350
+Rp351
+tp352
+a(S'ray solomonoff'
+p353
+g2
+(g6
+S'\xd6a\xa1iG\xbb\xd8?'
+p354
+tp355
+Rp356
+tp357
+a(S'c+-probability'
+p358
+g2
+(g6
+S'w\x9b\x1a_\xe6\xa7\xd8?'
+p359
+tp360
+Rp361
+tp362
+a(S'list of probability journals'
+p363
+g2
+(g6
+S'4&\x1c\x84\\\xa3\xd8?'
+p364
+tp365
+Rp366
+tp367
+a(S'law of total probability'
+p368
+g2
+(g6
+S'\x18\xb5*\x91\x89\xa1\xd8?'
+p369
+tp370
+Rp371
+tp372
+a(S'statistical proof'
+p373
+g2
+(g6
+S'C\xfb{\xb0\xd3\x84\xd8?'
+p374
+tp375
+Rp376
+tp377
+a(S'outline of statistics'
+p378
+g2
+(g6
+S'\xf6\xcbUy\x91G\xd8?'
+p379
+tp380
+Rp381
+tp382
+a(S'probability theory'
+p383
+g2
+(g6
+S'\xff\xd4\xe4\x1faF\xd8?'
+p384
+tp385
+Rp386
+tp387
+a(S'peter green (statistician)'
+p388
+g2
+(g6
+S'\x135\x7fu\x03>\xd8?'
+p389
+tp390
+Rp391
+tp392
+a(S'equipossibility'
+p393
+g2
+(g6
+S'o\xec\x84\x89\x014\xd8?'
+p394
+tp395
+Rp396
+tp397
+a(S'upper and lower probabilities'
+p398
+g2
+(g6
+S'\xcd\xa3\xd0\xb7y\x01\xd8?'
+p399
+tp400
+Rp401
+tp402
+a(S'probability distribution'
+p403
+g2
+(g6
+S'\x0b\xa9\xc9@+\xfb\xd7?'
+p404
+tp405
+Rp406
+tp407
+a(S'lurdes inoue'
+p408
+g2
+(g6
+S'X\x91\xed\x18M\xf6\xd7?'
+p409
+tp410
+Rp411
+tp412
+a(S'institute of mathematical statistics'
+p413
+g2
+(g6
+S'\x0b\xc4\xac:S\xef\xd7?'
+p414
+tp415
+Rp416
+tp417
+a(S'probability axioms'
+p418
+g2
+(g6
+S'^f&\xd1\xf6\xe3\xd7?'
+p419
+tp420
+Rp421
+tp422
+a(S'bruno de finetti'
+p423
+g2
+(g6
+S'\xbc<\xf3\xf2\x9c\xce\xd7?'
+p424
+tp425
+Rp426
+tp427
+a(S'probabilistic logic'
+p428
+g2
+(g6
+S'C\xc3C\xdes\xcd\xd7?'
+p429
+tp430
+Rp431
+tp432
+a(S'don berry (statistician)'
+p433
+g2
+(g6
+S'K`\x88\xb4\xbe\xc7\xd7?'
+p434
+tp435
+Rp436
+tp437
+a(S'intelligent control'
+p438
+g2
+(g6
+S'BI\xdb\xf5\x85\xb9\xd7?'
+p439
+tp440
+Rp441
+tp442
+a(S'dempster\xe2\x80\x93shafer theory'
+p443
+g2
+(g6
+S'h\xfe\x9d\xe6\xc3\xa6\xd7?'
+p444
+tp445
+Rp446
+tp447
+a(S'reference class problem'
+p448
+g2
+(g6
+S'\xde\x08\xffn\x9f\x9a\xd7?'
+p449
+tp450
+Rp451
+tp452
+a(S'jos\xc3\xa9-miguel bernardo'
+p453
+g2
+(g6
+S'8\xa6|\xc0:\x8d\xd7?'
+p454
+tp455
+Rp456
+tp457
+a(S'orders of magnitude (probability)'
+p458
+g2
+(g6
+S'@\r0\xb7\x7fy\xd7?'
+p459
+tp460
+Rp461
+tp462
+a(S'equiprobability'
+p463
+g2
+(g6
+S'w\xb8\xd9\x8f6y\xd7?'
+p464
+tp465
+Rp466
+tp467
+a(S'unit measure'
+p468
+g2
+(g6
+S'\x88\xff\xed\xa7KG\xd7?'
+p469
+tp470
+Rp471
+tp472
+a(S'probability measure'
+p473
+g2
+(g6
+S'\x87\xc8&\xc6/9\xd7?'
+p474
+tp475
+Rp476
+tp477
+a(S'a priori probability'
+p478
+g2
+(g6
+S'\xae\\\xa7\xd96)\xd7?'
+p479
+tp480
+Rp481
+tp482
+a(S'prior probability'
+p483
+g2
+(g6
+S'\xd2X\x86\xc8_\x1c\xd7?'
+p484
+tp485
+Rp486
+tp487
+a(S'probability distribution of extreme points of a wiener stochastic process'
+p488
+g2
+(g6
+S'\xfa&\x9do\x14\x0b\xd7?'
+p489
+tp490
+Rp491
+tp492
+a(S'david spiegelhalter'
+p493
+g2
+(g6
+S'\x03\xdeJn\x08\xd8\xd6?'
+p494
+tp495
+Rp496
+tp497
+a(S'list of probability topics'
+p498
+g2
+(g6
+S'^\xb5\xa2l\xb5\xcf\xd6?'
+p499
+tp500
+Rp501
+tp502
+a(S'subjective expected utility'
+p503
+g2
+(g6
+S'\xd2\xf4\xcfmO\xa9\xd6?'
+p504
+tp505
+Rp506
+tp507
+a(S'minimum message length'
+p508
+g2
+(g6
+S'\xb1\xd34<?\x93\xd6?'
+p509
+tp510
+Rp511
+tp512
+a(S'list of important publications in statistics'
+p513
+g2
+(g6
+S'\xbc\xdb\xa7\xbc\x8a\x89\xd6?'
+p514
+tp515
+Rp516
+tp517
+a(S'bayesian survival analysis'
+p518
+g2
+(g6
+S'\xab:3\x81\xba\x87\xd6?'
+p519
+tp520
+Rp521
+tp522
+a(S'regular conditional probability'
+p523
+g2
+(g6
+S'\x95\xcbi<\x7fB\xd6?'
+p524
+tp525
+Rp526
+tp527
+a(S'list of unsolved problems in statistics'
+p528
+g2
+(g6
+S'=\xac\xec\xe6:A\xd6?'
+p529
+tp530
+Rp531
+tp532
+a(S'pseudocount'
+p533
+g2
+(g6
+S'\xee\x07\xfd{\xc3*\xd6?'
+p534
+tp535
+Rp536
+tp537
+a(S'probability amplitude'
+p538
+g2
+(g6
+S'<Gp\xd0\xa7!\xd6?'
+p539
+tp540
+Rp541
+tp542
+a(S'point estimation'
+p543
+g2
+(g6
+S's@\xea\xa3\xfe\xff\xd5?'
+p544
+tp545
+Rp546
+tp547
+a(S'glossary of probability and statistics'
+p548
+g2
+(g6
+S'\xfd\xd0\xc8\xc5H\xe5\xd5?'
+p549
+tp550
+Rp551
+tp552
+a(S'probability distribution function'
+p553
+g2
+(g6
+S'\xd7\xb7!/\xae\xc8\xd5?'
+p554
+tp555
+Rp556
+tp557
+a(S"cox's theorem"
+p558
+g2
+(g6
+S'\x08\x80e\xb1\xa1\xbd\xd5?'
+p559
+tp560
+Rp561
+tp562
+a(S'fiducial inference'
+p563
+g2
+(g6
+S'\x0e\x8a\x00S\x16\xa2\xd5?'
+p564
+tp565
+Rp566
+tp567
+a(S'bayes theorem (disambiguation)'
+p568
+g2
+(g6
+S'R\xd3\x05\xa87\xa1\xd5?'
+p569
+tp570
+Rp571
+tp572
+a(S'dennis lindley'
+p573
+g2
+(g6
+S'ONF\xa6\xfen\xd5?'
+p574
+tp575
+Rp576
+tp577
+a(S'evidence under bayes theorem'
+p578
+g2
+(g6
+S'\xa9\x7f\xef\x1b\xf6b\xd5?'
+p579
+tp580
+Rp581
+tp582
+a(S'thomas bayes'
+p583
+g2
+(g6
+S'y\xbe}%\xa4S\xd5?'
+p584
+tp585
+Rp586
+tp587
+a(S'naive bayes spam filtering'
+p588
+g2
+(g6
+S'\x90\xe1+\xa154\xd5?'
+p589
+tp590
+Rp591
+tp592
+a(S'kerrie mengersen'
+p593
+g2
+(g6
+S'\nJ\x0e\x8f\xbf0\xd5?'
+p594
+tp595
+Rp596
+tp597
+a(S'decision theory'
+p598
+g2
+(g6
+S'\xd1\xf8\xa6[t(\xd5?'
+p599
+tp600
+Rp601
+tp602
+a(S'subjectivism'
+p603
+g2
+(g6
+S'\xb2\x1c\x08\x82m%\xd5?'
+p604
+tp605
+Rp606
+tp607
+a(S'timeline of probability and statistics'
+p608
+g2
+(g6
+S'h\xc9\x82OW#\xd5?'
+p609
+tp610
+Rp611
+tp612
+a(S'a treatise on probability'
+p613
+g2
+(g6
+S'I\t\xc8=\x91!\xd5?'
+p614
+tp615
+Rp616
+tp617
+a(S'adrian smith (statistician)'
+p618
+g2
+(g6
+S'4D\xe2\xa6\xe3\xf9\xd4?'
+p619
+tp620
+Rp621
+tp622
+a(S'oscar kempthorne'
+p623
+g2
+(g6
+S'\xd3z|\x83[\xd3\xd4?'
+p624
+tp625
+Rp626
+tp627
+a(S'lists of statistics topics'
+p628
+g2
+(g6
+S'&\xbe*\xb9~\xc5\xd4?'
+p629
+tp630
+Rp631
+tp632
+a(S'algorithmic probability'
+p633
+g2
+(g6
+S'j\xc3\xc6\xcb\xf4\xbe\xd4?'
+p634
+tp635
+Rp636
+tp637
+a(S'excursion probability'
+p638
+g2
+(g6
+S'\xc1F\x1f\x04\x9d\xb7\xd4?'
+p639
+tp640
+Rp641
+tp642
+a(S'rule of succession'
+p643
+g2
+(g6
+S"'|\xe9\x1c\xd7\xa3\xd4?"
+p644
+tp645
+Rp646
+tp647
+a(S'joint probability distribution'
+p648
+g2
+(g6
+S'@B\xe9\xd8\xd1\x9d\xd4?'
+p649
+tp650
+Rp651
+tp652
+a(S'zoubin ghahramani'
+p653
+g2
+(g6
+S'\x9a\x92\x7f\xb6\xab\x9d\xd4?'
+p654
+tp655
+Rp656
+tp657
+a(S'probability bounds analysis'
+p658
+g2
+(g6
+S'\x1d#\xe7\xe8\x8f\x9c\xd4?'
+p659
+tp660
+Rp661
+tp662
+a(S'win probability'
+p663
+g2
+(g6
+S'\xfd\x8a\x14\xa3\xaf\x94\xd4?'
+p664
+tp665
+Rp666
+tp667
+a(S'checking whether a coin is fair'
+p668
+g2
+(g6
+S'\xa0b;=M\x89\xd4?'
+p669
+tp670
+Rp671
+tp672
+a(S'thompson sampling'
+p673
+g2
+(g6
+S'x|3Piy\xd4?'
+p674
+tp675
+Rp676
+tp677
+a(S'approximate inference'
+p678
+g2
+(g6
+S',%\xcc\xf0\xfdd\xd4?'
+p679
+tp680
+Rp681
+tp682
+a(S'jeff gill'
+p683
+g2
+(g6
+S'\x94u\x055sY\xd4?'
+p684
+tp685
+Rp686
+tp687
+a(S'empirical bayes method'
+p688
+g2
+(g6
+S'\xbc\x1d\xadx8F\xd4?'
+p689
+tp690
+Rp691
+tp692
+a(S'stan (software)'
+p693
+g2
+(g6
+S'qq\x9b}\xb5<\xd4?'
+p694
+tp695
+Rp696
+tp697
+a(S'inclusion probability'
+p698
+g2
+(g6
+S'\xdf\xf6\x8aR\x0c/\xd4?'
+p699
+tp700
+Rp701
+tp702
+a(S'notation in probability and statistics'
+p703
+g2
+(g6
+S'l\xc5\xf6L@\x16\xd4?'
+p704
+tp705
+Rp706
+tp707
+a(S'probability mass function'
+p708
+g2
+(g6
+S'\xc1\x98\xb3>\xd5\x03\xd4?'
+p709
+tp710
+Rp711
+tp712
+a(S'bayesian interpretation of kernel regularization'
+p713
+g2
+(g6
+S'k,\xc9\xfd%\xff\xd3?'
+p714
+tp715
+Rp716
+tp717
+a(S'bayesian filtering library'
+p718
+g2
+(g6
+S'\xdcG\x98\\]\xfb\xd3?'
+p719
+tp720
+Rp721
+tp722
+a(S'prospect theory'
+p723
+g2
+(g6
+S'\xbcjB\xa0g\xf5\xd3?'
+p724
+tp725
+Rp726
+tp727
+a(S'normalizing constant'
+p728
+g2
+(g6
+S'Ou\x8ad;\xe9\xd3?'
+p729
+tp730
+Rp731
+tp732
+a(S'exotic probability'
+p733
+g2
+(g6
+S'\xc5\xa3\xa4\x00\x1d\xe5\xd3?'
+p734
+tp735
+Rp736
+tp737
+a(S'dutch book'
+p738
+g2
+(g6
+S':\x10*\n\xb3\xdc\xd3?'
+p739
+tp740
+Rp741
+tp742
+a(S'probability density function'
+p743
+g2
+(g6
+S'\x9d\xe5\x17\x0c\x99\xd1\xd3?'
+p744
+tp745
+Rp746
+tp747
+a(S'elementary event'
+p748
+g2
+(g6
+S'no\xe9\x0e\x18\xcd\xd3?'
+p749
+tp750
+Rp751
+tp752
+a(S'conditional independence'
+p753
+g2
+(g6
+S'\x0f\xc3\xbe\xe5T\xbf\xd3?'
+p754
+tp755
+Rp756
+tp757
+a(S'least squares support vector machine'
+p758
+g2
+(g6
+S']\xbf\xaf\x8ba\xb1\xd3?'
+p759
+tp760
+Rp761
+tp762
+a(S'jim berger (statistician)'
+p763
+g2
+(g6
+S'K\xf5\xbf\xc6v\xa7\xd3?'
+p764
+tp765
+Rp766
+tp767
+a(S'applied probability'
+p768
+g2
+(g6
+S'\xda$\x06P\r\xa7\xd3?'
+p769
+tp770
+Rp771
+tp772
+a(S'mcsim'
+p773
+g2
+(g6
+S'\x9e\xce=\x8d\xc2\x9e\xd3?'
+p774
+tp775
+Rp776
+tp777
+a(S'chinese restaurant process'
+p778
+g2
+(g6
+S'\xbe\xb1m8M\x97\xd3?'
+p779
+tp780
+Rp781
+tp782
+a(S'konrad kording'
+p783
+g2
+(g6
+S'\xe9E\xc1?\xd0\x8b\xd3?'
+p784
+tp785
+Rp786
+tp787
+a(S'wet bias'
+p788
+g2
+(g6
+S'i\x00[u|o\xd3?'
+p789
+tp790
+Rp791
+tp792
+a(S'cafeteria group'
+p793
+g2
+(g6
+S'\xa0\xcdAj\x9eV\xd3?'
+p794
+tp795
+Rp796
+tp797
+a(S'naive bayes classifier'
+p798
+g2
+(g6
+S'\xe5\xf6\xb9e#O\xd3?'
+p799
+tp800
+Rp801
+tp802
+a(S'pairwise error probability'
+p803
+g2
+(g6
+S'\xb7[b\x80\xb0J\xd3?'
+p804
+tp805
+Rp806
+tp807
+a(S'chain rule (probability)'
+p808
+g2
+(g6
+S'\x0c\x06\x11\x8ey9\xd3?'
+p809
+tp810
+Rp811
+tp812
+a(S'deviance information criterion'
+p813
+g2
+(g6
+S'\xadhf\x1c\xe16\xd3?'
+p814
+tp815
+Rp816
+tp817
+a(S'spike-and-slab variable selection'
+p818
+g2
+(g6
+S'\xbaB\x8a3b5\xd3?'
+p819
+tp820
+Rp821
+tp822
+a(S'scaling pattern of occupancy'
+p823
+g2
+(g6
+S'\xd0\x06\xc6\x9b\x993\xd3?'
+p824
+tp825
+Rp826
+tp827
+a(S'sudipto banerjee'
+p828
+g2
+(g6
+S'\xae\xacSdO \xd3?'
+p829
+tp830
+Rp831
+tp832
+a(S'principle of maximum entropy'
+p833
+g2
+(g6
+S'\xfb\xa3k\x89\xdf\x1b\xd3?'
+p834
+tp835
+Rp836
+tp837
+a(S'bayesian experimental design'
+p838
+g2
+(g6
+S'D\xc9\x1d\xd0\xa5\x13\xd3?'
+p839
+tp840
+Rp841
+tp842
+a(S'paola sebastiani'
+p843
+g2
+(g6
+S't\xf7\xde\x84\x17\x04\xd3?'
+p844
+tp845
+Rp846
+tp847
+a(S'estimation of distribution algorithm'
+p848
+g2
+(g6
+S'_\x1e\xda\x97\xa1\xfe\xd2?'
+p849
+tp850
+Rp851
+tp852
+a(S'george casella'
+p853
+g2
+(g6
+S'ni\xa7\x12\xce\xfc\xd2?'
+p854
+tp855
+Rp856
+tp857
+a(S'subjective logic'
+p858
+g2
+(g6
+S'\xbf@[\x92y\xf0\xd2?'
+p859
+tp860
+Rp861
+tp862
+a(S'robert schlaifer'
+p863
+g2
+(g6
+S'\xe8\ro\xf0`\xee\xd2?'
+p864
+tp865
+Rp866
+tp867
+a(S'common cause and special cause (statistics)'
+p868
+g2
+(g6
+S'w\xcf\xac\xf34\xe4\xd2?'
+p869
+tp870
+Rp871
+tp872
+a(S'richard jeffrey'
+p873
+g2
+(g6
+S'jy\xfd\xbd\xfe\xdf\xd2?'
+p874
+tp875
+Rp876
+tp877
+a(S'forward\xe2\x80\x93backward algorithm'
+p878
+g2
+(g6
+S'+.\x1a0\xa1\xde\xd2?'
+p879
+tp880
+Rp881
+tp882
+a(S'ensemble learning'
+p883
+g2
+(g6
+S'\xd5S\x8c\xd9\x9c\xd6\xd2?'
+p884
+tp885
+Rp886
+tp887
+a(S'birthday problem'
+p888
+g2
+(g6
+S'\xbc\x02B\x0f\xd7\xcd\xd2?'
+p889
+tp890
+Rp891
+tp892
+a(S'bernstein\xe2\x80\x93von mises theorem'
+p893
+g2
+(g6
+S' =\xac\xb2\xc5\xca\xd2?'
+p894
+tp895
+Rp896
+tp897
+a(S'craps principle'
+p898
+g2
+(g6
+S'\x85\xf6\xc5k\xb3\xca\xd2?'
+p899
+tp900
+Rp901
+tp902
+a(S'minimum description length'
+p903
+g2
+(g6
+S'\x8dx\x80/\xe6\xc4\xd2?'
+p904
+tp905
+Rp906
+tp907
+a(S'imprecise dirichlet process'
+p908
+g2
+(g6
+S')/\x81\xa8\x92\xb5\xd2?'
+p909
+tp910
+Rp911
+tp912
+a(S'hyperparameter'
+p913
+g2
+(g6
+S'\x0b[K\xe5\r\xaf\xd2?'
+p914
+tp915
+Rp916
+tp917
+a(S'probability current'
+p918
+g2
+(g6
+S'\x9dl\x06\x85\xde\xa6\xd2?'
+p919
+tp920
+Rp921
+tp922
+a(S'list of statistics articles'
+p923
+g2
+(g6
+S'{h\xfdQ\xb4\x98\xd2?'
+p924
+tp925
+Rp926
+tp927
+a(S"bertrand's box paradox"
+p928
+g2
+(g6
+S'\xefd\xea\xcbk\x8b\xd2?'
+p929
+tp930
+Rp931
+tp932
+a(S'joseph l. doob'
+p933
+g2
+(g6
+S'\x1eB\xce\x17\xa5\x8a\xd2?'
+p934
+tp935
+Rp936
+tp937
+a(S'probability plot'
+p938
+g2
+(g6
+S'\xc3\x8d\x8fC\xe0\x85\xd2?'
+p939
+tp940
+Rp941
+tp942
+a(S'probability-generating function'
+p943
+g2
+(g6
+S'H\x0607`y\xd2?'
+p944
+tp945
+Rp946
+tp947
+a(S'graphical model'
+p948
+g2
+(g6
+S'\xb4<]FWZ\xd2?'
+p949
+tp950
+Rp951
+tp952
+a(S'simon godsill'
+p953
+g2
+(g6
+S'24\xf6\x02\x11V\xd2?'
+p954
+tp955
+Rp956
+tp957
+a(S'probability box'
+p958
+g2
+(g6
+S'\xc2\x04\xcd4YS\xd2?'
+p959
+tp960
+Rp961
+tp962
+a(S'probability matching'
+p963
+g2
+(g6
+S'\xea\x9dNr\x90K\xd2?'
+p964
+tp965
+Rp966
+tp967
+a(S'howard raiffa'
+p968
+g2
+(g6
+S'\xad\xe4kH~A\xd2?'
+p969
+tp970
+Rp971
+tp972
+a(S'coverage probability'
+p973
+g2
+(g6
+S'\x0e\xf3%\x0f\x02:\xd2?'
+p974
+tp975
+Rp976
+tp977
+a(S'list of convolutions of probability distributions'
+p978
+g2
+(g6
+S'\x94h\xb6\xc4\x125\xd2?'
+p979
+tp980
+Rp981
+tp982
+a(S'subadditivity effect'
+p983
+g2
+(g6
+S';\x0f\xac\x05\xfa&\xd2?'
+p984
+tp985
+Rp986
+tp987
+a(S'neyman construction'
+p988
+g2
+(g6
+S'\x0c\x8a\xb89\x9b$\xd2?'
+p989
+tp990
+Rp991
+tp992
+a(S'win probability added'
+p993
+g2
+(g6
+S'uX}<P!\xd2?'
+p994
+tp995
+Rp996
+tp997
+a(S'pignistic probability'
+p998
+g2
+(g6
+S'4\xa9;8\xf6\x17\xd2?'
+p999
+tp1000
+Rp1001
+tp1002
+a(S'variational bayesian methods'
+p1003
+g2
+(g6
+S'\x89x\xd2\xd5y\x16\xd2?'
+p1004
+tp1005
+Rp1006
+tp1007
+a(S'charles lawrence (mathematician)'
+p1008
+g2
+(g6
+S'\\~\x1d!H\x0b\xd2?'
+p1009
+tp1010
+Rp1011
+tp1012
+a(S'principle of transformation groups'
+p1013
+g2
+(g6
+S'\xc1\xfd\xeb\xc8\x16\n\xd2?'
+p1014
+tp1015
+Rp1016
+tp1017
+a(S'transferable belief model'
+p1018
+g2
+(g6
+S'JF:h\x0f\n\xd2?'
+p1019
+tp1020
+Rp1021
+tp1022
+a(S'contract bridge probabilities'
+p1023
+g2
+(g6
+S'TDu\x91\x8d\xf7\xd1?'
+p1024
+tp1025
+Rp1026
+tp1027
+a(S'standard probability space'
+p1028
+g2
+(g6
+S'\x88q\x9ek\xa2\xf4\xd1?'
+p1029
+tp1030
+Rp1031
+tp1032
+a(S'marginal distribution'
+p1033
+g2
+(g6
+S'\xe7^\xaa\xa4\x95\xf4\xd1?'
+p1034
+tp1035
+Rp1036
+tp1037
+a(S'eugene seneta'
+p1038
+g2
+(g6
+S'\x04\x8c\x01\xe4+\xf3\xd1?'
+p1039
+tp1040
+Rp1041
+tp1042
+a(S'relevance vector machine'
+p1043
+g2
+(g6
+S't\xc5\xe1_\xc8\xec\xd1?'
+p1044
+tp1045
+Rp1046
+tp1047
+a(S'principle of indifference'
+p1048
+g2
+(g6
+S'L\x06j\xab\xcd\xe6\xd1?'
+p1049
+tp1050
+Rp1051
+tp1052
+a(S'doomsday argument'
+p1053
+g2
+(g6
+S'\xe8xs\x1b.\xdf\xd1?'
+p1054
+tp1055
+Rp1056
+tp1057
+a(S'memorylessness'
+p1058
+g2
+(g6
+S'\x12>\x83\x92\xdb\xdd\xd1?'
+p1059
+tp1060
+Rp1061
+tp1062
+a(S'electronic journal of probability'
+p1063
+g2
+(g6
+S'\xd3\x7fR!\xa3\xdc\xd1?'
+p1064
+tp1065
+Rp1066
+tp1067
+a(S'multiplicative cascade'
+p1068
+g2
+(g6
+S'`\x16)\xab\xf9\xcf\xd1?'
+p1069
+tp1070
+Rp1071
+tp1072
+a(S'founders of statistics'
+p1073
+g2
+(g6
+S'X\xa8YyZ\xc9\xd1?'
+p1074
+tp1075
+Rp1076
+tp1077
+a(S'formal epistemology'
+p1078
+g2
+(g6
+S"E\xe9'\x9c\t\xc8\xd1?"
+p1079
+tp1080
+Rp1081
+tp1082
+a(S'group family'
+p1083
+g2
+(g6
+S'\xc8\xa5\xdeF8\xbf\xd1?'
+p1084
+tp1085
+Rp1086
+tp1087
+a(S'sipta'
+p1088
+g2
+(g6
+S'\xde\xf8\\\xf2j\xb8\xd1?'
+p1089
+tp1090
+Rp1091
+tp1092
+a(S'ars conjectandi'
+p1093
+g2
+(g6
+S'k\x8c&\x80\xa6\xb5\xd1?'
+p1094
+tp1095
+Rp1096
+tp1097
+a(S'norman fenton'
+p1098
+g2
+(g6
+S'\xeei\x01\xbb\x86\xac\xd1?'
+p1099
+tp1100
+Rp1101
+tp1102
+a(S'universality probability'
+p1103
+g2
+(g6
+S'\xb7(\x91;/\xa9\xd1?'
+p1104
+tp1105
+Rp1106
+tp1107
+a(S'branching process'
+p1108
+g2
+(g6
+S'\xd0\xfae\xa7\xd4\x88\xd1?'
+p1109
+tp1110
+Rp1111
+tp1112
+a(S'total variation distance of probability measures'
+p1113
+g2
+(g6
+S"S\xe8TG'v\xd1?"
+p1114
+tp1115
+Rp1116
+tp1117
+a(S'pre- and post-test probability'
+p1118
+g2
+(g6
+S'\x86\xeb{r\rt\xd1?'
+p1119
+tp1120
+Rp1121
+tp1122
+a(S'information field theory'
+p1123
+g2
+(g6
+S'bE#\x9ejh\xd1?'
+p1124
+tp1125
+Rp1126
+tp1127
+a(S'convolution of probability distributions'
+p1128
+g2
+(g6
+S'0\x99\x1ab\x05h\xd1?'
+p1129
+tp1130
+Rp1131
+tp1132
+a(S'string theory landscape'
+p1133
+g2
+(g6
+S'\xbd\xb1\x9a\xcf}g\xd1?'
+p1134
+tp1135
+Rp1136
+tp1137
+a(S'gaussian process emulator'
+p1138
+g2
+(g6
+S'#\x1f^\x9f|]\xd1?'
+p1139
+tp1140
+Rp1141
+tp1142
+a(S'one-shot learning'
+p1143
+g2
+(g6
+S'\xaa\xfao\x89kH\xd1?'
+p1144
+tp1145
+Rp1146
+tp1147
+a(S'statistics'
+p1148
+g2
+(g6
+S'|\x9b\xef<\x95#\xd1?'
+p1149
+tp1150
+Rp1151
+tp1152
+a(S"aumann's agreement theorem"
+p1153
+g2
+(g6
+S'\xcb\xcc)\x8e\xce\x1c\xd1?'
+p1154
+tp1155
+Rp1156
+tp1157
+a(S'nested sampling algorithm'
+p1158
+g2
+(g6
+S'\x1a\x84\xaa\xde\x92\x19\xd1?'
+p1159
+tp1160
+Rp1161
+tp1162
+a(S'maximum a posteriori estimation'
+p1163
+g2
+(g6
+S'!\x97\xafl\xc7\x15\xd1?'
+p1164
+tp1165
+Rp1166
+tp1167
+a(S'tree diagram (probability theory)'
+p1168
+g2
+(g6
+S'D\xd6T\x87\xaf\r\xd1?'
+p1169
+tp1170
+Rp1171
+tp1172
+a(S'hirotugu akaike'
+p1173
+g2
+(g6
+S'\xc1@\xf3\x99\t\x0b\xd1?'
+p1174
+tp1175
+Rp1176
+tp1177
+a(S'hidden markov model'
+p1178
+g2
+(g6
+S'\xaa\xcaI\xa0\xcf\n\xd1?'
+p1179
+tp1180
+Rp1181
+tp1182
+a(S'network probability matrix'
+p1183
+g2
+(g6
+S'PJa\xb0^\x07\xd1?'
+p1184
+tp1185
+Rp1186
+tp1187
+a(S'extended negative binomial distribution'
+p1188
+g2
+(g6
+S',3\xd7?\x16\x05\xd1?'
+p1189
+tp1190
+Rp1191
+tp1192
+a(S'david r\xc3\xados insua'
+p1193
+g2
+(g6
+S'\xfc\x05\x05\x81\t\x00\xd1?'
+p1194
+tp1195
+Rp1196
+tp1197
+a(S'subjective'
+p1198
+g2
+(g6
+S'I\xbakh\xc7\xf8\xd0?'
+p1199
+tp1200
+Rp1201
+tp1202
+a(S'perplexity'
+p1203
+g2
+(g6
+S'\xfbf\xeb\x9d\xba\xf7\xd0?'
+p1204
+tp1205
+Rp1206
+tp1207
+a(S'free energy principle'
+p1208
+g2
+(g6
+S'8\xa1~N\x85\xd4\xd0?'
+p1209
+tp1210
+Rp1211
+tp1212
+a(S'propensity probability'
+p1213
+g2
+(g6
+S'\xbc\xb3\x00uT\xcd\xd0?'
+p1214
+tp1215
+Rp1216
+tp1217
+a(S'rick durrett'
+p1218
+g2
+(g6
+S'T\xc3\xa4\xb6l\xca\xd0?'
+p1219
+tp1220
+Rp1221
+tp1222
+a(S'nir friedman'
+p1223
+g2
+(g6
+S'A \x01\xc0\xc0\xc0\xd0?'
+p1224
+tp1225
+Rp1226
+tp1227
+a(S'ward edwards'
+p1228
+g2
+(g6
+S'\xbc\xbf\n\x94 \xbe\xd0?'
+p1229
+tp1230
+Rp1231
+tp1232
+a(S'probability of success'
+p1233
+g2
+(g6
+S'o)\x9c\xa1B\xbc\xd0?'
+p1234
+tp1235
+Rp1236
+tp1237
+a(S'causal markov condition'
+p1238
+g2
+(g6
+S'\xe2\xe8%S\x96\xba\xd0?'
+p1239
+tp1240
+Rp1241
+tp1242
+a(S'mathematical statistics'
+p1243
+g2
+(g6
+S'P\xbb\x02\xb5\xd2\x97\xd0?'
+p1244
+tp1245
+Rp1246
+tp1247
+a(S'conditional probability distribution'
+p1248
+g2
+(g6
+S'\x8b\xb5\x15nR\x80\xd0?'
+p1249
+tp1250
+Rp1251
+tp1252
+a(S'david a. mcallester'
+p1253
+g2
+(g6
+S'\x02\xf2\xaa\xe1do\xd0?'
+p1254
+tp1255
+Rp1256
+tp1257
+a(S'geometric distribution'
+p1258
+g2
+(g6
+S'\xcb\x13\x05\xdd\xa3j\xd0?'
+p1259
+tp1260
+Rp1261
+tp1262
+a(S'the emergence of probability'
+p1263
+g2
+(g6
+S'\xb6Wr\x9eNi\xd0?'
+p1264
+tp1265
+Rp1266
+tp1267
+a(S'location parameter'
+p1268
+g2
+(g6
+S'\x04\xd2\xc4\xeabb\xd0?'
+p1269
+tp1270
+Rp1271
+tp1272
+a(S'albert t. corbett'
+p1273
+g2
+(g6
+S'\xfd\xc7\xeb\x95\xac[\xd0?'
+p1274
+tp1275
+Rp1276
+tp1277
+a(S'inference'
+p1278
+g2
+(g6
+S'z\xb1\xdf0\x8aS\xd0?'
+p1279
+tp1280
+Rp1281
+tp1282
+a(S'bani k mallick'
+p1283
+g2
+(g6
+S'\x90\xaf6S\x07O\xd0?'
+p1284
+tp1285
+Rp1286
+tp1287
+a(S'log probability'
+p1288
+g2
+(g6
+S'\xd0\xcc=\xd4\xbfJ\xd0?'
+p1289
+tp1290
+Rp1291
+tp1292
+a(S'dyadic distribution'
+p1293
+g2
+(g6
+S'\x18\xe7\xe8V\xc2H\xd0?'
+p1294
+tp1295
+Rp1296
+tp1297
+a(S'approximate bayesian computation'
+p1298
+g2
+(g6
+S'\x7f\xae\xe8b\\@\xd0?'
+p1299
+tp1300
+Rp1301
+tp1302
+a(S'shyamaprasad mukherjee'
+p1303
+g2
+(g6
+S'\x8f\xfd\xb16\xf6?\xd0?'
+p1304
+tp1305
+Rp1306
+tp1307
+a(S'information criterion'
+p1308
+g2
+(g6
+S'\x15\xcd\xcf`\x1f<\xd0?'
+p1309
+tp1310
+Rp1311
+tp1312
+a(S'boy or girl paradox'
+p1313
+g2
+(g6
+S'\xdd\xe0\xb1\xa2m2\xd0?'
+p1314
+tp1315
+Rp1316
+tp1317
+a(S'electronic communications in probability'
+p1318
+g2
+(g6
+S'Y\xf3O3\xf21\xd0?'
+p1319
+tp1320
+Rp1321
+tp1322
+a(S'hellinger distance'
+p1323
+g2
+(g6
+S'\xfb\xbaK\xfbO$\xd0?'
+p1324
+tp1325
+Rp1326
+tp1327
+a(S'base rate fallacy'
+p1328
+g2
+(g6
+S'\x82\xcc\x08l.\x1f\xd0?'
+p1329
+tp1330
+Rp1331
+tp1332
+a(S'sylvia richardson'
+p1333
+g2
+(g6
+S'\xbc\xd9\xe5\xb9\xa5\x15\xd0?'
+p1334
+tp1335
+Rp1336
+tp1337
+a(S'applications of the calculus of variations'
+p1338
+g2
+(g6
+S'\xc5\xe8R\x1f\xff\n\xd0?'
+p1339
+tp1340
+Rp1341
+tp1342
+a(S'differential diagnosis'
+p1343
+g2
+(g6
+S'\xf5\xfe\x8f\x81_\x08\xd0?'
+p1344
+tp1345
+Rp1346
+tp1347
+a(S'variable-order bayesian network'
+p1348
+g2
+(g6
+S'\xaf~\x8e\xf5y\xe3\xcf?'
+p1349
+tp1350
+Rp1351
+tp1352
+a(S'vyacheslav vasilievich sazonov'
+p1353
+g2
+(g6
+S'`\xedn|\xa1\xcf\xcf?'
+p1354
+tp1355
+Rp1356
+tp1357
+a(S'prior (disambiguation)'
+p1358
+g2
+(g6
+S'\x9e\xc6\xfe\x9e\xec\xce\xcf?'
+p1359
+tp1360
+Rp1361
+tp1362
+a(S'normal probability plot'
+p1363
+g2
+(g6
+S'\xee\xf6\xfb2\xc8\xc3\xcf?'
+p1364
+tp1365
+Rp1366
+tp1367
+a(S'method of moments'
+p1368
+g2
+(g6
+S'\xde\x92\xe7\x19\xad\xae\xcf?'
+p1369
+tp1370
+Rp1371
+tp1372
+a(S'rayleigh mixture distribution'
+p1373
+g2
+(g6
+S'Z\xfbs\x82|\xa8\xcf?'
+p1374
+tp1375
+Rp1376
+tp1377
+a(S'applied probability trust'
+p1378
+g2
+(g6
+S'\x92\xc3\x85\xf7\x1a\x92\xcf?'
+p1379
+tp1380
+Rp1381
+tp1382
+a(S"berkson's paradox"
+p1383
+g2
+(g6
+S'\xa9\x02\xa6\xf1\xa9|\xcf?'
+p1384
+tp1385
+Rp1386
+tp1387
+a(S'neglect of probability'
+p1388
+g2
+(g6
+S'\x03\x90\x92\x8b\x97|\xcf?'
+p1389
+tp1390
+Rp1391
+tp1392
+a(S'statistical hypothesis testing'
+p1393
+g2
+(g6
+S'\x14q\xebsKo\xcf?'
+p1394
+tp1395
+Rp1396
+tp1397
+a(S'catalog of articles in probability theory'
+p1398
+g2
+(g6
+S'{W\xd5d\xdef\xcf?'
+p1399
+tp1400
+Rp1401
+tp1402
+a(S'ceremade'
+p1403
+g2
+(g6
+S'\xc4\xc1\xe8_Wc\xcf?'
+p1404
+tp1405
+Rp1406
+tp1407
+a(S'sticking probability'
+p1408
+g2
+(g6
+S'\x1a\xe1\x97V\x1cV\xcf?'
+p1409
+tp1410
+Rp1411
+tp1412
+a(S'singular distribution'
+p1413
+g2
+(g6
+S';\x98\xc2\x84dU\xcf?'
+p1414
+tp1415
+Rp1416
+tp1417
+a(S"prosecutor's fallacy"
+p1418
+g2
+(g6
+S'(}\x19&\xabT\xcf?'
+p1419
+tp1420
+Rp1421
+tp1422
+a(S'self-indication assumption'
+p1423
+g2
+(g6
+S'h\xf5\xb1\xc2\xe8F\xcf?'
+p1424
+tp1425
+Rp1426
+tp1427
+a(S'maintenance-free operating period'
+p1428
+g2
+(g6
+S'\xca\x14\x15\xd9\x14C\xcf?'
+p1429
+tp1430
+Rp1431
+tp1432
+a(S'fr\xc3\xa9chet inequalities'
+p1433
+g2
+(g6
+S'\xea\x1af\xd0\xb5;\xcf?'
+p1434
+tp1435
+Rp1436
+tp1437
+a(S"wendel's theorem"
+p1438
+g2
+(g6
+S'B\xab=\xe0\x124\xcf?'
+p1439
+tp1440
+Rp1441
+tp1442
+a(S'david a. freedman'
+p1443
+g2
+(g6
+S'7K\xc14\xa0\x16\xcf?'
+p1444
+tp1445
+Rp1446
+tp1447
+a(S'jayanta kumar ghosh'
+p1448
+g2
+(g6
+S'\x84S6>\x82\x08\xcf?'
+p1449
+tp1450
+Rp1451
+tp1452
+a(S'almost surely'
+p1453
+g2
+(g6
+S'c\xbb4mS\x01\xcf?'
+p1454
+tp1455
+Rp1456
+tp1457
+a(S'morris h. degroot'
+p1458
+g2
+(g6
+S'g\xd1\xe0&J\xf1\xce?'
+p1459
+tp1460
+Rp1461
+tp1462
+a(S'cls method (particle physics)'
+p1463
+g2
+(g6
+S'\xc5R\xfc\xec\x08\xeb\xce?'
+p1464
+tp1465
+Rp1466
+tp1467
+a(S'postselection'
+p1468
+g2
+(g6
+S'\x92\xb5=\x19\x1a\xcb\xce?'
+p1469
+tp1470
+Rp1471
+tp1472
+a(S'generic views'
+p1473
+g2
+(g6
+S'\xa5S\rp\n\xc9\xce?'
+p1474
+tp1475
+Rp1476
+tp1477
+a(S"skorokhod's representation theorem"
+p1478
+g2
+(g6
+S'\x92\xf5\xfc\xc5\x8b\xbe\xce?'
+p1479
+tp1480
+Rp1481
+tp1482
+a(S'bernoulli society for mathematical statistics and probability'
+p1483
+g2
+(g6
+S'M\x9e\x05~\xd7\xbd\xce?'
+p1484
+tp1485
+Rp1486
+tp1487
+a(S'quantum probability'
+p1488
+g2
+(g6
+S'\x1d\x82\x9c\xc2R\xb2\xce?'
+p1489
+tp1490
+Rp1491
+tp1492
+a(S'frequency format hypothesis'
+p1493
+g2
+(g6
+S'o\nZ[T\xae\xce?'
+p1494
+tp1495
+Rp1496
+tp1497
+a(S'free probability'
+p1498
+g2
+(g6
+S'j\xb1\x05\x9e\xf3\xa5\xce?'
+p1499
+tp1500
+Rp1501
+tp1502
+a(S'predictive probability of success'
+p1503
+g2
+(g6
+S'\x1a\xe4\x80\r$\x9b\xce?'
+p1504
+tp1505
+Rp1506
+tp1507
+a(S'platt scaling'
+p1508
+g2
+(g6
+S'\x04\xb0/d\xd3\x8f\xce?'
+p1509
+tp1510
+Rp1511
+tp1512
+a.

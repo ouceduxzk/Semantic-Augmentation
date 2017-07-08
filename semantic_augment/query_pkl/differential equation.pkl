@@ -1,0 +1,2728 @@
+(lp0
+(S'differential equation'
+p1
+cnumpy.core.multiarray
+scalar
+p2
+(cnumpy
+dtype
+p3
+(S'f8'
+p4
+I0
+I1
+tp5
+Rp6
+(I3
+S'<'
+p7
+NNNI-1
+I-1
+I0
+tp8
+bS'\x01\x00\x00\x00\x00\x00\xf0?'
+p9
+tp10
+Rp11
+tp12
+a(S'ordinary differential equation'
+p13
+g2
+(g6
+S'u\xd1\x86}\xcf\xd7\xea?'
+p14
+tp15
+Rp16
+tp17
+a(S'functional differential equation'
+p18
+g2
+(g6
+S'W\x9b\xdfa\xff\x12\xea?'
+p19
+tp20
+Rp21
+tp22
+a(S'partial differential equation'
+p23
+g2
+(g6
+S'\xb6\xf15+\xcf\xcb\xe9?'
+p24
+tp25
+Rp26
+tp27
+a(S'equation'
+p28
+g2
+(g6
+S'\xb7\xa1i7U}\xe8?'
+p29
+tp30
+Rp31
+tp32
+a(S'list of partial differential equation topics'
+p33
+g2
+(g6
+S'\x14\x1f#\x85"9\xe8?'
+p34
+tp35
+Rp36
+tp37
+a(S'homogeneous differential equation'
+p38
+g2
+(g6
+S"a\xd0\x0c\xef'\xe5\xe7?"
+p39
+tp40
+Rp41
+tp42
+a(S'linear differential equation'
+p43
+g2
+(g6
+S'\x076\x95\x1d\x96|\xe7?'
+p44
+tp45
+Rp46
+tp47
+a(S'bernoulli differential equation'
+p48
+g2
+(g6
+S'\xa9#T08\xfe\xe6?'
+p49
+tp50
+Rp51
+tp52
+a(S'b\xc3\xa4cklund transform'
+p53
+g2
+(g6
+S'\x1b\x85HjWq\xe6?'
+p54
+tp55
+Rp56
+tp57
+a(S'inexact differential equation'
+p58
+g2
+(g6
+S'\xfb\xc1\x8a{\x88]\xe6?'
+p59
+tp60
+Rp61
+tp62
+a(S'exact differential equation'
+p63
+g2
+(g6
+S'\xf6S\xc5Z\x1cQ\xe6?'
+p64
+tp65
+Rp66
+tp67
+a(S'complex differential equation'
+p68
+g2
+(g6
+S'A\xb9\xf3\xa3\x92>\xe6?'
+p69
+tp70
+Rp71
+tp72
+a(S'regular singular point'
+p73
+g2
+(g6
+S'\xf6\xc0\x92?m,\xe6?'
+p74
+tp75
+Rp76
+tp77
+a(S'examples of differential equations'
+p78
+g2
+(g6
+S'\xd1\xaec\xe5\x16 \xe6?'
+p79
+tp80
+Rp81
+tp82
+a(S'li\xc3\xa9nard equation'
+p83
+g2
+(g6
+S'0\xb2?3\xca\x10\xe6?'
+p84
+tp85
+Rp86
+tp87
+a(S'list of equations'
+p88
+g2
+(g6
+S'\xc1\xd7\x05x\x94\xd5\xe5?'
+p89
+tp90
+Rp91
+tp92
+a(S'integro-differential equation'
+p93
+g2
+(g6
+S'\xe7\xdf\x00\x9f\x18\xba\xe5?'
+p94
+tp95
+Rp96
+tp97
+a(S'stochastic partial differential equation'
+p98
+g2
+(g6
+S'\xd98\xcd\xbd\xdd\xb5\xe5?'
+p99
+tp100
+Rp101
+tp102
+a(S'painlev\xc3\xa9 transcendents'
+p103
+g2
+(g6
+S'e\x18c-\xf7S\xe5?'
+p104
+tp105
+Rp106
+tp107
+a(S'hyperbolic partial differential equation'
+p108
+g2
+(g6
+S'U\x86P\xee\xb3M\xe5?'
+p109
+tp110
+Rp111
+tp112
+a(S'integrating factor'
+p113
+g2
+(g6
+S'\xbfUd\xcbuB\xe5?'
+p114
+tp115
+Rp116
+tp117
+a(S'differential ideal'
+p118
+g2
+(g6
+S'\x99\xc5\t*\x9a\x1f\xe5?'
+p119
+tp120
+Rp121
+tp122
+a(S'characteristic equation (calculus)'
+p123
+g2
+(g6
+S'\x8b\xbe \xbcI\x0b\xe5?'
+p124
+tp125
+Rp126
+tp127
+a(S'separation of variables'
+p128
+g2
+(g6
+S'\xb4\xf8]<\x98\xe0\xe4?'
+p129
+tp130
+Rp131
+tp132
+a(S'first-order partial differential equation'
+p133
+g2
+(g6
+S'\x9e/\xa1C\xb0\xb8\xe4?'
+p134
+tp135
+Rp136
+tp137
+a(S'variation of parameters'
+p138
+g2
+(g6
+S'\xa0J\xb9\xf6U\xb1\xe4?'
+p139
+tp140
+Rp141
+tp142
+a(S'reduction of order'
+p143
+g2
+(g6
+S'\x98\xf1\xa1R\xc4\xa1\xe4?'
+p144
+tp145
+Rp146
+tp147
+a(S'tzitzeica equation'
+p148
+g2
+(g6
+S'\n\x19>@\x16\xa0\xe4?'
+p149
+tp150
+Rp151
+tp152
+a(S'independent equation'
+p153
+g2
+(g6
+S'\xea/\xc7=\xcf\x81\xe4?'
+p154
+tp155
+Rp156
+tp157
+a(S'nonlinear system'
+p158
+g2
+(g6
+S'\xd9\x1d\xa1\x88R|\xe4?'
+p159
+tp160
+Rp161
+tp162
+a(S'delay differential equation'
+p163
+g2
+(g6
+S'0\xc8\xbflSv\xe4?'
+p164
+tp165
+Rp166
+tp167
+a(S'list of scientific equations named after people'
+p168
+g2
+(g6
+S'\xc2\x1b\xae\xe9*U\xe4?'
+p169
+tp170
+Rp171
+tp172
+a(S"abel's identity"
+p173
+g2
+(g6
+S'\xb2\xdc\x98d\xb2S\xe4?'
+p174
+tp175
+Rp176
+tp177
+a(S'modified kdv\xe2\x80\x93burgers equation'
+p178
+g2
+(g6
+S'u,\x9bm@5\xe4?'
+p179
+tp180
+Rp181
+tp182
+a(S'valentina borok'
+p183
+g2
+(g6
+S'\x1e\xc0\xdf\xf7\xe0*\xe4?'
+p184
+tp185
+Rp186
+tp187
+a(S'movable singularity'
+p188
+g2
+(g6
+S'\xa2@\x12\x1c\xae%\xe4?'
+p189
+tp190
+Rp191
+tp192
+a(S'field equation'
+p193
+g2
+(g6
+S'\xba)Qw9\x1d\xe4?'
+p194
+tp195
+Rp196
+tp197
+a(S'euler\xe2\x80\x93tricomi equation'
+p198
+g2
+(g6
+S'\xa5\x8a&\xd8~\x02\xe4?'
+p199
+tp200
+Rp201
+tp202
+a(S'characteristic equation'
+p203
+g2
+(g6
+S'\x0e\x0fP\x94|\x02\xe4?'
+p204
+tp205
+Rp206
+tp207
+a(S'weak solution'
+p208
+g2
+(g6
+S'\x13\xd82\xfd\x18\xeb\xe3?'
+p209
+tp210
+Rp211
+tp212
+a(S'list of solution strategies for differential equations'
+p213
+g2
+(g6
+S'\xaf\r(\xddX\xde\xe3?'
+p214
+tp215
+Rp216
+tp217
+a(S'binomial differential equation'
+p218
+g2
+(g6
+S' \x07\xbd\x028\xcc\xe3?'
+p219
+tp220
+Rp221
+tp222
+a(S'gardner equation'
+p223
+g2
+(g6
+S'\x98P\xe7\xc9\xa0\xc9\xe3?'
+p224
+tp225
+Rp226
+tp227
+a(S'algebraic differential equation'
+p228
+g2
+(g6
+S'\xab\xe3\xe1\x86\xc7\xbc\xe3?'
+p229
+tp230
+Rp231
+tp232
+a(S'gheorghe moro\xc8\x99anu'
+p233
+g2
+(g6
+S'r\x14\xe3\x9d@\xaa\xe3?'
+p234
+tp235
+Rp236
+tp237
+a(S'ftcs scheme'
+p238
+g2
+(g6
+S'g\xa3\x1a\x94\x06\xa9\xe3?'
+p239
+tp240
+Rp241
+tp242
+a(S'nonlinear partial differential equation'
+p243
+g2
+(g6
+S'\xa1\x16\x7f\xc2\x13\xa3\xe3?'
+p244
+tp245
+Rp246
+tp247
+a(S'lin\xe2\x80\x93tsien equation'
+p248
+g2
+(g6
+S'\xc9\xc0\xd8)@\x82\xe3?'
+p249
+tp250
+Rp251
+tp252
+a(S'riccati equation'
+p253
+g2
+(g6
+S'\xbc\xda\xdc\x9f@y\xe3?'
+p254
+tp255
+Rp256
+tp257
+a(S'hill differential equation'
+p258
+g2
+(g6
+S'\x96=?\x86\xfbu\xe3?'
+p259
+tp260
+Rp261
+tp262
+a(S'tadeusz wa\xc5\xbcewski'
+p263
+g2
+(g6
+S'\xbf*\xf7\xb3\xc9f\xe3?'
+p264
+tp265
+Rp266
+tp267
+a(S'ultrahyperbolic equation'
+p268
+g2
+(g6
+S'5X\x86\xb5Le\xe3?'
+p269
+tp270
+Rp271
+tp272
+a(S'list of dynamical systems and differential equations topics'
+p273
+g2
+(g6
+S':8Y}5>\xe3?'
+p274
+tp275
+Rp276
+tp277
+a(S'simultaneous equations'
+p278
+g2
+(g6
+S'_\x9e\xf5>F%\xe3?'
+p279
+tp280
+Rp281
+tp282
+a(S'eqworld'
+p283
+g2
+(g6
+S'\x8a\x98-\x9f2\x1f\xe3?'
+p284
+tp285
+Rp286
+tp287
+a(S'parabolic partial differential equation'
+p288
+g2
+(g6
+S'\x1f\xa2\xb5\xa4&\x0b\xe3?'
+p289
+tp290
+Rp291
+tp292
+a(S'integral equation'
+p293
+g2
+(g6
+S'\n\xec5G7\x06\xe3?'
+p294
+tp295
+Rp296
+tp297
+a(S'unnormalized kdv equation'
+p298
+g2
+(g6
+S'\xff\xa9\x8e\x1a\x00\x01\xe3?'
+p299
+tp300
+Rp301
+tp302
+a(S'partial differential algebraic equation'
+p303
+g2
+(g6
+S'\xa3\xd8\tET\xf9\xe2?'
+p304
+tp305
+Rp306
+tp307
+a(S'equation solving'
+p308
+g2
+(g6
+S'\xfe\x9c\x99[\xa6\xf5\xe2?'
+p309
+tp310
+Rp311
+tp312
+a(S"clairaut's equation"
+p313
+g2
+(g6
+S'36\xb4h\xd5\xc7\xe2?'
+p314
+tp315
+Rp316
+tp317
+a(S'chaffee\xe2\x80\x93infante equation'
+p318
+g2
+(g6
+S'~e\xbd.E\xb5\xe2?'
+p319
+tp320
+Rp321
+tp322
+a(S"zubov's method"
+p323
+g2
+(g6
+S'\x02\x95ssA\xad\xe2?'
+p324
+tp325
+Rp326
+tp327
+a(S'stochastic differential equation'
+p328
+g2
+(g6
+S'\xbbg\x898\xe5\xa2\xe2?'
+p329
+tp330
+Rp331
+tp332
+a(S'hessian equation'
+p333
+g2
+(g6
+S'\xeb\xfc&\x8fd\x97\xe2?'
+p334
+tp335
+Rp336
+tp337
+a(S'broer-kaup equation'
+p338
+g2
+(g6
+S'n0|\xe0\xbf\x90\xe2?'
+p339
+tp340
+Rp341
+tp342
+a(S'nondimensionalization'
+p343
+g2
+(g6
+S'\xd5\xde\n\xd3\xbcf\xe2?'
+p344
+tp345
+Rp346
+tp347
+a(S'mingarelli identity'
+p348
+g2
+(g6
+S'\xd8\xef\x84\x12\xccS\xe2?'
+p349
+tp350
+Rp351
+tp352
+a(S'drinfeld\xe2\x80\x93sokolov\xe2\x80\x93wilson equation'
+p353
+g2
+(g6
+S'qO\xa6W\x92N\xe2?'
+p354
+tp355
+Rp356
+tp357
+a(S'elliptic partial differential equation'
+p358
+g2
+(g6
+S'L8=\x98\xd3D\xe2?'
+p359
+tp360
+Rp361
+tp362
+a(S'governing equation'
+p363
+g2
+(g6
+S'6\x9f\xea\xe2\xf59\xe2?'
+p364
+tp365
+Rp366
+tp367
+a(S'korteweg\xe2\x80\x93de vries equation'
+p368
+g2
+(g6
+S'\xcb\xb0\xe0\xdd^8\xe2?'
+p369
+tp370
+Rp371
+tp372
+a(S'residual power series method'
+p373
+g2
+(g6
+S'T.k\xb0\xa74\xe2?'
+p374
+tp375
+Rp376
+tp377
+a(S'elementary algebra'
+p378
+g2
+(g6
+S'\xf9\x85$l\xd23\xe2?'
+p379
+tp380
+Rp381
+tp382
+a(S'inverse scattering transform'
+p383
+g2
+(g6
+S']\xb6D=?#\xe2?'
+p384
+tp385
+Rp386
+tp387
+a(S'fifth-order korteweg\xe2\x80\x93de vries equation'
+p388
+g2
+(g6
+S'\xb1\xab\xba\x18\xa7\x1a\xe2?'
+p389
+tp390
+Rp391
+tp392
+a(S'fujita\xe2\x80\x93storm equation'
+p393
+g2
+(g6
+S'\xf8\xf3\x04\xc2\x93\x05\xe2?'
+p394
+tp395
+Rp396
+tp397
+a(S'differential'
+p398
+g2
+(g6
+S'\xd2T\xe4\xfa\t\x05\xe2?'
+p399
+tp400
+Rp401
+tp402
+a(S'nahm equations'
+p403
+g2
+(g6
+S'5\xc1n\x97h\x03\xe2?'
+p404
+tp405
+Rp406
+tp407
+a(S'functional equation'
+p408
+g2
+(g6
+S'!\x1d\x1f[i\xfc\xe1?'
+p409
+tp410
+Rp411
+tp412
+a(S'chazy equation'
+p413
+g2
+(g6
+S']i\x1d\xa9\x9b\xf9\xe1?'
+p414
+tp415
+Rp416
+tp417
+a(S"carath\xc3\xa9odory's existence theorem"
+p418
+g2
+(g6
+S'\xa30z1\x19\xf7\xe1?'
+p419
+tp420
+Rp421
+tp422
+a(S'fran\xc3\xa7ois tr\xc3\xa8ves'
+p423
+g2
+(g6
+S'\xc6\xa0h\xf2B\xe9\xe1?'
+p424
+tp425
+Rp426
+tp427
+a(S'constraint counting'
+p428
+g2
+(g6
+S'w\xa3\xda2<\xc7\xe1?'
+p429
+tp430
+Rp431
+tp432
+a(S'method of undetermined coefficients'
+p433
+g2
+(g6
+S'\x95\xa3Q\xc9\x15\xc2\xe1?'
+p434
+tp435
+Rp436
+tp437
+a(S'method of characteristics'
+p438
+g2
+(g6
+S'\xf2\xd6\xd0\x890\xbe\xe1?'
+p439
+tp440
+Rp441
+tp442
+a(S'estevez\xe2\x80\x93mansfield\xe2\x80\x93clarkson equation'
+p443
+g2
+(g6
+S"\x14@Y'\xbd\xaa\xe1?"
+p444
+tp445
+Rp446
+tp447
+a(S'abel equation of the first kind'
+p448
+g2
+(g6
+S'\x9d\x9a\xff\x97\xa3\xa9\xe1?'
+p449
+tp450
+Rp451
+tp452
+a(S"numerov's method"
+p453
+g2
+(g6
+S'\xd0j\xf5kc\x99\xe1?'
+p454
+tp455
+Rp456
+tp457
+a(S'algebraic equation'
+p458
+g2
+(g6
+S'1w\x00\xe9*\x8d\xe1?'
+p459
+tp460
+Rp461
+tp462
+a(S'analysis of partial differential equations'
+p463
+g2
+(g6
+S'\xd3s\xa3\x9e\xf4\x8c\xe1?'
+p464
+tp465
+Rp466
+tp467
+a(S'geometric analysis'
+p468
+g2
+(g6
+S'K\x0e\xbe\xdb\xc5\x8b\xe1?'
+p469
+tp470
+Rp471
+tp472
+a(S'history of numerical solution of differential equations using computers'
+p473
+g2
+(g6
+S'\x13\xd3\xe9\xafhl\xe1?'
+p474
+tp475
+Rp476
+tp477
+a(S"ward's conjecture"
+p478
+g2
+(g6
+S'[\xab\xfc\x969d\xe1?'
+p479
+tp480
+Rp481
+tp482
+a(S'phase space method'
+p483
+g2
+(g6
+S'z\x9e\x15\xb8mR\xe1?'
+p484
+tp485
+Rp486
+tp487
+a(S'hector chang (mathematician)'
+p488
+g2
+(g6
+S'\xc48\x8c"PO\xe1?'
+p489
+tp490
+Rp491
+tp492
+a(S'dispersive partial differential equation'
+p493
+g2
+(g6
+S'\x05{\x93p[I\xe1?'
+p494
+tp495
+Rp496
+tp497
+a(S'consistent and inconsistent equations'
+p498
+g2
+(g6
+S'y\xb2`L\xcf@\xe1?'
+p499
+tp500
+Rp501
+tp502
+a(S'power series solution of differential equations'
+p503
+g2
+(g6
+S'\xb5\xaa\n\xc4\x146\xe1?'
+p504
+tp505
+Rp506
+tp507
+a(S'von foerster equation'
+p508
+g2
+(g6
+S'\x97Ax\xbf\x872\xe1?'
+p509
+tp510
+Rp511
+tp512
+a(S'fisher\xe2\x80\x93kolmogorov equation'
+p513
+g2
+(g6
+S'#c\xc9\x93\xba\x17\xe1?'
+p514
+tp515
+Rp516
+tp517
+a(S'quantum master equation'
+p518
+g2
+(g6
+S'u\xd3\x04M\x84\x16\xe1?'
+p519
+tp520
+Rp521
+tp522
+a(S'hirota-satsuma equation'
+p523
+g2
+(g6
+S'\xa7\x0c\xa3\\\x18\x13\xe1?'
+p524
+tp525
+Rp526
+tp527
+a(S'tricomi'
+p528
+g2
+(g6
+S'\x8c\x1a\x1f\xe4\x15\x11\xe1?'
+p529
+tp530
+Rp531
+tp532
+a(S'list of nonlinear partial differential equations'
+p533
+g2
+(g6
+S'r\xec\xd69^\n\xe1?'
+p534
+tp535
+Rp536
+tp537
+a(S'conservation form'
+p538
+g2
+(g6
+S'\xb1\x08E\x87I\xfa\xe0?'
+p539
+tp540
+Rp541
+tp542
+a(S'summation equation'
+p543
+g2
+(g6
+S'\x9d\xeb\xb0\xb5\xd5\xf7\xe0?'
+p544
+tp545
+Rp546
+tp547
+a(S'adjoint equation'
+p548
+g2
+(g6
+S"\x90i\xce0'\xf6\xe0?"
+p549
+tp550
+Rp551
+tp552
+a(S'exact differential'
+p553
+g2
+(g6
+S'\x1d\x1e4\x10\xd0\xef\xe0?'
+p554
+tp555
+Rp556
+tp557
+a(S'boussinesq approximation (water waves)'
+p558
+g2
+(g6
+S'x\x9a q\x19\xe6\xe0?'
+p559
+tp560
+Rp561
+tp562
+a(S'isomonodromic deformation'
+p563
+g2
+(g6
+S'\xd6\xb9te\xf4\xd3\xe0?'
+p564
+tp565
+Rp566
+tp567
+a(S'equations of motion'
+p568
+g2
+(g6
+S'\xedG=\xda\xc0\xcb\xe0?'
+p569
+tp570
+Rp571
+tp572
+a(S'loewy decomposition'
+p573
+g2
+(g6
+S'\x87\xfa\xeb\xca\xe0\xc5\xe0?'
+p574
+tp575
+Rp576
+tp577
+a(S'master equation'
+p578
+g2
+(g6
+S'`\x97)\xb2{\xc4\xe0?'
+p579
+tp580
+Rp581
+tp582
+a(S'first-order'
+p583
+g2
+(g6
+S'\x13\x86\x0eyo\xbc\xe0?'
+p584
+tp585
+Rp586
+tp587
+a(S'inseparable differential equation'
+p588
+g2
+(g6
+S'A\xd7h\x80\x89\xb9\xe0?'
+p589
+tp590
+Rp591
+tp592
+a(S'differential equations of addition'
+p593
+g2
+(g6
+S'\x08\xd6\xfe\xee\x8f\xaa\xe0?'
+p594
+tp595
+Rp596
+tp597
+a(S'projected dynamical system'
+p598
+g2
+(g6
+S'\x89\xf8\x8f\x9f4\x9d\xe0?'
+p599
+tp600
+Rp601
+tp602
+a(S'system of linear equations'
+p603
+g2
+(g6
+S'\xfe\xee?\xdc\xc6\x8b\xe0?'
+p604
+tp605
+Rp606
+tp607
+a(S'matrix differential equation'
+p608
+g2
+(g6
+S'\x18\xed\xc0"Z\x88\xe0?'
+p609
+tp610
+Rp611
+tp612
+a(S"malmquist's theorem"
+p613
+g2
+(g6
+S'7\xaa\xed\xf6$\x85\xe0?'
+p614
+tp615
+Rp616
+tp617
+a(S'differential algebra'
+p618
+g2
+(g6
+S'\x0c<\\fBq\xe0?'
+p619
+tp620
+Rp621
+tp622
+a(S'novikov\xe2\x80\x93veselov equation'
+p623
+g2
+(g6
+S'\x1c\x98\xcf%\xd5l\xe0?'
+p624
+tp625
+Rp626
+tp627
+a(S"hilbert's twenty-first problem"
+p628
+g2
+(g6
+S'f\xebf\x07\xaaK\xe0?'
+p629
+tp630
+Rp631
+tp632
+a(S'picard\xe2\x80\x93vessiot theory'
+p633
+g2
+(g6
+S'\x89\xa4\x80#RH\xe0?'
+p634
+tp635
+Rp636
+tp637
+a(S'picone identity'
+p638
+g2
+(g6
+S'\xdf4\xae!\x0cH\xe0?'
+p639
+tp640
+Rp641
+tp642
+a(S'fredholm theory'
+p643
+g2
+(g6
+S'\x13\x9d\xe6\xce\x0b=\xe0?'
+p644
+tp645
+Rp646
+tp647
+a(S'distributed parameter system'
+p648
+g2
+(g6
+S'\xf3<)\xbcd8\xe0?'
+p649
+tp650
+Rp651
+tp652
+a(S'qualitative theory of differential equations'
+p653
+g2
+(g6
+S'8\xdc\xfet\xad3\xe0?'
+p654
+tp655
+Rp656
+tp657
+a(S"tikhonov's theorem (dynamical systems)"
+p658
+g2
+(g6
+S'\x13\xacf\xbbf$\xe0?'
+p659
+tp660
+Rp661
+tp662
+a(S"lewy's example"
+p663
+g2
+(g6
+S'\x0fh\x9b\x11I#\xe0?'
+p664
+tp665
+Rp666
+tp667
+a(S"john's equation"
+p668
+g2
+(g6
+S'-\xff\x1c\x80\x11!\xe0?'
+p669
+tp670
+Rp671
+tp672
+a(S'akns system'
+p673
+g2
+(g6
+S'\xbc\x18\x08\x10v\x15\xe0?'
+p674
+tp675
+Rp676
+tp677
+a(S'nonlinear oscillations'
+p678
+g2
+(g6
+S'\\lg\xcd\xe2\x13\xe0?'
+p679
+tp680
+Rp681
+tp682
+a(S'fundamental matrix (linear differential equation)'
+p683
+g2
+(g6
+S'\xc4\xa1\xfc\xa9y\x0b\xe0?'
+p684
+tp685
+Rp686
+tp687
+a(S'euler equations (fluid dynamics)'
+p688
+g2
+(g6
+S'\x88\xbc<\xf4\xa0\x00\xe0?'
+p689
+tp690
+Rp691
+tp692
+a(S'replicator equation'
+p693
+g2
+(g6
+S'\x94\xb8\xec\xbf\x93\xfd\xdf?'
+p694
+tp695
+Rp696
+tp697
+a(S'autonomous system (mathematics)'
+p698
+g2
+(g6
+S'\x08\x0e\xb9\xcc3\xfc\xdf?'
+p699
+tp700
+Rp701
+tp702
+a(S'bring radical'
+p703
+g2
+(g6
+S'\xd2\xc6\x13\x16T\xf2\xdf?'
+p704
+tp705
+Rp706
+tp707
+a(S'zakai equation'
+p708
+g2
+(g6
+S'\xc9\x94\x15\x1e\x80\xbf\xdf?'
+p709
+tp710
+Rp711
+tp712
+a(S'dodd-bullough-mikhailov equation'
+p713
+g2
+(g6
+S'\x11\xf6\xb5\x9f\x12\xbf\xdf?'
+p714
+tp715
+Rp716
+tp717
+a(S'defining equation (physics)'
+p718
+g2
+(g6
+S'T\xb1\xdb\xe7\x9c\xa7\xdf?'
+p719
+tp720
+Rp721
+tp722
+a(S'shallow water equations'
+p723
+g2
+(g6
+S'\xdfZ0h3\x9b\xdf?'
+p724
+tp725
+Rp726
+tp727
+a(S'hamilton\xe2\x80\x93jacobi equation'
+p728
+g2
+(g6
+S'M\n\xe6\x19O\x90\xdf?'
+p729
+tp730
+Rp731
+tp732
+a(S'whitham equation'
+p733
+g2
+(g6
+S'\xb7\xa0D\x9f0\x8b\xdf?'
+p734
+tp735
+Rp736
+tp737
+a(S'theory of equations'
+p738
+g2
+(g6
+S'\xe1\x08\xd8_\xe3\x88\xdf?'
+p739
+tp740
+Rp741
+tp742
+a(S'costate equation'
+p743
+g2
+(g6
+S'q|\xbc6\xa2|\xdf?'
+p744
+tp745
+Rp746
+tp747
+a(S'lars h\xc3\xb6rmander'
+p748
+g2
+(g6
+S'T\x90j\xbep|\xdf?'
+p749
+tp750
+Rp751
+tp752
+a(S'belavkin equation'
+p753
+g2
+(g6
+S'\xe3;\xb0\xed#_\xdf?'
+p754
+tp755
+Rp756
+tp757
+a(S'kaup\xe2\x80\x93kupershmidt equation'
+p758
+g2
+(g6
+S'\xe3\x0f\x8eh=Q\xdf?'
+p759
+tp760
+Rp761
+tp762
+a(S'davey\xe2\x80\x93stewartson equation'
+p763
+g2
+(g6
+S'a)\x93\xc5\xc6D\xdf?'
+p764
+tp765
+Rp766
+tp767
+a(S'cauchy\xe2\x80\x93euler equation'
+p768
+g2
+(g6
+S'\xe0j\x957=;\xdf?'
+p769
+tp770
+Rp771
+tp772
+a(S'heat equation'
+p773
+g2
+(g6
+S'\x0f8\xcfu\x955\xdf?'
+p774
+tp775
+Rp776
+tp777
+a(S'convection\xe2\x80\x93diffusion equation'
+p778
+g2
+(g6
+S'~J\xd4\xc2\x043\xdf?'
+p779
+tp780
+Rp781
+tp782
+a(S'murnaghan equation of state'
+p783
+g2
+(g6
+S'~\xb0\x99/\x9e-\xdf?'
+p784
+tp785
+Rp786
+tp787
+a(S'numerical methods for ordinary differential equations'
+p788
+g2
+(g6
+S'H\xc9\x95N\xdb)\xdf?'
+p789
+tp790
+Rp791
+tp792
+a(S'kundu equation'
+p793
+g2
+(g6
+S'0\xe1\x82\xb5s\x12\xdf?'
+p794
+tp795
+Rp796
+tp797
+a(S'collocation method'
+p798
+g2
+(g6
+S'\xbcGS\xb3\xd4\x01\xdf?'
+p799
+tp800
+Rp801
+tp802
+a(S'timeline of algebra'
+p803
+g2
+(g6
+S'\xba\xb0\xd4\xd7\xc6\xfe\xde?'
+p804
+tp805
+Rp806
+tp807
+a(S'primitive equations'
+p808
+g2
+(g6
+S'\xa5\xbe\xe9H\x04\xfd\xde?'
+p809
+tp810
+Rp811
+tp812
+a(S'wave equation'
+p813
+g2
+(g6
+S'\xd1\xf0\xa1S\x99\xfb\xde?'
+p814
+tp815
+Rp816
+tp817
+a(S'dispersionless equation'
+p818
+g2
+(g6
+S'\xaf\xda\xd5\xa3\x03\xfa\xde?'
+p819
+tp820
+Rp821
+tp822
+a(S'differential algebraic equation'
+p823
+g2
+(g6
+S'.\xb1\x94\xa7p\xf6\xde?'
+p824
+tp825
+Rp826
+tp827
+a(S'frobenius method'
+p828
+g2
+(g6
+S's\xab\x045U\xef\xde?'
+p829
+tp830
+Rp831
+tp832
+a(S'martin david kruskal'
+p833
+g2
+(g6
+S'{\xe5w\x8a]\xec\xde?'
+p834
+tp835
+Rp836
+tp837
+a(S'istv\xc3\xa1n feny\xc5\x91'
+p838
+g2
+(g6
+S'+JF\xc7\xb6\xe8\xde?'
+p839
+tp840
+Rp841
+tp842
+a(S'ansatz'
+p843
+g2
+(g6
+S'\xe2\xa7c&6\xe6\xde?'
+p844
+tp845
+Rp846
+tp847
+a(S'degasperis\xe2\x80\x93procesi equation'
+p848
+g2
+(g6
+S'\xff\x0fO\x07\xea\xe1\xde?'
+p849
+tp850
+Rp851
+tp852
+a(S'picard\xe2\x80\x93fuchs equation'
+p853
+g2
+(g6
+S'\xc4\xa4@Ty\xc6\xde?'
+p854
+tp855
+Rp856
+tp857
+a(S'overdetermined system'
+p858
+g2
+(g6
+S'\xc8\x90\x93\xf2m\xc6\xde?'
+p859
+tp860
+Rp861
+tp862
+a(S'fundamental solution'
+p863
+g2
+(g6
+S'\x14\xad5\x85c\xc5\xde?'
+p864
+tp865
+Rp866
+tp867
+a(S'sides of an equation'
+p868
+g2
+(g6
+S'\xd2.\xed]!\xb9\xde?'
+p869
+tp870
+Rp871
+tp872
+a(S'differential algebraic geometry'
+p873
+g2
+(g6
+S'\x96\x1d\xf1\xcep\xb7\xde?'
+p874
+tp875
+Rp876
+tp877
+a(S'linear equation'
+p878
+g2
+(g6
+S'\\<\xa1\xea\xb8\xa7\xde?'
+p879
+tp880
+Rp881
+tp882
+a(S'abel equation'
+p883
+g2
+(g6
+S'\xb6\x8bh\xe4<\x9e\xde?'
+p884
+tp885
+Rp886
+tp887
+a(S'lam\xc3\xa9 function'
+p888
+g2
+(g6
+S'\x891o\xfc\xdd\x9c\xde?'
+p889
+tp890
+Rp891
+tp892
+a(S'xu-jia wang'
+p893
+g2
+(g6
+S'I\xb1"!\xebx\xde?'
+p894
+tp895
+Rp896
+tp897
+a(S'inverse problem for lagrangian mechanics'
+p898
+g2
+(g6
+S'\x91\x92\x06\x9d\xf0g\xde?'
+p899
+tp900
+Rp901
+tp902
+a(S'equation (disambiguation)'
+p903
+g2
+(g6
+S'WOBB\nX\xde?'
+p904
+tp905
+Rp906
+tp907
+a(S'equation of state'
+p908
+g2
+(g6
+S'A7$\xe0\xaaT\xde?'
+p909
+tp910
+Rp911
+tp912
+a(S'caratheodory-\xcf\x80 solution'
+p913
+g2
+(g6
+S'\xe3y B\xfe>\xde?'
+p914
+tp915
+Rp916
+tp917
+a(S'physics equations'
+p918
+g2
+(g6
+S'iO0\xa6\xbf5\xde?'
+p919
+tp920
+Rp921
+tp922
+a(S'heun function'
+p923
+g2
+(g6
+S'\xfd1g\xba\xfe#\xde?'
+p924
+tp925
+Rp926
+tp927
+a(S"hilbert's twentieth problem"
+p928
+g2
+(g6
+S'\xc4\xc7u6?\x16\xde?'
+p929
+tp930
+Rp931
+tp932
+a(S'felix arscott'
+p933
+g2
+(g6
+S'`gc\x03X\x12\xde?'
+p934
+tp935
+Rp936
+tp937
+a(S'method of lines'
+p938
+g2
+(g6
+S'5\x17\x01\x06V\x05\xde?'
+p939
+tp940
+Rp941
+tp942
+a(S'differential game'
+p943
+g2
+(g6
+S'=K\xda"\xf7\x04\xde?'
+p944
+tp945
+Rp946
+tp947
+a(S'pseudo-differential operator'
+p948
+g2
+(g6
+S'\x8e\xc2\xdc\x8aI\xf7\xdd?'
+p949
+tp950
+Rp951
+tp952
+a(S'acoustic wave equation'
+p953
+g2
+(g6
+S'\xc2\xd7\xa6\x93\xfa\xee\xdd?'
+p954
+tp955
+Rp956
+tp957
+a(S'transcendental equation'
+p958
+g2
+(g6
+S'm\x91>\x0e\xd2\xee\xdd?'
+p959
+tp960
+Rp961
+tp962
+a(S'leaky integrator'
+p963
+g2
+(g6
+S'3\xd9\xc8\xa4\xa4\xeb\xdd?'
+p964
+tp965
+Rp966
+tp967
+a(S'relativistic wave equations'
+p968
+g2
+(g6
+S'\xa0\xb8=\xa5\x91\xe9\xdd?'
+p969
+tp970
+Rp971
+tp972
+a(S'orthogonal collocation'
+p973
+g2
+(g6
+S'\x1f\x80\xf8\xb5\xcf\xe8\xdd?'
+p974
+tp975
+Rp976
+tp977
+a(S"burgers' equation"
+p978
+g2
+(g6
+S'\xfa\x9a\xcb\xca\x87\xe3\xdd?'
+p979
+tp980
+Rp981
+tp982
+a(S'cauchy boundary condition'
+p983
+g2
+(g6
+S'[\xc9-\xa4\x1c\xdf\xdd?'
+p984
+tp985
+Rp986
+tp987
+a(S'helmholtz equation'
+p988
+g2
+(g6
+S' "s\xec\xd3\xda\xdd?'
+p989
+tp990
+Rp991
+tp992
+a(S'fredholm integral equation'
+p993
+g2
+(g6
+S'e\xfdpp0\xc8\xdd?'
+p994
+tp995
+Rp996
+tp997
+a(S'irena lasiecka'
+p998
+g2
+(g6
+S'\x11F\x10\x1c\x05\xc4\xdd?'
+p999
+tp1000
+Rp1001
+tp1002
+a(S"duhamel's principle"
+p1003
+g2
+(g6
+S'\x1b\xde\xa5^w\xbb\xdd?'
+p1004
+tp1005
+Rp1006
+tp1007
+a(S'direct linear transformation'
+p1008
+g2
+(g6
+S'SI\xe0\x9e\xab\xb9\xdd?'
+p1009
+tp1010
+Rp1011
+tp1012
+a(S'lane\xe2\x80\x93emden equation'
+p1013
+g2
+(g6
+S"E\x0c@'\xb9\xb6\xdd?"
+p1014
+tp1015
+Rp1016
+tp1017
+a(S'aeroacoustics'
+p1018
+g2
+(g6
+S'\xa6F\x0f"p\xac\xdd?'
+p1019
+tp1020
+Rp1021
+tp1022
+a(S'eckhaus equation'
+p1023
+g2
+(g6
+S'\xc0y\xa3\x9a!\xa6\xdd?'
+p1024
+tp1025
+Rp1026
+tp1027
+a(S'klein\xe2\x80\x93gordon equation'
+p1028
+g2
+(g6
+S'/}\xf8O\xe1\x9a\xdd?'
+p1029
+tp1030
+Rp1031
+tp1032
+a(S'solutions of the einstein field equations'
+p1033
+g2
+(g6
+S'qd\x06\xa8(\x81\xdd?'
+p1034
+tp1035
+Rp1036
+tp1037
+a(S'differential (mathematics)'
+p1038
+g2
+(g6
+S'S\xdb\x8d\xad\xa5e\xdd?'
+p1039
+tp1040
+Rp1041
+tp1042
+a(S'aleksei fedorovich filippov'
+p1043
+g2
+(g6
+S'\x00\xa5\xab\x8c|c\xdd?'
+p1044
+tp1045
+Rp1046
+tp1047
+a(S'mathematical descriptions of the electromagnetic field'
+p1048
+g2
+(g6
+S'V\x16\xe9B\xb7V\xdd?'
+p1049
+tp1050
+Rp1051
+tp1052
+a(S'ishimori equation'
+p1053
+g2
+(g6
+S'\xcaK|\x94\xa0R\xdd?'
+p1054
+tp1055
+Rp1056
+tp1057
+a(S'suzanne lenhart'
+p1058
+g2
+(g6
+S'\x8b\xcf\x1a\x81\x8eQ\xdd?'
+p1059
+tp1060
+Rp1061
+tp1062
+a(S'eikonal'
+p1063
+g2
+(g6
+S'\xe8m\xdf\x8drF\xdd?'
+p1064
+tp1065
+Rp1066
+tp1067
+a(S'quasi-geostrophic equations'
+p1068
+g2
+(g6
+S'\x89I\xebI\xbeE\xdd?'
+p1069
+tp1070
+Rp1071
+tp1072
+a(S'finite difference method'
+p1073
+g2
+(g6
+S'\x94\xd6\x18\xd6\x197\xdd?'
+p1074
+tp1075
+Rp1076
+tp1077
+a(S'differential analyser'
+p1078
+g2
+(g6
+S'\x16\xa1\xd7\xa6J2\xdd?'
+p1079
+tp1080
+Rp1081
+tp1082
+a(S"maxwell's equations"
+p1083
+g2
+(g6
+S'dz\xb8\x19X-\xdd?'
+p1084
+tp1085
+Rp1086
+tp1087
+a(S'dragoslav mitrinovi\xc4\x87'
+p1088
+g2
+(g6
+S'\x0cEf\x97\r*\xdd?'
+p1089
+tp1090
+Rp1091
+tp1092
+a(S'electromagnetic wave equation'
+p1093
+g2
+(g6
+S'\x87\xaa\x80\x0b\x14%\xdd?'
+p1094
+tp1095
+Rp1096
+tp1097
+a(S'soliton'
+p1098
+g2
+(g6
+S'*;X\xc8\xa1\x0c\xdd?'
+p1099
+tp1100
+Rp1101
+tp1102
+a(S'momentum integral equation'
+p1103
+g2
+(g6
+S'\x05*\xc9\xe5j\xfd\xdc?'
+p1104
+tp1105
+Rp1106
+tp1107
+a(S'vasiliev equations'
+p1108
+g2
+(g6
+S'*_\x9bP\xed\xfc\xdc?'
+p1109
+tp1110
+Rp1111
+tp1112
+a(S'lawrence c. evans'
+p1113
+g2
+(g6
+S'\x84^\xd8\xf8"\xfa\xdc?'
+p1114
+tp1115
+Rp1116
+tp1117
+a(S'secondary calculus and cohomological physics'
+p1118
+g2
+(g6
+S'\x138\xa2z\x96\xef\xdc?'
+p1119
+tp1120
+Rp1121
+tp1122
+a(S"laplace's equation"
+p1123
+g2
+(g6
+S'\xe3c\xd5Y\x02\xe6\xdc?'
+p1124
+tp1125
+Rp1126
+tp1127
+a(S'appell series'
+p1128
+g2
+(g6
+S']\xd5\x06\xa9F\xe5\xdc?'
+p1129
+tp1130
+Rp1131
+tp1132
+a(S'inhomogeneous electromagnetic wave equation'
+p1133
+g2
+(g6
+S'\x03|\x8dN\x87\xd3\xdc?'
+p1134
+tp1135
+Rp1136
+tp1137
+a(S'dym equation'
+p1138
+g2
+(g6
+S'w\x1f+>\xa2\xcd\xdc?'
+p1139
+tp1140
+Rp1141
+tp1142
+a(S'hypertranscendental number'
+p1143
+g2
+(g6
+S'\xa2\xa1+\xa8(\xc7\xdc?'
+p1144
+tp1145
+Rp1146
+tp1147
+a(S'slope field'
+p1148
+g2
+(g6
+S'f\\\xcai\x04\xbe\xdc?'
+p1149
+tp1150
+Rp1151
+tp1152
+a(S"riemann's differential equation"
+p1153
+g2
+(g6
+S'"6\xfc\x9f.\xbc\xdc?'
+p1154
+tp1155
+Rp1156
+tp1157
+a(S'linear elasticity'
+p1158
+g2
+(g6
+S'\x17V\xec\x19\x18\xba\xdc?'
+p1159
+tp1160
+Rp1161
+tp1162
+a(S'jean leray'
+p1163
+g2
+(g6
+S'\xce\x0b0\xb6u\xb7\xdc?'
+p1164
+tp1165
+Rp1166
+tp1167
+a(S'a dynamical theory of the electromagnetic field'
+p1168
+g2
+(g6
+S'\xcb?\x89m\x9a\xb5\xdc?'
+p1169
+tp1170
+Rp1171
+tp1172
+a(S'separable partial differential equation'
+p1173
+g2
+(g6
+S'\xeb\x92z\xd6\xde\xab\xdc?'
+p1174
+tp1175
+Rp1176
+tp1177
+a(S'wkb approximation'
+p1178
+g2
+(g6
+S'3\xae\x11\xd8u\xab\xdc?'
+p1179
+tp1180
+Rp1181
+tp1182
+a(S'universal variable formulation'
+p1183
+g2
+(g6
+S'h\xe7\xdeI\xd9\xa3\xdc?'
+p1184
+tp1185
+Rp1186
+tp1187
+a(S"lagrange's identity (boundary value problem)"
+p1188
+g2
+(g6
+S'\xb2\x06v\x92\xd7\x97\xdc?'
+p1189
+tp1190
+Rp1191
+tp1192
+a(S'initial value problem'
+p1193
+g2
+(g6
+S'\x12\x1e\xa8\x8f\xc4\x8e\xdc?'
+p1194
+tp1195
+Rp1196
+tp1197
+a(S'diffiety'
+p1198
+g2
+(g6
+S'q@\xc1\xfb\xb9\x8d\xdc?'
+p1199
+tp1200
+Rp1201
+tp1202
+a(S'luis caffarelli'
+p1203
+g2
+(g6
+S'=\x9c(\x1dk\x86\xdc?'
+p1204
+tp1205
+Rp1206
+tp1207
+a(S'sturm\xe2\x80\x93picone comparison theorem'
+p1208
+g2
+(g6
+S'^\x8f\xb5\x97z\x85\xdc?'
+p1209
+tp1210
+Rp1211
+tp1212
+a(S'arden buck equation'
+p1213
+g2
+(g6
+S'\xe7u\x8d\xb8\x1b\x82\xdc?'
+p1214
+tp1215
+Rp1216
+tp1217
+a(S'sturm\xe2\x80\x93liouville theory'
+p1218
+g2
+(g6
+S'\x11\xd2\xe3\xb7\x1b\x82\xdc?'
+p1219
+tp1220
+Rp1221
+tp1222
+a(S'comparametric equation'
+p1223
+g2
+(g6
+S'Ms\xcd:\xd7s\xdc?'
+p1224
+tp1225
+Rp1226
+tp1227
+a(S'loewner differential equation'
+p1228
+g2
+(g6
+S'V\xca\xa9,\x82e\xdc?'
+p1229
+tp1230
+Rp1231
+tp1232
+a(S'redlich\xe2\x80\x93kwong equation of state'
+p1233
+g2
+(g6
+S'\xea\x90Q[mc\xdc?'
+p1234
+tp1235
+Rp1236
+tp1237
+a(S'earl d. rainville'
+p1238
+g2
+(g6
+S'\xc2\xd1\x96\xbc\xfbI\xdc?'
+p1239
+tp1240
+Rp1241
+tp1242
+a(S'proca action'
+p1243
+g2
+(g6
+S'\xbb\x06(\x165?\xdc?'
+p1244
+tp1245
+Rp1246
+tp1247
+a(S'jerome goldstein'
+p1248
+g2
+(g6
+S'\xf8\x1c\x0e\xd3\x15?\xdc?'
+p1249
+tp1250
+Rp1251
+tp1252
+a(S'exact solutions in general relativity'
+p1253
+g2
+(g6
+S'\xb1\xfc\x1d#\xb0:\xdc?'
+p1254
+tp1255
+Rp1256
+tp1257
+a(S'navier\xe2\x80\x93stokes equations'
+p1258
+g2
+(g6
+S'\xa07\xedA\xbf7\xdc?'
+p1259
+tp1260
+Rp1261
+tp1262
+a(S"hilbert's nineteenth problem"
+p1263
+g2
+(g6
+S'\xfe\x03\xf0\xd1\x885\xdc?'
+p1264
+tp1265
+Rp1266
+tp1267
+a(S'jack k. hale'
+p1268
+g2
+(g6
+S'\xb2s\xc13\x0c4\xdc?'
+p1269
+tp1270
+Rp1271
+tp1272
+a(S'robustness/efficiency trade-off in simultaneous equations models'
+p1273
+g2
+(g6
+S'?\xe5\xbazs%\xdc?'
+p1274
+tp1275
+Rp1276
+tp1277
+a(S'mallock machine'
+p1278
+g2
+(g6
+S'\xf9\xcfsA\xf2#\xdc?'
+p1279
+tp1280
+Rp1281
+tp1282
+a(S"green's function"
+p1283
+g2
+(g6
+S'l\x04L+""\xdc?'
+p1284
+tp1285
+Rp1286
+tp1287
+a(S'differential inclusion'
+p1288
+g2
+(g6
+S'\x06\\\xed\xbc\xab\r\xdc?'
+p1289
+tp1290
+Rp1291
+tp1292
+a(S'floquet theory'
+p1293
+g2
+(g6
+S'\xa6\x14\xc9SX\x07\xdc?'
+p1294
+tp1295
+Rp1296
+tp1297
+a(S'michio kuga'
+p1298
+g2
+(g6
+S'\x97\xf0\xebP=\xfc\xdb?'
+p1299
+tp1300
+Rp1301
+tp1302
+a(S"hadamard's method of descent"
+p1303
+g2
+(g6
+S'\xc0\xed<:\x1c\xe6\xdb?'
+p1304
+tp1305
+Rp1306
+tp1307
+a(S'compacton'
+p1308
+g2
+(g6
+S'\xe9\xec\xf6xF\xe0\xdb?'
+p1309
+tp1310
+Rp1311
+tp1312
+a(S'isochron'
+p1313
+g2
+(g6
+S')\x98$\xfd@\xdf\xdb?'
+p1314
+tp1315
+Rp1316
+tp1317
+a(S'schr\xc3\xb6dinger equation'
+p1318
+g2
+(g6
+S'5\xa0\xb8M\xd2\xd2\xdb?'
+p1319
+tp1320
+Rp1321
+tp1322
+a(S'acoustic theory'
+p1323
+g2
+(g6
+S'\xd2\x95\x00\xb8\xc6\xc9\xdb?'
+p1324
+tp1325
+Rp1326
+tp1327
+a(S'rose\xe2\x80\x93vinet equation of state'
+p1328
+g2
+(g6
+S'.4}\xb7\xbf\xc6\xdb?'
+p1329
+tp1330
+Rp1331
+tp1332
+a(S'list of textbooks in electromagnetism'
+p1333
+g2
+(g6
+S'\x877\xb4\xadC\xbd\xdb?'
+p1334
+tp1335
+Rp1336
+tp1337
+a(S'non-autonomous system (mathematics)'
+p1338
+g2
+(g6
+S'0\xa7Be\x03\xba\xdb?'
+p1339
+tp1340
+Rp1341
+tp1342
+a(S'numerical partial differential equations'
+p1343
+g2
+(g6
+S'\x99\x0e\x87j\xbd\xb4\xdb?'
+p1344
+tp1345
+Rp1346
+tp1347
+a(S'routhian mechanics'
+p1348
+g2
+(g6
+S'\xf2z\xfe\x17Q\xb4\xdb?'
+p1349
+tp1350
+Rp1351
+tp1352
+a(S'anders johan lexell'
+p1353
+g2
+(g6
+S"^\x13'-\xcf\xa4\xdb?"
+p1354
+tp1355
+Rp1356
+tp1357
+a(S"history of maxwell's equations"
+p1358
+g2
+(g6
+S'\xea\xc4\xd7\xb7j\xa3\xdb?'
+p1359
+tp1360
+Rp1361
+tp1362
+a(S'vector field reconstruction'
+p1363
+g2
+(g6
+S'o*>\xael\x9d\xdb?'
+p1364
+tp1365
+Rp1366
+tp1367
+a(S'order of accuracy'
+p1368
+g2
+(g6
+S'\x17\xea%\xfdc\x9b\xdb?'
+p1369
+tp1370
+Rp1371
+tp1372
+a(S'rational difference equation'
+p1373
+g2
+(g6
+S'B\x16Z\xd5\xab\x91\xdb?'
+p1374
+tp1375
+Rp1376
+tp1377
+a(S'meissner equation'
+p1378
+g2
+(g6
+S'n\x0c\x1b\xb19\x86\xdb?'
+p1379
+tp1380
+Rp1381
+tp1382
+a(S'integrodifference equation'
+p1383
+g2
+(g6
+S'"\xff\x9ao\xfc\x85\xdb?'
+p1384
+tp1385
+Rp1386
+tp1387
+a(S'bbgky hierarchy'
+p1388
+g2
+(g6
+S"28'\x0c\xe6\x80\xdb?"
+p1389
+tp1390
+Rp1391
+tp1392
+a(S'michael g. crandall'
+p1393
+g2
+(g6
+S'\x91\x8e\xf2-\xd2c\xdb?'
+p1394
+tp1395
+Rp1396
+tp1397
+a(S'schwinger\xe2\x80\x93dyson equation'
+p1398
+g2
+(g6
+S'>\xb3(\x1d\xc7T\xdb?'
+p1399
+tp1400
+Rp1401
+tp1402
+a(S'constant coefficients'
+p1403
+g2
+(g6
+S'\x81\xd8\x98`\xbaS\xdb?'
+p1404
+tp1405
+Rp1406
+tp1407
+a(S'maxwell\xe2\x80\x93bloch equations'
+p1408
+g2
+(g6
+S'a\x9eh\xf2|S\xdb?'
+p1409
+tp1410
+Rp1411
+tp1412
+a(S'underdetermined system'
+p1413
+g2
+(g6
+S'<\xeb\xfc\x1b1Q\xdb?'
+p1414
+tp1415
+Rp1416
+tp1417
+a(S'derivation of the navier\xe2\x80\x93stokes equations'
+p1418
+g2
+(g6
+S'\xe8\xf8>|\x9bN\xdb?'
+p1419
+tp1420
+Rp1421
+tp1422
+a(S'gauss\xe2\x80\x93codazzi equations'
+p1423
+g2
+(g6
+S'\xd9\xdbT\xe8\xffC\xdb?'
+p1424
+tp1425
+Rp1426
+tp1427
+a(S'boris rufimovich vainberg'
+p1428
+g2
+(g6
+S'AV]"]C\xdb?'
+p1429
+tp1430
+Rp1431
+tp1432
+a(S'cnoidal wave'
+p1433
+g2
+(g6
+S'\rex\xb3\xa9B\xdb?'
+p1434
+tp1435
+Rp1436
+tp1437
+a(S'kolmogorov equations (markov jump process)'
+p1438
+g2
+(g6
+S'\x82M\xaa/\x06@\xdb?'
+p1439
+tp1440
+Rp1441
+tp1442
+a(S'gibbons\xe2\x80\x93tsarev equation'
+p1443
+g2
+(g6
+S'4WU\xb5^7\xdb?'
+p1444
+tp1445
+Rp1446
+tp1447
+a(S'parametrix'
+p1448
+g2
+(g6
+S'\xdf\x17\xd2\xd8k3\xdb?'
+p1449
+tp1450
+Rp1451
+tp1452
+a(S'omega equation'
+p1453
+g2
+(g6
+S'd\xbb\xca3N$\xdb?'
+p1454
+tp1455
+Rp1456
+tp1457
+a(S'matrix difference equation'
+p1458
+g2
+(g6
+S'\xcc\xb4l\xea\xf4#\xdb?'
+p1459
+tp1460
+Rp1461
+tp1462
+a(S'symbol of a differential operator'
+p1463
+g2
+(g6
+S'\xb6\xb7\xf7\xd6\x8e\x17\xdb?'
+p1464
+tp1465
+Rp1466
+tp1467
+a(S'andrei polyanin'
+p1468
+g2
+(g6
+S'\x8b\xa3\xd4\x97\xce\x15\xdb?'
+p1469
+tp1470
+Rp1471
+tp1472
+a(S'adomian decomposition method'
+p1473
+g2
+(g6
+S'\xd5\t\xd6\xa1\xff\x14\xdb?'
+p1474
+tp1475
+Rp1476
+tp1477
+a(S'differential form'
+p1478
+g2
+(g6
+S'\x055\xc8\xc35\x14\xdb?'
+p1479
+tp1480
+Rp1481
+tp1482
+a(S'kadomtsev\xe2\x80\x93petviashvili equation'
+p1483
+g2
+(g6
+S'\xa4\x97G\x93\x1d\x10\xdb?'
+p1484
+tp1485
+Rp1486
+tp1487
+a(S'czes\xc5\x82aw olech'
+p1488
+g2
+(g6
+S'\xf0f\x07\xa1\xeb\t\xdb?'
+p1489
+tp1490
+Rp1491
+tp1492
+a(S'state-transition equation'
+p1493
+g2
+(g6
+S'\xe2\x1fq\x8e\x90\x02\xdb?'
+p1494
+tp1495
+Rp1496
+tp1497
+a(S'juan luis v\xc3\xa1zquez su\xc3\xa1rez'
+p1498
+g2
+(g6
+S'\xac\x02\xd15y\xf7\xda?'
+p1499
+tp1500
+Rp1501
+tp1502
+a(S'simultaneous equations model'
+p1503
+g2
+(g6
+S'I\xc0M3\xe5\xf3\xda?'
+p1504
+tp1505
+Rp1506
+tp1507
+a(S'fokker\xe2\x80\x93planck equation'
+p1508
+g2
+(g6
+S'l\x84\xf6\x94\xcc\xf0\xda?'
+p1509
+tp1510
+Rp1511
+tp1512
+a.

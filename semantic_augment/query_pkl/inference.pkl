@@ -1,0 +1,2728 @@
+(lp0
+(S'inference'
+p1
+cnumpy.core.multiarray
+scalar
+p2
+(cnumpy
+dtype
+p3
+(S'f8'
+p4
+I0
+I1
+tp5
+Rp6
+(I3
+S'<'
+p7
+NNNI-1
+I-1
+I0
+tp8
+bS'\x03\x00\x00\x00\x00\x00\xf0?'
+p9
+tp10
+Rp11
+tp12
+a(S'material inference'
+p13
+g2
+(g6
+S's\x1d\xcd@\x10\xe2\xe4?'
+p14
+tp15
+Rp16
+tp17
+a(S'frequentist inference'
+p18
+g2
+(g6
+S'N\xc9Q\xe0\xcd%\xe3?'
+p19
+tp20
+Rp21
+tp22
+a(S'rule of inference'
+p23
+g2
+(g6
+S'G\xac\x01n\xe8\x06\xe3?'
+p24
+tp25
+Rp26
+tp27
+a(S'fiducial inference'
+p28
+g2
+(g6
+S'\xeb\xdd0\xf8\xfd\xa2\xe2?'
+p29
+tp30
+Rp31
+tp32
+a(S'statistical inference'
+p33
+g2
+(g6
+S'\x0c\x8d?N\xf3\xb7\xe1?'
+p34
+tp35
+Rp36
+tp37
+a(S'deep inference'
+p38
+g2
+(g6
+S'D\x91\x17\x13\xee\x13\xe1?'
+p39
+tp40
+Rp41
+tp42
+a(S'vyapti'
+p43
+g2
+(g6
+S'L\xfeI\x9ej\xdb\xe0?'
+p44
+tp45
+Rp46
+tp47
+a(S'inference engine'
+p48
+g2
+(g6
+S'\x12\xc7\x1f\xe2m\xb5\xe0?'
+p49
+tp50
+Rp51
+tp52
+a(S'probabilistic logic network'
+p53
+g2
+(g6
+S'^\x02-m_\x87\xe0?'
+p54
+tp55
+Rp56
+tp57
+a(S'logic and rationality'
+p58
+g2
+(g6
+S'@\xaf\xfa\xa8\x88@\xdf?'
+p59
+tp60
+Rp61
+tp62
+a(S'informal inferential reasoning'
+p63
+g2
+(g6
+S'\n\x11\xfblB\xc5\xde?'
+p64
+tp65
+Rp66
+tp67
+a(S'seymour geisser'
+p68
+g2
+(g6
+S'\x8b\xb6\xe86\x94\x10\xdd?'
+p69
+tp70
+Rp71
+tp72
+a(S'abductive reasoning'
+p73
+g2
+(g6
+S'\xc9$\x93\xc3\xad\xae\xdc?'
+p74
+tp75
+Rp76
+tp77
+a(S'disjunction introduction'
+p78
+g2
+(g6
+S'\xc4.\x00M\xcf3\xdc?'
+p79
+tp80
+Rp81
+tp82
+a(S'inference attack'
+p83
+g2
+(g6
+S'\xf3\x19R\x11\x7f\xc2\xdb?'
+p84
+tp85
+Rp86
+tp87
+a(S'inductive reasoning'
+p88
+g2
+(g6
+S'E@Z\x9b\xa14\xdb?'
+p89
+tp90
+Rp91
+tp92
+a(S'peter tillers'
+p93
+g2
+(g6
+S'\xf9\xe4q\xbd^%\xda?'
+p94
+tp95
+Rp96
+tp97
+a(S'premise'
+p98
+g2
+(g6
+S'\xc4\n\x90\x9d\xe2\x16\xda?'
+p99
+tp100
+Rp101
+tp102
+a(S'sneps'
+p103
+g2
+(g6
+S'\xacN\xe5X\xe1\x16\xda?'
+p104
+tp105
+Rp106
+tp107
+a(S'pram\xc4\x81\xe1\xb9\x87a-samuccaya'
+p108
+g2
+(g6
+S'\x85\x07\xc0/\x0f\xf9\xd9?'
+p109
+tp110
+Rp111
+tp112
+a(S'uncertain inference'
+p113
+g2
+(g6
+S'\xe8Z\xc8\xbfq\xf0\xd9?'
+p114
+tp115
+Rp116
+tp117
+a(S'immediate inference'
+p118
+g2
+(g6
+S'\x12\xbb\x8d\x05D\xd9\xd9?'
+p119
+tp120
+Rp121
+tp122
+a(S'imperative logic'
+p123
+g2
+(g6
+S'\x867\xc3\xe2i\xcd\xd9?'
+p124
+tp125
+Rp126
+tp127
+a(S'counterinduction'
+p128
+g2
+(g6
+S'>x`P\xd5\xb8\xd9?'
+p129
+tp130
+Rp131
+tp132
+a(S'tellabs, inc. v. makor issues & rights, ltd.'
+p133
+g2
+(g6
+S'\xadti\xdf;\xb1\xd9?'
+p134
+tp135
+Rp136
+tp137
+a(S'adverse inference'
+p138
+g2
+(g6
+S'\x9d?\x8b\x0c\xe3\x93\xd9?'
+p139
+tp140
+Rp141
+tp142
+a(S'deductive reasoning'
+p143
+g2
+(g6
+S'\xd9\xe1(\xf5\xe7\x8f\xd9?'
+p144
+tp145
+Rp146
+tp147
+a(S'approximate inference'
+p148
+g2
+(g6
+S'Q\x96\xe8\xe1\x16\x88\xd9?'
+p149
+tp150
+Rp151
+tp152
+a(S'generic views'
+p153
+g2
+(g6
+S'&QJ\xb1q`\xd9?'
+p154
+tp155
+Rp156
+tp157
+a(S'psychology of reasoning'
+p158
+g2
+(g6
+S'dX\xddA\xe6P\xd9?'
+p159
+tp160
+Rp161
+tp162
+a(S'adaptive neuro fuzzy inference system'
+p163
+g2
+(g6
+S':\xd5\x97\x97\x94\xea\xd8?'
+p164
+tp165
+Rp166
+tp167
+a(S'argument'
+p168
+g2
+(g6
+S'*T\xf2\xabe\x7f\xd8?'
+p169
+tp170
+Rp171
+tp172
+a(S'equational logic'
+p173
+g2
+(g6
+S':\xcd}-\x1c4\xd8?'
+p174
+tp175
+Rp176
+tp177
+a(S'bayesian inference in motor learning'
+p178
+g2
+(g6
+S'\xb2\xca;L\x1f\x0e\xd8?'
+p179
+tp180
+Rp181
+tp182
+a(S'bayesian inference in phylogeny'
+p183
+g2
+(g6
+S'\xa0\xc0#\xf9\xc5\xab\xd7?'
+p184
+tp185
+Rp186
+tp187
+a(S'monotonicity of entailment'
+p188
+g2
+(g6
+S'\xb1/\xb9y>\xa1\xd7?'
+p189
+tp190
+Rp191
+tp192
+a(S'logic'
+p193
+g2
+(g6
+S'\x0f\xad\x0eE\xb4\x84\xd7?'
+p194
+tp195
+Rp196
+tp197
+a(S'logical reasoning'
+p198
+g2
+(g6
+S'\x1b\x8b\x80\x86\x04"\xd7?'
+p199
+tp200
+Rp201
+tp202
+a(S'bayesian statistics'
+p203
+g2
+(g6
+S'\xbcC\xbc\xe5\xcd\x19\xd7?'
+p204
+tp205
+Rp206
+tp207
+a(S'probabilistic logic'
+p208
+g2
+(g6
+S'x\xe0\x1b\xbb6\x17\xd7?'
+p209
+tp210
+Rp211
+tp212
+a(S'validity'
+p213
+g2
+(g6
+S'>&\xc4\xe4"\n\xd7?'
+p214
+tp215
+Rp216
+tp217
+a(S'bayesian inference'
+p218
+g2
+(g6
+S'c\xcb\xb1\xcby\x01\xd7?'
+p219
+tp220
+Rp221
+tp222
+a(S'expert system'
+p223
+g2
+(g6
+S"\x903'\xa6P\xa2\xd6?"
+p224
+tp225
+Rp226
+tp227
+a(S'foundations of statistics'
+p228
+g2
+(g6
+S'\xfa\xb5\xda\xe9\x88\x92\xd6?'
+p229
+tp230
+Rp231
+tp232
+a(S'pramana'
+p233
+g2
+(g6
+S'\xdb\x8aC\xcf\xa3t\xd6?'
+p234
+tp235
+Rp236
+tp237
+a(S'grammar of assent'
+p238
+g2
+(g6
+S'|\x06\xca\x1e\xa7k\xd6?'
+p239
+tp240
+Rp241
+tp242
+a(S'charvaka'
+p243
+g2
+(g6
+S'\xcc6:\x05/U\xd6?'
+p244
+tp245
+Rp246
+tp247
+a(S'conjunction elimination'
+p248
+g2
+(g6
+S'\xa07\xf4\x93\x86\xa1\xd5?'
+p249
+tp250
+Rp251
+tp252
+a(S'natural deduction'
+p253
+g2
+(g6
+S'\x8f\x8f5\xe3\x1a\x97\xd5?'
+p254
+tp255
+Rp256
+tp257
+a(S'predictive inference'
+p258
+g2
+(g6
+S'\xa5tZ\xc4\xa0\x87\xd5?'
+p259
+tp260
+Rp261
+tp262
+a(S'list of rules of inference'
+p263
+g2
+(g6
+S'@l\x9dF]\x84\xd5?'
+p264
+tp265
+Rp266
+tp267
+a(S'inductive probability'
+p268
+g2
+(g6
+S'\x98w\xe1\xc1\x90C\xd5?'
+p269
+tp270
+Rp271
+tp272
+a(S'forward chaining'
+p273
+g2
+(g6
+S'\xbe&s\xc1\xf48\xd5?'
+p274
+tp275
+Rp276
+tp277
+a(S'strong inference'
+p278
+g2
+(g6
+S'\xdb\x97\xd0\x0bq6\xd5?'
+p279
+tp280
+Rp281
+tp282
+a(S'calculus of structures'
+p283
+g2
+(g6
+S'y\xc4f\xf3k#\xd5?'
+p284
+tp285
+Rp286
+tp287
+a(S'buddhist logic'
+p288
+g2
+(g6
+S'(\xf3-\xd7\x1f\x10\xd5?'
+p289
+tp290
+Rp291
+tp292
+a(S'value restriction'
+p293
+g2
+(g6
+S'\x10GU\xb2\xed\xec\xd4?'
+p294
+tp295
+Rp296
+tp297
+a(S'backward chaining'
+p298
+g2
+(g6
+S'\x03b\xa6\xaf|\xd5\xd4?'
+p299
+tp300
+Rp301
+tp302
+a(S'informal admissions in south african law'
+p303
+g2
+(g6
+S')\xe4\x08\xfd\xef\xb0\xd4?'
+p304
+tp305
+Rp306
+tp307
+a(S'arbitrary inference'
+p308
+g2
+(g6
+S'\xd4F\xd7\xaav\xa9\xd4?'
+p309
+tp310
+Rp311
+tp312
+a(S'phylogenetic bracketing'
+p313
+g2
+(g6
+S'zE4\xbc\x8d\x9e\xd4?'
+p314
+tp315
+Rp316
+tp317
+a(S'free energy principle'
+p318
+g2
+(g6
+S'\xf0\x1f\xdc \xe8\x9a\xd4?'
+p319
+tp320
+Rp321
+tp322
+a(S'type inference'
+p323
+g2
+(g6
+S'U\xba v\xd1\x8e\xd4?'
+p324
+tp325
+Rp326
+tp327
+a(S'reasoning system'
+p328
+g2
+(g6
+S'e.6\xcce}\xd4?'
+p329
+tp330
+Rp331
+tp332
+a(S'dynamic logic (modal logic)'
+p333
+g2
+(g6
+S'\xe1\x15\x1c\x03\xdbM\xd4?'
+p334
+tp335
+Rp336
+tp337
+a(S'inquiry'
+p338
+g2
+(g6
+S'\x8d3eG\xaf8\xd4?'
+p339
+tp340
+Rp341
+tp342
+a(S'history of logic'
+p343
+g2
+(g6
+S'\xb8\xa6I\x10\xe2\xfe\xd3?'
+p344
+tp345
+Rp346
+tp347
+a(S'epilogism'
+p348
+g2
+(g6
+S'\x9eR \x8fI\xfd\xd3?'
+p349
+tp350
+Rp351
+tp352
+a(S'non-monotonic logic'
+p353
+g2
+(g6
+S')\x90\\\xab\xc8\xf4\xd3?'
+p354
+tp355
+Rp356
+tp357
+a(S'defeasible reasoning'
+p358
+g2
+(g6
+S'\xa8\xf6X\xac\xeb\xd5\xd3?'
+p359
+tp360
+Rp361
+tp362
+a(S'plausible reasoning'
+p363
+g2
+(g6
+S'\x08\x84\xbcr\xbd\xd2\xd3?'
+p364
+tp365
+Rp366
+tp367
+a(S'statistical assumption'
+p368
+g2
+(g6
+S'\x7f\xeb\xfcB\xad\xa3\xd3?'
+p369
+tp370
+Rp371
+tp372
+a(S'algorithmic probability'
+p373
+g2
+(g6
+S'\xce5.\xf7\x13\xa0\xd3?'
+p374
+tp375
+Rp376
+tp377
+a(S'grammar induction'
+p378
+g2
+(g6
+S"'\xe5\xe3$c\x9e\xd3?"
+p379
+tp380
+Rp381
+tp382
+a(S'inference objection'
+p383
+g2
+(g6
+S'\xc9\xa2{\xbcj\x95\xd3?'
+p384
+tp385
+Rp386
+tp387
+a(S'knowledge retrieval'
+p388
+g2
+(g6
+S'\x995#-z\x8c\xd3?'
+p389
+tp390
+Rp391
+tp392
+a(S'enumerative induction'
+p393
+g2
+(g6
+S'\x18\xe8\xf0Ig\x86\xd3?'
+p394
+tp395
+Rp396
+tp397
+a(S'deductive language'
+p398
+g2
+(g6
+S'\x18\xc6Yv\xbev\xd3?'
+p399
+tp400
+Rp401
+tp402
+a(S'judgment (mathematical logic)'
+p403
+g2
+(g6
+S'\xd27\xacz\xb2o\xd3?'
+p404
+tp405
+Rp406
+tp407
+a(S'transposition (logic)'
+p408
+g2
+(g6
+S'%\x00C\xcc\xcfn\xd3?'
+p409
+tp410
+Rp411
+tp412
+a(S'type rule'
+p413
+g2
+(g6
+S'\x94\x01@\xf9\xecb\xd3?'
+p414
+tp415
+Rp416
+tp417
+a(S'propositional calculus'
+p418
+g2
+(g6
+S'{\xe8\x02\xde\xce\\\xd3?'
+p419
+tp420
+Rp421
+tp422
+a(S'provenance markup language'
+p423
+g2
+(g6
+S'\xa0\xccq\xc8BX\xd3?'
+p424
+tp425
+Rp426
+tp427
+a(S'universal instantiation'
+p428
+g2
+(g6
+S'\xec\x8c\xcd\x93\xc2T\xd3?'
+p429
+tp430
+Rp431
+tp432
+a(S'stan (software)'
+p433
+g2
+(g6
+S'\x1eyyl\x9e\x15\xd3?'
+p434
+tp435
+Rp436
+tp437
+a(S'resolution inference'
+p438
+g2
+(g6
+S'\x1a\x1eX`D\x11\xd3?'
+p439
+tp440
+Rp441
+tp442
+a(S'bayesian network'
+p443
+g2
+(g6
+S'\x94\xeeq\xa9\x1c\x0e\xd3?'
+p444
+tp445
+Rp446
+tp447
+a(S'contraposition (traditional logic)'
+p448
+g2
+(g6
+S'\x1al>\x97"\x08\xd3?'
+p449
+tp450
+Rp451
+tp452
+a(S'outline of logic'
+p453
+g2
+(g6
+S'Pz\x91E@\xe8\xd2?'
+p454
+tp455
+Rp456
+tp457
+a(S'modus non excipiens'
+p458
+g2
+(g6
+S'F\xe3H\xb9\x17\xdd\xd2?'
+p459
+tp460
+Rp461
+tp462
+a(S'conjunction introduction'
+p463
+g2
+(g6
+S'\x96\x91\xf6m%\xc3\xd2?'
+p464
+tp465
+Rp466
+tp467
+a(S'proof calculus'
+p468
+g2
+(g6
+S'h\xa4\xd8g\xbd\xa9\xd2?'
+p469
+tp470
+Rp471
+tp472
+a(S'syllogism'
+p473
+g2
+(g6
+S'\x11V3\xe0k\x94\xd2?'
+p474
+tp475
+Rp476
+tp477
+a(S'tautology'
+p478
+g2
+(g6
+S'(\xc9\xb1\xb2Cz\xd2?'
+p479
+tp480
+Rp481
+tp482
+a(S'mivar-based approach'
+p483
+g2
+(g6
+S'r\xc2\xe7\x17=l\xd2?'
+p484
+tp485
+Rp486
+tp487
+a(S'main contention'
+p488
+g2
+(g6
+S'\xc2\x14B\x9f\xe0A\xd2?'
+p489
+tp490
+Rp491
+tp492
+a(S'causality (book)'
+p493
+g2
+(g6
+S't\xb8\x10\x96\x83>\xd2?'
+p494
+tp495
+Rp496
+tp497
+a(S'john cook wilson'
+p498
+g2
+(g6
+S'T_f,\xf8\x19\xd2?'
+p499
+tp500
+Rp501
+tp502
+a(S'credal network'
+p503
+g2
+(g6
+S'\x9ao\xe6\xa3\xe6\x14\xd2?'
+p504
+tp505
+Rp506
+tp507
+a(S'text inferencing'
+p508
+g2
+(g6
+S'\x87\xee\xdaA\xa2\xfa\xd1?'
+p509
+tp510
+Rp511
+tp512
+a(S'rule of replacement'
+p513
+g2
+(g6
+S' \x0bUF\xdd\xee\xd1?'
+p514
+tp515
+Rp516
+tp517
+a(S'henry e. kyburg, jr.'
+p518
+g2
+(g6
+S'\xe8A.Q\x93\xe9\xd1?'
+p519
+tp520
+Rp521
+tp522
+a(S'markov logic network'
+p523
+g2
+(g6
+S'\x04\x07J\xb4\xd8\xe2\xd1?'
+p524
+tp525
+Rp526
+tp527
+a(S'hybrid algorithm (constraint satisfaction)'
+p528
+g2
+(g6
+S'e<D\x95\xd9\xe0\xd1?'
+p529
+tp530
+Rp531
+tp532
+a(S'leslie armour'
+p533
+g2
+(g6
+S'j\xa4\x99)\xe8\xda\xd1?'
+p534
+tp535
+Rp536
+tp537
+a(S'sequent'
+p538
+g2
+(g6
+S'Ly>\xf2\xda\xd5\xd1?'
+p539
+tp540
+Rp541
+tp542
+a(S'hypothetical syllogism'
+p543
+g2
+(g6
+S';S\x11l\xc6\xd4\xd1?'
+p544
+tp545
+Rp546
+tp547
+a(S'spoliation of evidence'
+p548
+g2
+(g6
+S'\xb4\xec\xef\x95p\xc8\xd1?'
+p549
+tp550
+Rp551
+tp552
+a(S'statistical syllogism'
+p553
+g2
+(g6
+S'H]V\x13\xaa\xbd\xd1?'
+p554
+tp555
+Rp556
+tp557
+a(S'paradoxes of material implication'
+p558
+g2
+(g6
+S'>:\x95\xd70\xbc\xd1?'
+p559
+tp560
+Rp561
+tp562
+a(S'bayesian cognitive science'
+p563
+g2
+(g6
+S'X\xc9utC\xb9\xd1?'
+p564
+tp565
+Rp566
+tp567
+a(S'b. l. s. prakasa rao'
+p568
+g2
+(g6
+S'\xfe\x19G\x9ao\xa9\xd1?'
+p569
+tp570
+Rp571
+tp572
+a(S'informal fallacy'
+p573
+g2
+(g6
+S'\xd8\xa3\xa7\xc4^\xa4\xd1?'
+p574
+tp575
+Rp576
+tp577
+a(S'ignorability'
+p578
+g2
+(g6
+S'\xe8\xe9\xac*\xe3\x80\xd1?'
+p579
+tp580
+Rp581
+tp582
+a(S'cut rule'
+p583
+g2
+(g6
+S'q\xc5\xd3\x87Pz\xd1?'
+p584
+tp585
+Rp586
+tp587
+a(S'index of logic articles'
+p588
+g2
+(g6
+S'\xa2\x92\xb4]\xa3u\xd1?'
+p589
+tp590
+Rp591
+tp592
+a(S'location inference'
+p593
+g2
+(g6
+S'\xf1\x1e\xaf\x99\rt\xd1?'
+p594
+tp595
+Rp596
+tp597
+a(S'laplacesdemon'
+p598
+g2
+(g6
+S'z\xe5S#\xf1h\xd1?'
+p599
+tp600
+Rp601
+tp602
+a(S'hetucakra'
+p603
+g2
+(g6
+S'\x95\x92\xfd\xbe\xd9`\xd1?'
+p604
+tp605
+Rp606
+tp607
+a(S'term logic'
+p608
+g2
+(g6
+S'\xb3\xec\xc5\xb9\x85]\xd1?'
+p609
+tp610
+Rp611
+tp612
+a(S'disjunction elimination'
+p613
+g2
+(g6
+S'\x8e\xa7Au\xafO\xd1?'
+p614
+tp615
+Rp616
+tp617
+a(S'paraconsistent logic'
+p618
+g2
+(g6
+S'\xb3&\x96Y\t=\xd1?'
+p619
+tp620
+Rp621
+tp622
+a(S'medivation'
+p623
+g2
+(g6
+S"qP~\x03\r'\xd1?"
+p624
+tp625
+Rp626
+tp627
+a(S'false premise'
+p628
+g2
+(g6
+S'\x8d>\x89\x1c\x9b\xfd\xd0?'
+p629
+tp630
+Rp631
+tp632
+a(S'logical consequence'
+p633
+g2
+(g6
+S' <\r\xf5\x1a\xe7\xd0?'
+p634
+tp635
+Rp636
+tp637
+a(S'existential generalization'
+p638
+g2
+(g6
+S'\x1c\xd7/\xbd\xf0\xcb\xd0?'
+p639
+tp640
+Rp641
+tp642
+a(S'subalternation'
+p643
+g2
+(g6
+S'\xdb2T\xd1\xa5\xbb\xd0?'
+p644
+tp645
+Rp646
+tp647
+a(S'inductivism'
+p648
+g2
+(g6
+S'6a\xed@\x98\xb0\xd0?'
+p649
+tp650
+Rp651
+tp652
+a(S'modus ponendo tollens'
+p653
+g2
+(g6
+S'x\x13%\xd9\r\x98\xd0?'
+p654
+tp655
+Rp656
+tp657
+a(S'semantic reasoner'
+p658
+g2
+(g6
+S'\xe6\xe8\xe1c\xc7\x92\xd0?'
+p659
+tp660
+Rp661
+tp662
+a(S'bayesian inference in marketing'
+p663
+g2
+(g6
+S'`\x18\x00\xa0Az\xd0?'
+p664
+tp665
+Rp666
+tp667
+a(S'bayesian'
+p668
+g2
+(g6
+S'E\x13\xb0\xe0\xe6x\xd0?'
+p669
+tp670
+Rp671
+tp672
+a(S'qualitative comparative analysis'
+p673
+g2
+(g6
+S'P\xa9\xf6x[o\xd0?'
+p674
+tp675
+Rp676
+tp677
+a(S'statistical proof'
+p678
+g2
+(g6
+S'\xdc\xd2\r\x0c\x1cf\xd0?'
+p679
+tp680
+Rp681
+tp682
+a(S'bayesian probability'
+p683
+g2
+(g6
+S'z\xb1\xdf0\x8aS\xd0?'
+p684
+tp685
+Rp686
+tp687
+a(S'biological network inference'
+p688
+g2
+(g6
+S'\x06y$\x03l.\xd0?'
+p689
+tp690
+Rp691
+tp692
+a(S'indian logic'
+p693
+g2
+(g6
+S'\x85\xeeE\xcev%\xd0?'
+p694
+tp695
+Rp696
+tp697
+a(S'mark j. van der laan'
+p698
+g2
+(g6
+S'\x80\xb1\xcd\xc8\x0b%\xd0?'
+p699
+tp700
+Rp701
+tp702
+a(S'law of thought'
+p703
+g2
+(g6
+S'\xa9\xc1\x14k\x0e\x18\xd0?'
+p704
+tp705
+Rp706
+tp707
+a(S'ray solomonoff'
+p708
+g2
+(g6
+S'\x16:<\xcf\x8f\x0c\xd0?'
+p709
+tp710
+Rp711
+tp712
+a(S'defeasible logic'
+p713
+g2
+(g6
+S'\x0c\x01\xe07\x11\x06\xd0?'
+p714
+tp715
+Rp716
+tp717
+a(S'vaisheshika'
+p718
+g2
+(g6
+S'x\xe6\xf9\xd9l\xed\xcf?'
+p719
+tp720
+Rp721
+tp722
+a(S'automated reasoning'
+p723
+g2
+(g6
+S'\xba\xdcc\x06\x19\xe9\xcf?'
+p724
+tp725
+Rp726
+tp727
+a(S'middle term'
+p728
+g2
+(g6
+S'@,\xee\x00S\xe8\xcf?'
+p729
+tp730
+Rp731
+tp732
+a(S'argument-deduction-proof distinctions'
+p733
+g2
+(g6
+S'\x87?\xbf\x18\x1e\xb7\xcf?'
+p734
+tp735
+Rp736
+tp737
+a(S'bayesian programming'
+p738
+g2
+(g6
+S'\xc4^\x92\x11\xd7\x9a\xcf?'
+p739
+tp740
+Rp741
+tp742
+a(S'causal inference'
+p743
+g2
+(g6
+S'0T\xf0!\xb2\x91\xcf?'
+p744
+tp745
+Rp746
+tp747
+a(S'logic programming'
+p748
+g2
+(g6
+S'\x88*-\x0fh\x8a\xcf?'
+p749
+tp750
+Rp751
+tp752
+a(S'deduction'
+p753
+g2
+(g6
+S'\x8d\xf9\xb4\xf1,w\xcf?'
+p754
+tp755
+Rp756
+tp757
+a(S'problem of induction'
+p758
+g2
+(g6
+S'4\x93\x8f:\x9d_\xcf?'
+p759
+tp760
+Rp761
+tp762
+a(S'church (programming language)'
+p763
+g2
+(g6
+S'V\xd83|-_\xcf?'
+p764
+tp765
+Rp766
+tp767
+a(S'joseph felsenstein'
+p768
+g2
+(g6
+S'\x10\x87?\xa9\xdc8\xcf?'
+p769
+tp770
+Rp771
+tp772
+a(S'deborah mayo'
+p773
+g2
+(g6
+S'j\x7fyj`4\xcf?'
+p774
+tp775
+Rp776
+tp777
+a(S'autoepistemic logic'
+p778
+g2
+(g6
+S"\xcf\x96{\xaf\xc2'\xcf?"
+p779
+tp780
+Rp781
+tp782
+a(S'modus ponens'
+p783
+g2
+(g6
+S')-\xf8\x9c|\xf9\xce?'
+p784
+tp785
+Rp786
+tp787
+a(S'edwin thompson jaynes'
+p788
+g2
+(g6
+S'O\xd8~\r\xfb\xca\xce?'
+p789
+tp790
+Rp791
+tp792
+a(S'soundness'
+p793
+g2
+(g6
+S'Y\x86\xb6k\xe1\xc7\xce?'
+p794
+tp795
+Rp796
+tp797
+a(S'frank van harmelen'
+p798
+g2
+(g6
+S'\xfc\x92#\x82\xbc\xc3\xce?'
+p799
+tp800
+Rp801
+tp802
+a(S'constrained conditional model'
+p803
+g2
+(g6
+S'\x19\xb9)\xfb\xb2\xb0\xce?'
+p804
+tp805
+Rp806
+tp807
+a(S'biconditional elimination'
+p808
+g2
+(g6
+S'\xbc\t\xeb5\xae\xa2\xce?'
+p809
+tp810
+Rp811
+tp812
+a(S'reason'
+p813
+g2
+(g6
+S'C\xed\xe1\xeb\x84\x9f\xce?'
+p814
+tp815
+Rp816
+tp817
+a(S'history of statistics'
+p818
+g2
+(g6
+S'\xa2i\x1c\x05\x13\x98\xce?'
+p819
+tp820
+Rp821
+tp822
+a(S'first-order logic'
+p823
+g2
+(g6
+S'%\xe7\xd0\xbd\x19\x8f\xce?'
+p824
+tp825
+Rp826
+tp827
+a(S'negation introduction'
+p828
+g2
+(g6
+S'\x9cg\xaf\xd6\xc8\x80\xce?'
+p829
+tp830
+Rp831
+tp832
+a(S'opportunistic reasoning'
+p833
+g2
+(g6
+S'p\xcbk\x94\xb4b\xce?'
+p834
+tp835
+Rp836
+tp837
+a(S'e theorem prover'
+p838
+g2
+(g6
+S'OVj_\x91>\xce?'
+p839
+tp840
+Rp841
+tp842
+a(S'logic in islamic philosophy'
+p843
+g2
+(g6
+S'\xf8\x95)T85\xce?'
+p844
+tp845
+Rp846
+tp847
+a(S'mathematical statistics'
+p848
+g2
+(g6
+S'j\x9d\x0f\x9f\x95*\xce?'
+p849
+tp850
+Rp851
+tp852
+a(S'masked-man fallacy'
+p853
+g2
+(g6
+S'\xb2\x13ui\xac\x10\xce?'
+p854
+tp855
+Rp856
+tp857
+a(S'dign\xc4\x81ga'
+p858
+g2
+(g6
+S'ByT~\xcf\xff\xcd?'
+p859
+tp860
+Rp861
+tp862
+a(S'snark (theorem prover)'
+p863
+g2
+(g6
+S'\\\xdf\x84\xce\xc7\xfd\xcd?'
+p864
+tp865
+Rp866
+tp867
+a(S'the design inference'
+p868
+g2
+(g6
+S'\xea#\xac1\xbf\xce\xcd?'
+p869
+tp870
+Rp871
+tp872
+a(S'formal system'
+p873
+g2
+(g6
+S'\x97\xbb\x10KN\xbf\xcd?'
+p874
+tp875
+Rp876
+tp877
+a(S'conditional random field'
+p878
+g2
+(g6
+S'\xb2o\x9ft_\xac\xcd?'
+p879
+tp880
+Rp881
+tp882
+a(S'philosophy of statistics'
+p883
+g2
+(g6
+S'\xea\xf7w\xdf\xe7\xa7\xcd?'
+p884
+tp885
+Rp886
+tp887
+a(S'belief bias'
+p888
+g2
+(g6
+S'\xfa\x91BD\xac\x97\xcd?'
+p889
+tp890
+Rp891
+tp892
+a(S'negation as failure'
+p893
+g2
+(g6
+S'\x06\xaf\xe3\xfbS\x89\xcd?'
+p894
+tp895
+Rp896
+tp897
+a(S'logical harmony'
+p898
+g2
+(g6
+S'\x99M3l+\x7f\xcd?'
+p899
+tp900
+Rp901
+tp902
+a(S'logic (disambiguation)'
+p903
+g2
+(g6
+S'\xdar\xb4\xd6\x14e\xcd?'
+p904
+tp905
+Rp906
+tp907
+a(S'logical form'
+p908
+g2
+(g6
+S'*\x86\xcc\xd9l_\xcd?'
+p909
+tp910
+Rp911
+tp912
+a(S'gilbert harman'
+p913
+g2
+(g6
+S'\x12\xa2|\x059I\xcd?'
+p914
+tp915
+Rp916
+tp917
+a(S'mental model theory of reasoning'
+p918
+g2
+(g6
+S"\xa3 '\xc8\x90G\xcd?"
+p919
+tp920
+Rp921
+tp922
+a(S'logic in computer science'
+p923
+g2
+(g6
+S'\xd9+\xdaS\x11>\xcd?'
+p924
+tp925
+Rp926
+tp927
+a(S'fmrib software library'
+p928
+g2
+(g6
+S'4\xd6\xd9A*\x13\xcd?'
+p929
+tp930
+Rp931
+tp932
+a(S'proof by contrapositive'
+p933
+g2
+(g6
+S'\x96\xde\x14o\x7f\x11\xcd?'
+p934
+tp935
+Rp936
+tp937
+a(S'list of phylogenetics software'
+p938
+g2
+(g6
+S'yE@\xa3\xcc\x00\xcd?'
+p939
+tp940
+Rp941
+tp942
+a(S'quantum bayesianism'
+p943
+g2
+(g6
+S'\xb6\xbf\xa7\xcc\xd4\xfc\xcc?'
+p944
+tp945
+Rp946
+tp947
+a(S'semantic holism'
+p948
+g2
+(g6
+S'\x83\x1a`]\x08\xe9\xcc?'
+p949
+tp950
+Rp951
+tp952
+a(S'sequent calculus'
+p953
+g2
+(g6
+S'\xd6&\xe5*v\xe0\xcc?'
+p954
+tp955
+Rp956
+tp957
+a(S'automated theorem proving'
+p958
+g2
+(g6
+S'\xd2\xbf\x89.\xae\xce\xcc?'
+p959
+tp960
+Rp961
+tp962
+a(S'janina hosiasson-lindenbaum'
+p963
+g2
+(g6
+S'\xbaD\xf8\xbb\xc8\xcb\xcc?'
+p964
+tp965
+Rp966
+tp967
+a(S'john l. pollock'
+p968
+g2
+(g6
+S'\xf4es\xb0\xbe\xac\xcc?'
+p969
+tp970
+Rp971
+tp972
+a(S'timeline of the history of scientific method'
+p973
+g2
+(g6
+S'\xc1\xa9\x85z\x0f\x95\xcc?'
+p974
+tp975
+Rp976
+tp977
+a(S'co-premise'
+p978
+g2
+(g6
+S'N\x96\x02J\xe7\x8a\xcc?'
+p979
+tp980
+Rp981
+tp982
+a(S"armstrong's axioms"
+p983
+g2
+(g6
+S'0n|R |\xcc?'
+p984
+tp985
+Rp986
+tp987
+a(S'informal logic'
+p988
+g2
+(g6
+S'\x18\x94\xef\xe5\xb6c\xcc?'
+p989
+tp990
+Rp991
+tp992
+a(S'unconscious inference'
+p993
+g2
+(g6
+S'3,k\xb3c\\\xcc?'
+p994
+tp995
+Rp996
+tp997
+a(S'attributional calculus'
+p998
+g2
+(g6
+S'\xf4\xda\xc0ZS:\xcc?'
+p999
+tp1000
+Rp1001
+tp1002
+a(S'rival conceptions of logic'
+p1003
+g2
+(g6
+S'_a\xbd\xbc\xcf&\xcc?'
+p1004
+tp1005
+Rp1006
+tp1007
+a(S'knowledge representation and reasoning'
+p1008
+g2
+(g6
+S'N\x12\t\x13\x15\x1a\xcc?'
+p1009
+tp1010
+Rp1011
+tp1012
+a(S'knowledge-based systems'
+p1013
+g2
+(g6
+S'\x82]V\xa2\x86\x19\xcc?'
+p1014
+tp1015
+Rp1016
+tp1017
+a(S'reason maintenance'
+p1018
+g2
+(g6
+S'hI\x19dV\xfb\xcb?'
+p1019
+tp1020
+Rp1021
+tp1022
+a(S'argument map'
+p1023
+g2
+(g6
+S'\x0e\xc4\x1f%\xb6\xee\xcb?'
+p1024
+tp1025
+Rp1026
+tp1027
+a(S'the emergence of probability'
+p1028
+g2
+(g6
+S'\xb1\xb8P\xd4\xdd\xc2\xcb?'
+p1029
+tp1030
+Rp1031
+tp1032
+a(S'intuitionistic logic'
+p1033
+g2
+(g6
+S'5T\r\xe7\x90\xbf\xcb?'
+p1034
+tp1035
+Rp1036
+tp1037
+a(S'john alan robinson'
+p1038
+g2
+(g6
+S'1\r\xa1\xb4\x0b\xb3\xcb?'
+p1039
+tp1040
+Rp1041
+tp1042
+a(S'sander greenland'
+p1043
+g2
+(g6
+S'N\xcd\xa80-\xab\xcb?'
+p1044
+tp1045
+Rp1046
+tp1047
+a(S'russell poldrack'
+p1048
+g2
+(g6
+S'*\xf1\x8f\xba\x95\xa7\xcb?'
+p1049
+tp1050
+Rp1051
+tp1052
+a(S'deductive fallacy'
+p1053
+g2
+(g6
+S'\x8dG\xde\x9am\x8f\xcb?'
+p1054
+tp1055
+Rp1056
+tp1057
+a(S'metamath'
+p1058
+g2
+(g6
+S'"\xb5F\x98\x82\x88\xcb?'
+p1059
+tp1060
+Rp1061
+tp1062
+a(S'tautology (rule of inference)'
+p1063
+g2
+(g6
+S'L\x18\xbc\xf3\xae\x82\xcb?'
+p1064
+tp1065
+Rp1066
+tp1067
+a(S'variational message passing'
+p1068
+g2
+(g6
+S'\xc8\xf6\xc8\x05Ew\xcb?'
+p1069
+tp1070
+Rp1071
+tp1072
+a(S'cyc'
+p1073
+g2
+(g6
+S'\x16\xae\x84\xb7iv\xcb?'
+p1074
+tp1075
+Rp1076
+tp1077
+a(S'base rate fallacy'
+p1078
+g2
+(g6
+S'\xda\x1e\xf9\xdc\xbet\xcb?'
+p1079
+tp1080
+Rp1081
+tp1082
+a(S'inductive logic programming'
+p1083
+g2
+(g6
+S'.\x85w\xa0\xd5_\xcb?'
+p1084
+tp1085
+Rp1086
+tp1087
+a(S'many-valued logic'
+p1088
+g2
+(g6
+S'r}\x17\x06\x05M\xcb?'
+p1089
+tp1090
+Rp1091
+tp1092
+a(S'models of scientific inquiry'
+p1093
+g2
+(g6
+S'\xa1IY\x9a\xb9L\xcb?'
+p1094
+tp1095
+Rp1096
+tp1097
+a(S'equipossibility'
+p1098
+g2
+(g6
+S'd\x9c\xd9\x1f\xf4K\xcb?'
+p1099
+tp1100
+Rp1101
+tp1102
+a(S'larry a. wasserman'
+p1103
+g2
+(g6
+S'\x83\xd0\x02G\x13.\xcb?'
+p1104
+tp1105
+Rp1106
+tp1107
+a(S'f-logic'
+p1108
+g2
+(g6
+S'\x87-\xf4\x91\xfb+\xcb?'
+p1109
+tp1110
+Rp1111
+tp1112
+a(S'ratnak\xc4\xabrti'
+p1113
+g2
+(g6
+S'\xc0\xc9\xc3\xb4\xfa\x17\xcb?'
+p1114
+tp1115
+Rp1116
+tp1117
+a(S'sam weerahandi'
+p1118
+g2
+(g6
+S'\x8a4!\x04=\xf8\xca?'
+p1119
+tp1120
+Rp1121
+tp1122
+a(S'what the tortoise said to achilles'
+p1123
+g2
+(g6
+S'0\xf5q~%\xeb\xca?'
+p1124
+tp1125
+Rp1126
+tp1127
+a(S'jon barwise'
+p1128
+g2
+(g6
+S'\xf8\xf0\x06H\xb3\xde\xca?'
+p1129
+tp1130
+Rp1131
+tp1132
+a(S'circular reasoning'
+p1133
+g2
+(g6
+S'\x8a\x04\x99dR\xdc\xca?'
+p1134
+tp1135
+Rp1136
+tp1137
+a(S'bayesian operational modal analysis'
+p1138
+g2
+(g6
+S'qNuQ\x1f\xda\xca?'
+p1139
+tp1140
+Rp1141
+tp1142
+a(S'tautological consequence'
+p1143
+g2
+(g6
+S'\x97J|\xd1\x01\xd6\xca?'
+p1144
+tp1145
+Rp1146
+tp1147
+a(S'prolog'
+p1148
+g2
+(g6
+S',\x95\xaf\xc1A\xc8\xca?'
+p1149
+tp1150
+Rp1151
+tp1152
+a(S'tautology (rhetoric)'
+p1153
+g2
+(g6
+S'F\xf5v\x06v\xbf\xca?'
+p1154
+tp1155
+Rp1156
+tp1157
+a(S'flint toolkit'
+p1158
+g2
+(g6
+S'\\W\x18\x16\x97\xad\xca?'
+p1159
+tp1160
+Rp1161
+tp1162
+a(S'the false subtlety of the four syllogistic figures'
+p1163
+g2
+(g6
+S'/&"\rz\xa4\xca?'
+p1164
+tp1165
+Rp1166
+tp1167
+a(S'gary king (political scientist)'
+p1168
+g2
+(g6
+S'\xdc\xa7\x06{\xa2\x9d\xca?'
+p1169
+tp1170
+Rp1171
+tp1172
+a(S'logic for computable functions'
+p1173
+g2
+(g6
+S'u\xf4\xac2\x86\x96\xca?'
+p1174
+tp1175
+Rp1176
+tp1177
+a(S'relevance logic'
+p1178
+g2
+(g6
+S'\x1a\xf3\x9d\xffi\x8d\xca?'
+p1179
+tp1180
+Rp1181
+tp1182
+a(S'outline of statistics'
+p1183
+g2
+(g6
+S'\xaa\xcc\xcb\xb9\x8f\x89\xca?'
+p1184
+tp1185
+Rp1186
+tp1187
+a(S'affirming the consequent'
+p1188
+g2
+(g6
+S'\xe8m d\x8d\x82\xca?'
+p1189
+tp1190
+Rp1191
+tp1192
+a(S'point estimation'
+p1193
+g2
+(g6
+S'\xad\xf5\xfc\xf2~{\xca?'
+p1194
+tp1195
+Rp1196
+tp1197
+a(S'provability logic'
+p1198
+g2
+(g6
+S'\xf3\x9d\xd8\xc0\xc3o\xca?'
+p1199
+tp1200
+Rp1201
+tp1202
+a(S'resolution (logic)'
+p1203
+g2
+(g6
+S'\xf7\x17\x04N\xa6o\xca?'
+p1204
+tp1205
+Rp1206
+tp1207
+a(S'direct coupling analysis'
+p1208
+g2
+(g6
+S'\xda\x8a%\xb3\xaan\xca?'
+p1209
+tp1210
+Rp1211
+tp1212
+a(S'self-indication assumption doomsday argument rebuttal'
+p1213
+g2
+(g6
+S'\xd2\x82\x1cb\x90a\xca?'
+p1214
+tp1215
+Rp1216
+tp1217
+a(S'three-valued logic'
+p1218
+g2
+(g6
+S'\xce\xdb\x9c\xf1\x01X\xca?'
+p1219
+tp1220
+Rp1221
+tp1222
+a(S'negative conclusion from affirmative premises'
+p1223
+g2
+(g6
+S'\xda\xce\xc3-\xbbU\xca?'
+p1224
+tp1225
+Rp1226
+tp1227
+a(S'history of scientific method'
+p1228
+g2
+(g6
+S'\x18\x8f\xf4H\xadH\xca?'
+p1229
+tp1230
+Rp1231
+tp1232
+a(S'logic for programming, artificial intelligence and reasoning'
+p1233
+g2
+(g6
+S'\xed\xc8\x01\x9d\xe6\x15\xca?'
+p1234
+tp1235
+Rp1236
+tp1237
+a(S'a priori probability'
+p1238
+g2
+(g6
+S'z\xa6\xc4&3\x14\xca?'
+p1239
+tp1240
+Rp1241
+tp1242
+a(S'metamathematics'
+p1243
+g2
+(g6
+S'\xd4\xd4I\xbc\x14\x06\xca?'
+p1244
+tp1245
+Rp1246
+tp1247
+a(S'fril'
+p1248
+g2
+(g6
+S'/\x96;d\xea\x03\xca?'
+p1249
+tp1250
+Rp1251
+tp1252
+a(S'biconditional introduction'
+p1253
+g2
+(g6
+S'`\xf1c\xd5U\xfc\xc9?'
+p1254
+tp1255
+Rp1256
+tp1257
+a(S'czes\xc5\x82aw lejewski'
+p1258
+g2
+(g6
+S'\xc8r\xe6\x8fl\xea\xc9?'
+p1259
+tp1260
+Rp1261
+tp1262
+a(S'designing social inquiry'
+p1263
+g2
+(g6
+S'\x15m\xcd\xed\xfb\xe9\xc9?'
+p1264
+tp1265
+Rp1266
+tp1267
+a(S'constructive dilemma'
+p1268
+g2
+(g6
+S'\xee\xb4u=n\xe9\xc9?'
+p1269
+tp1270
+Rp1271
+tp1272
+a(S'formal epistemology'
+p1273
+g2
+(g6
+S'[\x9et\x97>\xd6\xc9?'
+p1274
+tp1275
+Rp1276
+tp1277
+a(S'logic in china'
+p1278
+g2
+(g6
+S'.\x05\xb6Z@\xd3\xc9?'
+p1279
+tp1280
+Rp1281
+tp1282
+a(S'logic of class'
+p1283
+g2
+(g6
+S'\xaby2\xa6\x0c\xca\xc9?'
+p1284
+tp1285
+Rp1286
+tp1287
+a(S'probability interpretations'
+p1288
+g2
+(g6
+S'\x18d\xfb\x9f\x89\xc8\xc9?'
+p1289
+tp1290
+Rp1291
+tp1292
+a(S'slothful induction'
+p1293
+g2
+(g6
+S'O\x98(\xab\xd3\xc7\xc9?'
+p1294
+tp1295
+Rp1296
+tp1297
+a(S'alan ross anderson'
+p1298
+g2
+(g6
+S'2\xf5\xc0\x0c\x03\xc0\xc9?'
+p1299
+tp1300
+Rp1301
+tp1302
+a(S'epistemic modal logic'
+p1303
+g2
+(g6
+S'r\xddM\xd5#\xa0\xc9?'
+p1304
+tp1305
+Rp1306
+tp1307
+a(S'bruno de finetti'
+p1308
+g2
+(g6
+S'\xcd%\xba\xde\x81\x9b\xc9?'
+p1309
+tp1310
+Rp1311
+tp1312
+a(S'glossary of artificial intelligence'
+p1313
+g2
+(g6
+S't}\xc0d\x06\x96\xc9?'
+p1314
+tp1315
+Rp1316
+tp1317
+a(S'first-class message'
+p1318
+g2
+(g6
+S'Km\xe7\xd7K\x93\xc9?'
+p1319
+tp1320
+Rp1321
+tp1322
+a(S'formal fallacy'
+p1323
+g2
+(g6
+S'\x1d3#\x07a\x91\xc9?'
+p1324
+tp1325
+Rp1326
+tp1327
+a(S'subl'
+p1328
+g2
+(g6
+S'wS\xbb\xfdX\x89\xc9?'
+p1329
+tp1330
+Rp1331
+tp1332
+a(S'bayesian approaches to brain function'
+p1333
+g2
+(g6
+S'25%=\xd3\x88\xc9?'
+p1334
+tp1335
+Rp1336
+tp1337
+a(S'valuation-based system'
+p1338
+g2
+(g6
+S'\xcd\x0c\xa9\xe6Y\x85\xc9?'
+p1339
+tp1340
+Rp1341
+tp1342
+a(S'second-order logic'
+p1343
+g2
+(g6
+S'\x99(V\xa8\xc1x\xc9?'
+p1344
+tp1345
+Rp1346
+tp1347
+a(S'non sequitur (logic)'
+p1348
+g2
+(g6
+S'\xbe<~tKt\xc9?'
+p1349
+tp1350
+Rp1351
+tp1352
+a(S'bayes factor'
+p1353
+g2
+(g6
+S'\xd2\xd2\xf1\xf7\xe9a\xc9?'
+p1354
+tp1355
+Rp1356
+tp1357
+a(S'infinitary logic'
+p1358
+g2
+(g6
+S'\x95\x12\xc8\x89@a\xc9?'
+p1359
+tp1360
+Rp1361
+tp1362
+a(S'dan roth'
+p1363
+g2
+(g6
+S'j\xf6\xa4\x86+[\xc9?'
+p1364
+tp1365
+Rp1366
+tp1367
+a(S'disjunctive syllogism'
+p1368
+g2
+(g6
+S'\x9aK:\xcedQ\xc9?'
+p1369
+tp1370
+Rp1371
+tp1372
+a(S'modus tollens'
+p1373
+g2
+(g6
+S'h_I\x00M*\xc9?'
+p1374
+tp1375
+Rp1376
+tp1377
+a(S'model-based reasoning'
+p1378
+g2
+(g6
+S'\x9b\x9cc\xbf\xb4#\xc9?'
+p1379
+tp1380
+Rp1381
+tp1382
+a(S'list of valid argument forms'
+p1383
+g2
+(g6
+S';\xa7\nW\xeb\x1c\xc9?'
+p1384
+tp1385
+Rp1386
+tp1387
+a(S'hugo keuzenkamp'
+p1388
+g2
+(g6
+S'\x02\xbb3\x05\xee\x0c\xc9?'
+p1389
+tp1390
+Rp1391
+tp1392
+a(S'method of simulated moments'
+p1393
+g2
+(g6
+S'\xe4D\x91\x13\xf4\x0b\xc9?'
+p1394
+tp1395
+Rp1396
+tp1397
+a(S'four-valued logic'
+p1398
+g2
+(g6
+S't7\xd7\xa5n\n\xc9?'
+p1399
+tp1400
+Rp1401
+tp1402
+a(S'confidence distribution'
+p1403
+g2
+(g6
+S'\xa4@\xd0\xbd>\t\xc9?'
+p1404
+tp1405
+Rp1406
+tp1407
+a(S'lottery paradox'
+p1408
+g2
+(g6
+S'\xfa\xd9AM\x0b\x08\xc9?'
+p1409
+tp1410
+Rp1411
+tp1412
+a(S'material conditional'
+p1413
+g2
+(g6
+S'\xe0\x19uz\xb8\xfc\xc8?'
+p1414
+tp1415
+Rp1416
+tp1417
+a(S'q zero'
+p1418
+g2
+(g6
+S'W9\xed_\xe8\xfa\xc8?'
+p1419
+tp1420
+Rp1421
+tp1422
+a(S'structural rule'
+p1423
+g2
+(g6
+S"\x19'U\x02\xc8\xf9\xc8?"
+p1424
+tp1425
+Rp1426
+tp1427
+a(S"bayes' theorem"
+p1428
+g2
+(g6
+S'\x15Km]S\xf5\xc8?'
+p1429
+tp1430
+Rp1431
+tp1432
+a(S'hybrid logic'
+p1433
+g2
+(g6
+S'\xf6\xf3\x02n \xe7\xc8?'
+p1434
+tp1435
+Rp1436
+tp1437
+a(S'cirquent calculus'
+p1438
+g2
+(g6
+S'\xb7p\xf7\xfbn\xdd\xc8?'
+p1439
+tp1440
+Rp1441
+tp1442
+a(S'direct evidence'
+p1443
+g2
+(g6
+S'\xd6\x08\xd3/%\xd8\xc8?'
+p1444
+tp1445
+Rp1446
+tp1447
+a(S'commutativity of conjunction'
+p1448
+g2
+(g6
+S'\x0b\xdaP\xb67\xd2\xc8?'
+p1449
+tp1450
+Rp1451
+tp1452
+a(S'stuart geman'
+p1453
+g2
+(g6
+S' x\x9e"p\xd0\xc8?'
+p1454
+tp1455
+Rp1456
+tp1457
+a(S'mathematics and plausible reasoning'
+p1458
+g2
+(g6
+S'\xa8w|m>\xd0\xc8?'
+p1459
+tp1460
+Rp1461
+tp1462
+a(S'credal set'
+p1463
+g2
+(g6
+S'\xc1-\n}0\xcf\xc8?'
+p1464
+tp1465
+Rp1466
+tp1467
+a(S'existential instantiation'
+p1468
+g2
+(g6
+S'\xc6(\xa1\xb2F\xbe\xc8?'
+p1469
+tp1470
+Rp1471
+tp1472
+a(S'obversion'
+p1473
+g2
+(g6
+S'\xc0\xa8}\xd8\x89\xac\xc8?'
+p1474
+tp1475
+Rp1476
+tp1477
+a(S'jumping to conclusions'
+p1478
+g2
+(g6
+S'\x04\xe2\x0bl{\xa4\xc8?'
+p1479
+tp1480
+Rp1481
+tp1482
+a(S'vienna summer of logic'
+p1483
+g2
+(g6
+S'\xd5\xcb\xbf\xea\xdb\x9f\xc8?'
+p1484
+tp1485
+Rp1486
+tp1487
+a(S'approximate bayesian computation'
+p1488
+g2
+(g6
+S'\x1b=z\xae\xd6\x95\xc8?'
+p1489
+tp1490
+Rp1491
+tp1492
+a(S'george boolos'
+p1493
+g2
+(g6
+S'\xa4\x8b\xad\x87s\x7f\xc8?'
+p1494
+tp1495
+Rp1496
+tp1497
+a(S'mycin'
+p1498
+g2
+(g6
+S"'\xb3\x9cE\xbbh\xc8?"
+p1499
+tp1500
+Rp1501
+tp1502
+a(S'paul boghossian'
+p1503
+g2
+(g6
+S'$\xe5\xe4+\xa1c\xc8?'
+p1504
+tp1505
+Rp1506
+tp1507
+a(S'lennart \xc3\x85qvist'
+p1508
+g2
+(g6
+S'B\xa0\x86\xcb K\xc8?'
+p1509
+tp1510
+Rp1511
+tp1512
+a.

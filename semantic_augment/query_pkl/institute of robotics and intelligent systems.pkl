@@ -1,0 +1,2728 @@
+(lp0
+(S'institute of robotics and intelligent systems'
+p1
+cnumpy.core.multiarray
+scalar
+p2
+(cnumpy
+dtype
+p3
+(S'f8'
+p4
+I0
+I1
+tp5
+Rp6
+(I3
+S'<'
+p7
+NNNI-1
+I-1
+I0
+tp8
+bS'\x04\x00\x00\x00\x00\x00\xf0?'
+p9
+tp10
+Rp11
+tp12
+a(S'roboticist'
+p13
+g2
+(g6
+S'\xe7_\x86\x1c\x12\xb4\xe2?'
+p14
+tp15
+Rp16
+tp17
+a(S'bradley nelson'
+p18
+g2
+(g6
+S'*"\x95}\x8al\xe0?'
+p19
+tp20
+Rp21
+tp22
+a(S'robot research initiative'
+p23
+g2
+(g6
+S'\xb3\xf3\xe3\xb9\x8b\xe2\xdf?'
+p24
+tp25
+Rp26
+tp27
+a(S'robotics institute'
+p28
+g2
+(g6
+S';-P\xda\xc4\xbb\xdf?'
+p29
+tp30
+Rp31
+tp32
+a(S'morphogenetic robotics'
+p33
+g2
+(g6
+S'\xc9\xb2\\n\xa90\xdf?'
+p34
+tp35
+Rp36
+tp37
+a(S'magnus egerstedt'
+p38
+g2
+(g6
+S'N\x1c\xb9\xe7\xc1-\xdf?'
+p39
+tp40
+Rp41
+tp42
+a(S'ruppin academic center'
+p43
+g2
+(g6
+S'\xe8\x9d\x97\xdc}\x19\xdf?'
+p44
+tp45
+Rp46
+tp47
+a(S'marquette university humanoid engineering & intelligent robotics lab'
+p48
+g2
+(g6
+S'"Ew,E\xac\xde?'
+p49
+tp50
+Rp51
+tp52
+a(S'centibots'
+p53
+g2
+(g6
+S'\xaf\x9b\xdc\xe9\xe2k\xdd?'
+p54
+tp55
+Rp56
+tp57
+a(S'georgia institute of technology center for robotics and intelligent machines'
+p58
+g2
+(g6
+S'B\x8b\xb2\x08\xe1A\xdd?'
+p59
+tp60
+Rp61
+tp62
+a(S'robovalley'
+p63
+g2
+(g6
+S'\x85\x11\x80-\xdd1\xdd?'
+p64
+tp65
+Rp66
+tp67
+a(S'darwin caldwell'
+p68
+g2
+(g6
+S'k\xb5\n\x9e\xb2.\xdd?'
+p69
+tp70
+Rp71
+tp72
+a(S'outline of robotics'
+p73
+g2
+(g6
+S'a\xf6=\x8f\x8b\xd0\xdc?'
+p74
+tp75
+Rp76
+tp77
+a(S'indian underwater robotics society'
+p78
+g2
+(g6
+S'\xbe8\x11\xf9\xfd\xc2\xdc?'
+p79
+tp80
+Rp81
+tp82
+a(S'cognitive robotics'
+p83
+g2
+(g6
+S'Z\x8b\x97b\r\xb8\xdc?'
+p84
+tp85
+Rp86
+tp87
+a(S'roland siegwart'
+p88
+g2
+(g6
+S'\xc9\'"22\xb5\xdc?'
+p89
+tp90
+Rp91
+tp92
+a(S'redwood robotics'
+p93
+g2
+(g6
+S'\x97\x9a\xdf\x91\xd6n\xdc?'
+p94
+tp95
+Rp96
+tp97
+a(S'list of european union robotics projects'
+p98
+g2
+(g6
+S'q\x98\xd1#\x97Z\xdc?'
+p99
+tp100
+Rp101
+tp102
+a(S'soft robotics'
+p103
+g2
+(g6
+S'\xa4z\x15L\xeaX\xdc?'
+p104
+tp105
+Rp106
+tp107
+a(S'james j. kuffner jr.'
+p108
+g2
+(g6
+S'1\x0f4.A*\xdc?'
+p109
+tp110
+Rp111
+tp112
+a(S'alice mobile robot'
+p113
+g2
+(g6
+S'\xcb\xb8\xbb\xdc\x93e\xdb?'
+p114
+tp115
+Rp116
+tp117
+a(S'university institute of engineering & technology (uiet), maharshi dayanand university (mdu)'
+p118
+g2
+(g6
+S',&\x18g\x7fb\xdb?'
+p119
+tp120
+Rp121
+tp122
+a(S'meka robotics'
+p123
+g2
+(g6
+S'\xcfB=\x94\xcda\xdb?'
+p124
+tp125
+Rp126
+tp127
+a(S'bobcat robotics'
+p128
+g2
+(g6
+S'\x8b{(\xc591\xdb?'
+p129
+tp130
+Rp131
+tp132
+a(S'daniela l. rus'
+p133
+g2
+(g6
+S'Z9w\x93\xb5"\xdb?'
+p134
+tp135
+Rp136
+tp137
+a(S'openrave'
+p138
+g2
+(g6
+S'\x81X\x14\xde \x1a\xdb?'
+p139
+tp140
+Rp141
+tp142
+a(S'homayoon kazerooni'
+p143
+g2
+(g6
+S'\xd0\x85\xc8\x91\x9f\x00\xdb?'
+p144
+tp145
+Rp146
+tp147
+a(S'institute of control and computation engineering of the university of zielona g\xc3\xb3ra'
+p148
+g2
+(g6
+S'\xb7\xc1\x9d\x99\xda\xfd\xda?'
+p149
+tp150
+Rp151
+tp152
+a(S'calcutta institute of engineering and management'
+p153
+g2
+(g6
+S'\xd1\xf8\xc1\x0e\xb4\xfb\xda?'
+p154
+tp155
+Rp156
+tp157
+a(S'politics of greenwich'
+p158
+g2
+(g6
+S'\xa4\x8aAU\xc2\xf2\xda?'
+p159
+tp160
+Rp161
+tp162
+a(S'evolutionary developmental robotics'
+p163
+g2
+(g6
+S'\xbf\xd6\xcf\xc3v\xf2\xda?'
+p164
+tp165
+Rp166
+tp167
+a(S'robotic industries association'
+p168
+g2
+(g6
+S'\xc2.]\xf5\xfa\xda\xda?'
+p169
+tp170
+Rp171
+tp172
+a(S'european robotics platform'
+p173
+g2
+(g6
+S'\x02\x8eh8\xd3S\xda?'
+p174
+tp175
+Rp176
+tp177
+a(S'henrik i. christensen'
+p178
+g2
+(g6
+S'\x8fk\xb3\xf9\x8bG\xda?'
+p179
+tp180
+Rp181
+tp182
+a(S'social robot'
+p183
+g2
+(g6
+S'\xa0\x18\xec\xdc\xdeB\xda?'
+p184
+tp185
+Rp186
+tp187
+a(S'developmental robotics'
+p188
+g2
+(g6
+S'_\xd3\xf0\xd4\x139\xda?'
+p189
+tp190
+Rp191
+tp192
+a(S'joseph engelberger'
+p193
+g2
+(g6
+S'\x15"\n\xc7F,\xda?'
+p194
+tp195
+Rp196
+tp197
+a(S'gregory dudek'
+p198
+g2
+(g6
+S'\n\xfd\x94\xa2\xa2\x16\xda?'
+p199
+tp200
+Rp201
+tp202
+a(S'jean-christophe baillie'
+p203
+g2
+(g6
+S"\xc8\x8cA'b\xf9\xd9?"
+p204
+tp205
+Rp206
+tp207
+a(S'educational robotics'
+p208
+g2
+(g6
+S'\x99\x0b7\xa6\xbf\xed\xd9?'
+p209
+tp210
+Rp211
+tp212
+a(S'international federation of robotics'
+p213
+g2
+(g6
+S'>\xaa\xbcWv\xce\xd9?'
+p214
+tp215
+Rp216
+tp217
+a(S'list of united kingdom mps by seniority, 2010\xe2\x80\x9315'
+p218
+g2
+(g6
+S'\x87\x1a\xa2\xf7$\xb5\xd9?'
+p219
+tp220
+Rp221
+tp222
+a(S'robotics suite'
+p223
+g2
+(g6
+S'\xac\r\xd2\xa8\x87\xa4\xd9?'
+p224
+tp225
+Rp226
+tp227
+a(S'sree narayana gurukulam college of engineering'
+p228
+g2
+(g6
+S'}*I,\xe9\x88\xd9?'
+p229
+tp230
+Rp231
+tp232
+a(S'shimon y. nof'
+p233
+g2
+(g6
+S'E\xa1[[\x02[\xd9?'
+p234
+tp235
+Rp236
+tp237
+a(S'national robotics engineering center'
+p238
+g2
+(g6
+S'3\x8de\xf5\x1b#\xd9?'
+p239
+tp240
+Rp241
+tp242
+a(S'presidency university, bangladesh'
+p243
+g2
+(g6
+S'\xf1*rA\x17\x1e\xd9?'
+p244
+tp245
+Rp246
+tp247
+a(S'paladyn'
+p248
+g2
+(g6
+S'\x92\xb7$/\\\x04\xd9?'
+p249
+tp250
+Rp251
+tp252
+a(S'ahsanullah university of science and technology'
+p253
+g2
+(g6
+S'qpf\x0el\xf8\xd8?'
+p254
+tp255
+Rp256
+tp257
+a(S'personal robot'
+p258
+g2
+(g6
+S'\xed&\x08)\x91\xf7\xd8?'
+p259
+tp260
+Rp261
+tp262
+a(S'lewisham london borough council elections'
+p263
+g2
+(g6
+S'-q0\xed\r\xe9\xd8?'
+p264
+tp265
+Rp266
+tp267
+a(S'the lab'
+p268
+g2
+(g6
+S'q\x8eQ\x1e@\xd9\xd8?'
+p269
+tp270
+Rp271
+tp272
+a(S'microsoft robotics developer studio'
+p273
+g2
+(g6
+S'\xf9D\x8aN\xf7\xb7\xd8?'
+p274
+tp275
+Rp276
+tp277
+a(S'servo magazine'
+p278
+g2
+(g6
+S'\xe8\xc2\xa2w\x8e\xab\xd8?'
+p279
+tp280
+Rp281
+tp282
+a(S'gerd hirzinger'
+p283
+g2
+(g6
+S'\xe8w\xee\x13{\x97\xd8?'
+p284
+tp285
+Rp286
+tp287
+a(S'river ridge high school (florida)'
+p288
+g2
+(g6
+S'\x96ne\x03n\x86\xd8?'
+p289
+tp290
+Rp291
+tp292
+a(S'cloud robotics'
+p293
+g2
+(g6
+S'\xda\x9b\x13\xda]\x7f\xd8?'
+p294
+tp295
+Rp296
+tp297
+a(S'shaikh college of engineering and technology'
+p298
+g2
+(g6
+S'\xe2\xbc\x04\x1c\xd1E\xd8?'
+p299
+tp300
+Rp301
+tp302
+a(S'ims engineering college'
+p303
+g2
+(g6
+S'v\x9e`\xa3\x12.\xd8?'
+p304
+tp305
+Rp306
+tp307
+a(S'cassat'
+p308
+g2
+(g6
+S'\x9e\xcbx"\x02+\xd8?'
+p309
+tp310
+Rp311
+tp312
+a(S'a. p. shah institute of technology'
+p313
+g2
+(g6
+S'\xe9\x86p\xf1\xe3 \xd8?'
+p314
+tp315
+Rp316
+tp317
+a(S'robot competition'
+p318
+g2
+(g6
+S';J;s\xa9\x16\xd8?'
+p319
+tp320
+Rp321
+tp322
+a(S'iilm college of engineering and technology'
+p323
+g2
+(g6
+S'\xf2\xf2\x9a\xe84\xf4\xd7?'
+p324
+tp325
+Rp326
+tp327
+a(S'basicx'
+p328
+g2
+(g6
+S'd\x9a\xee\xdeo\x96\xd7?'
+p329
+tp330
+Rp331
+tp332
+a(S'members of the greater london council'
+p333
+g2
+(g6
+S'\x1a\x03\x06x\xc9\x89\xd7?'
+p334
+tp335
+Rp336
+tp337
+a(S'reddish north (stockport electoral ward)'
+p338
+g2
+(g6
+S'K\xb7AI\xb3\x87\xd7?'
+p339
+tp340
+Rp341
+tp342
+a(S'list of research laboratories interested in sumo protein'
+p343
+g2
+(g6
+S'\x8d\xbc\xe3fo}\xd7?'
+p344
+tp345
+Rp346
+tp347
+a(S'mit media lab'
+p348
+g2
+(g6
+S'\x19qn\x0c6l\xd7?'
+p349
+tp350
+Rp351
+tp352
+a(S'm. anthony lewis'
+p353
+g2
+(g6
+S'\xddB\xc9+\xc8^\xd7?'
+p354
+tp355
+Rp356
+tp357
+a(S"k.l.e society's kle college of engineering and technology"
+p358
+g2
+(g6
+S'^\xb2\xbc\xe6==\xd7?'
+p359
+tp360
+Rp361
+tp362
+a(S'stretford (ward)'
+p363
+g2
+(g6
+S'\xc7\x155\x13\xa6<\xd7?'
+p364
+tp365
+Rp366
+tp367
+a(S'government polytechnic college satna'
+p368
+g2
+(g6
+S'\xacy4\xad56\xd7?'
+p369
+tp370
+Rp371
+tp372
+a(S'vijay kumar (roboticist)'
+p373
+g2
+(g6
+S'sQ\x9f\x84\xda+\xd7?'
+p374
+tp375
+Rp376
+tp377
+a(S'masakatsu g. fujie'
+p378
+g2
+(g6
+S'\xa1\xf8G#.\x1c\xd7?'
+p379
+tp380
+Rp381
+tp382
+a(S'list of dna nanotechnology research groups'
+p383
+g2
+(g6
+S'`\xc0w\xa3\xbc\x1a\xd7?'
+p384
+tp385
+Rp386
+tp387
+a(S'robot learning'
+p388
+g2
+(g6
+S'Wd\x95Ly\xe7\xd6?'
+p389
+tp390
+Rp391
+tp392
+a(S'bucklow-st. martins'
+p393
+g2
+(g6
+S"\x06b\xfc\xad'\xd9\xd6?"
+p394
+tp395
+Rp396
+tp397
+a(S'francesco mondada'
+p398
+g2
+(g6
+S'w\xd5\xb39\x9e\xb3\xd6?'
+p399
+tp400
+Rp401
+tp402
+a(S'peter corke'
+p403
+g2
+(g6
+S'\xa3\x1d\xe0\xdbz\x96\xd6?'
+p404
+tp405
+Rp406
+tp407
+a(S'mazor robotics'
+p408
+g2
+(g6
+S'\x11r\xce\x04\xd5\x93\xd6?'
+p409
+tp410
+Rp411
+tp412
+a(S'joanneum research'
+p413
+g2
+(g6
+S'\x8f\xca0\x0cJm\xd6?'
+p414
+tp415
+Rp416
+tp417
+a(S'bhargav gajjar'
+p418
+g2
+(g6
+S'-\xce\x15k\xf8V\xd6?'
+p419
+tp420
+Rp421
+tp422
+a(S'evolution robotics'
+p423
+g2
+(g6
+S'\x94\rV\xd6\\F\xd6?'
+p424
+tp425
+Rp426
+tp427
+a(S'best robotics'
+p428
+g2
+(g6
+S'\xc7\x7f\\W\xe3B\xd6?'
+p429
+tp430
+Rp431
+tp432
+a(S'fran\xc3\xa7ois pierrot'
+p433
+g2
+(g6
+S'\xf7L\xb10\xd5B\xd6?'
+p434
+tp435
+Rp436
+tp437
+a(S'sri kalahastheeswara institute of technology'
+p438
+g2
+(g6
+S"\x9d'Rfg>\xd6?"
+p439
+tp440
+Rp441
+tp442
+a(S'robotnik automation'
+p443
+g2
+(g6
+S'\xb9;\x81=\xaa8\xd6?'
+p444
+tp445
+Rp446
+tp447
+a(S'interactive robots and media lab'
+p448
+g2
+(g6
+S'\x96\xf6\x13\x00\x822\xd6?'
+p449
+tp450
+Rp451
+tp452
+a(S'geography of robotics'
+p453
+g2
+(g6
+S'r-\xc0|\x9f%\xd6?'
+p454
+tp455
+Rp456
+tp457
+a(S'nlab'
+p458
+g2
+(g6
+S'\x8e\x10\xb3\x97T\x15\xd6?'
+p459
+tp460
+Rp461
+tp462
+a(S'giani zail singh campus college of engineering & technology'
+p463
+g2
+(g6
+S'\x1ar<\x83f\xf6\xd5?'
+p464
+tp465
+Rp466
+tp467
+a(S'ktb mechatronics'
+p468
+g2
+(g6
+S'4E\x9f\xc6F\xf3\xd5?'
+p469
+tp470
+Rp471
+tp472
+a(S'index of robotics articles'
+p473
+g2
+(g6
+S'h\xbeK\xd4\x8e\xec\xd5?'
+p474
+tp475
+Rp476
+tp477
+a(S"raffaello d'andrea"
+p478
+g2
+(g6
+S'\xab\xa1\x13\xcb\x0b\xc9\xd5?'
+p479
+tp480
+Rp481
+tp482
+a(S'shigeo hirose'
+p483
+g2
+(g6
+S'u\xe3${\x8f\xbf\xd5?'
+p484
+tp485
+Rp486
+tp487
+a(S'neuron robotics'
+p488
+g2
+(g6
+S'R\t4|\x80\xad\xd5?'
+p489
+tp490
+Rp491
+tp492
+a(S'lab records discography'
+p493
+g2
+(g6
+S'}\x84\xce\xd0\x1d\xa8\xd5?'
+p494
+tp495
+Rp496
+tp497
+a(S'ibm zurich research laboratory'
+p498
+g2
+(g6
+S'o\xbc\x0cl\x01\xa8\xd5?'
+p499
+tp500
+Rp501
+tp502
+a(S'maratha mandal engineering college'
+p503
+g2
+(g6
+S'I\xc5{\x1d\xdf\x93\xd5?'
+p504
+tp505
+Rp506
+tp507
+a(S'florida institute for human and machine cognition'
+p508
+g2
+(g6
+S's\x95/\x8f\xf8\x8c\xd5?'
+p509
+tp510
+Rp511
+tp512
+a(S'intelitek'
+p513
+g2
+(g6
+S'iY\x15\xdf\xddr\xd5?'
+p514
+tp515
+Rp516
+tp517
+a(S'kmct college of engineering'
+p518
+g2
+(g6
+S'\xbe\xb7l\x85\xedn\xd5?'
+p519
+tp520
+Rp521
+tp522
+a(S'croydon london borough council election, 2014'
+p523
+g2
+(g6
+S'\xf9M\n\x8e4m\xd5?'
+p524
+tp525
+Rp526
+tp527
+a(S'aio robotics'
+p528
+g2
+(g6
+S'L\xe3\xce\xd7mF\xd5?'
+p529
+tp530
+Rp531
+tp532
+a(S'rodney brooks'
+p533
+g2
+(g6
+S'r+\xe5\x97\xc9E\xd5?'
+p534
+tp535
+Rp536
+tp537
+a(S'adaptable robotics'
+p538
+g2
+(g6
+S'\xb7U\xa9\x10\xef<\xd5?'
+p539
+tp540
+Rp541
+tp542
+a(S'department of computer engineering, chulalongkorn university'
+p543
+g2
+(g6
+S'\x8cZ\xcf\x0f":\xd5?'
+p544
+tp545
+Rp546
+tp547
+a(S'german research centre for artificial intelligence'
+p548
+g2
+(g6
+S'\xce\xd92\xbd\xb87\xd5?'
+p549
+tp550
+Rp551
+tp552
+a(S'gorse hill (ward)'
+p553
+g2
+(g6
+S'\r\xee\x16z\xa07\xd5?'
+p554
+tp555
+Rp556
+tp557
+a(S'roborocks'
+p558
+g2
+(g6
+S'\x9d\xa0\x1fH\xf56\xd5?'
+p559
+tp560
+Rp561
+tp562
+a(S'bmw guggenheim lab'
+p563
+g2
+(g6
+S'\x82\xf1\xbd\x84I4\xd5?'
+p564
+tp565
+Rp566
+tp567
+a(S'international conference on robotics and automation'
+p568
+g2
+(g6
+S'H%\x91\x11\xec.\xd5?'
+p569
+tp570
+Rp571
+tp572
+a(S'dario floreano'
+p573
+g2
+(g6
+S"\x17u'x\xf5\x1d\xd5?"
+p574
+tp575
+Rp576
+tp577
+a(S'reddish south (stockport electoral ward)'
+p578
+g2
+(g6
+S'\xbc\xc2\xa2\x00\xa9\x1b\xd5?'
+p579
+tp580
+Rp581
+tp582
+a(S'susumu tachi'
+p583
+g2
+(g6
+S'U \x82\xd1g\x11\xd5?'
+p584
+tp585
+Rp586
+tp587
+a(S"laboratoire d'informatique, de robotique et de micro\xc3\xa9lectronique de montpellier"
+p588
+g2
+(g6
+S'\xcd\xb7M\x91\xe2\x05\xd5?'
+p589
+tp590
+Rp591
+tp592
+a(S'3d robotics'
+p593
+g2
+(g6
+S'[\xa11\x16Y\x04\xd5?'
+p594
+tp595
+Rp596
+tp597
+a(S'activmedia robotics'
+p598
+g2
+(g6
+S'\xba\x90\x1a\x9e\xed\xfd\xd4?'
+p599
+tp600
+Rp601
+tp602
+a(S'rethink robotics'
+p603
+g2
+(g6
+S'\xb9*ZE\x8b\xce\xd4?'
+p604
+tp605
+Rp606
+tp607
+a(S'hindustan institute of engineering technology'
+p608
+g2
+(g6
+S'X\x8e\xbeAV\xcd\xd4?'
+p609
+tp610
+Rp611
+tp612
+a(S'heatons south (stockport electoral ward)'
+p613
+g2
+(g6
+S'\xa6PM\xf8 \xa5\xd4?'
+p614
+tp615
+Rp616
+tp617
+a(S'longford (ward)'
+p618
+g2
+(g6
+S'\x92\xeaKK\x0e\xa5\xd4?'
+p619
+tp620
+Rp621
+tp622
+a(S'hendrik van brussel'
+p623
+g2
+(g6
+S'\x82\xc3\x85\xb5\xef\xa3\xd4?'
+p624
+tp625
+Rp626
+tp627
+a(S'mark leon'
+p628
+g2
+(g6
+S'\xf6\xddj\xa1D\x98\xd4?'
+p629
+tp630
+Rp631
+tp632
+a(S'mit senseable city lab'
+p633
+g2
+(g6
+S'S\xf21\x13\x14\x93\xd4?'
+p634
+tp635
+Rp636
+tp637
+a(S'list of united kingdom mps by seniority, 2015\xe2\x80\x9320'
+p638
+g2
+(g6
+S'_c\xba[X\x89\xd4?'
+p639
+tp640
+Rp641
+tp642
+a(S'kle institute of technology'
+p643
+g2
+(g6
+S'\x1e\x104\xf0ek\xd4?'
+p644
+tp645
+Rp646
+tp647
+a(S'miomir vukobratovi\xc4\x87'
+p648
+g2
+(g6
+S'O\n\xa0\xddPd\xd4?'
+p649
+tp650
+Rp651
+tp652
+a(S'gulzar group of institutes'
+p653
+g2
+(g6
+S'\xac=\xdf\xd5\x0ba\xd4?'
+p654
+tp655
+Rp656
+tp657
+a(S'andy flessas'
+p658
+g2
+(g6
+S'\x9b\x11$\x1f\xae>\xd4?'
+p659
+tp660
+Rp661
+tp662
+a(S'lab school of baltimore'
+p663
+g2
+(g6
+S'"\xcbYD\xb87\xd4?'
+p664
+tp665
+Rp666
+tp667
+a(S'robot ethics'
+p668
+g2
+(g6
+S'\xd3\xb72W,5\xd4?'
+p669
+tp670
+Rp671
+tp672
+a(S'robojackets'
+p673
+g2
+(g6
+S'[\xce\x1f\x10\x1b3\xd4?'
+p674
+tp675
+Rp676
+tp677
+a(S'centre of behavioural and cognitive sciences'
+p678
+g2
+(g6
+S'\xbe\xf7(\x98\xd1\x17\xd4?'
+p679
+tp680
+Rp681
+tp682
+a(S'ruzena bajcsy'
+p683
+g2
+(g6
+S'\xd6\xaa\xa0\x12\x86\x17\xd4?'
+p684
+tp685
+Rp686
+tp687
+a(S'nust school of mechanical and manufacturing engineering'
+p688
+g2
+(g6
+S'.O\x0e\x90\x1a\x12\xd4?'
+p689
+tp690
+Rp691
+tp692
+a(S'reymond clavel'
+p693
+g2
+(g6
+S'\xa0\xf8\xa1i\t\t\xd4?'
+p694
+tp695
+Rp696
+tp697
+a(S'surface robotics laboratory-cmeri'
+p698
+g2
+(g6
+S'8\x00\xe9\xae\x0f\xf5\xd3?'
+p699
+tp700
+Rp701
+tp702
+a(S'hyndburn borough council election, 1980'
+p703
+g2
+(g6
+S'\xb5\x0c\xfeL\xa8\xdc\xd3?'
+p704
+tp705
+Rp706
+tp707
+a(S"one o'clock lab band"
+p708
+g2
+(g6
+S'\x02]E~\x90\xc8\xd3?'
+p709
+tp710
+Rp711
+tp712
+a(S'katia sycara'
+p713
+g2
+(g6
+S'\xe8\x81\x93\x81/\xc8\xd3?'
+p714
+tp715
+Rp716
+tp717
+a(S'national robotics challenge'
+p718
+g2
+(g6
+S'\xdf8\xbb\x14m\x9d\xd3?'
+p719
+tp720
+Rp721
+tp722
+a(S'lab band'
+p723
+g2
+(g6
+S'\x04u\xfbo\x1f\x98\xd3?'
+p724
+tp725
+Rp726
+tp727
+a(S'intelligent robotics group'
+p728
+g2
+(g6
+S'F\x89t\xfb\x0e\x8c\xd3?'
+p729
+tp730
+Rp731
+tp732
+a(S'istituto italiano di tecnologia'
+p733
+g2
+(g6
+S'\x9f\xd6\x98\xf6\xf5\x8b\xd3?'
+p734
+tp735
+Rp736
+tp737
+a(S'hyndburn borough council election, 1982'
+p738
+g2
+(g6
+S'\xa7\xed\x82\xbc\x14w\xd3?'
+p739
+tp740
+Rp741
+tp742
+a(S'the international journal of robotics research'
+p743
+g2
+(g6
+S'\xcc\x197\xd3\xa2t\xd3?'
+p744
+tp745
+Rp746
+tp747
+a(S'georges giralt phd award'
+p748
+g2
+(g6
+S'\n\xeb#;\x8cr\xd3?'
+p749
+tp750
+Rp751
+tp752
+a(S'rehabilitation robotics'
+p753
+g2
+(g6
+S'!\xa1\xe8\xab\xffq\xd3?'
+p754
+tp755
+Rp756
+tp757
+a(S'robot magazine'
+p758
+g2
+(g6
+S'\xb1+\xfc\xe3\xf6h\xd3?'
+p759
+tp760
+Rp761
+tp762
+a(S'roderic grupen'
+p763
+g2
+(g6
+S'\x90\xc3\x15\x9d\x85]\xd3?'
+p764
+tp765
+Rp766
+tp767
+a(S'fab lab msi'
+p768
+g2
+(g6
+S'\xae$62\x15[\xd3?'
+p769
+tp770
+Rp771
+tp772
+a(S'willow garage'
+p773
+g2
+(g6
+S'\x18i`,NZ\xd3?'
+p774
+tp775
+Rp776
+tp777
+a(S'finsen laboratory'
+p778
+g2
+(g6
+S'\x10\x1cS8\xb0Y\xd3?'
+p779
+tp780
+Rp781
+tp782
+a(S'sale moor (ward)'
+p783
+g2
+(g6
+S';xjD\xdcU\xd3?'
+p784
+tp785
+Rp786
+tp787
+a(S'mobile fab lab'
+p788
+g2
+(g6
+S'\x87\x9b.<\xf8S\xd3?'
+p789
+tp790
+Rp791
+tp792
+a(S'vishwa robotics'
+p793
+g2
+(g6
+S'\x1f4\xcbm\x01Q\xd3?'
+p794
+tp795
+Rp796
+tp797
+a(S'association for unmanned vehicle systems international'
+p798
+g2
+(g6
+S'\x80>\x16\xe5\xf8J\xd3?'
+p799
+tp800
+Rp801
+tp802
+a(S'well living lab'
+p803
+g2
+(g6
+S'/!\x18\xa3\xa2D\xd3?'
+p804
+tp805
+Rp806
+tp807
+a(S'interaction and robotics research center'
+p808
+g2
+(g6
+S'\x9e\x96\x9d\xd7\xbf2\xd3?'
+p809
+tp810
+Rp811
+tp812
+a(S'angadi institute of technology and management'
+p813
+g2
+(g6
+S'\xdd\x8f\xbe\r\xf01\xd3?'
+p814
+tp815
+Rp816
+tp817
+a(S'co-operative institute of technology, vatakara'
+p818
+g2
+(g6
+S'=\xf0\xa0\xea\xbe/\xd3?'
+p819
+tp820
+Rp821
+tp822
+a(S'swedish robotics society'
+p823
+g2
+(g6
+S'\x02<K(\x88*\xd3?'
+p824
+tp825
+Rp826
+tp827
+a(S'gtri aerospace, transportation and advanced systems laboratory'
+p828
+g2
+(g6
+S'\xb4\xca%\x188"\xd3?'
+p829
+tp830
+Rp831
+tp832
+a(S'clifford (ward)'
+p833
+g2
+(g6
+S'+v\xaf\x00b \xd3?'
+p834
+tp835
+Rp836
+tp837
+a(S'open source lab'
+p838
+g2
+(g6
+S'\xec+\xfb\xef&\x1d\xd3?'
+p839
+tp840
+Rp841
+tp842
+a(S'baldev ram mirdha institute of technology'
+p843
+g2
+(g6
+S'\x14\xd6\xd6-\x85\x1c\xd3?'
+p844
+tp845
+Rp846
+tp847
+a(S'joanne pransky'
+p848
+g2
+(g6
+S'\xbbH\xfd\xab.\x17\xd3?'
+p849
+tp850
+Rp851
+tp852
+a(S'bio-inspired robotics'
+p853
+g2
+(g6
+S'G\xaf\xf4\xd7\xc1\r\xd3?'
+p854
+tp855
+Rp856
+tp857
+a(S'starlab'
+p858
+g2
+(g6
+S'\xbfK\xb2\xde\xd0\t\xd3?'
+p859
+tp860
+Rp861
+tp862
+a(S'robotics;notes'
+p863
+g2
+(g6
+S'\xf5\xfa3\xe7e\t\xd3?'
+p864
+tp865
+Rp866
+tp867
+a(S'perceptual robotics'
+p868
+g2
+(g6
+S'\xda\xcb\xd5\xa0S\x05\xd3?'
+p869
+tp870
+Rp871
+tp872
+a(S'rhex'
+p873
+g2
+(g6
+S'\xd2QdIX\x03\xd3?'
+p874
+tp875
+Rp876
+tp877
+a(S'media lab (disambiguation)'
+p878
+g2
+(g6
+S'\xcd\x8c\x11p\x81\xfd\xd2?'
+p879
+tp880
+Rp881
+tp882
+a(S"st. joseph's school, greater noida"
+p883
+g2
+(g6
+S'\xacK{\xc8?\xf2\xd2?'
+p884
+tp885
+Rp886
+tp887
+a(S'matthew t. mason'
+p888
+g2
+(g6
+S'[\x1b\xe1zL\xec\xd2?'
+p889
+tp890
+Rp891
+tp892
+a(S'paul collard'
+p893
+g2
+(g6
+S'}\xf3\xcc\xb2\xfb\xeb\xd2?'
+p894
+tp895
+Rp896
+tp897
+a(S'robot app store'
+p898
+g2
+(g6
+S']V\t\xce\xf8\xe8\xd2?'
+p899
+tp900
+Rp901
+tp902
+a(S'robot software'
+p903
+g2
+(g6
+S'~\xa4\xfc\xb6V\xe8\xd2?'
+p904
+tp905
+Rp906
+tp907
+a(S'london knowledge lab'
+p908
+g2
+(g6
+S'5YX\x9c\xea\xe3\xd2?'
+p909
+tp910
+Rp911
+tp912
+a(S'arts lab'
+p913
+g2
+(g6
+S'\xb5#\x9c\x0c[\xdb\xd2?'
+p914
+tp915
+Rp916
+tp917
+a(S'evolutionary robotics'
+p918
+g2
+(g6
+S'#\xd7\xfc\x0bK\xd7\xd2?'
+p919
+tp920
+Rp921
+tp922
+a(S'kim jong-hwan'
+p923
+g2
+(g6
+S' 9\xd0\x1c(\xce\xd2?'
+p924
+tp925
+Rp926
+tp927
+a(S'dieter fox'
+p928
+g2
+(g6
+S'\xdcp;\xe9\t\xc6\xd2?'
+p929
+tp930
+Rp931
+tp932
+a(S'media lab helsinki'
+p933
+g2
+(g6
+S'\x86\x1b0\xeb\xb0\xc4\xd2?'
+p934
+tp935
+Rp936
+tp937
+a(S'ieee robotics and automation society'
+p938
+g2
+(g6
+S'\xcd\xaa\x0e8Z\xc0\xd2?'
+p939
+tp940
+Rp941
+tp942
+a(S'mobile robotics laboratory at iisc'
+p943
+g2
+(g6
+S'tI(\x1dE\xbb\xd2?'
+p944
+tp945
+Rp946
+tp947
+a(S'networked robotics corporation'
+p948
+g2
+(g6
+S'\xd0Xa\xc8\xa4\xb2\xd2?'
+p949
+tp950
+Rp951
+tp952
+a(S'grandville public schools'
+p953
+g2
+(g6
+S'\x08\xa9\x8e\x88D\xb1\xd2?'
+p954
+tp955
+Rp956
+tp957
+a(S'active robots'
+p958
+g2
+(g6
+S'\xd1\x87\x975k\xad\xd2?'
+p959
+tp960
+Rp961
+tp962
+a(S'laws of robotics'
+p963
+g2
+(g6
+S'\x16\xd3\xa0=N\xaa\xd2?'
+p964
+tp965
+Rp966
+tp967
+a(S'priory (ward)'
+p968
+g2
+(g6
+S'Z\xc3\x83\x94\x93\xa4\xd2?'
+p969
+tp970
+Rp971
+tp972
+a(S'liquid robotics'
+p973
+g2
+(g6
+S'\xcb\x80\xb5\xc9H\xa2\xd2?'
+p974
+tp975
+Rp976
+tp977
+a(S'frank dellaert'
+p978
+g2
+(g6
+S'\xe9\xe2\ri\xc0\x9d\xd2?'
+p979
+tp980
+Rp981
+tp982
+a(S'occra'
+p983
+g2
+(g6
+S'\xc6\xb1\x87\x08\\\x9c\xd2?'
+p984
+tp985
+Rp986
+tp987
+a(S'citizen lab'
+p988
+g2
+(g6
+S'\xb5\xf52\x89\xba\x99\xd2?'
+p989
+tp990
+Rp991
+tp992
+a(S'robotics'
+p993
+g2
+(g6
+S'#C\xa8v\x19\x96\xd2?'
+p994
+tp995
+Rp996
+tp997
+a(S'lab school'
+p998
+g2
+(g6
+S'\x1f\xb6_;`\x92\xd2?'
+p999
+tp1000
+Rp1001
+tp1002
+a(S'kerala state film award for best processing lab'
+p1003
+g2
+(g6
+S'Wy\xa5t\x03\x89\xd2?'
+p1004
+tp1005
+Rp1006
+tp1007
+a(S'alcherio martinoli'
+p1008
+g2
+(g6
+S'_\xfd\xe2\x9a\xfa\x86\xd2?'
+p1009
+tp1010
+Rp1011
+tp1012
+a(S'ravon'
+p1013
+g2
+(g6
+S'\x04V&\xdc|q\xd2?'
+p1014
+tp1015
+Rp1016
+tp1017
+a(S'parshvanath college of engineering'
+p1018
+g2
+(g6
+S'\xa9|\xe8\xb8\xb0n\xd2?'
+p1019
+tp1020
+Rp1021
+tp1022
+a(S'anthrobotics'
+p1023
+g2
+(g6
+S'0\xaf\xf90\xdam\xd2?'
+p1024
+tp1025
+Rp1026
+tp1027
+a(S'player project'
+p1028
+g2
+(g6
+S'\x15n\xd1W\xe2X\xd2?'
+p1029
+tp1030
+Rp1031
+tp1032
+a(S'botball'
+p1033
+g2
+(g6
+S'\x11\xf9T\xeaZP\xd2?'
+p1034
+tp1035
+Rp1036
+tp1037
+a(S'hitec'
+p1038
+g2
+(g6
+S'\xacJ\xd3\xa91P\xd2?'
+p1039
+tp1040
+Rp1041
+tp1042
+a(S'british automation and robot association'
+p1043
+g2
+(g6
+S'~\x81\xbb\xd8\xd9M\xd2?'
+p1044
+tp1045
+Rp1046
+tp1047
+a(S'lab rat (disambiguation)'
+p1048
+g2
+(g6
+S'nK\x842$L\xd2?'
+p1049
+tp1050
+Rp1051
+tp1052
+a(S'manipur institute of technology'
+p1053
+g2
+(g6
+S'}F\x0f$zI\xd2?'
+p1054
+tp1055
+Rp1056
+tp1057
+a(S'harvard innovation lab'
+p1058
+g2
+(g6
+S'd\x81X\xe7}F\xd2?'
+p1059
+tp1060
+Rp1061
+tp1062
+a(S'list of systems sciences organizations'
+p1063
+g2
+(g6
+S'wH\xa8\xa3\xdf?\xd2?'
+p1064
+tp1065
+Rp1066
+tp1067
+a(S'university of houston college of technology'
+p1068
+g2
+(g6
+S'R\x89\xe7E\xda7\xd2?'
+p1069
+tp1070
+Rp1071
+tp1072
+a(S'underwater robotics'
+p1073
+g2
+(g6
+S'\xdd\xa5\xad\xdfR/\xd2?'
+p1074
+tp1075
+Rp1076
+tp1077
+a(S'southern rhodesian general election, 1946'
+p1078
+g2
+(g6
+S'\x1d" \x16P-\xd2?'
+p1079
+tp1080
+Rp1081
+tp1082
+a(S'ronald c. arkin'
+p1083
+g2
+(g6
+S'G\xcf0\xfa\xeb\x1b\xd2?'
+p1084
+tp1085
+Rp1086
+tp1087
+a(S'3b lab'
+p1088
+g2
+(g6
+S'\x7f\xd6c\x07\x7f\x0e\xd2?'
+p1089
+tp1090
+Rp1091
+tp1092
+a(S'bioinformatics, and empirical & theoretical algorithmics lab'
+p1093
+g2
+(g6
+S'v\x93\x10\xf9\xb7\x0c\xd2?'
+p1094
+tp1095
+Rp1096
+tp1097
+a(S'nust school of electrical engineering and computer science'
+p1098
+g2
+(g6
+S'58\xbcjP\x00\xd2?'
+p1099
+tp1100
+Rp1101
+tp1102
+a(S'fraunhofer institute for open communication systems'
+p1103
+g2
+(g6
+S'mC\x8b\xbe4\xfa\xd1?'
+p1104
+tp1105
+Rp1106
+tp1107
+a(S'smk kompleks klia'
+p1108
+g2
+(g6
+S'\xa1\x95\xech\x99\xf5\xd1?'
+p1109
+tp1110
+Rp1111
+tp1112
+a(S'sambassadeur'
+p1113
+g2
+(g6
+S'Sh;\xdb\x1f\xf4\xd1?'
+p1114
+tp1115
+Rp1116
+tp1117
+a(S'chinguacousy secondary school'
+p1118
+g2
+(g6
+S'\xf9*\xd0\x97\xff\xee\xd1?'
+p1119
+tp1120
+Rp1121
+tp1122
+a(S'advanced learning and research institute'
+p1123
+g2
+(g6
+S'\xc7\x01I\xc3\xf1\xe4\xd1?'
+p1124
+tp1125
+Rp1126
+tp1127
+a(S'media lab asia'
+p1128
+g2
+(g6
+S'\x18\x9b\xde\x1c\x05\xe4\xd1?'
+p1129
+tp1130
+Rp1131
+tp1132
+a(S'prakash naidu'
+p1133
+g2
+(g6
+S'\xad\xd7\xa1\xc2:\xe2\xd1?'
+p1134
+tp1135
+Rp1136
+tp1137
+a(S'white box robotics'
+p1138
+g2
+(g6
+S'\xd3\xdf\xeb\x16,\xde\xd1?'
+p1139
+tp1140
+Rp1141
+tp1142
+a(S'wealth lab'
+p1143
+g2
+(g6
+S'\xf2@b\xd8\x99\xdc\xd1?'
+p1144
+tp1145
+Rp1146
+tp1147
+a(S'swarm robotics'
+p1148
+g2
+(g6
+S'\xbf\xaf\xc6\x86\xa2\xcf\xd1?'
+p1149
+tp1150
+Rp1151
+tp1152
+a(S'robotshop'
+p1153
+g2
+(g6
+S'2\xcc\xec\xacM\xca\xd1?'
+p1154
+tp1155
+Rp1156
+tp1157
+a(S'institut de rob\xc3\xb2tica i inform\xc3\xa0tica industrial'
+p1158
+g2
+(g6
+S'Z*\x97\x00\x8f\xbd\xd1?'
+p1159
+tp1160
+Rp1161
+tp1162
+a(S'robonexus'
+p1163
+g2
+(g6
+S'\x1b\x1f\xa1{\xb5\xad\xd1?'
+p1164
+tp1165
+Rp1166
+tp1167
+a(S'robotics certification standards alliance'
+p1168
+g2
+(g6
+S'd\xf31\xdb\x1c\xa9\xd1?'
+p1169
+tp1170
+Rp1171
+tp1172
+a(S'john m. hollerbach'
+p1173
+g2
+(g6
+S'\x02\xdf\xc4x\xdc\xa7\xd1?'
+p1174
+tp1175
+Rp1176
+tp1177
+a(S'lawrence berkeley national laboratory'
+p1178
+g2
+(g6
+S'eP\xf1\xb0\xe8\xa6\xd1?'
+p1179
+tp1180
+Rp1181
+tp1182
+a(S'human\xe2\x80\x93robot interaction'
+p1183
+g2
+(g6
+S'<\xf3?\xb1\xe9\xa4\xd1?'
+p1184
+tp1185
+Rp1186
+tp1187
+a(S'prahlad vadakkepat'
+p1188
+g2
+(g6
+S'b\xcd\xac\x02\xeb\xa0\xd1?'
+p1189
+tp1190
+Rp1191
+tp1192
+a(S'croydon london borough council election, 2010'
+p1193
+g2
+(g6
+S'\rg \x18\x8f\x9a\xd1?'
+p1194
+tp1195
+Rp1196
+tp1197
+a(S'vlsi design lab, vnit'
+p1198
+g2
+(g6
+S'e\xd4\x01\xd4\xb0\x99\xd1?'
+p1199
+tp1200
+Rp1201
+tp1202
+a(S'sunil k. agrawal'
+p1203
+g2
+(g6
+S'r$\x12\x1c-\x98\xd1?'
+p1204
+tp1205
+Rp1206
+tp1207
+a(S'interactive c'
+p1208
+g2
+(g6
+S'\xfc\xc3\xdb\xde\xa3\x95\xd1?'
+p1209
+tp1210
+Rp1211
+tp1212
+a(S'fbi laboratory'
+p1213
+g2
+(g6
+S'G\xd2\x02#W\x8c\xd1?'
+p1214
+tp1215
+Rp1216
+tp1217
+a(S'american robotics'
+p1218
+g2
+(g6
+S'n\x1eC\xe3\x0cu\xd1?'
+p1219
+tp1220
+Rp1221
+tp1222
+a(S'food and brand lab'
+p1223
+g2
+(g6
+S'\xe6[\xd14\xa1t\xd1?'
+p1224
+tp1225
+Rp1226
+tp1227
+a(S'double robotics'
+p1228
+g2
+(g6
+S'\x0b\xc6y\xf7\xc8p\xd1?'
+p1229
+tp1230
+Rp1231
+tp1232
+a(S'yo kobayashi'
+p1233
+g2
+(g6
+S'1s\x1b=\x82n\xd1?'
+p1234
+tp1235
+Rp1236
+tp1237
+a(S'arlington outdoor lab'
+p1238
+g2
+(g6
+S'\xa1\\\xa0Ksn\xd1?'
+p1239
+tp1240
+Rp1241
+tp1242
+a(S'mercury meltdown revolution'
+p1243
+g2
+(g6
+S'\xe68\x16\x84\x01h\xd1?'
+p1244
+tp1245
+Rp1246
+tp1247
+a(S'abhay vidhya mandir senior secondary school, hindaun city'
+p1248
+g2
+(g6
+S'C\x9b^\x80\x88P\xd1?'
+p1249
+tp1250
+Rp1251
+tp1252
+a(S'spacecraft systems and controls lab'
+p1253
+g2
+(g6
+S'\xacp\x89\xc6\xf2L\xd1?'
+p1254
+tp1255
+Rp1256
+tp1257
+a(S'lab school of washington'
+p1258
+g2
+(g6
+S'\x11\x8f\x87\xfd\xcaJ\xd1?'
+p1259
+tp1260
+Rp1261
+tp1262
+a(S'czech institute of informatics, robotics and cybernetics'
+p1263
+g2
+(g6
+S'A\xc5\xb6\xa6\x13B\xd1?'
+p1264
+tp1265
+Rp1266
+tp1267
+a(S'paul j. perrone'
+p1268
+g2
+(g6
+S'\xd0\xd8\x15\x8e\xed,\xd1?'
+p1269
+tp1270
+Rp1271
+tp1272
+a(S'roland institute of technology'
+p1273
+g2
+(g6
+S'\xff\xf6s\x1fm*\xd1?'
+p1274
+tp1275
+Rp1276
+tp1277
+a(S'government engineering college, trivandrum'
+p1278
+g2
+(g6
+S'\x17c\x91\xd0\xe2$\xd1?'
+p1279
+tp1280
+Rp1281
+tp1282
+a(S'darpa robotics challenge'
+p1283
+g2
+(g6
+S'G\x92\x1d\xd4?#\xd1?'
+p1284
+tp1285
+Rp1286
+tp1287
+a(S'autonomous research robot'
+p1288
+g2
+(g6
+S'\x14.\xa7\xbd\x15#\xd1?'
+p1289
+tp1290
+Rp1291
+tp1292
+a(S'dave lavery'
+p1293
+g2
+(g6
+S'\x14\xdf\x0f\x19\xac\x11\xd1?'
+p1294
+tp1295
+Rp1296
+tp1297
+a(S'lab (river)'
+p1298
+g2
+(g6
+S'\xb6\x03b\x0c\xf1\x07\xd1?'
+p1299
+tp1300
+Rp1301
+tp1302
+a(S'ituro'
+p1303
+g2
+(g6
+S"B\x8d'\xe5\xc6\xfe\xd0?"
+p1304
+tp1305
+Rp1306
+tp1307
+a(S'christopher g. atkeson'
+p1308
+g2
+(g6
+S'\x08\xc4r\xd5\xce\xfb\xd0?'
+p1309
+tp1310
+Rp1311
+tp1312
+a(S'st. francis higher secondary school'
+p1313
+g2
+(g6
+S'\xd8\x05\xcf\xe4\xe0\xf7\xd0?'
+p1314
+tp1315
+Rp1316
+tp1317
+a(S'crysys lab'
+p1318
+g2
+(g6
+S'\x1f\xca\x12+\xb2\xf4\xd0?'
+p1319
+tp1320
+Rp1321
+tp1322
+a(S'system of systems'
+p1323
+g2
+(g6
+S'\xf4$g\x93\xf3\xf3\xd0?'
+p1324
+tp1325
+Rp1326
+tp1327
+a(S'jong oh park'
+p1328
+g2
+(g6
+S'\xf7 \x11)\x8e\xf3\xd0?'
+p1329
+tp1330
+Rp1331
+tp1332
+a(S'malout institute of management and information technology'
+p1333
+g2
+(g6
+S'DO\xfc\x83\x1c\xf1\xd0?'
+p1334
+tp1335
+Rp1336
+tp1337
+a(S'birmingham arts lab'
+p1338
+g2
+(g6
+S'\x05t\xd5?\xd8\xec\xd0?'
+p1339
+tp1340
+Rp1341
+tp1342
+a(S'joe brooks (researcher)'
+p1343
+g2
+(g6
+S'\xa9\x8f\xac\x9e\xda\xe9\xd0?'
+p1344
+tp1345
+Rp1346
+tp1347
+a(S'open-source lab (book)'
+p1348
+g2
+(g6
+S']\xfa2\xaa\xc7\xe8\xd0?'
+p1349
+tp1350
+Rp1351
+tp1352
+a(S'allenhouse institute of technology'
+p1353
+g2
+(g6
+S's\xfe;\xce\xbd\xe2\xd0?'
+p1354
+tp1355
+Rp1356
+tp1357
+a(S'hirasugar institute of technology'
+p1358
+g2
+(g6
+S'3\xf4\xcb\xa1\xcc\xe1\xd0?'
+p1359
+tp1360
+Rp1361
+tp1362
+a(S'autonomous robot'
+p1363
+g2
+(g6
+S'&S\xa8\x12\xf7\xd9\xd0?'
+p1364
+tp1365
+Rp1366
+tp1367
+a(S'port credit secondary school'
+p1368
+g2
+(g6
+S'l\x0f\xa0K\x81\xd7\xd0?'
+p1369
+tp1370
+Rp1371
+tp1372
+a(S'the lab (organization)'
+p1373
+g2
+(g6
+S'^c|\x8a\xad\xd4\xd0?'
+p1374
+tp1375
+Rp1376
+tp1377
+a(S'max planck institute for intelligent systems'
+p1378
+g2
+(g6
+S'\x9e\xbc?\xc10\xd3\xd0?'
+p1379
+tp1380
+Rp1381
+tp1382
+a(S'illinois security lab'
+p1383
+g2
+(g6
+S'\x98\x92-\xbbe\xd2\xd0?'
+p1384
+tp1385
+Rp1386
+tp1387
+a(S'physics of life reviews'
+p1388
+g2
+(g6
+S'\x0c\x83J:\xe1\xce\xd0?'
+p1389
+tp1390
+Rp1391
+tp1392
+a(S'computer lab'
+p1393
+g2
+(g6
+S'h{\xf0_\xc2\xc9\xd0?'
+p1394
+tp1395
+Rp1396
+tp1397
+a(S'mihajlo pupin institute'
+p1398
+g2
+(g6
+S'XQg\xd8S\xc5\xd0?'
+p1399
+tp1400
+Rp1401
+tp1402
+a(S'livingston robotics club'
+p1403
+g2
+(g6
+S'\xf30\x15\xf1\x1e\xc4\xd0?'
+p1404
+tp1405
+Rp1406
+tp1407
+a(S'collegiate aerial robotics demonstration'
+p1408
+g2
+(g6
+S'\xcbj!\xb2m\xba\xd0?'
+p1409
+tp1410
+Rp1411
+tp1412
+a(S'australian centre for field robotics'
+p1413
+g2
+(g6
+S'?o\xd5\x84\xeb\xb6\xd0?'
+p1414
+tp1415
+Rp1416
+tp1417
+a(S'new york city lab school for collaborative studies'
+p1418
+g2
+(g6
+S'\x8fP\x95\xca*\xaf\xd0?'
+p1419
+tp1420
+Rp1421
+tp1422
+a(S'laboratory robotics'
+p1423
+g2
+(g6
+S'\xf9\x7f\xf8\xb3D\xae\xd0?'
+p1424
+tp1425
+Rp1426
+tp1427
+a(S'student robotics'
+p1428
+g2
+(g6
+S'($\n\xab\x81\xa5\xd0?'
+p1429
+tp1430
+Rp1431
+tp1432
+a(S'systems science'
+p1433
+g2
+(g6
+S'kd\xaa\xe9D\xa5\xd0?'
+p1434
+tp1435
+Rp1436
+tp1437
+a(S'laboratory for analysis and architecture of systems'
+p1438
+g2
+(g6
+S'0\xc4L\xb0C\xa5\xd0?'
+p1439
+tp1440
+Rp1441
+tp1442
+a(S'media lab europe'
+p1443
+g2
+(g6
+S'\x9a\xa6\xdd\x15\xb5\x9e\xd0?'
+p1444
+tp1445
+Rp1446
+tp1447
+a(S'hkust robotics team'
+p1448
+g2
+(g6
+S'\xbey*A\xf3\x9d\xd0?'
+p1449
+tp1450
+Rp1451
+tp1452
+a(S'university of maryland human\xe2\x80\x93computer interaction lab'
+p1453
+g2
+(g6
+S'W\xab\xd6fM\x9d\xd0?'
+p1454
+tp1455
+Rp1456
+tp1457
+a(S'cornell lab of ornithology'
+p1458
+g2
+(g6
+S'B\xac\xb8\xd4L\x98\xd0?'
+p1459
+tp1460
+Rp1461
+tp1462
+a(S'the lab (novel)'
+p1463
+g2
+(g6
+S'4|\x0b|\x82\x97\xd0?'
+p1464
+tp1465
+Rp1466
+tp1467
+a(S'st\xc3\xa4ubli'
+p1468
+g2
+(g6
+S'\x01\x98#{\t\x97\xd0?'
+p1469
+tp1470
+Rp1471
+tp1472
+a(S'fembot (disambiguation)'
+p1473
+g2
+(g6
+S'\x95\xf2m\xcfA\x8e\xd0?'
+p1474
+tp1475
+Rp1476
+tp1477
+a(S'culture lab'
+p1478
+g2
+(g6
+S'\x0cdoVG}\xd0?'
+p1479
+tp1480
+Rp1481
+tp1482
+a(S'urban culture lab'
+p1483
+g2
+(g6
+S'\xd9\xa6\xd2y\x9e|\xd0?'
+p1484
+tp1485
+Rp1486
+tp1487
+a(S'ewald heer'
+p1488
+g2
+(g6
+S']\x18\xbf\x12`z\xd0?'
+p1489
+tp1490
+Rp1491
+tp1492
+a(S'bundelkhand institute of engineering & technology'
+p1493
+g2
+(g6
+S'mQQL]z\xd0?'
+p1494
+tp1495
+Rp1496
+tp1497
+a(S'tripura institute of technology'
+p1498
+g2
+(g6
+S'\x9a7J(\xc6m\xd0?'
+p1499
+tp1500
+Rp1501
+tp1502
+a(S'lab-e darya-ye lasku kalayeh'
+p1503
+g2
+(g6
+S'\xc5\x0btE\xa8k\xd0?'
+p1504
+tp1505
+Rp1506
+tp1507
+a(S"isaac asimov's caliban"
+p1508
+g2
+(g6
+S'\x17\xb1\xf7\xac\x04d\xd0?'
+p1509
+tp1510
+Rp1511
+tp1512
+a.

@@ -1,0 +1,2728 @@
+(lp0
+(S'new york university'
+p1
+cnumpy.core.multiarray
+scalar
+p2
+(cnumpy
+dtype
+p3
+(S'f8'
+p4
+I0
+I1
+tp5
+Rp6
+(I3
+S'<'
+p7
+NNNI-1
+I-1
+I0
+tp8
+bS'\xfe\xff\xff\xff\xff\xff\xef?'
+p9
+tp10
+Rp11
+tp12
+a(S'campus of new york university'
+p13
+g2
+(g6
+S'\xd7\x15\x1b\xc3\xc6\xf7\xec?'
+p14
+tp15
+Rp16
+tp17
+a(S'history of new york university'
+p18
+g2
+(g6
+S'#O\xb5\xc1H\xa5\xeb?'
+p19
+tp20
+Rp21
+tp22
+a(S'nyu local'
+p23
+g2
+(g6
+S'~\xbd\xb4I%\xb0\xea?'
+p24
+tp25
+Rp26
+tp27
+a(S'nyu violets football'
+p28
+g2
+(g6
+S'\xb8\xd1=\x87yI\xe9?'
+p29
+tp30
+Rp31
+tp32
+a(S'nyu violets'
+p33
+g2
+(g6
+S'\r_\x89U\xbc>\xe9?'
+p34
+tp35
+Rp36
+tp37
+a(S'new york university shanghai'
+p38
+g2
+(g6
+S'E\xfbE\xfb\xad\xe5\xe8?'
+p39
+tp40
+Rp41
+tp42
+a(S'nyu london'
+p43
+g2
+(g6
+S'\xeb\xce\xbb\xb2\x10\x9e\xe8?'
+p44
+tp45
+Rp46
+tp47
+a(S'john sexton'
+p48
+g2
+(g6
+S'\t\xa6S:\x7f\x0c\xe8?'
+p49
+tp50
+Rp51
+tp52
+a(S'new york university school of medicine'
+p53
+g2
+(g6
+S"\x83'\xc04\xe9\xfc\xe7?"
+p54
+tp55
+Rp56
+tp57
+a(S'nyu paris'
+p58
+g2
+(g6
+S'e\x8c(\xcd\x8a\xad\xe7?'
+p59
+tp60
+Rp61
+tp62
+a(S'thomas t. reilley'
+p63
+g2
+(g6
+S'\xa9\xc2\xfd\xa4\xb5A\xe6?'
+p64
+tp65
+Rp66
+tp67
+a(S'new york university in popular culture'
+p68
+g2
+(g6
+S'\x01\xbb\x8c\rF;\xe6?'
+p69
+tp70
+Rp71
+tp72
+a(S'bobst boy'
+p73
+g2
+(g6
+S'\xdeuMS\xb9!\xe6?'
+p74
+tp75
+Rp76
+tp77
+a(S"deans' cup"
+p78
+g2
+(g6
+S',vK\x9d\xedk\xe5?'
+p79
+tp80
+Rp81
+tp82
+a(S'nyu langone medical center'
+p83
+g2
+(g6
+S'\x8a\xd2S\x8ey/\xe5?'
+p84
+tp85
+Rp86
+tp87
+a(S"nyu violets men's basketball"
+p88
+g2
+(g6
+S'\xe61G\x89\x0f\x06\xe5?'
+p89
+tp90
+Rp91
+tp92
+a(S'nyu wireless'
+p93
+g2
+(g6
+S'\xbc\xfa 9Ab\xe4?'
+p94
+tp95
+Rp96
+tp97
+a(S'cyrus patell'
+p98
+g2
+(g6
+S'\xcc\x00\xcc7\xe0\xf7\xe3?'
+p99
+tp100
+Rp101
+tp102
+a(S'new york university archives'
+p103
+g2
+(g6
+S'\xab\x1f\xdb\x88\x9c\xe0\xe3?'
+p104
+tp105
+Rp106
+tp107
+a(S'nyu florence'
+p108
+g2
+(g6
+S'u\xbb\xd9\xfa\xd8U\xe3?'
+p109
+tp110
+Rp111
+tp112
+a(S'w. h. rorke'
+p113
+g2
+(g6
+S'\x16\n\xd5\x89\x81P\xe3?'
+p114
+tp115
+Rp116
+tp117
+a(S'nyu tandon online'
+p118
+g2
+(g6
+S'\xad\xad3\xe9\xdaL\xe2?'
+p119
+tp120
+Rp121
+tp122
+a(S'new york university graduate school of arts and science'
+p123
+g2
+(g6
+S'\xd3o$\xf7\xb9#\xe2?'
+p124
+tp125
+Rp126
+tp127
+a(S'yusuf yazici (doctor)'
+p128
+g2
+(g6
+S'^\xf5\x97p(\xdf\xe1?'
+p129
+tp130
+Rp131
+tp132
+a(S'new york university abu dhabi'
+p133
+g2
+(g6
+S'{\x88\xaf\xba\xbf\xbc\xe1?'
+p134
+tp135
+Rp136
+tp137
+a(S'kristen sosulski'
+p138
+g2
+(g6
+S'\x1f^q\x86?\xb8\xe1?'
+p139
+tp140
+Rp141
+tp142
+a(S'robert f. wagner graduate school of public service'
+p143
+g2
+(g6
+S'\x96Xkc!\x84\xe1?'
+p144
+tp145
+Rp146
+tp147
+a(S'university village (manhattan)'
+p148
+g2
+(g6
+S'\xe7\x01N\xbaMl\xe1?'
+p149
+tp150
+Rp151
+tp152
+a(S'new york university press'
+p153
+g2
+(g6
+S'P\x12YH=^\xe1?'
+p154
+tp155
+Rp156
+tp157
+a(S'elmer ellsworth brown'
+p158
+g2
+(g6
+S'\x85\x97e\xe4\x134\xe1?'
+p159
+tp160
+Rp161
+tp162
+a(S'monroe d. donsker'
+p163
+g2
+(g6
+S'\xf5zV\xb3\x07 \xe1?'
+p164
+tp165
+Rp166
+tp167
+a(S'john j. weinheimer'
+p168
+g2
+(g6
+S';|\xa4\x12_\x19\xe1?'
+p169
+tp170
+Rp171
+tp172
+a(S'mount ny\xc5\xab'
+p173
+g2
+(g6
+S'\x94\t?c@\x17\xe1?'
+p174
+tp175
+Rp176
+tp177
+a(S'yehuda sarna'
+p178
+g2
+(g6
+S';-tY\xe6\x82\xe0?'
+p179
+tp180
+Rp181
+tp182
+a(S'ken perlin'
+p183
+g2
+(g6
+S'\\\xf9H\xadpR\xe0?'
+p184
+tp185
+Rp186
+tp187
+a(S'nyu liberal studies'
+p188
+g2
+(g6
+S',\x8c\xe8p\x80\x16\xe0?'
+p189
+tp190
+Rp191
+tp192
+a(S'red dragon society'
+p193
+g2
+(g6
+S'\x1c?\xe1>\xc9\x00\xe0?'
+p194
+tp195
+Rp196
+tp197
+a(S'harry bober'
+p198
+g2
+(g6
+S'\xb3\xa4\xe4\x05i\xcf\xdf?'
+p199
+tp200
+Rp201
+tp202
+a(S'new york university school of law'
+p203
+g2
+(g6
+S'\xa6\xb4\x16\xcf\xf45\xdf?'
+p204
+tp205
+Rp206
+tp207
+a(S'steinhardt school of culture, education, and human development'
+p208
+g2
+(g6
+S'/\xbf\xaa\xa8\xfcQ\xde?'
+p209
+tp210
+Rp211
+tp212
+a(S'nyu catherine b. reynolds program for social entrepreneurship'
+p213
+g2
+(g6
+S'\xa5\xeb\x10\xc1\xf8\xf1\xdd?'
+p214
+tp215
+Rp216
+tp217
+a(S'jerry macarthur hultin'
+p218
+g2
+(g6
+S'3\xe6\x11\xfb\xb7\xde\xdd?'
+p219
+tp220
+Rp221
+tp222
+a(S'hotlist'
+p223
+g2
+(g6
+S'\xb5\x84\\\xc1\xbb\xc9\xdd?'
+p224
+tp225
+Rp226
+tp227
+a(S'new york university school of social work'
+p228
+g2
+(g6
+S'0\xaa\xd2THt\xdd?'
+p229
+tp230
+Rp231
+tp232
+a(S'graduate student organizing committee'
+p233
+g2
+(g6
+S'\x13\xc3W\x17\x1fi\xdd?'
+p234
+tp235
+Rp236
+tp237
+a(S'jake high'
+p238
+g2
+(g6
+S'\x9f.I\xdax^\xdc?'
+p239
+tp240
+Rp241
+tp242
+a(S'alexander ljungqvist'
+p243
+g2
+(g6
+S'\xd2?:\x05u[\xdc?'
+p244
+tp245
+Rp246
+tp247
+a(S'paul horn (computer scientist)'
+p248
+g2
+(g6
+S'\xf64\xbaV\xa1\xd4\xdb?'
+p249
+tp250
+Rp251
+tp252
+a(S'new york university residence halls'
+p253
+g2
+(g6
+S'}r{7S\xbe\xdb?'
+p254
+tp255
+Rp256
+tp257
+a(S'robert fowkes'
+p258
+g2
+(g6
+S'\xd4\x8b\x8f=\x84\xb8\xdb?'
+p259
+tp260
+Rp261
+tp262
+a(S'john colagioia'
+p263
+g2
+(g6
+S'\x993\x02\x19\x07\xb1\xdb?'
+p264
+tp265
+Rp266
+tp267
+a(S'john henry maccracken'
+p268
+g2
+(g6
+S'\x8c(\xf8\xf2\x19\x94\xdb?'
+p269
+tp270
+Rp271
+tp272
+a(S'secuestro'
+p273
+g2
+(g6
+S'\xac\x04\xb6\xe3\x06\x87\xdb?'
+p274
+tp275
+Rp276
+tp277
+a(S'florencia marotta-wurgler'
+p278
+g2
+(g6
+S'\xcdQt\xbf\x9fS\xdb?'
+p279
+tp280
+Rp281
+tp282
+a(S'friedrich ulfers'
+p283
+g2
+(g6
+S'#\xf7\xf6\x9a\x8c$\xdb?'
+p284
+tp285
+Rp286
+tp287
+a(S'howard cann'
+p288
+g2
+(g6
+S'C\x8ay\x95;\xcf\xda?'
+p289
+tp290
+Rp291
+tp292
+a(S'silver center'
+p293
+g2
+(g6
+S')\xa5m\xe8\xb1\xa4\xda?'
+p294
+tp295
+Rp296
+tp297
+a(S'1964 national invitation tournament'
+p298
+g2
+(g6
+S'<#\x1dY~[\xda?'
+p299
+tp300
+Rp301
+tp302
+a(S'ingo walter'
+p303
+g2
+(g6
+S'\rj\xf5\x1a\x059\xda?'
+p304
+tp305
+Rp306
+tp307
+a(S'1959 national invitation tournament'
+p308
+g2
+(g6
+S'\x82\x7fR\x15\xc4\x19\xda?'
+p309
+tp310
+Rp311
+tp312
+a(S'1938 national invitation tournament'
+p313
+g2
+(g6
+S'\xcbT\xad\xe8\x0f\xe1\xd9?'
+p314
+tp315
+Rp316
+tp317
+a(S'daniel walkowitz'
+p318
+g2
+(g6
+S'Iva\x8f\xcf\xa1\xd9?'
+p319
+tp320
+Rp321
+tp322
+a(S'burt goldberg'
+p323
+g2
+(g6
+S'\x86}\xb4\xaesj\xd9?'
+p324
+tp325
+Rp326
+tp327
+a(S'tuition reform action coalition'
+p328
+g2
+(g6
+S'E\x1d\xe7 \xb3\xfe\xd8?'
+p329
+tp330
+Rp331
+tp332
+a(S'rudolph delson'
+p333
+g2
+(g6
+S'\x9dc\xb1\x90]\x8d\xd8?'
+p334
+tp335
+Rp336
+tp337
+a(S'sylvia serfaty'
+p338
+g2
+(g6
+S'\xda\xde\x0e\x00\x1cg\xd8?'
+p339
+tp340
+Rp341
+tp342
+a(S'list of new york university faculty'
+p343
+g2
+(g6
+S'\xa5\xcb\x19:\xca(\xd8?'
+p344
+tp345
+Rp346
+tp347
+a(S'sunrise semester'
+p348
+g2
+(g6
+S'p\xea[\xb6\xc7\x0f\xd8?'
+p349
+tp350
+Rp351
+tp352
+a(S'stella chess'
+p353
+g2
+(g6
+S'\n<B\nI\xe4\xd7?'
+p354
+tp355
+Rp356
+tp357
+a(S'mal stevens'
+p358
+g2
+(g6
+S"\x11\x17'\xeb\xc0\xc5\xd7?"
+p359
+tp360
+Rp361
+tp362
+a(S'new york university rory meyers college of nursing'
+p363
+g2
+(g6
+S'F\x8d\xe9+~\x91\xd7?'
+p364
+tp365
+Rp366
+tp367
+a(S'three seconds rule'
+p368
+g2
+(g6
+S'W\x14pJ\xaf\x8e\xd7?'
+p369
+tp370
+Rp371
+tp372
+a(S'samuel williamson (scientist)'
+p373
+g2
+(g6
+S'\x9e\x8b\xe2\x07\xb3\x8a\xd7?'
+p374
+tp375
+Rp376
+tp377
+a(S'joseph mydell'
+p378
+g2
+(g6
+S'\x91\x98\x83/<\x82\xd7?'
+p379
+tp380
+Rp381
+tp382
+a(S'norman redlich'
+p383
+g2
+(g6
+S'9\x8a\n\x85\xccy\xd7?'
+p384
+tp385
+Rp386
+tp387
+a(S"1945 ncaa men's division i basketball tournament"
+p388
+g2
+(g6
+S'+\xb0\x18\xfc\x18a\xd7?'
+p389
+tp390
+Rp391
+tp392
+a(S'nyu media'
+p393
+g2
+(g6
+S'\xd82\x93Q\xc9S\xd7?'
+p394
+tp395
+Rp396
+tp397
+a(S'andrew ross (sociologist)'
+p398
+g2
+(g6
+S'\xc5\xd0Z\x9e\x17F\xd7?'
+p399
+tp400
+Rp401
+tp402
+a(S'david darts'
+p403
+g2
+(g6
+S'S{\xcb\xd9\x1e\x1c\xd7?'
+p404
+tp405
+Rp406
+tp407
+a(S"1934\xe2\x80\x9335 nyu violets men's basketball team"
+p408
+g2
+(g6
+S'\xae\xa3\x11n\x90\x14\xd7?'
+p409
+tp410
+Rp411
+tp412
+a(S'james ogilvie (coach)'
+p413
+g2
+(g6
+S'\x12\x1e?\xb5\x17\xfa\xd6?'
+p414
+tp415
+Rp416
+tp417
+a(S'washington square village'
+p418
+g2
+(g6
+S'"{\xca37\xf7\xd6?'
+p419
+tp420
+Rp421
+tp422
+a(S'eitan zemel'
+p423
+g2
+(g6
+S'\xd70!\x89\xca\xf4\xd6?'
+p424
+tp425
+Rp426
+tp427
+a(S'marjorie heins'
+p428
+g2
+(g6
+S'\x06\x7f\x8d\n\x9f\xda\xd6?'
+p429
+tp430
+Rp431
+tp432
+a(S'frank h. cann'
+p433
+g2
+(g6
+S'\x1fm{UK\xd3\xd6?'
+p434
+tp435
+Rp436
+tp437
+a(S'new york university tandon school of engineering'
+p438
+g2
+(g6
+S':\xf5.\xc7\x9e\xb0\xd6?'
+p439
+tp440
+Rp441
+tp442
+a(S'robert p. wilson'
+p443
+g2
+(g6
+S'eX\xdd\xbb\xac\xa6\xd6?'
+p444
+tp445
+Rp446
+tp447
+a(S'transcendental students'
+p448
+g2
+(g6
+S'\xd4\xca\xccV\xbe\x95\xd6?'
+p449
+tp450
+Rp451
+tp452
+a(S'l. jay oliva'
+p453
+g2
+(g6
+S'\xb4\xa4\xd4\x94\xf9\x85\xd6?'
+p454
+tp455
+Rp456
+tp457
+a(S'tisch school of the arts'
+p458
+g2
+(g6
+S'x\xabT\x1b\x07n\xd6?'
+p459
+tp460
+Rp461
+tp462
+a(S'michael purugganan'
+p463
+g2
+(g6
+S'\xf0\x93\xf24\x9dC\xd6?'
+p464
+tp465
+Rp466
+tp467
+a(S"1944\xe2\x80\x9345 nyu violets men's basketball team"
+p468
+g2
+(g6
+S'\xf2N\xdf\xe7\x172\xd6?'
+p469
+tp470
+Rp471
+tp472
+a(S'michael horodniceanu'
+p473
+g2
+(g6
+S'\xc4X%\x1d\xf9\x14\xd6?'
+p474
+tp475
+Rp476
+tp477
+a(S"new york women's bar association"
+p478
+g2
+(g6
+S'\x96\xc4\x97\x89\xf2\xe7\xd5?'
+p479
+tp480
+Rp481
+tp482
+a(S'paul chaikin'
+p483
+g2
+(g6
+S' 9\xf3x\xa5\xb0\xd5?'
+p484
+tp485
+Rp486
+tp487
+a(S'tamar schlick'
+p488
+g2
+(g6
+S'U\xd4>\xcc\x8e\xaf\xd5?'
+p489
+tp490
+Rp491
+tp492
+a(S'john cavallaro'
+p493
+g2
+(g6
+S'\xe7\x83E\xa4\xf2\x9f\xd5?'
+p494
+tp495
+Rp496
+tp497
+a(S'monica dogra'
+p498
+g2
+(g6
+S'\x7f\x95\x17\xaag\x8f\xd5?'
+p499
+tp500
+Rp501
+tp502
+a(S'anindya ghose'
+p503
+g2
+(g6
+S'\x8b\xae1\xd0\n\x87\xd5?'
+p504
+tp505
+Rp506
+tp507
+a(S'ernest kurnow'
+p508
+g2
+(g6
+S'`\xfe\x14\r\xa0q\xd5?'
+p509
+tp510
+Rp511
+tp512
+a(S'myles jackson'
+p513
+g2
+(g6
+S'\xc2\xcc\x81\xd1\xf3g\xd5?'
+p514
+tp515
+Rp516
+tp517
+a(S'harley viera-newton'
+p518
+g2
+(g6
+S'"\x0e\xb6f\xf4 \xd5?'
+p519
+tp520
+Rp521
+tp522
+a(S'new york university library'
+p523
+g2
+(g6
+S'\x1c\x92\x0f!\xbf\n\xd5?'
+p524
+tp525
+Rp526
+tp527
+a(S'george c. papanicolaou'
+p528
+g2
+(g6
+S'\xcf\xe9\x125\x90\xe6\xd4?'
+p529
+tp530
+Rp531
+tp532
+a(S'ken froewiss'
+p533
+g2
+(g6
+S'\xbeM!^t\xc4\xd4?'
+p534
+tp535
+Rp536
+tp537
+a(S'byron dyce'
+p538
+g2
+(g6
+S'A\xa7\x02\x96\xad\xa5\xd4?'
+p539
+tp540
+Rp541
+tp542
+a(S'marcella runell hall'
+p543
+g2
+(g6
+S'\xbf.\xfdD@w\xd4?'
+p544
+tp545
+Rp546
+tp547
+a(S'william t. schwendler'
+p548
+g2
+(g6
+S'\x1e\x00hA\x89T\xd4?'
+p549
+tp550
+Rp551
+tp552
+a(S'new york university school of professional studies'
+p553
+g2
+(g6
+S'\xe4\xc3\xd1\x99;D\xd4?'
+p554
+tp555
+Rp556
+tp557
+a(S'daniel roses'
+p558
+g2
+(g6
+S'\x86\xeb\x86\xb6\xf9)\xd4?'
+p559
+tp560
+Rp561
+tp562
+a(S'anthony saunders'
+p563
+g2
+(g6
+S'\xb4Ux\xe4\xff%\xd4?'
+p564
+tp565
+Rp566
+tp567
+a(S'jean-herbert austin'
+p568
+g2
+(g6
+S'3\xda:\x1b\x15\xf8\xd3?'
+p569
+tp570
+Rp571
+tp572
+a(S'barouh berkovits'
+p573
+g2
+(g6
+S'\xbcu0\xdb\xb5\xee\xd3?'
+p574
+tp575
+Rp576
+tp577
+a(S'martin lipton'
+p578
+g2
+(g6
+S'\xbc\xe9\xc1\xc1\xa5\xe3\xd3?'
+p579
+tp580
+Rp581
+tp582
+a(S'nyu veterans writing workshop'
+p583
+g2
+(g6
+S'\xe5W\x0e|k\xdc\xd3?'
+p584
+tp585
+Rp586
+tp587
+a(S'j. anthony movshon'
+p588
+g2
+(g6
+S'\xe1dh\x102\xdc\xd3?'
+p589
+tp590
+Rp591
+tp592
+a(S'christopher murrah'
+p593
+g2
+(g6
+S'T\xa1\r\xb0\x94\xce\xd3?'
+p594
+tp595
+Rp596
+tp597
+a(S'gerald horne'
+p598
+g2
+(g6
+S'\x9e \xf4\x93\x99\xbc\xd3?'
+p599
+tp600
+Rp601
+tp602
+a(S'e. roy john'
+p603
+g2
+(g6
+S'\x1a\xde_\x9dk\xbb\xd3?'
+p604
+tp605
+Rp606
+tp607
+a(S'richard revesz'
+p608
+g2
+(g6
+S'\x883\\\xfb\x88\xb4\xd3?'
+p609
+tp610
+Rp611
+tp612
+a(S'ncaa fencing championships'
+p613
+g2
+(g6
+S'\x99\xd3\x9d\xc2\x0c\x9e\xd3?'
+p614
+tp615
+Rp616
+tp617
+a(S'gerald rosenfeld'
+p618
+g2
+(g6
+S'\x83\xa7\xc3\x8e\x06\x94\xd3?'
+p619
+tp620
+Rp621
+tp622
+a(S'nyu annual survey of american law'
+p623
+g2
+(g6
+S'\xe0\xea\xfe\xb1\xeeh\xd3?'
+p624
+tp625
+Rp626
+tp627
+a(S'kenneth langone'
+p628
+g2
+(g6
+S'K\xa0)b0c\xd3?'
+p629
+tp630
+Rp631
+tp632
+a(S'gilbert eisner'
+p633
+g2
+(g6
+S'\x8eb\xe1\xf8\xed7\xd3?'
+p634
+tp635
+Rp636
+tp637
+a(S'courant institute of mathematical sciences'
+p638
+g2
+(g6
+S'\xf3y\xf1I\x1f3\xd3?'
+p639
+tp640
+Rp641
+tp642
+a(S'dina shihabi'
+p643
+g2
+(g6
+S'\x95\xa8\x81\xc0(\x1a\xd3?'
+p644
+tp645
+Rp646
+tp647
+a(S'martin schechter (mathematician)'
+p648
+g2
+(g6
+S'lg\xefA\xd0\xf1\xd2?'
+p649
+tp650
+Rp651
+tp652
+a(S'salk school of science'
+p653
+g2
+(g6
+S'n\xdf\ts\xb1\xea\xd2?'
+p654
+tp655
+Rp656
+tp657
+a(S'thomas f. cooley'
+p658
+g2
+(g6
+S'\xf5\xbdC\xf8_\xe6\xd2?'
+p659
+tp660
+Rp661
+tp662
+a(S'pigeon (film)'
+p663
+g2
+(g6
+S'\x88Y!\x86r\xe2\xd2?'
+p664
+tp665
+Rp666
+tp667
+a(S'ian riccaboni'
+p668
+g2
+(g6
+S'a\xf9\xd0\xe0B\xda\xd2?'
+p669
+tp670
+Rp671
+tp672
+a(S'john tintori'
+p673
+g2
+(g6
+S'\xa0\xe9\x03<\xa9\xd9\xd2?'
+p674
+tp675
+Rp676
+tp677
+a(S'sonia marciano'
+p678
+g2
+(g6
+S'\xca\xb1\x8b\xb6K\xc7\xd2?'
+p679
+tp680
+Rp681
+tp682
+a(S'aaron pugliese'
+p683
+g2
+(g6
+S';\x11\xd1\x1a\xfc\xc6\xd2?'
+p684
+tp685
+Rp686
+tp687
+a(S'playwrights horizons theater school'
+p688
+g2
+(g6
+S'\xaa\x0ey?_\xc6\xd2?'
+p689
+tp690
+Rp691
+tp692
+a(S'samuel issacharoff'
+p693
+g2
+(g6
+S'?e\xa8\xeen\xac\xd2?'
+p694
+tp695
+Rp696
+tp697
+a(S'julia jones-pugliese'
+p698
+g2
+(g6
+S'kv\xc7U5\x9f\xd2?'
+p699
+tp700
+Rp701
+tp702
+a(S'dennis p. tarnow'
+p703
+g2
+(g6
+S'\x1dd7\x89d\x94\xd2?'
+p704
+tp705
+Rp706
+tp707
+a(S'robert dow (fencer)'
+p708
+g2
+(g6
+S'v/\xed(\x0e>\xd2?'
+p709
+tp710
+Rp711
+tp712
+a(S'lisa jean moore'
+p713
+g2
+(g6
+S'\xbat\xa2\x96\x813\xd2?'
+p714
+tp715
+Rp716
+tp717
+a(S'laboratory for experimental medicine and surgery in primates'
+p718
+g2
+(g6
+S'+M\xf0\xd6\r\t\xd2?'
+p719
+tp720
+Rp721
+tp722
+a(S'frank leon roberts'
+p723
+g2
+(g6
+S'B+\x84\xcb\xb3\x06\xd2?'
+p724
+tp725
+Rp726
+tp727
+a(S'despina papadopoulos'
+p728
+g2
+(g6
+S'\xfa\x81\x94\xca\xf9\x00\xd2?'
+p729
+tp730
+Rp731
+tp732
+a(S'dale jamieson'
+p733
+g2
+(g6
+S'S\xc9)\x1d%\xf6\xd1?'
+p734
+tp735
+Rp736
+tp737
+a(S'joel s. schuman'
+p738
+g2
+(g6
+S'\xab\xf3\x89\x85\x06\xf2\xd1?'
+p739
+tp740
+Rp741
+tp742
+a(S'chick meehan'
+p743
+g2
+(g6
+S'O\xfd\xc9\xc3\xff\xf0\xd1?'
+p744
+tp745
+Rp746
+tp747
+a(S'david yermack'
+p748
+g2
+(g6
+S'\xd4\xeb\xb0\x029\xee\xd1?'
+p749
+tp750
+Rp751
+tp752
+a(S'sylvia a. law'
+p753
+g2
+(g6
+S'$*\x8c\xb7\x88\x8a\xd1?'
+p754
+tp755
+Rp756
+tp757
+a(S'leslie macmitchell'
+p758
+g2
+(g6
+S'\xa8\xcfI+\x8e\x81\xd1?'
+p759
+tp760
+Rp761
+tp762
+a(S'nancy balbirer'
+p763
+g2
+(g6
+S'\x8ab\\\xe9\xcc~\xd1?'
+p764
+tp765
+Rp766
+tp767
+a(S'student senators council of new york university'
+p768
+g2
+(g6
+S'\x80\xc8.\x0e\x92}\xd1?'
+p769
+tp770
+Rp771
+tp772
+a(S'david konstan'
+p773
+g2
+(g6
+S'\x01\xe1X\xc4\xbao\xd1?'
+p774
+tp775
+Rp776
+tp777
+a(S'new york university college of arts & science'
+p778
+g2
+(g6
+S'D\xc36?\xcbj\xd1?'
+p779
+tp780
+Rp781
+tp782
+a(S'j. p. freidberg'
+p783
+g2
+(g6
+S'A!\xf0\xaa\xad4\xd1?'
+p784
+tp785
+Rp786
+tp787
+a(S'gerry curatola'
+p788
+g2
+(g6
+S'\xd0\x1d\x05\x0f\x813\xd1?'
+p789
+tp790
+Rp791
+tp792
+a(S'new york university stern school of business'
+p793
+g2
+(g6
+S'\xec\x88C\x01\xd1\x1c\xd1?'
+p794
+tp795
+Rp796
+tp797
+a(S'john c. sawhill'
+p798
+g2
+(g6
+S'\xea\x86\xd5\x00\x1c\x19\xd1?'
+p799
+tp800
+Rp801
+tp802
+a(S'colette mazzucelli'
+p803
+g2
+(g6
+S'\x83\x03e\x86d\x0b\xd1?'
+p804
+tp805
+Rp806
+tp807
+a(S'palmer school of library and information science'
+p808
+g2
+(g6
+S',\xa3\x86Og\xfa\xd0?'
+p809
+tp810
+Rp811
+tp812
+a(S'jeffrey sammons'
+p813
+g2
+(g6
+S'\xdc\x18\xd0E\x89\xe0\xd0?'
+p814
+tp815
+Rp816
+tp817
+a(S'kerry sulkowicz'
+p818
+g2
+(g6
+S'J\xf3\xb8;:\xe0\xd0?'
+p819
+tp820
+Rp821
+tp822
+a(S'eucleian society'
+p823
+g2
+(g6
+S'\\\x14\xc6\x13\x15\xd2\xd0?'
+p824
+tp825
+Rp826
+tp827
+a(S'yann lecun'
+p828
+g2
+(g6
+S'e\xd3\xfdw\xdc\xc7\xd0?'
+p829
+tp830
+Rp831
+tp832
+a(S'allen feldman'
+p833
+g2
+(g6
+S'\xea9\xa3\x9e\xf2\xb3\xd0?'
+p834
+tp835
+Rp836
+tp837
+a(S'james w. tuttleton'
+p838
+g2
+(g6
+S'\x0cj\xc5\xfa\x0e\xa8\xd0?'
+p839
+tp840
+Rp841
+tp842
+a(S"1919\xe2\x80\x9320 ncaa men's basketball season"
+p843
+g2
+(g6
+S'\xb1\xd9\xa6C\\\xa4\xd0?'
+p844
+tp845
+Rp846
+tp847
+a(S'jerry bresler'
+p848
+g2
+(g6
+S'\xd2\xc0\x8fH\x87\x9d\xd0?'
+p849
+tp850
+Rp851
+tp852
+a(S'stern global programs'
+p853
+g2
+(g6
+S'\xf7\xf6P\xeaA\x9b\xd0?'
+p854
+tp855
+Rp856
+tp857
+a(S'institute for the study of the ancient world'
+p858
+g2
+(g6
+S'\xae\x1e-\x1cc\x96\xd0?'
+p859
+tp860
+Rp861
+tp862
+a(S'katherine isbister'
+p863
+g2
+(g6
+S'0\xf4\xc6y\x17\x94\xd0?'
+p864
+tp865
+Rp866
+tp867
+a(S'bobst'
+p868
+g2
+(g6
+S'*\x7fm\x81\n\x8d\xd0?'
+p869
+tp870
+Rp871
+tp872
+a(S'jillian medoff'
+p873
+g2
+(g6
+S'$?\xdc\xec\xa6\x88\xd0?'
+p874
+tp875
+Rp876
+tp877
+a(S'lawrence fertig'
+p878
+g2
+(g6
+S',\xcaK^\x08\x88\xd0?'
+p879
+tp880
+Rp881
+tp882
+a(S'todd holoubek'
+p883
+g2
+(g6
+S'\xba\xee\x86~Fx\xd0?'
+p884
+tp885
+Rp886
+tp887
+a(S'harlan d. logan'
+p888
+g2
+(g6
+S'`\xe5F\xc0\\o\xd0?'
+p889
+tp890
+Rp891
+tp892
+a(S'herbert wachtell'
+p893
+g2
+(g6
+S'Crjd\x02k\xd0?'
+p894
+tp895
+Rp896
+tp897
+a(S'kostas gontikas'
+p898
+g2
+(g6
+S'(x\xb0/ET\xd0?'
+p899
+tp900
+Rp901
+tp902
+a(S'nahid hagigat'
+p903
+g2
+(g6
+S'dcd\xc8\xdeN\xd0?'
+p904
+tp905
+Rp906
+tp907
+a(S'list of new york university alumni'
+p908
+g2
+(g6
+S'\x91\x99\x87\xc4PK\xd0?'
+p909
+tp910
+Rp911
+tp912
+a(S'jennifer carpenter (academic)'
+p913
+g2
+(g6
+S'Z\xd3\xf0\xea\x8fI\xd0?'
+p914
+tp915
+Rp916
+tp917
+a(S'david j. pine'
+p918
+g2
+(g6
+S'\x9c\x1f\t\xc0\xc2F\xd0?'
+p919
+tp920
+Rp921
+tp922
+a(S'russel e. caflisch'
+p923
+g2
+(g6
+S'\xcf."~I=\xd0?'
+p924
+tp925
+Rp926
+tp927
+a(S'mayne berke'
+p928
+g2
+(g6
+S'\x95\xe1\xe1]\x0b#\xd0?'
+p929
+tp930
+Rp931
+tp932
+a(S'roys poyiadjis'
+p933
+g2
+(g6
+S'\x80[\xc2X\xa4\x0c\xd0?'
+p934
+tp935
+Rp936
+tp937
+a(S'university of the people'
+p938
+g2
+(g6
+S'\xac\xde\x87E\xc7\xee\xcf?'
+p939
+tp940
+Rp941
+tp942
+a(S'jan vil\xc4\x8dek'
+p943
+g2
+(g6
+S'\x01\xdba3Z\xd1\xcf?'
+p944
+tp945
+Rp946
+tp947
+a(S'nyu journal of law & business'
+p948
+g2
+(g6
+S'\x06\xa1\xa6G\xc6\xb3\xcf?'
+p949
+tp950
+Rp951
+tp952
+a(S'paul glimcher'
+p953
+g2
+(g6
+S'\x1f\xd7\x9d\x04\xa4\x92\xcf?'
+p954
+tp955
+Rp956
+tp957
+a(S'john brademas center for the study of congress'
+p958
+g2
+(g6
+S'jQsb\x87\x85\xcf?'
+p959
+tp960
+Rp961
+tp962
+a(S'la maison fran\xc3\xa7aise'
+p963
+g2
+(g6
+S'>\xfc\xab\x11\xf6y\xcf?'
+p964
+tp965
+Rp966
+tp967
+a(S'tamiment library and robert f. wagner archives'
+p968
+g2
+(g6
+S'\xfe\xe4\x9e\xbd\x1fq\xcf?'
+p969
+tp970
+Rp971
+tp972
+a(S'1965 national invitation tournament'
+p973
+g2
+(g6
+S'\xb4\x8d\xb3l\x98U\xcf?'
+p974
+tp975
+Rp976
+tp977
+a(S'mary washburn'
+p978
+g2
+(g6
+S'\xeb\x9a\xe7\xac\x85:\xcf?'
+p979
+tp980
+Rp981
+tp982
+a(S'list of new york university honorary degree recipients'
+p983
+g2
+(g6
+S'\x8c\x8c`\xb7\xcd\x1c\xcf?'
+p984
+tp985
+Rp986
+tp987
+a(S'claudio silva (computer scientist)'
+p988
+g2
+(g6
+S'W84b\xe9\x10\xcf?'
+p989
+tp990
+Rp991
+tp992
+a(S'david sobin'
+p993
+g2
+(g6
+S"'N\x19\x08\x15\xe9\xce?"
+p994
+tp995
+Rp996
+tp997
+a(S'master of science in risk management program for executives'
+p998
+g2
+(g6
+S'y\xeePC1\xe8\xce?'
+p999
+tp1000
+Rp1001
+tp1002
+a(S'gallatin school of individualized study'
+p1003
+g2
+(g6
+S'\xb7\x9d\x8f\x9cj\xe1\xce?'
+p1004
+tp1005
+Rp1006
+tp1007
+a(S'douglas e. lynch'
+p1008
+g2
+(g6
+S'bjcS\x04\xb5\xce?'
+p1009
+tp1010
+Rp1011
+tp1012
+a(S'henry noble maccracken'
+p1013
+g2
+(g6
+S'\x95\xd5\xc2\x08\xce\xaf\xce?'
+p1014
+tp1015
+Rp1016
+tp1017
+a(S'bernhard haurwitz'
+p1018
+g2
+(g6
+S'\x88\xc4F_\xa6\xaf\xce?'
+p1019
+tp1020
+Rp1021
+tp1022
+a(S"st. john's university (new york city)"
+p1023
+g2
+(g6
+S'n\xa3e\x91T\x9c\xce?'
+p1024
+tp1025
+Rp1026
+tp1027
+a(S'harold s. koplewicz'
+p1028
+g2
+(g6
+S'm*l\x9b\x8a\x83\xce?'
+p1029
+tp1030
+Rp1031
+tp1032
+a(S'james m. mathews'
+p1033
+g2
+(g6
+S'A\xb1\x80\xfe5\x83\xce?'
+p1034
+tp1035
+Rp1036
+tp1037
+a(S'chris barker (linguist)'
+p1038
+g2
+(g6
+S'c\t\xfb\xd4\x16l\xce?'
+p1039
+tp1040
+Rp1041
+tp1042
+a(S'eli m. pearce'
+p1043
+g2
+(g6
+S'B1\x19\xc8\x00k\xce?'
+p1044
+tp1045
+Rp1046
+tp1047
+a(S'john thomas madden'
+p1048
+g2
+(g6
+S'\xe3\nX\x86\x99Z\xce?'
+p1049
+tp1050
+Rp1051
+tp1052
+a(S'devi nampiaparampil'
+p1053
+g2
+(g6
+S'\x009a\xf5\xc0X\xce?'
+p1054
+tp1055
+Rp1056
+tp1057
+a(S'benedict kingsbury'
+p1058
+g2
+(g6
+S'\xba\xd4f\xf1\x8eH\xce?'
+p1059
+tp1060
+Rp1061
+tp1062
+a(S'henry j. kelley'
+p1063
+g2
+(g6
+S'C\xa9\xc6\x83\x0bH\xce?'
+p1064
+tp1065
+Rp1066
+tp1067
+a(S'martin nisenholtz'
+p1068
+g2
+(g6
+S'\xc1\xf6\xc4\xfb\x05\xeb\xcd?'
+p1069
+tp1070
+Rp1071
+tp1072
+a(S'ken strong'
+p1073
+g2
+(g6
+S'\x98\xe0X\x17b\xe3\xcd?'
+p1074
+tp1075
+Rp1076
+tp1077
+a(S'sylvain cappell'
+p1078
+g2
+(g6
+S'd0uD\x96\xdb\xcd?'
+p1079
+tp1080
+Rp1081
+tp1082
+a(S'list of elfen lied characters'
+p1083
+g2
+(g6
+S'\xb3\xebM\x07\xd5\xc0\xcd?'
+p1084
+tp1085
+Rp1086
+tp1087
+a(S'genesis be'
+p1088
+g2
+(g6
+S'\xf5\xce\xf4\xf6\xf6\xad\xcd?'
+p1089
+tp1090
+Rp1091
+tp1092
+a(S'dave fultz'
+p1093
+g2
+(g6
+S'h\n\x89\xc5\xc9\xa0\xcd?'
+p1094
+tp1095
+Rp1096
+tp1097
+a(S'james b. jacobs'
+p1098
+g2
+(g6
+S'\xfd\xbb\xc5\x83\x8c\x9e\xcd?'
+p1099
+tp1100
+Rp1101
+tp1102
+a(S'rajeev dehejia'
+p1103
+g2
+(g6
+S'x\xbb\xcc\x93\xf6\x9c\xcd?'
+p1104
+tp1105
+Rp1106
+tp1107
+a(S'washington university in st. louis'
+p1108
+g2
+(g6
+S'A\xecd\xb9\xc3\x96\xcd?'
+p1109
+tp1110
+Rp1111
+tp1112
+a(S'peter blair henry'
+p1113
+g2
+(g6
+S'/A\xd0\xfbB\x85\xcd?'
+p1114
+tp1115
+Rp1116
+tp1117
+a(S'james gilligan'
+p1118
+g2
+(g6
+S'E\xea\x07\x99}h\xcd?'
+p1119
+tp1120
+Rp1121
+tp1122
+a(S'charles olivier'
+p1123
+g2
+(g6
+S'\x186\x1a\x98}`\xcd?'
+p1124
+tp1125
+Rp1126
+tp1127
+a(S'viral acharya'
+p1128
+g2
+(g6
+S']\x9c\xf2\xcdzY\xcd?'
+p1129
+tp1130
+Rp1131
+tp1132
+a(S'thomas christian kavanagh'
+p1133
+g2
+(g6
+S'\x0c\xa6J\xfb\x84X\xcd?'
+p1134
+tp1135
+Rp1136
+tp1137
+a(S"1959\xe2\x80\x9360 nyu violets men's basketball team"
+p1138
+g2
+(g6
+S'4\xf3\xf02{J\xcd?'
+p1139
+tp1140
+Rp1141
+tp1142
+a(S'irving mondschein'
+p1143
+g2
+(g6
+S'\xe7\xa3\\\x19Q4\xcd?'
+p1144
+tp1145
+Rp1146
+tp1147
+a(S'master of science in global finance'
+p1148
+g2
+(g6
+S'\x97s,\xdcD"\xcd?'
+p1149
+tp1150
+Rp1151
+tp1152
+a(S'john iacono'
+p1153
+g2
+(g6
+S'}\xefu\x117\x1e\xcd?'
+p1154
+tp1155
+Rp1156
+tp1157
+a(S'nina freeman'
+p1158
+g2
+(g6
+S'\x8f\xb1\x94s\xb1\t\xcd?'
+p1159
+tp1160
+Rp1161
+tp1162
+a(S'richard hendler'
+p1163
+g2
+(g6
+S'B\x91\xa1\xb5\x15\xff\xcc?'
+p1164
+tp1165
+Rp1166
+tp1167
+a(S'steven r. goldstein'
+p1168
+g2
+(g6
+S'\xd6\x87\\\xcd\xc7\xeb\xcc?'
+p1169
+tp1170
+Rp1171
+tp1172
+a(S'center for urban science and progress'
+p1173
+g2
+(g6
+S'\xf2\x11\xbf\x08u\xdb\xcc?'
+p1174
+tp1175
+Rp1176
+tp1177
+a(S'anisha nagarajan'
+p1178
+g2
+(g6
+S'\x9f\xa6\xfd\xc1\x9f\xcf\xcc?'
+p1179
+tp1180
+Rp1181
+tp1182
+a(S'ren\xc3\xa9e a. blake'
+p1183
+g2
+(g6
+S'53\x08s\xdc\xb8\xcc?'
+p1184
+tp1185
+Rp1186
+tp1187
+a(S'touro college of dental medicine'
+p1188
+g2
+(g6
+S'\x00\xfe\xd2d\xfc\xb3\xcc?'
+p1189
+tp1190
+Rp1191
+tp1192
+a(S'kenan erim'
+p1193
+g2
+(g6
+S'"\xa9\x8e\x88\x0c\xb3\xcc?'
+p1194
+tp1195
+Rp1196
+tp1197
+a(S'francesco guarraci'
+p1198
+g2
+(g6
+S"\x18'7~:\x81\xcc?"
+p1199
+tp1200
+Rp1201
+tp1202
+a(S'jess benhabib'
+p1203
+g2
+(g6
+S'\x05\xa2\x9cB\x84\x80\xcc?'
+p1204
+tp1205
+Rp1206
+tp1207
+a(S'sarah labowitz'
+p1208
+g2
+(g6
+S'\x11\xb8\xf8DC|\xcc?'
+p1209
+tp1210
+Rp1211
+tp1212
+a(S'university place (manhattan)'
+p1213
+g2
+(g6
+S'ie\xae\xdc\xdds\xcc?'
+p1214
+tp1215
+Rp1216
+tp1217
+a(S'financial access initiative'
+p1218
+g2
+(g6
+S'\x87\xcf\x9b\x068h\xcc?'
+p1219
+tp1220
+Rp1221
+tp1222
+a(S'graduate student employee unionization'
+p1223
+g2
+(g6
+S'\xea\xcc\x9dd\x0eb\xcc?'
+p1224
+tp1225
+Rp1226
+tp1227
+a(S'charles m. newman'
+p1228
+g2
+(g6
+S'\x8e\x92\xf3\x84]N\xcc?'
+p1229
+tp1230
+Rp1231
+tp1232
+a(S'ernest l. hettich'
+p1233
+g2
+(g6
+S'\xf4\xe6\xf3\xb8\xeeB\xcc?'
+p1234
+tp1235
+Rp1236
+tp1237
+a(S'nova-mba association'
+p1238
+g2
+(g6
+S'\xcf\x87%\xaf\x141\xcc?'
+p1239
+tp1240
+Rp1241
+tp1242
+a(S'milo hellman'
+p1243
+g2
+(g6
+S'k\xff\x8d>`\x1e\xcc?'
+p1244
+tp1245
+Rp1246
+tp1247
+a(S'sheldon bach'
+p1248
+g2
+(g6
+S'\x04\xdc\xd0K;\x13\xcc?'
+p1249
+tp1250
+Rp1251
+tp1252
+a(S'ivan loveridge bennett'
+p1253
+g2
+(g6
+S'\xf4\x89Q\xa9\x03\xf6\xcb?'
+p1254
+tp1255
+Rp1256
+tp1257
+a(S'avery waddell'
+p1258
+g2
+(g6
+S'\xd3\x941\nJ\xf0\xcb?'
+p1259
+tp1260
+Rp1261
+tp1262
+a(S'roy simon'
+p1263
+g2
+(g6
+S'\x03\x9co\xf9\x18\xe9\xcb?'
+p1264
+tp1265
+Rp1266
+tp1267
+a(S'washington square news'
+p1268
+g2
+(g6
+S'=\x824\xc0+\xb7\xcb?'
+p1269
+tp1270
+Rp1271
+tp1272
+a(S'new york institute of technology'
+p1273
+g2
+(g6
+S'Od\x90\xb7\xd1\xa8\xcb?'
+p1274
+tp1275
+Rp1276
+tp1277
+a(S'ben auerbach'
+p1278
+g2
+(g6
+S'\xc3\xdd@5\x96\x97\xcb?'
+p1279
+tp1280
+Rp1281
+tp1282
+a(S'pablo lopez luz'
+p1283
+g2
+(g6
+S'\xb0\x0b\xbb\xda={\xcb?'
+p1284
+tp1285
+Rp1286
+tp1287
+a(S'richard e. sorensen'
+p1288
+g2
+(g6
+S'`!3!\x94y\xcb?'
+p1289
+tp1290
+Rp1291
+tp1292
+a(S'sackler institute of graduate biomedical sciences'
+p1293
+g2
+(g6
+S"\xf4N\xaa}'c\xcb?"
+p1294
+tp1295
+Rp1296
+tp1297
+a(S'1948 national invitation tournament'
+p1298
+g2
+(g6
+S'\xdc:\x81\xeb\xc8b\xcb?'
+p1299
+tp1300
+Rp1301
+tp1302
+a(S'amanda petrusich'
+p1303
+g2
+(g6
+S'\xcc\x10\xa0\xbe\xa1_\xcb?'
+p1304
+tp1305
+Rp1306
+tp1307
+a(S'new york university college of dentistry'
+p1308
+g2
+(g6
+S'\xd7\xbc\xa0\x83\xfd@\xcb?'
+p1309
+tp1310
+Rp1311
+tp1312
+a(S'bowling green state university'
+p1313
+g2
+(g6
+S')ueW\xc0)\xcb?'
+p1314
+tp1315
+Rp1316
+tp1317
+a(S'yvette biro'
+p1318
+g2
+(g6
+S'r\x10r\x9b\xac&\xcb?'
+p1319
+tp1320
+Rp1321
+tp1322
+a(S'herman eisen'
+p1323
+g2
+(g6
+S'\xaa\xd3\xc9t\xd4\r\xcb?'
+p1324
+tp1325
+Rp1326
+tp1327
+a(S'captain valedor'
+p1328
+g2
+(g6
+S'\xbc\xc4\xc8P\xdc\n\xcb?'
+p1329
+tp1330
+Rp1331
+tp1332
+a(S'robert ubell'
+p1333
+g2
+(g6
+S'\xe7\xb5\x95\xa1\xa1\x03\xcb?'
+p1334
+tp1335
+Rp1336
+tp1337
+a(S'bronx community college'
+p1338
+g2
+(g6
+S'p2\xf9\x10\xb0\x01\xcb?'
+p1339
+tp1340
+Rp1341
+tp1342
+a(S'peter zaremba (athlete)'
+p1343
+g2
+(g6
+S'\xadX\\R6\xfd\xca?'
+p1344
+tp1345
+Rp1346
+tp1347
+a(S'karen adolph'
+p1348
+g2
+(g6
+S'~ \xbc\x83V\xf8\xca?'
+p1349
+tp1350
+Rp1351
+tp1352
+a(S'south village'
+p1353
+g2
+(g6
+S'\x8e1gNI\xe5\xca?'
+p1354
+tp1355
+Rp1356
+tp1357
+a(S'bascove'
+p1358
+g2
+(g6
+S'6W\xa7(0\xde\xca?'
+p1359
+tp1360
+Rp1361
+tp1362
+a(S'steve bodow'
+p1363
+g2
+(g6
+S'*\xb2J\x96\xde\xbe\xca?'
+p1364
+tp1365
+Rp1366
+tp1367
+a(S'ultracomputer'
+p1368
+g2
+(g6
+S'\x10\x15\xca]E\xbc\xca?'
+p1369
+tp1370
+Rp1371
+tp1372
+a(S'jack n. rakove'
+p1373
+g2
+(g6
+S'}\xa8\xeb\\\x9c\xb8\xca?'
+p1374
+tp1375
+Rp1376
+tp1377
+a(S'joseph d. zuckerman'
+p1378
+g2
+(g6
+S'\xc5\x1fp\x98\xde\xad\xca?'
+p1379
+tp1380
+Rp1381
+tp1382
+a(S'j. carlos santamarina'
+p1383
+g2
+(g6
+S'@o\xd9sv\xa8\xca?'
+p1384
+tp1385
+Rp1386
+tp1387
+a(S'charles siepmann'
+p1388
+g2
+(g6
+S'\xee\xf9F2\x81\xa0\xca?'
+p1389
+tp1390
+Rp1391
+tp1392
+a(S'lester afflick'
+p1393
+g2
+(g6
+S'\x91Z\xaaq%\x96\xca?'
+p1394
+tp1395
+Rp1396
+tp1397
+a(S'1949 national invitation tournament'
+p1398
+g2
+(g6
+S'n%&9\xf4\x93\xca?'
+p1399
+tp1400
+Rp1401
+tp1402
+a(S'linda carlson'
+p1403
+g2
+(g6
+S'(\xf9"\xdf\xac\x89\xca?'
+p1404
+tp1405
+Rp1406
+tp1407
+a(S'yu lizhong'
+p1408
+g2
+(g6
+S',\x9a\xa2?\xbd\x88\xca?'
+p1409
+tp1410
+Rp1411
+tp1412
+a(S'kyle cranmer'
+p1413
+g2
+(g6
+S'\xacZ\x00\xc3Ow\xca?'
+p1414
+tp1415
+Rp1416
+tp1417
+a(S'stephen r. perry'
+p1418
+g2
+(g6
+S'\xa4\\\x82\xdbVB\xca?'
+p1419
+tp1420
+Rp1421
+tp1422
+a(S'andrij parekh'
+p1423
+g2
+(g6
+S'\xeen\xa42@4\xca?'
+p1424
+tp1425
+Rp1426
+tp1427
+a(S'viola brothers shore'
+p1428
+g2
+(g6
+S'\xe5\x03=X\x8a&\xca?'
+p1429
+tp1430
+Rp1431
+tp1432
+a(S'vicki been'
+p1433
+g2
+(g6
+S',\x98h\xe3\xd1#\xca?'
+p1434
+tp1435
+Rp1436
+tp1437
+a(S'york college of pennsylvania'
+p1438
+g2
+(g6
+S'\xe8\xd3\xdc7_"\xca?'
+p1439
+tp1440
+Rp1441
+tp1442
+a(S'eli hirsch'
+p1443
+g2
+(g6
+S'\x0fH\xaek\x1f!\xca?'
+p1444
+tp1445
+Rp1446
+tp1447
+a(S'doug guthrie'
+p1448
+g2
+(g6
+S'\xc6)\x8b\xc2/ \xca?'
+p1449
+tp1450
+Rp1451
+tp1452
+a(S'san jose state university'
+p1453
+g2
+(g6
+S'\x17\xc7\xcb\xf2\x9f\x1e\xca?'
+p1454
+tp1455
+Rp1456
+tp1457
+a(S'daniel l. stein'
+p1458
+g2
+(g6
+S'\xd9%C\x97\x9e\x1d\xca?'
+p1459
+tp1460
+Rp1461
+tp1462
+a(S'warren l. mccabe'
+p1463
+g2
+(g6
+S'}\xca\xd9\x8e\xf1\x0c\xca?'
+p1464
+tp1465
+Rp1466
+tp1467
+a(S'ada ferrer'
+p1468
+g2
+(g6
+S'\x85\x9f\x86\xf4a\xf7\xc9?'
+p1469
+tp1470
+Rp1471
+tp1472
+a(S'samuel d. schmucker'
+p1473
+g2
+(g6
+S'\x9c\xd8V\xe9\xdc\xee\xc9?'
+p1474
+tp1475
+Rp1476
+tp1477
+a(S'susan cartsonis'
+p1478
+g2
+(g6
+S'\x0f\x86Em\xbb\xe7\xc9?'
+p1479
+tp1480
+Rp1481
+tp1482
+a(S'york university'
+p1483
+g2
+(g6
+S'\xed"<\xf9p\xe7\xc9?'
+p1484
+tp1485
+Rp1486
+tp1487
+a(S'ric menello'
+p1488
+g2
+(g6
+S'\xde\xaaJG\x1d\xc8\xc9?'
+p1489
+tp1490
+Rp1491
+tp1492
+a(S'yvonne latty'
+p1493
+g2
+(g6
+S'\xcc\xc4\\\xf53\xc5\xc9?'
+p1494
+tp1495
+Rp1496
+tp1497
+a(S'james stuckey'
+p1498
+g2
+(g6
+S'q\x99\x90\xa6\xf4\xc0\xc9?'
+p1499
+tp1500
+Rp1501
+tp1502
+a(S'margaret newman (nurse)'
+p1503
+g2
+(g6
+S"($\x8b\xd2'\xb4\xc9?"
+p1504
+tp1505
+Rp1506
+tp1507
+a(S'richard e. eustis'
+p1508
+g2
+(g6
+S']\xdb3c\x00\xb1\xc9?'
+p1509
+tp1510
+Rp1511
+tp1512
+a.

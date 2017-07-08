@@ -1,0 +1,2728 @@
+(lp0
+(S'foundations of mathematics'
+p1
+cnumpy.core.multiarray
+scalar
+p2
+(cnumpy
+dtype
+p3
+(S'f8'
+p4
+I0
+I1
+tp5
+Rp6
+(I3
+S'<'
+p7
+NNNI-1
+I-1
+I0
+tp8
+bS'\n\x00\x00\x00\x00\x00\xf0?'
+p9
+tp10
+Rp11
+tp12
+a(S'mathematical logic'
+p13
+g2
+(g6
+S'\x00\xef;_ex\xe6?'
+p14
+tp15
+Rp16
+tp17
+a(S'philosophy of mathematics'
+p18
+g2
+(g6
+S'\xd2\xa7o\x83\x9ef\xe6?'
+p19
+tp20
+Rp21
+tp22
+a(S'mathematics'
+p23
+g2
+(g6
+S'\xf5\x1c\xae\xa2a\x07\xe6?'
+p24
+tp25
+Rp26
+tp27
+a(S'history of mathematics'
+p28
+g2
+(g6
+S'\xf4\xfe\xf9\xd0\xda\xd5\xe4?'
+p29
+tp30
+Rp31
+tp32
+a(S"hilbert's program"
+p33
+g2
+(g6
+S'f\xca\x14\xe6kR\xe4?'
+p34
+tp35
+Rp36
+tp37
+a(S'metamathematics'
+p38
+g2
+(g6
+S'F\r\xa3\xda\xb0\x80\xe3?'
+p39
+tp40
+Rp41
+tp42
+a(S'outline of mathematics'
+p43
+g2
+(g6
+S'<\xeb\xee\xdc\x8b\x15\xe3?'
+p44
+tp45
+Rp46
+tp47
+a(S'intuitionism'
+p48
+g2
+(g6
+S'0\xb0^GV\xf4\xe2?'
+p49
+tp50
+Rp51
+tp52
+a(S'formalism (philosophy of mathematics)'
+p53
+g2
+(g6
+S'\x83B\xbd\x16g\xc8\xe2?'
+p54
+tp55
+Rp56
+tp57
+a(S'areas of mathematics'
+p58
+g2
+(g6
+S'\xa1\x86\xccz\x1fv\xe1?'
+p59
+tp60
+Rp61
+tp62
+a(S'where mathematics comes from'
+p63
+g2
+(g6
+S'\xdb\xdf\xbd\xd4\x9d7\xe1?'
+p64
+tp65
+Rp66
+tp67
+a(S'relationship between mathematics and physics'
+p68
+g2
+(g6
+S'\x1e\x93Xq[\x82\xe0?'
+p69
+tp70
+Rp71
+tp72
+a(S'proof theory'
+p73
+g2
+(g6
+S'\xa5+\xde\x91(Z\xe0?'
+p74
+tp75
+Rp76
+tp77
+a(S'finitism'
+p78
+g2
+(g6
+S"\xee]<\x93'M\xe0?"
+p79
+tp80
+Rp81
+tp82
+a(S'consistency'
+p83
+g2
+(g6
+S'\xdb.\x01\x02%=\xe0?'
+p84
+tp85
+Rp86
+tp87
+a(S'list of important publications in mathematics'
+p88
+g2
+(g6
+S'\xbf\xc8W\x1a\x028\xe0?'
+p89
+tp90
+Rp91
+tp92
+a(S'mathematics education'
+p93
+g2
+(g6
+S"\xf9\xc7'\xf1\x00 \xe0?"
+p94
+tp95
+Rp96
+tp97
+a(S'pure mathematics'
+p98
+g2
+(g6
+S'\x92\x8b\xf5\x8b\xf2\x01\xe0?'
+p99
+tp100
+Rp101
+tp102
+a(S'unifying theories in mathematics'
+p103
+g2
+(g6
+S'M\xfa4\xf3\xfb\xfd\xdf?'
+p104
+tp105
+Rp106
+tp107
+a(S'set theory'
+p108
+g2
+(g6
+S'\xe7\xf1\\\x15\xec\xf2\xdf?'
+p109
+tp110
+Rp111
+tp112
+a(S'classical mathematics'
+p113
+g2
+(g6
+S'\x00\xaa\x0b$\xcf\x97\xdf?'
+p114
+tp115
+Rp116
+tp117
+a(S'mathematical beauty'
+p118
+g2
+(g6
+S'WE|\xc5\x9bX\xdf?'
+p119
+tp120
+Rp121
+tp122
+a(S'brouwer\xe2\x80\x93hilbert controversy'
+p123
+g2
+(g6
+S'\xdf:N=\xb6\x1e\xdf?'
+p124
+tp125
+Rp126
+tp127
+a(S'thoralf skolem'
+p128
+g2
+(g6
+S'\xb3O$\xa0%\x1d\xdf?'
+p129
+tp130
+Rp131
+tp132
+a(S'sylvester medal'
+p133
+g2
+(g6
+S'\xd2\xb4\xc1\xed!p\xde?'
+p134
+tp135
+Rp136
+tp137
+a(S'future of mathematics'
+p138
+g2
+(g6
+S'\xd8\x99\xeb\xfd\x1cT\xde?'
+p139
+tp140
+Rp141
+tp142
+a(S'list of mathematics history topics'
+p143
+g2
+(g6
+S'\xf14\x1d\x89NR\xde?'
+p144
+tp145
+Rp146
+tp147
+a(S'equiconsistency'
+p148
+g2
+(g6
+S'\xcf\x91\xbb\xc0_2\xde?'
+p149
+tp150
+Rp151
+tp152
+a(S'applied mathematics'
+p153
+g2
+(g6
+S' x\x9c{A\x14\xde?'
+p154
+tp155
+Rp156
+tp157
+a(S'ernst zermelo'
+p158
+g2
+(g6
+S'\xa4\xc17\x9d\x87\xdd\xdd?'
+p159
+tp160
+Rp161
+tp162
+a(S'introduction to mathematical philosophy'
+p163
+g2
+(g6
+S'\xba\xf3\x1bi\x82\xc7\xdd?'
+p164
+tp165
+Rp166
+tp167
+a(S'language of mathematics'
+p168
+g2
+(g6
+S'l\x98|\xf6\x1e\xbf\xdd?'
+p169
+tp170
+Rp171
+tp172
+a(S'ethnomathematics'
+p173
+g2
+(g6
+S'\xe8M\xb5\xb5\xac\xa4\xdd?'
+p174
+tp175
+Rp176
+tp177
+a(S'reuben goodstein'
+p178
+g2
+(g6
+S'l*Kh\xff\x92\xdd?'
+p179
+tp180
+Rp181
+tp182
+a(S'outline of discrete mathematics'
+p183
+g2
+(g6
+S'  \x94\x80,\x92\xdd?'
+p184
+tp185
+Rp186
+tp187
+a(S"hilbert's second problem"
+p188
+g2
+(g6
+S'\xb6(CC\x82h\xdd?'
+p189
+tp190
+Rp191
+tp192
+a(S'axiomatic system'
+p193
+g2
+(g6
+S'"-\xe2\xa34`\xdd?'
+p194
+tp195
+Rp196
+tp197
+a(S'axiom'
+p198
+g2
+(g6
+S'.B\x8db\x1c_\xdd?'
+p199
+tp200
+Rp201
+tp202
+a(S'ultrafinitism'
+p203
+g2
+(g6
+S'\xc95\xef\x81\xaa.\xdd?'
+p204
+tp205
+Rp206
+tp207
+a(S'definitions of mathematics'
+p208
+g2
+(g6
+S'3V\x01\xcd\xbb\x1c\xdd?'
+p209
+tp210
+Rp211
+tp212
+a(S'john lane bell'
+p213
+g2
+(g6
+S'\x1f\xa9\xfb\xef\xb1\xca\xdc?'
+p214
+tp215
+Rp216
+tp217
+a(S'metatheory'
+p218
+g2
+(g6
+S'pI\xe9\xcd\x17\xc5\xdc?'
+p219
+tp220
+Rp221
+tp222
+a(S'list of mathematical logic topics'
+p223
+g2
+(g6
+S'7t\xfb\n\xe0\xbf\xdc?'
+p224
+tp225
+Rp226
+tp227
+a(S'saharon shelah'
+p228
+g2
+(g6
+S'\x06\xf1/=\x07\xac\xdc?'
+p229
+tp230
+Rp231
+tp232
+a(S'history of logic'
+p233
+g2
+(g6
+S'\x0c\x18\xf4\xbb$\xda\xdb?'
+p234
+tp235
+Rp236
+tp237
+a(S'mathematical object'
+p238
+g2
+(g6
+S'\xd6\x02\x93)\xd3m\xdb?'
+p239
+tp240
+Rp241
+tp242
+a(S'the story of maths'
+p243
+g2
+(g6
+S'\xc2V\x9b\xc4\xd2\\\xdb?'
+p244
+tp245
+Rp246
+tp247
+a(S'ivor grattan-guinness'
+p248
+g2
+(g6
+S'\xacW\x00JCR\xdb?'
+p249
+tp250
+Rp251
+tp252
+a(S'paul halmos'
+p253
+g2
+(g6
+S'\xd2\xc0\xdd\xc9\x12J\xdb?'
+p254
+tp255
+Rp256
+tp257
+a(S'informal mathematics'
+p258
+g2
+(g6
+S'\xb2ziq\x81E\xdb?'
+p259
+tp260
+Rp261
+tp262
+a(S'mathematical theory'
+p263
+g2
+(g6
+S'\x865\xf8}Y4\xdb?'
+p264
+tp265
+Rp266
+tp267
+a(S'philosophy of mathematics education'
+p268
+g2
+(g6
+S'\x1a\xf7\xd3l\x04&\xdb?'
+p269
+tp270
+Rp271
+tp272
+a(S'mathematics, form and function'
+p273
+g2
+(g6
+S'\xdb\xba\xd4\xe3\xfd\x1e\xdb?'
+p274
+tp275
+Rp276
+tp277
+a(S'the princeton companion to mathematics'
+p278
+g2
+(g6
+S'JR\x04\xaa\x82\x1b\xdb?'
+p279
+tp280
+Rp281
+tp282
+a(S'joint mathematical council'
+p283
+g2
+(g6
+S',n#\x85\xd6\xf4\xda?'
+p284
+tp285
+Rp286
+tp287
+a(S'logicism'
+p288
+g2
+(g6
+S'?\xd5\x94<e\xd3\xda?'
+p289
+tp290
+Rp291
+tp292
+a(S'leroy p. steele prize'
+p293
+g2
+(g6
+S'\xd2+,\n\xb0\xd2\xda?'
+p294
+tp295
+Rp296
+tp297
+a(S'list of mathematics education journals'
+p298
+g2
+(g6
+S'\x12\xfd\xc7\x16\xdd\xc9\xda?'
+p299
+tp300
+Rp301
+tp302
+a(S'naive set theory'
+p303
+g2
+(g6
+S'v\xd9\x07p\xcd\xb7\xda?'
+p304
+tp305
+Rp306
+tp307
+a(S'mathematical universe hypothesis'
+p308
+g2
+(g6
+S'\xdfV\xa8\xf6\xcc\x93\xda?'
+p309
+tp310
+Rp311
+tp312
+a(S'history of mathematical notation'
+p313
+g2
+(g6
+S'\x80,\xdc\x99\xdbt\xda?'
+p314
+tp315
+Rp316
+tp317
+a(S'edward g. begle'
+p318
+g2
+(g6
+S'&\xea6b#g\xda?'
+p319
+tp320
+Rp321
+tp322
+a(S'list of first-order theories'
+p323
+g2
+(g6
+S'\xe1Enu\xd4\\\xda?'
+p324
+tp325
+Rp326
+tp327
+a(S'mathematics (disambiguation)'
+p328
+g2
+(g6
+S'73\xecA\xa6J\xda?'
+p329
+tp330
+Rp331
+tp332
+a(S'mathematician'
+p333
+g2
+(g6
+S'\xc4\x7f\xbd\x93\xedI\xda?'
+p334
+tp335
+Rp336
+tp337
+a(S"g\xc3\xb6del's incompleteness theorems"
+p338
+g2
+(g6
+S'\xc5\x1dY\x89\xa2\x03\xda?'
+p339
+tp340
+Rp341
+tp342
+a(S'stephen cole kleene'
+p343
+g2
+(g6
+S'um\xe4\xcc\xf6\xf9\xd9?'
+p344
+tp345
+Rp346
+tp347
+a(S'quasi-empiricism in mathematics'
+p348
+g2
+(g6
+S'>, \x88\x1c\xf8\xd9?'
+p349
+tp350
+Rp351
+tp352
+a(S'jeremy avigad'
+p353
+g2
+(g6
+S'\x0b\x84\xfcM\x8f\xe9\xd9?'
+p354
+tp355
+Rp356
+tp357
+a(S"skolem's paradox"
+p358
+g2
+(g6
+S',\xbbUH_\xe4\xd9?'
+p359
+tp360
+Rp361
+tp362
+a(S'model theory'
+p363
+g2
+(g6
+S'\xd6q\x11\xcf\xd5\xde\xd9?'
+p364
+tp365
+Rp366
+tp367
+a(S'the mathematical experience'
+p368
+g2
+(g6
+S'\xf3\xd5\x02\x14Y\xda\xd9?'
+p369
+tp370
+Rp371
+tp372
+a(S'arithmetization of analysis'
+p373
+g2
+(g6
+S'*\xa2\xbfc.\xd7\xd9?'
+p374
+tp375
+Rp376
+tp377
+a(S'lists of mathematics topics'
+p378
+g2
+(g6
+S'U\x1a\x9bQ>\xd5\xd9?'
+p379
+tp380
+Rp381
+tp382
+a(S'list of mathematics journals'
+p383
+g2
+(g6
+S'w\xf6\xbd,\x9d\xc4\xd9?'
+p384
+tp385
+Rp386
+tp387
+a(S'set-theoretic definition of natural numbers'
+p388
+g2
+(g6
+S'\xc0\xd8\xc9\xab\xce\xb8\xd9?'
+p389
+tp390
+Rp391
+tp392
+a(S'paul ernest'
+p393
+g2
+(g6
+S'\xe0\x89{\xd5\x10\xae\xd9?'
+p394
+tp395
+Rp396
+tp397
+a(S"a mathematician's apology"
+p398
+g2
+(g6
+S'\x98\xcb\xfa\xa3\xc4\xa7\xd9?'
+p399
+tp400
+Rp401
+tp402
+a(S"gentzen's consistency proof"
+p403
+g2
+(g6
+S't\xaf\xfd1\x83r\xd9?'
+p404
+tp405
+Rp406
+tp407
+a(S'popular mathematics'
+p408
+g2
+(g6
+S':\xc4\x1e\x8d\x05m\xd9?'
+p409
+tp410
+Rp411
+tp412
+a(S'school of mathematics, university of manchester'
+p413
+g2
+(g6
+S'j\x82\r\xd7\x95^\xd9?'
+p414
+tp415
+Rp416
+tp417
+a(S'advisory committee on mathematics education'
+p418
+g2
+(g6
+S'H\xfe\xfc\x0e\xd6X\xd9?'
+p419
+tp420
+Rp421
+tp422
+a(S'norman j. pullman'
+p423
+g2
+(g6
+S'G\x96\xe3\xd8\nB\xd9?'
+p424
+tp425
+Rp426
+tp427
+a(S'lynn steen'
+p428
+g2
+(g6
+S'\xb4,\xe9\x0c\x84=\xd9?'
+p429
+tp430
+Rp431
+tp432
+a(S'john penn mayberry'
+p433
+g2
+(g6
+S'S\xc3 2u:\xd9?'
+p434
+tp435
+Rp436
+tp437
+a(S'israel kleiner (mathematician)'
+p438
+g2
+(g6
+S'\xa2\xcb\xdfJ\x8c6\xd9?'
+p439
+tp440
+Rp441
+tp442
+a(S'august davidov'
+p443
+g2
+(g6
+S"\x8c\xa8Q*H'\xd9?"
+p444
+tp445
+Rp446
+tp447
+a(S'timeline of mathematical logic'
+p448
+g2
+(g6
+S'\x0f[\x8fl\xc6"\xd9?'
+p449
+tp450
+Rp451
+tp452
+a(S'glossary of areas of mathematics'
+p453
+g2
+(g6
+S'&|\x88\xe2#!\xd9?'
+p454
+tp455
+Rp456
+tp457
+a(S"hilbert's sixth problem"
+p458
+g2
+(g6
+S'g\x97\x8c\x86t\x15\xd9?'
+p459
+tp460
+Rp461
+tp462
+a(S'modern elementary mathematics'
+p463
+g2
+(g6
+S'V*\xdbN\xab\x14\xd9?'
+p464
+tp465
+Rp466
+tp467
+a(S'genetic method'
+p468
+g2
+(g6
+S'X\xe3\xaf`\x9e\r\xd9?'
+p469
+tp470
+Rp471
+tp472
+a(S'judith roitman'
+p473
+g2
+(g6
+S'^|\xc0-\xa1\n\xd9?'
+p474
+tp475
+Rp476
+tp477
+a(S'stewart shapiro'
+p478
+g2
+(g6
+S'\xf9!O\xce\x84\xf1\xd8?'
+p479
+tp480
+Rp481
+tp482
+a(S'finitary'
+p483
+g2
+(g6
+S'\x04Q*\xb0/\xdf\xd8?'
+p484
+tp485
+Rp486
+tp487
+a(S'certainty'
+p488
+g2
+(g6
+S'\xf1G\xe3\xd3D\xd3\xd8?'
+p489
+tp490
+Rp491
+tp492
+a(S'george boolos'
+p493
+g2
+(g6
+S'\xb9\x90-3U\xb4\xd8?'
+p494
+tp495
+Rp496
+tp497
+a(S'david hilbert'
+p498
+g2
+(g6
+S'@Q\r\xba\xd5\xa5\xd8?'
+p499
+tp500
+Rp501
+tp502
+a(S'edward nelson'
+p503
+g2
+(g6
+S'P\xeb2"\xe4\x9c\xd8?'
+p504
+tp505
+Rp506
+tp507
+a(S'foundations of geometry'
+p508
+g2
+(g6
+S'\xf5\x8a\x0b\xf2<\x8e\xd8?'
+p509
+tp510
+Rp511
+tp512
+a(S'haim gaifman'
+p513
+g2
+(g6
+S'\xdc\xd4\xbb\xff\xc2\x8a\xd8?'
+p514
+tp515
+Rp516
+tp517
+a(S'greek mathematics'
+p518
+g2
+(g6
+S'\x9f\x04\xfc\xfcs\x83\xd8?'
+p519
+tp520
+Rp521
+tp522
+a(S'mathematical practice'
+p523
+g2
+(g6
+S'^\x07\x8a\xf6\\\x82\xd8?'
+p524
+tp525
+Rp526
+tp527
+a(S'theory (mathematical logic)'
+p528
+g2
+(g6
+S'\x1f\xd8\n\xf5\xef|\xd8?'
+p529
+tp530
+Rp531
+tp532
+a(S'univalent foundations'
+p533
+g2
+(g6
+S'4\x8eG\x85\xe9|\xd8?'
+p534
+tp535
+Rp536
+tp537
+a(S'fredholm'
+p538
+g2
+(g6
+S'M\xd6\x03]\xdax\xd8?'
+p539
+tp540
+Rp541
+tp542
+a(S'mangala narlikar'
+p543
+g2
+(g6
+S'\xf8\xea;-\xe5q\xd8?'
+p544
+tp545
+Rp546
+tp547
+a(S'david eugene smith'
+p548
+g2
+(g6
+S'\x1c\xd5\xc9\x82+k\xd8?'
+p549
+tp550
+Rp551
+tp552
+a(S'mathematics magazine'
+p553
+g2
+(g6
+S'\xc1\x11\xa7\x8c-Z\xd8?'
+p554
+tp555
+Rp556
+tp557
+a(S'mathematics education in australia'
+p558
+g2
+(g6
+S'p\xe1\xe0\xf3\xf2G\xd8?'
+p559
+tp560
+Rp561
+tp562
+a(S'critical mathematics pedagogy'
+p563
+g2
+(g6
+S"'\xf7\xc0\xd6\rE\xd8?"
+p564
+tp565
+Rp566
+tp567
+a(S'number theory'
+p568
+g2
+(g6
+S'\x84\x83A\xad+$\xd8?'
+p569
+tp570
+Rp571
+tp572
+a(S'jo boaler'
+p573
+g2
+(g6
+S'\xeb\x92\xc9Zg"\xd8?'
+p574
+tp575
+Rp576
+tp577
+a(S'jacques herbrand'
+p578
+g2
+(g6
+S'%\xcek<6\x1d\xd8?'
+p579
+tp580
+Rp581
+tp582
+a(S'mathematical proof'
+p583
+g2
+(g6
+S'\x19!\xca\xb6R\x0e\xd8?'
+p584
+tp585
+Rp586
+tp587
+a(S'axiom of reducibility'
+p588
+g2
+(g6
+S'\x9d\x8f\xce\x97\x91\x04\xd8?'
+p589
+tp590
+Rp591
+tp592
+a(S'constructivism (mathematics)'
+p593
+g2
+(g6
+S'g\x95\xd8-\x85\x01\xd8?'
+p594
+tp595
+Rp596
+tp597
+a(S'discrete mathematics'
+p598
+g2
+(g6
+S')\x87\x7f\xe1\xba\xf9\xd7?'
+p599
+tp600
+Rp601
+tp602
+a(S'outline of science'
+p603
+g2
+(g6
+S'\x9e&:"\x82\xf3\xd7?'
+p604
+tp605
+Rp606
+tp607
+a(S"hilbert's problems"
+p608
+g2
+(g6
+S'D{\x91\x18\xfa\xed\xd7?'
+p609
+tp610
+Rp611
+tp612
+a(S'jackie stedall'
+p613
+g2
+(g6
+S'\xf6\x17\xa32{\xeb\xd7?'
+p614
+tp615
+Rp616
+tp617
+a(S'engineering mathematics'
+p618
+g2
+(g6
+S'\xe7kZ}\x9d\xd5\xd7?'
+p619
+tp620
+Rp621
+tp622
+a(S'university of sydney school of mathematics and statistics'
+p623
+g2
+(g6
+S'\xb7r\xc4\xfd\x9c\xd1\xd7?'
+p624
+tp625
+Rp626
+tp627
+a(S'theory'
+p628
+g2
+(g6
+S'\xe7\xe1\x07\xe5k\xc3\xd7?'
+p629
+tp630
+Rp631
+tp632
+a(S'history of geometry'
+p633
+g2
+(g6
+S'\xe4_\xa4\xc4\xc5\xc1\xd7?'
+p634
+tp635
+Rp636
+tp637
+a(S'recreational mathematics'
+p638
+g2
+(g6
+S'\xac\x9b\x0b~\xfa\xbf\xd7?'
+p639
+tp640
+Rp641
+tp642
+a(S'hse faculty of mathematics'
+p643
+g2
+(g6
+S'\xbc9\xd5\xf3\xe5\xb8\xd7?'
+p644
+tp645
+Rp646
+tp647
+a(S'formal science'
+p648
+g2
+(g6
+S'\x94B4\xf4\x8e\xae\xd7?'
+p649
+tp650
+Rp651
+tp652
+a(S'a. h. lightstone'
+p653
+g2
+(g6
+S'\xa8\x83\xfd\xd8\xb8\xa1\xd7?'
+p654
+tp655
+Rp656
+tp657
+a(S'experimental mathematics (journal)'
+p658
+g2
+(g6
+S'\xb1\xfa\xf2Q;\x9d\xd7?'
+p659
+tp660
+Rp661
+tp662
+a(S'steve awodey'
+p663
+g2
+(g6
+S"'\xa3\xec\xe3d\x9c\xd7?"
+p664
+tp665
+Rp666
+tp667
+a(S'mathematical sciences publishers'
+p668
+g2
+(g6
+S'\x02cT\x04J\x95\xd7?'
+p669
+tp670
+Rp671
+tp672
+a(S'akihiro kanamori'
+p673
+g2
+(g6
+S'\xa6\x13\xc2h\x02\x93\xd7?'
+p674
+tp675
+Rp676
+tp677
+a(S'karen parshall'
+p678
+g2
+(g6
+S'bQ\x08\xdf\xcb\x8b\xd7?'
+p679
+tp680
+Rp681
+tp682
+a(S'robinson arithmetic'
+p683
+g2
+(g6
+S'\x18\x1b\xf7VK\x82\xd7?'
+p684
+tp685
+Rp686
+tp687
+a(S'robert rumely'
+p688
+g2
+(g6
+S'\xdb\xa4)\x01\xb5z\xd7?'
+p689
+tp690
+Rp691
+tp692
+a(S'david tall'
+p693
+g2
+(g6
+S'\x1eI\x15\xe01w\xd7?'
+p694
+tp695
+Rp696
+tp697
+a(S'hermann grassmann'
+p698
+g2
+(g6
+S'\xf0-\ne\xbfm\xd7?'
+p699
+tp700
+Rp701
+tp702
+a(S'outline of logic'
+p703
+g2
+(g6
+S'\x0f\xeaY\xfd6l\xd7?'
+p704
+tp705
+Rp706
+tp707
+a(S'list of women in mathematics'
+p708
+g2
+(g6
+S'\\\xab\xf8\xa2\xd3_\xd7?'
+p709
+tp710
+Rp711
+tp712
+a(S'kim plofker'
+p713
+g2
+(g6
+S' \xdc\x12<\xb7U\xd7?'
+p714
+tp715
+Rp716
+tp717
+a(S'6d (2,0) superconformal field theory'
+p718
+g2
+(g6
+S']\xa9\xb9\x92"U\xd7?'
+p719
+tp720
+Rp721
+tp722
+a(S'the principles of mathematics'
+p723
+g2
+(g6
+S"'T^:\xc96\xd7?"
+p724
+tp725
+Rp726
+tp727
+a(S'experimental mathematics'
+p728
+g2
+(g6
+S'\xe7\x9f\xc3I\xe35\xd7?'
+p729
+tp730
+Rp731
+tp732
+a(S'complete theory'
+p733
+g2
+(g6
+S'4\xeaw\xbc\x1e2\xd7?'
+p734
+tp735
+Rp736
+tp737
+a(S'jeremy gray'
+p738
+g2
+(g6
+S'\x1a\n`\x17\xe1\x1f\xd7?'
+p739
+tp740
+Rp741
+tp742
+a(S'josip plemelj'
+p743
+g2
+(g6
+S'\xe5x1\x80\xf2\x1e\xd7?'
+p744
+tp745
+Rp746
+tp747
+a(S'n.i. lobachevsky institute of mathematics and mechanics'
+p748
+g2
+(g6
+S'\xf5\xb0\xaeJb\x1e\xd7?'
+p749
+tp750
+Rp751
+tp752
+a(S'james tanton'
+p753
+g2
+(g6
+S'\xb6/\x93\x18\xc0\x1d\xd7?'
+p754
+tp755
+Rp756
+tp757
+a(S'polish school of mathematics'
+p758
+g2
+(g6
+S'\xf8z&\xcd/\x14\xd7?'
+p759
+tp760
+Rp761
+tp762
+a(S'mara neusel'
+p763
+g2
+(g6
+S'h\x9c\n\x9c\xb2\x11\xd7?'
+p764
+tp765
+Rp766
+tp767
+a(S'core-plus mathematics project'
+p768
+g2
+(g6
+S'\xcd\x1c\xa0\xf7\xac\x0e\xd7?'
+p769
+tp770
+Rp771
+tp772
+a(S'otto toeplitz'
+p773
+g2
+(g6
+S'\xd5|\xd5\xd6\x98\x08\xd7?'
+p774
+tp775
+Rp776
+tp777
+a(S'paul benacerraf'
+p778
+g2
+(g6
+S'\xcb\xdf\x1b\xd0a\xf2\xd6?'
+p779
+tp780
+Rp781
+tp782
+a(S'mathpath'
+p783
+g2
+(g6
+S'Cm)Qy\xec\xd6?'
+p784
+tp785
+Rp786
+tp787
+a(S'mathematics education in the united states'
+p788
+g2
+(g6
+S'\x17\xbc\xa7e\xa2\xe8\xd6?'
+p789
+tp790
+Rp791
+tp792
+a(S'chinese mathematics'
+p793
+g2
+(g6
+S'1\xc3\x0e\x188\xe6\xd6?'
+p794
+tp795
+Rp796
+tp797
+a(S'jouko v\xc3\xa4\xc3\xa4n\xc3\xa4nen'
+p798
+g2
+(g6
+S'\xdf\x8a\x17)\xc2\xe1\xd6?'
+p799
+tp800
+Rp801
+tp802
+a(S'mizar system'
+p803
+g2
+(g6
+S'\x03D\xdd\x94T\xc9\xd6?'
+p804
+tp805
+Rp806
+tp807
+a(S'thomas tymoczko'
+p808
+g2
+(g6
+S'\x89jV\x83\x9f\xc0\xd6?'
+p809
+tp810
+Rp811
+tp812
+a(S'metatheorem'
+p813
+g2
+(g6
+S'\xce\xa4AV\xc4\xaf\xd6?'
+p814
+tp815
+Rp816
+tp817
+a(S'mathematics in education and industry'
+p818
+g2
+(g6
+S'\xff\xcc\x83\x03\xf7\x98\xd6?'
+p819
+tp820
+Rp821
+tp822
+a(S'george p\xc3\xb3lya'
+p823
+g2
+(g6
+S'\xd6\x92R\xa1l\x98\xd6?'
+p824
+tp825
+Rp826
+tp827
+a(S'mathematical folklore'
+p828
+g2
+(g6
+S'\x8b\xe2\xfe\xd8<\x93\xd6?'
+p829
+tp830
+Rp831
+tp832
+a(S'logic'
+p833
+g2
+(g6
+S']ze\x82\x90\x91\xd6?'
+p834
+tp835
+Rp836
+tp837
+a(S'abstraction (mathematics)'
+p838
+g2
+(g6
+S'\xfd\x99g\x9fN\x8f\xd6?'
+p839
+tp840
+Rp841
+tp842
+a(S'paul glaister'
+p843
+g2
+(g6
+S'\xf0\xcbw^Q\x87\xd6?'
+p844
+tp845
+Rp846
+tp847
+a(S'unreasonable ineffectiveness of mathematics'
+p848
+g2
+(g6
+S'\xcfT\t/\x1b\x7f\xd6?'
+p849
+tp850
+Rp851
+tp852
+a(S'richard g. brown'
+p853
+g2
+(g6
+S'\xee\x06,\xeb\xa9~\xd6?'
+p854
+tp855
+Rp856
+tp857
+a(S'joel david hamkins'
+p858
+g2
+(g6
+S'p\xa9\x8e\xd5\x0cu\xd6?'
+p859
+tp860
+Rp861
+tp862
+a(S'morris kline'
+p863
+g2
+(g6
+S'\x8e\x9c( \xa2t\xd6?'
+p864
+tp865
+Rp866
+tp867
+a(S'international commission on mathematical instruction'
+p868
+g2
+(g6
+S'Ya\xd3h\x9fs\xd6?'
+p869
+tp870
+Rp871
+tp872
+a(S'mathematics subject classification'
+p873
+g2
+(g6
+S'g\x91\x1b2\x05p\xd6?'
+p874
+tp875
+Rp876
+tp877
+a(S'fundamenta mathematicae'
+p878
+g2
+(g6
+S'\xa2\x15<\xa1(g\xd6?'
+p879
+tp880
+Rp881
+tp882
+a(S'sheldon axler'
+p883
+g2
+(g6
+S'\x1b\xc9E\xd2K=\xd6?'
+p884
+tp885
+Rp886
+tp887
+a(S'luis davidson san juan'
+p888
+g2
+(g6
+S'\xfcU\xf3\x0b\x10<\xd6?'
+p889
+tp890
+Rp891
+tp892
+a(S'structuralism (philosophy of mathematics)'
+p893
+g2
+(g6
+S'\x8d\xe6"\xa2P9\xd6?'
+p894
+tp895
+Rp896
+tp897
+a(S'william lawvere'
+p898
+g2
+(g6
+S'._bj\x06/\xd6?'
+p899
+tp900
+Rp901
+tp902
+a(S'mary p. dolciani'
+p903
+g2
+(g6
+S'\x9c#5\x9a\x06.\xd6?'
+p904
+tp905
+Rp906
+tp907
+a(S'conference board of the mathematical sciences'
+p908
+g2
+(g6
+S'Q\xe4fm\xb4-\xd6?'
+p909
+tp910
+Rp911
+tp912
+a(S'school mathematics study group'
+p913
+g2
+(g6
+S'\xd4\xadM\xd2m*\xd6?'
+p914
+tp915
+Rp916
+tp917
+a(S'first-order logic'
+p918
+g2
+(g6
+S'\xcd\x1f\xf4\x02\x7f#\xd6?'
+p919
+tp920
+Rp921
+tp922
+a(S'frank j. ayres'
+p923
+g2
+(g6
+S'\xee\xab\xf0\xbcm!\xd6?'
+p924
+tp925
+Rp926
+tp927
+a(S'national council of teachers of mathematics'
+p928
+g2
+(g6
+S'Ye\xee\xd9\x92\x16\xd6?'
+p929
+tp930
+Rp931
+tp932
+a(S'michiel hazewinkel'
+p933
+g2
+(g6
+S'\x0f\xc5\x9a\xb6\xbe\x15\xd6?'
+p934
+tp935
+Rp936
+tp937
+a(S'mereology'
+p938
+g2
+(g6
+S'd\x8a\xbed\xde\x10\xd6?'
+p939
+tp940
+Rp941
+tp942
+a(S'khanindra chandra chowdhury'
+p943
+g2
+(g6
+S'ft\x83\x17\x1a\x0c\xd6?'
+p944
+tp945
+Rp946
+tp947
+a(S'tony gardiner'
+p948
+g2
+(g6
+S'r\xaf#\x95\x9e\x06\xd6?'
+p949
+tp950
+Rp951
+tp952
+a(S'dimiter skordev'
+p953
+g2
+(g6
+S'\x03\xd4x!O\x03\xd6?'
+p954
+tp955
+Rp956
+tp957
+a(S'david corfield'
+p958
+g2
+(g6
+S'\x18\x19\xbd\xd2\xe0\xff\xd5?'
+p959
+tp960
+Rp961
+tp962
+a(S'australian association of mathematics teachers'
+p963
+g2
+(g6
+S'r\xbd\xf0i\xa3\xff\xd5?'
+p964
+tp965
+Rp966
+tp967
+a(S'carl b. allendoerfer'
+p968
+g2
+(g6
+S'\xd3@\xdd\x91z\xfe\xd5?'
+p969
+tp970
+Rp971
+tp972
+a(S'weinan e'
+p973
+g2
+(g6
+S'\xbd\xb1\xd9\x9c\x14\xfc\xd5?'
+p974
+tp975
+Rp976
+tp977
+a(S'glenda lappan'
+p978
+g2
+(g6
+S'\x89{-E\x02\xf3\xd5?'
+p979
+tp980
+Rp981
+tp982
+a(S'james franklin (philosopher)'
+p983
+g2
+(g6
+S't\xdd\xa7\xdf\x04\xea\xd5?'
+p984
+tp985
+Rp986
+tp987
+a(S'matthias schirn'
+p988
+g2
+(g6
+S'\x84\x02\x96<P\xe4\xd5?'
+p989
+tp990
+Rp991
+tp992
+a(S'william g. mccallum'
+p993
+g2
+(g6
+S'\xc6\xf4]\x11\x16\xcd\xd5?'
+p994
+tp995
+Rp996
+tp997
+a(S'revolutions in mathematics'
+p998
+g2
+(g6
+S'C\xfeP\xe0\t\xcd\xd5?'
+p999
+tp1000
+Rp1001
+tp1002
+a(S'reverse mathematics'
+p1003
+g2
+(g6
+S'\x1a\xb0\xadj\xb9\xcb\xd5?'
+p1004
+tp1005
+Rp1006
+tp1007
+a(S'steven strogatz'
+p1008
+g2
+(g6
+S'\x16\x03\xf7\xc0\x86\xcb\xd5?'
+p1009
+tp1010
+Rp1011
+tp1012
+a(S'l. e. j. brouwer'
+p1013
+g2
+(g6
+S'\x83>\x81|A\xc6\xd5?'
+p1014
+tp1015
+Rp1016
+tp1017
+a(S'joint policy board for mathematics'
+p1018
+g2
+(g6
+S'\xb4\rg=\x0f\xc6\xd5?'
+p1019
+tp1020
+Rp1021
+tp1022
+a(S'joseph r. shoenfield'
+p1023
+g2
+(g6
+S"\xce\xfe'\\\xc9\xc2\xd5?"
+p1024
+tp1025
+Rp1026
+tp1027
+a(S'gregory kriegsmann'
+p1028
+g2
+(g6
+S'\xae9s\x98I\xc2\xd5?'
+p1029
+tp1030
+Rp1031
+tp1032
+a(S'australian mathematical sciences institute'
+p1033
+g2
+(g6
+S'\xe6\x9f\xd0\x11\x07\xb2\xd5?'
+p1034
+tp1035
+Rp1036
+tp1037
+a(S'miggy biller'
+p1038
+g2
+(g6
+S'\x13 3\xc2\xa2\xb1\xd5?'
+p1039
+tp1040
+Rp1041
+tp1042
+a(S'errett bishop'
+p1043
+g2
+(g6
+S'\x11l5\x16\xec\xaf\xd5?'
+p1044
+tp1045
+Rp1046
+tp1047
+a(S'named set theory'
+p1048
+g2
+(g6
+S'n\xe0\xa27\xd7\xad\xd5?'
+p1049
+tp1050
+Rp1051
+tp1052
+a(S'criticism of non-standard analysis'
+p1053
+g2
+(g6
+S'|w\xc8\xc9.\xa8\xd5?'
+p1054
+tp1055
+Rp1056
+tp1057
+a(S'saunders mac lane'
+p1058
+g2
+(g6
+S'\xb0\xe3A&\xa1\xa7\xd5?'
+p1059
+tp1060
+Rp1061
+tp1062
+a(S'formal system'
+p1063
+g2
+(g6
+S'1XDd\x9b\xa4\xd5?'
+p1064
+tp1065
+Rp1066
+tp1067
+a(S'institute of mathematics'
+p1068
+g2
+(g6
+S'&\xf0\xd5<\x05\x98\xd5?'
+p1069
+tp1070
+Rp1071
+tp1072
+a(S'penelope maddy'
+p1073
+g2
+(g6
+S'U\ne\xbc\x8a\x95\xd5?'
+p1074
+tp1075
+Rp1076
+tp1077
+a(S'history of type theory'
+p1078
+g2
+(g6
+S'\xf6{\x04\xd4\x00\x94\xd5?'
+p1079
+tp1080
+Rp1081
+tp1082
+a(S'applicable mathematics'
+p1083
+g2
+(g6
+S'\xee\xab\xb8A\x1a\x8e\xd5?'
+p1084
+tp1085
+Rp1086
+tp1087
+a(S'glasgow mathematical journal'
+p1088
+g2
+(g6
+S'\xa8\x86Z\x0c\xca\x8c\xd5?'
+p1089
+tp1090
+Rp1091
+tp1092
+a(S'reform mathematics'
+p1093
+g2
+(g6
+S'\x89rJ\xe8\xccz\xd5?'
+p1094
+tp1095
+Rp1096
+tp1097
+a(S'additional mathematics'
+p1098
+g2
+(g6
+S'\xad\xd6)\xe0{x\xd5?'
+p1099
+tp1100
+Rp1101
+tp1102
+a(S'constructive quantum field theory'
+p1103
+g2
+(g6
+S'\xf0,\xddG\xe7w\xd5?'
+p1104
+tp1105
+Rp1106
+tp1107
+a(S'\xce\xa9-consistent theory'
+p1108
+g2
+(g6
+S'\xef/\xae\xde\xd3v\xd5?'
+p1109
+tp1110
+Rp1111
+tp1112
+a(S'faculty of mathematical sciences, alzahra university'
+p1113
+g2
+(g6
+S'\x83\x85\x08\xcbqm\xd5?'
+p1114
+tp1115
+Rp1116
+tp1117
+a(S'naive set theory (book)'
+p1118
+g2
+(g6
+S'M\xf8\xe4T\xa6h\xd5?'
+p1119
+tp1120
+Rp1121
+tp1122
+a(S'alternative set theory'
+p1123
+g2
+(g6
+S'\xf8\x1f\x93RJf\xd5?'
+p1124
+tp1125
+Rp1126
+tp1127
+a(S'florian cajori'
+p1128
+g2
+(g6
+S'<\xa8\x9bw\x0cX\xd5?'
+p1129
+tp1130
+Rp1131
+tp1132
+a(S'alice rogers'
+p1133
+g2
+(g6
+S'|\xeeC\x0b\xfeV\xd5?'
+p1134
+tp1135
+Rp1136
+tp1137
+a(S'british society for the history of mathematics'
+p1138
+g2
+(g6
+S'\x9a\xad;\xf2EV\xd5?'
+p1139
+tp1140
+Rp1141
+tp1142
+a(S'decidability (logic)'
+p1143
+g2
+(g6
+S'\xd4\x84\xd2\x84\xadT\xd5?'
+p1144
+tp1145
+Rp1146
+tp1147
+a(S'hartry field'
+p1148
+g2
+(g6
+S'\x13OJEQT\xd5?'
+p1149
+tp1150
+Rp1151
+tp1152
+a(S'timeline of women in mathematics in the united states'
+p1153
+g2
+(g6
+S'\xe0A\xafElR\xd5?'
+p1154
+tp1155
+Rp1156
+tp1157
+a(S'gregory chaitin'
+p1158
+g2
+(g6
+S'62\xb5\xa1\x96P\xd5?'
+p1159
+tp1160
+Rp1161
+tp1162
+a(S'impredicativity'
+p1163
+g2
+(g6
+S'\xef7\x8c=\x89P\xd5?'
+p1164
+tp1165
+Rp1166
+tp1167
+a(S'law of thought'
+p1168
+g2
+(g6
+S'\x9d\x91!-\x19P\xd5?'
+p1169
+tp1170
+Rp1171
+tp1172
+a(S'principles and standards for school mathematics'
+p1173
+g2
+(g6
+S'!F\xbf\xfaeO\xd5?'
+p1174
+tp1175
+Rp1176
+tp1177
+a(S"benacerraf's identification problem"
+p1178
+g2
+(g6
+S'\xc4\x1a\x996\x1fO\xd5?'
+p1179
+tp1180
+Rp1181
+tp1182
+a(S'peano axioms'
+p1183
+g2
+(g6
+S'\x81\x1d\xa6\x81\xd4=\xd5?'
+p1184
+tp1185
+Rp1186
+tp1187
+a(S'walter warwick sawyer'
+p1188
+g2
+(g6
+S'\xb7\x1eA\x08\x0b=\xd5?'
+p1189
+tp1190
+Rp1191
+tp1192
+a(S'hans hermes'
+p1193
+g2
+(g6
+S'R,\x8c\xc6-5\xd5?'
+p1194
+tp1195
+Rp1196
+tp1197
+a(S'elementary theory'
+p1198
+g2
+(g6
+S'\xd3~\x8b\xa7\xc22\xd5?'
+p1199
+tp1200
+Rp1201
+tp1202
+a(S'graham hilford pollard'
+p1203
+g2
+(g6
+S'\xa9\xe3\xaa\x91K1\xd5?'
+p1204
+tp1205
+Rp1206
+tp1207
+a(S'cointerpretability'
+p1208
+g2
+(g6
+S'8\xe2\xd1\x9d\xb80\xd5?'
+p1209
+tp1210
+Rp1211
+tp1212
+a(S'msu faculty of mechanics and mathematics'
+p1213
+g2
+(g6
+S'Fu\xdd\xffD0\xd5?'
+p1214
+tp1215
+Rp1216
+tp1217
+a(S'steve shnider'
+p1218
+g2
+(g6
+S'\xcf\xffry\xc9,\xd5?'
+p1219
+tp1220
+Rp1221
+tp1222
+a(S'mathematics and the imagination'
+p1223
+g2
+(g6
+S';(\x10\x11\xfd(\xd5?'
+p1224
+tp1225
+Rp1226
+tp1227
+a(S'principia mathematica'
+p1228
+g2
+(g6
+S'"c\x9c\xf4\xb1\'\xd5?'
+p1229
+tp1230
+Rp1231
+tp1232
+a(S'the mathematics educator'
+p1233
+g2
+(g6
+S'\xfa\x82k\x94\xf1%\xd5?'
+p1234
+tp1235
+Rp1236
+tp1237
+a(S'peter koellner'
+p1238
+g2
+(g6
+S'\xa1\xeeHh\x07$\xd5?'
+p1239
+tp1240
+Rp1241
+tp1242
+a(S'raphael m. robinson'
+p1243
+g2
+(g6
+S'O\xf6\xc2\xae\xcf!\xd5?'
+p1244
+tp1245
+Rp1246
+tp1247
+a(S'second-order arithmetic'
+p1248
+g2
+(g6
+S'\x8c\xa4\x0b\x19?\x1e\xd5?'
+p1249
+tp1250
+Rp1251
+tp1252
+a(S'anne sjerp troelstra'
+p1253
+g2
+(g6
+S']x\xafp\xca\x1b\xd5?'
+p1254
+tp1255
+Rp1256
+tp1257
+a(S'moon duchin'
+p1258
+g2
+(g6
+S'xd"\xeat\x1b\xd5?'
+p1259
+tp1260
+Rp1261
+tp1262
+a(S'mathematical analysis'
+p1263
+g2
+(g6
+S'\xee\xb9\x97\x94a\x15\xd5?'
+p1264
+tp1265
+Rp1266
+tp1267
+a(S'gerhard gentzen'
+p1268
+g2
+(g6
+S'\x00\xb5\x94\x97\x06\x0e\xd5?'
+p1269
+tp1270
+Rp1271
+tp1272
+a(S'mathematics education in the united kingdom'
+p1273
+g2
+(g6
+S'e\x80r\x1d\x9e\x0b\xd5?'
+p1274
+tp1275
+Rp1276
+tp1277
+a(S'the unreasonable effectiveness of mathematics in the natural sciences'
+p1278
+g2
+(g6
+S'w\x93\x89M\x06\t\xd5?'
+p1279
+tp1280
+Rp1281
+tp1282
+a(S'mathematical problem'
+p1283
+g2
+(g6
+S'<2E\x9bM\x06\xd5?'
+p1284
+tp1285
+Rp1286
+tp1287
+a(S'further mathematics'
+p1288
+g2
+(g6
+S'\x02\x19\xc7\x01\x93\x02\xd5?'
+p1289
+tp1290
+Rp1291
+tp1292
+a(S'michael makkai'
+p1293
+g2
+(g6
+S'\xf3S\xc6\x1d\x17\xfd\xd4?'
+p1294
+tp1295
+Rp1296
+tp1297
+a(S'izvestiya: mathematics'
+p1298
+g2
+(g6
+S"\xc1j\xc1'\x98\xfb\xd4?"
+p1299
+tp1300
+Rp1301
+tp1302
+a(S'university of toronto department of mathematics'
+p1303
+g2
+(g6
+S'fP\x1a#\xd7\xf9\xd4?'
+p1304
+tp1305
+Rp1306
+tp1307
+a(S'thomas jech'
+p1308
+g2
+(g6
+S'P\xc3\xb3\xc7:\xf0\xd4?'
+p1309
+tp1310
+Rp1311
+tp1312
+a(S'entscheidungsproblem'
+p1313
+g2
+(g6
+S'\t\xb5\x0fW\xdc\xed\xd4?'
+p1314
+tp1315
+Rp1316
+tp1317
+a(S'kazimierz kuratowski'
+p1318
+g2
+(g6
+S'\x93\xb1\xc3\xdc\x18\xe5\xd4?'
+p1319
+tp1320
+Rp1321
+tp1322
+a(S'sergey yablonsky'
+p1323
+g2
+(g6
+S'^\xb9\xcd\x04Y\xe3\xd4?'
+p1324
+tp1325
+Rp1326
+tp1327
+a(S'lee albert rubel'
+p1328
+g2
+(g6
+S'\x81&\xa66\x94\xd5\xd4?'
+p1329
+tp1330
+Rp1331
+tp1332
+a(S'dikran tahta'
+p1333
+g2
+(g6
+S'\xac\xd1D\x1c(\xd4\xd4?'
+p1334
+tp1335
+Rp1336
+tp1337
+a(S'daniel allcock'
+p1338
+g2
+(g6
+S'\xc7\xca\x98\x1d\x0f\xd0\xd4?'
+p1339
+tp1340
+Rp1341
+tp1342
+a(S'philosophy of logic'
+p1343
+g2
+(g6
+S'\xfc\x94\x92A\xba\xbe\xd4?'
+p1344
+tp1345
+Rp1346
+tp1347
+a(S'bharath sriraman'
+p1348
+g2
+(g6
+S'\xfaD:\xea\x08\xbb\xd4?'
+p1349
+tp1350
+Rp1351
+tp1352
+a(S"g\xc3\xb6del's completeness theorem"
+p1353
+g2
+(g6
+S'k\xb8\xc0S\xa6\xb8\xd4?'
+p1354
+tp1355
+Rp1356
+tp1357
+a(S'gesellschaft f\xc3\xbcr didaktik der mathematik'
+p1358
+g2
+(g6
+S'&\x95\xd2`\x80\xb8\xd4?'
+p1359
+tp1360
+Rp1361
+tp1362
+a(S'preintuitionism'
+p1363
+g2
+(g6
+S'\\j\xedB\xb5\xb7\xd4?'
+p1364
+tp1365
+Rp1366
+tp1367
+a(S'murray s. klamkin'
+p1368
+g2
+(g6
+S'\xd9\x9e\xf5\x8f\x0f\xb5\xd4?'
+p1369
+tp1370
+Rp1371
+tp1372
+a(S'mathematics and art'
+p1373
+g2
+(g6
+S'\x1c\x82\xebJ>\xb1\xd4?'
+p1374
+tp1375
+Rp1376
+tp1377
+a(S'paradoxes of set theory'
+p1378
+g2
+(g6
+S'\xd4i\xb2\x9f\xfd\xa9\xd4?'
+p1379
+tp1380
+Rp1381
+tp1382
+a(S'robert osserman'
+p1383
+g2
+(g6
+S'\x83g\xa7\x9b\xf8\xa5\xd4?'
+p1384
+tp1385
+Rp1386
+tp1387
+a(S'kathleen adebola okikiolu'
+p1388
+g2
+(g6
+S'\xef\x9a*`\xa7\x9e\xd4?'
+p1389
+tp1390
+Rp1391
+tp1392
+a(S'ingrid daubechies'
+p1393
+g2
+(g6
+S'\x02D\xc3[\x9a\x9c\xd4?'
+p1394
+tp1395
+Rp1396
+tp1397
+a(S'jonathan borwein'
+p1398
+g2
+(g6
+S'X\x8a\xd4!/\x9c\xd4?'
+p1399
+tp1400
+Rp1401
+tp1402
+a(S'mathematical society of the philippines'
+p1403
+g2
+(g6
+S'\x82\x0f\x8a\xfcF\x98\xd4?'
+p1404
+tp1405
+Rp1406
+tp1407
+a(S'harold edwards (mathematician)'
+p1408
+g2
+(g6
+S' \xa2=\xe8P\x97\xd4?'
+p1409
+tp1410
+Rp1411
+tp1412
+a(S'euclidean geometry'
+p1413
+g2
+(g6
+S'h\x0b\xab\xf3\x18\x91\xd4?'
+p1414
+tp1415
+Rp1416
+tp1417
+a(S'dominique de caen'
+p1418
+g2
+(g6
+S'$\xcc\xde\xb2]\x8d\xd4?'
+p1419
+tp1420
+Rp1421
+tp1422
+a(S'computational mathematics'
+p1423
+g2
+(g6
+S'\x1e\x96?Kz\x8a\xd4?'
+p1424
+tp1425
+Rp1426
+tp1427
+a(S'secondary school mathematics curriculum improvement study'
+p1428
+g2
+(g6
+S'\x91\xf0\xb3\x91\xca\x86\xd4?'
+p1429
+tp1430
+Rp1431
+tp1432
+a(S'edward burger'
+p1433
+g2
+(g6
+S'\xd5\xd4\x97P\x15\x85\xd4?'
+p1434
+tp1435
+Rp1436
+tp1437
+a(S'robin wilson (mathematician)'
+p1438
+g2
+(g6
+S'u\x8b\x04\xc9o\x83\xd4?'
+p1439
+tp1440
+Rp1441
+tp1442
+a(S'floyd williams'
+p1443
+g2
+(g6
+S'\xa4\x17\xca\xdd\xa2\x81\xd4?'
+p1444
+tp1445
+Rp1446
+tp1447
+a(S'alexey stakhov'
+p1448
+g2
+(g6
+S',I\xcb\xc8\x96|\xd4?'
+p1449
+tp1450
+Rp1451
+tp1452
+a(S'kenneth i. gross'
+p1453
+g2
+(g6
+S'\xb4\xb6\x11\x07\x94u\xd4?'
+p1454
+tp1455
+Rp1456
+tp1457
+a(S'faculty of mathematics, university of cambridge'
+p1458
+g2
+(g6
+S'P\xf9\xb4\xafdu\xd4?'
+p1459
+tp1460
+Rp1461
+tp1462
+a(S'pavel etingof'
+p1463
+g2
+(g6
+S'*\xd5\x9c-bt\xd4?'
+p1464
+tp1465
+Rp1466
+tp1467
+a(S'philosophy of mathematics education journal'
+p1468
+g2
+(g6
+S'\xaa\xd1\x08,ns\xd4?'
+p1469
+tp1470
+Rp1471
+tp1472
+a(S'double-negation translation'
+p1473
+g2
+(g6
+S']\xb9*3\xd5q\xd4?'
+p1474
+tp1475
+Rp1476
+tp1477
+a(S'primitive notion'
+p1478
+g2
+(g6
+S'\xc1\xf9\xec[gq\xd4?'
+p1479
+tp1480
+Rp1481
+tp1482
+a(S'myhailo yadrenko'
+p1483
+g2
+(g6
+S'U\xf5\xe7I[p\xd4?'
+p1484
+tp1485
+Rp1486
+tp1487
+a(S'theory of everything'
+p1488
+g2
+(g6
+S'i\xb3\x1c\xbc$m\xd4?'
+p1489
+tp1490
+Rp1491
+tp1492
+a(S'joseph ehrenfried hofmann'
+p1493
+g2
+(g6
+S'I\xd1\xc9\xde\xc9c\xd4?'
+p1494
+tp1495
+Rp1496
+tp1497
+a(S'zermelo\xe2\x80\x93fraenkel set theory'
+p1498
+g2
+(g6
+S'\x91\x9d\xad\x0e=c\xd4?'
+p1499
+tp1500
+Rp1501
+tp1502
+a(S'sediq afghan'
+p1503
+g2
+(g6
+S'$\x08x\x8d\xf7`\xd4?'
+p1504
+tp1505
+Rp1506
+tp1507
+a(S'siberian mathematical journal'
+p1508
+g2
+(g6
+S'\xbf\xa6\xe6\xda\xba^\xd4?'
+p1509
+tp1510
+Rp1511
+tp1512
+a.

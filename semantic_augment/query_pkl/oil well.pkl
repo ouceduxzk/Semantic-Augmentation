@@ -1,0 +1,2728 @@
+(lp0
+(S'oil well'
+p1
+cnumpy.core.multiarray
+scalar
+p2
+(cnumpy
+dtype
+p3
+(S'f8'
+p4
+I0
+I1
+tp5
+Rp6
+(I3
+S'<'
+p7
+NNNI-1
+I-1
+I0
+tp8
+bS'\xfc\xff\xff\xff\xff\xff\xef?'
+p9
+tp10
+Rp11
+tp12
+a(S'extraction of petroleum'
+p13
+g2
+(g6
+S'\xb1\xb2\x81IQ.\xe3?'
+p14
+tp15
+Rp16
+tp17
+a(S'directional drilling'
+p18
+g2
+(g6
+S'M\x95\x9b\xc7!\xb3\xe2?'
+p19
+tp20
+Rp21
+tp22
+a(S'history of the petroleum industry in canada'
+p23
+g2
+(g6
+S'Z\xb1w>\xbfM\xe2?'
+p24
+tp25
+Rp26
+tp27
+a(S'history of the petroleum industry in canada (frontier exploration and development)'
+p28
+g2
+(g6
+S'\xd1b\xe7=\xc0<\xe2?'
+p29
+tp30
+Rp31
+tp32
+a(S'history of the petroleum industry in the united states'
+p33
+g2
+(g6
+S'Ku\xc1\xd2\xd0)\xe2?'
+p34
+tp35
+Rp36
+tp37
+a(S'national iranian drilling company'
+p38
+g2
+(g6
+S'\xf3s\x0e\x94,\xf8\xe1?'
+p39
+tp40
+Rp41
+tp42
+a(S'spraberry trend'
+p43
+g2
+(g6
+S'a\xfd\xc4P\xeb\xd8\xe1?'
+p44
+tp45
+Rp46
+tp47
+a(S'offshore drilling'
+p48
+g2
+(g6
+S'V\x95\x8c\xcd@\x9a\xe1?'
+p49
+tp50
+Rp51
+tp52
+a(S'age of oil'
+p53
+g2
+(g6
+S'\xc3N\x024\x8c\x8e\xe1?'
+p54
+tp55
+Rp56
+tp57
+a(S'drilling rig'
+p58
+g2
+(g6
+S'\t\x9e\xe8\r\xda\x10\xe1?'
+p59
+tp60
+Rp61
+tp62
+a(S'petroleum reservoir'
+p63
+g2
+(g6
+S'\xbf\xc9<x\xfe\t\xe1?'
+p64
+tp65
+Rp66
+tp67
+a(S'salt lake oil field'
+p68
+g2
+(g6
+S'\x10\xd5y\x0e\xa2\x03\xe1?'
+p69
+tp70
+Rp71
+tp72
+a(S'darwin bank'
+p73
+g2
+(g6
+S'( \\\xd3\xed\xb8\xe0?'
+p74
+tp75
+Rp76
+tp77
+a(S'east texas oil field'
+p78
+g2
+(g6
+S'6(D\x9b\xe9\xb3\xe0?'
+p79
+tp80
+Rp81
+tp82
+a(S'petroleum industry in ohio'
+p83
+g2
+(g6
+S'\x85y\xc4f\xe4\xa1\xe0?'
+p84
+tp85
+Rp86
+tp87
+a(S'california oil and gas industry'
+p88
+g2
+(g6
+S'%v\xfa>\xfb\x87\xe0?'
+p89
+tp90
+Rp91
+tp92
+a(S'globalsantafe corporation'
+p93
+g2
+(g6
+S'\x93\x86h\xfe \x81\xe0?'
+p94
+tp95
+Rp96
+tp97
+a(S'oil field'
+p98
+g2
+(g6
+S'y\x9c(\x8d\x95m\xe0?'
+p99
+tp100
+Rp101
+tp102
+a(S'offshore drilling on the atlantic coast of the united states'
+p103
+g2
+(g6
+S'\x13\x8c\xf8\xdb\x87l\xe0?'
+p104
+tp105
+Rp106
+tp107
+a(S'petroleum industry in azerbaijan'
+p108
+g2
+(g6
+S'\xff\x9b$\x7f#f\xe0?'
+p109
+tp110
+Rp111
+tp112
+a(S'water well'
+p113
+g2
+(g6
+S'.oYZ\xe9]\xe0?'
+p114
+tp115
+Rp116
+tp117
+a(S'deepwater drilling'
+p118
+g2
+(g6
+S':\xbcPO\xc3X\xe0?'
+p119
+tp120
+Rp121
+tp122
+a(S'offshore oil and gas in the gulf of mexico (united states)'
+p123
+g2
+(g6
+S'\xa0u\xc6$\xd87\xe0?'
+p124
+tp125
+Rp126
+tp127
+a(S'oklahoma city discovery well'
+p128
+g2
+(g6
+S'0q/\xbf.(\xe0?'
+p129
+tp130
+Rp131
+tp132
+a(S'oil in place'
+p133
+g2
+(g6
+S'\x0fI\xe1,P\x00\xe0?'
+p134
+tp135
+Rp136
+tp137
+a(S'south mountain oil field'
+p138
+g2
+(g6
+S'\xf1\xbd\r\x05\xf1\xfd\xdf?'
+p139
+tp140
+Rp141
+tp142
+a(S'petroleum industry'
+p143
+g2
+(g6
+S'\xa2\xe4\xd6+\xc4\xd4\xdf?'
+p144
+tp145
+Rp146
+tp147
+a(S'glossary of oilfield jargon'
+p148
+g2
+(g6
+S'Ni\x10i\x88\xb9\xdf?'
+p149
+tp150
+Rp151
+tp152
+a(S'extended reach drilling'
+p153
+g2
+(g6
+S'\xb3nn\xe5\x94\xac\xdf?'
+p154
+tp155
+Rp156
+tp157
+a(S'china national petroleum corporation'
+p158
+g2
+(g6
+S'm=\xd9\xb7\x88\x9b\xdf?'
+p159
+tp160
+Rp161
+tp162
+a(S'offshore oil and gas in the united states'
+p163
+g2
+(g6
+S'C\x14\xf8\xef\x94{\xdf?'
+p164
+tp165
+Rp166
+tp167
+a(S'cat canyon oil field'
+p168
+g2
+(g6
+S'~\xcfg\xdc\xb3S\xdf?'
+p169
+tp170
+Rp171
+tp172
+a(S'petroleum'
+p173
+g2
+(g6
+S'\x96\x0c,\x08\xf3;\xdf?'
+p174
+tp175
+Rp176
+tp177
+a(S'beverly hills oil field'
+p178
+g2
+(g6
+S'\\\xdb#L\xfa2\xdf?'
+p179
+tp180
+Rp181
+tp182
+a(S'south cuyama oil field'
+p183
+g2
+(g6
+S'i\x88\x12&@,\xdf?'
+p184
+tp185
+Rp186
+tp187
+a(S'oil and gas industry in the united kingdom'
+p188
+g2
+(g6
+S'\x14\x978u\xee\x1a\xdf?'
+p189
+tp190
+Rp191
+tp192
+a(S'underbalanced drilling'
+p193
+g2
+(g6
+S'\xc1\xcaxb\xae\xe6\xde?'
+p194
+tp195
+Rp196
+tp197
+a(S'greka'
+p198
+g2
+(g6
+S'@_B\xde9\xe3\xde?'
+p199
+tp200
+Rp201
+tp202
+a(S'offshore oil and gas in california'
+p203
+g2
+(g6
+S'\xfe=\x1cS)\xcc\xde?'
+p204
+tp205
+Rp206
+tp207
+a(S'petroleum in the united states'
+p208
+g2
+(g6
+S'\x84Xy\xda\xcc\xca\xde?'
+p209
+tp210
+Rp211
+tp212
+a(S'semitropic oil field'
+p213
+g2
+(g6
+S'H\xbc\x1c\xa6\x1c\xbe\xde?'
+p214
+tp215
+Rp216
+tp217
+a(S'blowout (well drilling)'
+p218
+g2
+(g6
+S'\xe0o@v\x83\xb4\xde?'
+p219
+tp220
+Rp221
+tp222
+a(S'drilling fluid'
+p223
+g2
+(g6
+S'I]Fr\x06\xb3\xde?'
+p224
+tp225
+Rp226
+tp227
+a(S'oseberg east'
+p228
+g2
+(g6
+S'^n[\x88-\xa4\xde?'
+p229
+tp230
+Rp231
+tp232
+a(S'oil and gas law in the united states'
+p233
+g2
+(g6
+S'\x8eo\xa0x\xf9\xa0\xde?'
+p234
+tp235
+Rp236
+tp237
+a(S'wattenberg gas field'
+p238
+g2
+(g6
+S'\xa0\x9d\x92\xd45\x9f\xde?'
+p239
+tp240
+Rp241
+tp242
+a(S'buchan oil field'
+p243
+g2
+(g6
+S'\xa8\xff\x07\xeap\x85\xde?'
+p244
+tp245
+Rp246
+tp247
+a(S'enhanced oil recovery'
+p248
+g2
+(g6
+S'\x93\x9c\x12\xd5+c\xde?'
+p249
+tp250
+Rp251
+tp252
+a(S'arctic refuge drilling controversy'
+p253
+g2
+(g6
+S'\x05\xb5\xc7\x18\xafX\xde?'
+p254
+tp255
+Rp256
+tp257
+a(S'petroleum industry in canada'
+p258
+g2
+(g6
+S'1c\x87\xbbjW\xde?'
+p259
+tp260
+Rp261
+tp262
+a(S'drilling engineering'
+p263
+g2
+(g6
+S'\x18T\x9c]\xa71\xde?'
+p264
+tp265
+Rp266
+tp267
+a(S'offshore oil spill prevention and response'
+p268
+g2
+(g6
+S'\x07m\xc9\xf2N)\xde?'
+p269
+tp270
+Rp271
+tp272
+a(S'aliso canyon oil field'
+p273
+g2
+(g6
+S'4\x04\xa0\x18\xbb\x14\xde?'
+p274
+tp275
+Rp276
+tp277
+a(S'big muddy oil field'
+p278
+g2
+(g6
+S'!\xbe\x0f<B\x13\xde?'
+p279
+tp280
+Rp281
+tp282
+a(S'harding oilfield'
+p283
+g2
+(g6
+S'\x8eZjST\xe6\xdd?'
+p284
+tp285
+Rp286
+tp287
+a(S'los angeles city oil field'
+p288
+g2
+(g6
+S'^\x8b\x81\x95i\xaf\xdd?'
+p289
+tp290
+Rp291
+tp292
+a(S'hydrocarbon exploration'
+p293
+g2
+(g6
+S'AI\xb3 \xda\x80\xdd?'
+p294
+tp295
+Rp296
+tp297
+a(S'united states offshore drilling debate'
+p298
+g2
+(g6
+S'\xbb\xf1\xee\x1b\x99X\xdd?'
+p299
+tp300
+Rp301
+tp302
+a(S't\xc3\xbcrkiye petrolleri anonim ortakl\xc4\xb1\xc4\x9f\xc4\xb1'
+p303
+g2
+(g6
+S'\x06\xd8\xff!pB\xdd?'
+p304
+tp305
+Rp306
+tp307
+a(S'coiled tubing drilling'
+p308
+g2
+(g6
+S'`\x95\x9a<\x070\xdd?'
+p309
+tp310
+Rp311
+tp312
+a(S'history of oil in california through 1930'
+p313
+g2
+(g6
+S"\xe4\x89\x1a%\xbd'\xdd?"
+p314
+tp315
+Rp316
+tp317
+a(S'wellhead'
+p318
+g2
+(g6
+S'\x844\xeb\xa6\xcc\x1d\xdd?'
+p319
+tp320
+Rp321
+tp322
+a(S'1969 santa barbara oil spill'
+p323
+g2
+(g6
+S'\x7f\x87\xa2K:\x14\xdd?'
+p324
+tp325
+Rp326
+tp327
+a(S'dos cuadras offshore oil field'
+p328
+g2
+(g6
+S'\xa5+Rz\x8c\x13\xdd?'
+p329
+tp330
+Rp331
+tp332
+a(S'pennsylvania oil rush'
+p333
+g2
+(g6
+S'\x9c>\x83\xc0`\x13\xdd?'
+p334
+tp335
+Rp336
+tp337
+a(S'saltpond oil field'
+p338
+g2
+(g6
+S'\xfe\x16\x8f>\xbb\x10\xdd?'
+p339
+tp340
+Rp341
+tp342
+a(S'lost hills oil field'
+p343
+g2
+(g6
+S'\x1b\x07\x81\x8f{\x0e\xdd?'
+p344
+tp345
+Rp346
+tp347
+a(S'snake wells'
+p348
+g2
+(g6
+S'\x0fL\xd3\xf4\x8e\xdb\xdc?'
+p349
+tp350
+Rp351
+tp352
+a(S'oil-based mud'
+p353
+g2
+(g6
+S'\xe2\x92V\xb5\xd0\xa6\xdc?'
+p354
+tp355
+Rp356
+tp357
+a(S'natural gas field'
+p358
+g2
+(g6
+S'\x12Cbfr\x9b\xdc?'
+p359
+tp360
+Rp361
+tp362
+a(S'umid gas field'
+p363
+g2
+(g6
+S'\xfe\xca\x08\x0eY\x99\xdc?'
+p364
+tp365
+Rp366
+tp367
+a(S'national iranian oil company'
+p368
+g2
+(g6
+S'\xf6\x94\xf7v\xf6\x91\xdc?'
+p369
+tp370
+Rp371
+tp372
+a(S'oseberg oil field'
+p373
+g2
+(g6
+S'\xd0\x1d\x99\x92\xca\x8a\xdc?'
+p374
+tp375
+Rp376
+tp377
+a(S'oil platform'
+p378
+g2
+(g6
+S':e\xec\xf2-|\xdc?'
+p379
+tp380
+Rp381
+tp382
+a(S'zaca oil field'
+p383
+g2
+(g6
+S'\x08\x044!b{\xdc?'
+p384
+tp385
+Rp386
+tp387
+a(S'oxnard oil field'
+p388
+g2
+(g6
+S'\xa0\x0fA\xc5\x86n\xdc?'
+p389
+tp390
+Rp391
+tp392
+a(S'honor rancho oil field'
+p393
+g2
+(g6
+S'd\xdcl\xca\xfci\xdc?'
+p394
+tp395
+Rp396
+tp397
+a(S'peak oil'
+p398
+g2
+(g6
+S'\x14+\x04\x0b\x93Q\xdc?'
+p399
+tp400
+Rp401
+tp402
+a(S'oeid'
+p403
+g2
+(g6
+S'\x06\x9b\xacy\x8fE\xdc?'
+p404
+tp405
+Rp406
+tp407
+a(S'ixtoc i oil spill'
+p408
+g2
+(g6
+S'L\r\x15\xf6\xd3>\xdc?'
+p409
+tp410
+Rp411
+tp412
+a(S'stripper well'
+p413
+g2
+(g6
+S'\x01\xa5\xf9\rw>\xdc?'
+p414
+tp415
+Rp416
+tp417
+a(S'russell ranch oil field'
+p418
+g2
+(g6
+S'\xae\x02)\x13\xd75\xdc?'
+p419
+tp420
+Rp421
+tp422
+a(S'list of companies listed on oslo axess'
+p423
+g2
+(g6
+S'\xd14pC^5\xdc?'
+p424
+tp425
+Rp426
+tp427
+a(S'meged oil field'
+p428
+g2
+(g6
+S'\xf1\xdd3\x87O#\xdc?'
+p429
+tp430
+Rp431
+tp432
+a(S'history of the petroleum industry'
+p433
+g2
+(g6
+S'1sg\xd4\xdf\xf8\xdb?'
+p434
+tp435
+Rp436
+tp437
+a(S'north sea oil'
+p438
+g2
+(g6
+S'\x18#\xdfx\xb0\xd7\xdb?'
+p439
+tp440
+Rp441
+tp442
+a(S'mesa oil field'
+p443
+g2
+(g6
+S'\xdb\xa6{\x0fG\xd7\xdb?'
+p444
+tp445
+Rp446
+tp447
+a(S'navitas land and mineral corporation'
+p448
+g2
+(g6
+S'\x92s\xb6G\xf8\xc5\xdb?'
+p449
+tp450
+Rp451
+tp452
+a(S'oil india'
+p453
+g2
+(g6
+S'\x06W\x0f7\x95\xb4\xdb?'
+p454
+tp455
+Rp456
+tp457
+a(S'first oil well in western canada'
+p458
+g2
+(g6
+S'I\xe7jm^\xaf\xdb?'
+p459
+tp460
+Rp461
+tp462
+a(S'rsx energy'
+p463
+g2
+(g6
+S'|\xac5\x10u\x96\xdb?'
+p464
+tp465
+Rp466
+tp467
+a(S'sinvest'
+p468
+g2
+(g6
+S'-\xc3b&\xe7]\xdb?'
+p469
+tp470
+Rp471
+tp472
+a(S'oil production plant'
+p473
+g2
+(g6
+S'\xf4\x8d\xc7\x89AL\xdb?'
+p474
+tp475
+Rp476
+tp477
+a(S'west montalvo oil field'
+p478
+g2
+(g6
+S'\xf2\xf9k7\xa5B\xdb?'
+p479
+tp480
+Rp481
+tp482
+a(S'well drilling'
+p483
+g2
+(g6
+S'\x0c2\x0b\x04\x85/\xdb?'
+p484
+tp485
+Rp486
+tp487
+a(S'nobel oil group'
+p488
+g2
+(g6
+S'!\xb1Q0\x1a#\xdb?'
+p489
+tp490
+Rp491
+tp492
+a(S'leduc no. 1'
+p493
+g2
+(g6
+S'\xc2Z\x84\xad\xb8\x12\xdb?'
+p494
+tp495
+Rp496
+tp497
+a(S'geoservices'
+p498
+g2
+(g6
+S'p{\xed\xda\xd9\x11\xdb?'
+p499
+tp500
+Rp501
+tp502
+a(S'the petroleum trail'
+p503
+g2
+(g6
+S'f\x9eG`\xe8\x08\xdb?'
+p504
+tp505
+Rp506
+tp507
+a(S'andrew oilfield'
+p508
+g2
+(g6
+S'k2\x9c\x80\xb5\x08\xdb?'
+p509
+tp510
+Rp511
+tp512
+a(S'oloibiri oilfield'
+p513
+g2
+(g6
+S'\xa7\xffI\xc8\xde\x04\xdb?'
+p514
+tp515
+Rp516
+tp517
+a(S'oil depletion'
+p518
+g2
+(g6
+S'\x02\x87~\x00\xbc\x02\xdb?'
+p519
+tp520
+Rp521
+tp522
+a(S'foinaven oilfield'
+p523
+g2
+(g6
+S'\x88\xb1C\x03\x81\xed\xda?'
+p524
+tp525
+Rp526
+tp527
+a(S'underreamer'
+p528
+g2
+(g6
+S'\xaa\xcc\xc0\xf5\xa8\xd9\xda?'
+p529
+tp530
+Rp531
+tp532
+a(S'kimmeridge oil field'
+p533
+g2
+(g6
+S'\xb4\xc2\xb5\xf5\x8d\xd9\xda?'
+p534
+tp535
+Rp536
+tp537
+a(S'c.j. simpson drilling company'
+p538
+g2
+(g6
+S'|\x01\x14\xe2\x1f\xce\xda?'
+p539
+tp540
+Rp541
+tp542
+a(S'petroleum politics'
+p543
+g2
+(g6
+S'\x9dv/\x12\x8b\xbc\xda?'
+p544
+tp545
+Rp546
+tp547
+a(S'history of the petroleum industry in canada (oil sands and heavy oil)'
+p548
+g2
+(g6
+S'\x16\x99\xdf\r\xc7\x8b\xda?'
+p549
+tp550
+Rp551
+tp552
+a(S'matvei kapelyushnikov'
+p553
+g2
+(g6
+S'\xc0X\xad\x81\xd4\x86\xda?'
+p554
+tp555
+Rp556
+tp557
+a(S'oil industry in poland'
+p558
+g2
+(g6
+S'f\xab\\\x83Ut\xda?'
+p559
+tp560
+Rp561
+tp562
+a(S'upstream (petroleum industry)'
+p563
+g2
+(g6
+S'2\xe7L\xe9\xddl\xda?'
+p564
+tp565
+Rp566
+tp567
+a(S'eakring'
+p568
+g2
+(g6
+S'R\xfcJ<#h\xda?'
+p569
+tp570
+Rp571
+tp572
+a(S'western canadian sedimentary basin'
+p573
+g2
+(g6
+S'?O\x02t\xe1b\xda?'
+p574
+tp575
+Rp576
+tp577
+a(S'clair oilfield'
+p578
+g2
+(g6
+S'H\r\xf4b\xb7_\xda?'
+p579
+tp580
+Rp581
+tp582
+a(S'steam-assisted gravity drainage'
+p583
+g2
+(g6
+S'\xfa?\xfei\xeaZ\xda?'
+p584
+tp585
+Rp586
+tp587
+a(S'petroleum industry in china'
+p588
+g2
+(g6
+S'\xad*\xc0!\xb8Z\xda?'
+p589
+tp590
+Rp591
+tp592
+a(S'indiana gas boom'
+p593
+g2
+(g6
+S'&\x1eQa\xe8W\xda?'
+p594
+tp595
+Rp596
+tp597
+a(S'washington oil field'
+p598
+g2
+(g6
+S'\xba[Pi0V\xda?'
+p599
+tp600
+Rp601
+tp602
+a(S'jowfe oil technology'
+p603
+g2
+(g6
+S'Y\xf5\xf2)\xd1R\xda?'
+p604
+tp605
+Rp606
+tp607
+a(S'stoneham drilling'
+p608
+g2
+(g6
+S'y=\xe0\xc9\x95G\xda?'
+p609
+tp610
+Rp611
+tp612
+a(S'great south basin'
+p613
+g2
+(g6
+S'\xc5\x96l\x12\x02@\xda?'
+p614
+tp615
+Rp616
+tp617
+a(S'inglewood oil field'
+p618
+g2
+(g6
+S'\xfa\xc1,:\xc0?\xda?'
+p619
+tp620
+Rp621
+tp622
+a(S'oil well control'
+p623
+g2
+(g6
+S'Z\xb0\x10l\xd9>\xda?'
+p624
+tp625
+Rp626
+tp627
+a(S'single steel drilling caisson'
+p628
+g2
+(g6
+S'\x88\xa5\x89\x14\x7f9\xda?'
+p629
+tp630
+Rp631
+tp632
+a(S'yuri korchagin field'
+p633
+g2
+(g6
+S'<\xdc\x943Y9\xda?'
+p634
+tp635
+Rp636
+tp637
+a(S'challenger ltd'
+p638
+g2
+(g6
+S'4;N\x84d8\xda?'
+p639
+tp640
+Rp641
+tp642
+a(S'squaw canyon oil field'
+p643
+g2
+(g6
+S'\x05.~\xf2N"\xda?'
+p644
+tp645
+Rp646
+tp647
+a(S'company man'
+p648
+g2
+(g6
+S'q1\x87\xc8|\x15\xda?'
+p649
+tp650
+Rp651
+tp652
+a(S'aghajari gas injection project'
+p653
+g2
+(g6
+S'\x17d\x9d\xdcO\x15\xda?'
+p654
+tp655
+Rp656
+tp657
+a(S'carbon dioxide flooding'
+p658
+g2
+(g6
+S'\xb0\xd1>\xf2\x05\r\xda?'
+p659
+tp660
+Rp661
+tp662
+a(S'back to work coalition'
+p663
+g2
+(g6
+S'u\x16Z\x90u\t\xda?'
+p664
+tp665
+Rp666
+tp667
+a(S'drake well museum'
+p668
+g2
+(g6
+S'\xf7[\x89Z\x81\x07\xda?'
+p669
+tp670
+Rp671
+tp672
+a(S'scientific drilling'
+p673
+g2
+(g6
+S'&\xb6u-y\x02\xda?'
+p674
+tp675
+Rp676
+tp677
+a(S'mastala'
+p678
+g2
+(g6
+S'\xf6\xb8\x9c\xb6\n\xff\xd9?'
+p679
+tp680
+Rp681
+tp682
+a(S'spindletop'
+p683
+g2
+(g6
+S'\xacC\xdf#a\xf7\xd9?'
+p684
+tp685
+Rp686
+tp687
+a(S'north drilling'
+p688
+g2
+(g6
+S'nI\x15\x87\x7f\xee\xd9?'
+p689
+tp690
+Rp691
+tp692
+a(S'petroleum industry in kenya'
+p693
+g2
+(g6
+S'%)\xceO\xf6\xed\xd9?'
+p694
+tp695
+Rp696
+tp697
+a(S'ocean star offshore drilling rig & museum'
+p698
+g2
+(g6
+S'hH\xbehl\xe3\xd9?'
+p699
+tp700
+Rp701
+tp702
+a(S'edison oil field'
+p703
+g2
+(g6
+S'\x86\xed\xde\xfb^\xe0\xd9?'
+p704
+tp705
+Rp706
+tp707
+a(S'yates oil field'
+p708
+g2
+(g6
+S'\xe9#P\xb2_\xd9\xd9?'
+p709
+tp710
+Rp711
+tp712
+a(S'drilling'
+p713
+g2
+(g6
+S'\xac\xc8\x0e\xc9\xa7\xd6\xd9?'
+p714
+tp715
+Rp716
+tp717
+a(S'dominguez oil field'
+p718
+g2
+(g6
+S'\x1c\xb7\xe3\xe8|\xd0\xd9?'
+p719
+tp720
+Rp721
+tp722
+a(S'mud engineer'
+p723
+g2
+(g6
+S'\x8b\xa0\xc5\xcd:\xcf\xd9?'
+p724
+tp725
+Rp726
+tp727
+a(S'reuben c. baker'
+p728
+g2
+(g6
+S'\xfb\xd1A\x83\xda\xce\xd9?'
+p729
+tp730
+Rp731
+tp732
+a(S'north belridge oil field'
+p733
+g2
+(g6
+S'H\t\x8b/\x01\xc7\xd9?'
+p734
+tp735
+Rp736
+tp737
+a(S'torzym-cybinka oil field'
+p738
+g2
+(g6
+S'\xe9Wi\xceJ\xbc\xd9?'
+p739
+tp740
+Rp741
+tp742
+a(S'nationalization of oil supplies'
+p743
+g2
+(g6
+S'Y\xc7m\xc1\xda\xb1\xd9?'
+p744
+tp745
+Rp746
+tp747
+a(S'baker hughes'
+p748
+g2
+(g6
+S'\x1a\x8f\xd9Y\xd7\xb0\xd9?'
+p749
+tp750
+Rp751
+tp752
+a(S'rjv gas field services'
+p753
+g2
+(g6
+S'\xb4\xf3%_\xe0\xaa\xd9?'
+p754
+tp755
+Rp756
+tp757
+a(S'completion (oil and gas wells)'
+p758
+g2
+(g6
+S'\xda\x95\xe5\xd3_\xa1\xd9?'
+p759
+tp760
+Rp761
+tp762
+a(S'hydraulic fracturing in canada'
+p763
+g2
+(g6
+S'\x02EK7L\x9e\xd9?'
+p764
+tp765
+Rp766
+tp767
+a(S'wild mary sudik'
+p768
+g2
+(g6
+S'`\xe3\xa9!e\x96\xd9?'
+p769
+tp770
+Rp771
+tp772
+a(S'rumaila oil field'
+p773
+g2
+(g6
+S'2D\x068\x92\x87\xd9?'
+p774
+tp775
+Rp776
+tp777
+a(S'measurement while drilling'
+p778
+g2
+(g6
+S'#\xbcsp\xf7\x80\xd9?'
+p779
+tp780
+Rp781
+tp782
+a(S'ministry of oil (iraq)'
+p783
+g2
+(g6
+S'\xff!\xfdM\x9e{\xd9?'
+p784
+tp785
+Rp786
+tp787
+a(S'major drilling group international'
+p788
+g2
+(g6
+S'j\xdc.\xf9Iv\xd9?'
+p789
+tp790
+Rp791
+tp792
+a(S'baytex energy'
+p793
+g2
+(g6
+S'\xc1n\x99\x19\x00k\xd9?'
+p794
+tp795
+Rp796
+tp797
+a(S'produced water'
+p798
+g2
+(g6
+S'\x1e\xe2\xeeO\x89j\xd9?'
+p799
+tp800
+Rp801
+tp802
+a(S'gas well deliquification'
+p803
+g2
+(g6
+S'_\xb4\xc9oja\xd9?'
+p804
+tp805
+Rp806
+tp807
+a(S'chief oil & gas'
+p808
+g2
+(g6
+S'm\xf2\x16uH`\xd9?'
+p809
+tp810
+Rp811
+tp812
+a(S'unconventional oil'
+p813
+g2
+(g6
+S'U\xd4\xecp\xda[\xd9?'
+p814
+tp815
+Rp816
+tp817
+a(S'odfjell drilling'
+p818
+g2
+(g6
+S'\r\xc0/o\xe3T\xd9?'
+p819
+tp820
+Rp821
+tp822
+a(S'oil reserves in iran'
+p823
+g2
+(g6
+S'\xc7\xfe>Y(P\xd9?'
+p824
+tp825
+Rp826
+tp827
+a(S'well test (oil and gas)'
+p828
+g2
+(g6
+S'\x18\x10\x91\xa5\x18J\xd9?'
+p829
+tp830
+Rp831
+tp832
+a(S'parshall oil field'
+p833
+g2
+(g6
+S'\xb6l\x8b|eI\xd9?'
+p834
+tp835
+Rp836
+tp837
+a(S'conasauga shale'
+p838
+g2
+(g6
+S'\x8c\x8d\x18\xd6^C\xd9?'
+p839
+tp840
+Rp841
+tp842
+a(S'coalinga oil field'
+p843
+g2
+(g6
+S'\x1f\x0f\x82\xf9O6\xd9?'
+p844
+tp845
+Rp846
+tp847
+a(S'tight oil'
+p848
+g2
+(g6
+S'\x95\x0f\xef[- \xd9?'
+p849
+tp850
+Rp851
+tp852
+a(S'permanent downhole gauge'
+p853
+g2
+(g6
+S'8\xe9\x02#\xd2\x1b\xd9?'
+p854
+tp855
+Rp856
+tp857
+a(S'albpetrol'
+p858
+g2
+(g6
+S'4.\x06\x18#\x1b\xd9?'
+p859
+tp860
+Rp861
+tp862
+a(S'drillship'
+p863
+g2
+(g6
+S'\xcfs\x08\x18\xd1\x1a\xd9?'
+p864
+tp865
+Rp866
+tp867
+a(S'transocean'
+p868
+g2
+(g6
+S'y\xcbD+7\x13\xd9?'
+p869
+tp870
+Rp871
+tp872
+a(S'mud logging'
+p873
+g2
+(g6
+S'\x85d\x97\xf0\x1a\x0c\xd9?'
+p874
+tp875
+Rp876
+tp877
+a(S'oil well fire'
+p878
+g2
+(g6
+S"m^M\xfd'\x08\xd9?"
+p879
+tp880
+Rp881
+tp882
+a(S'al shaheen oil field'
+p883
+g2
+(g6
+S'\x1f$\xa5\xee\x15\x08\xd9?'
+p884
+tp885
+Rp886
+tp887
+a(S'api well number'
+p888
+g2
+(g6
+S'\xc3\xa0\x96\xa6\xe2\xff\xd8?'
+p889
+tp890
+Rp891
+tp892
+a(S'oil sands'
+p893
+g2
+(g6
+S'5\x0b\xf4\xa8K\xff\xd8?'
+p894
+tp895
+Rp896
+tp897
+a(S'reservoir simulation'
+p898
+g2
+(g6
+S'\xa1\xe7~\xc6\xf5\xfa\xd8?'
+p899
+tp900
+Rp901
+tp902
+a(S'gunashli oilfield'
+p903
+g2
+(g6
+S'ka\x9e\xc2\t\xee\xd8?'
+p904
+tp905
+Rp906
+tp907
+a(S'oil creek state park'
+p908
+g2
+(g6
+S'\x15\x13\xc5\xd8\xe8\xed\xd8?'
+p909
+tp910
+Rp911
+tp912
+a(S'carpinteria offshore oil field'
+p913
+g2
+(g6
+S'\xbe\xc3\x18\x1e0\xec\xd8?'
+p914
+tp915
+Rp916
+tp917
+a(S'tanin gas field'
+p918
+g2
+(g6
+S'\xadGK\xd8\x1d\xeb\xd8?'
+p919
+tp920
+Rp921
+tp922
+a(S'canadian petroleum companies'
+p923
+g2
+(g6
+S'\x81>e\xa2g\xea\xd8?'
+p924
+tp925
+Rp926
+tp927
+a(S'marcellus natural gas trend'
+p928
+g2
+(g6
+S'j\x17\xf8\xd0\xff\xe8\xd8?'
+p929
+tp930
+Rp931
+tp932
+a(S'oil city, pennsylvania'
+p933
+g2
+(g6
+S'\x93\xbde\xba\xa6\xe3\xd8?'
+p934
+tp935
+Rp936
+tp937
+a(S'oil and gas deposits in the czech republic'
+p938
+g2
+(g6
+S'g\x03\xd4\xee0\xe2\xd8?'
+p939
+tp940
+Rp941
+tp942
+a(S'predicting the timing of peak oil'
+p943
+g2
+(g6
+S'\xd0\xca(\xc4I\xde\xd8?'
+p944
+tp945
+Rp946
+tp947
+a(S'petrosa'
+p948
+g2
+(g6
+S'\xa6\xa0\x0c7\xa0\xd0\xd8?'
+p949
+tp950
+Rp951
+tp952
+a(S'reservoir engineering'
+p953
+g2
+(g6
+S'\xd0 \xe1\xfe\xc2\xcd\xd8?'
+p954
+tp955
+Rp956
+tp957
+a(S'efforts to stem the deepwater horizon oil spill'
+p958
+g2
+(g6
+S'\xa8\xa2/\x13\xf6\xc9\xd8?'
+p959
+tp960
+Rp961
+tp962
+a(S'barnett shale'
+p963
+g2
+(g6
+S'\x8b<g\x83\xd1\xc8\xd8?'
+p964
+tp965
+Rp966
+tp967
+a(S'long beach oil field'
+p968
+g2
+(g6
+S'V\xe0\x8a\xd7\x1f\xc8\xd8?'
+p969
+tp970
+Rp971
+tp972
+a(S'lost circulation'
+p973
+g2
+(g6
+S'\x00O\x1au{\xc1\xd8?'
+p974
+tp975
+Rp976
+tp977
+a(S'kern front oil field'
+p978
+g2
+(g6
+S'Qf\xea\xc3u\xb1\xd8?'
+p979
+tp980
+Rp981
+tp982
+a(S'gubkin russian state university of oil and gas'
+p983
+g2
+(g6
+S'A)>:\x82\xaa\xd8?'
+p984
+tp985
+Rp986
+tp987
+a(S'oil reserves in the united states'
+p988
+g2
+(g6
+S'\xf0~\xc8W\xe9\xa3\xd8?'
+p989
+tp990
+Rp991
+tp992
+a(S'dukhan'
+p993
+g2
+(g6
+S'{*\x04\xb6\xe6\x9f\xd8?'
+p994
+tp995
+Rp996
+tp997
+a(S'tamanu oil'
+p998
+g2
+(g6
+S'v\xec\xa1X\xfc\x98\xd8?'
+p999
+tp1000
+Rp1001
+tp1002
+a(S'pico canyon oilfield'
+p1003
+g2
+(g6
+S'k\xe3\x1d\xf4H\x97\xd8?'
+p1004
+tp1005
+Rp1006
+tp1007
+a(S'shallow water drilling'
+p1008
+g2
+(g6
+S'h{\xe9X\x8e\x96\xd8?'
+p1009
+tp1010
+Rp1011
+tp1012
+a(S'oil springs, ontario'
+p1013
+g2
+(g6
+S'\xdb@\xdc\x0b\xcc\x92\xd8?'
+p1014
+tp1015
+Rp1016
+tp1017
+a(S'directional boring'
+p1018
+g2
+(g6
+S'f\xd4<Mmx\xd8?'
+p1019
+tp1020
+Rp1021
+tp1022
+a(S'oil and gas industry in new zealand'
+p1023
+g2
+(g6
+S'\x7f\x85\xb1\xab\x06r\xd8?'
+p1024
+tp1025
+Rp1026
+tp1027
+a(S'south belridge oil field'
+p1028
+g2
+(g6
+S'uN\xafTxn\xd8?'
+p1029
+tp1030
+Rp1031
+tp1032
+a(S'cymric oil field'
+p1033
+g2
+(g6
+S'\x96\x91\x98\x9c\xddd\xd8?'
+p1034
+tp1035
+Rp1036
+tp1037
+a(S'kuparuk river oil field'
+p1038
+g2
+(g6
+S'\x1a\xe5\x9a\t\xcd^\xd8?'
+p1039
+tp1040
+Rp1041
+tp1042
+a(S'kupal oil field'
+p1043
+g2
+(g6
+S'\xf8=)\xc5\xec\\\xd8?'
+p1044
+tp1045
+Rp1046
+tp1047
+a(S'neftegaz'
+p1048
+g2
+(g6
+S'\xfe> K\xf6Z\xd8?'
+p1049
+tp1050
+Rp1051
+tp1052
+a(S'peregrino'
+p1053
+g2
+(g6
+S'\x9c\x8d\x02bzX\xd8?'
+p1054
+tp1055
+Rp1056
+tp1057
+a(S'list of components of oil drilling rigs'
+p1058
+g2
+(g6
+S'Y\\\xbd]\xa3T\xd8?'
+p1059
+tp1060
+Rp1061
+tp1062
+a(S'guijarral hills oil field'
+p1063
+g2
+(g6
+S'\x11\xbc\xb1q\xa3S\xd8?'
+p1064
+tp1065
+Rp1066
+tp1067
+a(S'boring (earth)'
+p1068
+g2
+(g6
+S'6\xc5\x17\xdf,I\xd8?'
+p1069
+tp1070
+Rp1071
+tp1072
+a(S'ventura oil field'
+p1073
+g2
+(g6
+S'\xf3\x92k\xfc9H\xd8?'
+p1074
+tp1075
+Rp1076
+tp1077
+a(S'summerland oil field'
+p1078
+g2
+(g6
+S'\t+\xcc\x1a\x95F\xd8?'
+p1079
+tp1080
+Rp1081
+tp1082
+a(S'petroleum industry in russia'
+p1083
+g2
+(g6
+S"\xda'\xf2\x1e\xf2E\xd8?"
+p1084
+tp1085
+Rp1086
+tp1087
+a(S'great burgan'
+p1088
+g2
+(g6
+S';\n\x0b \xc9?\xd8?'
+p1089
+tp1090
+Rp1091
+tp1092
+a(S'oil-storage trade'
+p1093
+g2
+(g6
+S'\x0f|\xa9\xef\x83:\xd8?'
+p1094
+tp1095
+Rp1096
+tp1097
+a(S'shale gas in the united kingdom'
+p1098
+g2
+(g6
+S'\x95\x1d\xc5\x16\xc93\xd8?'
+p1099
+tp1100
+Rp1101
+tp1102
+a(S'ayoluengo oil field'
+p1103
+g2
+(g6
+S"\x87k'l\xec/\xd8?"
+p1104
+tp1105
+Rp1106
+tp1107
+a(S'price of oil'
+p1108
+g2
+(g6
+S'$}\xaa\x1c4/\xd8?'
+p1109
+tp1110
+Rp1111
+tp1112
+a(S'zhao wenzhi'
+p1113
+g2
+(g6
+S'\x1a\xc2\x84\x19|.\xd8?'
+p1114
+tp1115
+Rp1116
+tp1117
+a(S'sinopec'
+p1118
+g2
+(g6
+S'w\x85j\x06=%\xd8?'
+p1119
+tp1120
+Rp1121
+tp1122
+a(S'flow show'
+p1123
+g2
+(g6
+S'\x82\xca\xdb\xce=\x1f\xd8?'
+p1124
+tp1125
+Rp1126
+tp1127
+a(S'majnoon oil field'
+p1128
+g2
+(g6
+S'\x96\xaf\\E\xaa\x18\xd8?'
+p1129
+tp1130
+Rp1131
+tp1132
+a(S'mckittrick oil field'
+p1133
+g2
+(g6
+S'\xaa"\x8c[I\x17\xd8?'
+p1134
+tp1135
+Rp1136
+tp1137
+a(S'ministry of oil and gas (oman)'
+p1138
+g2
+(g6
+S'N#\xb8b\xc1\x11\xd8?'
+p1139
+tp1140
+Rp1141
+tp1142
+a(S'environmental impact of the petroleum industry'
+p1143
+g2
+(g6
+S'\xa6f\xf4\xe0\x98\x11\xd8?'
+p1144
+tp1145
+Rp1146
+tp1147
+a(S'tei\xc8\x99 oil field'
+p1148
+g2
+(g6
+S')\xb6\n\xb8\x1f\x11\xd8?'
+p1149
+tp1150
+Rp1151
+tp1152
+a(S'oil (disambiguation)'
+p1153
+g2
+(g6
+S'\x1c\xf1\xd0+B\x04\xd8?'
+p1154
+tp1155
+Rp1156
+tp1157
+a(S'casing (borehole)'
+p1158
+g2
+(g6
+S'\xbb\xfb\xbc\xc8)\x04\xd8?'
+p1159
+tp1160
+Rp1161
+tp1162
+a(S'drill floor'
+p1163
+g2
+(g6
+S'\x0c#j\xb2N\xfe\xd7?'
+p1164
+tp1165
+Rp1166
+tp1167
+a(S'statfjord oil field'
+p1168
+g2
+(g6
+S"'\xe3\xf6\xb0\x00\xfe\xd7?"
+p1169
+tp1170
+Rp1171
+tp1172
+a(S'sara and myra'
+p1173
+g2
+(g6
+S"'\xad\r\x03\xfb\xf3\xd7?"
+p1174
+tp1175
+Rp1176
+tp1177
+a(S'trenton gas field'
+p1178
+g2
+(g6
+S'J\xd4\x90\xf6\x89\xf0\xd7?'
+p1179
+tp1180
+Rp1181
+tp1182
+a(S'oil & gas uk'
+p1183
+g2
+(g6
+S'sf\x02\xda\x01\xef\xd7?'
+p1184
+tp1185
+Rp1186
+tp1187
+a(S'wytch farm'
+p1188
+g2
+(g6
+S'\xde\x0e\x16\x81_\xe5\xd7?'
+p1189
+tp1190
+Rp1191
+tp1192
+a(S'gas oil'
+p1193
+g2
+(g6
+S';)\xa5;\x9e\xe4\xd7?'
+p1194
+tp1195
+Rp1196
+tp1197
+a(S'kettleman north dome oil field'
+p1198
+g2
+(g6
+S'@\xe6jf\xca\xdf\xd7?'
+p1199
+tp1200
+Rp1201
+tp1202
+a(S'ge oil and gas'
+p1203
+g2
+(g6
+S'\xc5\x99\x0b@\x1b\xdd\xd7?'
+p1204
+tp1205
+Rp1206
+tp1207
+a(S'fruitvale oil field'
+p1208
+g2
+(g6
+S'Ys\xe4T\x13\xd9\xd7?'
+p1209
+tp1210
+Rp1211
+tp1212
+a(S'norne oil field'
+p1213
+g2
+(g6
+S'<\xd67G\xb4\xd8\xd7?'
+p1214
+tp1215
+Rp1216
+tp1217
+a(S'artificial lift'
+p1218
+g2
+(g6
+S'3\xfd\x82\xcav\xcf\xd7?'
+p1219
+tp1220
+Rp1221
+tp1222
+a(S'\xc3\x87amurlu oil field'
+p1223
+g2
+(g6
+S'?\xc5\x8e\xf8\xe2\xcc\xd7?'
+p1224
+tp1225
+Rp1226
+tp1227
+a(S'production fluid'
+p1228
+g2
+(g6
+S'uj\x9eZ\xe2\xca\xd7?'
+p1229
+tp1230
+Rp1231
+tp1232
+a(S'appaloosa oil field'
+p1233
+g2
+(g6
+S'\x8bY\x9e\xd8\xd5\xc5\xd7?'
+p1234
+tp1235
+Rp1236
+tp1237
+a(S'chris skrebowski'
+p1238
+g2
+(g6
+S'\x0evwZ\xe6\xc1\xd7?'
+p1239
+tp1240
+Rp1241
+tp1242
+a(S'encana'
+p1243
+g2
+(g6
+S'\xd5\x86.\x04B\xbf\xd7?'
+p1244
+tp1245
+Rp1246
+tp1247
+a(S'neft da\xc5\x9flar\xc4\xb1'
+p1248
+g2
+(g6
+S'J\xe50u\xa2\xba\xd7?'
+p1249
+tp1250
+Rp1251
+tp1252
+a(S'baptist well drilling'
+p1253
+g2
+(g6
+S'\xa9\xa1 \x93\x84\xb2\xd7?'
+p1254
+tp1255
+Rp1256
+tp1257
+a(S'vladimir abazarov'
+p1258
+g2
+(g6
+S'\x1b\x8d\xf9\xfcd\xb0\xd7?'
+p1259
+tp1260
+Rp1261
+tp1262
+a(S'mr. louie'
+p1263
+g2
+(g6
+S'\x99\x18o\xb4\xe6\xad\xd7?'
+p1264
+tp1265
+Rp1266
+tp1267
+a(S'elk hills oil field'
+p1268
+g2
+(g6
+S'\xbfs\xedE\x83\xac\xd7?'
+p1269
+tp1270
+Rp1271
+tp1272
+a(S'ga drilling'
+p1273
+g2
+(g6
+S'\xe5\xadMt\xe1\xab\xd7?'
+p1274
+tp1275
+Rp1276
+tp1277
+a(S'oil spill'
+p1278
+g2
+(g6
+S'\xd7\x00[\xf4x\xa9\xd7?'
+p1279
+tp1280
+Rp1281
+tp1282
+a(S'qadirpur gas field'
+p1283
+g2
+(g6
+S'\xa2\xb2\xfe#=\xa6\xd7?'
+p1284
+tp1285
+Rp1286
+tp1287
+a(S'petroleum industry in iran'
+p1288
+g2
+(g6
+S'\xa1\xc8h\x07\x1c\xa3\xd7?'
+p1289
+tp1290
+Rp1291
+tp1292
+a(S'sarir field'
+p1293
+g2
+(g6
+S'\x05(C\xab\xd9\xa2\xd7?'
+p1294
+tp1295
+Rp1296
+tp1297
+a(S'eastern drilling'
+p1298
+g2
+(g6
+S')\xe4}\x04\xc6\x9d\xd7?'
+p1299
+tp1300
+Rp1301
+tp1302
+a(S'okoro oilfield'
+p1303
+g2
+(g6
+S'\x1c~\x95\xf7D\x9a\xd7?'
+p1304
+tp1305
+Rp1306
+tp1307
+a(S'desire petroleum'
+p1308
+g2
+(g6
+S'9h\x17\x8dH\x97\xd7?'
+p1309
+tp1310
+Rp1311
+tp1312
+a(S'natural gas in the united states'
+p1313
+g2
+(g6
+S'\xa8\xc2\x90\x9f<\x93\xd7?'
+p1314
+tp1315
+Rp1316
+tp1317
+a(S'eugene island block 330 oil field'
+p1318
+g2
+(g6
+S'\x0frl\xc7\n\x91\xd7?'
+p1319
+tp1320
+Rp1321
+tp1322
+a(S'bat\xc4\xb1 raman oil field'
+p1323
+g2
+(g6
+S'\x8c\x8a\xc2tX\x8f\xd7?'
+p1324
+tp1325
+Rp1326
+tp1327
+a(S'wildcatter'
+p1328
+g2
+(g6
+S'\xeb?a\xf3\xd2\x8d\xd7?'
+p1329
+tp1330
+Rp1331
+tp1332
+a(S'national iranian south oil company'
+p1333
+g2
+(g6
+S'\xe1a"\x8cT\x8d\xd7?'
+p1334
+tp1335
+Rp1336
+tp1337
+a(S'pennsylvania grade crude oil'
+p1338
+g2
+(g6
+S'5\xde\x17\xfd~\x8b\xd7?'
+p1339
+tp1340
+Rp1341
+tp1342
+a(S'brage oil field'
+p1343
+g2
+(g6
+S'\xc7QY\xed<\x87\xd7?'
+p1344
+tp1345
+Rp1346
+tp1347
+a(S'energy in equatorial guinea'
+p1348
+g2
+(g6
+S'\x1a\xf5<\xf8\x03\x87\xd7?'
+p1349
+tp1350
+Rp1351
+tp1352
+a(S'seadrill'
+p1353
+g2
+(g6
+S'\xfa\xbf6\xb43\x85\xd7?'
+p1354
+tp1355
+Rp1356
+tp1357
+a(S'marun field'
+p1358
+g2
+(g6
+S'*0/\xc3\x89\x80\xd7?'
+p1359
+tp1360
+Rp1361
+tp1362
+a(S'natural gas'
+p1363
+g2
+(g6
+S'\x86$\x028Y{\xd7?'
+p1364
+tp1365
+Rp1366
+tp1367
+a(S'helmerich & payne'
+p1368
+g2
+(g6
+S'E1\xdc[\xbby\xd7?'
+p1369
+tp1370
+Rp1371
+tp1372
+a(S'bosc\xc3\xa1n field'
+p1373
+g2
+(g6
+S'2\xe1\x82\xf6Et\xd7?'
+p1374
+tp1375
+Rp1376
+tp1377
+a(S'roughneck'
+p1378
+g2
+(g6
+S'\xc7\x8d~f\x1bs\xd7?'
+p1379
+tp1380
+Rp1381
+tp1382
+a(S'east midlands oil province'
+p1383
+g2
+(g6
+S'\x9bic\xf9\xb6p\xd7?'
+p1384
+tp1385
+Rp1386
+tp1387
+a(S'texas oil boom'
+p1388
+g2
+(g6
+S'X\xc5cv\xa7o\xd7?'
+p1389
+tp1390
+Rp1391
+tp1392
+a(S'list of companies listed on the oslo stock exchange'
+p1393
+g2
+(g6
+S'\x19\xe5\xa8/\xd3m\xd7?'
+p1394
+tp1395
+Rp1396
+tp1397
+a(S'tiber oil field'
+p1398
+g2
+(g6
+S'\xbc\xaf \x11Xl\xd7?'
+p1399
+tp1400
+Rp1401
+tp1402
+a(S'chayanda field'
+p1403
+g2
+(g6
+S'\xa3\x8e\x85\x93Si\xd7?'
+p1404
+tp1405
+Rp1406
+tp1407
+a(S'noxal oil field'
+p1408
+g2
+(g6
+S'\xaf\x82\x9d\x0f\xb2d\xd7?'
+p1409
+tp1410
+Rp1411
+tp1412
+a(S'black-oil equations'
+p1413
+g2
+(g6
+S'\x83\xc4%?N[\xd7?'
+p1414
+tp1415
+Rp1416
+tp1417
+a(S'waste oil'
+p1418
+g2
+(g6
+S'%\xf7\r\xbd\x00S\xd7?'
+p1419
+tp1420
+Rp1421
+tp1422
+a(S'list of natural gas and oil production accidents in the united states'
+p1423
+g2
+(g6
+S'\x80\xccO5FR\xd7?'
+p1424
+tp1425
+Rp1426
+tp1427
+a(S'stand-l.a.'
+p1428
+g2
+(g6
+S'\x8c\xc5\x7f~\xa5P\xd7?'
+p1429
+tp1430
+Rp1431
+tp1432
+a(S'oil & gas journal'
+p1433
+g2
+(g6
+S'\xe8\xfe\xfb\x13\xb0L\xd7?'
+p1434
+tp1435
+Rp1436
+tp1437
+a(S'tullow oil'
+p1438
+g2
+(g6
+S'\x01\xf6%\x9a\x13L\xd7?'
+p1439
+tp1440
+Rp1441
+tp1442
+a(S'odeco'
+p1443
+g2
+(g6
+S'\x87\x93\xfb$\xb1J\xd7?'
+p1444
+tp1445
+Rp1446
+tp1447
+a(S'oseberg south'
+p1448
+g2
+(g6
+S'\x00U\xab\x91\xb9B\xd7?'
+p1449
+tp1450
+Rp1451
+tp1452
+a(S'gas reinjection'
+p1453
+g2
+(g6
+S'\xbc\xec\xbdS\xb1B\xd7?'
+p1454
+tp1455
+Rp1456
+tp1457
+a(S'santa clara avenue oil field'
+p1458
+g2
+(g6
+S'\x9e\xa7F\xf7W0\xd7?'
+p1459
+tp1460
+Rp1461
+tp1462
+a(S'saticoy oil field'
+p1463
+g2
+(g6
+S'\xdd\\\x8c\xd1\xd1/\xd7?'
+p1464
+tp1465
+Rp1466
+tp1467
+a(S'hermosa beach oil drilling controversy'
+p1468
+g2
+(g6
+S'\xd3\xde\xca\xf2\xa9-\xd7?'
+p1469
+tp1470
+Rp1471
+tp1472
+a(S'petroleum engineering'
+p1473
+g2
+(g6
+S'"\xee\xa6$v-\xd7?'
+p1474
+tp1475
+Rp1476
+tp1477
+a(S'california, west virginia'
+p1478
+g2
+(g6
+S'\xf5\xe3\x93\xfa\xf0&\xd7?'
+p1479
+tp1480
+Rp1481
+tp1482
+a(S'coiled tubing truck'
+p1483
+g2
+(g6
+S'c\xd0\xe7>?%\xd7?'
+p1484
+tp1485
+Rp1486
+tp1487
+a(S'1995 world oil market chronology'
+p1488
+g2
+(g6
+S'[y\xbf\xa2\x19%\xd7?'
+p1489
+tp1490
+Rp1491
+tp1492
+a(S'gyda oil field'
+p1493
+g2
+(g6
+S'\x13ic\xce\xb4#\xd7?'
+p1494
+tp1495
+Rp1496
+tp1497
+a(S'thunder horse oil field'
+p1498
+g2
+(g6
+S'\x9a\x91c\xa9^!\xd7?'
+p1499
+tp1500
+Rp1501
+tp1502
+a(S'mid-continent oil province'
+p1503
+g2
+(g6
+S']\xc7\xd7(J \xd7?'
+p1504
+tp1505
+Rp1506
+tp1507
+a(S'gas oil ratio'
+p1508
+g2
+(g6
+S'PWl<\xe8\x12\xd7?'
+p1509
+tp1510
+Rp1511
+tp1512
+a.

@@ -1,0 +1,2728 @@
+(lp0
+(S'mining'
+p1
+cnumpy.core.multiarray
+scalar
+p2
+(cnumpy
+dtype
+p3
+(S'f8'
+p4
+I0
+I1
+tp5
+Rp6
+(I3
+S'<'
+p7
+NNNI-1
+I-1
+I0
+tp8
+bS'\x02\x00\x00\x00\x00\x00\xf0?'
+p9
+tp10
+Rp11
+tp12
+a(S'outline of mining'
+p13
+g2
+(g6
+S'\xa6\x8c7zu\xc4\xea?'
+p14
+tp15
+Rp16
+tp17
+a(S'mining engineering'
+p18
+g2
+(g6
+S'\x95/\x97\xaaKz\xe8?'
+p19
+tp20
+Rp21
+tp22
+a(S'the mining journal (trade magazine)'
+p23
+g2
+(g6
+S'\xd4\x95\xa9T\x9d\xa9\xe7?'
+p24
+tp25
+Rp26
+tp27
+a(S'mining in the united states'
+p28
+g2
+(g6
+S'\x8b\xad\x89\xc5\xbd\xf5\xe6?'
+p29
+tp30
+Rp31
+tp32
+a(S'bergregal'
+p33
+g2
+(g6
+S'\xf5\xc9\xe4\xcc4\xf2\xe5?'
+p34
+tp35
+Rp36
+tp37
+a(S'mining law'
+p38
+g2
+(g6
+S'\xd2\x83\xbb\x05\xae\x02\xe5?'
+p39
+tp40
+Rp41
+tp42
+a(S'mining industry of tanzania'
+p43
+g2
+(g6
+S'\xaa\x83\x12\xff\x06\xfd\xe4?'
+p44
+tp45
+Rp46
+tp47
+a(S'surface mining'
+p48
+g2
+(g6
+S'\xda\xd2\x80\x14$\xf9\xe4?'
+p49
+tp50
+Rp51
+tp52
+a(S'government polytechnic bhaga'
+p53
+g2
+(g6
+S'c\x864\xd8\xf2\xec\xe4?'
+p54
+tp55
+Rp56
+tp57
+a(S'general mining act of 1872'
+p58
+g2
+(g6
+S'\xf7\xfe]CC\x9a\xe4?'
+p59
+tp60
+Rp61
+tp62
+a(S'saxon mining office'
+p63
+g2
+(g6
+S'\x7fz\x04\x15O\x88\xe4?'
+p64
+tp65
+Rp66
+tp67
+a(S'national mining association'
+p68
+g2
+(g6
+S'6\xde\xcc\xdb\xeai\xe4?'
+p69
+tp70
+Rp71
+tp72
+a(S'dmc mining services'
+p73
+g2
+(g6
+S'\x97\xaf1\x06\xfcV\xe4?'
+p74
+tp75
+Rp76
+tp77
+a(S'mining act'
+p78
+g2
+(g6
+S'\x1e\xee\x9f\xfa:S\xe4?'
+p79
+tp80
+Rp81
+tp82
+a(S'minerals and mining law'
+p83
+g2
+(g6
+S'\x98cAPW<\xe4?'
+p84
+tp85
+Rp86
+tp87
+a(S'orkla mining company'
+p88
+g2
+(g6
+S'\xdd\xa6\xc8#w\x07\xe4?'
+p89
+tp90
+Rp91
+tp92
+a(S'moscow state mining university'
+p93
+g2
+(g6
+S'\xf8I9\nx\x06\xe4?'
+p94
+tp95
+Rp96
+tp97
+a(S'mining institute'
+p98
+g2
+(g6
+S'x\x9f-\x9d\xa2\x03\xe4?'
+p99
+tp100
+Rp101
+tp102
+a(S'coltan mining and ethics'
+p103
+g2
+(g6
+S'h\x98\x1dV\x19\xf0\xe3?'
+p104
+tp105
+Rp106
+tp107
+a(S'mining in ethiopia'
+p108
+g2
+(g6
+S'\x11:\xa4\xcd\r\xe8\xe3?'
+p109
+tp110
+Rp111
+tp112
+a(S'mining scams in india'
+p113
+g2
+(g6
+S'a\xf2ld\xd0\xe5\xe3?'
+p114
+tp115
+Rp116
+tp117
+a(S'mining association of the united kingdom'
+p118
+g2
+(g6
+S'\x88\x8f\x84\xb6 \xcb\xe3?'
+p119
+tp120
+Rp121
+tp122
+a(S'ministry of mining (chile)'
+p123
+g2
+(g6
+S'\xff\xa4\x1f`\xbd\xa6\xe3?'
+p124
+tp125
+Rp126
+tp127
+a(S'surface mining control and reclamation act of 1977'
+p128
+g2
+(g6
+S'\xc07\xba\x1d\x0c\x88\xe3?'
+p129
+tp130
+Rp131
+tp132
+a(S'retreat mining'
+p133
+g2
+(g6
+S'*mN;\x10\x83\xe3?'
+p134
+tp135
+Rp136
+tp137
+a(S'mining in australia'
+p138
+g2
+(g6
+S'\x13\xa3\xdaK\xbee\xe3?'
+p139
+tp140
+Rp141
+tp142
+a(S'underground mining (soft rock)'
+p143
+g2
+(g6
+S'\x07"\xc3\x8b\x12R\xe3?'
+p144
+tp145
+Rp146
+tp147
+a(S'deep sea mining'
+p148
+g2
+(g6
+S'\x1f\xbb\\\xda\x07O\xe3?'
+p149
+tp150
+Rp151
+tp152
+a(S'tambogrande'
+p153
+g2
+(g6
+S'3\xe2\x12\x8b\xa6!\xe3?'
+p154
+tp155
+Rp156
+tp157
+a(S'mining industry of senegal'
+p158
+g2
+(g6
+S'\xf3@\xfc\x0c:\x13\xe3?'
+p159
+tp160
+Rp161
+tp162
+a(S'berggeschrey'
+p163
+g2
+(g6
+S'\xb87I\xa8\x19\x01\xe3?'
+p164
+tp165
+Rp166
+tp167
+a(S'skochinsky institute of mining'
+p168
+g2
+(g6
+S'\x815$\x8aX\xfc\xe2?'
+p169
+tp170
+Rp171
+tp172
+a(S'mining industry of laos'
+p173
+g2
+(g6
+S'\xa5\xab)\x8a\xee\xf4\xe2?'
+p174
+tp175
+Rp176
+tp177
+a(S'pahaquarry copper mine'
+p178
+g2
+(g6
+S'\xed#[\xff\xbe\xdd\xe2?'
+p179
+tp180
+Rp181
+tp182
+a(S'ira joralemon'
+p183
+g2
+(g6
+S'\x1d\xed\xa2\xd7\xd1\xd4\xe2?'
+p184
+tp185
+Rp186
+tp187
+a(S'allihies copper mine museum'
+p188
+g2
+(g6
+S'\xb3-A\xeb{\xc7\xe2?'
+p189
+tp190
+Rp191
+tp192
+a(S'william henry john slee'
+p193
+g2
+(g6
+S'MxQ\xf3K\xb3\xe2?'
+p194
+tp195
+Rp196
+tp197
+a(S'horn\xc3\xad slavkov'
+p198
+g2
+(g6
+S')Z"X\x0e\xa4\xe2?'
+p199
+tp200
+Rp201
+tp202
+a(S'responsible mining'
+p203
+g2
+(g6
+S'\xd5|\x08\xb8.\x9f\xe2?'
+p204
+tp205
+Rp206
+tp207
+a(S'mining industry of tunisia'
+p208
+g2
+(g6
+S'\xc3\x96\xa9+\xa1\x83\xe2?'
+p209
+tp210
+Rp211
+tp212
+a(S'hydraulic mining'
+p213
+g2
+(g6
+S'\x1dU\x8c7\xc8x\xe2?'
+p214
+tp215
+Rp216
+tp217
+a(S'bergamt'
+p218
+g2
+(g6
+S'\xf1\x8d3\x0cOg\xe2?'
+p219
+tp220
+Rp221
+tp222
+a(S'underground mining (hard rock)'
+p223
+g2
+(g6
+S'\x8d\x03\xc9q\x03\\\xe2?'
+p224
+tp225
+Rp226
+tp227
+a(S'independence mines'
+p228
+g2
+(g6
+S'.+K.\xf9M\xe2?'
+p229
+tp230
+Rp231
+tp232
+a(S'pinge'
+p233
+g2
+(g6
+S't\x94O\x89\x15&\xe2?'
+p234
+tp235
+Rp236
+tp237
+a(S'list of mining companies'
+p238
+g2
+(g6
+S',\xefu\xb7\xb3\x14\xe2?'
+p239
+tp240
+Rp241
+tp242
+a(S'mining in mongolia'
+p243
+g2
+(g6
+S'$\xca\x97\xd1\xa8\xfa\xe1?'
+p244
+tp245
+Rp246
+tp247
+a(S'history of mining in sardinia'
+p248
+g2
+(g6
+S'\xf4\x96\x86\xc4\x95\xfa\xe1?'
+p249
+tp250
+Rp251
+tp252
+a(S'scossa, nevada'
+p253
+g2
+(g6
+S'KB!\xed2\xf7\xe1?'
+p254
+tp255
+Rp256
+tp257
+a(S'mining industry of nigeria'
+p258
+g2
+(g6
+S'\xb5y\x88\xb5\x90\xf0\xe1?'
+p259
+tp260
+Rp261
+tp262
+a(S'maurice russell brown'
+p263
+g2
+(g6
+S'\xf8\xfaX\xd7$\xee\xe1?'
+p264
+tp265
+Rp266
+tp267
+a(S'mining in new zealand'
+p268
+g2
+(g6
+S'^G\rh6\xea\xe1?'
+p269
+tp270
+Rp271
+tp272
+a(S'newcrest mining'
+p273
+g2
+(g6
+S'\xb80\xb3\xa1l\xdf\xe1?'
+p274
+tp275
+Rp276
+tp277
+a(S'illegal mining'
+p278
+g2
+(g6
+S'\xb3\x8e?x\xd0\xc6\xe1?'
+p279
+tp280
+Rp281
+tp282
+a(S'automated mining'
+p283
+g2
+(g6
+S'L4\x9e>\x00\xb1\xe1?'
+p284
+tp285
+Rp286
+tp287
+a(S'mining in north korea'
+p288
+g2
+(g6
+S'E\xc57\xb0C\xa9\xe1?'
+p289
+tp290
+Rp291
+tp292
+a(S'anthony joseph williams'
+p293
+g2
+(g6
+S'u\x9a!D\xaf\x8a\xe1?'
+p294
+tp295
+Rp296
+tp297
+a(S'mining industry of madagascar'
+p298
+g2
+(g6
+S'r\xc2r\xe2\x08\x83\xe1?'
+p299
+tp300
+Rp301
+tp302
+a(S'mining industry of uganda'
+p303
+g2
+(g6
+S'm\xc4>\xb6\xde{\xe1?'
+p304
+tp305
+Rp306
+tp307
+a(S'ministry of mines (india)'
+p308
+g2
+(g6
+S' C\xc3\nPv\xe1?'
+p309
+tp310
+Rp311
+tp312
+a(S'traditional mining'
+p313
+g2
+(g6
+S'\x05H\xfa\x94Ci\xe1?'
+p314
+tp315
+Rp316
+tp317
+a(S'mining in the republic of the congo'
+p318
+g2
+(g6
+S'\n\xf4\xba\xec\x8ea\xe1?'
+p319
+tp320
+Rp321
+tp322
+a(S'mining in hong kong'
+p323
+g2
+(g6
+S'\x07\xbd\x97k$^\xe1?'
+p324
+tp325
+Rp326
+tp327
+a(S'poeville, nevada'
+p328
+g2
+(g6
+S'\xcf\xca\xf9\x06!Y\xe1?'
+p329
+tp330
+Rp331
+tp332
+a(S'african exploration mining and finance corporation'
+p333
+g2
+(g6
+S'\x02\xf0K\x1e\xf4W\xe1?'
+p334
+tp335
+Rp336
+tp337
+a(S'buenaventura (mining company)'
+p338
+g2
+(g6
+S'\xb6\xeb\x7fF8V\xe1?'
+p339
+tp340
+Rp341
+tp342
+a(S"mine owners' association"
+p343
+g2
+(g6
+S'\xceP(\xc8`H\xe1?'
+p344
+tp345
+Rp346
+tp347
+a(S'alexei strolman'
+p348
+g2
+(g6
+S'\x1b\xf8jnYG\xe1?'
+p349
+tp350
+Rp351
+tp352
+a(S'face (mining)'
+p353
+g2
+(g6
+S'\xc6\x07\xce\xec\xe9F\xe1?'
+p354
+tp355
+Rp356
+tp357
+a(S'list of companies listed on the tsx venture exchange'
+p358
+g2
+(g6
+S'W\xdf\x17\xca\xccF\xe1?'
+p359
+tp360
+Rp361
+tp362
+a(S'arigna mining experience'
+p363
+g2
+(g6
+S'\xc5GR\xe1BD\xe1?'
+p364
+tp365
+Rp366
+tp367
+a(S'mining for diversity'
+p368
+g2
+(g6
+S'\xd6\x00\xb4\x1b\xb9;\xe1?'
+p369
+tp370
+Rp371
+tp372
+a(S'history of mining in chile'
+p373
+g2
+(g6
+S'\xd4\xe0\x08\xf9\xc27\xe1?'
+p374
+tp375
+Rp376
+tp377
+a(S'list of schools of mines'
+p378
+g2
+(g6
+S')`\xb5[3\x02\xe1?'
+p379
+tp380
+Rp381
+tp382
+a(S'derbyshire lead mining history'
+p383
+g2
+(g6
+S'\xea\xe3X\xf5\x00\xff\xe0?'
+p384
+tp385
+Rp386
+tp387
+a(S'mines and minerals (development and regulation) act, 1957'
+p388
+g2
+(g6
+S'\xcd\xcd\xaf\x16\x9c\xf8\xe0?'
+p389
+tp390
+Rp391
+tp392
+a(S'mining industry of malawi'
+p393
+g2
+(g6
+S'\x95\xee\r)\x7f\xf8\xe0?'
+p394
+tp395
+Rp396
+tp397
+a(S'mining industry of liberia'
+p398
+g2
+(g6
+S'>\x9c\xa0-\x94\xec\xe0?'
+p399
+tp400
+Rp401
+tp402
+a(S'joy mining machinery'
+p403
+g2
+(g6
+S'\xf0\xf4\xef\xed\x04\xe0\xe0?'
+p404
+tp405
+Rp406
+tp407
+a(S'mining in papua new guinea'
+p408
+g2
+(g6
+S'\x05\xac\x03\x9f\xd2\xdc\xe0?'
+p409
+tp410
+Rp411
+tp412
+a(S'mining (disambiguation)'
+p413
+g2
+(g6
+S'\x83N\xbbs0\xc5\xe0?'
+p414
+tp415
+Rp416
+tp417
+a(S'gogebic taconite'
+p418
+g2
+(g6
+S'=\x81\x94X\x1e\xc2\xe0?'
+p419
+tp420
+Rp421
+tp422
+a(S'abangares mining company'
+p423
+g2
+(g6
+S'\xb2\x8b\x81`\x8a\xbe\xe0?'
+p424
+tp425
+Rp426
+tp427
+a(S'stripping ratio'
+p428
+g2
+(g6
+S"\xe9X\xff\x11'\xb9\xe0?"
+p429
+tp430
+Rp431
+tp432
+a(S'canadian mining credential program'
+p433
+g2
+(g6
+S'\x7fG\x94\xbf\xe0\xb1\xe0?'
+p434
+tp435
+Rp436
+tp437
+a(S'athens, nevada'
+p438
+g2
+(g6
+S'\x022\x0b\xf3\xab\xb1\xe0?'
+p439
+tp440
+Rp441
+tp442
+a(S'mining industry human resources council'
+p443
+g2
+(g6
+S'\x07s\xb3Mn\xb0\xe0?'
+p444
+tp445
+Rp446
+tp447
+a(S'mining industry of ghana'
+p448
+g2
+(g6
+S'\x9e\xea,oy\xae\xe0?'
+p449
+tp450
+Rp451
+tp452
+a(S'mining industry of mali'
+p453
+g2
+(g6
+S'(A\xce\xef\x7f\xa3\xe0?'
+p454
+tp455
+Rp456
+tp457
+a(S'environmental impact of mining'
+p458
+g2
+(g6
+S"B'\xe5O(\x95\xe0?"
+p459
+tp460
+Rp461
+tp462
+a(S'african rainbow minerals'
+p463
+g2
+(g6
+S'\x8e\xc2\x9c\xdfR\x8e\xe0?'
+p464
+tp465
+Rp466
+tp467
+a(S'mining industry of cyprus'
+p468
+g2
+(g6
+S'P1\xdak\xb3\x8c\xe0?'
+p469
+tp470
+Rp471
+tp472
+a(S'la luz silver project'
+p473
+g2
+(g6
+S'[\x8f\x83\xcb]}\xe0?'
+p474
+tp475
+Rp476
+tp477
+a(S'koidu holdings'
+p478
+g2
+(g6
+S'\xab\x96T\x01\x05}\xe0?'
+p479
+tp480
+Rp481
+tp482
+a(S'joy global'
+p483
+g2
+(g6
+S'a\x13\xfab\xc8|\xe0?'
+p484
+tp485
+Rp486
+tp487
+a(S'mining industry of swaziland'
+p488
+g2
+(g6
+S'8H\xb8\xeb\tp\xe0?'
+p489
+tp490
+Rp491
+tp492
+a(S'mining industry of the democratic republic of the congo'
+p493
+g2
+(g6
+S'\x80\xef\xaa\xb7hh\xe0?'
+p494
+tp495
+Rp496
+tp497
+a(S'mining geology'
+p498
+g2
+(g6
+S'\xec\xc8\xfe\x04\xd7d\xe0?'
+p499
+tp500
+Rp501
+tp502
+a(S'herr\xc3\xa4ng'
+p503
+g2
+(g6
+S'\x07\xafO\xdf\xb0W\xe0?'
+p504
+tp505
+Rp506
+tp507
+a(S'clausnitz'
+p508
+g2
+(g6
+S'\xf0U\x9b\x81GR\xe0?'
+p509
+tp510
+Rp511
+tp512
+a(S'rio tinto (river)'
+p513
+g2
+(g6
+S'1aN\x96\x03Q\xe0?'
+p514
+tp515
+Rp516
+tp517
+a(S'sibplaz'
+p518
+g2
+(g6
+S'\x02\x93\xa85\xd3I\xe0?'
+p519
+tp520
+Rp521
+tp522
+a(S"hard rock miner's handbook"
+p523
+g2
+(g6
+S'\x11\xea\xf5\xde\tF\xe0?'
+p524
+tp525
+Rp526
+tp527
+a(S'nonviolent movement opposing open pit mining in bangladesh from 2006 - 2014'
+p528
+g2
+(g6
+S'\xb2\x84\xb5\xc6\xdbC\xe0?'
+p529
+tp530
+Rp531
+tp532
+a(S'ambaragudda'
+p533
+g2
+(g6
+S'\t\xde/\xc6u@\xe0?'
+p534
+tp535
+Rp536
+tp537
+a(S'camese'
+p538
+g2
+(g6
+S'\x01\xd5_\xd993\xe0?'
+p539
+tp540
+Rp541
+tp542
+a(S'gold mining'
+p543
+g2
+(g6
+S'\xb3=\x94L\xdb1\xe0?'
+p544
+tp545
+Rp546
+tp547
+a(S'mhangura'
+p548
+g2
+(g6
+S'G\n\xfa\x07+,\xe0?'
+p549
+tp550
+Rp551
+tp552
+a(S'mining in bolivia'
+p553
+g2
+(g6
+S'{\xf82\x9as\x1b\xe0?'
+p554
+tp555
+Rp556
+tp557
+a(S'naics 21'
+p558
+g2
+(g6
+S'\xd2P*l]\x1b\xe0?'
+p559
+tp560
+Rp561
+tp562
+a(S'mining machinery engineering'
+p563
+g2
+(g6
+S'L\x1b\x8a\n\x03\x17\xe0?'
+p564
+tp565
+Rp566
+tp567
+a(S'freiberg mining field'
+p568
+g2
+(g6
+S'\xbc\xfa\xc6\xd9\xba\x0f\xe0?'
+p569
+tp570
+Rp571
+tp572
+a(S'l\xc3\xb8kken verk'
+p573
+g2
+(g6
+S'\x87\x01\x82\xd8v\n\xe0?'
+p574
+tp575
+Rp576
+tp577
+a(S'mining machines'
+p578
+g2
+(g6
+S'\x05xd:T\xec\xdf?'
+p579
+tp580
+Rp581
+tp582
+a(S'gardner f. williams'
+p583
+g2
+(g6
+S'\xc8\xb8\x8d\x89\x0e\xec\xdf?'
+p584
+tp585
+Rp586
+tp587
+a(S'shandong energy'
+p588
+g2
+(g6
+S'\xa4\x1c\xdf\xc6\xc4\xd7\xdf?'
+p589
+tp590
+Rp591
+tp592
+a(S'churchill mining'
+p593
+g2
+(g6
+S'iwQN\xfa\xd5\xdf?'
+p594
+tp595
+Rp596
+tp597
+a(S'brown coal mining limits in north bohemia'
+p598
+g2
+(g6
+S'\x89:\xd7\xcd\xb5\xd5\xdf?'
+p599
+tp600
+Rp601
+tp602
+a(S'josiah edward spurr'
+p603
+g2
+(g6
+S"\xb4'\xbdV\xa6\xcf\xdf?"
+p604
+tp605
+Rp606
+tp607
+a(S'sullivan mine'
+p608
+g2
+(g6
+S'\t)\x8f\xe3\x06\xa6\xdf?'
+p609
+tp610
+Rp611
+tp612
+a(S'minong mine historic district'
+p613
+g2
+(g6
+S'8]\xad\x87\x7f\x99\xdf?'
+p614
+tp615
+Rp616
+tp617
+a(S'artisanal mining'
+p618
+g2
+(g6
+S'\xcd@\x88\x85\xb8\x93\xdf?'
+p619
+tp620
+Rp621
+tp622
+a(S'cloud mining'
+p623
+g2
+(g6
+S'\x9c\x08\xfb\xf2\xb1\x8a\xdf?'
+p624
+tp625
+Rp626
+tp627
+a(S'tenke mining'
+p628
+g2
+(g6
+S'\x1c\xedu\x8d\xa3\x84\xdf?'
+p629
+tp630
+Rp631
+tp632
+a(S'coal mining in brazil'
+p633
+g2
+(g6
+S'\xef}\xe0\xf5)f\xdf?'
+p634
+tp635
+Rp636
+tp637
+a(S'sao domingos mine'
+p638
+g2
+(g6
+S'\xc9\xdb\xb7\xbb\x94U\xdf?'
+p639
+tp640
+Rp641
+tp642
+a(S'canatuan mine'
+p643
+g2
+(g6
+S'\xd5\x07\\\x10LN\xdf?'
+p644
+tp645
+Rp646
+tp647
+a(S'ro\xc8\x99ia montan\xc4\x83'
+p648
+g2
+(g6
+S'\xa1/\x9d9\x81?\xdf?'
+p649
+tp650
+Rp651
+tp652
+a(S'r\xc3\xa4llingsberg mining area'
+p653
+g2
+(g6
+S'\xef\x96\x97\xa0\xbd:\xdf?'
+p654
+tp655
+Rp656
+tp657
+a(S'robert h. trent'
+p658
+g2
+(g6
+S'@\x15\x95\x8a\x013\xdf?'
+p659
+tp660
+Rp661
+tp662
+a(S'richard geren'
+p663
+g2
+(g6
+S'ZT\x1ce\x8f\x1c\xdf?'
+p664
+tp665
+Rp666
+tp667
+a(S'captains flat'
+p668
+g2
+(g6
+S'\xe6\xb3?\xc2\xde\x0c\xdf?'
+p669
+tp670
+Rp671
+tp672
+a(S'navoi mining and metallurgy combinat'
+p673
+g2
+(g6
+S'\xe8\xda\xf8\x8f\t\xed\xde?'
+p674
+tp675
+Rp676
+tp677
+a(S'national mining university of ukraine'
+p678
+g2
+(g6
+S'-\x0eym|\xe5\xde?'
+p679
+tp680
+Rp681
+tp682
+a(S'fichtelberg, bavaria'
+p683
+g2
+(g6
+S'\xca\x0c\x15\xeb\xd7\xdc\xde?'
+p684
+tp685
+Rp686
+tp687
+a(S'cornwall and west devon mining landscape'
+p688
+g2
+(g6
+S'6xo\xeer\xc3\xde?'
+p689
+tp690
+Rp691
+tp692
+a(S'nsw minerals council'
+p693
+g2
+(g6
+S'\x11\xf5\x00\xd0<\xb9\xde?'
+p694
+tp695
+Rp696
+tp697
+a(S'list of active gold mines in nevada'
+p698
+g2
+(g6
+S'\x8d\x00B8\x04\xb4\xde?'
+p699
+tp700
+Rp701
+tp702
+a(S'didier rault'
+p703
+g2
+(g6
+S'w\x90\xc0\xf3p\xb1\xde?'
+p704
+tp705
+Rp706
+tp707
+a(S'mining industry of angola'
+p708
+g2
+(g6
+S'\xa5S\xe1~\xc7\xae\xde?'
+p709
+tp710
+Rp711
+tp712
+a(S'zhaojin mining'
+p713
+g2
+(g6
+S'\xca\xa6\x9b\xd1\xef\xac\xde?'
+p714
+tp715
+Rp716
+tp717
+a(S'minexpo international'
+p718
+g2
+(g6
+S'_\xdd\x95\x048\xa2\xde?'
+p719
+tp720
+Rp721
+tp722
+a(S'gold mining in nevada'
+p723
+g2
+(g6
+S'y\x15~\xfe\xf7\x8a\xde?'
+p724
+tp725
+Rp726
+tp727
+a(S'mining in western australia'
+p728
+g2
+(g6
+S'\x96\xcb>`T\x86\xde?'
+p729
+tp730
+Rp731
+tp732
+a(S'ecton mines'
+p733
+g2
+(g6
+S'=\x95\xd1\x18\xd6u\xde?'
+p734
+tp735
+Rp736
+tp737
+a(S'hushing'
+p738
+g2
+(g6
+S'\xe1rZ\x1f\x1eo\xde?'
+p739
+tp740
+Rp741
+tp742
+a(S'mining in india'
+p743
+g2
+(g6
+S'y\x8a\xb4DGj\xde?'
+p744
+tp745
+Rp746
+tp747
+a(S'lom \xc4\x8csa'
+p748
+g2
+(g6
+S'k\x86\x7f_1E\xde?'
+p749
+tp750
+Rp751
+tp752
+a(S'bridgette radebe'
+p753
+g2
+(g6
+S'\x8f\xdcA\x82b>\xde?'
+p754
+tp755
+Rp756
+tp757
+a(S'north bloomfield mining and gravel company'
+p758
+g2
+(g6
+S'\t\xde\xb5\xf5[>\xde?'
+p759
+tp760
+Rp761
+tp762
+a(S'tanzanite one'
+p763
+g2
+(g6
+S'\xd0W,Q\x96=\xde?'
+p764
+tp765
+Rp766
+tp767
+a(S'norwegian mining museum'
+p768
+g2
+(g6
+S'\xca-\xf5D)7\xde?'
+p769
+tp770
+Rp771
+tp772
+a(S'sino gold mining'
+p773
+g2
+(g6
+S'\x0c\xd9\x892\xe25\xde?'
+p774
+tp775
+Rp776
+tp777
+a(S'mine safety'
+p778
+g2
+(g6
+S'\x1bscEm2\xde?'
+p779
+tp780
+Rp781
+tp782
+a(S'mina proa\xc3\xb1o'
+p783
+g2
+(g6
+S'8\x07wc\xc8*\xde?'
+p784
+tp785
+Rp786
+tp787
+a(S'scots mining company'
+p788
+g2
+(g6
+S'\x9e\x83q!\xf1 \xde?'
+p789
+tp790
+Rp791
+tp792
+a(S'rosario mining company'
+p793
+g2
+(g6
+S'Qd\xfeR\xa2\x1d\xde?'
+p794
+tp795
+Rp796
+tp797
+a(S'ngovayang'
+p798
+g2
+(g6
+S'\x1d\x81]Q]\x14\xde?'
+p799
+tp800
+Rp801
+tp802
+a(S'silver mining in arizona'
+p803
+g2
+(g6
+S'\xba\xcf\xc4\xc7\x07\x13\xde?'
+p804
+tp805
+Rp806
+tp807
+a(S'philadelphia silver and copper mining company'
+p808
+g2
+(g6
+S'@\xa3\x17\xff\xe9\x10\xde?'
+p809
+tp810
+Rp811
+tp812
+a(S'arigna'
+p813
+g2
+(g6
+S'<*\xf1\xe2\xe5\t\xde?'
+p814
+tp815
+Rp816
+tp817
+a(S'university college of engineering, kakatiya university'
+p818
+g2
+(g6
+S'\\G\xfb\xa6\xf0\x01\xde?'
+p819
+tp820
+Rp821
+tp822
+a(S'western museum of mining & industry'
+p823
+g2
+(g6
+S'\xbe\x0c\xe3"\xcf\xf3\xdd?'
+p824
+tp825
+Rp826
+tp827
+a(S'coal mining'
+p828
+g2
+(g6
+S'\x1c~H\xec\x90\xee\xdd?'
+p829
+tp830
+Rp831
+tp832
+a(S'mining in the upper harz'
+p833
+g2
+(g6
+S'\x11caV\xce\xe8\xdd?'
+p834
+tp835
+Rp836
+tp837
+a(S'mining industry of egypt'
+p838
+g2
+(g6
+S'\xfb\xd3\xb0\x19\xc1\xce\xdd?'
+p839
+tp840
+Rp841
+tp842
+a(S'mining encyclopedia'
+p843
+g2
+(g6
+S'\xba\x9f[!\xc7\xc0\xdd?'
+p844
+tp845
+Rp846
+tp847
+a(S'ashibetsu, hokkaido'
+p848
+g2
+(g6
+S'\xd2\x03\xb3\xd0\x96\xae\xdd?'
+p849
+tp850
+Rp851
+tp852
+a(S'rammelsberg'
+p853
+g2
+(g6
+S',\x06IV\x12\xa9\xdd?'
+p854
+tp855
+Rp856
+tp857
+a(S'dolaucothi gold mines'
+p858
+g2
+(g6
+S'\xac\xe1\x93CJ\xa3\xdd?'
+p859
+tp860
+Rp861
+tp862
+a(S'bell pit'
+p863
+g2
+(g6
+S'\xf8\x17-\xcc!\xa3\xdd?'
+p864
+tp865
+Rp866
+tp867
+a(S'komsomolskoye mining company'
+p868
+g2
+(g6
+S'\x11q\xeb\xf2\xcf\xa2\xdd?'
+p869
+tp870
+Rp871
+tp872
+a(S'mining industry of south africa'
+p873
+g2
+(g6
+S'\xc9\xbd\xecUT\xa1\xdd?'
+p874
+tp875
+Rp876
+tp877
+a(S'historic silver mine in tarnowskie g\xc3\xb3ry'
+p878
+g2
+(g6
+S'\xe5P\x18\x86\xaa\x9e\xdd?'
+p879
+tp880
+Rp881
+tp882
+a(S'miner'
+p883
+g2
+(g6
+S'D\x81t\xefu\x8a\xdd?'
+p884
+tp885
+Rp886
+tp887
+a(S'gold cyanidation ban'
+p888
+g2
+(g6
+S'\x9aPr\x99\xd9z\xdd?'
+p889
+tp890
+Rp891
+tp892
+a(S'techatticup mine'
+p893
+g2
+(g6
+S'Y\xab\xbfi\x84w\xdd?'
+p894
+tp895
+Rp896
+tp897
+a(S'elizabeth mine'
+p898
+g2
+(g6
+S'\xe8\x8d\x86\xa7\xa4s\xdd?'
+p899
+tp900
+Rp901
+tp902
+a(S'agent mining'
+p903
+g2
+(g6
+S'\xea\xdf\x07JDl\xdd?'
+p904
+tp905
+Rp906
+tp907
+a(S'sunrise, wyoming'
+p908
+g2
+(g6
+S'\xf8x\xbf\xd9\x17h\xdd?'
+p909
+tp910
+Rp911
+tp912
+a(S'copper mining in the democratic republic of the congo'
+p913
+g2
+(g6
+S'p\x96\\\xcd\xe9g\xdd?'
+p914
+tp915
+Rp916
+tp917
+a(S'taiwan coal mine museum'
+p918
+g2
+(g6
+S'\x8d5\x9d\xaf\xffb\xdd?'
+p919
+tp920
+Rp921
+tp922
+a(S'homestake mining company'
+p923
+g2
+(g6
+S'\xbe_\xa3B;U\xdd?'
+p924
+tp925
+Rp926
+tp927
+a(S'china university of mining and technology'
+p928
+g2
+(g6
+S'\x9aU\xbcC\x9eR\xdd?'
+p929
+tp930
+Rp931
+tp932
+a(S'mining industry of equatorial guinea'
+p933
+g2
+(g6
+S'r\xff\x8b\xf0nR\xdd?'
+p934
+tp935
+Rp936
+tp937
+a(S'mining industry of guinea'
+p938
+g2
+(g6
+S';h\xdc\xb7CH\xdd?'
+p939
+tp940
+Rp941
+tp942
+a(S'national association of mining history organisations'
+p943
+g2
+(g6
+S'\xe8\t\x8a\xdb\x19?\xdd?'
+p944
+tp945
+Rp946
+tp947
+a(S'andrew bryan (engineer)'
+p948
+g2
+(g6
+S'\xab\x15\xa7\xfc\x1e=\xdd?'
+p949
+tp950
+Rp951
+tp952
+a(S'data mining'
+p953
+g2
+(g6
+S'\xf4\xfb\xac\x1b\x1e=\xdd?'
+p954
+tp955
+Rp956
+tp957
+a(S'centre for excellence in mining innovation'
+p958
+g2
+(g6
+S'\xac\xd7\x99Kv:\xdd?'
+p959
+tp960
+Rp961
+tp962
+a(S'mining weekly'
+p963
+g2
+(g6
+S'\x13!\x88\x9a\x953\xdd?'
+p964
+tp965
+Rp966
+tp967
+a(S'examples of data mining'
+p968
+g2
+(g6
+S'\x12o?\xfc\xee2\xdd?'
+p969
+tp970
+Rp971
+tp972
+a(S'gavin mudd'
+p973
+g2
+(g6
+S'\xbe\xe2\x9b\xab\xfd.\xdd?'
+p974
+tp975
+Rp976
+tp977
+a(S'mining in brazil'
+p978
+g2
+(g6
+S'\x81X*\xa1\xfa+\xdd?'
+p979
+tp980
+Rp981
+tp982
+a(S'gavilan plateau'
+p983
+g2
+(g6
+S"\x8e*,\x17d'\xdd?"
+p984
+tp985
+Rp986
+tp987
+a(S'newmont mining corporation'
+p988
+g2
+(g6
+S'\x08\xab\xfba\n \xdd?'
+p989
+tp990
+Rp991
+tp992
+a(S'aleksina\xc4\x8dki rudnik'
+p993
+g2
+(g6
+S'r\x99t\xa3\xf3\x1c\xdd?'
+p994
+tp995
+Rp996
+tp997
+a(S'robert wilson dron'
+p998
+g2
+(g6
+S'o\xb04\xe7\xfd\x1b\xdd?'
+p999
+tp1000
+Rp1001
+tp1002
+a(S'jerome mine, ontario'
+p1003
+g2
+(g6
+S'\xf0$o"8\x13\xdd?'
+p1004
+tp1005
+Rp1006
+tp1007
+a(S'mining archaeology in the british isles'
+p1008
+g2
+(g6
+S'.\x0c>"\xf7\r\xdd?'
+p1009
+tp1010
+Rp1011
+tp1012
+a(S'indee gold mine'
+p1013
+g2
+(g6
+S'\x9e\x00)\x1c\xaf\x04\xdd?'
+p1014
+tp1015
+Rp1016
+tp1017
+a(S'institution of mining engineers'
+p1018
+g2
+(g6
+S'\x03H\x96\xea\xfa\x02\xdd?'
+p1019
+tp1020
+Rp1021
+tp1022
+a(S'sven rinman'
+p1023
+g2
+(g6
+S'\\\x85\xa2"I\x02\xdd?'
+p1024
+tp1025
+Rp1026
+tp1027
+a(S'gangue'
+p1028
+g2
+(g6
+S'\xe1\xd3\x8b\xbe\xa1\x01\xdd?'
+p1029
+tp1030
+Rp1031
+tp1032
+a(S'malmberget'
+p1033
+g2
+(g6
+S'\x9a\x98\xfc\x83\x80\xf9\xdc?'
+p1034
+tp1035
+Rp1036
+tp1037
+a(S'antonio nieto'
+p1038
+g2
+(g6
+S'%\x12e\x8a:\xf4\xdc?'
+p1039
+tp1040
+Rp1041
+tp1042
+a(S'the miners association'
+p1043
+g2
+(g6
+S'\xf6\x8f+O\x07\xf4\xdc?'
+p1044
+tp1045
+Rp1046
+tp1047
+a(S'harrison county history of coal museum'
+p1048
+g2
+(g6
+S'\xfdN\xe9tP\xed\xdc?'
+p1049
+tp1050
+Rp1051
+tp1052
+a(S'conquest mining'
+p1053
+g2
+(g6
+S'\x99O\xf8\x02\n\xe9\xdc?'
+p1054
+tp1055
+Rp1056
+tp1057
+a(S'youanmi gold mine'
+p1058
+g2
+(g6
+S'\x84\x8el3,\xdd\xdc?'
+p1059
+tp1060
+Rp1061
+tp1062
+a(S'chrysopolis, california'
+p1063
+g2
+(g6
+S'\xc8\x1cu\xc0\x7f\xdc\xdc?'
+p1064
+tp1065
+Rp1066
+tp1067
+a(S'walter r. skinner'
+p1068
+g2
+(g6
+S']B\xd1\xb08\xc6\xdc?'
+p1069
+tp1070
+Rp1071
+tp1072
+a(S'pacific rim mining corporation'
+p1073
+g2
+(g6
+S'J\xf0\xab~\x8c\xc5\xdc?'
+p1074
+tp1075
+Rp1076
+tp1077
+a(S'yentna-cache creek mining district'
+p1078
+g2
+(g6
+S',/\x06f\xbf\xc2\xdc?'
+p1079
+tp1080
+Rp1081
+tp1082
+a(S'open-pit mining'
+p1083
+g2
+(g6
+S'\xd4\x1e\x94\xde\x1b\xba\xdc?'
+p1084
+tp1085
+Rp1086
+tp1087
+a(S'wilcherry hill'
+p1088
+g2
+(g6
+S'\xf3\xae\xf7\xed\xed\xaf\xdc?'
+p1089
+tp1090
+Rp1091
+tp1092
+a(S'anatoly skurov'
+p1093
+g2
+(g6
+S'\xb2\xd6\xc4\n\x0c\xa8\xdc?'
+p1094
+tp1095
+Rp1096
+tp1097
+a(S'durham miners heritage centre'
+p1098
+g2
+(g6
+S'[_q\xd2U\x99\xdc?'
+p1099
+tp1100
+Rp1101
+tp1102
+a(S'p&h mining'
+p1103
+g2
+(g6
+S"&\xc1-R'\x98\xdc?"
+p1104
+tp1105
+Rp1106
+tp1107
+a(S'bing liu'
+p1108
+g2
+(g6
+S'\xff\x92\xc5\xb1x\x95\xdc?'
+p1109
+tp1110
+Rp1111
+tp1112
+a(S'kittil\xc3\xa4 mine'
+p1113
+g2
+(g6
+S'\xb3\x8c\x05\xfc\xf3\x94\xdc?'
+p1114
+tp1115
+Rp1116
+tp1117
+a(S'mechernich'
+p1118
+g2
+(g6
+S'\xf7\x94\xe1J\xdd\x84\xdc?'
+p1119
+tp1120
+Rp1121
+tp1122
+a(S'gidgee gold mine'
+p1123
+g2
+(g6
+S'\xd7/\x952\xf5\x81\xdc?'
+p1124
+tp1125
+Rp1126
+tp1127
+a(S'mineral industry of peru'
+p1128
+g2
+(g6
+S'\xe5\xb2/\xf9\xc1w\xdc?'
+p1129
+tp1130
+Rp1131
+tp1132
+a(S'tilwezembe'
+p1133
+g2
+(g6
+S'#\x0c\x87\x9dnk\xdc?'
+p1134
+tp1135
+Rp1136
+tp1137
+a(S'pittsburg-weir coalfield'
+p1138
+g2
+(g6
+S'J+_\x10\xeai\xdc?'
+p1139
+tp1140
+Rp1141
+tp1142
+a(S'show mine'
+p1143
+g2
+(g6
+S'f\xd2\x8bREh\xdc?'
+p1144
+tp1145
+Rp1146
+tp1147
+a(S'office of the mining & lands commissioner'
+p1148
+g2
+(g6
+S'5\x04\xe1\xe3\xbbg\xdc?'
+p1149
+tp1150
+Rp1151
+tp1152
+a(S'2008 in the democratic republic of the congo'
+p1153
+g2
+(g6
+S'\x82\x0f\x9b\xe9/f\xdc?'
+p1154
+tp1155
+Rp1156
+tp1157
+a(S'boogardie, western australia'
+p1158
+g2
+(g6
+S'\x08\x83S\xe25e\xdc?'
+p1159
+tp1160
+Rp1161
+tp1162
+a(S'mineral resource authority of mongolia'
+p1163
+g2
+(g6
+S'\xe1\xb2\x88S\xbe[\xdc?'
+p1164
+tp1165
+Rp1166
+tp1167
+a(S'mining industry of lesotho'
+p1168
+g2
+(g6
+S'\x92\x08\x05\x7f\xdeZ\xdc?'
+p1169
+tp1170
+Rp1171
+tp1172
+a(S'glasebach pit'
+p1173
+g2
+(g6
+S'\x17\x9e\xc9\x7fKS\xdc?'
+p1174
+tp1175
+Rp1176
+tp1177
+a(S'office of surface mining'
+p1178
+g2
+(g6
+S'\xe0r\x9a\xc6<J\xdc?'
+p1179
+tp1180
+Rp1181
+tp1182
+a(S'gwennap'
+p1183
+g2
+(g6
+S'\xfb\xc2\xb0\xef\x08E\xdc?'
+p1184
+tp1185
+Rp1186
+tp1187
+a(S'mongbwalu'
+p1188
+g2
+(g6
+S'\xf6C\x89\xb8)C\xdc?'
+p1189
+tp1190
+Rp1191
+tp1192
+a(S'international council on mining and metals'
+p1193
+g2
+(g6
+S'M\xac^x\xa3:\xdc?'
+p1194
+tp1195
+Rp1196
+tp1197
+a(S'minas-rio'
+p1198
+g2
+(g6
+S'\xce\xb2\x8c\xd5|9\xdc?'
+p1199
+tp1200
+Rp1201
+tp1202
+a(S'goldville, nevada'
+p1203
+g2
+(g6
+S'<\xfaa\x9b?9\xdc?'
+p1204
+tp1205
+Rp1206
+tp1207
+a(S'gold mining in western australia'
+p1208
+g2
+(g6
+S'\x1bI\x03\x08\xf64\xdc?'
+p1209
+tp1210
+Rp1211
+tp1212
+a(S'isua iron mine'
+p1213
+g2
+(g6
+S'jR\x19m42\xdc?'
+p1214
+tp1215
+Rp1216
+tp1217
+a(S'ngwenya mine'
+p1218
+g2
+(g6
+S'\x8f<\xf6d\x1d/\xdc?'
+p1219
+tp1220
+Rp1221
+tp1222
+a(S"chr. salvesen & chr. thams's communications aktieselskab"
+p1223
+g2
+(g6
+S'\x8f.\x03X\x12-\xdc?'
+p1224
+tp1225
+Rp1226
+tp1227
+a(S'bremner historic mining district'
+p1228
+g2
+(g6
+S'd\x85\\\x8a#+\xdc?'
+p1229
+tp1230
+Rp1231
+tp1232
+a(S'gavilan hills'
+p1233
+g2
+(g6
+S'\xc1\xbf>\xa4\xc5&\xdc?'
+p1234
+tp1235
+Rp1236
+tp1237
+a(S'mining simulator'
+p1238
+g2
+(g6
+S' \xa1\x1e\xffd%\xdc?'
+p1239
+tp1240
+Rp1241
+tp1242
+a(S'mining industry of togo'
+p1243
+g2
+(g6
+S'\x15}\xe5\xa6\x11\x1e\xdc?'
+p1244
+tp1245
+Rp1246
+tp1247
+a(S'mining in taiwan'
+p1248
+g2
+(g6
+S'\xa8\\%\xdb\x8a\x1d\xdc?'
+p1249
+tp1250
+Rp1251
+tp1252
+a(S'moonta mines, south australia'
+p1253
+g2
+(g6
+S'ue\xd5\xe5\xf9\x19\xdc?'
+p1254
+tp1255
+Rp1256
+tp1257
+a(S'sulitjelma'
+p1258
+g2
+(g6
+S"'\xb2xX\xcf\x17\xdc?"
+p1259
+tp1260
+Rp1261
+tp1262
+a(S'golden giant mine'
+p1263
+g2
+(g6
+S'\x9e\xd6\x9f\xb5\xe9\x14\xdc?'
+p1264
+tp1265
+Rp1266
+tp1267
+a(S'text mining'
+p1268
+g2
+(g6
+S'\xff\x13q\xe2:\x06\xdc?'
+p1269
+tp1270
+Rp1271
+tp1272
+a(S'mining in georgia (country)'
+p1273
+g2
+(g6
+S'7\xcb\te+\x05\xdc?'
+p1274
+tp1275
+Rp1276
+tp1277
+a(S'quincy mine'
+p1278
+g2
+(g6
+S'\xa3\xf9Z\x96\x7f\xfd\xdb?'
+p1279
+tp1280
+Rp1281
+tp1282
+a(S'national, utah'
+p1283
+g2
+(g6
+S'\x1b\tj\n\x1f\xf8\xdb?'
+p1284
+tp1285
+Rp1286
+tp1287
+a(S'minerals resource rent tax'
+p1288
+g2
+(g6
+S'>\xb4\xc33@\xf4\xdb?'
+p1289
+tp1290
+Rp1291
+tp1292
+a(S'konongo, ghana'
+p1293
+g2
+(g6
+S'\xc7\xe0\xfd\x7fY\xf3\xdb?'
+p1294
+tp1295
+Rp1296
+tp1297
+a(S'boddington gold mine'
+p1298
+g2
+(g6
+S'\x80#\x15DZ\xf2\xdb?'
+p1299
+tp1300
+Rp1301
+tp1302
+a(S'vassili samarsky-bykhovets'
+p1303
+g2
+(g6
+S'\x86\xf3\xe5\x18\xc2\xeb\xdb?'
+p1304
+tp1305
+Rp1306
+tp1307
+a(S'lihir gold'
+p1308
+g2
+(g6
+S'\xe0|R\xdc\xae\xeb\xdb?'
+p1309
+tp1310
+Rp1311
+tp1312
+a(S'galamsey'
+p1313
+g2
+(g6
+S'\xbe\xf9W\xab;\xe8\xdb?'
+p1314
+tp1315
+Rp1316
+tp1317
+a(S'rouchleau mine'
+p1318
+g2
+(g6
+S'\xe5fh\xfdf\xe3\xdb?'
+p1319
+tp1320
+Rp1321
+tp1322
+a(S'australian mining entrepreneurs'
+p1323
+g2
+(g6
+S'\x82\x11\xb5\xa9T\xe1\xdb?'
+p1324
+tp1325
+Rp1326
+tp1327
+a(S'mine reclamation'
+p1328
+g2
+(g6
+S'F\x04\xfft\xef\xd6\xdb?'
+p1329
+tp1330
+Rp1331
+tp1332
+a(S'mining industry of morocco'
+p1333
+g2
+(g6
+S'nF\x85\x8c!\xd6\xdb?'
+p1334
+tp1335
+Rp1336
+tp1337
+a(S'jualin mine'
+p1338
+g2
+(g6
+S'k\x83E\x08\x12\xd6\xdb?'
+p1339
+tp1340
+Rp1341
+tp1342
+a(S'placer mining'
+p1343
+g2
+(g6
+S'\xff&\xe7\x8fL\xd1\xdb?'
+p1344
+tp1345
+Rp1346
+tp1347
+a(S'mining industry of zimbabwe'
+p1348
+g2
+(g6
+S'\\\xf4,\xc7\x00\xce\xdb?'
+p1349
+tp1350
+Rp1351
+tp1352
+a(S'sand mining'
+p1353
+g2
+(g6
+S'\xe8\xc3\x84-\xc8\xcd\xdb?'
+p1354
+tp1355
+Rp1356
+tp1357
+a(S'copper mining in the united states'
+p1358
+g2
+(g6
+S'\x08S\xdf\xea\x01\xc2\xdb?'
+p1359
+tp1360
+Rp1361
+tp1362
+a(S'philip deidesheimer'
+p1363
+g2
+(g6
+S'\xbb0\xedF\x18\xbe\xdb?'
+p1364
+tp1365
+Rp1366
+tp1367
+a(S'phoenix mine'
+p1368
+g2
+(g6
+S'\xcf\x85f\xcf4\xbc\xdb?'
+p1369
+tp1370
+Rp1371
+tp1372
+a(S'drift mining'
+p1373
+g2
+(g6
+S'\xf6\x10\xce_\xd8\xb9\xdb?'
+p1374
+tp1375
+Rp1376
+tp1377
+a(S'copper range company'
+p1378
+g2
+(g6
+S'\xdd\x00\xae\xea\x9a\xb5\xdb?'
+p1379
+tp1380
+Rp1381
+tp1382
+a(S'hand steel'
+p1383
+g2
+(g6
+S'\n\xf8R\xbak\xb5\xdb?'
+p1384
+tp1385
+Rp1386
+tp1387
+a(S'mountaintop removal mining'
+p1388
+g2
+(g6
+S'-\x1c\xb5\xd9\x98\xaa\xdb?'
+p1389
+tp1390
+Rp1391
+tp1392
+a(S'mining in roman britain'
+p1393
+g2
+(g6
+S'&X\xc7\x15`\xa6\xdb?'
+p1394
+tp1395
+Rp1396
+tp1397
+a(S'patrice motsepe'
+p1398
+g2
+(g6
+S' \x97\x97\xc2\xb8\xa3\xdb?'
+p1399
+tp1400
+Rp1401
+tp1402
+a(S'mining and metallurgy in medieval europe'
+p1403
+g2
+(g6
+S'\xdf:`/\x94\xa2\xdb?'
+p1404
+tp1405
+Rp1406
+tp1407
+a(S'obulapuram mining company'
+p1408
+g2
+(g6
+S'\xc9I\xd2\xb8\xb3\x95\xdb?'
+p1409
+tp1410
+Rp1411
+tp1412
+a(S'peak district lead mining museum'
+p1413
+g2
+(g6
+S'<\xc3\xe2&\xf5\x8f\xdb?'
+p1414
+tp1415
+Rp1416
+tp1417
+a(S'uranium mining in arizona'
+p1418
+g2
+(g6
+S'\x02\xbcJ\xeb6\x8d\xdb?'
+p1419
+tp1420
+Rp1421
+tp1422
+a(S'tarkine'
+p1423
+g2
+(g6
+S'\x89\xb6\x7f)\xef\x8b\xdb?'
+p1424
+tp1425
+Rp1426
+tp1427
+a(S'victor, colorado'
+p1428
+g2
+(g6
+S'\xe1\x1ew^8\x89\xdb?'
+p1429
+tp1430
+Rp1431
+tp1432
+a(S'sawahlunto'
+p1433
+g2
+(g6
+S'\xeaa\xd1\xf8\xd7\x87\xdb?'
+p1434
+tp1435
+Rp1436
+tp1437
+a(S'famatina'
+p1438
+g2
+(g6
+S'\xf6\xe5\xa4M\x14\x87\xdb?'
+p1439
+tp1440
+Rp1441
+tp1442
+a(S'mining accident'
+p1443
+g2
+(g6
+S'\x83q\xf7\x8c\xdd\x7f\xdb?'
+p1444
+tp1445
+Rp1446
+tp1447
+a(S'crandon mine'
+p1448
+g2
+(g6
+S'3Cq+\x18{\xdb?'
+p1449
+tp1450
+Rp1451
+tp1452
+a(S'euromines'
+p1453
+g2
+(g6
+S'\x08E)\xc4\xd6t\xdb?'
+p1454
+tp1455
+Rp1456
+tp1457
+a(S'copper in africa'
+p1458
+g2
+(g6
+S'\x92F\xf2(\xf7s\xdb?'
+p1459
+tp1460
+Rp1461
+tp1462
+a(S'mineral industry of armenia'
+p1463
+g2
+(g6
+S'WR\x970\xb1r\xdb?'
+p1464
+tp1465
+Rp1466
+tp1467
+a(S'sierra, abangares'
+p1468
+g2
+(g6
+S'\x1e\xe0\x9a\x16\xc0o\xdb?'
+p1469
+tp1470
+Rp1471
+tp1472
+a(S'beanland mine'
+p1473
+g2
+(g6
+S'\xcdp\x1e+rT\xdb?'
+p1474
+tp1475
+Rp1476
+tp1477
+a(S'copper queen mine'
+p1478
+g2
+(g6
+S'\x00\xc2K\xbc\xbbP\xdb?'
+p1479
+tp1480
+Rp1481
+tp1482
+a(S'mesabi range'
+p1483
+g2
+(g6
+S'\xfa\xa0SO&A\xdb?'
+p1484
+tp1485
+Rp1486
+tp1487
+a(S'cockatoo island (western australia)'
+p1488
+g2
+(g6
+S'k\x08\xcc\xea\xa5<\xdb?'
+p1489
+tp1490
+Rp1491
+tp1492
+a(S'santa ana mine (peru)'
+p1493
+g2
+(g6
+S'\xaf\xaf\xb8\xe8\x937\xdb?'
+p1494
+tp1495
+Rp1496
+tp1497
+a(S'mines and minerals (development and regulation) amendment act, 2015'
+p1498
+g2
+(g6
+S'\x1d\xcc\xc1gx1\xdb?'
+p1499
+tp1500
+Rp1501
+tp1502
+a(S'harshaw, arizona'
+p1503
+g2
+(g6
+S'">\xc3t\x04\x1c\xdb?'
+p1504
+tp1505
+Rp1506
+tp1507
+a(S'telfer mine'
+p1508
+g2
+(g6
+S'\xd6\x8b\xe5Ae\x17\xdb?'
+p1509
+tp1510
+Rp1511
+tp1512
+a.

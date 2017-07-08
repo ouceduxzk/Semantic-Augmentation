@@ -1,0 +1,2728 @@
+(lp0
+(S'stochastic grammar'
+p1
+cnumpy.core.multiarray
+scalar
+p2
+(cnumpy
+dtype
+p3
+(S'f8'
+p4
+I0
+I1
+tp5
+Rp6
+(I3
+S'<'
+p7
+NNNI-1
+I-1
+I0
+tp8
+bS'\xff\xff\xff\xff\xff\xff\xef?'
+p9
+tp10
+Rp11
+tp12
+a(S'probabilistic bisimulation'
+p13
+g2
+(g6
+S']\x0f`\n\x8b\xde\xdf?'
+p14
+tp15
+Rp16
+tp17
+a(S'list of probabilistic proofs of non-probabilistic theorems'
+p18
+g2
+(g6
+S'-\x01,\x96\x1b\x19\xdf?'
+p19
+tp20
+Rp21
+tp22
+a(S'probabilistic programming language'
+p23
+g2
+(g6
+S'=\x18T\xa2W\x8b\xdc?'
+p24
+tp25
+Rp26
+tp27
+a(S'probabilistic argumentation'
+p28
+g2
+(g6
+S'tp\t\x05+\x12\xd9?'
+p29
+tp30
+Rp31
+tp32
+a(S'nessus probabilistic analysis software'
+p33
+g2
+(g6
+S'Fc]\xba\xf5\x03\xd9?'
+p34
+tp35
+Rp36
+tp37
+a(S'probabilistic semantics'
+p38
+g2
+(g6
+S'\x80Qn\xef\x8d\x17\xd8?'
+p39
+tp40
+Rp41
+tp42
+a(S'church (programming language)'
+p43
+g2
+(g6
+S'uI\xa4\t\xcb\x0f\xd8?'
+p44
+tp45
+Rp46
+tp47
+a(S'prism model checker'
+p48
+g2
+(g6
+S'wL\xca\xe1G\x93\xd7?'
+p49
+tp50
+Rp51
+tp52
+a(S'stochastic chains with memory of variable length'
+p53
+g2
+(g6
+S'\xa0\xc6_\x0b;7\xd7?'
+p54
+tp55
+Rp56
+tp57
+a(S'probabilistic prognosis'
+p58
+g2
+(g6
+S'O\xf3ds\x9a\xeb\xd6?'
+p59
+tp60
+Rp61
+tp62
+a(S'probabilistic design'
+p63
+g2
+(g6
+S'z\xb9\xe1u\x97u\xd6?'
+p64
+tp65
+Rp66
+tp67
+a(S'stochastic'
+p68
+g2
+(g6
+S')\x04\xb6\xc3\xf3$\xd6?'
+p69
+tp70
+Rp71
+tp72
+a(S'joel spencer'
+p73
+g2
+(g6
+S'\xc2\x80u"\xba\xeb\xd5?'
+p74
+tp75
+Rp76
+tp77
+a(S'statistical relational learning'
+p78
+g2
+(g6
+S'_3\r\x03\xac\xc9\xd5?'
+p79
+tp80
+Rp81
+tp82
+a(S'probabilistic logic'
+p83
+g2
+(g6
+S'p_\xc4\x8b&\x7f\xd5?'
+p84
+tp85
+Rp86
+tp87
+a(S'stemloc'
+p88
+g2
+(g6
+S'\xcc\xa6\xb7\x168\xd4\xd4?'
+p89
+tp90
+Rp91
+tp92
+a(S'probabilistic data association filter'
+p93
+g2
+(g6
+S'6\xef\xc9\xe4$\xa5\xd4?'
+p94
+tp95
+Rp96
+tp97
+a(S'probabilistic automaton'
+p98
+g2
+(g6
+S'\xf3?\xd4R"\x7f\xd4?'
+p99
+tp100
+Rp101
+tp102
+a(S'natural language processing'
+p103
+g2
+(g6
+S'\x07\tEF\x1c\x04\xd4?'
+p104
+tp105
+Rp106
+tp107
+a(S'probabilistic forecasting'
+p108
+g2
+(g6
+S'\xdf\xfel\x7f\x9e\xdd\xd3?'
+p109
+tp110
+Rp111
+tp112
+a(S'atlantic city algorithm'
+p113
+g2
+(g6
+S'\x88\xc1\xd0\xcbL\xdc\xd3?'
+p114
+tp115
+Rp116
+tp117
+a(S'probabilistic analysis of algorithms'
+p118
+g2
+(g6
+S'60fZQ\xd9\xd3?'
+p119
+tp120
+Rp121
+tp122
+a(S'game-theoretic rough sets'
+p123
+g2
+(g6
+S'B\x14{\x8a\xd3\xb0\xd3?'
+p124
+tp125
+Rp126
+tp127
+a(S'joint probabilistic data association filter'
+p128
+g2
+(g6
+S"\xfd\x16HR'\xb0\xd3?"
+p129
+tp130
+Rp131
+tp132
+a(S'probabilistic classification'
+p133
+g2
+(g6
+S'#\xcd\xfb\x1a\xef\xab\xd3?'
+p134
+tp135
+Rp136
+tp137
+a(S'pcmos'
+p138
+g2
+(g6
+S'\xa4\xcf\x85\xef\x1av\xd3?'
+p139
+tp140
+Rp141
+tp142
+a(S'statistical model'
+p143
+g2
+(g6
+S'\xf3\xc1.\xcfbH\xd3?'
+p144
+tp145
+Rp146
+tp147
+a(S'eugene charniak'
+p148
+g2
+(g6
+S'\xc4\x84\x05v:6\xd3?'
+p149
+tp150
+Rp151
+tp152
+a(S'probabilistic metric space'
+p153
+g2
+(g6
+S'\x90\x95ZIr\x1f\xd3?'
+p154
+tp155
+Rp156
+tp157
+a(S'probabilistic soft logic'
+p158
+g2
+(g6
+S'\xed\xf1\xa5\x0f\x17^\xd2?'
+p159
+tp160
+Rp161
+tp162
+a(S'opencog'
+p163
+g2
+(g6
+S'}\xa3\x15_n\xc5\xd1?'
+p164
+tp165
+Rp166
+tp167
+a(S'probabilistic voting model'
+p168
+g2
+(g6
+S'\xcd-\xa9%\xbdY\xd1?'
+p169
+tp170
+Rp171
+tp172
+a(S'empirical statistical laws'
+p173
+g2
+(g6
+S'\xa4y\xba\xe9\xd28\xd1?'
+p174
+tp175
+Rp176
+tp177
+a(S'markov chain approximation method'
+p178
+g2
+(g6
+S'\x92\xfc\xd1iF-\xd1?'
+p179
+tp180
+Rp181
+tp182
+a(S'stochastic context-free grammar'
+p183
+g2
+(g6
+S'\xa9\xd2\xae\x83;\xef\xd0?'
+p184
+tp185
+Rp186
+tp187
+a(S'outline of natural language processing'
+p188
+g2
+(g6
+S'\xb64\xc5\xa4\x7f\xe7\xd0?'
+p189
+tp190
+Rp191
+tp192
+a(S'stathis zachos'
+p193
+g2
+(g6
+S'v\xd3V\x82\xf7\xe2\xd0?'
+p194
+tp195
+Rp196
+tp197
+a(S'computational informatics'
+p198
+g2
+(g6
+S'\xca\xee\x0f~\x19\xd6\xd0?'
+p199
+tp200
+Rp201
+tp202
+a(S'egon brunswik'
+p203
+g2
+(g6
+S'q\x86\xc7\xde\x7f\xbd\xd0?'
+p204
+tp205
+Rp206
+tp207
+a(S'statistical parsing'
+p208
+g2
+(g6
+S'[\xe1#\xdc\xf5\xa2\xd0?'
+p209
+tp210
+Rp211
+tp212
+a(S'list of metropolitan statistical areas'
+p213
+g2
+(g6
+S'\xb6{\x96A\x14\x9c\xd0?'
+p214
+tp215
+Rp216
+tp217
+a(S'list of united states counties and county equivalents'
+p218
+g2
+(g6
+S'\x03\xb3\xb4\xa3\xecs\xd0?'
+p219
+tp220
+Rp221
+tp222
+a(S'probabilistic proposition'
+p223
+g2
+(g6
+S'Da\x01V\x92m\xd0?'
+p224
+tp225
+Rp226
+tp227
+a(S'stochastic modelling (insurance)'
+p228
+g2
+(g6
+S'>\r\x88\xd3\x15i\xd0?'
+p229
+tp230
+Rp231
+tp232
+a(S'stochastic computing'
+p233
+g2
+(g6
+S'\x12e\xed\x8fEd\xd0?'
+p234
+tp235
+Rp236
+tp237
+a(S'stochastic cellular automaton'
+p238
+g2
+(g6
+S'R\x11sP\xcaN\xd0?'
+p239
+tp240
+Rp241
+tp242
+a(S'probabilistic turing machine'
+p243
+g2
+(g6
+S"'\xce\xadv\xa3;\xd0?"
+p244
+tp245
+Rp246
+tp247
+a(S'statistical theory'
+p248
+g2
+(g6
+S'\xae\xe8\xed\xb6\xc99\xd0?'
+p249
+tp250
+Rp251
+tp252
+a(S'list of core-based statistical areas'
+p253
+g2
+(g6
+S'\x0c\x81$\xc9:\x11\xd0?'
+p254
+tp255
+Rp256
+tp257
+a(S'combined statistical area'
+p258
+g2
+(g6
+S'\x91\x9a\xa7\xb2\x13\x01\xd0?'
+p259
+tp260
+Rp261
+tp262
+a(S'carroll morgan (computer scientist)'
+p263
+g2
+(g6
+S'\xff\xb6\xe8+L\x00\xd0?'
+p264
+tp265
+Rp266
+tp267
+a(S'list of fields of application of statistics'
+p268
+g2
+(g6
+S'\xb2\xa1\x89|\xc3\xd0\xcf?'
+p269
+tp270
+Rp271
+tp272
+a(S'inside\xe2\x80\x93outside algorithm'
+p273
+g2
+(g6
+S"'D\xd3\xef\xf4\x8f\xcf?"
+p274
+tp275
+Rp276
+tp277
+a(S'history of natural language processing'
+p278
+g2
+(g6
+S'm\xfd\x1f\xaf\xd9w\xcf?'
+p279
+tp280
+Rp281
+tp282
+a(S'context-free grammar'
+p283
+g2
+(g6
+S"'\x95\xdf\xdcMM\xcf?"
+p284
+tp285
+Rp286
+tp287
+a(S'statistical physics'
+p288
+g2
+(g6
+S'X\xc2xF$@\xcf?'
+p289
+tp290
+Rp291
+tp292
+a(S'list of academic statistical associations'
+p293
+g2
+(g6
+S'\xb8\x02ih7\xec\xce?'
+p294
+tp295
+Rp296
+tp297
+a(S'probabilistic latent semantic analysis'
+p298
+g2
+(g6
+S'|}\x06\xb8\xdd\xa6\xce?'
+p299
+tp300
+Rp301
+tp302
+a(S'data generating process'
+p303
+g2
+(g6
+S'\xf7\x82\x19,#s\xce?'
+p304
+tp305
+Rp306
+tp307
+a(S'probabilistic encryption'
+p308
+g2
+(g6
+S'\x840\x97"\xe2Y\xce?'
+p309
+tp310
+Rp311
+tp312
+a(S'stochastic process'
+p313
+g2
+(g6
+S'\x0e\x14\xec\xed\x11E\xce?'
+p314
+tp315
+Rp316
+tp317
+a(S'stochastic thinking'
+p318
+g2
+(g6
+S'\xc2\x97E\xdbn>\xce?'
+p319
+tp320
+Rp321
+tp322
+a(S'dan roth'
+p323
+g2
+(g6
+S'\xeen\xa1CM4\xce?'
+p324
+tp325
+Rp326
+tp327
+a(S'list of primary statistical areas of the united states'
+p328
+g2
+(g6
+S'(\xfb\xc4\n\xb8&\xce?'
+p329
+tp330
+Rp331
+tp332
+a(S'trigram tagger'
+p333
+g2
+(g6
+S'\x8b\x1ds\xf6\xdf\x10\xce?'
+p334
+tp335
+Rp336
+tp337
+a(S'statistical methods for research workers'
+p338
+g2
+(g6
+S'O\xee\xa3\x12\x9c\xcb\xcd?'
+p339
+tp340
+Rp341
+tp342
+a(S'galves\xe2\x80\x93l\xc3\xb6cherbach model'
+p343
+g2
+(g6
+S'\xb4\x1d=\xca\xbe\xb7\xcd?'
+p344
+tp345
+Rp346
+tp347
+a(S'conditional random field'
+p348
+g2
+(g6
+S'\xb7;p}}\xb6\xcd?'
+p349
+tp350
+Rp351
+tp352
+a(S'anatoly zhigljavsky'
+p353
+g2
+(g6
+S'z3\xc1\xb6\x9d\xb1\xcd?'
+p354
+tp355
+Rp356
+tp357
+a(S'colorado statistical areas'
+p358
+g2
+(g6
+S'7\xd8\xed\x0eW\xae\xcd?'
+p359
+tp360
+Rp361
+tp362
+a(S'machine learning'
+p363
+g2
+(g6
+S'\xe5\x9a\xa7e\t\xaa\xcd?'
+p364
+tp365
+Rp366
+tp367
+a(S'statistical literacy'
+p368
+g2
+(g6
+S'<!0Qv\xa8\xcd?'
+p369
+tp370
+Rp371
+tp372
+a(S'united states primary statistical area'
+p373
+g2
+(g6
+S'\xdb\xa1\xac?>\xa8\xcd?'
+p374
+tp375
+Rp376
+tp377
+a(S'richard weber (mathematician)'
+p378
+g2
+(g6
+S'\x7f.\x96\x1f\xc0\x9f\xcd?'
+p379
+tp380
+Rp381
+tp382
+a(S'probabilistic neural network'
+p383
+g2
+(g6
+S'#\xf5u/_v\xcd?'
+p384
+tp385
+Rp386
+tp387
+a(S'grammar induction'
+p388
+g2
+(g6
+S'5}\xd6\x03\xd4t\xcd?'
+p389
+tp390
+Rp391
+tp392
+a(S'stochastic forensics'
+p393
+g2
+(g6
+S'n\xbf6\x915N\xcd?'
+p394
+tp395
+Rp396
+tp397
+a(S'probabilistic relevance model'
+p398
+g2
+(g6
+S'\xb77m\x81t#\xcd?'
+p399
+tp400
+Rp401
+tp402
+a(S'united nations statistics division'
+p403
+g2
+(g6
+S'\xa4\xbf\x0f\xed\x9e\x1e\xcd?'
+p404
+tp405
+Rp406
+tp407
+a(S'richard f. bass'
+p408
+g2
+(g6
+S'\x18\x18-\x8c\xa3\x17\xcd?'
+p409
+tp410
+Rp411
+tp412
+a(S'stochastic resonance (book)'
+p413
+g2
+(g6
+S'.\xeaB\x97\xee\x14\xcd?'
+p414
+tp415
+Rp416
+tp417
+a(S'hellenic statistical authority'
+p418
+g2
+(g6
+S'\xb0H\xe3\xf1\r\x0e\xcd?'
+p419
+tp420
+Rp421
+tp422
+a(S'stochastic optimization'
+p423
+g2
+(g6
+S'\x8a\xcfV\xf3\xb7\t\xcd?'
+p424
+tp425
+Rp426
+tp427
+a(S'gmm'
+p428
+g2
+(g6
+S'\x14\xd9}*\xb3\x03\xcd?'
+p429
+tp430
+Rp431
+tp432
+a(S'stuart geman'
+p433
+g2
+(g6
+S'\x9e\x04\xe5\xd4\xb6\xff\xcc?'
+p434
+tp435
+Rp436
+tp437
+a(S'stochastic equicontinuity'
+p438
+g2
+(g6
+S'\x01\xc3\x0b\xb4\x16\xe8\xcc?'
+p439
+tp440
+Rp441
+tp442
+a(S'journal of statistics education'
+p443
+g2
+(g6
+S'\xe3\x0504\x99\xe2\xcc?'
+p444
+tp445
+Rp446
+tp447
+a(S'econophysics'
+p448
+g2
+(g6
+S'\x99\xe3\xff\x16\xbb\xce\xcc?'
+p449
+tp450
+Rp451
+tp452
+a(S'formal grammar'
+p453
+g2
+(g6
+S'J\x90\x8a\xc0\x12\xba\xcc?'
+p454
+tp455
+Rp456
+tp457
+a(S'dieter fox'
+p458
+g2
+(g6
+S'$\xed\x16\xc6\xf8[\xcc?'
+p459
+tp460
+Rp461
+tp462
+a(S'john d. lafferty'
+p463
+g2
+(g6
+S'\x7fx-\x97B[\xcc?'
+p464
+tp465
+Rp466
+tp467
+a(S'stochastic models'
+p468
+g2
+(g6
+S'Ck\xab0yO\xcc?'
+p469
+tp470
+Rp471
+tp472
+a(S'pattern recognition'
+p473
+g2
+(g6
+S'\xd3\x81\xb0\xfbK<\xcc?'
+p474
+tp475
+Rp476
+tp477
+a(S'history of english grammars'
+p478
+g2
+(g6
+S'\x8a\xc4\xbakV,\xcc?'
+p479
+tp480
+Rp481
+tp482
+a(S'statistical language acquisition'
+p483
+g2
+(g6
+S'\xc8+\xfc\x98\xcb\x1c\xcc?'
+p484
+tp485
+Rp486
+tp487
+a(S'silverthorne micropolitan statistical area'
+p488
+g2
+(g6
+S'\xbf\xdfp\xf4N\x10\xcc?'
+p489
+tp490
+Rp491
+tp492
+a(S'grammar explorer'
+p493
+g2
+(g6
+S'\x10\xae\xd4\xe1\xa6\x05\xcc?'
+p494
+tp495
+Rp496
+tp497
+a(S'grammar'
+p498
+g2
+(g6
+S'\xc8\x92L\xff\xec\x04\xcc?'
+p499
+tp500
+Rp501
+tp502
+a(S'statistical assembly'
+p503
+g2
+(g6
+S'\x9dY\x82\x89\x8e\xff\xcb?'
+p504
+tp505
+Rp506
+tp507
+a(S'stochastic investment model'
+p508
+g2
+(g6
+S'B\xd0!a\xa5\xf6\xcb?'
+p509
+tp510
+Rp511
+tp512
+a(S'robert j. elliott'
+p513
+g2
+(g6
+S'\xc5\xc67\x0b\x83\xe5\xcb?'
+p514
+tp515
+Rp516
+tp517
+a(S'time series'
+p518
+g2
+(g6
+S'\xc2H|\x85T\xd8\xcb?'
+p519
+tp520
+Rp521
+tp522
+a(S'grand junction metropolitan statistical area'
+p523
+g2
+(g6
+S'\xb2l\x97Q\xff\xbd\xcb?'
+p524
+tp525
+Rp526
+tp527
+a(S'katherine wallman'
+p528
+g2
+(g6
+S'\xf6\x85\x12\xf4\xb8\x93\xcb?'
+p529
+tp530
+Rp531
+tp532
+a(S'computational statistics'
+p533
+g2
+(g6
+S'^\x16\x8c\xa2e\x7f\xcb?'
+p534
+tp535
+Rp536
+tp537
+a(S'probabilistic logic network'
+p538
+g2
+(g6
+S'u\xbf\xe8\xefap\xcb?'
+p539
+tp540
+Rp541
+tp542
+a(S'fisher kernel'
+p543
+g2
+(g6
+S'\xfaM\xc5\xde-p\xcb?'
+p544
+tp545
+Rp546
+tp547
+a(S'steve omohundro'
+p548
+g2
+(g6
+S'\xbd\xb4\xf6n4l\xcb?'
+p549
+tp550
+Rp551
+tp552
+a(S'terrence l. fine'
+p553
+g2
+(g6
+S'+t\xb0\x8d\xa1\\\xcb?'
+p554
+tp555
+Rp556
+tp557
+a(S'probabilistic method'
+p558
+g2
+(g6
+S'\xb8P\x86\x1a\x14Y\xcb?'
+p559
+tp560
+Rp561
+tp562
+a(S'edwards, co micropolitan statistical area'
+p563
+g2
+(g6
+S'x\xc4\xadiMX\xcb?'
+p564
+tp565
+Rp566
+tp567
+a(S'probabilistic database'
+p568
+g2
+(g6
+S'\xe4y\xf1\x82\xfdR\xcb?'
+p569
+tp570
+Rp571
+tp572
+a(S'michael krivelevich'
+p573
+g2
+(g6
+S'\x95\xb3\x0e\xb3\xeaQ\xcb?'
+p574
+tp575
+Rp576
+tp577
+a(S'yauco metropolitan area'
+p578
+g2
+(g6
+S'\xc4\x191j\x06E\xcb?'
+p579
+tp580
+Rp581
+tp582
+a(S'ambiguous grammar'
+p583
+g2
+(g6
+S'5U\x92f\xea=\xcb?'
+p584
+tp585
+Rp586
+tp587
+a(S'doubly stochastic model'
+p588
+g2
+(g6
+S'\x05\xe36\x90\xf12\xcb?'
+p589
+tp590
+Rp591
+tp592
+a(S'sterling micropolitan statistical area'
+p593
+g2
+(g6
+S'\xa9\xe7]s3%\xcb?'
+p594
+tp595
+Rp596
+tp597
+a(S'stochastic petri net'
+p598
+g2
+(g6
+S'\xd4D\x97\xe74\x1e\xcb?'
+p599
+tp600
+Rp601
+tp602
+a(S'statistical lab'
+p603
+g2
+(g6
+S'\xec\xe9\xf6u\x8d\x1b\xcb?'
+p604
+tp605
+Rp606
+tp607
+a(S'statistical office of the republic of serbia'
+p608
+g2
+(g6
+S'"\xec\xa8xg\x13\xcb?'
+p609
+tp610
+Rp611
+tp612
+a(S'statistical database'
+p613
+g2
+(g6
+S'\xd9(?\xe6o\x0e\xcb?'
+p614
+tp615
+Rp616
+tp617
+a(S'generative grammar'
+p618
+g2
+(g6
+S'j>\x8an\xeb\x04\xcb?'
+p619
+tp620
+Rp621
+tp622
+a(S'fort morgan micropolitan statistical area'
+p623
+g2
+(g6
+S'\x89\xa7\x9c\x9e\x0e\x00\xcb?'
+p624
+tp625
+Rp626
+tp627
+a(S'dietrich stoyan'
+p628
+g2
+(g6
+S'm\x90W\r\x1c\xf6\xca?'
+p629
+tp630
+Rp631
+tp632
+a(S'hierarchical hidden markov model'
+p633
+g2
+(g6
+S'\x9e\x9fwI\xf9\xf4\xca?'
+p634
+tp635
+Rp636
+tp637
+a(S'generative model'
+p638
+g2
+(g6
+S'\x1e\xaa\xfb\xc3\xdd\xf4\xca?'
+p639
+tp640
+Rp641
+tp642
+a(S'lydia kavraki'
+p643
+g2
+(g6
+S'\xb4\x94\x82Uw\xf4\xca?'
+p644
+tp645
+Rp646
+tp647
+a(S'albert shiryaev'
+p648
+g2
+(g6
+S'J\xb3\x16\xc7J\xe6\xca?'
+p649
+tp650
+Rp651
+tp652
+a(S'statistical learning in language acquisition'
+p653
+g2
+(g6
+S'"\x12\x00(N\xd3\xca?'
+p654
+tp655
+Rp656
+tp657
+a(S'joseph l. doob'
+p658
+g2
+(g6
+S'\xb7\x93\x99YB\xca\xca?'
+p659
+tp660
+Rp661
+tp662
+a(S'stochastic quantization'
+p663
+g2
+(g6
+S'\x81\xc5v\x1a\xba\xc4\xca?'
+p664
+tp665
+Rp666
+tp667
+a(S'two-level grammar'
+p668
+g2
+(g6
+S'\x9b\xe4\xd0kZ|\xca?'
+p669
+tp670
+Rp671
+tp672
+a(S'medslt'
+p673
+g2
+(g6
+S'B\xa2\xfa\xc2\xca{\xca?'
+p674
+tp675
+Rp676
+tp677
+a(S'national statistical institute (bulgaria)'
+p678
+g2
+(g6
+S'\xabO\xeb\xa7\x01{\xca?'
+p679
+tp680
+Rp681
+tp682
+a(S'list of micropolitan statistical areas'
+p683
+g2
+(g6
+S'\x0bJ491o\xca?'
+p684
+tp685
+Rp686
+tp687
+a(S'disorder problem'
+p688
+g2
+(g6
+S'\xacdyT"i\xca?'
+p689
+tp690
+Rp691
+tp692
+a(S'bpl (complexity)'
+p693
+g2
+(g6
+S'\x98.\xe4t\xb2`\xca?'
+p694
+tp695
+Rp696
+tp697
+a(S'philippe blanchard'
+p698
+g2
+(g6
+S'\x15X\xfa\x02\x94K\xca?'
+p699
+tp700
+Rp701
+tp702
+a(S'asta advances in statistical analysis'
+p703
+g2
+(g6
+S'\x00\xf8\xec\xf0wE\xca?'
+p704
+tp705
+Rp706
+tp707
+a(S'darinka dentcheva'
+p708
+g2
+(g6
+S'\xda\xc7*\xdc\xfd>\xca?'
+p709
+tp710
+Rp711
+tp712
+a(S'list of statistical packages'
+p713
+g2
+(g6
+S'\x9f\xf7\x9a\xeec=\xca?'
+p714
+tp715
+Rp716
+tp717
+a(S'southeastern united states'
+p718
+g2
+(g6
+S'+\xd5\xd1+\xd2<\xca?'
+p719
+tp720
+Rp721
+tp722
+a(S'official statistics'
+p723
+g2
+(g6
+S'\xa7\xba\xfc\xdcQ;\xca?'
+p724
+tp725
+Rp726
+tp727
+a(S'hidden semi-markov model'
+p728
+g2
+(g6
+S"=\x1b\xf6'\x8e%\xca?"
+p729
+tp730
+Rp731
+tp732
+a(S'statistical signal processing'
+p733
+g2
+(g6
+S'\x82#\xc3\xb9\x16\x02\xca?'
+p734
+tp735
+Rp736
+tp737
+a(S'ofer dekel (researcher)'
+p738
+g2
+(g6
+S'\x9f\xbe\xe2\xcc\x17\xf6\xc9?'
+p739
+tp740
+Rp741
+tp742
+a(S'goldsim'
+p743
+g2
+(g6
+S'P\xffp\xe3\x87\xe9\xc9?'
+p744
+tp745
+Rp746
+tp747
+a(S'stochastic ordering'
+p748
+g2
+(g6
+S'n\xa1\x99\x82\x7f\xe4\xc9?'
+p749
+tp750
+Rp751
+tp752
+a(S'graphical model'
+p753
+g2
+(g6
+S"'\x8d%\x06\xf4\xdc\xc9?"
+p754
+tp755
+Rp756
+tp757
+a(S'grammar systems theory'
+p758
+g2
+(g6
+S'I`\xfb\xde\x19\xd7\xc9?'
+p759
+tp760
+Rp761
+tp762
+a(S'john boreham'
+p763
+g2
+(g6
+S'\x13\xb462.\xc4\xc9?'
+p764
+tp765
+Rp766
+tp767
+a(S'head-driven phrase structure grammar'
+p768
+g2
+(g6
+S'5\xd8\xd5R-\xc0\xc9?'
+p769
+tp770
+Rp771
+tp772
+a(S'dubai statistics center'
+p773
+g2
+(g6
+S'!\x19\r\x9f\x1b\xc0\xc9?'
+p774
+tp775
+Rp776
+tp777
+a(S'controlled grammar'
+p778
+g2
+(g6
+S'o\xe9\xd2\xc1\xf1\xbf\xc9?'
+p779
+tp780
+Rp781
+tp782
+a(S'nir friedman'
+p783
+g2
+(g6
+S'\xcd\xcc\x8bp\xba\xb3\xc9?'
+p784
+tp785
+Rp786
+tp787
+a(S'comparison of statistics journals'
+p788
+g2
+(g6
+S'@4\xe5\x1a\x88\xaf\xc9?'
+p789
+tp790
+Rp791
+tp792
+a(S'federal statistical system of the united states'
+p793
+g2
+(g6
+S'lQ\x99\xb7[\xac\xc9?'
+p794
+tp795
+Rp796
+tp797
+a(S'extended affix grammar'
+p798
+g2
+(g6
+S';\x9fyWH\x99\xc9?'
+p799
+tp800
+Rp801
+tp802
+a(S'polynomial chaos'
+p803
+g2
+(g6
+S'\xdf\xd5\xab\xcf\xa1\x85\xc9?'
+p804
+tp805
+Rp806
+tp807
+a(S'statistical stability'
+p808
+g2
+(g6
+S'\xfa\xb7\xa4uMz\xc9?'
+p809
+tp810
+Rp811
+tp812
+a(S'poverty of the stimulus'
+p813
+g2
+(g6
+S'.\x0b\xaf\xb1hp\xc9?'
+p814
+tp815
+Rp816
+tp817
+a(S'markov logic network'
+p818
+g2
+(g6
+S'\xc4b\xd4\x96\xbc]\xc9?'
+p819
+tp820
+Rp821
+tp822
+a(S'central statistical directorate'
+p823
+g2
+(g6
+S'\xbf\xea\xf3\xd0iR\xc9?'
+p824
+tp825
+Rp826
+tp827
+a(S'ca\xc3\xb1on city, co micropolitan statistical area'
+p828
+g2
+(g6
+S'v\xce\xfa7yJ\xc9?'
+p829
+tp830
+Rp831
+tp832
+a(S'probabilistic ctl'
+p833
+g2
+(g6
+S'4\xf0P\xd8C@\xc9?'
+p834
+tp835
+Rp836
+tp837
+a(S'integrational theory of grammars'
+p838
+g2
+(g6
+S'p\xf6{J\x1f-\xc9?'
+p839
+tp840
+Rp841
+tp842
+a(S'markov property'
+p843
+g2
+(g6
+S'\xc4\rDo\x95)\xc9?'
+p844
+tp845
+Rp846
+tp847
+a(S'certificate in quantitative finance'
+p848
+g2
+(g6
+S'\x11\x84\x81Ad\x1e\xc9?'
+p849
+tp850
+Rp851
+tp852
+a(S'constraint automaton'
+p853
+g2
+(g6
+S'\xc2#\xab\xc2\xa9\x00\xc9?'
+p854
+tp855
+Rp856
+tp857
+a(S'string grammar'
+p858
+g2
+(g6
+S'0\xd6TCk\xfc\xc8?'
+p859
+tp860
+Rp861
+tp862
+a(S'jean-michel bismut'
+p863
+g2
+(g6
+S'\xb1>\x02\xd0!\xe9\xc8?'
+p864
+tp865
+Rp866
+tp867
+a(S'statistical society of australia'
+p868
+g2
+(g6
+S'B\xb5]\x8dt\xe7\xc8?'
+p869
+tp870
+Rp871
+tp872
+a(S'stan (software)'
+p873
+g2
+(g6
+S'\xad\x81\xc6\x84k\xe6\xc8?'
+p874
+tp875
+Rp876
+tp877
+a(S'istv\xc3\xa1n gy\xc3\xb6ngy'
+p878
+g2
+(g6
+S'$\x02\xcc\xaf\xa1\xdc\xc8?'
+p879
+tp880
+Rp881
+tp882
+a(S'model selection'
+p883
+g2
+(g6
+S'\x86\xb3\xf7\xf9\x1c\xd6\xc8?'
+p884
+tp885
+Rp886
+tp887
+a(S'joseph hilbe'
+p888
+g2
+(g6
+S'Ta^=\x0f\xd1\xc8?'
+p889
+tp890
+Rp891
+tp892
+a(S'list of stochastic processes topics'
+p893
+g2
+(g6
+S'xO\\\x88%\xc9\xc8?'
+p894
+tp895
+Rp896
+tp897
+a(S'cheyenne metropolitan area'
+p898
+g2
+(g6
+S';k\xea&\xd7\xad\xc8?'
+p899
+tp900
+Rp901
+tp902
+a(S'albrecht matrix hybrid'
+p903
+g2
+(g6
+S'>\xeb\x84\xb2\x9d\xad\xc8?'
+p904
+tp905
+Rp906
+tp907
+a(S'hawaii statistical areas'
+p908
+g2
+(g6
+S'K\xcbI\xd6\x7f\xad\xc8?'
+p909
+tp910
+Rp911
+tp912
+a(S'mildly context-sensitive grammar formalism'
+p913
+g2
+(g6
+S'\x0b\x9e\x01)\x92\xac\xc8?'
+p914
+tp915
+Rp916
+tp917
+a(S's-attributed grammar'
+p918
+g2
+(g6
+S')\x13\\\xa0g\xaa\xc8?'
+p919
+tp920
+Rp921
+tp922
+a(S'stochastic matrix'
+p923
+g2
+(g6
+S'i\xe5\xde\xeeB\xaa\xc8?'
+p924
+tp925
+Rp926
+tp927
+a(S'categorial grammar'
+p928
+g2
+(g6
+S',f\xd8\xb3o\xa5\xc8?'
+p929
+tp930
+Rp931
+tp932
+a(S'deep linguistic processing'
+p933
+g2
+(g6
+S'\x91\x06\xb2+^\x9a\xc8?'
+p934
+tp935
+Rp936
+tp937
+a(S'gregory wheeler'
+p938
+g2
+(g6
+S'\x80q\x16y\x8b\x97\xc8?'
+p939
+tp940
+Rp941
+tp942
+a(S'hidden markov random field'
+p943
+g2
+(g6
+S'\t4\xd7\xcc\xb1\x8c\xc8?'
+p944
+tp945
+Rp946
+tp947
+a(S'jean-claude latombe'
+p948
+g2
+(g6
+S'\x9a\xd8\xf5N\xce\x8b\xc8?'
+p949
+tp950
+Rp951
+tp952
+a(S'montrose micropolitan statistical area'
+p953
+g2
+(g6
+S'+0\xfb\xac\r\x87\xc8?'
+p954
+tp955
+Rp956
+tp957
+a(S'stochastic resonance'
+p958
+g2
+(g6
+S'\xe1\xeb\xbbD\xb3n\xc8?'
+p959
+tp960
+Rp961
+tp962
+a(S'julian besag'
+p963
+g2
+(g6
+S'\xec_\xe5b\x9bm\xc8?'
+p964
+tp965
+Rp966
+tp967
+a(S'computational linguistics'
+p968
+g2
+(g6
+S'\x1dq\xa7\xf3\x80`\xc8?'
+p969
+tp970
+Rp971
+tp972
+a(S'adamsoft'
+p973
+g2
+(g6
+S'H7B\x97\xf4D\xc8?'
+p974
+tp975
+Rp976
+tp977
+a(S'natural language toolkit'
+p978
+g2
+(g6
+S'l.\x92\xb0uC\xc8?'
+p979
+tp980
+Rp981
+tp982
+a(S'regulated rewriting'
+p983
+g2
+(g6
+S'FV\xcc\ty2\xc8?'
+p984
+tp985
+Rp986
+tp987
+a(S'eric xing'
+p988
+g2
+(g6
+S'B\xd2\x04\x10\xa40\xc8?'
+p989
+tp990
+Rp991
+tp992
+a(S'mehryar mohri'
+p993
+g2
+(g6
+S'\xa5\x83=\x99+/\xc8?'
+p994
+tp995
+Rp996
+tp997
+a(S'online machine learning'
+p998
+g2
+(g6
+S'\xd0\x08\x94\xdfQ&\xc8?'
+p999
+tp1000
+Rp1001
+tp1002
+a(S'boolean grammar'
+p1003
+g2
+(g6
+S'\x7f\x1aG\xd8\x85!\xc8?'
+p1004
+tp1005
+Rp1006
+tp1007
+a(S'stochastic semantic analysis'
+p1008
+g2
+(g6
+S'\x7f&\xcb\xd9S\x1c\xc8?'
+p1009
+tp1010
+Rp1011
+tp1012
+a(S'markov model'
+p1013
+g2
+(g6
+S'\x14n\xfe\xc9\x7f\x18\xc8?'
+p1014
+tp1015
+Rp1016
+tp1017
+a(S'stochastic dynamic programming'
+p1018
+g2
+(g6
+S'1r\x9b\x1c\xdb\x17\xc8?'
+p1019
+tp1020
+Rp1021
+tp1022
+a(S'entropy rate'
+p1023
+g2
+(g6
+S'\x82\xd5F\x14 \x15\xc8?'
+p1024
+tp1025
+Rp1026
+tp1027
+a(S'generalized phrase structure grammar'
+p1028
+g2
+(g6
+S'\x1d\xc3\x08\xf1\xcb\xf0\xc7?'
+p1029
+tp1030
+Rp1031
+tp1032
+a(S'tanagra (machine learning)'
+p1033
+g2
+(g6
+S'k\xa8\xc9\xe0\xf2\xee\xc7?'
+p1034
+tp1035
+Rp1036
+tp1037
+a(S'next-bit test'
+p1038
+g2
+(g6
+S'\xa8\xb8|\xe3\x93\xe7\xc7?'
+p1039
+tp1040
+Rp1041
+tp1042
+a(S'walter a. shewhart'
+p1043
+g2
+(g6
+S'y/\xe5\xf8{\xe2\xc7?'
+p1044
+tp1045
+Rp1046
+tp1047
+a(S'denver\xe2\x80\x93aurora combined statistical area'
+p1048
+g2
+(g6
+S'\xa9Y|U\x88\xe0\xc7?'
+p1049
+tp1050
+Rp1051
+tp1052
+a(S'novelty detection'
+p1053
+g2
+(g6
+S'\x99\xe9o\xe9\xba\xd5\xc7?'
+p1054
+tp1055
+Rp1056
+tp1057
+a(S'algorithmic learning theory'
+p1058
+g2
+(g6
+S'$w\xc8\x89\xc9\xc3\xc7?'
+p1059
+tp1060
+Rp1061
+tp1062
+a(S'metropolitan statistical area'
+p1063
+g2
+(g6
+S'\xbb\xf0\x7fI^\xc2\xc7?'
+p1064
+tp1065
+Rp1066
+tp1067
+a(S'delaware statistical areas'
+p1068
+g2
+(g6
+S':\xd2\xa6\xf2\xaa\xbd\xc7?'
+p1069
+tp1070
+Rp1071
+tp1072
+a(S'markovian discrimination'
+p1073
+g2
+(g6
+S'\xe0\x03\xf6\x00o\xaf\xc7?'
+p1074
+tp1075
+Rp1076
+tp1077
+a(S'statistical weight'
+p1078
+g2
+(g6
+S'@!h\xb0<\x9d\xc7?'
+p1079
+tp1080
+Rp1081
+tp1082
+a(S'stochastic calculus'
+p1083
+g2
+(g6
+S'\xd6L\xf1\x9f7\x91\xc7?'
+p1084
+tp1085
+Rp1086
+tp1087
+a(S'statistics'
+p1088
+g2
+(g6
+S'\xbddcA;z\xc7?'
+p1089
+tp1090
+Rp1091
+tp1092
+a(S'rl (complexity)'
+p1093
+g2
+(g6
+S':\x99V\x82\xf8q\xc7?'
+p1094
+tp1095
+Rp1096
+tp1097
+a(S'durango micropolitan statistical area'
+p1098
+g2
+(g6
+S'\xc1\xdf\x123m`\xc7?'
+p1099
+tp1100
+Rp1101
+tp1102
+a(S'language identification'
+p1103
+g2
+(g6
+S'\xbcB\xc0\r\xeb_\xc7?'
+p1104
+tp1105
+Rp1106
+tp1107
+a(S'statistical machine translation'
+p1108
+g2
+(g6
+S'\xb3\xc7\xac\xc6&R\xc7?'
+p1109
+tp1110
+Rp1111
+tp1112
+a(S'parsing expression grammar'
+p1113
+g2
+(g6
+S'\xc2\x11\x101\x91K\xc7?'
+p1114
+tp1115
+Rp1116
+tp1117
+a(S'conjunctive grammar'
+p1118
+g2
+(g6
+S'\xb5\x92\xb5\xc8{H\xc7?'
+p1119
+tp1120
+Rp1121
+tp1122
+a(S'with high probability'
+p1123
+g2
+(g6
+S'\xf99z\x83/C\xc7?'
+p1124
+tp1125
+Rp1126
+tp1127
+a(S'a comprehensive grammar of the english language'
+p1128
+g2
+(g6
+S'\xa0{\x01\xe0\xf3<\xc7?'
+p1129
+tp1130
+Rp1131
+tp1132
+a(S'universal grammar'
+p1133
+g2
+(g6
+S'\x98\x1fAZ\x077\xc7?'
+p1134
+tp1135
+Rp1136
+tp1137
+a(S'stochastic neural network'
+p1138
+g2
+(g6
+S'\xdeFu\xc6\xec6\xc7?'
+p1139
+tp1140
+Rp1141
+tp1142
+a(S'glossary of artificial intelligence'
+p1143
+g2
+(g6
+S'\x9e\x98A\xf5Y6\xc7?'
+p1144
+tp1145
+Rp1146
+tp1147
+a(S'data-oriented parsing'
+p1148
+g2
+(g6
+S'\x01\x18[\x96\xd72\xc7?'
+p1149
+tp1150
+Rp1151
+tp1152
+a(S'engineering statistics'
+p1153
+g2
+(g6
+S'\xa1f\x96\x15[/\xc7?'
+p1154
+tp1155
+Rp1156
+tp1157
+a(S'national statistical office of thailand'
+p1158
+g2
+(g6
+S'\x12\xd3\xec\xcf\x01+\xc7?'
+p1159
+tp1160
+Rp1161
+tp1162
+a(S'harrisburg-york-lebanon, pa combined statistical area'
+p1163
+g2
+(g6
+S'\x85o!\x85I"\xc7?'
+p1164
+tp1165
+Rp1166
+tp1167
+a(S'probabilistic number theory'
+p1168
+g2
+(g6
+S'!K\xe8[a\x17\xc7?'
+p1169
+tp1170
+Rp1171
+tp1172
+a(S'state statistics committee (azerbaijan)'
+p1173
+g2
+(g6
+S'\xb6\xd4+\xf5\xf8\x15\xc7?'
+p1174
+tp1175
+Rp1176
+tp1177
+a(S'russ salakhutdinov'
+p1178
+g2
+(g6
+S'\xfb\xa7`\x01\xa8\n\xc7?'
+p1179
+tp1180
+Rp1181
+tp1182
+a(S'trion (neural networks)'
+p1183
+g2
+(g6
+S'\xe1w\x8c\x18i\x08\xc7?'
+p1184
+tp1185
+Rp1186
+tp1187
+a(S'statistical graphics'
+p1188
+g2
+(g6
+S'p\xbf\xb0D\x19\x07\xc7?'
+p1189
+tp1190
+Rp1191
+tp1192
+a(S'l\xc3\xa9on bottou'
+p1193
+g2
+(g6
+S'\x15.{\x15\xbc\x04\xc7?'
+p1194
+tp1195
+Rp1196
+tp1197
+a(S'hirotugu akaike'
+p1198
+g2
+(g6
+S'\x93\xc6\x1c\xd1`\xfa\xc6?'
+p1199
+tp1200
+Rp1201
+tp1202
+a(S'stochastic gradient descent'
+p1203
+g2
+(g6
+S'\xd3\xce\xf6\x8b+\xf9\xc6?'
+p1204
+tp1205
+Rp1206
+tp1207
+a(S'scannerless parsing'
+p1208
+g2
+(g6
+S'F\x83?\xe0=\xf3\xc6?'
+p1209
+tp1210
+Rp1211
+tp1212
+a(S'robert tibshirani'
+p1213
+g2
+(g6
+S'\xc0j\x9a\xc3\xe0\xe0\xc6?'
+p1214
+tp1215
+Rp1216
+tp1217
+a(S'hypergraph grammar'
+p1218
+g2
+(g6
+S'\xd6>h\x86\x9d\xdc\xc6?'
+p1219
+tp1220
+Rp1221
+tp1222
+a(S'probabilistic causation'
+p1223
+g2
+(g6
+S'\xbb\\G\xa6x\xdc\xc6?'
+p1224
+tp1225
+Rp1226
+tp1227
+a(S'hidden markov model'
+p1228
+g2
+(g6
+S'w\xaeiA\xad\xce\xc6?'
+p1229
+tp1230
+Rp1231
+tp1232
+a(S'lajos tak\xc3\xa1cs'
+p1233
+g2
+(g6
+S'Q\x85\xce\xcc?\xc2\xc6?'
+p1234
+tp1235
+Rp1236
+tp1237
+a(S'sequence labeling'
+p1238
+g2
+(g6
+S'!y\x89\x0b\xab\xc1\xc6?'
+p1239
+tp1240
+Rp1241
+tp1242
+a(S'casper, wy metropolitan statistical area'
+p1243
+g2
+(g6
+S'\x9ag\x061\x8e\xbe\xc6?'
+p1244
+tp1245
+Rp1246
+tp1247
+a(S'statistical semantics'
+p1248
+g2
+(g6
+S'\xf1\x99\xbe\xbe\xc6\xba\xc6?'
+p1249
+tp1250
+Rp1251
+tp1252
+a(S'kiyosi it\xc3\xb4'
+p1253
+g2
+(g6
+S'm\xc8\x9c\xb6t\xb6\xc6?'
+p1254
+tp1255
+Rp1256
+tp1257
+a(S'tree-adjoining grammar'
+p1258
+g2
+(g6
+S'\xf5\t\x1clO\xb3\xc6?'
+p1259
+tp1260
+Rp1261
+tp1262
+a(S'construction grammar'
+p1263
+g2
+(g6
+S'\x83\x81\xd8\x13&\xa8\xc6?'
+p1264
+tp1265
+Rp1266
+tp1267
+a(S'james r. norris'
+p1268
+g2
+(g6
+S'\xe1;d\x14\x1f\xa1\xc6?'
+p1269
+tp1270
+Rp1271
+tp1272
+a(S'federal statistics committee (switzerland)'
+p1273
+g2
+(g6
+S'\x06\xea\x89\x80\xb9\x9c\xc6?'
+p1274
+tp1275
+Rp1276
+tp1277
+a(S'markov chain'
+p1278
+g2
+(g6
+S'\x1f\x01\xe9!T\x9b\xc6?'
+p1279
+tp1280
+Rp1281
+tp1282
+a(S'interactional linguistics'
+p1283
+g2
+(g6
+S'%\x929\xe9\xca\x97\xc6?'
+p1284
+tp1285
+Rp1286
+tp1287
+a(S'cuthbert daniel'
+p1288
+g2
+(g6
+S'\xddv\x0c\x1e\x88\x97\xc6?'
+p1289
+tp1290
+Rp1291
+tp1292
+a(S'noncontracting grammar'
+p1293
+g2
+(g6
+S'\x80_yA5\x95\xc6?'
+p1294
+tp1295
+Rp1296
+tp1297
+a(S'weighted context-free grammar'
+p1298
+g2
+(g6
+S'``\xe4\xe3r\x8f\xc6?'
+p1299
+tp1300
+Rp1301
+tp1302
+a(S'sentence processing'
+p1303
+g2
+(g6
+S"'\x86\x8b\xc7\xa2\x8b\xc6?"
+p1304
+tp1305
+Rp1306
+tp1307
+a(S'mixture (probability)'
+p1308
+g2
+(g6
+S'\x04\xeb\xd4\xdc\x10\x8a\xc6?'
+p1309
+tp1310
+Rp1311
+tp1312
+a(S'matthew brand'
+p1313
+g2
+(g6
+S'L\xcaP\xf2 \x87\xc6?'
+p1314
+tp1315
+Rp1316
+tp1317
+a(S'colorless green ideas sleep furiously'
+p1318
+g2
+(g6
+S'[;\xd9v\xf8x\xc6?'
+p1319
+tp1320
+Rp1321
+tp1322
+a(S'ted harris (mathematician)'
+p1323
+g2
+(g6
+S'\x84P\x13\x06@x\xc6?'
+p1324
+tp1325
+Rp1326
+tp1327
+a(S'constrained conditional model'
+p1328
+g2
+(g6
+S'D\x92\x01\x01\xc7v\xc6?'
+p1329
+tp1330
+Rp1331
+tp1332
+a(S'mark h. a. davis'
+p1333
+g2
+(g6
+S'\x06\xe1 C\xcet\xc6?'
+p1334
+tp1335
+Rp1336
+tp1337
+a(S'statistics indonesia'
+p1338
+g2
+(g6
+S'\xa6\x1es\xabqr\xc6?'
+p1339
+tp1340
+Rp1341
+tp1342
+a(S'parsing'
+p1343
+g2
+(g6
+S'\xf6\xb8\x1b\xb9\xe2l\xc6?'
+p1344
+tp1345
+Rp1346
+tp1347
+a(S'regular grammar'
+p1348
+g2
+(g6
+S'\xbb\x0f\xc3\x99ig\xc6?'
+p1349
+tp1350
+Rp1351
+tp1352
+a(S'lagos bureau of statistics'
+p1353
+g2
+(g6
+S'X@\xe6a.f\xc6?'
+p1354
+tp1355
+Rp1356
+tp1357
+a(S'mark overmars'
+p1358
+g2
+(g6
+S'6Z\x80\x06\x83_\xc6?'
+p1359
+tp1360
+Rp1361
+tp1362
+a(S'microstate continuum'
+p1363
+g2
+(g6
+S'\x8b\x19\x0b#a_\xc6?'
+p1364
+tp1365
+Rp1366
+tp1367
+a(S'hypothesis theory'
+p1368
+g2
+(g6
+S'p\xb7\x13I\xdf]\xc6?'
+p1369
+tp1370
+Rp1371
+tp1372
+a(S'john tukey'
+p1373
+g2
+(g6
+S'\xfe\xb8j\xdb\x0b[\xc6?'
+p1374
+tp1375
+Rp1376
+tp1377
+a(S'anatoliy skorokhod'
+p1378
+g2
+(g6
+S'\xd3J\xad\x10\xc7W\xc6?'
+p1379
+tp1380
+Rp1381
+tp1382
+a(S'grammar (disambiguation)'
+p1383
+g2
+(g6
+S'-\xf1\xb2\xf5\xd2S\xc6?'
+p1384
+tp1385
+Rp1386
+tp1387
+a(S'statistical mechanics'
+p1388
+g2
+(g6
+S'\x8c\x9d\xd3\x97\x9dP\xc6?'
+p1389
+tp1390
+Rp1391
+tp1392
+a(S'statistical assumption'
+p1393
+g2
+(g6
+S'\t_/\xbb_O\xc6?'
+p1394
+tp1395
+Rp1396
+tp1397
+a(S'pedometrics'
+p1398
+g2
+(g6
+S'KN\xa9\x98\x15J\xc6?'
+p1399
+tp1400
+Rp1401
+tp1402
+a(S'cyk algorithm'
+p1403
+g2
+(g6
+S'\x88\x1a\x1da\x08D\xc6?'
+p1404
+tp1405
+Rp1406
+tp1407
+a(S'michael collins (computational linguist)'
+p1408
+g2
+(g6
+S'y\xe5\x89rJ;\xc6?'
+p1409
+tp1410
+Rp1411
+tp1412
+a(S'language model'
+p1413
+g2
+(g6
+S'\xbch\xec\x96*1\xc6?'
+p1414
+tp1415
+Rp1416
+tp1417
+a(S'teradata warehouse miner'
+p1418
+g2
+(g6
+S'2+\xc9\xbf\n0\xc6?'
+p1419
+tp1420
+Rp1421
+tp1422
+a(S'albert tarantola'
+p1423
+g2
+(g6
+S'\xadn\xeaf\xc1/\xc6?'
+p1424
+tp1425
+Rp1426
+tp1427
+a(S'estimation of distribution algorithm'
+p1428
+g2
+(g6
+S',\x18)\xbaP)\xc6?'
+p1429
+tp1430
+Rp1431
+tp1432
+a(S'constraint-based grammar'
+p1433
+g2
+(g6
+S'\x8b\xd7\x82\x1c\xb1\x1d\xc6?'
+p1434
+tp1435
+Rp1436
+tp1437
+a(S'stochastic frontier analysis'
+p1438
+g2
+(g6
+S'#\x8a@2\x9f\x1c\xc6?'
+p1439
+tp1440
+Rp1441
+tp1442
+a(S'computational intelligence'
+p1443
+g2
+(g6
+S'\xc5\x950\x08\x16\x12\xc6?'
+p1444
+tp1445
+Rp1446
+tp1447
+a(S'harold j. kushner'
+p1448
+g2
+(g6
+S'\xeaR\xfc\x91\xfb\x11\xc6?'
+p1449
+tp1450
+Rp1451
+tp1452
+a(S'southern rocky mountain front'
+p1453
+g2
+(g6
+S'\x81\xf4`H#\t\xc6?'
+p1454
+tp1455
+Rp1456
+tp1457
+a(S'data point'
+p1458
+g2
+(g6
+S'\xeaT\xbe\x94i\x05\xc6?'
+p1459
+tp1460
+Rp1461
+tp1462
+a(S'top-down parsing'
+p1463
+g2
+(g6
+S"i\xefc\xe1'\x02\xc6?"
+p1464
+tp1465
+Rp1466
+tp1467
+a(S'adrian raftery'
+p1468
+g2
+(g6
+S'\xb8\xec\xb4\xa6\x8a\xfd\xc5?'
+p1469
+tp1470
+Rp1471
+tp1472
+a(S'steve brooks (statistician)'
+p1473
+g2
+(g6
+S'P\xc5\xba3\x82\xf4\xc5?'
+p1474
+tp1475
+Rp1476
+tp1477
+a(S'natural language understanding'
+p1478
+g2
+(g6
+S'W\xda\xce\x84\xa0\xf0\xc5?'
+p1479
+tp1480
+Rp1481
+tp1482
+a(S'basic statistical unit (norway)'
+p1483
+g2
+(g6
+S'\xa5u\x930\xa5\xef\xc5?'
+p1484
+tp1485
+Rp1486
+tp1487
+a(S'list of english and welsh endowed schools (19th century)'
+p1488
+g2
+(g6
+S'\xfb\xbb\xe3\xfc\x10\xea\xc5?'
+p1489
+tp1490
+Rp1491
+tp1492
+a(S'variable-order bayesian network'
+p1493
+g2
+(g6
+S'PD\x9e9\xf2\xe4\xc5?'
+p1494
+tp1495
+Rp1496
+tp1497
+a(S'mathematical model'
+p1498
+g2
+(g6
+S'VAv\x1d8\xe3\xc5?'
+p1499
+tp1500
+Rp1501
+tp1502
+a(S'district of columbia statistical areas'
+p1503
+g2
+(g6
+S'd\xee\xc9\xcfn\xde\xc5?'
+p1504
+tp1505
+Rp1506
+tp1507
+a(S'electricity price forecasting'
+p1508
+g2
+(g6
+S'\xb15\xc6\xf7\xf8\xdd\xc5?'
+p1509
+tp1510
+Rp1511
+tp1512
+a.

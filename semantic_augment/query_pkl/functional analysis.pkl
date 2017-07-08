@@ -1,0 +1,2728 @@
+(lp0
+(S'functional analysis'
+p1
+cnumpy.core.multiarray
+scalar
+p2
+(cnumpy
+dtype
+p3
+(S'f8'
+p4
+I0
+I1
+tp5
+Rp6
+(I3
+S'<'
+p7
+NNNI-1
+I-1
+I0
+tp8
+bS'\xfd\xff\xff\xff\xff\xff\xef?'
+p9
+tp10
+Rp11
+tp12
+a(S'banach space'
+p13
+g2
+(g6
+S'S\x89\xa6\x16\x1e(\xe5?'
+p14
+tp15
+Rp16
+tp17
+a(S'hahn\xe2\x80\x93banach theorem'
+p18
+g2
+(g6
+S'Lu^\x9d\xc1\x14\xe4?'
+p19
+tp20
+Rp21
+tp22
+a(S'per enflo'
+p23
+g2
+(g6
+S'O\xeee\x8bB\xb9\xe3?'
+p24
+tp25
+Rp26
+tp27
+a(S'k-space (functional analysis)'
+p28
+g2
+(g6
+S'E\xd1\xde\x92\xaf\x9d\xe3?'
+p29
+tp30
+Rp31
+tp32
+a(S'f-space'
+p33
+g2
+(g6
+S'fT=\xc1\xf7t\xe3?'
+p34
+tp35
+Rp36
+tp37
+a(S'gilles pisier'
+p38
+g2
+(g6
+S'AU\xa66?\x81\xe2?'
+p39
+tp40
+Rp41
+tp42
+a(S'open mapping theorem (functional analysis)'
+p43
+g2
+(g6
+S'\xe1\xd8\xaa#\xfd\x17\xe2?'
+p44
+tp45
+Rp46
+tp47
+a(S'mikhail kadets'
+p48
+g2
+(g6
+S'b\xdc\xd7\x87\xb2\xb1\xe1?'
+p49
+tp50
+Rp51
+tp52
+a(S"james' theorem"
+p53
+g2
+(g6
+S'\xb6NAG\x89=\xe1?'
+p54
+tp55
+Rp56
+tp57
+a(S'list of banach spaces'
+p58
+g2
+(g6
+S'W\xd2U>\xa9)\xe1?'
+p59
+tp60
+Rp61
+tp62
+a(S'joram lindenstrauss'
+p63
+g2
+(g6
+S'\x8d\x96\xcfSZ\xf8\xe0?'
+p64
+tp65
+Rp66
+tp67
+a(S'list of functional analysis topics'
+p68
+g2
+(g6
+S'\x93\xd9\xe4\xedp\xf3\xe0?'
+p69
+tp70
+Rp71
+tp72
+a(S'banach\xe2\x80\x93mazur theorem'
+p73
+g2
+(g6
+S'_\xcf\xa9\xf0\xca\xd5\xe0?'
+p74
+tp75
+Rp76
+tp77
+a(S'sublinear function'
+p78
+g2
+(g6
+S'&\xabh\x8f\x02\xbd\xe0?'
+p79
+tp80
+Rp81
+tp82
+a(S'fr\xc3\xa9chet space'
+p83
+g2
+(g6
+S'\x13\xa9\xfb\x0f\x0f\xb5\xe0?'
+p84
+tp85
+Rp86
+tp87
+a(S'yuri petunin'
+p88
+g2
+(g6
+S'\x80\x91b\xf4\xd2\x9f\xe0?'
+p89
+tp90
+Rp91
+tp92
+a(S'distortion problem'
+p93
+g2
+(g6
+S'\xc2\xbeCR\xa1u\xe0?'
+p94
+tp95
+Rp96
+tp97
+a(S'bishop\xe2\x80\x93phelps theorem'
+p98
+g2
+(g6
+S'\xf8 \x06\xa3\xd6M\xe0?'
+p99
+tp100
+Rp101
+tp102
+a(S'm. riesz extension theorem'
+p103
+g2
+(g6
+S'\x02\xee\xf8\xf1?K\xe0?'
+p104
+tp105
+Rp106
+tp107
+a(S'uniform boundedness principle'
+p108
+g2
+(g6
+S'0\x9b{\n\xb5 \xe0?'
+p109
+tp110
+Rp111
+tp112
+a(S'orlicz\xe2\x80\x93pettis theorem'
+p113
+g2
+(g6
+S'{\x05\xad@\x83\x1a\xe0?'
+p114
+tp115
+Rp116
+tp117
+a(S'tsirelson space'
+p118
+g2
+(g6
+S'\x18\xb2mx\xd0\x16\xe0?'
+p119
+tp120
+Rp121
+tp122
+a(S'discontinuous linear map'
+p123
+g2
+(g6
+S'\x1e)e\x113\r\xe0?'
+p124
+tp125
+Rp126
+tp127
+a(S'banach manifold'
+p128
+g2
+(g6
+S'H\xf1/\xca\xa8\xe1\xdf?'
+p129
+tp130
+Rp131
+tp132
+a(S'banach\xe2\x80\x93alaoglu theorem'
+p133
+g2
+(g6
+S'\xa0war\xf6\xc3\xdf?'
+p134
+tp135
+Rp136
+tp137
+a(S'stefan banach'
+p138
+g2
+(g6
+S'\xa2\xcai\xb2r\xbc\xdf?'
+p139
+tp140
+Rp141
+tp142
+a(S'banach\xe2\x80\x93stone theorem'
+p143
+g2
+(g6
+S'\xfa\xab\xb3v\xdd\xae\xdf?'
+p144
+tp145
+Rp146
+tp147
+a(S'sequence space'
+p148
+g2
+(g6
+S'\x98%C\xb4\xff\x80\xdf?'
+p149
+tp150
+Rp151
+tp152
+a(S'goldstine theorem'
+p153
+g2
+(g6
+S'\x9a \xb9\x9d\x14{\xdf?'
+p154
+tp155
+Rp156
+tp157
+a(S'smith space'
+p158
+g2
+(g6
+S'\xee\x94\xac\xdf\x1bI\xdf?'
+p159
+tp160
+Rp161
+tp162
+a(S'nonlinear functional analysis'
+p163
+g2
+(g6
+S'\xb8s\xd8\x08R:\xdf?'
+p164
+tp165
+Rp166
+tp167
+a(S'closed graph theorem'
+p168
+g2
+(g6
+S'\r\xda\xb3\x13\xc7\x02\xdf?'
+p169
+tp170
+Rp171
+tp172
+a(S'banach limit'
+p173
+g2
+(g6
+S'H>\xcf\xc1r\xf2\xde?'
+p174
+tp175
+Rp176
+tp177
+a(S'hilbert space'
+p178
+g2
+(g6
+S'\x16\xc0_"Uz\xde?'
+p179
+tp180
+Rp181
+tp182
+a(S'banach\xe2\x80\x93mazur compactum'
+p183
+g2
+(g6
+S"\x88',\xd1\x9ar\xde?"
+p184
+tp185
+Rp186
+tp187
+a(S'list of things named after stefan banach'
+p188
+g2
+(g6
+S'v\xcddt\xa6p\xde?'
+p189
+tp190
+Rp191
+tp192
+a(S'interpolation space'
+p193
+g2
+(g6
+S'\xd7\xdb\r\xc8,o\xde?'
+p194
+tp195
+Rp196
+tp197
+a(S'function space'
+p198
+g2
+(g6
+S'\x96\xb3/rug\xde?'
+p199
+tp200
+Rp201
+tp202
+a(S'approximation property'
+p203
+g2
+(g6
+S'\xee\x18z\x10\x16T\xde?'
+p204
+tp205
+Rp206
+tp207
+a(S'kirszbraun theorem'
+p208
+g2
+(g6
+S'e\x95\x1ap\xfd=\xde?'
+p209
+tp210
+Rp211
+tp212
+a(S"auerbach's lemma"
+p213
+g2
+(g6
+S'M\x07\xa3m(8\xde?'
+p214
+tp215
+Rp216
+tp217
+a(S'reflexive space'
+p218
+g2
+(g6
+S'm\xdc\xae\xc9\x80&\xde?'
+p219
+tp220
+Rp221
+tp222
+a(S'infinite-dimensional vector function'
+p223
+g2
+(g6
+S'\x01.\x01.\xcd\x11\xde?'
+p224
+tp225
+Rp226
+tp227
+a(S'dual space'
+p228
+g2
+(g6
+S'\r\xca\x87\x03\xcc\xec\xdd?'
+p229
+tp230
+Rp231
+tp232
+a(S'continuous functions on a compact hausdorff space'
+p233
+g2
+(g6
+S'#\xa7\xb6\xc6\xf5\x8d\xdd?'
+p234
+tp235
+Rp236
+tp237
+a(S'bounded inverse theorem'
+p238
+g2
+(g6
+S'\xa5P\xbeK\xdc\x8a\xdd?'
+p239
+tp240
+Rp241
+tp242
+a(S'open mapping theorem'
+p243
+g2
+(g6
+S'\xe6\x84\x1f4uS\xdd?'
+p244
+tp245
+Rp246
+tp247
+a(S'closed range theorem'
+p248
+g2
+(g6
+S'\x02\x9ax\xfb\xc2\x07\xdd?'
+p249
+tp250
+Rp251
+tp252
+a(S'lp space'
+p253
+g2
+(g6
+S'\xcdE\x1b\xf2\xde\xfc\xdc?'
+p254
+tp255
+Rp256
+tp257
+a(S'spectral theory'
+p258
+g2
+(g6
+S'\x9c\xea\t\x85N\xcc\xdc?'
+p259
+tp260
+Rp261
+tp262
+a(S'functional (mathematics)'
+p263
+g2
+(g6
+S'\x7f\x84\xdd\xd3M\xbb\xdc?'
+p264
+tp265
+Rp266
+tp267
+a(S'b-convex space'
+p268
+g2
+(g6
+S'-E\xdb\xb7\x95\x8d\xdc?'
+p269
+tp270
+Rp271
+tp272
+a(S'operator (mathematics)'
+p273
+g2
+(g6
+S'k\x04\x07\x15\xc5\x8b\xdc?'
+p274
+tp275
+Rp276
+tp277
+a(S'linear form'
+p278
+g2
+(g6
+S'\x91n\x0c\x95\xffW\xdc?'
+p279
+tp280
+Rp281
+tp282
+a(S'operator ideal'
+p283
+g2
+(g6
+S'\x88\xd9%D\n9\xdc?'
+p284
+tp285
+Rp286
+tp287
+a(S'decomposition of spectrum (functional analysis)'
+p288
+g2
+(g6
+S'i\xfc6i=5\xdc?'
+p289
+tp290
+Rp291
+tp292
+a(S'eberlein\xe2\x80\x93\xc5\xa0mulian theorem'
+p293
+g2
+(g6
+S'\xdb\xdd\xe8\xfd`\x1b\xdc?'
+p294
+tp295
+Rp296
+tp297
+a(S'schauder basis'
+p298
+g2
+(g6
+S':g\x08*\xea\x14\xdc?'
+p299
+tp300
+Rp301
+tp302
+a(S'functional'
+p303
+g2
+(g6
+S'\xe3H:Q\xb7\t\xdc?'
+p304
+tp305
+Rp306
+tp307
+a(S'peter orno'
+p308
+g2
+(g6
+S'+\xdfL{\xd1\x04\xdc?'
+p309
+tp310
+Rp311
+tp312
+a(S'normed vector space'
+p313
+g2
+(g6
+S'\xc3\xe32j\x96\xfc\xdb?'
+p314
+tp315
+Rp316
+tp317
+a(S"fichera's existence principle"
+p318
+g2
+(g6
+S'G\xeb@qq\xeb\xdb?'
+p319
+tp320
+Rp321
+tp322
+a(S'hypercyclic operator'
+p323
+g2
+(g6
+S'\x8fY5\xd5g\xe5\xdb?'
+p324
+tp325
+Rp326
+tp327
+a(S'opial property'
+p328
+g2
+(g6
+S';\xd9\xd0\x9ds\xd8\xdb?'
+p329
+tp330
+Rp331
+tp332
+a(S'schauder fixed point theorem'
+p333
+g2
+(g6
+S'&\x93.\xfab\xd5\xdb?'
+p334
+tp335
+Rp336
+tp337
+a(S'mathematical analysis'
+p338
+g2
+(g6
+S'\xa1\x1ba\xcd\xd5\xba\xdb?'
+p339
+tp340
+Rp341
+tp342
+a(S'hans r\xc3\xa5dstr\xc3\xb6m'
+p343
+g2
+(g6
+S"\xe6C'\xa6\xf6\x9c\xdb?"
+p344
+tp345
+Rp346
+tp347
+a(S'robert phelps'
+p348
+g2
+(g6
+S'\xf8\xea\xecd\xfb\x9a\xdb?'
+p349
+tp350
+Rp351
+tp352
+a(S'krein\xe2\x80\x93rutman theorem'
+p353
+g2
+(g6
+S'4)\xf8n\xbaf\xdb?'
+p354
+tp355
+Rp356
+tp357
+a(S'bounded operator'
+p358
+g2
+(g6
+S'+\xaey7\x039\xdb?'
+p359
+tp360
+Rp361
+tp362
+a(S'c space'
+p363
+g2
+(g6
+S':\x1d\xfe\x8af\xfb\xda?'
+p364
+tp365
+Rp366
+tp367
+a(S'banach bundle'
+p368
+g2
+(g6
+S'\n\xac\x00\x14\xc5\xf0\xda?'
+p369
+tp370
+Rp371
+tp372
+a(S'hille\xe2\x80\x93yosida theorem'
+p373
+g2
+(g6
+S'\xe5m\xbd\xdf\x9c\xe9\xda?'
+p374
+tp375
+Rp376
+tp377
+a(S'space (mathematics)'
+p378
+g2
+(g6
+S'v\xf8\xfd\xedJ\xd9\xda?'
+p379
+tp380
+Rp381
+tp382
+a(S'banach algebra'
+p383
+g2
+(g6
+S'q\xeco\x86y\xb3\xda?'
+p384
+tp385
+Rp386
+tp387
+a(S'continuous linear extension'
+p388
+g2
+(g6
+S'\xa6\xdbk\xf0w\x95\xda?'
+p389
+tp390
+Rp391
+tp392
+a(S'g\xc3\xa2teaux derivative'
+p393
+g2
+(g6
+S'O\xbe\xe3}\xac\x91\xda?'
+p394
+tp395
+Rp396
+tp397
+a(S'asplund space'
+p398
+g2
+(g6
+S'\xab\x17\xf9r\x9as\xda?'
+p399
+tp400
+Rp401
+tp402
+a(S'functional derivative'
+p403
+g2
+(g6
+S'\x98\xac\xee\x81\x0bP\xda?'
+p404
+tp405
+Rp406
+tp407
+a(S'vector space'
+p408
+g2
+(g6
+S'K\x98DD\x040\xda?'
+p409
+tp410
+Rp411
+tp412
+a(S'william frederick eberlein'
+p413
+g2
+(g6
+S'\xb3O\x16\x9c /\xda?'
+p414
+tp415
+Rp416
+tp417
+a(S'continuous linear operator'
+p418
+g2
+(g6
+S'\xcb\x90\t\x14N\x12\xda?'
+p419
+tp420
+Rp421
+tp422
+a(S'locally convex topological vector space'
+p423
+g2
+(g6
+S'\x7f\xfa\xa8\xbb(\xf9\xd9?'
+p424
+tp425
+Rp426
+tp427
+a(S'method of continuity'
+p428
+g2
+(g6
+S'U\xe1k\x83\x95\xba\xd9?'
+p429
+tp430
+Rp431
+tp432
+a(S'leonidas alaoglu'
+p433
+g2
+(g6
+S"V\xab'\xd3\x84\xab\xd9?"
+p434
+tp435
+Rp436
+tp437
+a(S'bk-space'
+p438
+g2
+(g6
+S'\tj\xb7@\xc2\xa8\xd9?'
+p439
+tp440
+Rp441
+tp442
+a(S'semi-inner-product'
+p443
+g2
+(g6
+S'@\x17<\xc4g\x88\xd9?'
+p444
+tp445
+Rp446
+tp447
+a(S"tonelli's theorem (functional analysis)"
+p448
+g2
+(g6
+S'@\x9c\xf3\xc2\xbdm\xd9?'
+p449
+tp450
+Rp451
+tp452
+a(S'topological vector space'
+p453
+g2
+(g6
+S'H\xc2\x18\xf3\xd2;\xd9?'
+p454
+tp455
+Rp456
+tp457
+a(S"sazonov's theorem"
+p458
+g2
+(g6
+S'\x0e\xd9\x0f| 4\xd9?'
+p459
+tp460
+Rp461
+tp462
+a(S'state (functional analysis)'
+p463
+g2
+(g6
+S'\x88\xfd\x1d\xf6\x9c-\xd9?'
+p464
+tp465
+Rp466
+tp467
+a(S'william banach'
+p468
+g2
+(g6
+S'\xd5\n\xcck\xc7#\xd9?'
+p469
+tp470
+Rp471
+tp472
+a(S"james' space"
+p473
+g2
+(g6
+S'\xfc\x15\xf4\xb9\xa1\x13\xd9?'
+p474
+tp475
+Rp476
+tp477
+a(S'bornological space'
+p478
+g2
+(g6
+S'\x02\xebQ\xf0U\xf3\xd8?'
+p479
+tp480
+Rp481
+tp482
+a(S'holomorphic functional calculus'
+p483
+g2
+(g6
+S'\xb1"\xab\x81J\xf2\xd8?'
+p484
+tp485
+Rp486
+tp487
+a(S'eduard helly'
+p488
+g2
+(g6
+S'\x1c\xc2\x1c\xcb\xb6\xad\xd8?'
+p489
+tp490
+Rp491
+tp492
+a(S'fredholm kernel'
+p493
+g2
+(g6
+S'AU\xb8\x8am\xa5\xd8?'
+p494
+tp495
+Rp496
+tp497
+a(S'riesz representation theorem'
+p498
+g2
+(g6
+S'\x9d\xf9o\xb3\xd5\x8a\xd8?'
+p499
+tp500
+Rp501
+tp502
+a(S'nuclear operator'
+p503
+g2
+(g6
+S'\xe1\xe4\xa1\x01:}\xd8?'
+p504
+tp505
+Rp506
+tp507
+a(S'nicole tomczak-jaegermann'
+p508
+g2
+(g6
+S'\xa2\x89\xd0\x05rc\xd8?'
+p509
+tp510
+Rp511
+tp512
+a(S'hypercomplex analysis'
+p513
+g2
+(g6
+S'B\x96\xb3\\\x18<\xd8?'
+p514
+tp515
+Rp516
+tp517
+a(S'isaac namioka'
+p518
+g2
+(g6
+S'\xec(\x08Y\xb09\xd8?'
+p519
+tp520
+Rp521
+tp522
+a(S'besov space'
+p523
+g2
+(g6
+S'\xb3\x97H\x18\xbe8\xd8?'
+p524
+tp525
+Rp526
+tp527
+a(S'strictly singular operator'
+p528
+g2
+(g6
+S'\x1dE\x12\\\x8d8\xd8?'
+p529
+tp530
+Rp531
+tp532
+a(S'alexandru ghika'
+p533
+g2
+(g6
+S'\xb4a\x08\\[%\xd8?'
+p534
+tp535
+Rp536
+tp537
+a(S'differentiation in fr\xc3\xa9chet spaces'
+p538
+g2
+(g6
+S'\xd7\xd66\x9es\x1f\xd8?'
+p539
+tp540
+Rp541
+tp542
+a(S"kachurovskii's theorem"
+p543
+g2
+(g6
+S'#\x12\xfc\x89\xfb\x17\xd8?'
+p544
+tp545
+Rp546
+tp547
+a(S'mark naimark'
+p548
+g2
+(g6
+S'A\xe7E\xd1\xe6\x12\xd8?'
+p549
+tp550
+Rp551
+tp552
+a(S'rigged hilbert space'
+p553
+g2
+(g6
+S'\xccx}\xb3)\xf7\xd7?'
+p554
+tp555
+Rp556
+tp557
+a(S"mazur's lemma"
+p558
+g2
+(g6
+S'%d\x89ej\xf6\xd7?'
+p559
+tp560
+Rp561
+tp562
+a(S'topological tensor product'
+p563
+g2
+(g6
+S'\x8e\xb4kc\xec\xf3\xd7?'
+p564
+tp565
+Rp566
+tp567
+a(S'girth (functional analysis)'
+p568
+g2
+(g6
+S'\xad\xa3\x92R\xbc\xe9\xd7?'
+p569
+tp570
+Rp571
+tp572
+a(S'nuclear space'
+p573
+g2
+(g6
+S'a\xeb\xd3\xe6Z\xe9\xd7?'
+p574
+tp575
+Rp576
+tp577
+a(S'riesz\xe2\x80\x93markov\xe2\x80\x93kakutani representation theorem'
+p578
+g2
+(g6
+S'q1\xe1\x1d+\xe7\xd7?'
+p579
+tp580
+Rp581
+tp582
+a(S'invariant subspace problem'
+p583
+g2
+(g6
+S'\xbf\x8c\xce\x8di\xdb\xd7?'
+p584
+tp585
+Rp586
+tp587
+a(S'functional data analysis'
+p588
+g2
+(g6
+S'\xc8\xd5\x8f\xcf\xa9\x9f\xd7?'
+p589
+tp590
+Rp591
+tp592
+a(S'themistocles m. rassias'
+p593
+g2
+(g6
+S'w\xba%!\x0f\x93\xd7?'
+p594
+tp595
+Rp596
+tp597
+a(S'k\xc5\x8dsaku yosida'
+p598
+g2
+(g6
+S'\xdb`+`\xc9\x91\xd7?'
+p599
+tp600
+Rp601
+tp602
+a(S'banach function algebra'
+p603
+g2
+(g6
+S'\xbf\xc9\x16\xcf\xe8\x90\xd7?'
+p604
+tp605
+Rp606
+tp607
+a(S'compact operator'
+p608
+g2
+(g6
+S'\x11!;\xd6\xfe\x8f\xd7?'
+p609
+tp610
+Rp611
+tp612
+a(S'birnbaum\xe2\x80\x93orlicz space'
+p613
+g2
+(g6
+S'T\x03\xcf\xdaMs\xd7?'
+p614
+tp615
+Rp616
+tp617
+a(S"k\xc5\x8dmura's theorem"
+p618
+g2
+(g6
+S'"E,\t\xf0r\xd7?'
+p619
+tp620
+Rp621
+tp622
+a(S'ed banach'
+p623
+g2
+(g6
+S'\xceo\xaegNl\xd7?'
+p624
+tp625
+Rp626
+tp627
+a(S'positive linear functional'
+p628
+g2
+(g6
+S'\xaccj1hJ\xd7?'
+p629
+tp630
+Rp631
+tp632
+a(S'operator space'
+p633
+g2
+(g6
+S'\x84\xf3\xda\xab\xcc\x00\xd7?'
+p634
+tp635
+Rp636
+tp637
+a(S'dunford\xe2\x80\x93pettis property'
+p638
+g2
+(g6
+S'\x1c\xb5\xdc\x8f\x0c\xde\xd6?'
+p639
+tp640
+Rp641
+tp642
+a(S'direct method in the calculus of variations'
+p643
+g2
+(g6
+S'\xe3+\x12\xb5H\xd9\xd6?'
+p644
+tp645
+Rp646
+tp647
+a(S'morrey\xe2\x80\x93campanato space'
+p648
+g2
+(g6
+S'+\xe2\xd3\x84&\xcd\xd6?'
+p649
+tp650
+Rp651
+tp652
+a(S'spectral theorem'
+p653
+g2
+(g6
+S'#C\xd5|&\xcc\xd6?'
+p654
+tp655
+Rp656
+tp657
+a(S'kuratowski embedding'
+p658
+g2
+(g6
+S'\xe9\x07\xe8A\xac\xca\xd6?'
+p659
+tp660
+Rp661
+tp662
+a(S'nash\xe2\x80\x93moser theorem'
+p663
+g2
+(g6
+S'l\x13\xab\xdb~\xc9\xd6?'
+p664
+tp665
+Rp666
+tp667
+a(S'schatten norm'
+p668
+g2
+(g6
+S'\x1d\xfb\xa3\x1d]\x98\xd6?'
+p669
+tp670
+Rp671
+tp672
+a(S'lumer\xe2\x80\x93phillips theorem'
+p673
+g2
+(g6
+S'\x90\xe9\x00\xb3\xd2\x97\xd6?'
+p674
+tp675
+Rp676
+tp677
+a(S'bochner space'
+p678
+g2
+(g6
+S'/\xb2\xa9M\x9b\x97\xd6?'
+p679
+tp680
+Rp681
+tp682
+a(S'cauchy\xe2\x80\x93rassias stability'
+p683
+g2
+(g6
+S'\xb2\xd0n\x17\x00\x8d\xd6?'
+p684
+tp685
+Rp686
+tp687
+a(S'hans georg feichtinger'
+p688
+g2
+(g6
+S'&\x0c\xb6\xdb.\x87\xd6?'
+p689
+tp690
+Rp691
+tp692
+a(S'grothendieck space'
+p693
+g2
+(g6
+S'\xd6V)\xd6\xe9d\xd6?'
+p694
+tp695
+Rp696
+tp697
+a(S'functional analysis (psychology)'
+p698
+g2
+(g6
+S'\x80)m\x91\xbf]\xd6?'
+p699
+tp700
+Rp701
+tp702
+a(S'hermitian adjoint'
+p703
+g2
+(g6
+S'\x8d\xbe\xa9\xf1LY\xd6?'
+p704
+tp705
+Rp706
+tp707
+a(S'michael selection theorem'
+p708
+g2
+(g6
+S'\x17]\xed,{S\xd6?'
+p709
+tp710
+Rp711
+tp712
+a(S'banach measure'
+p713
+g2
+(g6
+S'U\x9d(J\x8bM\xd6?'
+p714
+tp715
+Rp716
+tp717
+a(S'entanglement witness'
+p718
+g2
+(g6
+S'\x86efe\xc4F\xd6?'
+p719
+tp720
+Rp721
+tp722
+a(S'stinespring factorization theorem'
+p723
+g2
+(g6
+S'\x85{\xb2\xc4\xfa@\xd6?'
+p724
+tp725
+Rp726
+tp727
+a(S'weakly measurable function'
+p728
+g2
+(g6
+S'4\xb1\xb9\x1aj-\xd6?'
+p729
+tp730
+Rp731
+tp732
+a(S'total set'
+p733
+g2
+(g6
+S'\xba\xc5\x8c\xa9\xd4 \xd6?'
+p734
+tp735
+Rp736
+tp737
+a(S'william b. johnson (mathematician)'
+p738
+g2
+(g6
+S'\x05\xe4\x13\x88\xc7\x18\xd6?'
+p739
+tp740
+Rp741
+tp742
+a(S'operator theory'
+p743
+g2
+(g6
+S':U\x17\xfc\xa5\x08\xd6?'
+p744
+tp745
+Rp746
+tp747
+a(S'stereotype space'
+p748
+g2
+(g6
+S'w\x99\xff\xc4v\x02\xd6?'
+p749
+tp750
+Rp751
+tp752
+a(S'compact embedding'
+p753
+g2
+(g6
+S'\xa3u\x80\xa5\xa7\x01\xd6?'
+p754
+tp755
+Rp756
+tp757
+a(S'continuous functional calculus'
+p758
+g2
+(g6
+S'\xe3\x84\x1dU/\x01\xd6?'
+p759
+tp760
+Rp761
+tp762
+a(S'compact operator on hilbert space'
+p763
+g2
+(g6
+S':;K\xda8\xfe\xd5?'
+p764
+tp765
+Rp766
+tp767
+a(S'analysis'
+p768
+g2
+(g6
+S'M\x1f\xb25\x00\xda\xd5?'
+p769
+tp770
+Rp771
+tp772
+a(S'zden\xc4\x9bk frol\xc3\xadk'
+p773
+g2
+(g6
+S'%Z\x99\xe0\xdb\xd8\xd5?'
+p774
+tp775
+Rp776
+tp777
+a(S'borel functional calculus'
+p778
+g2
+(g6
+S'\xecpf\x08\x0f\xd6\xd5?'
+p779
+tp780
+Rp781
+tp782
+a(S'finite-rank operator'
+p783
+g2
+(g6
+S'\xc8.\xe5\xb2\x08\xd4\xd5?'
+p784
+tp785
+Rp786
+tp787
+a(S'lagrange multipliers on banach spaces'
+p788
+g2
+(g6
+S'\xf0\x85M\x95\xce\xc4\xd5?'
+p789
+tp790
+Rp791
+tp792
+a(S'riesz\xe2\x80\x93thorin theorem'
+p793
+g2
+(g6
+S'\xfd\x96|FL\xb6\xd5?'
+p794
+tp795
+Rp796
+tp797
+a(S'lou banach'
+p798
+g2
+(g6
+S'@\xf3-g0\xb1\xd5?'
+p799
+tp800
+Rp801
+tp802
+a(S"fernique's theorem"
+p803
+g2
+(g6
+S'\x82w\xca\xbf-\xb0\xd5?'
+p804
+tp805
+Rp806
+tp807
+a(S'banach bundle (non-commutative geometry)'
+p808
+g2
+(g6
+S'\x8c-;\x8d\xc9\xaa\xd5?'
+p809
+tp810
+Rp811
+tp812
+a(S'hellinger\xe2\x80\x93toeplitz theorem'
+p813
+g2
+(g6
+S'[\x1d\xd6<\xf0\x9b\xd5?'
+p814
+tp815
+Rp816
+tp817
+a(S'quasinorm'
+p818
+g2
+(g6
+S'lp\x0f]1|\xd5?'
+p819
+tp820
+Rp821
+tp822
+a(S'resolvent formalism'
+p823
+g2
+(g6
+S'\x19\x16\x00\xfaZw\xd5?'
+p824
+tp825
+Rp826
+tp827
+a(S'de branges space'
+p828
+g2
+(g6
+S'\xcb`\x042\x90m\xd5?'
+p829
+tp830
+Rp831
+tp832
+a(S'spectral set'
+p833
+g2
+(g6
+S'\x9fT\x9a\x03Z[\xd5?'
+p834
+tp835
+Rp836
+tp837
+a(S'amt park and ride lots'
+p838
+g2
+(g6
+S'\xb4\x02\xeb\xbc\x83X\xd5?'
+p839
+tp840
+Rp841
+tp842
+a(S"maharam's theorem"
+p843
+g2
+(g6
+S'\xed\nU\x9b\x7fM\xd5?'
+p844
+tp845
+Rp846
+tp847
+a(S'earle\xe2\x80\x93hamilton fixed-point theorem'
+p848
+g2
+(g6
+S'\xf0,\xf4\xee\x86G\xd5?'
+p849
+tp850
+Rp851
+tp852
+a(S'bs space'
+p853
+g2
+(g6
+S"\xf8\xed'\x87(C\xd5?"
+p854
+tp855
+Rp856
+tp857
+a(S'delta-convergence'
+p858
+g2
+(g6
+S'\xd0G\xf9\xa1\x99<\xd5?'
+p859
+tp860
+Rp861
+tp862
+a(S'browder fixed point theorem'
+p863
+g2
+(g6
+S"'\xeaI\x7fm*\xd5?"
+p864
+tp865
+Rp866
+tp867
+a(S'baire category theorem'
+p868
+g2
+(g6
+S'\\\xaa\xe3\xbaf\x0c\xd5?'
+p869
+tp870
+Rp871
+tp872
+a(S'markushevich basis'
+p873
+g2
+(g6
+S'=\x9e>\xe9\xa8\x01\xd5?'
+p874
+tp875
+Rp876
+tp877
+a(S'sobolev space'
+p878
+g2
+(g6
+S'\xeb^\xeb\xd5\xd5\xfd\xd4?'
+p879
+tp880
+Rp881
+tp882
+a(S'dual norm'
+p883
+g2
+(g6
+S'\xe6JI\xc9\xf9\xe0\xd4?'
+p884
+tp885
+Rp886
+tp887
+a(S"dvoretzky's theorem"
+p888
+g2
+(g6
+S'\x05A\x12\xab\x14\xd0\xd4?'
+p889
+tp890
+Rp891
+tp892
+a(S"ehrling's lemma"
+p893
+g2
+(g6
+S'\x15Q\xfe\xe8\x96\xbc\xd4?'
+p894
+tp895
+Rp896
+tp897
+a(S'princeton lectures in analysis'
+p898
+g2
+(g6
+S'\xe7\xa0\xb9\xca\xf2\xb4\xd4?'
+p899
+tp900
+Rp901
+tp902
+a(S'linear algebra'
+p903
+g2
+(g6
+S'V\xea\xdbP\xfd\xaf\xd4?'
+p904
+tp905
+Rp906
+tp907
+a(S'russo\xe2\x80\x93dye theorem'
+p908
+g2
+(g6
+S'\x0c\x0bX\x01\xff\xa7\xd4?'
+p909
+tp910
+Rp911
+tp912
+a(S'lorentz space'
+p913
+g2
+(g6
+S'\xa4L\x15\x17\xb5\x9e\xd4?'
+p914
+tp915
+Rp916
+tp917
+a(S'functional group (disambiguation)'
+p918
+g2
+(g6
+S'\x9a\x1e\xd5*`|\xd4?'
+p919
+tp920
+Rp921
+tp922
+a(S'p-space'
+p923
+g2
+(g6
+S'(\x10N\xed\xcbm\xd4?'
+p924
+tp925
+Rp926
+tp927
+a(S'linear map'
+p928
+g2
+(g6
+S'O\xc9\xce(=P\xd4?'
+p929
+tp930
+Rp931
+tp932
+a(S'sigur\xc3\xb0ur helgason (mathematician)'
+p933
+g2
+(g6
+S'\x86\x18\xa5\\ZB\xd4?'
+p934
+tp935
+Rp936
+tp937
+a(S'purely functional programming'
+p938
+g2
+(g6
+S'\xf3*\xc1\xd3\x0c7\xd4?'
+p939
+tp940
+Rp941
+tp942
+a(S'tietze extension theorem'
+p943
+g2
+(g6
+S'Mv\xcc\xdc8,\xd4?'
+p944
+tp945
+Rp946
+tp947
+a(S'realcompact space'
+p948
+g2
+(g6
+S"i\xffK\xb6['\xd4?"
+p949
+tp950
+Rp951
+tp952
+a(S'istv\xc3\xa1n feny\xc5\x91'
+p953
+g2
+(g6
+S'$Wq(U#\xd4?'
+p954
+tp955
+Rp956
+tp957
+a(S'cylindrical \xcf\x83-algebra'
+p958
+g2
+(g6
+S'\x846{\xeb\x85!\xd4?'
+p959
+tp960
+Rp961
+tp962
+a(S'browder\xe2\x80\x93minty theorem'
+p963
+g2
+(g6
+S'\xcb&^@\x07\x1a\xd4?'
+p964
+tp965
+Rp966
+tp967
+a(S'dual pair'
+p968
+g2
+(g6
+S'\x8a\xc3t\x18\x8e\x0c\xd4?'
+p969
+tp970
+Rp971
+tp972
+a(S'fra\xc5\x88kov\xc3\xa1\xe2\x80\x93helly selection theorem'
+p973
+g2
+(g6
+S'\x98||Gk\x07\xd4?'
+p974
+tp975
+Rp976
+tp977
+a(S'gelfand\xe2\x80\x93naimark\xe2\x80\x93segal construction'
+p978
+g2
+(g6
+S'x"+|\xcc\xf9\xd3?'
+p979
+tp980
+Rp981
+tp982
+a(S'william arthur kirk'
+p983
+g2
+(g6
+S'\xc4J\xda\x84\xfa\xf8\xd3?'
+p984
+tp985
+Rp986
+tp987
+a(S'resolvent set'
+p988
+g2
+(g6
+S'\x9f\xddw\xf5\x05\xed\xd3?'
+p989
+tp990
+Rp991
+tp992
+a(S"stone's theorem on one-parameter unitary groups"
+p993
+g2
+(g6
+S'\x01f]\xa55\xe6\xd3?'
+p994
+tp995
+Rp996
+tp997
+a(S'hilbert\xe2\x80\x93schmidt theorem'
+p998
+g2
+(g6
+S"\xb2\x9a'D~\xe3\xd3?"
+p999
+tp1000
+Rp1001
+tp1002
+a(S'vaclav zizler'
+p1003
+g2
+(g6
+S'\xfch4n\x17\xd1\xd3?'
+p1004
+tp1005
+Rp1006
+tp1007
+a(S'yuri kondratiev'
+p1008
+g2
+(g6
+S'\xf4M\x10H\xb8\xcb\xd3?'
+p1009
+tp1010
+Rp1011
+tp1012
+a(S'hans hahn (mathematician)'
+p1013
+g2
+(g6
+S'\x1bn^\xb1.\xc9\xd3?'
+p1014
+tp1015
+Rp1016
+tp1017
+a(S'analytic fredholm theorem'
+p1018
+g2
+(g6
+S'\x1b\xf3\xb2e%\xc5\xd3?'
+p1019
+tp1020
+Rp1021
+tp1022
+a(S'global analysis'
+p1023
+g2
+(g6
+S'\xc0\x06\x13\x9d\xc0\xba\xd3?'
+p1024
+tp1025
+Rp1026
+tp1027
+a(S'marshall harvey stone'
+p1028
+g2
+(g6
+S'\xf9\x9fA\x10\x9f\xba\xd3?'
+p1029
+tp1030
+Rp1031
+tp1032
+a(S"tychonoff's theorem"
+p1033
+g2
+(g6
+S'\xd6\xfc\xbe\xbfS\xb8\xd3?'
+p1034
+tp1035
+Rp1036
+tp1037
+a(S'coorbit theory'
+p1038
+g2
+(g6
+S'\x16\x1f\x86U\xac\xb2\xd3?'
+p1039
+tp1040
+Rp1041
+tp1042
+a(S'littlewood subordination theorem'
+p1043
+g2
+(g6
+S'\x13A\x89Ao\xaf\xd3?'
+p1044
+tp1045
+Rp1046
+tp1047
+a(S'linear span'
+p1048
+g2
+(g6
+S'\xc4{.\x9e\x17\xa7\xd3?'
+p1049
+tp1050
+Rp1051
+tp1052
+a(S'kolmogorov space'
+p1053
+g2
+(g6
+S'm{\\\xba\x97\x93\xd3?'
+p1054
+tp1055
+Rp1056
+tp1057
+a(S'dewitt notation'
+p1058
+g2
+(g6
+S'\x05dL\\\x88|\xd3?'
+p1059
+tp1060
+Rp1061
+tp1062
+a(S'category of finite-dimensional hilbert spaces'
+p1063
+g2
+(g6
+S'\x9a)\x97ANu\xd3?'
+p1064
+tp1065
+Rp1066
+tp1067
+a(S'universal representation (c*-algebra)'
+p1068
+g2
+(g6
+S'\xdaju\x11_p\xd3?'
+p1069
+tp1070
+Rp1071
+tp1072
+a(S'banach game'
+p1073
+g2
+(g6
+S'\x03%)q\xdcm\xd3?'
+p1074
+tp1075
+Rp1076
+tp1077
+a(S'semi-hilbert space'
+p1078
+g2
+(g6
+S'\x82\xeed\xec\xa5a\xd3?'
+p1079
+tp1080
+Rp1081
+tp1082
+a(S'barrier cone'
+p1083
+g2
+(g6
+S'\x04\x0f\x18\x8b\xeaZ\xd3?'
+p1084
+tp1085
+Rp1086
+tp1087
+a(S'transpose of a linear map'
+p1088
+g2
+(g6
+S'z\xc8\xd7\x9c\xcfB\xd3?'
+p1089
+tp1090
+Rp1091
+tp1092
+a(S'polish space'
+p1093
+g2
+(g6
+S'[\xdbo\xab\xbbB\xd3?'
+p1094
+tp1095
+Rp1096
+tp1097
+a(S'hugo steinhaus'
+p1098
+g2
+(g6
+S'u\xbaMF\x1bA\xd3?'
+p1099
+tp1100
+Rp1101
+tp1102
+a(S'george maltese'
+p1103
+g2
+(g6
+S'>6\xa2,\xaa@\xd3?'
+p1104
+tp1105
+Rp1106
+tp1107
+a(S'equicontinuity'
+p1108
+g2
+(g6
+S'/N\x05R>3\xd3?'
+p1109
+tp1110
+Rp1111
+tp1112
+a(S'unbounded operator'
+p1113
+g2
+(g6
+S'x\xd2\x97\xd6D.\xd3?'
+p1114
+tp1115
+Rp1116
+tp1117
+a(S'barrelled space'
+p1118
+g2
+(g6
+S'\xde\xa3\xd9?J,\xd3?'
+p1119
+tp1120
+Rp1121
+tp1122
+a(S'modulation space'
+p1123
+g2
+(g6
+S'z\x0b\\x\t,\xd3?'
+p1124
+tp1125
+Rp1126
+tp1127
+a(S'marc thomas'
+p1128
+g2
+(g6
+S'\xf5k\x17\xae\xec*\xd3?'
+p1129
+tp1130
+Rp1131
+tp1132
+a(S'moore space (topology)'
+p1133
+g2
+(g6
+S'\x14\x1ez{\x0c(\xd3?'
+p1134
+tp1135
+Rp1136
+tp1137
+a(S'transversality theorem'
+p1138
+g2
+(g6
+S'S\xdb\x80\xf0*&\xd3?'
+p1139
+tp1140
+Rp1141
+tp1142
+a(S'inverse function theorem'
+p1143
+g2
+(g6
+S'\xfa\x99\xffc\xda!\xd3?'
+p1144
+tp1145
+Rp1146
+tp1147
+a(S"mercer's theorem"
+p1148
+g2
+(g6
+S'F\x15\\\xff\xc2\x19\xd3?'
+p1149
+tp1150
+Rp1151
+tp1152
+a(S'representation theorem'
+p1153
+g2
+(g6
+S'\x0c\xbf\xd7f\xe0\x06\xd3?'
+p1154
+tp1155
+Rp1156
+tp1157
+a(S'infinite-dimensional holomorphy'
+p1158
+g2
+(g6
+S'\xe7&M%\x9d\x01\xd3?'
+p1159
+tp1160
+Rp1161
+tp1162
+a(S'real analysis'
+p1163
+g2
+(g6
+S'B\xe5\xcc\xd9a\xfa\xd2?'
+p1164
+tp1165
+Rp1166
+tp1167
+a(S"riesz's lemma"
+p1168
+g2
+(g6
+S') \x82_\xcb\xf8\xd2?'
+p1169
+tp1170
+Rp1171
+tp1172
+a(S'banach fixed-point theorem'
+p1173
+g2
+(g6
+S'\xaeZt\x98\xfa\xf7\xd2?'
+p1174
+tp1175
+Rp1176
+tp1177
+a(S'fredholm alternative'
+p1178
+g2
+(g6
+S'\xcf\x8c\xe5O)\xf7\xd2?'
+p1179
+tp1180
+Rp1181
+tp1182
+a(S'functional gastrointestinal disorder'
+p1183
+g2
+(g6
+S'>u\x8a\x0f\xe7\xf4\xd2?'
+p1184
+tp1185
+Rp1186
+tp1187
+a(S'bochner measurable function'
+p1188
+g2
+(g6
+S'Oth\x83k\xef\xd2?'
+p1189
+tp1190
+Rp1191
+tp1192
+a(S'bergman space'
+p1193
+g2
+(g6
+S'\xd2L\x84T\xec\xec\xd2?'
+p1194
+tp1195
+Rp1196
+tp1197
+a(S'marcinkiewicz interpolation theorem'
+p1198
+g2
+(g6
+S'\x95C\xfe\xa1\x81\xeb\xd2?'
+p1199
+tp1200
+Rp1201
+tp1202
+a(S'marianna cs\xc3\xb6rnyei'
+p1203
+g2
+(g6
+S'0d\xfb\x8f\xae\xd9\xd2?'
+p1204
+tp1205
+Rp1206
+tp1207
+a(S'hadamard derivative'
+p1208
+g2
+(g6
+S'\xd5\xdf\xfcF\x9c\xd7\xd2?'
+p1209
+tp1210
+Rp1211
+tp1212
+a(S'abstract wiener space'
+p1213
+g2
+(g6
+S'\xba\xb4\xcff\xc0\xd3\xd2?'
+p1214
+tp1215
+Rp1216
+tp1217
+a(S'functional diversity (disability)'
+p1218
+g2
+(g6
+S'x\xc5\x9cR]\xbf\xd2?'
+p1219
+tp1220
+Rp1221
+tp1222
+a(S'ba space'
+p1223
+g2
+(g6
+S'I\x08\x990\x15\xbd\xd2?'
+p1224
+tp1225
+Rp1226
+tp1227
+a(S'frigyes riesz'
+p1228
+g2
+(g6
+S'\xf6C\x16\x9c\xc3\xb1\xd2?'
+p1229
+tp1230
+Rp1231
+tp1232
+a(S'fredholm operator'
+p1233
+g2
+(g6
+S'\x81\xd1\xc0a\xf7\xad\xd2?'
+p1234
+tp1235
+Rp1236
+tp1237
+a(S'mark krein'
+p1238
+g2
+(g6
+S'\x9b\xaf\xa2I\x19\xab\xd2?'
+p1239
+tp1240
+Rp1241
+tp1242
+a(S'annals of functional analysis'
+p1243
+g2
+(g6
+S'\x98\xbbo\xad;\xa6\xd2?'
+p1244
+tp1245
+Rp1246
+tp1247
+a(S'pseudo-monotone operator'
+p1248
+g2
+(g6
+S'\xdc\xb7\xb5o\xf4\x9f\xd2?'
+p1249
+tp1250
+Rp1251
+tp1252
+a(S'milman\xe2\x80\x93pettis theorem'
+p1253
+g2
+(g6
+S'\xd1\x971-T\x9f\xd2?'
+p1254
+tp1255
+Rp1256
+tp1257
+a(S'complete metric space'
+p1258
+g2
+(g6
+S'\x0f[0\xcci\x9b\xd2?'
+p1259
+tp1260
+Rp1261
+tp1262
+a(S"von neumann's theorem"
+p1263
+g2
+(g6
+S'u\x0eb\x9c\x8f\x8c\xd2?'
+p1264
+tp1265
+Rp1266
+tp1267
+a(S'supercompact space'
+p1268
+g2
+(g6
+S'\x91\xd3\x87\xda\x9a\x8a\xd2?'
+p1269
+tp1270
+Rp1271
+tp1272
+a(S'kuratowski\xe2\x80\x93ulam theorem'
+p1273
+g2
+(g6
+S'<\x9ae\x9a{\x89\xd2?'
+p1274
+tp1275
+Rp1276
+tp1277
+a(S'functional principal component analysis'
+p1278
+g2
+(g6
+S'\xd0\x0fs\xee\xb8\x84\xd2?'
+p1279
+tp1280
+Rp1281
+tp1282
+a(S'spectral theory of ordinary differential equations'
+p1283
+g2
+(g6
+S'\xc6Q&<\xea\x80\xd2?'
+p1284
+tp1285
+Rp1286
+tp1287
+a(S'functional equation'
+p1288
+g2
+(g6
+S'J\xf7@\xb35~\xd2?'
+p1289
+tp1290
+Rp1291
+tp1292
+a(S'spaces (software)'
+p1293
+g2
+(g6
+S'\x96\xe5\x16\xcd\x9dz\xd2?'
+p1294
+tp1295
+Rp1296
+tp1297
+a(S'peter\xe2\x80\x93weyl theorem'
+p1298
+g2
+(g6
+S'O\xa4\xd0L\xffv\xd2?'
+p1299
+tp1300
+Rp1301
+tp1302
+a(S'lindel\xc3\xb6f space'
+p1303
+g2
+(g6
+S'f\x05\x10\xf9\xc1t\xd2?'
+p1304
+tp1305
+Rp1306
+tp1307
+a(S'caristi fixed-point theorem'
+p1308
+g2
+(g6
+S'\xacb\x91\x0far\xd2?'
+p1309
+tp1310
+Rp1311
+tp1312
+a(S'spaces'
+p1313
+g2
+(g6
+S'\xb3\xfa\x83\x96\x87h\xd2?'
+p1314
+tp1315
+Rp1316
+tp1317
+a(S'densely defined operator'
+p1318
+g2
+(g6
+S'\x8c\xb8"\xad\x96g\xd2?'
+p1319
+tp1320
+Rp1321
+tp1322
+a(S'list of functional connectivity software'
+p1323
+g2
+(g6
+S'\xe9C\xad\x1f\xdbT\xd2?'
+p1324
+tp1325
+Rp1326
+tp1327
+a(S'metrization theorem'
+p1328
+g2
+(g6
+S'\xd7-\xee\x99\xacT\xd2?'
+p1329
+tp1330
+Rp1331
+tp1332
+a(S'list of mathematical proofs'
+p1333
+g2
+(g6
+S'\xb7\xbf\xd1JaT\xd2?'
+p1334
+tp1335
+Rp1336
+tp1337
+a(S'fixed-point theorems in infinite-dimensional spaces'
+p1338
+g2
+(g6
+S'\x00\x85a@1N\xd2?'
+p1339
+tp1340
+Rp1341
+tp1342
+a(S'laplace functional'
+p1343
+g2
+(g6
+S't\x1f\x87\x18\xefI\xd2?'
+p1344
+tp1345
+Rp1346
+tp1347
+a(S'geometric data analysis'
+p1348
+g2
+(g6
+S'i\xe0\xd4\xd6vG\xd2?'
+p1349
+tp1350
+Rp1351
+tp1352
+a(S'examples of vector spaces'
+p1353
+g2
+(g6
+S'"\xe1H& C\xd2?'
+p1354
+tp1355
+Rp1356
+tp1357
+a(S'fascial spaces of the head and neck'
+p1358
+g2
+(g6
+S'\xdb\xe6\x9bN\xea?\xd2?'
+p1359
+tp1360
+Rp1361
+tp1362
+a(S'covariance operator'
+p1363
+g2
+(g6
+S'Ll\x16@\xd2>\xd2?'
+p1364
+tp1365
+Rp1366
+tp1367
+a(S'c0-semigroup'
+p1368
+g2
+(g6
+S'kNV\xc0\xdc:\xd2?'
+p1369
+tp1370
+Rp1371
+tp1372
+a(S"kuiper's theorem"
+p1373
+g2
+(g6
+S'\xd8z\x14~k+\xd2?'
+p1374
+tp1375
+Rp1376
+tp1377
+a(S'robert edmund edwards'
+p1378
+g2
+(g6
+S':\x82_\xc3Z)\xd2?'
+p1379
+tp1380
+Rp1381
+tp1382
+a(S'strongly measurable functions'
+p1383
+g2
+(g6
+S'\xc6=\x17\x84A&\xd2?'
+p1384
+tp1385
+Rp1386
+tp1387
+a(S'robert megginson'
+p1388
+g2
+(g6
+S'\x0b\xae\x0b?9!\xd2?'
+p1389
+tp1390
+Rp1391
+tp1392
+a(S'integration by parts operator'
+p1393
+g2
+(g6
+S'\x15\t:\xa7Q\x1b\xd2?'
+p1394
+tp1395
+Rp1396
+tp1397
+a(S'operator norm'
+p1398
+g2
+(g6
+S'\xa3.\xe9KF\x1b\xd2?'
+p1399
+tp1400
+Rp1401
+tp1402
+a(S'polyadic space'
+p1403
+g2
+(g6
+S'x5/\xee\xa6\x11\xd2?'
+p1404
+tp1405
+Rp1406
+tp1407
+a(S'mountain pass theorem'
+p1408
+g2
+(g6
+S'U\xa6\x9dd\xc6\x04\xd2?'
+p1409
+tp1410
+Rp1411
+tp1412
+a(S'first variation'
+p1413
+g2
+(g6
+S'\xe2\xe0y\xb3\xcc\xfe\xd1?'
+p1414
+tp1415
+Rp1416
+tp1417
+a(S'structured data analysis (statistics)'
+p1418
+g2
+(g6
+S'\xdeC\xb7x\xc9\xfc\xd1?'
+p1419
+tp1420
+Rp1421
+tp1422
+a(S'carath\xc3\xa9odory metric'
+p1423
+g2
+(g6
+S'\xb3\xeb\xc9\x99\x10\xfb\xd1?'
+p1424
+tp1425
+Rp1426
+tp1427
+a(S'singular integral operators on closed curves'
+p1428
+g2
+(g6
+S'\xbf\xcd\x8a\xb6_\xf7\xd1?'
+p1429
+tp1430
+Rp1431
+tp1432
+a(S'calkin correspondence'
+p1433
+g2
+(g6
+S'V\xcf5\xc1\xaf\xf1\xd1?'
+p1434
+tp1435
+Rp1436
+tp1437
+a(S'functional requirement'
+p1438
+g2
+(g6
+S'\xd7 \xcd1`\xf1\xd1?'
+p1439
+tp1440
+Rp1441
+tp1442
+a(S'systems analysis'
+p1443
+g2
+(g6
+S'\xbe\xcf0\x18\xa9\xe5\xd1?'
+p1444
+tp1445
+Rp1446
+tp1447
+a(S"ekeland's variational principle"
+p1448
+g2
+(g6
+S'fK\x98\xbas\xe4\xd1?'
+p1449
+tp1450
+Rp1451
+tp1452
+a(S'riesz\xe2\x80\x93fischer theorem'
+p1453
+g2
+(g6
+S'2\xc1i\xdf\xa9\xe1\xd1?'
+p1454
+tp1455
+Rp1456
+tp1457
+a(S'polynomially reflexive space'
+p1458
+g2
+(g6
+S'\x8d\xda\x01\x12#\xe1\xd1?'
+p1459
+tp1460
+Rp1461
+tp1462
+a(S'functional manager'
+p1463
+g2
+(g6
+S'\xfcS\xe3\x0b\xef\xdb\xd1?'
+p1464
+tp1465
+Rp1466
+tp1467
+a(S'michael banach'
+p1468
+g2
+(g6
+S'\xd3\xef\xc2\\\x0c\xd3\xd1?'
+p1469
+tp1470
+Rp1471
+tp1472
+a(S'function model'
+p1473
+g2
+(g6
+S'\xb4\x87\r\x1a\xa5\xd1\xd1?'
+p1474
+tp1475
+Rp1476
+tp1477
+a(S'energy functional'
+p1478
+g2
+(g6
+S'u\x8a\xac\x1fe\xd1\xd1?'
+p1479
+tp1480
+Rp1481
+tp1482
+a(S'freesurfer'
+p1483
+g2
+(g6
+S'\xf9\xe2\x0e\xfd\x91\xcf\xd1?'
+p1484
+tp1485
+Rp1486
+tp1487
+a(S'convenient vector space'
+p1488
+g2
+(g6
+S'\xdbh\xad\xb4\xa9\xc8\xd1?'
+p1489
+tp1490
+Rp1491
+tp1492
+a(S'real-valued function'
+p1493
+g2
+(g6
+S'j\xcb\xcc\x93e\xbf\xd1?'
+p1494
+tp1495
+Rp1496
+tp1497
+a(S'compression (functional analysis)'
+p1498
+g2
+(g6
+S'\xc1XSvX\xbe\xd1?'
+p1499
+tp1500
+Rp1501
+tp1502
+a(S'inner product space'
+p1503
+g2
+(g6
+S'\x90\x00\x9d\xec\x16\xb4\xd1?'
+p1504
+tp1505
+Rp1506
+tp1507
+a(S'adriaan cornelis zaanen'
+p1508
+g2
+(g6
+S'P\xbb0\x93\xa7\xb0\xd1?'
+p1509
+tp1510
+Rp1511
+tp1512
+a.

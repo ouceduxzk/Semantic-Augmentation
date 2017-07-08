@@ -1,0 +1,2728 @@
+(lp0
+(S'computational sociology'
+p1
+cnumpy.core.multiarray
+scalar
+p2
+(cnumpy
+dtype
+p3
+(S'f8'
+p4
+I0
+I1
+tp5
+Rp6
+(I3
+S'<'
+p7
+NNNI-1
+I-1
+I0
+tp8
+bS'\x07\x00\x00\x00\x00\x00\xf0?'
+p9
+tp10
+Rp11
+tp12
+a(S'social complexity'
+p13
+g2
+(g6
+S'\x053\xa1=\xec\x01\xe5?'
+p14
+tp15
+Rp16
+tp17
+a(S'social simulation'
+p18
+g2
+(g6
+S'\x81-\xa1B-\xc8\xe3?'
+p19
+tp20
+Rp21
+tp22
+a(S'computational social science'
+p23
+g2
+(g6
+S'B_b\xb8\x84R\xe3?'
+p24
+tp25
+Rp26
+tp27
+a(S'artificial society'
+p28
+g2
+(g6
+S'\xa9\xfc\xfb\xd3\xd73\xe1?'
+p29
+tp30
+Rp31
+tp32
+a(S'nigel gilbert'
+p33
+g2
+(g6
+S'\x97\xf05E[)\xe1?'
+p34
+tp35
+Rp36
+tp37
+a(S'agent-based social simulation'
+p38
+g2
+(g6
+S'd+\x06\xdb\xa7U\xe0?'
+p39
+tp40
+Rp41
+tp42
+a(S'social network'
+p43
+g2
+(g6
+S'~\x13\xc2\xa0=\x1f\xdf?'
+p44
+tp45
+Rp46
+tp47
+a(S'social science'
+p48
+g2
+(g6
+S'\xe1\xee\xa7\xf0z\xf2\xde?'
+p49
+tp50
+Rp51
+tp52
+a(S'european social simulation association'
+p53
+g2
+(g6
+S'\xb1+deU\x0e\xde?'
+p54
+tp55
+Rp56
+tp57
+a(S'agent-based model'
+p58
+g2
+(g6
+S'g\xbcW\xed\xef\xbe\xdd?'
+p59
+tp60
+Rp61
+tp62
+a(S'historical dynamics'
+p63
+g2
+(g6
+S'\xd5\x0f\xa5M\xa0w\xdd?'
+p64
+tp65
+Rp66
+tp67
+a(S'sociology'
+p68
+g2
+(g6
+S'\x86\xe6\x81\x19\xbc\t\xdd?'
+p69
+tp70
+Rp71
+tp72
+a(S'computer simulation and organizational studies'
+p73
+g2
+(g6
+S'\x89\x13\x83c\xb6y\xdb?'
+p74
+tp75
+Rp76
+tp77
+a(S'social research'
+p78
+g2
+(g6
+S'<\xb4!\x0e<:\xdb?'
+p79
+tp80
+Rp81
+tp82
+a(S'complex systems'
+p83
+g2
+(g6
+S'G\xfd\xdf\x144"\xdb?'
+p84
+tp85
+Rp86
+tp87
+a(S'klaus g. troitzsch'
+p88
+g2
+(g6
+S'-\xb9\xfa\x18I\xd8\xda?'
+p89
+tp90
+Rp91
+tp92
+a(S'journal of artificial societies and social simulation'
+p93
+g2
+(g6
+S'+C\x03\xfc#\xbb\xda?'
+p94
+tp95
+Rp96
+tp97
+a(S'social theory'
+p98
+g2
+(g6
+S'C\xc0n\xf4\xde\xb1\xda?'
+p99
+tp100
+Rp101
+tp102
+a(S'social structure'
+p103
+g2
+(g6
+S'\xa3x\x03\x1fS?\xda?'
+p104
+tp105
+Rp106
+tp107
+a(S'social computing'
+p108
+g2
+(g6
+S'\xbd\xc5\xf0~\x9e7\xda?'
+p109
+tp110
+Rp111
+tp112
+a(S'social network analysis'
+p113
+g2
+(g6
+S'\xc6\xdf\xa2\xa1\x85\x10\xda?'
+p114
+tp115
+Rp116
+tp117
+a(S'sociological theory'
+p118
+g2
+(g6
+S'\xa1\xbfHWs\xf5\xd9?'
+p119
+tp120
+Rp121
+tp122
+a(S'kathleen carley'
+p123
+g2
+(g6
+S'\xd6\x9a\xa3\x04Z[\xd9?'
+p124
+tp125
+Rp126
+tp127
+a(S'social relation'
+p128
+g2
+(g6
+S'\xdd\x08[#\x02@\xd9?'
+p129
+tp130
+Rp131
+tp132
+a(S'douglas r. white'
+p133
+g2
+(g6
+S'\x1fl\x10\xf6\xff6\xd9?'
+p134
+tp135
+Rp136
+tp137
+a(S'social'
+p138
+g2
+(g6
+S'\x1a\x8d><\xb92\xd9?'
+p139
+tp140
+Rp141
+tp142
+a(S'complex adaptive system'
+p143
+g2
+(g6
+S'J\x98%jd\xfb\xd8?'
+p144
+tp145
+Rp146
+tp147
+a(S'computational engineering'
+p148
+g2
+(g6
+S'\x17\xc7\x84\x0c\x0f\xe7\xd8?'
+p149
+tp150
+Rp151
+tp152
+a(S'social statistics'
+p153
+g2
+(g6
+S'\xcb\x7f\xf7\xdc\x1e\xd9\xd8?'
+p154
+tp155
+Rp156
+tp157
+a(S'social work'
+p158
+g2
+(g6
+S'\x00N\xf5\x19\xdb\xc1\xd8?'
+p159
+tp160
+Rp161
+tp162
+a(S'computational science'
+p163
+g2
+(g6
+S'\xce\x08=\xdd\x0b\xb3\xd8?'
+p164
+tp165
+Rp166
+tp167
+a(S'social media mining'
+p168
+g2
+(g6
+S'\x01\xa7\xab\x99\xef\x81\xd8?'
+p169
+tp170
+Rp171
+tp172
+a(S'social technology'
+p173
+g2
+(g6
+S'\xf0\xc0\xa2\xa3\x7fy\xd8?'
+p174
+tp175
+Rp176
+tp177
+a(S'harrison white'
+p178
+g2
+(g6
+S'W/o\xbc>Z\xd8?'
+p179
+tp180
+Rp181
+tp182
+a(S'university of pittsburgh school of social work'
+p183
+g2
+(g6
+S'\xeb\xfa\xe2ok+\xd8?'
+p184
+tp185
+Rp186
+tp187
+a(S'social history'
+p188
+g2
+(g6
+S'\xd3F\t1}\x14\xd8?'
+p189
+tp190
+Rp191
+tp192
+a(S'social psychology (sociology)'
+p193
+g2
+(g6
+S'\xaf{\xf1\xb1\x8d\x00\xd8?'
+p194
+tp195
+Rp196
+tp197
+a(S'computer simulation'
+p198
+g2
+(g6
+S'\xdb\x89)\xcbw\xf7\xd7?'
+p199
+tp200
+Rp201
+tp202
+a(S'school social worker'
+p203
+g2
+(g6
+S'\xfc\x99x\x11\xd2\xe0\xd7?'
+p204
+tp205
+Rp206
+tp207
+a(S'social machine'
+p208
+g2
+(g6
+S'\x8b $ \x17\x85\xd7?'
+p209
+tp210
+Rp211
+tp212
+a(S'computational biology'
+p213
+g2
+(g6
+S'\x8cH|m\xae\x84\xd7?'
+p214
+tp215
+Rp216
+tp217
+a(S'university of michigan school of social work'
+p218
+g2
+(g6
+S'\xcd}\x13 k\x82\xd7?'
+p219
+tp220
+Rp221
+tp222
+a(S'social affordance'
+p223
+g2
+(g6
+S'{\x84\xc7 Lv\xd7?'
+p224
+tp225
+Rp226
+tp227
+a(S'joshua m. epstein'
+p228
+g2
+(g6
+S'+\xea\x0f\xedUO\xd7?'
+p229
+tp230
+Rp231
+tp232
+a(S'pavel romanov'
+p233
+g2
+(g6
+S'\xb7\x16\xceb\xc2K\xd7?'
+p234
+tp235
+Rp236
+tp237
+a(S'bibliography of sociology'
+p238
+g2
+(g6
+S'\x8d\xe7Ya\xb2J\xd7?'
+p239
+tp240
+Rp241
+tp242
+a(S'arc centre for complex systems'
+p243
+g2
+(g6
+S"\x06\xf3u'\xc5>\xd7?"
+p244
+tp245
+Rp246
+tp247
+a(S'complex and adaptive systems laboratory'
+p248
+g2
+(g6
+S'\xf0\tw\xf4\x925\xd7?'
+p249
+tp250
+Rp251
+tp252
+a(S'university of arkansas school of social work'
+p253
+g2
+(g6
+S'8/\xca\x85b&\xd7?'
+p254
+tp255
+Rp256
+tp257
+a(S'library of congress classification:class h, subclass hm -- sociology (general)'
+p258
+g2
+(g6
+S'gJh\xda-\x1c\xd7?'
+p259
+tp260
+Rp261
+tp262
+a(S'list of systems science journals'
+p263
+g2
+(g6
+S'\x178H\xe2W\x1b\xd7?'
+p264
+tp265
+Rp266
+tp267
+a(S'social (disambiguation)'
+p268
+g2
+(g6
+S'\xc5\xb5\x91\x80\xb9\x14\xd7?'
+p269
+tp270
+Rp271
+tp272
+a(S'outline of science'
+p273
+g2
+(g6
+S'\xeex\xb56\xf7\t\xd7?'
+p274
+tp275
+Rp276
+tp277
+a(S'philosophy of social science'
+p278
+g2
+(g6
+S'P\xaf\xa8\xeb9\xe5\xd6?'
+p279
+tp280
+Rp281
+tp282
+a(S'critical social work'
+p283
+g2
+(g6
+S'\xf2<v]\xeb\xce\xd6?'
+p284
+tp285
+Rp286
+tp287
+a(S'social network (disambiguation)'
+p288
+g2
+(g6
+S'\x9f\x1cFSN\xc8\xd6?'
+p289
+tp290
+Rp291
+tp292
+a(S'social activity'
+p293
+g2
+(g6
+S'\xb4@\x10\x11\xf8\xc5\xd6?'
+p294
+tp295
+Rp296
+tp297
+a(S'computational complexity'
+p298
+g2
+(g6
+S'\x15V\xe7\xdf\xe6\x80\xd6?'
+p299
+tp300
+Rp301
+tp302
+a(S'robert axtell'
+p303
+g2
+(g6
+S'P\x05\xe0CXy\xd6?'
+p304
+tp305
+Rp306
+tp307
+a(S'antipositivism'
+p308
+g2
+(g6
+S'\x00v\xcd\x1b\xa5v\xd6?'
+p309
+tp310
+Rp311
+tp312
+a(S'edward laumann'
+p313
+g2
+(g6
+S'P5\xa8E\x82t\xd6?'
+p314
+tp315
+Rp316
+tp317
+a(S'krasnow institute for advanced study'
+p318
+g2
+(g6
+S'\xf8R\x89\xaf\x9cn\xd6?'
+p319
+tp320
+Rp321
+tp322
+a(S'social enterprise'
+p323
+g2
+(g6
+S'\xe88\x0fX\xc0`\xd6?'
+p324
+tp325
+Rp326
+tp327
+a(S'mathematical sociology'
+p328
+g2
+(g6
+S'\x1d\x8ePl\r^\xd6?'
+p329
+tp330
+Rp331
+tp332
+a(S'network analysis and ethnographic problems'
+p333
+g2
+(g6
+S'\x148+\xc8"[\xd6?'
+p334
+tp335
+Rp336
+tp337
+a(S'microsociology'
+p338
+g2
+(g6
+S'`\xbe\xa3\xa4lR\xd6?'
+p339
+tp340
+Rp341
+tp342
+a(S'ethnomethodology'
+p343
+g2
+(g6
+S'of\xdf\xea\x1eP\xd6?'
+p344
+tp345
+Rp346
+tp347
+a(S'tom snijders'
+p348
+g2
+(g6
+S"'\xce\xa3e\x1eH\xd6?"
+p349
+tp350
+Rp351
+tp352
+a(S'social capital'
+p353
+g2
+(g6
+S"q_'\xa5]F\xd6?"
+p354
+tp355
+Rp356
+tp357
+a(S'social practice'
+p358
+g2
+(g6
+S'\xdc\x9cV\xbb[E\xd6?'
+p359
+tp360
+Rp361
+tp362
+a(S'social constructionism'
+p363
+g2
+(g6
+S'\x16\xaf\x84\xaf\xe1:\xd6?'
+p364
+tp365
+Rp366
+tp367
+a(S'ronald breiger'
+p368
+g2
+(g6
+S'\x11\xc9\xcfa\x026\xd6?'
+p369
+tp370
+Rp371
+tp372
+a(S'emory s. bogardus'
+p373
+g2
+(g6
+S'\xb8\xdb\xf2\x02\x18&\xd6?'
+p374
+tp375
+Rp376
+tp377
+a(S'social intelligence'
+p378
+g2
+(g6
+S'\xa4d\xcb\xf2\xba \xd6?'
+p379
+tp380
+Rp381
+tp382
+a(S'international federation of social workers'
+p383
+g2
+(g6
+S'\xcb\xff\xadu\xe7\x18\xd6?'
+p384
+tp385
+Rp386
+tp387
+a(S'population informatics'
+p388
+g2
+(g6
+S"+'\x0clS\x10\xd6?"
+p389
+tp390
+Rp391
+tp392
+a(S'history of sociology'
+p393
+g2
+(g6
+S't\xb7!3\xf5\x0f\xd6?'
+p394
+tp395
+Rp396
+tp397
+a(S'social physics'
+p398
+g2
+(g6
+S'\x90\xd5#B\x0f\xfe\xd5?'
+p399
+tp400
+Rp401
+tp402
+a(S'social dynamics'
+p403
+g2
+(g6
+S'\xd2J6\x82\xc0\xf4\xd5?'
+p404
+tp405
+Rp406
+tp407
+a(S'national council for the social studies'
+p408
+g2
+(g6
+S'$\xcc\x7f/\xd3\xf3\xd5?'
+p409
+tp410
+Rp411
+tp412
+a(S'national centre for e-social science'
+p413
+g2
+(g6
+S'~\x7f\xf1\xb0\x18\xf2\xd5?'
+p414
+tp415
+Rp416
+tp417
+a(S'cliodynamics'
+p418
+g2
+(g6
+S'\xa6yc8G\xd2\xd5?'
+p419
+tp420
+Rp421
+tp422
+a(S'social entrepreneurship'
+p423
+g2
+(g6
+S'rQ\x0f\x9a/\xcc\xd5?'
+p424
+tp425
+Rp426
+tp427
+a(S'columbia university school of social work'
+p428
+g2
+(g6
+S'\xcd4\xb6\x12Q\xca\xd5?'
+p429
+tp430
+Rp431
+tp432
+a(S'systems simulation'
+p433
+g2
+(g6
+S'n\xc1\x83\x96\xb3\xbb\xd5?'
+p434
+tp435
+Rp436
+tp437
+a(S'social engineering (political science)'
+p438
+g2
+(g6
+S'\x10\xdf\x92\xa1+\xb7\xd5?'
+p439
+tp440
+Rp441
+tp442
+a(S'boston college school of social work'
+p443
+g2
+(g6
+S'\xbdR@"q\xb3\xd5?'
+p444
+tp445
+Rp446
+tp447
+a(S'modeling and simulation'
+p448
+g2
+(g6
+S'\xd1+\xd9\xb4\xa4\xaa\xd5?'
+p449
+tp450
+Rp451
+tp452
+a(S'e-social science'
+p453
+g2
+(g6
+S'\xeeXy\xbc\x12\xa9\xd5?'
+p454
+tp455
+Rp456
+tp457
+a(S'social quality'
+p458
+g2
+(g6
+S'M\x8cM\xb1H\x92\xd5?'
+p459
+tp460
+Rp461
+tp462
+a(S'outline of sociology'
+p463
+g2
+(g6
+S'&\xed\xa6`iw\xd5?'
+p464
+tp465
+Rp466
+tp467
+a(S'complexity'
+p468
+g2
+(g6
+S'\x10\xa0\x9e\xd2\xbek\xd5?'
+p469
+tp470
+Rp471
+tp472
+a(S'systems science'
+p473
+g2
+(g6
+S'-\xb2wu`g\xd5?'
+p474
+tp475
+Rp476
+tp477
+a(S'ronald stuart burt'
+p478
+g2
+(g6
+S'\xb8\xab*\x83^]\xd5?'
+p479
+tp480
+Rp481
+tp482
+a(S'santa fe institute'
+p483
+g2
+(g6
+S'\xe0\x0c\xe0\xb5gU\xd5?'
+p484
+tp485
+Rp486
+tp487
+a(S'agent-based computational economics'
+p488
+g2
+(g6
+S'XF\xc7v:U\xd5?'
+p489
+tp490
+Rp491
+tp492
+a(S'thomas j. schriber'
+p493
+g2
+(g6
+S'\x80s\x10\xe4\xf5R\xd5?'
+p494
+tp495
+Rp496
+tp497
+a(S'university of edinburgh school of social and political sciences'
+p498
+g2
+(g6
+S'\x00J\x95W+R\xd5?'
+p499
+tp500
+Rp501
+tp502
+a(S'social position'
+p503
+g2
+(g6
+S'm\x81\xb8 \xabM\xd5?'
+p504
+tp505
+Rp506
+tp507
+a(S'social software'
+p508
+g2
+(g6
+S'`\x1d\xf1\x9a\xf44\xd5?'
+p509
+tp510
+Rp511
+tp512
+a(S'computational model'
+p513
+g2
+(g6
+S'\xfb\x85\x8fE\x9b2\xd5?'
+p514
+tp515
+Rp516
+tp517
+a(S'social media'
+p518
+g2
+(g6
+S'\xb0\xd4\xf6\x97\x19+\xd5?'
+p519
+tp520
+Rp521
+tp522
+a(S'simulation'
+p523
+g2
+(g6
+S'\xac\x18\x14\xf4i$\xd5?'
+p524
+tp525
+Rp526
+tp527
+a(S'complex system'
+p528
+g2
+(g6
+S'Z\xc7\xb0\x15\x8c\x11\xd5?'
+p529
+tp530
+Rp531
+tp532
+a(S'systems theory'
+p533
+g2
+(g6
+S'.\x99R\xaf\r\x0e\xd5?'
+p534
+tp535
+Rp536
+tp537
+a(S'ceu center for network science'
+p538
+g2
+(g6
+S'\xb3\xa7\xde\xe6\x0c\x08\xd5?'
+p539
+tp540
+Rp541
+tp542
+a(S'ms4 modeling environment'
+p543
+g2
+(g6
+S'H\x0c]\x0b\xd2\xfb\xd4?'
+p544
+tp545
+Rp546
+tp547
+a(S'social media analytics'
+p548
+g2
+(g6
+S'D\xd0\xa2\xe3\x06\xfa\xd4?'
+p549
+tp550
+Rp551
+tp552
+a(S'history of the social sciences'
+p553
+g2
+(g6
+S'\x90\x83g\xc7\x05\xec\xd4?'
+p554
+tp555
+Rp556
+tp557
+a(S'platbox project'
+p558
+g2
+(g6
+S'q\xe1*\xbb\xf7\xe9\xd4?'
+p559
+tp560
+Rp561
+tp562
+a(S'structure and agency'
+p563
+g2
+(g6
+S'\xdf5\x80\xda2\xde\xd4?'
+p564
+tp565
+Rp566
+tp567
+a(S'uiuc school of social work'
+p568
+g2
+(g6
+S'\x7f\xdcH\x87\xc4\xdb\xd4?'
+p569
+tp570
+Rp571
+tp572
+a(S'computational linguistics'
+p573
+g2
+(g6
+S'\xa8\x83\xc2\xa9x\xd9\xd4?'
+p574
+tp575
+Rp576
+tp577
+a(S'list of systems sciences organizations'
+p578
+g2
+(g6
+S'\x856\x94!\x8c\xd4\xd4?'
+p579
+tp580
+Rp581
+tp582
+a(S'computational neuroscience'
+p583
+g2
+(g6
+S'.\xd8\xb6\xa8-\xd4\xd4?'
+p584
+tp585
+Rp586
+tp587
+a(S'computational physics'
+p588
+g2
+(g6
+S'\xd8\xc4\x0f\x85Q\xd3\xd4?'
+p589
+tp590
+Rp591
+tp592
+a(S'social policy'
+p593
+g2
+(g6
+S'\xb5\xce\x8a\x9cI\xd3\xd4?'
+p594
+tp595
+Rp596
+tp597
+a(S'mayer zald'
+p598
+g2
+(g6
+S'\xfe\xc1\x0f\xab\x8a\xbc\xd4?'
+p599
+tp600
+Rp601
+tp602
+a(S'making social science matter'
+p603
+g2
+(g6
+S'F\x18a\xa2\xd7\xb0\xd4?'
+p604
+tp605
+Rp606
+tp607
+a(S'computational economics'
+p608
+g2
+(g6
+S'\xb5\x9d\xf5\xb8\xc8\xae\xd4?'
+p609
+tp610
+Rp611
+tp612
+a(S'social change'
+p613
+g2
+(g6
+S'M\x15\x8b2J\xab\xd4?'
+p614
+tp615
+Rp616
+tp617
+a(S'herbert blumer'
+p618
+g2
+(g6
+S'\x11\xe8:\xeaD\xa6\xd4?'
+p619
+tp620
+Rp621
+tp622
+a(S'florian znaniecki'
+p623
+g2
+(g6
+S'\x90u\x9d\xb8\x14\x9f\xd4?'
+p624
+tp625
+Rp626
+tp627
+a(S'national association of social workers'
+p628
+g2
+(g6
+S'\x10\xb3\xc6\xc4\xf8\x8c\xd4?'
+p629
+tp630
+Rp631
+tp632
+a(S'international social work'
+p633
+g2
+(g6
+S'(.?\x17+\x8b\xd4?'
+p634
+tp635
+Rp636
+tp637
+a(S'social data analysis'
+p638
+g2
+(g6
+S'\xae\xfe\xb6\x8bx\x87\xd4?'
+p639
+tp640
+Rp641
+tp642
+a(S'tarki social research institute'
+p643
+g2
+(g6
+S'\x97\xe6W\xe7\x98t\xd4?'
+p644
+tp645
+Rp646
+tp647
+a(S'analytical sociology'
+p648
+g2
+(g6
+S'1\xb1y\x07\x8fn\xd4?'
+p649
+tp650
+Rp651
+tp652
+a(S'kenneth d. bailey (sociologist)'
+p653
+g2
+(g6
+S'\x80\xcd\xaaZ\x8dg\xd4?'
+p654
+tp655
+Rp656
+tp657
+a(S'social objects'
+p658
+g2
+(g6
+S'8c\xdf\xc9\xf2`\xd4?'
+p659
+tp660
+Rp661
+tp662
+a(S'new england complex systems institute'
+p663
+g2
+(g6
+S'_[1\xcc\x17`\xd4?'
+p664
+tp665
+Rp666
+tp667
+a(S'cor van dijkum'
+p668
+g2
+(g6
+S'VA\xff\x03\x1eS\xd4?'
+p669
+tp670
+Rp671
+tp672
+a(S'gesis \xe2\x80\x93 leibniz institute for the social sciences'
+p673
+g2
+(g6
+S"\xedl\xb0gJ'\xd4?"
+p674
+tp675
+Rp676
+tp677
+a(S'pieter mosterman'
+p678
+g2
+(g6
+S'\xce\xf7)B\xd3!\xd4?'
+p679
+tp680
+Rp681
+tp682
+a(S'pure sociology'
+p683
+g2
+(g6
+S'i\xa9h\xcas\x1f\xd4?'
+p684
+tp685
+Rp686
+tp687
+a(S'a new kind of science'
+p688
+g2
+(g6
+S'@#<^\xf6\x15\xd4?'
+p689
+tp690
+Rp691
+tp692
+a(S'school social work in hungary'
+p693
+g2
+(g6
+S'\x1c0\x10\xb8\xca\x13\xd4?'
+p694
+tp695
+Rp696
+tp697
+a(S'indian council of social science research'
+p698
+g2
+(g6
+S'8\xbbu\xf3\xc2\n\xd4?'
+p699
+tp700
+Rp701
+tp702
+a(S'academy of social sciences'
+p703
+g2
+(g6
+S'\xb3\xcd\xdeF\x9c\x07\xd4?'
+p704
+tp705
+Rp706
+tp707
+a(S'group work'
+p708
+g2
+(g6
+S'\xa8\xec\xd1\x18?\x07\xd4?'
+p709
+tp710
+Rp711
+tp712
+a(S'systems biology'
+p713
+g2
+(g6
+S'\r%\xcc,\xa8\x04\xd4?'
+p714
+tp715
+Rp716
+tp717
+a(S'rosaria conte'
+p718
+g2
+(g6
+S'"\xd34\x1c\xd6\xfe\xd3?'
+p719
+tp720
+Rp721
+tp722
+a(S'complexity theory'
+p723
+g2
+(g6
+S'\xc6ar\x16\xb8\xf4\xd3?'
+p724
+tp725
+Rp726
+tp727
+a(S'cristiano castelfranchi'
+p728
+g2
+(g6
+S'\xa0m6\xbd\xf5\xf2\xd3?'
+p729
+tp730
+Rp731
+tp732
+a(S'filippo menczer'
+p733
+g2
+(g6
+S'rPS\xe83\xde\xd3?'
+p734
+tp735
+Rp736
+tp737
+a(S'social rule system theory'
+p738
+g2
+(g6
+S'\x93p\x15\xe7.\xde\xd3?'
+p739
+tp740
+Rp741
+tp742
+a(S'vladimir batagelj'
+p743
+g2
+(g6
+S'{\xbc9\xfc\n\xd8\xd3?'
+p744
+tp745
+Rp746
+tp747
+a(S'qualifications for professional social work'
+p748
+g2
+(g6
+S'\xdfk\x82\x8a\x0c\xd6\xd3?'
+p749
+tp750
+Rp751
+tp752
+a(S'social networking (disambiguation)'
+p753
+g2
+(g6
+S'\xa1\xe7\x04|c\xca\xd3?'
+p754
+tp755
+Rp756
+tp757
+a(S'ida r. hoos'
+p758
+g2
+(g6
+S'\x08\x0c\xad\x0b\x11\xc5\xd3?'
+p759
+tp760
+Rp761
+tp762
+a(S'distributed social network'
+p763
+g2
+(g6
+S't\xb1\x1cy\x98\xc2\xd3?'
+p764
+tp765
+Rp766
+tp767
+a(S'international social survey programme'
+p768
+g2
+(g6
+S'\xb3\xc0\xd2\xbc\x7f\xc2\xd3?'
+p769
+tp770
+Rp771
+tp772
+a(S'social order'
+p773
+g2
+(g6
+S'\x80c>(\x02\xbd\xd3?'
+p774
+tp775
+Rp776
+tp777
+a(S'luis m. rocha'
+p778
+g2
+(g6
+S'\x05\t\x0b%\x9f\xb8\xd3?'
+p779
+tp780
+Rp781
+tp782
+a(S'international association of schools of social work'
+p783
+g2
+(g6
+S'\x87\xa6\xb3\xd9o\xb6\xd3?'
+p784
+tp785
+Rp786
+tp787
+a(S'social sequence analysis'
+p788
+g2
+(g6
+S'\xc6];\xf2\xf4\xb2\xd3?'
+p789
+tp790
+Rp791
+tp792
+a(S'patrick baert'
+p793
+g2
+(g6
+S'\x83\xe6\x99\xce]\xac\xd3?'
+p794
+tp795
+Rp796
+tp797
+a(S'outline of society'
+p798
+g2
+(g6
+S'\x06E\xfaZ\xf3\x9f\xd3?'
+p799
+tp800
+Rp801
+tp802
+a(S'social economy'
+p803
+g2
+(g6
+S'\\g\x88q,\x9e\xd3?'
+p804
+tp805
+Rp806
+tp807
+a(S'university of washington school of social work'
+p808
+g2
+(g6
+S'4\x88\x93\x04\xb9\x9d\xd3?'
+p809
+tp810
+Rp811
+tp812
+a(S'social network aggregation'
+p813
+g2
+(g6
+S'\xd9\x17\xe3\xf7\xef\x98\xd3?'
+p814
+tp815
+Rp816
+tp817
+a(S'social security'
+p818
+g2
+(g6
+S'*\xd9o\xcb\x88\x93\xd3?'
+p819
+tp820
+Rp821
+tp822
+a(S'john scott (sociologist)'
+p823
+g2
+(g6
+S'\xedH$\xf7\xfa~\xd3?'
+p824
+tp825
+Rp826
+tp827
+a(S'international social science council'
+p828
+g2
+(g6
+S'^Nr\xd6\x0e{\xd3?'
+p829
+tp830
+Rp831
+tp832
+a(S'david krackhardt'
+p833
+g2
+(g6
+S'\x962\xf7)pu\xd3?'
+p834
+tp835
+Rp836
+tp837
+a(S'theoretical computer science'
+p838
+g2
+(g6
+S'\x0c\xe0\x01\xca\x02t\xd3?'
+p839
+tp840
+Rp841
+tp842
+a(S'social network (sociolinguistics)'
+p843
+g2
+(g6
+S's\xed\x12\x7f\xd1o\xd3?'
+p844
+tp845
+Rp846
+tp847
+a(S'computational x'
+p848
+g2
+(g6
+S'\xd0\xbe\x9a\x01\xe9f\xd3?'
+p849
+tp850
+Rp851
+tp852
+a(S'social innovation'
+p853
+g2
+(g6
+S'\xc2\xa7\xc5\xc6\xf9e\xd3?'
+p854
+tp855
+Rp856
+tp857
+a(S'online social entertainment'
+p858
+g2
+(g6
+S'&E\x98\xb0\xb8_\xd3?'
+p859
+tp860
+Rp861
+tp862
+a(S'integrated social work'
+p863
+g2
+(g6
+S'}\x92\x9d\x8d\xc1]\xd3?'
+p864
+tp865
+Rp866
+tp867
+a(S'social networking service'
+p868
+g2
+(g6
+S'\xdc\xdb\x95\xcb\xb2B\xd3?'
+p869
+tp870
+Rp871
+tp872
+a(S'social psychology'
+p873
+g2
+(g6
+S'\xed\x80\x1c\xe1\xc19\xd3?'
+p874
+tp875
+Rp876
+tp877
+a(S'australian association of social workers'
+p878
+g2
+(g6
+S'\xb2m?\x9a\x0b4\xd3?'
+p879
+tp880
+Rp881
+tp882
+a(S'social software in education'
+p883
+g2
+(g6
+S'^\xe3LJ\xe22\xd3?'
+p884
+tp885
+Rp886
+tp887
+a(S'international network for social network analysis'
+p888
+g2
+(g6
+S'\xc0g3`\xa42\xd3?'
+p889
+tp890
+Rp891
+tp892
+a(S'social information processing'
+p893
+g2
+(g6
+S'\xcd\x05B\xaa\x972\xd3?'
+p894
+tp895
+Rp896
+tp897
+a(S'department of sociology and social work'
+p898
+g2
+(g6
+S'\xd6\xbc\xac\x87\xf40\xd3?'
+p899
+tp900
+Rp901
+tp902
+a(S'internet influences on communities'
+p903
+g2
+(g6
+S'&k\xd03\x05/\xd3?'
+p904
+tp905
+Rp906
+tp907
+a(S'anylogic'
+p908
+g2
+(g6
+S'\xf1\xa9B\xb77+\xd3?'
+p909
+tp910
+Rp911
+tp912
+a(S'generative science'
+p913
+g2
+(g6
+S'\x13=\xa5?x$\xd3?'
+p914
+tp915
+Rp916
+tp917
+a(S'research on social work practice'
+p918
+g2
+(g6
+S'\x85\xf1NX\x8f\x1d\xd3?'
+p919
+tp920
+Rp921
+tp922
+a(S'tom r. burns'
+p923
+g2
+(g6
+S"\x92'4KZ\x1c\xd3?"
+p924
+tp925
+Rp926
+tp927
+a(S'complexity theory and organizations'
+p928
+g2
+(g6
+S'\\{\x80\x8au\x18\xd3?'
+p929
+tp930
+Rp931
+tp932
+a(S'computational informatics'
+p933
+g2
+(g6
+S'\xd0\xa4X:\x9a\x0e\xd3?'
+p934
+tp935
+Rp936
+tp937
+a(S'social selling'
+p938
+g2
+(g6
+S')\xdd\x9b\xd2?\r\xd3?'
+p939
+tp940
+Rp941
+tp942
+a(S'cultural system'
+p943
+g2
+(g6
+S'\xf0\x84\xae\x126\n\xd3?'
+p944
+tp945
+Rp946
+tp947
+a(S'macrosociology'
+p948
+g2
+(g6
+S'\xb3\xbb\x9et\xad\xff\xd2?'
+p949
+tp950
+Rp951
+tp952
+a(S'outline of computer science'
+p953
+g2
+(g6
+S'&\xe7$\x17u\xfa\xd2?'
+p954
+tp955
+Rp956
+tp957
+a(S'social thinking'
+p958
+g2
+(g6
+S'\x19\xd6\xa2(\x82\xf4\xd2?'
+p959
+tp960
+Rp961
+tp962
+a(S'social intrapreneurship'
+p963
+g2
+(g6
+S'\xcb\xfcB\xa8A\xf4\xd2?'
+p964
+tp965
+Rp966
+tp967
+a(S'computational cognition'
+p968
+g2
+(g6
+S'\xc3\xedkEq\xe9\xd2?'
+p969
+tp970
+Rp971
+tp972
+a(S'albert hanken'
+p973
+g2
+(g6
+S'\x143\xdd\x92\x9c\xe8\xd2?'
+p974
+tp975
+Rp976
+tp977
+a(S'social learning (social pedagogy)'
+p978
+g2
+(g6
+S'\x13,6}V\xe6\xd2?'
+p979
+tp980
+Rp981
+tp982
+a(S'council on social work education'
+p983
+g2
+(g6
+S'\xf0[=\xf7\xfc\xe0\xd2?'
+p984
+tp985
+Rp986
+tp987
+a(S'social identity complexity'
+p988
+g2
+(g6
+S'Z\xce!;\xed\xdf\xd2?'
+p989
+tp990
+Rp991
+tp992
+a(S'george c. homans'
+p993
+g2
+(g6
+S'\xec\x0b\xe0M\x9b\xdd\xd2?'
+p994
+tp995
+Rp996
+tp997
+a(S'social network analysis software'
+p998
+g2
+(g6
+S'~\xc4\xb6-\xa4\xdb\xd2?'
+p999
+tp1000
+Rp1001
+tp1002
+a(S'enterprise social graph'
+p1003
+g2
+(g6
+S'=\x11G\xaa+\xdb\xd2?'
+p1004
+tp1005
+Rp1006
+tp1007
+a(S'jen golbeck'
+p1008
+g2
+(g6
+S'\xb7\x1c\x1e\x89U\xda\xd2?'
+p1009
+tp1010
+Rp1011
+tp1012
+a(S'institute for social and economic research and policy'
+p1013
+g2
+(g6
+S'ES}\xc9\xe4\xd4\xd2?'
+p1014
+tp1015
+Rp1016
+tp1017
+a(S'joseph galaskiewicz'
+p1018
+g2
+(g6
+S'\xf3,\xa6\xb3\xd6\xd2\xd2?'
+p1019
+tp1020
+Rp1021
+tp1022
+a(S'terry bamford'
+p1023
+g2
+(g6
+S'\x91\xd3\xaf\xdc\xbb\xd1\xd2?'
+p1024
+tp1025
+Rp1026
+tp1027
+a(S'sociocybernetics'
+p1028
+g2
+(g6
+S'\xc5\x86\xf9\xb0\xde\xce\xd2?'
+p1029
+tp1030
+Rp1031
+tp1032
+a(S'alfred radcliffe-brown'
+p1033
+g2
+(g6
+S'3\xbd\xfb\xd7\x99\xc9\xd2?'
+p1034
+tp1035
+Rp1036
+tp1037
+a(S'social data revolution'
+p1038
+g2
+(g6
+S'(>\xba\xec\xe3\xc4\xd2?'
+p1039
+tp1040
+Rp1041
+tp1042
+a(S'modelling biological systems'
+p1043
+g2
+(g6
+S'\xe5\x97\xab\x99"\xc3\xd2?'
+p1044
+tp1045
+Rp1046
+tp1047
+a(S'harold garfinkel'
+p1048
+g2
+(g6
+S'T\x1a+N\x94\xc2\xd2?'
+p1049
+tp1050
+Rp1051
+tp1052
+a(S'social networking and psychology'
+p1053
+g2
+(g6
+S'\x83\xfdTE\xbb\xc1\xd2?'
+p1054
+tp1055
+Rp1056
+tp1057
+a(S'system-level simulation'
+p1058
+g2
+(g6
+S'\x00\x12I3\xcc\xc0\xd2?'
+p1059
+tp1060
+Rp1061
+tp1062
+a(S'social networks (journal)'
+p1063
+g2
+(g6
+S'\x8d\xf4[\x8a\xf9\xbf\xd2?'
+p1064
+tp1065
+Rp1066
+tp1067
+a(S'the p\xc3\xa9cs model of school social work'
+p1068
+g2
+(g6
+S'\xba\x85g\xf2l\xbe\xd2?'
+p1069
+tp1070
+Rp1071
+tp1072
+a(S'integrated computational materials engineering'
+p1073
+g2
+(g6
+S'd\x1at\xd7\x83\xbb\xd2?'
+p1074
+tp1075
+Rp1076
+tp1077
+a(S'complex systems biology'
+p1078
+g2
+(g6
+S'6\xcd\xef&\xa3\xba\xd2?'
+p1079
+tp1080
+Rp1081
+tp1082
+a(S'social employee'
+p1083
+g2
+(g6
+S'\x197f\xfe-\xb8\xd2?'
+p1084
+tp1085
+Rp1086
+tp1087
+a(S'social research (journal)'
+p1088
+g2
+(g6
+S'C\x1fa!^\xb4\xd2?'
+p1089
+tp1090
+Rp1091
+tp1092
+a(S'john holmwood'
+p1093
+g2
+(g6
+S'WZ<r{\xb0\xd2?'
+p1094
+tp1095
+Rp1096
+tp1097
+a(S'multiscale modeling'
+p1098
+g2
+(g6
+S'"\xa8\xab\xca\xd8\xaf\xd2?'
+p1099
+tp1100
+Rp1101
+tp1102
+a(S'biocomplexity institute of virginia tech'
+p1103
+g2
+(g6
+S'\xd8\xd3z\x02\xea\xac\xd2?'
+p1104
+tp1105
+Rp1106
+tp1107
+a(S'walter f. buckley'
+p1108
+g2
+(g6
+S'A\xf5\xf38\x11\xab\xd2?'
+p1109
+tp1110
+Rp1111
+tp1112
+a(S'simulation software'
+p1113
+g2
+(g6
+S'M\xf1\xf1\x96\xa0\xa8\xd2?'
+p1114
+tp1115
+Rp1116
+tp1117
+a(S'complex society'
+p1118
+g2
+(g6
+S'G\xf5s<c\xa8\xd2?'
+p1119
+tp1120
+Rp1121
+tp1122
+a(S'social infrastructure'
+p1123
+g2
+(g6
+S'\x15t\xd2+\xca\xa7\xd2?'
+p1124
+tp1125
+Rp1126
+tp1127
+a(S'simulation modeling'
+p1128
+g2
+(g6
+S'\xf9\x991*B\xa7\xd2?'
+p1129
+tp1130
+Rp1131
+tp1132
+a(S'marketing and artificial intelligence'
+p1133
+g2
+(g6
+S'\x0bM\x99\xf9a\x9d\xd2?'
+p1134
+tp1135
+Rp1136
+tp1137
+a(S'systems theory in anthropology'
+p1138
+g2
+(g6
+S'\xb3\x87\x1a\xfbY\x99\xd2?'
+p1139
+tp1140
+Rp1141
+tp1142
+a(S'nan lin'
+p1143
+g2
+(g6
+S'7-\xee\xed\\\x97\xd2?'
+p1144
+tp1145
+Rp1146
+tp1147
+a(S'asymptotic computational complexity'
+p1148
+g2
+(g6
+S"\xc2\xc6\xc2\x1c'\x97\xd2?"
+p1149
+tp1150
+Rp1151
+tp1152
+a(S'computational mathematics'
+p1153
+g2
+(g6
+S'\xa3\xb8\xf0\xb2%\x8e\xd2?'
+p1154
+tp1155
+Rp1156
+tp1157
+a(S'theories of technology'
+p1158
+g2
+(g6
+S'b\x97\xc2\\\xec\x8d\xd2?'
+p1159
+tp1160
+Rp1161
+tp1162
+a(S'simulation (journal)'
+p1163
+g2
+(g6
+S'\xee\xce\xa2\xdb0\x8c\xd2?'
+p1164
+tp1165
+Rp1166
+tp1167
+a(S'john levi martin'
+p1168
+g2
+(g6
+S'\x11\x87c5\x8c\x85\xd2?'
+p1169
+tp1170
+Rp1171
+tp1172
+a(S'social commerce'
+p1173
+g2
+(g6
+S'!\x18\xbcB\xbd\x83\xd2?'
+p1174
+tp1175
+Rp1176
+tp1177
+a(S'social studies'
+p1178
+g2
+(g6
+S'o>\x9a\xc4\xca\x82\xd2?'
+p1179
+tp1180
+Rp1181
+tp1182
+a(S'j. clyde mitchell'
+p1183
+g2
+(g6
+S'\x1a@\xa27]~\xd2?'
+p1184
+tp1185
+Rp1186
+tp1187
+a(S'social planning organizations in canada'
+p1188
+g2
+(g6
+S'F\t\xa6\x87\x8ex\xd2?'
+p1189
+tp1190
+Rp1191
+tp1192
+a(S'social epidemiology'
+p1193
+g2
+(g6
+S'\x1c\xe2\x96\xb21u\xd2?'
+p1194
+tp1195
+Rp1196
+tp1197
+a(S'dynamic network analysis'
+p1198
+g2
+(g6
+S'z9K\xc1\xb9m\xd2?'
+p1199
+tp1200
+Rp1201
+tp1202
+a(S'cesifo economic studies'
+p1203
+g2
+(g6
+S'\x8bV:\x0e\xd1k\xd2?'
+p1204
+tp1205
+Rp1206
+tp1207
+a(S'ifisc'
+p1208
+g2
+(g6
+S'\x9a\xb1\x85\\\x8eb\xd2?'
+p1209
+tp1210
+Rp1211
+tp1212
+a(S'social geography'
+p1213
+g2
+(g6
+S'\x1e~\xa1m_b\xd2?'
+p1214
+tp1215
+Rp1216
+tp1217
+a(S'web-based simulation'
+p1218
+g2
+(g6
+S'\xbd\x1f\xc9\xd4<a\xd2?'
+p1219
+tp1220
+Rp1221
+tp1222
+a(S'social informatics'
+p1223
+g2
+(g6
+S'8#k\xdf\x12]\xd2?'
+p1224
+tp1225
+Rp1226
+tp1227
+a(S'hartmut bossel'
+p1228
+g2
+(g6
+S'9\x91,\xc8\x0e]\xd2?'
+p1229
+tp1230
+Rp1231
+tp1232
+a(S'university of california, irvine school of social sciences'
+p1233
+g2
+(g6
+S'\xbfn\xdb\x11\x9b[\xd2?'
+p1234
+tp1235
+Rp1236
+tp1237
+a(S'social work with groups'
+p1238
+g2
+(g6
+S'\xd8\xfc#\xf4\xc3Y\xd2?'
+p1239
+tp1240
+Rp1241
+tp1242
+a(S'list of computer scientists'
+p1243
+g2
+(g6
+S'\x13\x1a\x80Q\xd6X\xd2?'
+p1244
+tp1245
+Rp1246
+tp1247
+a(S'social science research council'
+p1248
+g2
+(g6
+S'8\x10\xf6\xb2nT\xd2?'
+p1249
+tp1250
+Rp1251
+tp1252
+a(S'jane addams college of social work'
+p1253
+g2
+(g6
+S'\xfd\xecA&\xddS\xd2?'
+p1254
+tp1255
+Rp1256
+tp1257
+a(S'computational lexicology'
+p1258
+g2
+(g6
+S'\xe5S\xf2\x8c@O\xd2?'
+p1259
+tp1260
+Rp1261
+tp1262
+a(S'social finance ltd.'
+p1263
+g2
+(g6
+S'o\xa4\xb7\xe1!F\xd2?'
+p1264
+tp1265
+Rp1266
+tp1267
+a(S'list of computer simulation software'
+p1268
+g2
+(g6
+S'\x84\x98\xed\x01=@\xd2?'
+p1269
+tp1270
+Rp1271
+tp1272
+a(S'ryan williams (computer scientist)'
+p1273
+g2
+(g6
+S'\xc2\x07\x8b}X>\xd2?'
+p1274
+tp1275
+Rp1276
+tp1277
+a(S'network traffic simulation'
+p1278
+g2
+(g6
+S'\x8f\xd8\x82\xb2+>\xd2?'
+p1279
+tp1280
+Rp1281
+tp1282
+a(S'social marketing'
+p1283
+g2
+(g6
+S'\x8c\xf3\xa5A\x1e=\xd2?'
+p1284
+tp1285
+Rp1286
+tp1287
+a(S'outline of academic disciplines'
+p1288
+g2
+(g6
+S'e\x84\xcf\xa3U;\xd2?'
+p1289
+tp1290
+Rp1291
+tp1292
+a(S'history of social work'
+p1293
+g2
+(g6
+S'\x01\xdc~\x01=8\xd2?'
+p1294
+tp1295
+Rp1296
+tp1297
+a(S'social philosophy'
+p1298
+g2
+(g6
+S'\x07V\xb8\x1cC5\xd2?'
+p1299
+tp1300
+Rp1301
+tp1302
+a(S'network theory'
+p1303
+g2
+(g6
+S'\t\xe8\x0b\xaa35\xd2?'
+p1304
+tp1305
+Rp1306
+tp1307
+a(S'computational irreducibility'
+p1308
+g2
+(g6
+S'B|\x0c\xc474\xd2?'
+p1309
+tp1310
+Rp1311
+tp1312
+a(S'social forces'
+p1313
+g2
+(g6
+S'\x87)\xbe\xc081\xd2?'
+p1314
+tp1315
+Rp1316
+tp1317
+a(S'social engagement'
+p1318
+g2
+(g6
+S"'\x00:\xc3**\xd2?"
+p1319
+tp1320
+Rp1321
+tp1322
+a(S'university of michigan institute for social research'
+p1323
+g2
+(g6
+S"\x86\xc8R\xcfH'\xd2?"
+p1324
+tp1325
+Rp1326
+tp1327
+a(S'harry f. dahms'
+p1328
+g2
+(g6
+S'\x927Xz\x10&\xd2?'
+p1329
+tp1330
+Rp1331
+tp1332
+a(S'physiomics'
+p1333
+g2
+(g6
+S'n\x85E\x02\xb6%\xd2?'
+p1334
+tp1335
+Rp1336
+tp1337
+a(S'smith college school for social work'
+p1338
+g2
+(g6
+S'\xc1\xe5\xeb\x0b\x1c$\xd2?'
+p1339
+tp1340
+Rp1341
+tp1342
+a(S'structuration theory'
+p1343
+g2
+(g6
+S'\x15r\x8f\xa3/!\xd2?'
+p1344
+tp1345
+Rp1346
+tp1347
+a(S'conceptual interoperability'
+p1348
+g2
+(g6
+S'lO]\xa2q \xd2?'
+p1349
+tp1350
+Rp1351
+tp1352
+a(S'peter herrmann (social philosopher)'
+p1353
+g2
+(g6
+S'\xd6\x0f\xd2\x94\x92\x1d\xd2?'
+p1354
+tp1355
+Rp1356
+tp1357
+a(S'outline of social science'
+p1358
+g2
+(g6
+S'O\x7fz\x19K\x1d\xd2?'
+p1359
+tp1360
+Rp1361
+tp1362
+a(S'system'
+p1363
+g2
+(g6
+S'Q\x9f\xd6=\xac\x1a\xd2?'
+p1364
+tp1365
+Rp1366
+tp1367
+a(S'system of systems'
+p1368
+g2
+(g6
+S'\x07_O\x85}\x1a\xd2?'
+p1369
+tp1370
+Rp1371
+tp1372
+a(S'society of experimental social psychology'
+p1373
+g2
+(g6
+S'\xe9\x15\x91\xd5\x80\x17\xd2?'
+p1374
+tp1375
+Rp1376
+tp1377
+a(S'computational resource'
+p1378
+g2
+(g6
+S'\xc0\xc9L\xab\xff\x12\xd2?'
+p1379
+tp1380
+Rp1381
+tp1382
+a(S'social impact bond'
+p1383
+g2
+(g6
+S'\xe0\xf5m\x8e\x7f\x11\xd2?'
+p1384
+tp1385
+Rp1386
+tp1387
+a(S'social group'
+p1388
+g2
+(g6
+S'\x11%\x94\xb3\x80\t\xd2?'
+p1389
+tp1390
+Rp1391
+tp1392
+a(S'social competence'
+p1393
+g2
+(g6
+S'\x81\x11J<\xdb\x05\xd2?'
+p1394
+tp1395
+Rp1396
+tp1397
+a(S'academy of social sciences (disambiguation)'
+p1398
+g2
+(g6
+S'~f\xf3Ba\x04\xd2?'
+p1399
+tp1400
+Rp1401
+tp1402
+a(S'campaign for social science'
+p1403
+g2
+(g6
+S':cn\xc5\x86\x03\xd2?'
+p1404
+tp1405
+Rp1406
+tp1407
+a(S'structural functionalism'
+p1408
+g2
+(g6
+S'\xd6C\x0b\xc9;\x01\xd2?'
+p1409
+tp1410
+Rp1411
+tp1412
+a(S'social exclusion'
+p1413
+g2
+(g6
+S'O\xa6\xb5Bm\xfd\xd1?'
+p1414
+tp1415
+Rp1416
+tp1417
+a(S'social science history association'
+p1418
+g2
+(g6
+S'\x16S\x18n\xee\xf3\xd1?'
+p1419
+tp1420
+Rp1421
+tp1422
+a(S'gordon marshall (sociologist)'
+p1423
+g2
+(g6
+S'\x1eP+b\x19\xed\xd1?'
+p1424
+tp1425
+Rp1426
+tp1427
+a(S'university of pennsylvania school of social policy and practice'
+p1428
+g2
+(g6
+S'\x9bL\xca\xb1\xef\xe1\xd1?'
+p1429
+tp1430
+Rp1431
+tp1432
+a(S'harry alpert'
+p1433
+g2
+(g6
+S'\x9bL\x9c\x94\x1b\xe1\xd1?'
+p1434
+tp1435
+Rp1436
+tp1437
+a(S'behavioural sciences'
+p1438
+g2
+(g6
+S'\x17\xf9$i\x13\xe0\xd1?'
+p1439
+tp1440
+Rp1441
+tp1442
+a(S'journal of european social policy'
+p1443
+g2
+(g6
+S'\xd5\xb5\x11\x91\xba\xdd\xd1?'
+p1444
+tp1445
+Rp1446
+tp1447
+a(S'social business model'
+p1448
+g2
+(g6
+S'7+\x86\x08a\xda\xd1?'
+p1449
+tp1450
+Rp1451
+tp1452
+a(S'social point'
+p1453
+g2
+(g6
+S'\x82a\xc7\x8ev\xd9\xd1?'
+p1454
+tp1455
+Rp1456
+tp1457
+a(S'audrey mullender'
+p1458
+g2
+(g6
+S'\xca\xa4\x0c\xb4-\xd1\xd1?'
+p1459
+tp1460
+Rp1461
+tp1462
+a(S'computational finance'
+p1463
+g2
+(g6
+S'\xa4E~\x0bM\xcc\xd1?'
+p1464
+tp1465
+Rp1466
+tp1467
+a(S'icme cyberinfrastructure'
+p1468
+g2
+(g6
+S'\xd0\x8e&7i\xca\xd1?'
+p1469
+tp1470
+Rp1471
+tp1472
+a(S'complexity (disambiguation)'
+p1473
+g2
+(g6
+S'\xe3\x1a\x02\xd6O\xc8\xd1?'
+p1474
+tp1475
+Rp1476
+tp1477
+a(S'list of systems scientists'
+p1478
+g2
+(g6
+S'\xda\xfdN\xa0,\xc5\xd1?'
+p1479
+tp1480
+Rp1481
+tp1482
+a(S'kyoichi kijima'
+p1483
+g2
+(g6
+S'\x06\x02l\xb2?\xc4\xd1?'
+p1484
+tp1485
+Rp1486
+tp1487
+a(S'tuncer \xc5\x90ren'
+p1488
+g2
+(g6
+S'^;\xb7 n\xc1\xd1?'
+p1489
+tp1490
+Rp1491
+tp1492
+a(S'saint louis university school of social work'
+p1493
+g2
+(g6
+S'\xf4\xf5{\xb9\xf4\xb8\xd1?'
+p1494
+tp1495
+Rp1496
+tp1497
+a(S'social justice'
+p1498
+g2
+(g6
+S'\x12\xbb\xf7p\x06\xb6\xd1?'
+p1499
+tp1500
+Rp1501
+tp1502
+a(S'composability'
+p1503
+g2
+(g6
+S'\xa5\x03\xde\xd3s\xb3\xd1?'
+p1504
+tp1505
+Rp1506
+tp1507
+a(S'computational mechanics'
+p1508
+g2
+(g6
+S'\xfee+i8\xb2\xd1?'
+p1509
+tp1510
+Rp1511
+tp1512
+a.

@@ -1,0 +1,2728 @@
+(lp0
+(S'richard feynman'
+p1
+cnumpy.core.multiarray
+scalar
+p2
+(cnumpy
+dtype
+p3
+(S'f8'
+p4
+I0
+I1
+tp5
+Rp6
+(I3
+S'<'
+p7
+NNNI-1
+I-1
+I0
+tp8
+bS'\x04\x00\x00\x00\x00\x00\xf0?'
+p9
+tp10
+Rp11
+tp12
+a(S'list of things named after richard feynman'
+p13
+g2
+(g6
+S'4\xbb\xa8\x9c\xde\x1f\xee?'
+p14
+tp15
+Rp16
+tp17
+a(S'qed (play)'
+p18
+g2
+(g6
+S'\xb0{\x7fc\x0c\xee\xeb?'
+p19
+tp20
+Rp21
+tp22
+a(S'the meaning of it all'
+p23
+g2
+(g6
+S'\xef\xc6\xf2\x08k8\xeb?'
+p24
+tp25
+Rp26
+tp27
+a(S'the feynman lectures on physics'
+p28
+g2
+(g6
+S'L\xab\xf2p\x8f\xc3\xea?'
+p29
+tp30
+Rp31
+tp32
+a(S'joan feynman'
+p33
+g2
+(g6
+S'\x01\xcc\xc0LS\xe7\xe9?'
+p34
+tp35
+Rp36
+tp37
+a(S'what do you care what other people think?'
+p38
+g2
+(g6
+S'\xc0{ga=\x9f\xe8?'
+p39
+tp40
+Rp41
+tp42
+a(S'infinity (film)'
+p43
+g2
+(g6
+S'J\x88\x14\xc9R\x7f\xe8?'
+p44
+tp45
+Rp46
+tp47
+a(S"surely you're joking, mr. feynman!"
+p48
+g2
+(g6
+S'n\xa3\xa4\x9a-E\xe8?'
+p49
+tp50
+Rp51
+tp52
+a(S'perfectly reasonable deviations from the beaten track'
+p53
+g2
+(g6
+S'?\xa4\xa1s\xd0\xcd\xe7?'
+p54
+tp55
+Rp56
+tp57
+a(S"there's plenty of room at the bottom"
+p58
+g2
+(g6
+S'\x14X\xd7C\xbf\xb3\xe6?'
+p59
+tp60
+Rp61
+tp62
+a(S'qed: the strange theory of light and matter'
+p63
+g2
+(g6
+S'"\xe0\x1e\xec\xb1\xea\xe5?'
+p64
+tp65
+Rp66
+tp67
+a(S'yoann feynman'
+p68
+g2
+(g6
+S'jLV&Ns\xe5?'
+p69
+tp70
+Rp71
+tp72
+a(S"feynman's lost lecture"
+p73
+g2
+(g6
+S'\x81y\x03^Lk\xe5?'
+p74
+tp75
+Rp76
+tp77
+a(S'ralph leighton'
+p78
+g2
+(g6
+S'\xd2+\xc3\xb6\nh\xe5?'
+p79
+tp80
+Rp81
+tp82
+a(S'tuva or bust!'
+p83
+g2
+(g6
+S'\xd7\rvocc\xe3?'
+p84
+tp85
+Rp86
+tp87
+a(S'oldstone conference'
+p88
+g2
+(g6
+S'0\xbec\x0f\xe5\x18\xe3?'
+p89
+tp90
+Rp91
+tp92
+a(S'rogers commission report'
+p93
+g2
+(g6
+S'\xf4\x1f]\x0c\xc0\xde\xe2?'
+p94
+tp95
+Rp96
+tp97
+a(S'schwinger parametrization'
+p98
+g2
+(g6
+S'\xe5\r\xc7\x05"\x1f\xe2?'
+p99
+tp100
+Rp101
+tp102
+a(S'the challenger'
+p103
+g2
+(g6
+S'\xf3\xd4}\x92\xe2\xf0\xe1?'
+p104
+tp105
+Rp106
+tp107
+a(S'feynman diagram'
+p108
+g2
+(g6
+S'\x87\xb1\xe8O*o\xe1?'
+p109
+tp110
+Rp111
+tp112
+a(S'leonard mlodinow'
+p113
+g2
+(g6
+S'$\x88\xfcT\xa9/\xe1?'
+p114
+tp115
+Rp116
+tp117
+a(S"quantum man: richard feynman's life in science"
+p118
+g2
+(g6
+S'\xf2X\x83\xcab\x19\xe1?'
+p119
+tp120
+Rp121
+tp122
+a(S'bethe\xe2\x80\x93feynman formula'
+p123
+g2
+(g6
+S'\x18/\x0bW\x87\xd6\xe0?'
+p124
+tp125
+Rp126
+tp127
+a(S'cargo cult science'
+p128
+g2
+(g6
+S'\x96\xe2\x18\xfd\xefp\xe0?'
+p129
+tp130
+Rp131
+tp132
+a(S'the character of physical law'
+p133
+g2
+(g6
+S')\xe5hV\x9e<\xe0?'
+p134
+tp135
+Rp136
+tp137
+a(S'laurie brown (physicist)'
+p138
+g2
+(g6
+S'\n\xb6)H\x8f0\xe0?'
+p139
+tp140
+Rp141
+tp142
+a(S'pocono conference'
+p143
+g2
+(g6
+S'\xd8\xb3i\xc6\xae\x07\xe0?'
+p144
+tp145
+Rp146
+tp147
+a(S'feynman parametrization'
+p148
+g2
+(g6
+S'=\xc8"\x91g\x08\xdf?'
+p149
+tp150
+Rp151
+tp152
+a(S'julius ashkin'
+p153
+g2
+(g6
+S'\x13j\x92\x83(\xaa\xdd?'
+p154
+tp155
+Rp156
+tp157
+a(S'propagator'
+p158
+g2
+(g6
+S'Vo\xc8*\xe0\xbc\xdc?'
+p159
+tp160
+Rp161
+tp162
+a(S'initial and final state radiation'
+p163
+g2
+(g6
+S'$_R\x15$\xb5\xdc?'
+p164
+tp165
+Rp166
+tp167
+a(S'jirayr zorthian'
+p168
+g2
+(g6
+S'*\x07\xcf\xfe\x06\xb1\xdc?'
+p169
+tp170
+Rp171
+tp172
+a(S'one-electron universe'
+p173
+g2
+(g6
+S'~\x06W\xb6/\xa6\xdc?'
+p174
+tp175
+Rp176
+tp177
+a(S'julian schwinger'
+p178
+g2
+(g6
+S'\xb3\xca\xc5\x97\n\t\xdc?'
+p179
+tp180
+Rp181
+tp182
+a(S'quantum electrodynamics'
+p183
+g2
+(g6
+S'`9\xd5\xb5D\xc5\xdb?'
+p184
+tp185
+Rp186
+tp187
+a(S'hoyle\xe2\x80\x93narlikar theory of gravity'
+p188
+g2
+(g6
+S'}\xc9\xe9\x00k\xbb\xdb?'
+p189
+tp190
+Rp191
+tp192
+a(S'hellmann\xe2\x80\x93feynman theorem'
+p193
+g2
+(g6
+S'\x90)k^\xfe\xcc\xda?'
+p194
+tp195
+Rp196
+tp197
+a(S'manuel sandoval vallarta'
+p198
+g2
+(g6
+S'\xf1\xb9\xbc\xdfC-\xda?'
+p199
+tp200
+Rp201
+tp202
+a(S'robert marshak'
+p203
+g2
+(g6
+S'\xfe\x9e\x83FZ\x19\xda?'
+p204
+tp205
+Rp206
+tp207
+a(S'charles hirshberg'
+p208
+g2
+(g6
+S'&\x86\xdb^n\x17\xda?'
+p209
+tp210
+Rp211
+tp212
+a(S'wheeler\xe2\x80\x93feynman absorber theory'
+p213
+g2
+(g6
+S'\xef/\xb8\x0e\xc6\r\xda?'
+p214
+tp215
+Rp216
+tp217
+a(S'feynman sprinkler'
+p218
+g2
+(g6
+S'\x8a\xe2\x1cO=b\xd9?'
+p219
+tp220
+Rp221
+tp222
+a(S'albert hibbs'
+p223
+g2
+(g6
+S'm\x01t\x9cy\x91\xd8?'
+p224
+tp225
+Rp226
+tp227
+a(S'leland myrick'
+p228
+g2
+(g6
+S'\xe4\xe7\x81*o\x84\xd8?'
+p229
+tp230
+Rp231
+tp232
+a(S'thomas curtright'
+p233
+g2
+(g6
+S'\x9f0\xaeq\xa3x\xd8?'
+p234
+tp235
+Rp236
+tp237
+a(S'path integral molecular dynamics'
+p238
+g2
+(g6
+S'/x.\x92W\xea\xd7?'
+p239
+tp240
+Rp241
+tp242
+a(S'one-loop feynman diagram'
+p243
+g2
+(g6
+S'*;_\xb3\x98\x81\xd7?'
+p244
+tp245
+Rp246
+tp247
+a(S'feynman checkerboard'
+p248
+g2
+(g6
+S'I\xc4\x1f\xf0\xa7r\xd7?'
+p249
+tp250
+Rp251
+tp252
+a(S'feynman\xe2\x80\x93kac formula'
+p253
+g2
+(g6
+S'C\xcb\x17,A-\xd7?'
+p254
+tp255
+Rp256
+tp257
+a(S'the pleasure of finding things out'
+p258
+g2
+(g6
+S'\xa93]J\x02\xe0\xd5?'
+p259
+tp260
+Rp261
+tp262
+a(S'tom newman (scientist)'
+p263
+g2
+(g6
+S',\x15\xdd\x8d\x94\x82\xd5?'
+p264
+tp265
+Rp266
+tp267
+a(S'george chapline, jr.'
+p268
+g2
+(g6
+S'\xadEG\x8cA\x0e\xd5?'
+p269
+tp270
+Rp271
+tp272
+a(S'regularization (physics)'
+p273
+g2
+(g6
+S'M\xb0g\xcd\x8d\x8e\xd4?'
+p274
+tp275
+Rp276
+tp277
+a(S'particle accelerators in popular culture'
+p278
+g2
+(g6
+S'\x076l\xb0\xf0W\xd4?'
+p279
+tp280
+Rp281
+tp282
+a(S'brownian ratchet'
+p283
+g2
+(g6
+S'\xee\xe0\x18\xd71\xe4\xd3?'
+p284
+tp285
+Rp286
+tp287
+a(S'paul olum'
+p288
+g2
+(g6
+S'\xbd\x1bvk\x93\xe1\xd3?'
+p289
+tp290
+Rp291
+tp292
+a(S'matthew sands'
+p293
+g2
+(g6
+S'E&\x8b\x19\xfc\xae\xd3?'
+p294
+tp295
+Rp296
+tp297
+a(S'the world of science (golden book)'
+p298
+g2
+(g6
+S'qJ\x95\x1aoa\xd3?'
+p299
+tp300
+Rp301
+tp302
+a(S'comphep'
+p303
+g2
+(g6
+S'r\x80.\x17\x1b&\xd3?'
+p304
+tp305
+Rp306
+tp307
+a(S"morrie's law"
+p308
+g2
+(g6
+S'\xb1\xd4\xb3o@ \xd3?'
+p309
+tp310
+Rp311
+tp312
+a(S'josef papp'
+p313
+g2
+(g6
+S'\xda\xa74\xb4m\xe5\xd2?'
+p314
+tp315
+Rp316
+tp317
+a(S'supergraph'
+p318
+g2
+(g6
+S'7\x11\x14\t\xf7\xb4\xd2?'
+p319
+tp320
+Rp321
+tp322
+a(S'mohammadreza ghadiri'
+p323
+g2
+(g6
+S'&\x12\xef~0\x88\xd2?'
+p324
+tp325
+Rp326
+tp327
+a(S'automatic calculation of particle interaction or decay'
+p328
+g2
+(g6
+S"\xaa'>\x96\x9c.\xd2?"
+p329
+tp330
+Rp331
+tp332
+a(S'the principles of quantum mechanics'
+p333
+g2
+(g6
+S' \x96\x01\x814\x1a\xd2?'
+p334
+tp335
+Rp336
+tp337
+a(S"critical mass: america's race to build the atomic bomb"
+p338
+g2
+(g6
+S'\xab\x1a\xf5Q\x86\x05\xd2?'
+p339
+tp340
+Rp341
+tp342
+a(S'charles musgrave'
+p343
+g2
+(g6
+S'myc\xa3;\x02\xd2?'
+p344
+tp345
+Rp346
+tp347
+a(S'tadpole (physics)'
+p348
+g2
+(g6
+S'\x19k7\xf8\xf9\xfd\xd1?'
+p349
+tp350
+Rp351
+tp352
+a(S'retrocausality'
+p353
+g2
+(g6
+S'\t_\x19l5\xed\xd1?'
+p354
+tp355
+Rp356
+tp357
+a(S'hagen kleinert'
+p358
+g2
+(g6
+S'\xbb>D1^\xe3\xd1?'
+p359
+tp360
+Rp361
+tp362
+a(S'donald j. kutyna'
+p363
+g2
+(g6
+S'YJ\xbfT*\xd3\xd1?'
+p364
+tp365
+Rp366
+tp367
+a(S'semiclassical physics'
+p368
+g2
+(g6
+S'\t\t\xeb\xa8\xd4\xa3\xd1?'
+p369
+tp370
+Rp371
+tp372
+a(S'faddeev\xe2\x80\x93popov ghost'
+p373
+g2
+(g6
+S'\xdcZr\xa1\xa5\x9b\xd1?'
+p374
+tp375
+Rp376
+tp377
+a(S'real time opera'
+p378
+g2
+(g6
+S'B\x07\xda\x86\x94s\xd1?'
+p379
+tp380
+Rp381
+tp382
+a(S'multiple histories'
+p383
+g2
+(g6
+S'v\x07\xe46\x8dT\xd1?'
+p384
+tp385
+Rp386
+tp387
+a(S'crossing (physics)'
+p388
+g2
+(g6
+S'\xf1q\xee\xc8\x97Q\xd1?'
+p389
+tp390
+Rp391
+tp392
+a(S'radiative process'
+p393
+g2
+(g6
+S'\xfe\xd2$\xe9xE\xd1?'
+p394
+tp395
+Rp396
+tp397
+a(S'foresight institute'
+p398
+g2
+(g6
+S'Xa1\x9f\x7f;\xd1?'
+p399
+tp400
+Rp401
+tp402
+a(S'john urquhart cameron'
+p403
+g2
+(g6
+S'\xd6\xb2>c\xce4\xd1?'
+p404
+tp405
+Rp406
+tp407
+a(S'mark kac'
+p408
+g2
+(g6
+S'y\xdb`S\x97\xf1\xd0?'
+p409
+tp410
+Rp411
+tp412
+a(S'quartic interaction'
+p413
+g2
+(g6
+S"\x01\xb5\xeb'\xa0\xea\xd0?"
+p414
+tp415
+Rp416
+tp417
+a(S'project tuva'
+p418
+g2
+(g6
+S'tdGL\x14\xcd\xd0?'
+p419
+tp420
+Rp421
+tp422
+a(S'douglas osheroff'
+p423
+g2
+(g6
+S'\xe9\x0c\xba\xb4\xa0\xc5\xd0?'
+p424
+tp425
+Rp426
+tp427
+a(S'robert b. leighton'
+p428
+g2
+(g6
+S'I\x93\xb2\x17\xad\xb7\xd0?'
+p429
+tp430
+Rp431
+tp432
+a(S'thermal quantum field theory'
+p433
+g2
+(g6
+S'?):\xf8h}\xd0?'
+p434
+tp435
+Rp436
+tp437
+a(S"sin'ichir\xc5\x8d tomonaga"
+p438
+g2
+(g6
+S'/\xdb\xebd$c\xd0?'
+p439
+tp440
+Rp441
+tp442
+a(S'effective action'
+p443
+g2
+(g6
+S'(\xe6F\xb8\xc3P\xd0?'
+p444
+tp445
+Rp446
+tp447
+a(S'ursell function'
+p448
+g2
+(g6
+S'\xd7C\xab\xb0\xb99\xd0?'
+p449
+tp450
+Rp451
+tp452
+a(S'penguin diagram'
+p453
+g2
+(g6
+S'?\x11\xd0J\xbe,\xd0?'
+p454
+tp455
+Rp456
+tp457
+a(S'paul chaikin'
+p458
+g2
+(g6
+S'\xf5\xbf\x91\xa4\xb0\x19\xd0?'
+p459
+tp460
+Rp461
+tp462
+a(S'william mclellan (nanotechnology)'
+p463
+g2
+(g6
+S'P\x87\x1b\xedK\xca\xcf?'
+p464
+tp465
+Rp466
+tp467
+a(S'michael roukes'
+p468
+g2
+(g6
+S'\x12=/\x03i\xad\xcf?'
+p469
+tp470
+Rp471
+tp472
+a(S'centro brasileiro de pesquisas f\xc3\xadsicas'
+p473
+g2
+(g6
+S'\x8e\xdb\x80\xf7\xfb\x96\xcf?'
+p474
+tp475
+Rp476
+tp477
+a(S'resummation'
+p478
+g2
+(g6
+S'\xc0\xb3\x1b\xa2\xdaw\xcf?'
+p479
+tp480
+Rp481
+tp482
+a(S'cargo cult programming'
+p483
+g2
+(g6
+S'g\x03="\xf5K\xcf?'
+p484
+tp485
+Rp486
+tp487
+a(S'timeline of developments in theoretical physics'
+p488
+g2
+(g6
+S'\xbc\xdew\xa5\xe9;\xcf?'
+p489
+tp490
+Rp491
+tp492
+a(S'james m. bardeen'
+p493
+g2
+(g6
+S'\t\xf0\x04\x93O\x1a\xcf?'
+p494
+tp495
+Rp496
+tp497
+a(S'best science book ever'
+p498
+g2
+(g6
+S'\xc1\xd2\x95o\xc3\x19\xcf?'
+p499
+tp500
+Rp501
+tp502
+a(S'history of quantum field theory'
+p503
+g2
+(g6
+S'\x8ah\xb4\x8dN\xea\xce?'
+p504
+tp505
+Rp506
+tp507
+a(S'maxim kontsevich'
+p508
+g2
+(g6
+S'\xc4\x83\x07Q\xfb=\xce?'
+p509
+tp510
+Rp511
+tp512
+a(S'list of feynman diagrams'
+p513
+g2
+(g6
+S'\xd1z\xd5\x02\x7f\x1e\xce?'
+p514
+tp515
+Rp516
+tp517
+a(S'scalar field theory'
+p518
+g2
+(g6
+S'\xa8\xff|\xa8\xe1Y\xcd?'
+p519
+tp520
+Rp521
+tp522
+a(S'david kaiser'
+p523
+g2
+(g6
+S'\xd8m+\xc5\xa49\xcd?'
+p524
+tp525
+Rp526
+tp527
+a(S'causal perturbation theory'
+p528
+g2
+(g6
+S'\xdbz,c\x0b\x15\xcd?'
+p529
+tp530
+Rp531
+tp532
+a(S'the universe in a nutshell'
+p533
+g2
+(g6
+S':\xfe\xaf)\xde\x06\xcd?'
+p534
+tp535
+Rp536
+tp537
+a(S'on shell renormalization scheme'
+p538
+g2
+(g6
+S'|-[H\x1b\xa6\xcc?'
+p539
+tp540
+Rp541
+tp542
+a(S'six nines in pi'
+p543
+g2
+(g6
+S'\xc3\xdf66\xec6\xcc?'
+p544
+tp545
+Rp546
+tp547
+a(S'feynman slash notation'
+p548
+g2
+(g6
+S'\x8b\xb2Y:\xbc\x05\xcc?'
+p549
+tp550
+Rp551
+tp552
+a(S'verbosity'
+p553
+g2
+(g6
+S'\x8a\xadGQ\xac\xb5\xcb?'
+p554
+tp555
+Rp556
+tp557
+a(S'david goodstein'
+p558
+g2
+(g6
+S'\t\xf9\xbd\x90s\xac\xcb?'
+p559
+tp560
+Rp561
+tp562
+a(S'j. r. tucker'
+p563
+g2
+(g6
+S'\x92\xac\xd0\xdc\xc2\xa7\xcb?'
+p564
+tp565
+Rp566
+tp567
+a(S'keith brueckner'
+p568
+g2
+(g6
+S"H\xb4K'\x85\xa5\xcb?"
+p569
+tp570
+Rp571
+tp572
+a(S'event (particle physics)'
+p573
+g2
+(g6
+S'\x90=\x0b\xbd%\x9a\xcb?'
+p574
+tp575
+Rp576
+tp577
+a(S'functional integration'
+p578
+g2
+(g6
+S'\x85\x8a?\x1c\x12\x86\xcb?'
+p579
+tp580
+Rp581
+tp582
+a(S'qed'
+p583
+g2
+(g6
+S'\x9b\xa4\xa7\xe7\x9ai\xcb?'
+p584
+tp585
+Rp586
+tp587
+a(S'path integral formulation'
+p588
+g2
+(g6
+S'!\x92\x83{OZ\xcb?'
+p589
+tp590
+Rp591
+tp592
+a(S'list of university of california, berkeley alumni in science and technology'
+p593
+g2
+(g6
+S'\xdc J\x91\x7fI\xcb?'
+p594
+tp595
+Rp596
+tp597
+a(S'm\xc3\xb8ller scattering'
+p598
+g2
+(g6
+S'\xc6\xe7\xd0\xfc\tC\xcb?'
+p599
+tp600
+Rp601
+tp602
+a(S'r. stanley williams'
+p603
+g2
+(g6
+S'\xc4k\xbd\xb58\x04\xcb?'
+p604
+tp605
+Rp606
+tp607
+a(S'the astounding, the amazing, and the unknown'
+p608
+g2
+(g6
+S'\xb2=O\n\xcc\xd8\xca?'
+p609
+tp610
+Rp611
+tp612
+a(S'shelter island conference'
+p613
+g2
+(g6
+S'\xc0S5\x04b\xd0\xca?'
+p614
+tp615
+Rp616
+tp617
+a(S'mit physics department'
+p618
+g2
+(g6
+S'\x02\xbd,\xabrp\xca?'
+p619
+tp620
+Rp621
+tp622
+a(S'steven gwon sheng louie'
+p623
+g2
+(g6
+S';\x0f\x8c78=\xca?'
+p624
+tp625
+Rp626
+tp627
+a(S'mixed anomaly'
+p628
+g2
+(g6
+S'\x01\xf3\xd5\xe3\x02\x0f\xca?'
+p629
+tp630
+Rp631
+tp632
+a(S'fractional quantum mechanics'
+p633
+g2
+(g6
+S')5\xd4\xce]\t\xca?'
+p634
+tp635
+Rp636
+tp637
+a(S'tony hey'
+p638
+g2
+(g6
+S'i\\\xade\xf7\xf8\xc9?'
+p639
+tp640
+Rp641
+tp642
+a(S'marvin chester'
+p643
+g2
+(g6
+S'\x90\x8cA\xc5\x96\xe0\xc9?'
+p644
+tp645
+Rp646
+tp647
+a(S'vladimir gribov'
+p648
+g2
+(g6
+S'\x1b\x98W\xf3\xadx\xc9?'
+p649
+tp650
+Rp651
+tp652
+a(S'rod crewther'
+p653
+g2
+(g6
+S'Nv\xb09:h\xc9?'
+p654
+tp655
+Rp656
+tp657
+a(S'list of cornell manhattan project people'
+p658
+g2
+(g6
+S'V\xb7J\x98\xb26\xc9?'
+p659
+tp660
+Rp661
+tp662
+a(S'suraj n. gupta'
+p663
+g2
+(g6
+S'\x881\xd3M@.\xc9?'
+p664
+tp665
+Rp666
+tp667
+a(S'mean field particle methods'
+p668
+g2
+(g6
+S'\x909\xf3+]\x14\xc9?'
+p669
+tp670
+Rp671
+tp672
+a(S'giovanni rossi lomanitz'
+p673
+g2
+(g6
+S'\x01W\x08z\xbe\x08\xc9?'
+p674
+tp675
+Rp676
+tp677
+a(S'atomic engineering'
+p678
+g2
+(g6
+S'A\xdf"L\xdf\x06\xc9?'
+p679
+tp680
+Rp681
+tp682
+a(S'oersted medal'
+p683
+g2
+(g6
+S'\x07\xef.\xb3\xde\xfb\xc8?'
+p684
+tp685
+Rp686
+tp687
+a(S'daniel f. styer'
+p688
+g2
+(g6
+S'\x95\x82:\x9bF\xf9\xc8?'
+p689
+tp690
+Rp691
+tp692
+a(S'jim ottaviani'
+p693
+g2
+(g6
+S'\x94mR\xbaN\xf8\xc8?'
+p694
+tp695
+Rp696
+tp697
+a(S'john preskill'
+p698
+g2
+(g6
+S'\x11~\xc5\xb3\x06\xea\xc8?'
+p699
+tp700
+Rp701
+tp702
+a(S'primakoff effect'
+p703
+g2
+(g6
+S'\x03\x89\xe96M\xba\xc8?'
+p704
+tp705
+Rp706
+tp707
+a(S'mandelstam variables'
+p708
+g2
+(g6
+S'\xae\x8e\xe3v$\xb9\xc8?'
+p709
+tp710
+Rp711
+tp712
+a(S'list of important publications in physics'
+p713
+g2
+(g6
+S'y\x86\xcd\x8cwb\xc8?'
+p714
+tp715
+Rp716
+tp717
+a(S'christopher riley'
+p718
+g2
+(g6
+S'\xed\x92\xfbi#J\xc8?'
+p719
+tp720
+Rp721
+tp722
+a(S'connection machine'
+p723
+g2
+(g6
+S'\x0b\xda+\x9c-G\xc8?'
+p724
+tp725
+Rp726
+tp727
+a(S'gravitational anomaly'
+p728
+g2
+(g6
+S'IE\x0b\x81\xeeF\xc8?'
+p729
+tp730
+Rp731
+tp732
+a(S'the part and the whole'
+p733
+g2
+(g6
+S'\xbd\xf0?\xedyF\xc8?'
+p734
+tp735
+Rp736
+tp737
+a(S'hugo tetrode'
+p738
+g2
+(g6
+S'\x131\xe5\xbf\x95;\xc8?'
+p739
+tp740
+Rp741
+tp742
+a(S'euclidean quantum gravity'
+p743
+g2
+(g6
+S"\x12o\xdbd':\xc8?"
+p744
+tp745
+Rp746
+tp747
+a(S's-matrix theory'
+p748
+g2
+(g6
+S')\xdeY9\xa3\x1d\xc8?'
+p749
+tp750
+Rp751
+tp752
+a(S'john s. rigden'
+p753
+g2
+(g6
+S'>\xf6\x83}c\xd3\xc7?'
+p754
+tp755
+Rp756
+tp757
+a(S'double figure'
+p758
+g2
+(g6
+S',\xb5\xe8\x19\x9c\xd1\xc7?'
+p759
+tp760
+Rp761
+tp762
+a(S'anti-clock'
+p763
+g2
+(g6
+S'R\\\x86\xfa\xcf\xd0\xc7?'
+p764
+tp765
+Rp766
+tp767
+a(S'index of physics articles (f)'
+p768
+g2
+(g6
+S'z\x9d\xab\xdf3\xcf\xc7?'
+p769
+tp770
+Rp771
+tp772
+a(S'spin foam'
+p773
+g2
+(g6
+S'\x0e\x95\xd55\xa7\x87\xc7?'
+p774
+tp775
+Rp776
+tp777
+a(S'dimensional regularization'
+p778
+g2
+(g6
+S'\x04]k+Ur\xc7?'
+p779
+tp780
+Rp781
+tp782
+a(S'quantum field theory'
+p783
+g2
+(g6
+S'qJ\xfa~\nd\xc7?'
+p784
+tp785
+Rp786
+tp787
+a(S'ozi rule'
+p788
+g2
+(g6
+S'\xc3>Q#\xfcQ\xc7?'
+p789
+tp790
+Rp791
+tp792
+a(S'one-seventh area triangle'
+p793
+g2
+(g6
+S'\xfe0y\x9c\x0fL\xc7?'
+p794
+tp795
+Rp796
+tp797
+a(S'john clive ward'
+p798
+g2
+(g6
+S'\xa4\n\x13\x9c\x80B\xc7?'
+p799
+tp800
+Rp801
+tp802
+a(S'the evolution of physics'
+p803
+g2
+(g6
+S'\x89\xef" 2$\xc7?'
+p804
+tp805
+Rp806
+tp807
+a(S'ernst stueckelberg'
+p808
+g2
+(g6
+S'y\xc0\xf7\x85E\x12\xc7?'
+p809
+tp810
+Rp811
+tp812
+a(S'boxology'
+p813
+g2
+(g6
+S'a&0p\xe8\x11\xc7?'
+p814
+tp815
+Rp816
+tp817
+a(S'timeline of atomic and subatomic physics'
+p818
+g2
+(g6
+S'\x18\xbc+\xb2\xa3\xe0\xc6?'
+p819
+tp820
+Rp821
+tp822
+a(S'bhabha scattering'
+p823
+g2
+(g6
+S'\xe3\x95\x87\x8b\xa6\xc8\xc6?'
+p824
+tp825
+Rp826
+tp827
+a(S'projecty cowork los alamos'
+p828
+g2
+(g6
+S'\x16\xb4\xcb\x06\x95\xa4\xc6?'
+p829
+tp830
+Rp831
+tp832
+a(S'self-energy'
+p833
+g2
+(g6
+S'!Fd\xeeq\x8e\xc6?'
+p834
+tp835
+Rp836
+tp837
+a(S'athenaeum at caltech'
+p838
+g2
+(g6
+S'\x13\xf2\x95\x98zp\xc6?'
+p839
+tp840
+Rp841
+tp842
+a(S'harald fritzsch'
+p843
+g2
+(g6
+S'N\x03\xdc.\xd2f\xc6?'
+p844
+tp845
+Rp846
+tp847
+a(S'history of quantum mechanics'
+p848
+g2
+(g6
+S';\xc9\xff 4b\xc6?'
+p849
+tp850
+Rp851
+tp852
+a(S'physics world'
+p853
+g2
+(g6
+S'4(S\xbf\xf9T\xc6?'
+p854
+tp855
+Rp856
+tp857
+a(S'john clayton taylor'
+p858
+g2
+(g6
+S'\x93S\xe6\xa8\xad=\xc6?'
+p859
+tp860
+Rp861
+tp862
+a(S'exponential formula'
+p863
+g2
+(g6
+S'\r\x8b\xa26q1\xc6?'
+p864
+tp865
+Rp866
+tp867
+a(S'antiparticle'
+p868
+g2
+(g6
+S'\x8fF3\x9f\xee\x0f\xc6?'
+p869
+tp870
+Rp871
+tp872
+a(S'history of nanotechnology'
+p873
+g2
+(g6
+S'\x7f%V\x9a\xa4\x0c\xc6?'
+p874
+tp875
+Rp876
+tp877
+a(S'vladimir jurko glaser'
+p878
+g2
+(g6
+S'\x18\xe2P\x92\xab\t\xc6?'
+p879
+tp880
+Rp881
+tp882
+a(S'outline of physics'
+p883
+g2
+(g6
+S'\x95U\xa6^F\xf7\xc5?'
+p884
+tp885
+Rp886
+tp887
+a(S'timeline of quantum mechanics'
+p888
+g2
+(g6
+S'\xb7\xc8\xd2\xc6\x8f\xcc\xc5?'
+p889
+tp890
+Rp891
+tp892
+a(S'duru\xe2\x80\x93kleinert transformation'
+p893
+g2
+(g6
+S'w\xe9\x10\x80\x00\xc6\xc5?'
+p894
+tp895
+Rp896
+tp897
+a(S'hirosi ooguri'
+p898
+g2
+(g6
+S'\xf8\xd0\x0c\xe8\xa1{\xc5?'
+p899
+tp900
+Rp901
+tp902
+a(S'ultraviolet divergence'
+p903
+g2
+(g6
+S'\xb4\x97\xf2<\x8ef\xc5?'
+p904
+tp905
+Rp906
+tp907
+a(S'minimal subtraction scheme'
+p908
+g2
+(g6
+S'\xe7\x8f}f\xa3X\xc5?'
+p909
+tp910
+Rp911
+tp912
+a(S'quantum master equation'
+p913
+g2
+(g6
+S'\xeb\xf9\xcbz\rU\xc5?'
+p914
+tp915
+Rp916
+tp917
+a(S'berkeley physics course'
+p918
+g2
+(g6
+S'/\x9e\x14p\xe0M\xc5?'
+p919
+tp920
+Rp921
+tp922
+a(S'timeline of fundamental physics discoveries'
+p923
+g2
+(g6
+S'\xf69\xe3$SK\xc5?'
+p924
+tp925
+Rp926
+tp927
+a(S'symphony of science'
+p928
+g2
+(g6
+S'\xed\xd3\xd6!/9\xc5?'
+p929
+tp930
+Rp931
+tp932
+a(S'variational principle'
+p933
+g2
+(g6
+S'\xebL_\x05G&\xc5?'
+p934
+tp935
+Rp936
+tp937
+a(S'physics'
+p938
+g2
+(g6
+S'\x88\x10\x04\x9b\x80%\xc5?'
+p939
+tp940
+Rp941
+tp942
+a(S'schwinger\xe2\x80\x93dyson equation'
+p943
+g2
+(g6
+S'C\x19G\xf9\xdd\x07\xc5?'
+p944
+tp945
+Rp946
+tp947
+a(S'sticky bead argument'
+p948
+g2
+(g6
+S'n4\x15\xa6j\xd4\xc4?'
+p949
+tp950
+Rp951
+tp952
+a(S'1988 in science'
+p953
+g2
+(g6
+S'$\x84A\x04\x11\xc5\xc4?'
+p954
+tp955
+Rp956
+tp957
+a(S'list of mathematical topics in quantum theory'
+p958
+g2
+(g6
+S':\xce2\x06E\xb9\xc4?'
+p959
+tp960
+Rp961
+tp962
+a(S'gerald harris rosen'
+p963
+g2
+(g6
+S'\xa5\xa4\xa7\x93Z\xb5\xc4?'
+p964
+tp965
+Rp966
+tp967
+a(S'messenger lectures'
+p968
+g2
+(g6
+S'\xcc\xc3\x063#\xae\xc4?'
+p969
+tp970
+Rp971
+tp972
+a(S'virtual particle'
+p973
+g2
+(g6
+S'\xe9\xfa\x0b\xbd\xea\xad\xc4?'
+p974
+tp975
+Rp976
+tp977
+a(S'gustavo scuseria'
+p978
+g2
+(g6
+S'\xdf\x86\x90\xaa!\x9f\xc4?'
+p979
+tp980
+Rp981
+tp982
+a(S'amanda barnard'
+p983
+g2
+(g6
+S'w\xb7\xdfH.\x9d\xc4?'
+p984
+tp985
+Rp986
+tp987
+a(S'alejandro jenkins'
+p988
+g2
+(g6
+S'\xc5\xc2\x1d\x1c\xe9\x96\xc4?'
+p989
+tp990
+Rp991
+tp992
+a(S'information field theory'
+p993
+g2
+(g6
+S'\xdbBO\x01\x9b\x96\xc4?'
+p994
+tp995
+Rp996
+tp997
+a(S'james bjorken'
+p998
+g2
+(g6
+S'\xf1@%\x97\xf3\x8d\xc4?'
+p999
+tp1000
+Rp1001
+tp1002
+a(S'jos\xc3\xa9 leite lopes'
+p1003
+g2
+(g6
+S'F\x19_2m\x8b\xc4?'
+p1004
+tp1005
+Rp1006
+tp1007
+a(S'foresight institute feynman prize in nanotechnology'
+p1008
+g2
+(g6
+S'-\xe7FL\xe2s\xc4?'
+p1009
+tp1010
+Rp1011
+tp1012
+a(S'klaus hasselmann'
+p1013
+g2
+(g6
+S'\xf8\xb8\xe0y\xc8h\xc4?'
+p1014
+tp1015
+Rp1016
+tp1017
+a(S'theoretical physics'
+p1018
+g2
+(g6
+S';\t\x8d`Zb\xc4?'
+p1019
+tp1020
+Rp1021
+tp1022
+a(S'the racah institute of physics'
+p1023
+g2
+(g6
+S'\xe9\xa9\x80\xd2\x7f]\xc4?'
+p1024
+tp1025
+Rp1026
+tp1027
+a(S'vincent rivasseau'
+p1028
+g2
+(g6
+S'\xe9\xd8A\xc4\xbeM\xc4?'
+p1029
+tp1030
+Rp1031
+tp1032
+a(S'jeffrey goldstone'
+p1033
+g2
+(g6
+S'$\xde\x04L\xfcK\xc4?'
+p1034
+tp1035
+Rp1036
+tp1037
+a(S'two-state vector formalism'
+p1038
+g2
+(g6
+S'\x9a\xff\xa2\xfa\xe2A\xc4?'
+p1039
+tp1040
+Rp1041
+tp1042
+a(S'invariance mechanics'
+p1043
+g2
+(g6
+S'\x85Q\xa1\xd1\x1a@\xc4?'
+p1044
+tp1045
+Rp1046
+tp1047
+a(S'rudolf m\xc3\xb6ssbauer'
+p1048
+g2
+(g6
+S'\x01\xae\x85\xe6^?\xc4?'
+p1049
+tp1050
+Rp1051
+tp1052
+a(S'phaedon avouris'
+p1053
+g2
+(g6
+S"'\x88p\xe2Z?\xc4?"
+p1054
+tp1055
+Rp1056
+tp1057
+a(S'renormalization'
+p1058
+g2
+(g6
+S'\xdfI\xb2\x0f\xba\x08\xc4?'
+p1059
+tp1060
+Rp1061
+tp1062
+a(S'ni guangjiong'
+p1063
+g2
+(g6
+S'}\xb9\xa9\xf9\xde\xeb\xc3?'
+p1064
+tp1065
+Rp1066
+tp1067
+a(S'minigui'
+p1068
+g2
+(g6
+S'\xdd\xc1R6\x9c\xe5\xc3?'
+p1069
+tp1070
+Rp1071
+tp1072
+a(S'howard brandt'
+p1073
+g2
+(g6
+S's\xb9\xd7"\xc5\xdc\xc3?'
+p1074
+tp1075
+Rp1076
+tp1077
+a(S'nick dandolos'
+p1078
+g2
+(g6
+S'\x9e\xac\x8fC\x80\xdc\xc3?'
+p1079
+tp1080
+Rp1081
+tp1082
+a(S'biophysics'
+p1083
+g2
+(g6
+S'\x8a\x1956|\xd9\xc3?'
+p1084
+tp1085
+Rp1086
+tp1087
+a(S'history of physics'
+p1088
+g2
+(g6
+S'\xee7!I\xfd\xd8\xc3?'
+p1089
+tp1090
+Rp1091
+tp1092
+a(S'george zweig'
+p1093
+g2
+(g6
+S'\x11\xf9\x97\x15\xe2\xd2\xc3?'
+p1094
+tp1095
+Rp1096
+tp1097
+a(S'charles w. misner'
+p1098
+g2
+(g6
+S'\\w\x1b\xfe\x08\xc3\xc3?'
+p1099
+tp1100
+Rp1101
+tp1102
+a(S'james gleick'
+p1103
+g2
+(g6
+S'\x95<^C\xb0\xbe\xc3?'
+p1104
+tp1105
+Rp1106
+tp1107
+a(S'alexander calandra'
+p1108
+g2
+(g6
+S'@\xc5\x97\xce\x0f\xb0\xc3?'
+p1109
+tp1110
+Rp1111
+tp1112
+a(S'david callaway'
+p1113
+g2
+(g6
+S'602W\x06\x8f\xc3?'
+p1114
+tp1115
+Rp1116
+tp1117
+a(S'cargo cult (disambiguation)'
+p1118
+g2
+(g6
+S'\x80S%W\xdf\x85\xc3?'
+p1119
+tp1120
+Rp1121
+tp1122
+a(S'renata kallosh'
+p1123
+g2
+(g6
+S'Ep\t)#x\xc3?'
+p1124
+tp1125
+Rp1126
+tp1127
+a(S'old codes new chaos'
+p1128
+g2
+(g6
+S'\x89o\x0eE8l\xc3?'
+p1129
+tp1130
+Rp1131
+tp1132
+a(S'john archibald wheeler'
+p1133
+g2
+(g6
+S'Sw^\x16\x9cd\xc3?'
+p1134
+tp1135
+Rp1136
+tp1137
+a(S'jenijoy la belle'
+p1138
+g2
+(g6
+S'\xa6\xbdj\xf4\xdbc\xc3?'
+p1139
+tp1140
+Rp1141
+tp1142
+a(S'1/n expansion'
+p1143
+g2
+(g6
+S'(\xf4\x00/\xa9X\xc3?'
+p1144
+tp1145
+Rp1146
+tp1147
+a(S'sam edwards (physicist)'
+p1148
+g2
+(g6
+S'g7\x00\x9d\x8dS\xc3?'
+p1149
+tp1150
+Rp1151
+tp1152
+a(S'hierarchical equations of motion'
+p1153
+g2
+(g6
+S'5/n\x85\x0bO\xc3?'
+p1154
+tp1155
+Rp1156
+tp1157
+a(S'luttinger\xe2\x80\x93ward functional'
+p1158
+g2
+(g6
+S'[\xcf\xa9)y@\xc3?'
+p1159
+tp1160
+Rp1161
+tp1162
+a(S"relation between schr\xc3\xb6dinger's equation and the path integral formulation of quantum mechanics"
+p1163
+g2
+(g6
+S'9\x11\x148\x0b>\xc3?'
+p1164
+tp1165
+Rp1166
+tp1167
+a(S'jozef t. devreese'
+p1168
+g2
+(g6
+S'\xbd\x96\xe4[\xb13\xc3?'
+p1169
+tp1170
+Rp1171
+tp1172
+a(S'global anomaly'
+p1173
+g2
+(g6
+S'\xf4\x88\xc9\xbeA\x1f\xc3?'
+p1174
+tp1175
+Rp1176
+tp1177
+a(S'action at a distance'
+p1178
+g2
+(g6
+S'\xdb\xa1\xf4/\x97\xea\xc2?'
+p1179
+tp1180
+Rp1181
+tp1182
+a(S'cecilia payne-gaposchkin'
+p1183
+g2
+(g6
+S'_\xf7\x1aK\xe6\xe5\xc2?'
+p1184
+tp1185
+Rp1186
+tp1187
+a(S'form (symbolic manipulation system)'
+p1188
+g2
+(g6
+S'B\x86u\xb2*\xde\xc2?'
+p1189
+tp1190
+Rp1191
+tp1192
+a(S'stephen wolfram'
+p1193
+g2
+(g6
+S'\x93\xee,iq\xd6\xc2?'
+p1194
+tp1195
+Rp1196
+tp1197
+a(S'polywater'
+p1198
+g2
+(g6
+S'\xe7q\x9d\xa1\xfd\xd3\xc2?'
+p1199
+tp1200
+Rp1201
+tp1202
+a(S'the cosmic landscape'
+p1203
+g2
+(g6
+S'\x95F\xbd\xb5\x0b\xd2\xc2?'
+p1204
+tp1205
+Rp1206
+tp1207
+a(S'combinatorics and physics'
+p1208
+g2
+(g6
+S'{\x91&\xa0>\xca\xc2?'
+p1209
+tp1210
+Rp1211
+tp1212
+a(S'quenched approximation'
+p1213
+g2
+(g6
+S'\xd0Q\x95<`\xc9\xc2?'
+p1214
+tp1215
+Rp1216
+tp1217
+a(S'deductive-nomological model'
+p1218
+g2
+(g6
+S'\xb3\xb3\x10\xea]\xc9\xc2?'
+p1219
+tp1220
+Rp1221
+tp1222
+a(S'john g. cramer'
+p1223
+g2
+(g6
+S'\xfd&\x1b\xc3\xc5\xb8\xc2?'
+p1224
+tp1225
+Rp1226
+tp1227
+a(S'rotation operator (quantum mechanics)'
+p1228
+g2
+(g6
+S'<\x07\x985\xcc\x9b\xc2?'
+p1229
+tp1230
+Rp1231
+tp1232
+a(S'exotic probability'
+p1233
+g2
+(g6
+S'\xe3\x91\xe3@\xe7\x86\xc2?'
+p1234
+tp1235
+Rp1236
+tp1237
+a(S'paradox of a charge in a gravitational field'
+p1238
+g2
+(g6
+S'\xfe2:\xd3-}\xc2?'
+p1239
+tp1240
+Rp1241
+tp1242
+a(S'niels bohr international gold medal'
+p1243
+g2
+(g6
+S'\xbcJ\x08%;|\xc2?'
+p1244
+tp1245
+Rp1246
+tp1247
+a(S'correlation function (quantum field theory)'
+p1248
+g2
+(g6
+S'\x93\xc5\xc4\x01\xa8u\xc2?'
+p1249
+tp1250
+Rp1251
+tp1252
+a(S'quantum hydrodynamics'
+p1253
+g2
+(g6
+S'\xb8\xaem\x15\xb5t\xc2?'
+p1254
+tp1255
+Rp1256
+tp1257
+a(S'dyson series'
+p1258
+g2
+(g6
+S'E\x1e\x82x\xear\xc2?'
+p1259
+tp1260
+Rp1261
+tp1262
+a(S'relativistic electromagnetism'
+p1263
+g2
+(g6
+S'-Y\x16\xe5\x9cg\xc2?'
+p1264
+tp1265
+Rp1266
+tp1267
+a(S'j. storrs hall'
+p1268
+g2
+(g6
+S'\x85\xc4\xac\x84\xc8Z\xc2?'
+p1269
+tp1270
+Rp1271
+tp1272
+a(S'list of fellows of the royal society elected in 1965'
+p1273
+g2
+(g6
+S'm\xb2\x1b)\xd7K\xc2?'
+p1274
+tp1275
+Rp1276
+tp1277
+a(S"cooperstock's energy-localization hypothesis"
+p1278
+g2
+(g6
+S'\xc4\xcc{2\t;\xc2?'
+p1279
+tp1280
+Rp1281
+tp1282
+a(S'yukawa potential'
+p1283
+g2
+(g6
+S'\xd6D\xd1\xa5\x93\x1d\xc2?'
+p1284
+tp1285
+Rp1286
+tp1287
+a(S'perturbation theory (quantum mechanics)'
+p1288
+g2
+(g6
+S'#\x8b^\xa5B\x17\xc2?'
+p1289
+tp1290
+Rp1291
+tp1292
+a(S'quantum walk'
+p1293
+g2
+(g6
+S'AIu\xeb7\x03\xc2?'
+p1294
+tp1295
+Rp1296
+tp1297
+a(S'nanorobotics'
+p1298
+g2
+(g6
+S'f\x08\x8av/\x02\xc2?'
+p1299
+tp1300
+Rp1301
+tp1302
+a(S'classical-map hypernetted-chain method'
+p1303
+g2
+(g6
+S'\xee\r\xb27^\xe3\xc1?'
+p1304
+tp1305
+Rp1306
+tp1307
+a(S'physics education'
+p1308
+g2
+(g6
+S'\x9c\xc3\xe2\xd2\x93\xdd\xc1?'
+p1309
+tp1310
+Rp1311
+tp1312
+a(S'branches of physics'
+p1313
+g2
+(g6
+S'Q\xfb\x83o\x98\xcf\xc1?'
+p1314
+tp1315
+Rp1316
+tp1317
+a(S'medical physics'
+p1318
+g2
+(g6
+S'\xdef\n\xb1d\xcc\xc1?'
+p1319
+tp1320
+Rp1321
+tp1322
+a(S'giantmicrobes'
+p1323
+g2
+(g6
+S'\xace\xc7\x06_\xba\xc1?'
+p1324
+tp1325
+Rp1326
+tp1327
+a(S'william l. burke'
+p1328
+g2
+(g6
+S'1\xbb\x10\x8ek\xb1\xc1?'
+p1329
+tp1330
+Rp1331
+tp1332
+a(S'roton'
+p1333
+g2
+(g6
+S'L=P\x8d\x1e\xa0\xc1?'
+p1334
+tp1335
+Rp1336
+tp1337
+a(S'john n. bahcall'
+p1338
+g2
+(g6
+S'\xb1\xf9\x89\xdcfi\xc1?'
+p1339
+tp1340
+Rp1341
+tp1342
+a(S'david ceperley'
+p1343
+g2
+(g6
+S'\x81P\xa4qA_\xc1?'
+p1344
+tp1345
+Rp1346
+tp1347
+a(S'asymptotic freedom'
+p1348
+g2
+(g6
+S'\xaa\x0f8\xfb\x08[\xc1?'
+p1349
+tp1350
+Rp1351
+tp1352
+a(S'fermionic field'
+p1353
+g2
+(g6
+S'J\x06r\xec\x0fV\xc1?'
+p1354
+tp1355
+Rp1356
+tp1357
+a(S'raphael h\xc3\xb8egh-krohn'
+p1358
+g2
+(g6
+S'}\x07\x12\x1f\x9aQ\xc1?'
+p1359
+tp1360
+Rp1361
+tp1362
+a(S'physics outreach'
+p1363
+g2
+(g6
+S'\xf1\xee\x93\xa9\xe2P\xc1?'
+p1364
+tp1365
+Rp1366
+tp1367
+a(S'jack sarfatti'
+p1368
+g2
+(g6
+S'\x12\xda\xa1D\xccM\xc1?'
+p1369
+tp1370
+Rp1371
+tp1372
+a(S'leibniz integral rule'
+p1373
+g2
+(g6
+S'\xd1\xd7\xe5 iF\xc1?'
+p1374
+tp1375
+Rp1376
+tp1377
+a(S'black & white (whisky)'
+p1378
+g2
+(g6
+S'\x91\xe6\x8e\x14\x0fB\xc1?'
+p1379
+tp1380
+Rp1381
+tp1382
+a(S'isolation tank'
+p1383
+g2
+(g6
+S'\n\x9dD%p@\xc1?'
+p1384
+tp1385
+Rp1386
+tp1387
+a(S'columbia university physics department'
+p1388
+g2
+(g6
+S"1')cp8\xc1?"
+p1389
+tp1390
+Rp1391
+tp1392
+a(S'nanomotor'
+p1393
+g2
+(g6
+S'\x15\x8d\x8e`\xaf7\xc1?'
+p1394
+tp1395
+Rp1396
+tp1397
+a(S'milo\xc5\xa1 tich\xc3\xbd'
+p1398
+g2
+(g6
+S'\xba\x13\xfaY\xc5*\xc1?'
+p1399
+tp1400
+Rp1401
+tp1402
+a(S'ronald ekers'
+p1403
+g2
+(g6
+S'\xea\x1fCr.&\xc1?'
+p1404
+tp1405
+Rp1406
+tp1407
+a(S'ugo fano'
+p1408
+g2
+(g6
+S'\x17\xad\xcf\xf5\xe5\x1e\xc1?'
+p1409
+tp1410
+Rp1411
+tp1412
+a(S'butcher group'
+p1413
+g2
+(g6
+S'\x1b@\xc5\xcfY\x1b\xc1?'
+p1414
+tp1415
+Rp1416
+tp1417
+a(S'digital philosophy'
+p1418
+g2
+(g6
+S'[C<\xef\xf7\xff\xc0?'
+p1419
+tp1420
+Rp1421
+tp1422
+a(S'relativistic dynamics'
+p1423
+g2
+(g6
+S'\xff\xea]\x14\xf6\xf5\xc0?'
+p1424
+tp1425
+Rp1426
+tp1427
+a(S'transactional interpretation'
+p1428
+g2
+(g6
+S'\xf0\xd7uu\xea\xe5\xc0?'
+p1429
+tp1430
+Rp1431
+tp1432
+a(S'yue qi'
+p1433
+g2
+(g6
+S"'\x92T\xfcW\xe3\xc0?"
+p1434
+tp1435
+Rp1436
+tp1437
+a(S'peter r. holland'
+p1438
+g2
+(g6
+S'+7-z\xe1\xe2\xc0?'
+p1439
+tp1440
+Rp1441
+tp1442
+a(S'anyon'
+p1443
+g2
+(g6
+S'w\xd1m2\x1e\xd7\xc0?'
+p1444
+tp1445
+Rp1446
+tp1447
+a(S'shaft passer'
+p1448
+g2
+(g6
+S'Z\xb9\\\xda\xe9\xd3\xc0?'
+p1449
+tp1450
+Rp1451
+tp1452
+a(S'atlanta school of composers'
+p1453
+g2
+(g6
+S'}z\xd1\x1dJ\xc3\xc0?'
+p1454
+tp1455
+Rp1456
+tp1457
+a(S'lawrence m. krauss'
+p1458
+g2
+(g6
+S'oP\x920\xa3\xb0\xc0?'
+p1459
+tp1460
+Rp1461
+tp1462
+a(S'statistical physics'
+p1463
+g2
+(g6
+S'\xcdn\xec\xe5K\xae\xc0?'
+p1464
+tp1465
+Rp1466
+tp1467
+a(S'sergio albeverio'
+p1468
+g2
+(g6
+S'\xf3\xc6*\x8d\xaf\x9f\xc0?'
+p1469
+tp1470
+Rp1471
+tp1472
+a(S'magnetic radiation reaction force'
+p1473
+g2
+(g6
+S'xF\xc4\xe5Hz\xc0?'
+p1474
+tp1475
+Rp1476
+tp1477
+a(S'quantum simulator'
+p1478
+g2
+(g6
+S'\xed"[<)y\xc0?'
+p1479
+tp1480
+Rp1481
+tp1482
+a(S'kip thorne'
+p1483
+g2
+(g6
+S'\xe2\x13\xdc\x82Fp\xc0?'
+p1484
+tp1485
+Rp1486
+tp1487
+a(S'list of nobel laureates affiliated with kyoto university'
+p1488
+g2
+(g6
+S'\x1f\xaa\x8d\x9d\x12b\xc0?'
+p1489
+tp1490
+Rp1491
+tp1492
+a(S'renormalon'
+p1493
+g2
+(g6
+S'9=4`P_\xc0?'
+p1494
+tp1495
+Rp1496
+tp1497
+a(S'standard model (mathematical formulation)'
+p1498
+g2
+(g6
+S'\xb0+A\x95I]\xc0?'
+p1499
+tp1500
+Rp1501
+tp1502
+a(S'project y'
+p1503
+g2
+(g6
+S'\xd5t6\xd4\xebX\xc0?'
+p1504
+tp1505
+Rp1506
+tp1507
+a(S'lambda transition'
+p1508
+g2
+(g6
+S'\x97\xaf\xae\xdb\xb4W\xc0?'
+p1509
+tp1510
+Rp1511
+tp1512
+a.

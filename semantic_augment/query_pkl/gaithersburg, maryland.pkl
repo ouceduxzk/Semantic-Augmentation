@@ -1,0 +1,2728 @@
+(lp0
+(S'gaithersburg, maryland'
+p1
+cnumpy.core.multiarray
+scalar
+p2
+(cnumpy
+dtype
+p3
+(S'f8'
+p4
+I0
+I1
+tp5
+Rp6
+(I3
+S'<'
+p7
+NNNI-1
+I-1
+I0
+tp8
+bS'\x05\x00\x00\x00\x00\x00\xf0?'
+p9
+tp10
+Rp11
+tp12
+a(S'gaithersburg high school'
+p13
+g2
+(g6
+S'VM\xa6\x18WY\xe9?'
+p14
+tp15
+Rp16
+tp17
+a(S'sidney a. katz'
+p18
+g2
+(g6
+S'\xb9\xf3|\x8e\x10\x00\xe4?'
+p19
+tp20
+Rp21
+tp22
+a(S'gaithersburg station'
+p23
+g2
+(g6
+S'\x05F~3\xc5\xbd\xe3?'
+p24
+tp25
+Rp26
+tp27
+a(S'gaithersburg giants'
+p28
+g2
+(g6
+S'-\xf0\xb3V\xdaU\xe3?'
+p29
+tp30
+Rp31
+tp32
+a(S'gaithersburg latitude observatory'
+p33
+g2
+(g6
+S'\xc8r\xa4\xbdh\xcb\xe0?'
+p34
+tp35
+Rp36
+tp37
+a(S'mewf heavyweight championship'
+p38
+g2
+(g6
+S'Q\x89\xf6y\xf8\xe9\xdf?'
+p39
+tp40
+Rp41
+tp42
+a(S'watkins mill town center'
+p43
+g2
+(g6
+S'\xbe\xa8a\x9a\x1f\x89\xda?'
+p44
+tp45
+Rp46
+tp47
+a(S'thomas and company cannery'
+p48
+g2
+(g6
+S'\x0bq\xaf/\x93\x1d\xda?'
+p49
+tp50
+Rp51
+tp52
+a(S'international latitude observatory'
+p53
+g2
+(g6
+S'\xcbB\x10j,\xb0\xd7?'
+p54
+tp55
+Rp56
+tp57
+a(S'maryland route 124'
+p58
+g2
+(g6
+S'Q\xdc\xe9T\xd4\x8a\xd6?'
+p59
+tp60
+Rp61
+tp62
+a(S'montgomery playhouse'
+p63
+g2
+(g6
+S'hg\x07":[\xd6?'
+p64
+tp65
+Rp66
+tp67
+a(S'maryland route 117'
+p68
+g2
+(g6
+S'\xdfI\xa4\xe4b\xab\xd5?'
+p69
+tp70
+Rp71
+tp72
+a(S'washington science fiction association'
+p73
+g2
+(g6
+S'\x11<\xb7$cS\xd5?'
+p74
+tp75
+Rp76
+tp77
+a(S'ridgeview middle school'
+p78
+g2
+(g6
+S'\xfa\xdaeM#-\xd5?'
+p79
+tp80
+Rp81
+tp82
+a(S'tony greene'
+p83
+g2
+(g6
+S'\xbf\xbb\x08\xb0\xec\x8d\xd4?'
+p84
+tp85
+Rp86
+tp87
+a(S'avalon school (maryland)'
+p88
+g2
+(g6
+S'\xad\x0f\x16\x02\x1b\xd3\xd3?'
+p89
+tp90
+Rp91
+tp92
+a(S'gloria gordon bolotsky'
+p93
+g2
+(g6
+S'\x0f\xab\xa6\xdb\xcf\x9c\xd3?'
+p94
+tp95
+Rp96
+tp97
+a(S'whmc'
+p98
+g2
+(g6
+S'%\xfd\xd6\xd7%\x9a\xd3?'
+p99
+tp100
+Rp101
+tp102
+a(S'j. a. belt building'
+p103
+g2
+(g6
+S'\xfbT\x8f\xca\xd3`\xd3?'
+p104
+tp105
+Rp106
+tp107
+a(S'alexander gardiner'
+p108
+g2
+(g6
+S'N\x13\xb2\\\xbc^\xd3?'
+p109
+tp110
+Rp111
+tp112
+a(S'montgomery county public schools'
+p113
+g2
+(g6
+S'\xad\xd7\xfc\xef|\xe4\xd2?'
+p114
+tp115
+Rp116
+tp117
+a(S'kentlands, gaithersburg, maryland'
+p118
+g2
+(g6
+S'\xd8\xc1V\x8cs\xab\xd2?'
+p119
+tp120
+Rp121
+tp122
+a(S'tom mchale (american football)'
+p123
+g2
+(g6
+S'T\x0c0\xadu\xdb\xd1?'
+p124
+tp125
+Rp126
+tp127
+a(S'ashley parker (journalist)'
+p128
+g2
+(g6
+S'9\xdf\xb3\xe1s\xd5\xd1?'
+p129
+tp130
+Rp131
+tp132
+a(S'montgomery village, maryland'
+p133
+g2
+(g6
+S'\x84L\xfal\x0f~\xd1?'
+p134
+tp135
+Rp136
+tp137
+a(S'220th military police brigade'
+p138
+g2
+(g6
+S'\xdb0\x90\xf1\xa1\xcf\xd0?'
+p139
+tp140
+Rp141
+tp142
+a(S'laytonsville, maryland'
+p143
+g2
+(g6
+S'\xce\xe4\xde\x1dV\xb5\xd0?'
+p144
+tp145
+Rp146
+tp147
+a(S'the gazette (maryland)'
+p148
+g2
+(g6
+S'\xa0\x1fEm7\x89\xd0?'
+p149
+tp150
+Rp151
+tp152
+a(S'paul james (actor)'
+p153
+g2
+(g6
+S'\xaa\xeb\xde/\xf5&\xd0?'
+p154
+tp155
+Rp156
+tp157
+a(S'animation magic'
+p158
+g2
+(g6
+S'\x81\xfa\xe8\xe9TT\xcf?'
+p159
+tp160
+Rp161
+tp162
+a(S'kumar p. barve'
+p163
+g2
+(g6
+S'lB|tO_\xce?'
+p164
+tp165
+Rp166
+tp167
+a(S"jerry's subs & pizza"
+p168
+g2
+(g6
+S'\xdd\x91\xde\xb65 \xce?'
+p169
+tp170
+Rp171
+tp172
+a(S'id tech (disambiguation)'
+p173
+g2
+(g6
+S'\xe3;\xf0\x9c\xd3\xea\xcd?'
+p174
+tp175
+Rp176
+tp177
+a(S'washington outer beltway'
+p178
+g2
+(g6
+S'N\x03\xca!\xdc\xd9\xcd?'
+p179
+tp180
+Rp181
+tp182
+a(S'montgomery county, maryland'
+p183
+g2
+(g6
+S'\x85w\xcb_j"\xcd?'
+p184
+tp185
+Rp186
+tp187
+a(S'yoshisada shimizu'
+p188
+g2
+(g6
+S'D\xd4\xae?]\x1d\xcd?'
+p189
+tp190
+Rp191
+tp192
+a(S'wisconsin avenue'
+p193
+g2
+(g6
+S'\xdf\xa8n\xdd\x98\xd9\xcb?'
+p194
+tp195
+Rp196
+tp197
+a(S'practical horseman'
+p198
+g2
+(g6
+S' \xd7t\x88\x11|\xcb?'
+p199
+tp200
+Rp201
+tp202
+a(S'covenant life church'
+p203
+g2
+(g6
+S'\xe2n\x9f\x03\xf4]\xcb?'
+p204
+tp205
+Rp206
+tp207
+a(S'addamax'
+p208
+g2
+(g6
+S'2\x83\xb2\xbf\x05\xf0\xca?'
+p209
+tp210
+Rp211
+tp212
+a(S'maryland house of delegates district 19'
+p213
+g2
+(g6
+S' #\xfa\xa4^#\xca?'
+p214
+tp215
+Rp216
+tp217
+a(S'bethesda magazine'
+p218
+g2
+(g6
+S'\xf1d\xc2\xdf\xd5\x15\xca?'
+p219
+tp220
+Rp221
+tp222
+a(S'north potomac, maryland'
+p223
+g2
+(g6
+S'\x19\xd8\x82\x89\xab\xd2\xc9?'
+p224
+tp225
+Rp226
+tp227
+a(S'maryland route 119'
+p228
+g2
+(g6
+S'f\xf6\xae?t\xa9\xc9?'
+p229
+tp230
+Rp231
+tp232
+a(S'derwood, maryland'
+p233
+g2
+(g6
+S'J\x1cq\xc8\x15K\xc9?'
+p234
+tp235
+Rp236
+tp237
+a(S'maurice karnaugh'
+p238
+g2
+(g6
+S'\xecg\xfa\xd5\xb4\x96\xc8?'
+p239
+tp240
+Rp241
+tp242
+a(S'washington grove, maryland'
+p243
+g2
+(g6
+S'\x1e\x8a^\xc7.\x7f\xc8?'
+p244
+tp245
+Rp246
+tp247
+a(S'power music'
+p248
+g2
+(g6
+S'\xdc|\xea\x06\x86R\xc8?'
+p249
+tp250
+Rp251
+tp252
+a(S"widow's walk"
+p253
+g2
+(g6
+S'\x0f93\xa7y\xf2\xc7?'
+p254
+tp255
+Rp256
+tp257
+a(S'list of public schools in montgomery county, maryland'
+p258
+g2
+(g6
+S'C\x02p\x07\x9f\xec\xc7?'
+p259
+tp260
+Rp261
+tp262
+a(S'octopus flying club'
+p263
+g2
+(g6
+S'(G\x08\x04%\xad\xc7?'
+p264
+tp265
+Rp266
+tp267
+a(S'ephraim francis baldwin'
+p268
+g2
+(g6
+S'/\xdb\x81yp\x8b\xc7?'
+p269
+tp270
+Rp271
+tp272
+a(S'kelli hill'
+p273
+g2
+(g6
+S'\xdd\x85\x96\xe8fg\xc7?'
+p274
+tp275
+Rp276
+tp277
+a(S'sam eig'
+p278
+g2
+(g6
+S'\xbcX\xb7_ZF\xc7?'
+p279
+tp280
+Rp281
+tp282
+a(S'corridor cities transitway'
+p283
+g2
+(g6
+S"'U,\x01/<\xc7?"
+p284
+tp285
+Rp286
+tp287
+a(S'hank fraley'
+p288
+g2
+(g6
+S'\xd0\x1dW\x80\xb5!\xc7?'
+p289
+tp290
+Rp291
+tp292
+a(S'nelson h. davis'
+p293
+g2
+(g6
+S'3Y\x08X\x99 \xc7?'
+p294
+tp295
+Rp296
+tp297
+a(S"2005\xe2\x80\x9306 temple owls men's basketball team"
+p298
+g2
+(g6
+S'2N\x83\xdf<\xf1\xc6?'
+p299
+tp300
+Rp301
+tp302
+a(S'united states national laboratories'
+p303
+g2
+(g6
+S'\xbc\x06\xc5\xc1\xe1\xec\xc6?'
+p304
+tp305
+Rp306
+tp307
+a(S'earl larkin williams'
+p308
+g2
+(g6
+S'J\x8b\x15\xe3"\xe4\xc6?'
+p309
+tp310
+Rp311
+tp312
+a(S'lakelands park middle school'
+p313
+g2
+(g6
+S'\x82\xbf\xa9\x8a4\xcf\xc6?'
+p314
+tp315
+Rp316
+tp317
+a(S'list of u.s. cities with non-hispanic white plurality populations in 2010'
+p318
+g2
+(g6
+S'\xd6\xdb\x0f\xeb\x1d\xb8\xc6?'
+p319
+tp320
+Rp321
+tp322
+a(S'wyre (am)'
+p323
+g2
+(g6
+S'=\x11\xd2#\x03\xa0\xc6?'
+p324
+tp325
+Rp326
+tp327
+a(S'northwest high school (montgomery county, maryland)'
+p328
+g2
+(g6
+S'<\xfb^\xaeP\x8e\xc6?'
+p329
+tp330
+Rp331
+tp332
+a(S"harmony express men's chorus"
+p333
+g2
+(g6
+S'i\xcb\x800!}\xc6?'
+p334
+tp335
+Rp336
+tp337
+a(S'1160 am'
+p338
+g2
+(g6
+S'\x92\xce\xf5\x9d\xc9Y\xc6?'
+p339
+tp340
+Rp341
+tp342
+a(S'terrier search engine'
+p343
+g2
+(g6
+S'\x10?\xf0LdL\xc6?'
+p344
+tp345
+Rp346
+tp347
+a(S'kerry lloyd'
+p348
+g2
+(g6
+S'p\xaa\x94q\xbb,\xc6?'
+p349
+tp350
+Rp351
+tp352
+a(S'united states army reserve legal command'
+p353
+g2
+(g6
+S'\x10\x11\xd1ZhR\xc5?'
+p354
+tp355
+Rp356
+tp357
+a(S'cheryl kagan'
+p358
+g2
+(g6
+S'\xf1G\x97\x92\xd87\xc5?'
+p359
+tp360
+Rp361
+tp362
+a(S'list of marc train stations'
+p363
+g2
+(g6
+S'\xd9\xf07\xc7\x00"\xc5?'
+p364
+tp365
+Rp366
+tp367
+a(S'integrated telecom technology'
+p368
+g2
+(g6
+S'\xb7\xba\x0c\xd4L\x14\xc5?'
+p369
+tp370
+Rp371
+tp372
+a(S'interstate 370'
+p373
+g2
+(g6
+S'\xd0.\xa8\xfd`\x08\xc5?'
+p374
+tp375
+Rp376
+tp377
+a(S'ali asad chandia'
+p378
+g2
+(g6
+S'$<\x88\xf1\xde\xfd\xc4?'
+p379
+tp380
+Rp381
+tp382
+a(S'shady grove, maryland'
+p383
+g2
+(g6
+S'[\xf6D\x81 \xfc\xc4?'
+p384
+tp385
+Rp386
+tp387
+a(S'joe young (safety)'
+p388
+g2
+(g6
+S'\x97]\xac\xa6R\xec\xc4?'
+p389
+tp390
+Rp391
+tp392
+a(S"st. rose's church"
+p393
+g2
+(g6
+S'\xf7\x06\xbd\xb7\x12\xec\xc4?'
+p394
+tp395
+Rp396
+tp397
+a(S'casa de maryland'
+p398
+g2
+(g6
+S'\x91{\xfc\xf0D\xce\xc4?'
+p399
+tp400
+Rp401
+tp402
+a(S'w. bradford rigdon'
+p403
+g2
+(g6
+S"zR\xb8\x9e'\x87\xc4?"
+p404
+tp405
+Rp406
+tp407
+a(S'pkc (conference)'
+p408
+g2
+(g6
+S'\xc8`\xc8\xa4\x96]\xc4?'
+p409
+tp410
+Rp411
+tp412
+a(S'quince orchard high school'
+p413
+g2
+(g6
+S'\x03}\x81g\xcaW\xc4?'
+p414
+tp415
+Rp416
+tp417
+a(S'khoi vinh'
+p418
+g2
+(g6
+S'\xc7lj\x83zL\xc4?'
+p419
+tp420
+Rp421
+tp422
+a(S'list of municipalities in maryland'
+p423
+g2
+(g6
+S'\x90Gc|,J\xc4?'
+p424
+tp425
+Rp426
+tp427
+a(S'lincoln park, rockville, maryland'
+p428
+g2
+(g6
+S'\xb1\xd4\x7f\x94<?\xc4?'
+p429
+tp430
+Rp431
+tp432
+a(S'wmet'
+p433
+g2
+(g6
+S'\xb3\xf2\xb5\x10-=\xc4?'
+p434
+tp435
+Rp436
+tp437
+a(S'devika parikh'
+p438
+g2
+(g6
+S'vf\x9e\xba\xa7\x1f\xc4?'
+p439
+tp440
+Rp441
+tp442
+a(S'jennie m. forehand'
+p443
+g2
+(g6
+S'l\x11\x83\x15\n\xf9\xc3?'
+p444
+tp445
+Rp446
+tp447
+a(S'francis winthrop palfrey'
+p448
+g2
+(g6
+S'\xd8\x15\xcfye\xf2\xc3?'
+p449
+tp450
+Rp451
+tp452
+a(S'jason ankrah'
+p453
+g2
+(g6
+S"R\x13\x91\xb7'\xef\xc3?"
+p454
+tp455
+Rp456
+tp457
+a(S'georges c. benjamin'
+p458
+g2
+(g6
+S'\x0c\xf2E8\xdf\xec\xc3?'
+p459
+tp460
+Rp461
+tp462
+a(S'simon nicholls (baseball)'
+p463
+g2
+(g6
+S'\x8dp\x9d\xc3J\x86\xc3?'
+p464
+tp465
+Rp466
+tp467
+a(S'metropolitan subdivision'
+p468
+g2
+(g6
+S'\xf1C\xc3\x06\xc2{\xc3?'
+p469
+tp470
+Rp471
+tp472
+a(S'maryland route 355'
+p473
+g2
+(g6
+S'\xd1Q\x0cI\x9cq\xc3?'
+p474
+tp475
+Rp476
+tp477
+a(S'glenarden, maryland'
+p478
+g2
+(g6
+S'\xceD\xf3\x9d\x1fN\xc3?'
+p479
+tp480
+Rp481
+tp482
+a(S'lakeforest mall'
+p483
+g2
+(g6
+S'\xb7b\x1e\xf1\x94@\xc3?'
+p484
+tp485
+Rp486
+tp487
+a(S'virtual cybernetic building testbed'
+p488
+g2
+(g6
+S"J\xf6\xea'E\r\xc3?"
+p489
+tp490
+Rp491
+tp492
+a(S'walker lake'
+p493
+g2
+(g6
+S'\x1f\xb4\xf0\x83\xb2\x0c\xc3?'
+p494
+tp495
+Rp496
+tp497
+a(S'jurnee carr'
+p498
+g2
+(g6
+S'\t(J\xfd\x8b\xca\xc2?'
+p499
+tp500
+Rp501
+tp502
+a(S'harley venton'
+p503
+g2
+(g6
+S'\x00\x86Me\xac\xc0\xc2?'
+p504
+tp505
+Rp506
+tp507
+a(S'mewf mid-atlantic championship'
+p508
+g2
+(g6
+S'sK;\xc7\xec\xa8\xc2?'
+p509
+tp510
+Rp511
+tp512
+a(S'montgomery county airpark'
+p513
+g2
+(g6
+S'1\x9e6\xd3\xb7\x9f\xc2?'
+p514
+tp515
+Rp516
+tp517
+a(S'richard m. scammon'
+p518
+g2
+(g6
+S'Di0x\x16\x9d\xc2?'
+p519
+tp520
+Rp521
+tp522
+a(S'mother of god school'
+p523
+g2
+(g6
+S'\x8c\xc1\xd7s9\x9c\xc2?'
+p524
+tp525
+Rp526
+tp527
+a(S'james w. gilchrist'
+p528
+g2
+(g6
+S'5\xe0\x86$\xaa\x83\xc2?'
+p529
+tp530
+Rp531
+tp532
+a(S'frank hope-jones'
+p533
+g2
+(g6
+S'\xfe\x9f\xd7\xd3\xe3R\xc2?'
+p534
+tp535
+Rp536
+tp537
+a(S'stanwood, washington'
+p538
+g2
+(g6
+S'\xaa\x8e\xf7\xda\xed;\xc2?'
+p539
+tp540
+Rp541
+tp542
+a(S'conference on information and knowledge management'
+p543
+g2
+(g6
+S'\xc0\x8e\xbf\xcc\x853\xc2?'
+p544
+tp545
+Rp546
+tp547
+a(S'david fraser-hidalgo'
+p548
+g2
+(g6
+S'\xe5\xbe\xaf\x0cq2\xc2?'
+p549
+tp550
+Rp551
+tp552
+a(S'thomas sherwin'
+p553
+g2
+(g6
+S'\xfd?v\xfc\xe4-\xc2?'
+p554
+tp555
+Rp556
+tp557
+a(S'boyds, maryland'
+p558
+g2
+(g6
+S'\xb0\xf9ryV)\xc2?'
+p559
+tp560
+Rp561
+tp562
+a(S'nist stone test wall'
+p563
+g2
+(g6
+S'<\xd9\xc0\x8d\xde\x18\xc2?'
+p564
+tp565
+Rp566
+tp567
+a(S'st. rose of lima catholic church (gaithersburg, maryland)'
+p568
+g2
+(g6
+S'\xd9^\x82\xc8\xb1\x0f\xc2?'
+p569
+tp570
+Rp571
+tp572
+a(S'cal ripken collegiate baseball league'
+p573
+g2
+(g6
+S'\x1fw\xdax0\xfd\xc1?'
+p574
+tp575
+Rp576
+tp577
+a(S'the great indoors (department store)'
+p578
+g2
+(g6
+S'\xd3\xfe\x1a\xaa\xb2\xf3\xc1?'
+p579
+tp580
+Rp581
+tp582
+a(S'businessuites'
+p583
+g2
+(g6
+S'z\xbfl\x86\xb8\xe3\xc1?'
+p584
+tp585
+Rp586
+tp587
+a(S'greater washington area asian-american demographics'
+p588
+g2
+(g6
+S'\xfe+PK\xec\xd5\xc1?'
+p589
+tp590
+Rp591
+tp592
+a(S'quadrangle development corporation'
+p593
+g2
+(g6
+S'o\xe4\x12\x12\xa4\xd3\xc1?'
+p594
+tp595
+Rp596
+tp597
+a(S'brunswick line'
+p598
+g2
+(g6
+S'\x0e)\x0c\xd1\xe6\xc9\xc1?'
+p599
+tp600
+Rp601
+tp602
+a(S'maryland shakespeare festival'
+p603
+g2
+(g6
+S'\xf5\xfc*\xf2>\xc4\xc1?'
+p604
+tp605
+Rp606
+tp607
+a(S'list of high schools in maryland'
+p608
+g2
+(g6
+S'\xaf+\xe3f\xb4\xbc\xc1?'
+p609
+tp610
+Rp611
+tp612
+a(S'jennifer celotta'
+p613
+g2
+(g6
+S'\x8c\x83\x1e\xec\x90\xa8\xc1?'
+p614
+tp615
+Rp616
+tp617
+a(S'bonnie cullison'
+p618
+g2
+(g6
+S'\xcf\x16\xba\xd3\xe1\x9a\xc1?'
+p619
+tp620
+Rp621
+tp622
+a(S"list of schools in prince george's county, maryland"
+p623
+g2
+(g6
+S'\xa2\x82\xb0&\x10\x96\xc1?'
+p624
+tp625
+Rp626
+tp627
+a(S'frank elmore ross'
+p628
+g2
+(g6
+S'-\xcb.\xa9\xd4\x8d\xc1?'
+p629
+tp630
+Rp631
+tp632
+a(S'baltimore county public schools'
+p633
+g2
+(g6
+S'x\xbdL\x02x\x81\xc1?'
+p634
+tp635
+Rp636
+tp637
+a(S'montgomery county police department'
+p638
+g2
+(g6
+S'\xd8Qw6\xc4Q\xc1?'
+p639
+tp640
+Rp641
+tp642
+a(S'saint rose'
+p643
+g2
+(g6
+S'\xfb\x0e\x04?\x9cJ\xc1?'
+p644
+tp645
+Rp646
+tp647
+a(S'astrid yunadi'
+p648
+g2
+(g6
+S'\xee\xfa\x82\xda\x89;\xc1?'
+p649
+tp650
+Rp651
+tp652
+a(S'interstate 270 (maryland)'
+p653
+g2
+(g6
+S"\xc4F\xc5\xea\x15'\xc1?"
+p654
+tp655
+Rp656
+tp657
+a(S'list of baltimore city public schools'
+p658
+g2
+(g6
+S'n!\xc9\xef\xdc \xc1?'
+p659
+tp660
+Rp661
+tp662
+a(S'israel sesay'
+p663
+g2
+(g6
+S'\xbe\x00\r6\xdb\x1f\xc1?'
+p664
+tp665
+Rp666
+tp667
+a(S'tumwater, washington'
+p668
+g2
+(g6
+S'\xb7\xcb\xa1\xc6\x8b\x1a\xc1?'
+p669
+tp670
+Rp671
+tp672
+a(S'dan hellie'
+p673
+g2
+(g6
+S'4>\xf4\xc9\xa6\x14\xc1?'
+p674
+tp675
+Rp676
+tp677
+a(S'parkton, north carolina'
+p678
+g2
+(g6
+S'\x9e\t\xd6\x98\x97\x14\xc1?'
+p679
+tp680
+Rp681
+tp682
+a(S'harold lang'
+p683
+g2
+(g6
+S'\x84?9[2\xd8\xc0?'
+p684
+tp685
+Rp686
+tp687
+a(S'orange county public schools'
+p688
+g2
+(g6
+S'FQ\x1f\x84\x14\xd8\xc0?'
+p689
+tp690
+Rp691
+tp692
+a(S'virginia beach city public schools'
+p693
+g2
+(g6
+S'\xa1y4&\x9e\xcb\xc0?'
+p694
+tp695
+Rp696
+tp697
+a(S'cokeville, wyoming'
+p698
+g2
+(g6
+S'"\xe6\x8cj\x05\xc5\xc0?'
+p699
+tp700
+Rp701
+tp702
+a(S'broward county public schools'
+p703
+g2
+(g6
+S'\xf9\x9dJo4\xb6\xc0?'
+p704
+tp705
+Rp706
+tp707
+a(S'waynetown, indiana'
+p708
+g2
+(g6
+S'HM,1\\\xb5\xc0?'
+p709
+tp710
+Rp711
+tp712
+a(S'list of wake county schools'
+p713
+g2
+(g6
+S'\x87\r#Io\xb1\xc0?'
+p714
+tp715
+Rp716
+tp717
+a(S'memphis city schools'
+p718
+g2
+(g6
+S'\n\xf5\x041\xd8\xaf\xc0?'
+p719
+tp720
+Rp721
+tp722
+a(S'san diego unified school district'
+p723
+g2
+(g6
+S'\xf77\xc4\x11\xdb\xa2\xc0?'
+p724
+tp725
+Rp726
+tp727
+a(S'williamson county schools'
+p728
+g2
+(g6
+S'\xf6\x10\x86\xbd\xa2\x9b\xc0?'
+p729
+tp730
+Rp731
+tp732
+a(S'novavax'
+p733
+g2
+(g6
+S'\x99\x14\xa7\x1c\x12\x9b\xc0?'
+p734
+tp735
+Rp736
+tp737
+a(S'columbus city schools'
+p738
+g2
+(g6
+S'Eb\x88\xa56\x96\xc0?'
+p739
+tp740
+Rp741
+tp742
+a(S'list of schools in georgia (u.s. state)'
+p743
+g2
+(g6
+S'\x92\x8bx\xf1\x80\x95\xc0?'
+p744
+tp745
+Rp746
+tp747
+a(S'school district of palm beach county'
+p748
+g2
+(g6
+S'j\x07\xa5|\x92\x94\xc0?'
+p749
+tp750
+Rp751
+tp752
+a(S'thomas allen (wisconsin politician)'
+p753
+g2
+(g6
+S'T[F\xd3\x80\x8b\xc0?'
+p754
+tp755
+Rp756
+tp757
+a(S'list of school districts in montana'
+p758
+g2
+(g6
+S'\xaf\x8dP\xd6A\x88\xc0?'
+p759
+tp760
+Rp761
+tp762
+a(S'henry county school district'
+p763
+g2
+(g6
+S'\xca\xa8\xbd\x9dqr\xc0?'
+p764
+tp765
+Rp766
+tp767
+a(S'prince william county public schools'
+p768
+g2
+(g6
+S'\xb4?&0\xc0o\xc0?'
+p769
+tp770
+Rp771
+tp772
+a(S'bradley county schools'
+p773
+g2
+(g6
+S'aFf\xde\xa8g\xc0?'
+p774
+tp775
+Rp776
+tp777
+a(S'sharonville, ohio'
+p778
+g2
+(g6
+S'\xb9\xf1&=N^\xc0?'
+p779
+tp780
+Rp781
+tp782
+a(S'henry county, georgia'
+p783
+g2
+(g6
+S'\xbdi\x9eC\x15\\\xc0?'
+p784
+tp785
+Rp786
+tp787
+a(S'rapid city area schools'
+p788
+g2
+(g6
+S'ncw>&Z\xc0?'
+p789
+tp790
+Rp791
+tp792
+a(S'lonsdale, minnesota'
+p793
+g2
+(g6
+S'\x84\x0b\xdeV8R\xc0?'
+p794
+tp795
+Rp796
+tp797
+a(S'list of schools in visalia, california'
+p798
+g2
+(g6
+S'\x9b|\xcb\t\xd8O\xc0?'
+p799
+tp800
+Rp801
+tp802
+a(S'fayette county public schools (kentucky)'
+p803
+g2
+(g6
+S'^\x80E\x8f\xb4L\xc0?'
+p804
+tp805
+Rp806
+tp807
+a(S'spokane public schools'
+p808
+g2
+(g6
+S'5\xcc\xb11\xef8\xc0?'
+p809
+tp810
+Rp811
+tp812
+a(S'daleville, indiana'
+p813
+g2
+(g6
+S'z\xd2f\xbaW6\xc0?'
+p814
+tp815
+Rp816
+tp817
+a(S'atlanta public schools'
+p818
+g2
+(g6
+S'\xa3\xc86,\xda2\xc0?'
+p819
+tp820
+Rp821
+tp822
+a(S'list of miami-dade county public schools'
+p823
+g2
+(g6
+S'|\xdf\x11AM1\xc0?'
+p824
+tp825
+Rp826
+tp827
+a(S'ballwin, missouri'
+p828
+g2
+(g6
+S'\xdf\x91%=-$\xc0?'
+p829
+tp830
+Rp831
+tp832
+a(S'manderson, wyoming'
+p833
+g2
+(g6
+S'\xeca<;\xbd#\xc0?'
+p834
+tp835
+Rp836
+tp837
+a(S'green bay area public school district'
+p838
+g2
+(g6
+S'\xa7\xb1\x98i\x03\x1e\xc0?'
+p839
+tp840
+Rp841
+tp842
+a(S'woodbranch, texas'
+p843
+g2
+(g6
+S'\x9c\xce\xa7x\x8c\x1c\xc0?'
+p844
+tp845
+Rp846
+tp847
+a(S'riverdale, georgia'
+p848
+g2
+(g6
+S'\xd0\xa65o\x7f\x1b\xc0?'
+p849
+tp850
+Rp851
+tp852
+a(S'stockton unified school district'
+p853
+g2
+(g6
+S'\x13>R\xf4\xb0\x18\xc0?'
+p854
+tp855
+Rp856
+tp857
+a(S'list of federal installations in maryland'
+p858
+g2
+(g6
+S'\x915\xd5\xe4\xb7\x15\xc0?'
+p859
+tp860
+Rp861
+tp862
+a(S'washington elementary school district'
+p863
+g2
+(g6
+S'\x9f\xefO\x8bJ\x12\xc0?'
+p864
+tp865
+Rp866
+tp867
+a(S'west lake hills, texas'
+p868
+g2
+(g6
+S'\xb5\xe8C+\x05\x0f\xc0?'
+p869
+tp870
+Rp871
+tp872
+a(S'list of oakland, california elementary schools'
+p873
+g2
+(g6
+S'\xd6\x1a\x10\xed8\r\xc0?'
+p874
+tp875
+Rp876
+tp877
+a(S'up the down staircase'
+p878
+g2
+(g6
+S'.\xef\xfa\x8e\x05\x0b\xc0?'
+p879
+tp880
+Rp881
+tp882
+a(S'list of schools in sejong city'
+p883
+g2
+(g6
+S'N\x8cy]\xab\t\xc0?'
+p884
+tp885
+Rp886
+tp887
+a(S'richland county school district one'
+p888
+g2
+(g6
+S'(\x95\x9d\xbc[\x07\xc0?'
+p889
+tp890
+Rp891
+tp892
+a(S'san francisco unified school district'
+p893
+g2
+(g6
+S'\xc2\x92\xf4I\x19\x02\xc0?'
+p894
+tp895
+Rp896
+tp897
+a(S'mount vernon, maine'
+p898
+g2
+(g6
+S'\x9f2\xfa~\xe1\x01\xc0?'
+p899
+tp900
+Rp901
+tp902
+a(S'winston-salem/forsyth county schools'
+p903
+g2
+(g6
+S'\xebH3\xad\x02\x01\xc0?'
+p904
+tp905
+Rp906
+tp907
+a(S'ontario-montclair school district'
+p908
+g2
+(g6
+S'\x94\x1b\xc6\xe7\xea\x00\xc0?'
+p909
+tp910
+Rp911
+tp912
+a(S'poolesville, maryland'
+p913
+g2
+(g6
+S'R\xa6\xb8\x8a\x98\xf2\xbf?'
+p914
+tp915
+Rp916
+tp917
+a(S'evergreen elementary school district'
+p918
+g2
+(g6
+S'\xa0\xd4\x1b\xc6\xfa\xee\xbf?'
+p919
+tp920
+Rp921
+tp922
+a(S'pasco county schools'
+p923
+g2
+(g6
+S'5\xe2\x1c~\x99\xee\xbf?'
+p924
+tp925
+Rp926
+tp927
+a(S'olpe, kansas'
+p928
+g2
+(g6
+S"d\x8d\x0e\xa9'\xed\xbf?"
+p929
+tp930
+Rp931
+tp932
+a(S'barnesville, maryland'
+p933
+g2
+(g6
+S'\xf4\xaaWN\x10\xec\xbf?'
+p934
+tp935
+Rp936
+tp937
+a(S'whiteland, indiana'
+p938
+g2
+(g6
+S'\xf7]\xcd\xa3\xd2\xe8\xbf?'
+p939
+tp940
+Rp941
+tp942
+a(S'bargersville, indiana'
+p943
+g2
+(g6
+S'\xdb\xab\x12j\xf1\xdc\xbf?'
+p944
+tp945
+Rp946
+tp947
+a(S'luiz r. s. simmons'
+p948
+g2
+(g6
+S'\x95\x1a\x89\xed\xd1\xd3\xbf?'
+p949
+tp950
+Rp951
+tp952
+a(S'mill creek, west virginia'
+p953
+g2
+(g6
+S'\xbeD<6\xb3\xd3\xbf?'
+p954
+tp955
+Rp956
+tp957
+a(S'east millinocket, maine'
+p958
+g2
+(g6
+S'\xd7C\xcd<\xe9\xd2\xbf?'
+p959
+tp960
+Rp961
+tp962
+a(S'summitville, indiana'
+p963
+g2
+(g6
+S'/\xceZh\x99\xcb\xbf?'
+p964
+tp965
+Rp966
+tp967
+a(S'fort wayne community schools'
+p968
+g2
+(g6
+S'\xd9-\x15\xa4(\xc8\xbf?'
+p969
+tp970
+Rp971
+tp972
+a(S'hamilton county schools'
+p973
+g2
+(g6
+S'\xf9\x17\xbf\xe2\xcc\xc5\xbf?'
+p974
+tp975
+Rp976
+tp977
+a(S'corpus christi independent school district'
+p978
+g2
+(g6
+S'\xb9\xc9\xb8"\xd7\xc2\xbf?'
+p979
+tp980
+Rp981
+tp982
+a(S'san juan unified school district'
+p983
+g2
+(g6
+S'<\x0b\x0f\xda[\xbc\xbf?'
+p984
+tp985
+Rp986
+tp987
+a(S'calverton, maryland'
+p988
+g2
+(g6
+S'\x95\xbc\x114\xc6\xb4\xbf?'
+p989
+tp990
+Rp991
+tp992
+a(S'lars brownworth'
+p993
+g2
+(g6
+S'\xc3\x8c+\xb5\x97\xa4\xbf?'
+p994
+tp995
+Rp996
+tp997
+a(S'list of los angeles unified school district schools'
+p998
+g2
+(g6
+S'\xe6\x92gib\x97\xbf?'
+p999
+tp1000
+Rp1001
+tp1002
+a(S'douglas county school district re-1'
+p1003
+g2
+(g6
+S'J\xa5\xb0\xe4`\x96\xbf?'
+p1004
+tp1005
+Rp1006
+tp1007
+a(S'reading, ohio'
+p1008
+g2
+(g6
+S'\xb7\x82%\xf0\r\x96\xbf?'
+p1009
+tp1010
+Rp1011
+tp1012
+a(S'neal potter'
+p1013
+g2
+(g6
+S'\xafi\xf4}\xd7\x95\xbf?'
+p1014
+tp1015
+Rp1016
+tp1017
+a(S'education in richmond, virginia'
+p1018
+g2
+(g6
+S'\x88\xb2\xe4\xf5\xa7\x95\xbf?'
+p1019
+tp1020
+Rp1021
+tp1022
+a(S'colorado springs school district 11'
+p1023
+g2
+(g6
+S'\xf7\x1c\\1I\x93\xbf?'
+p1024
+tp1025
+Rp1026
+tp1027
+a(S'masontown, west virginia'
+p1028
+g2
+(g6
+S'V\xf4w"x\x92\xbf?'
+p1029
+tp1030
+Rp1031
+tp1032
+a(S'east thermopolis, wyoming'
+p1033
+g2
+(g6
+S'\x19\xf3.<+\x90\xbf?'
+p1034
+tp1035
+Rp1036
+tp1037
+a(S'gwinnett county public schools'
+p1038
+g2
+(g6
+S'\nZ\xf2\x92\xba\x8e\xbf?'
+p1039
+tp1040
+Rp1041
+tp1042
+a(S'schererville, indiana'
+p1043
+g2
+(g6
+S'\x1b\xab\n\x08\xf6\x8c\xbf?'
+p1044
+tp1045
+Rp1046
+tp1047
+a(S'mount desert, maine'
+p1048
+g2
+(g6
+S'<5F\xbc\xf9\x88\xbf?'
+p1049
+tp1050
+Rp1051
+tp1052
+a(S'hurlock, maryland'
+p1053
+g2
+(g6
+S'_\xb3&\xe9\x95\x88\xbf?'
+p1054
+tp1055
+Rp1056
+tp1057
+a(S'anaheim elementary school district'
+p1058
+g2
+(g6
+S'9\xa5\xd2\xae\xd7\x81\xbf?'
+p1059
+tp1060
+Rp1061
+tp1062
+a(S'marydel, maryland'
+p1063
+g2
+(g6
+S'\x0c\xb0-\xa24u\xbf?'
+p1064
+tp1065
+Rp1066
+tp1067
+a(S'cecilton, maryland'
+p1068
+g2
+(g6
+S'|\xd6\xf1\xe6\xd0t\xbf?'
+p1069
+tp1070
+Rp1071
+tp1072
+a(S'thayne, wyoming'
+p1073
+g2
+(g6
+S'[\x1b\x02`\x16r\xbf?'
+p1074
+tp1075
+Rp1076
+tp1077
+a(S'austin independent school district'
+p1078
+g2
+(g6
+S'\x84{\x9aW\x13n\xbf?'
+p1079
+tp1080
+Rp1081
+tp1082
+a(S'middle river, maryland'
+p1083
+g2
+(g6
+S'\x84\xd5l\x91\x02m\xbf?'
+p1084
+tp1085
+Rp1086
+tp1087
+a(S'new whiteland, indiana'
+p1088
+g2
+(g6
+S'\x8fs\xda\xfd\xcfl\xbf?'
+p1089
+tp1090
+Rp1091
+tp1092
+a(S'manatee county school district'
+p1093
+g2
+(g6
+S'\xc6\xfe\x15+\x14l\xbf?'
+p1094
+tp1095
+Rp1096
+tp1097
+a(S'greybull, wyoming'
+p1098
+g2
+(g6
+S'\xc3$DJ\x8ek\xbf?'
+p1099
+tp1100
+Rp1101
+tp1102
+a(S'osseo area school district 279'
+p1103
+g2
+(g6
+S'Ws\x8b\xd0\x1ed\xbf?'
+p1104
+tp1105
+Rp1106
+tp1107
+a(S'reardan, washington'
+p1108
+g2
+(g6
+S'Z\x87\x90U\x17_\xbf?'
+p1109
+tp1110
+Rp1111
+tp1112
+a(S'federalsburg, maryland'
+p1113
+g2
+(g6
+S'\xc3\x16\xba\xa9\xfbZ\xbf?'
+p1114
+tp1115
+Rp1116
+tp1117
+a(S'fairfax county public schools'
+p1118
+g2
+(g6
+S'd\x0cR\xf61U\xbf?'
+p1119
+tp1120
+Rp1121
+tp1122
+a(S'kenduskeag, maine'
+p1123
+g2
+(g6
+S'R_\xef\xde\rR\xbf?'
+p1124
+tp1125
+Rp1126
+tp1127
+a(S'brownsville independent school district'
+p1128
+g2
+(g6
+S'$\xfe6\xa8\xb7P\xbf?'
+p1129
+tp1130
+Rp1131
+tp1132
+a(S'list of detroit public schools schools'
+p1133
+g2
+(g6
+S'<\xc4\xaeM\xa7O\xbf?'
+p1134
+tp1135
+Rp1136
+tp1137
+a(S'raytown c-2 school district'
+p1138
+g2
+(g6
+S'!\xce[\x93\x10O\xbf?'
+p1139
+tp1140
+Rp1141
+tp1142
+a(S'perry, michigan'
+p1143
+g2
+(g6
+S'\x9c\xca\xc7\xbb\xe7N\xbf?'
+p1144
+tp1145
+Rp1146
+tp1147
+a(S'montgomery, ohio'
+p1148
+g2
+(g6
+S'\xc9c\xeb\x7f\xb6<\xbf?'
+p1149
+tp1150
+Rp1151
+tp1152
+a(S'clear spring, maryland'
+p1153
+g2
+(g6
+S'\xc0\xbey\xbb!7\xbf?'
+p1154
+tp1155
+Rp1156
+tp1157
+a(S'anmoore, west virginia'
+p1158
+g2
+(g6
+S'\x0bP\xa6\xacW4\xbf?'
+p1159
+tp1160
+Rp1161
+tp1162
+a(S'secretary, maryland'
+p1163
+g2
+(g6
+S'\x9f\xcc\x87[\x110\xbf?'
+p1164
+tp1165
+Rp1166
+tp1167
+a(S'monroe, georgia'
+p1168
+g2
+(g6
+S'\xbe\xee\xd8\rR/\xbf?'
+p1169
+tp1170
+Rp1171
+tp1172
+a(S'list of long island public school districts and schools'
+p1173
+g2
+(g6
+S'\xb7\xf8\x91b\x8e,\xbf?'
+p1174
+tp1175
+Rp1176
+tp1177
+a(S'garden grove unified school district'
+p1178
+g2
+(g6
+S'\xd4\x17\xa5cJ,\xbf?'
+p1179
+tp1180
+Rp1181
+tp1182
+a(S'waxhaw, north carolina'
+p1183
+g2
+(g6
+S'R\xbb\xef\xba\x02,\xbf?'
+p1184
+tp1185
+Rp1186
+tp1187
+a(S'willards, maryland'
+p1188
+g2
+(g6
+S'KP\x18Y\xfa"\xbf?'
+p1189
+tp1190
+Rp1191
+tp1192
+a(S'multi autonomous ground-robotic international challenge'
+p1193
+g2
+(g6
+S'"a\x82\x15v \xbf?'
+p1194
+tp1195
+Rp1196
+tp1197
+a(S'latah, washington'
+p1198
+g2
+(g6
+S'\xe8\xb1\xda\xc9\xd1\x1f\xbf?'
+p1199
+tp1200
+Rp1201
+tp1202
+a(S'richmond county school system'
+p1203
+g2
+(g6
+S'\x00`\xe2\xf58\x1d\xbf?'
+p1204
+tp1205
+Rp1206
+tp1207
+a(S'whitneyville, maine'
+p1208
+g2
+(g6
+S'\xc0\xc8\x99\xfc\x06\x1d\xbf?'
+p1209
+tp1210
+Rp1211
+tp1212
+a(S'list of examples of new urbanism'
+p1213
+g2
+(g6
+S'\xe2\xcfgS\xd8\x1c\xbf?'
+p1214
+tp1215
+Rp1216
+tp1217
+a(S'haysville, kansas'
+p1218
+g2
+(g6
+S'\x9b\xc2\xf8?\xa5\x1c\xbf?'
+p1219
+tp1220
+Rp1221
+tp1222
+a(S'princeton, maine'
+p1223
+g2
+(g6
+S'\xd1\x03l\xa9|\x1b\xbf?'
+p1224
+tp1225
+Rp1226
+tp1227
+a(S'sharptown, maryland'
+p1228
+g2
+(g6
+S'\x08I\x144\x06\x15\xbf?'
+p1229
+tp1230
+Rp1231
+tp1232
+a(S'swayzee, indiana'
+p1233
+g2
+(g6
+S'\xce\xfb\x86O\xe5\x14\xbf?'
+p1234
+tp1235
+Rp1236
+tp1237
+a(S'jonesboro, maine'
+p1238
+g2
+(g6
+S'\x18\x9d\xfdc}\x12\xbf?'
+p1239
+tp1240
+Rp1241
+tp1242
+a(S'coopersville, michigan'
+p1243
+g2
+(g6
+S'\xe7)4@\x06\x10\xbf?'
+p1244
+tp1245
+Rp1246
+tp1247
+a(S'frankton, indiana'
+p1248
+g2
+(g6
+S'\xdb\x1e\xb5\xc7\xc1\x07\xbf?'
+p1249
+tp1250
+Rp1251
+tp1252
+a(S'myersville, maryland'
+p1253
+g2
+(g6
+S'A\xd3(\xc7\xac\x06\xbf?'
+p1254
+tp1255
+Rp1256
+tp1257
+a(S'littleton, maine'
+p1258
+g2
+(g6
+S"'yf\x82\xad\x05\xbf?"
+p1259
+tp1260
+Rp1261
+tp1262
+a(S'lonaconing, maryland'
+p1263
+g2
+(g6
+S'\x85`H\xe2|\x01\xbf?'
+p1264
+tp1265
+Rp1266
+tp1267
+a(S'fontana unified school district'
+p1268
+g2
+(g6
+S';\x92\xe7n6\x01\xbf?'
+p1269
+tp1270
+Rp1271
+tp1272
+a(S'24th national geographic bee'
+p1273
+g2
+(g6
+S'xE\x8095\x00\xbf?'
+p1274
+tp1275
+Rp1276
+tp1277
+a(S'wjok'
+p1278
+g2
+(g6
+S'\xf0\xf5\xae\xc0U\xff\xbe?'
+p1279
+tp1280
+Rp1281
+tp1282
+a(S'public schools in louisville, kentucky'
+p1283
+g2
+(g6
+S'R\xf6I\x9b\x9d\xfe\xbe?'
+p1284
+tp1285
+Rp1286
+tp1287
+a(S'modesto city schools'
+p1288
+g2
+(g6
+S'VB\xfc\xfec\xfd\xbe?'
+p1289
+tp1290
+Rp1291
+tp1292
+a(S'spring grove, indiana'
+p1293
+g2
+(g6
+S'0\xd9\xcbi\x95\xfb\xbe?'
+p1294
+tp1295
+Rp1296
+tp1297
+a(S'mukwonago, wisconsin'
+p1298
+g2
+(g6
+S'\x91\xa2L\xb8w\xfb\xbe?'
+p1299
+tp1300
+Rp1301
+tp1302
+a(S'escondido union school district'
+p1303
+g2
+(g6
+S'\xf8\x9f\xcb\xcd\x10\xfb\xbe?'
+p1304
+tp1305
+Rp1306
+tp1307
+a(S'mattawa, washington'
+p1308
+g2
+(g6
+S'* \x8aY\xb6\xf7\xbe?'
+p1309
+tp1310
+Rp1311
+tp1312
+a(S'carroll county public schools (maryland)'
+p1313
+g2
+(g6
+S'\x05\x07W\x84\xdd\xf6\xbe?'
+p1314
+tp1315
+Rp1316
+tp1317
+a(S'bucoda, washington'
+p1318
+g2
+(g6
+S'\xd9w\x10\x90\xc6\xf4\xbe?'
+p1319
+tp1320
+Rp1321
+tp1322
+a(S'laurel station (marc)'
+p1323
+g2
+(g6
+S'uG\xd1\x1b\x93\xf3\xbe?'
+p1324
+tp1325
+Rp1326
+tp1327
+a(S'pittsville, maryland'
+p1328
+g2
+(g6
+S'\xb9 \xd1\xd8\xc9\xf0\xbe?'
+p1329
+tp1330
+Rp1331
+tp1332
+a(S'aruna miller'
+p1333
+g2
+(g6
+S'\x9e\xcdt\xc9\x90\xf0\xbe?'
+p1334
+tp1335
+Rp1336
+tp1337
+a(S'ventura unified school district'
+p1338
+g2
+(g6
+S'\x9b\xcdOmb\xf0\xbe?'
+p1339
+tp1340
+Rp1341
+tp1342
+a(S'chula vista elementary school district'
+p1343
+g2
+(g6
+S'\xbc\xa0\x8f\xa5\x00\xf0\xbe?'
+p1344
+tp1345
+Rp1346
+tp1347
+a(S'mclouth, kansas'
+p1348
+g2
+(g6
+S'u\x9d\xf6\xeeS\xeb\xbe?'
+p1349
+tp1350
+Rp1351
+tp1352
+a(S'lanesville, indiana'
+p1353
+g2
+(g6
+S'S>H\xa6\xb2\xe9\xbe?'
+p1354
+tp1355
+Rp1356
+tp1357
+a(S'guilford county schools'
+p1358
+g2
+(g6
+S'9\xb9LAZ\xe6\xbe?'
+p1359
+tp1360
+Rp1361
+tp1362
+a(S'vanceboro, north carolina'
+p1363
+g2
+(g6
+S'\xd7=u\xf9\xe9\xe5\xbe?'
+p1364
+tp1365
+Rp1366
+tp1367
+a(S'school district of lee county (florida)'
+p1368
+g2
+(g6
+S'\x8d\xf16s#\xe4\xbe?'
+p1369
+tp1370
+Rp1371
+tp1372
+a(S'norman public schools'
+p1373
+g2
+(g6
+S'\xc6\xa5c\xe35\xe2\xbe?'
+p1374
+tp1375
+Rp1376
+tp1377
+a(S'anawalt, west virginia'
+p1378
+g2
+(g6
+S"\x98\xec:A'\xe1\xbe?"
+p1379
+tp1380
+Rp1381
+tp1382
+a(S'penn harris madison schools'
+p1383
+g2
+(g6
+S'\xf8\x16\xd5q \xe0\xbe?'
+p1384
+tp1385
+Rp1386
+tp1387
+a(S'smithfield, maine'
+p1388
+g2
+(g6
+S'\xa8\x92-\xb5|\xdd\xbe?'
+p1389
+tp1390
+Rp1391
+tp1392
+a(S'cherokee county school district (georgia)'
+p1393
+g2
+(g6
+S'D_I\xca2\xdd\xbe?'
+p1394
+tp1395
+Rp1396
+tp1397
+a(S'blythewood, south carolina'
+p1398
+g2
+(g6
+S'\xbd4%y\xaa\xdc\xbe?'
+p1399
+tp1400
+Rp1401
+tp1402
+a(S'mountain lake park, maryland'
+p1403
+g2
+(g6
+S'\xd0D\xbd\xbfM\xdc\xbe?'
+p1404
+tp1405
+Rp1406
+tp1407
+a(S'jefferson county schools (alabama)'
+p1408
+g2
+(g6
+S'_\xbe\xa0\x1a\xe4\xd9\xbe?'
+p1409
+tp1410
+Rp1411
+tp1412
+a(S'joe hin tjio'
+p1413
+g2
+(g6
+S'\x0b0\xc0\xe2\xa3\xd8\xbe?'
+p1414
+tp1415
+Rp1416
+tp1417
+a(S'chrisney, indiana'
+p1418
+g2
+(g6
+S'\x16,\x8a\x0c1\xd5\xbe?'
+p1419
+tp1420
+Rp1421
+tp1422
+a(S"2011\xe2\x80\x9312 american eagles men's basketball team"
+p1423
+g2
+(g6
+S'\xe8u\x05\xa1g\xd4\xbe?'
+p1424
+tp1425
+Rp1426
+tp1427
+a(S'wanatah, indiana'
+p1428
+g2
+(g6
+S'\xe5\xc0\xa6o6\xd3\xbe?'
+p1429
+tp1430
+Rp1431
+tp1432
+a(S'chapmanville, west virginia'
+p1433
+g2
+(g6
+S'\xfa\x94Q\xb3H\xd2\xbe?'
+p1434
+tp1435
+Rp1436
+tp1437
+a(S'north shore school district 112'
+p1438
+g2
+(g6
+S'\x90\xfa\xaan\xf6\xcf\xbe?'
+p1439
+tp1440
+Rp1441
+tp1442
+a(S'galestown, maryland'
+p1443
+g2
+(g6
+S'\xeb\xbf\xbb\x98\xc5\xc9\xbe?'
+p1444
+tp1445
+Rp1446
+tp1447
+a(S'leonardtown, maryland'
+p1448
+g2
+(g6
+S'\xd2w\x04\x98\x90\xc9\xbe?'
+p1449
+tp1450
+Rp1451
+tp1452
+a(S'columbia public schools'
+p1453
+g2
+(g6
+S'CM\x1b\xac\xa2\xc6\xbe?'
+p1454
+tp1455
+Rp1456
+tp1457
+a(S'washington, maine'
+p1458
+g2
+(g6
+S'\x85*7F\x1d\xc4\xbe?'
+p1459
+tp1460
+Rp1461
+tp1462
+a(S'walkersville, maryland'
+p1463
+g2
+(g6
+S'a>0|\x01\xc2\xbe?'
+p1464
+tp1465
+Rp1466
+tp1467
+a(S'volusia county schools'
+p1468
+g2
+(g6
+S'\xad\x90\xc4#\x85\xbe\xbe?'
+p1469
+tp1470
+Rp1471
+tp1472
+a(S'marshfield, maine'
+p1473
+g2
+(g6
+S'\x8a\xb4\x81+S\xbc\xbe?'
+p1474
+tp1475
+Rp1476
+tp1477
+a(S'yacolt, washington'
+p1478
+g2
+(g6
+S'\xaa\xf9\n/\xce\xbb\xbe?'
+p1479
+tp1480
+Rp1481
+tp1482
+a(S'rolling hills, wyoming'
+p1483
+g2
+(g6
+S'\xb8^\xc0\x89E\xba\xbe?'
+p1484
+tp1485
+Rp1486
+tp1487
+a(S'oakesdale, washington'
+p1488
+g2
+(g6
+S'a\xe13\x98<\xb9\xbe?'
+p1489
+tp1490
+Rp1491
+tp1492
+a(S'hospers, iowa'
+p1493
+g2
+(g6
+S'\xffd\r\xe4X\xb6\xbe?'
+p1494
+tp1495
+Rp1496
+tp1497
+a(S'mcallen independent school district'
+p1498
+g2
+(g6
+S'Aeh\xf5K\xb4\xbe?'
+p1499
+tp1500
+Rp1501
+tp1502
+a(S'hebron, maryland'
+p1503
+g2
+(g6
+S'\xed\x8aN\xba\xbf\xb2\xbe?'
+p1504
+tp1505
+Rp1506
+tp1507
+a(S'watkins mill high school'
+p1508
+g2
+(g6
+S'\x0f\x84\x93\x00\x9b\xb1\xbe?'
+p1509
+tp1510
+Rp1511
+tp1512
+a.

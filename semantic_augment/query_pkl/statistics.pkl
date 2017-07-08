@@ -1,0 +1,2728 @@
+(lp0
+(S'statistics'
+p1
+cnumpy.core.multiarray
+scalar
+p2
+(cnumpy
+dtype
+p3
+(S'f8'
+p4
+I0
+I1
+tp5
+Rp6
+(I3
+S'<'
+p7
+NNNI-1
+I-1
+I0
+tp8
+bS'\x02\x00\x00\x00\x00\x00\xf0?'
+p9
+tp10
+Rp11
+tp12
+a(S'misuse of statistics'
+p13
+g2
+(g6
+S'I4\x08C)\x17\xe4?'
+p14
+tp15
+Rp16
+tp17
+a(S'statistical hypothesis testing'
+p18
+g2
+(g6
+S'\xf8e\x9d\xb6\x87j\xe3?'
+p19
+tp20
+Rp21
+tp22
+a(S'outline of statistics'
+p23
+g2
+(g6
+S'\xe0\r(\x08O\xe3\xe2?'
+p24
+tp25
+Rp26
+tp27
+a(S'mathematical statistics'
+p28
+g2
+(g6
+S'\x8b\x9e/p\xa6\x94\xe2?'
+p29
+tp30
+Rp31
+tp32
+a(S'statistical theory'
+p33
+g2
+(g6
+S'\x13\x10i\xf5\x12C\xe2?'
+p34
+tp35
+Rp36
+tp37
+a(S'history of statistics'
+p38
+g2
+(g6
+S'l\xdd[\xacW\xf6\xe1?'
+p39
+tp40
+Rp41
+tp42
+a(S'data dredging'
+p43
+g2
+(g6
+S'\x12\x82\x01b\xcd\xbf\xe1?'
+p44
+tp45
+Rp46
+tp47
+a(S'statistics education'
+p48
+g2
+(g6
+S'\xb4q\xc1\xac\x1e\x12\xe1?'
+p49
+tp50
+Rp51
+tp52
+a(S'p-value'
+p53
+g2
+(g6
+S'\xdd\x05\x05\x17\xb9\x11\xe1?'
+p54
+tp55
+Rp56
+tp57
+a(S'statistical power'
+p58
+g2
+(g6
+S'\xf9i\xee\x90\x1e\xf6\xe0?'
+p59
+tp60
+Rp61
+tp62
+a(S'foundations of statistics'
+p63
+g2
+(g6
+S'\xbf\x13\xa0\xb2\xf3\xb9\xe0?'
+p64
+tp65
+Rp66
+tp67
+a(S'null hypothesis'
+p68
+g2
+(g6
+S'_\xa5\xc5\xdc\x15\x9c\xe0?'
+p69
+tp70
+Rp71
+tp72
+a(S'misunderstandings of p-values'
+p73
+g2
+(g6
+S'L\x18\x1d\xc3\xc1\xd3\xdf?'
+p74
+tp75
+Rp76
+tp77
+a(S'statistical significance'
+p78
+g2
+(g6
+S'\xf5\xcb0\xdb5Q\xdf?'
+p79
+tp80
+Rp81
+tp82
+a(S'analysis of variance'
+p83
+g2
+(g6
+S'\xe2\xfd\x92\xf9\x97\xe1\xde?'
+p84
+tp85
+Rp86
+tp87
+a(S'official statistics'
+p88
+g2
+(g6
+S'\xb6\xf6N8\xdf\x91\xde?'
+p89
+tp90
+Rp91
+tp92
+a(S'list of statistics articles'
+p93
+g2
+(g6
+S'\xdd5\nk[\\\xde?'
+p94
+tp95
+Rp96
+tp97
+a(S'order statistic'
+p98
+g2
+(g6
+S'\x94\x10%j\xf8\x07\xde?'
+p99
+tp100
+Rp101
+tp102
+a(S'counternull'
+p103
+g2
+(g6
+S'\x146\x92<\xd0\xed\xdd?'
+p104
+tp105
+Rp106
+tp107
+a(S'u-statistic'
+p108
+g2
+(g6
+S'NE\x80L\xf9\xbf\xdd?'
+p109
+tp110
+Rp111
+tp112
+a(S'statistical proof'
+p113
+g2
+(g6
+S'\xbd,V\x1c\xa7\xeb\xdc?'
+p114
+tp115
+Rp116
+tp117
+a(S'statistical inference'
+p118
+g2
+(g6
+S'\x88v|\xfc:\xd3\xdc?'
+p119
+tp120
+Rp121
+tp122
+a(S'type i and type ii errors'
+p123
+g2
+(g6
+S'\x95\x00\xfcj\xd1\xc9\xdc?'
+p124
+tp125
+Rp126
+tp127
+a(S'data analysis'
+p128
+g2
+(g6
+S'\xce\x9e`\xf2U\x95\xdc?'
+p129
+tp130
+Rp131
+tp132
+a(S'comparison of statistics journals'
+p133
+g2
+(g6
+S'\xca\x82\xb5\xeb$\x89\xdc?'
+p134
+tp135
+Rp136
+tp137
+a(S'list of important publications in statistics'
+p138
+g2
+(g6
+S'o\xaf\xc5\xeb\x7fn\xdc?'
+p139
+tp140
+Rp141
+tp142
+a(S'estimation statistics'
+p143
+g2
+(g6
+S'\x0e\xc1\xe1\xbd\xeeU\xdc?'
+p144
+tp145
+Rp146
+tp147
+a(S'lists of statistics topics'
+p148
+g2
+(g6
+S'\xb2\x8e\xcb\xa0c?\xdc?'
+p149
+tp150
+Rp151
+tp152
+a(S'studentized range'
+p153
+g2
+(g6
+S'-@\xaa\xdc<\x13\xdc?'
+p154
+tp155
+Rp156
+tp157
+a(S'list of fields of application of statistics'
+p158
+g2
+(g6
+S'\x1c\xe2\x91\xe8!\xfe\xdb?'
+p159
+tp160
+Rp161
+tp162
+a(S'founders of statistics'
+p163
+g2
+(g6
+S'go\x06\xa72\xe1\xdb?'
+p164
+tp165
+Rp166
+tp167
+a(S'multinomial test'
+p168
+g2
+(g6
+S'S\xf8\xba\xa3#\xa6\xdb?'
+p169
+tp170
+Rp171
+tp172
+a(S'statistical literacy'
+p173
+g2
+(g6
+S']\xd0\x05\x823\x9c\xdb?'
+p174
+tp175
+Rp176
+tp177
+a(S'statistical conclusion validity'
+p178
+g2
+(g6
+S'\x87\x89\xbd\x89\xb1\x9b\xdb?'
+p179
+tp180
+Rp181
+tp182
+a(S'testing hypotheses suggested by the data'
+p183
+g2
+(g6
+S'\x9ak\x93{tH\xdb?'
+p184
+tp185
+Rp186
+tp187
+a(S'test statistic'
+p188
+g2
+(g6
+S'\x91\x7f\xf5\x01\x87\x18\xdb?'
+p189
+tp190
+Rp191
+tp192
+a(S'business statistics'
+p193
+g2
+(g6
+S'\xce&A\x04\x9d\xeb\xda?'
+p194
+tp195
+Rp196
+tp197
+a(S'heteroscedasticity'
+p198
+g2
+(g6
+S'`C\x0eI\xd7\xb3\xda?'
+p199
+tp200
+Rp201
+tp202
+a(S'national statistical institute (bulgaria)'
+p203
+g2
+(g6
+S'=\xb50* \xa4\xda?'
+p204
+tp205
+Rp206
+tp207
+a(S'philosophy of statistics'
+p208
+g2
+(g6
+S'\x7f\xa3\xf1cAt\xda?'
+p209
+tp210
+Rp211
+tp212
+a(S'statistical data type'
+p213
+g2
+(g6
+S'V\xb6\xf6\x84\xfcW\xda?'
+p214
+tp215
+Rp216
+tp217
+a(S'probability of error'
+p218
+g2
+(g6
+S'\xff\xf0\xaf"0\x1f\xda?'
+p219
+tp220
+Rp221
+tp222
+a(S'list of academic statistical associations'
+p223
+g2
+(g6
+S'\x08\xf6<\x91\\\xf9\xd9?'
+p224
+tp225
+Rp226
+tp227
+a(S'algorithmic inference'
+p228
+g2
+(g6
+S'\xbe\x8d\xb2\xf1\x8c\xf6\xd9?'
+p229
+tp230
+Rp231
+tp232
+a(S'exploratory data analysis'
+p233
+g2
+(g6
+S'\xceW7\xc8\xfd\xd8\xd9?'
+p234
+tp235
+Rp236
+tp237
+a(S'probability and statistics'
+p238
+g2
+(g6
+S'%\x16\x8eO\x01\xc8\xd9?'
+p239
+tp240
+Rp241
+tp242
+a(S'data point'
+p243
+g2
+(g6
+S'\xc8\xad:\x8fP\xa1\xd9?'
+p244
+tp245
+Rp246
+tp247
+a(S'statistics new zealand'
+p248
+g2
+(g6
+S'\xf2q\xfd \x9b\x98\xd9?'
+p249
+tp250
+Rp251
+tp252
+a(S'size (statistics)'
+p253
+g2
+(g6
+S'\xe4\x94\xbb\x94\x10\x98\xd9?'
+p254
+tp255
+Rp256
+tp257
+a(S'statistic'
+p258
+g2
+(g6
+S'e\xe6\x8e\x9d\xdb\x90\xd9?'
+p259
+tp260
+Rp261
+tp262
+a(S'z-test'
+p263
+g2
+(g6
+S'\xe8\xf4\xcb5\xc1\x90\xd9?'
+p264
+tp265
+Rp266
+tp267
+a(S'descriptive statistics'
+p268
+g2
+(g6
+S'e\xd5\xf1\xd4\xc3}\xd9?'
+p269
+tp270
+Rp271
+tp272
+a(S'statistical model'
+p273
+g2
+(g6
+S'\x17\xf1\x8a\xd4\xd6[\xd9?'
+p274
+tp275
+Rp276
+tp277
+a(S"fisher's method"
+p278
+g2
+(g6
+S'\x0e\xb0=\xc6\xbc[\xd9?'
+p279
+tp280
+Rp281
+tp282
+a(S'statistical stability'
+p283
+g2
+(g6
+S'\xf03\x81\x95\x92B\xd9?'
+p284
+tp285
+Rp286
+tp287
+a(S'data set'
+p288
+g2
+(g6
+S'\xbaT\xca\xe3G;\xd9?'
+p289
+tp290
+Rp291
+tp292
+a(S'data transformation (statistics)'
+p293
+g2
+(g6
+S'\xfa\xfb\xe7\x92}:\xd9?'
+p294
+tp295
+Rp296
+tp297
+a(S'hungarian central statistical office'
+p298
+g2
+(g6
+S'\\Ad\xf2}2\xd9?'
+p299
+tp300
+Rp301
+tp302
+a(S'institute of mathematical statistics'
+p303
+g2
+(g6
+S'\xc6-\x88X\xc9*\xd9?'
+p304
+tp305
+Rp306
+tp307
+a(S'sample size determination'
+p308
+g2
+(g6
+S'\x19P\x93\xaa\x8c"\xd9?'
+p309
+tp310
+Rp311
+tp312
+a(S'resampling (statistics)'
+p313
+g2
+(g6
+S';\xbd\xdf_\x95\t\xd9?'
+p314
+tp315
+Rp316
+tp317
+a(S'the design of experiments'
+p318
+g2
+(g6
+S'\xd4\xf7k\x9fa\x08\xd9?'
+p319
+tp320
+Rp321
+tp322
+a(S'journal of statistics education'
+p323
+g2
+(g6
+S'\x00f\x1f\x87\xfe\xe9\xd8?'
+p324
+tp325
+Rp326
+tp327
+a(S'economic data'
+p328
+g2
+(g6
+S'$\xcc\x05\xd9}\xd3\xd8?'
+p329
+tp330
+Rp331
+tp332
+a(S'list of statistics journals'
+p333
+g2
+(g6
+S'\xd7}\xa7\x81A\xba\xd8?'
+p334
+tp335
+Rp336
+tp337
+a(S'multiple comparisons problem'
+p338
+g2
+(g6
+S'2\xad>\xa8x\xae\xd8?'
+p339
+tp340
+Rp341
+tp342
+a(S'quantitative marketing research'
+p343
+g2
+(g6
+S'I\xd3NG\x05\xa9\xd8?'
+p344
+tp345
+Rp346
+tp347
+a(S'alternative hypothesis'
+p348
+g2
+(g6
+S'\xe9\xe3ah0\xa2\xd8?'
+p349
+tp350
+Rp351
+tp352
+a(S'population proportion'
+p353
+g2
+(g6
+S'\xd7\xea\xf9\xe3\xc8\x9f\xd8?'
+p354
+tp355
+Rp356
+tp357
+a(S'confidence interval'
+p358
+g2
+(g6
+S'1\x86\xea\xccK\x98\xd8?'
+p359
+tp360
+Rp361
+tp362
+a(S"student's t-test"
+p363
+g2
+(g6
+S'\xe9\xa3P6\xc2\x8b\xd8?'
+p364
+tp365
+Rp366
+tp367
+a(S'gauss moutinho cordeiro'
+p368
+g2
+(g6
+S'Q\xcdv\xb1j\x83\xd8?'
+p369
+tp370
+Rp371
+tp372
+a(S'design of experiments'
+p373
+g2
+(g6
+S'J\x18"\x98\x8ds\xd8?'
+p374
+tp375
+Rp376
+tp377
+a(S'f-test'
+p378
+g2
+(g6
+S'9X\xcb\xc0\x08U\xd8?'
+p379
+tp380
+Rp381
+tp382
+a(S'history of probability'
+p383
+g2
+(g6
+S'\xea\xe1\x9a\x0e\xa3(\xd8?'
+p384
+tp385
+Rp386
+tp387
+a(S'computational statistics'
+p388
+g2
+(g6
+S'\xb1\xdd\x03\x96R\x07\xd8?'
+p389
+tp390
+Rp391
+tp392
+a(S'list of unsolved problems in statistics'
+p393
+g2
+(g6
+S'r6\x03=\x19\x06\xd8?'
+p394
+tp395
+Rp396
+tp397
+a(S'missing data'
+p398
+g2
+(g6
+S'7t:ts\xd4\xd7?'
+p399
+tp400
+Rp401
+tp402
+a(S'list of statistical packages'
+p403
+g2
+(g6
+S'\x12M\xca\x03\x11\xd2\xd7?'
+p404
+tp405
+Rp406
+tp407
+a(S'fiducial inference'
+p408
+g2
+(g6
+S'A\xc1E\xb2\xa5\xbc\xd7?'
+p409
+tp410
+Rp411
+tp412
+a(S'time series'
+p413
+g2
+(g6
+S'\n\x1c8\x0bb\xb8\xd7?'
+p414
+tp415
+Rp416
+tp417
+a(S'general statistics office of vietnam'
+p418
+g2
+(g6
+S"'9\xd5\xf9\xf5\xb0\xd7?"
+p419
+tp420
+Rp421
+tp422
+a(S'high-dimensional statistics'
+p423
+g2
+(g6
+S'\xd2\x9c\xc4d\xb7\xa7\xd7?'
+p424
+tp425
+Rp426
+tp427
+a(S'sample (statistics)'
+p428
+g2
+(g6
+S'M\xe9\xd0a\x90\x87\xd7?'
+p429
+tp430
+Rp431
+tp432
+a(S'morris h. degroot'
+p433
+g2
+(g6
+S'\xf9;\x88\xf3R\x85\xd7?'
+p434
+tp435
+Rp436
+tp437
+a(S"fisher's exact test"
+p438
+g2
+(g6
+S'\xd5\xb0\x96\xc8;\x81\xd7?'
+p439
+tp440
+Rp441
+tp442
+a(S'data science'
+p443
+g2
+(g6
+S'\xbe\xb7^\xa5\xc4h\xd7?'
+p444
+tp445
+Rp446
+tp447
+a(S'lagos bureau of statistics'
+p448
+g2
+(g6
+S'\xdaZ\x86I\x1eg\xd7?'
+p449
+tp450
+Rp451
+tp452
+a(S'energy distance'
+p453
+g2
+(g6
+S'\xc7R\xd5\x1cHc\xd7?'
+p454
+tp455
+Rp456
+tp457
+a(S'social statistics'
+p458
+g2
+(g6
+S'{C\xb6\x96|Z\xd7?'
+p459
+tp460
+Rp461
+tp462
+a(S'tim holt (statistician)'
+p463
+g2
+(g6
+S'\xd2+9GYO\xd7?'
+p464
+tp465
+Rp466
+tp467
+a(S'engineering statistics'
+p468
+g2
+(g6
+S'/\x03\xb93\xcdL\xd7?'
+p469
+tp470
+Rp471
+tp472
+a(S'critical value'
+p473
+g2
+(g6
+S'\xe8\xae\xd7ItB\xd7?'
+p474
+tp475
+Rp476
+tp477
+a(S'sampling distribution'
+p478
+g2
+(g6
+S'\xe31\xc8=\xc0?\xd7?'
+p479
+tp480
+Rp481
+tp482
+a(S'quantile'
+p483
+g2
+(g6
+S'\x06\x00\x04\xedW\x16\xd7?'
+p484
+tp485
+Rp486
+tp487
+a(S'computational statistics & data analysis'
+p488
+g2
+(g6
+S'\x86u\xf7Y\x8d\x05\xd7?'
+p489
+tp490
+Rp491
+tp492
+a(S'hypothesis'
+p493
+g2
+(g6
+S'l\xf5\x14\x12\xb6\xec\xd6?'
+p494
+tp495
+Rp496
+tp497
+a(S'cls method (particle physics)'
+p498
+g2
+(g6
+S's\x9az\xc6L\xe3\xd6?'
+p499
+tp500
+Rp501
+tp502
+a(S'statistical unit'
+p503
+g2
+(g6
+S'fNI\x1fz\xd2\xd6?'
+p504
+tp505
+Rp506
+tp507
+a(S'survey sampling'
+p508
+g2
+(g6
+S'\x02\x0fP\xc3=\xcd\xd6?'
+p509
+tp510
+Rp511
+tp512
+a(S'univariate analysis'
+p513
+g2
+(g6
+S'\xaa\xd9\xf3x\xcd\xb6\xd6?'
+p514
+tp515
+Rp516
+tp517
+a(S'notation in probability and statistics'
+p518
+g2
+(g6
+S'\xf2M\xf5\xc2\x97\xb6\xd6?'
+p519
+tp520
+Rp521
+tp522
+a(S'ramanathan gnanadesikan'
+p523
+g2
+(g6
+S'\x04(\xc1\x0eV\x9f\xd6?'
+p524
+tp525
+Rp526
+tp527
+a(S'spurious relationship'
+p528
+g2
+(g6
+S'\xc1\x1b<\x17T\x8e\xd6?'
+p529
+tp530
+Rp531
+tp532
+a(S'frequentist probability'
+p533
+g2
+(g6
+S'\x0c\xd2\x0f\x8a\xa0z\xd6?'
+p534
+tp535
+Rp536
+tp537
+a(S"galton's problem"
+p538
+g2
+(g6
+S'\xcb_\xf8l%k\xd6?'
+p539
+tp540
+Rp541
+tp542
+a(S'qualitative comparative analysis'
+p543
+g2
+(g6
+S'\xca]R\xf5\x12a\xd6?'
+p544
+tp545
+Rp546
+tp547
+a(S't-statistic'
+p548
+g2
+(g6
+S'\xa2o[+4[\xd6?'
+p549
+tp550
+Rp551
+tp552
+a(S'statistical methods for research workers'
+p553
+g2
+(g6
+S'\x1dr\xc4\xb9qO\xd6?'
+p554
+tp555
+Rp556
+tp557
+a(S'list of national and international statistical services'
+p558
+g2
+(g6
+S' \xdaS\xe8\xe2N\xd6?'
+p559
+tp560
+Rp561
+tp562
+a(S"pearson's chi-squared test"
+p563
+g2
+(g6
+S'\xbe\xbb\x9e\xf4\tM\xd6?'
+p564
+tp565
+Rp566
+tp567
+a(S'kriging'
+p568
+g2
+(g6
+S'\xa5\xc6\xb6O\xf2H\xd6?'
+p569
+tp570
+Rp571
+tp572
+a(S'neyman construction'
+p573
+g2
+(g6
+S'\x9b\xeawA5A\xd6?'
+p574
+tp575
+Rp576
+tp577
+a(S'prediction interval'
+p578
+g2
+(g6
+S'J\x14\xb3)\x1a;\xd6?'
+p579
+tp580
+Rp581
+tp582
+a(S'robust statistics'
+p583
+g2
+(g6
+S'x\xdc\x8c\x93E.\xd6?'
+p584
+tp585
+Rp586
+tp587
+a(S'ordinary least squares'
+p588
+g2
+(g6
+S'4\x9dgN\xb3$\xd6?'
+p589
+tp590
+Rp591
+tp592
+a(S'noel cressie'
+p593
+g2
+(g6
+S'\x8d|\xa0\xd7O\x1c\xd6?'
+p594
+tp595
+Rp596
+tp597
+a(S'department of statistics'
+p598
+g2
+(g6
+S'\xd6zY\x15\xda\x15\xd6?'
+p599
+tp600
+Rp601
+tp602
+a(S'least squares'
+p603
+g2
+(g6
+S'\xfba\xd7Om\x14\xd6?'
+p604
+tp605
+Rp606
+tp607
+a(S'probability theory'
+p608
+g2
+(g6
+S'^\xf7\x86I5\xfb\xd5?'
+p609
+tp610
+Rp611
+tp612
+a(S"chauvenet's criterion"
+p613
+g2
+(g6
+S'y\x08\xd4,_\xf9\xd5?'
+p614
+tp615
+Rp616
+tp617
+a(S'approximate bayesian computation'
+p618
+g2
+(g6
+S'\xb9s\xb8\xd7\xdf\xf6\xd5?'
+p619
+tp620
+Rp621
+tp622
+a(S'one-way analysis of variance'
+p623
+g2
+(g6
+S'\xe7\x80\xed\xd3\x8f\xf6\xd5?'
+p624
+tp625
+Rp626
+tp627
+a(S'likelihood-ratio test'
+p628
+g2
+(g6
+S'\xa4\xd5\xac\x11\x98\xf3\xd5?'
+p629
+tp630
+Rp631
+tp632
+a(S'mode (statistics)'
+p633
+g2
+(g6
+S'\xf9!^?m\xf3\xd5?'
+p634
+tp635
+Rp636
+tp637
+a(S'statistical geography'
+p638
+g2
+(g6
+S'\xba\\4n\x82\xf0\xd5?'
+p639
+tp640
+Rp641
+tp642
+a(S'experiment'
+p643
+g2
+(g6
+S'o\x1a\xd6i\xdc\xee\xd5?'
+p644
+tp645
+Rp646
+tp647
+a(S'generalized p-value'
+p648
+g2
+(g6
+S'\xc8\xe8\xc2\xa8F\xdd\xd5?'
+p649
+tp650
+Rp651
+tp652
+a(S'teradata warehouse miner'
+p653
+g2
+(g6
+S'\xde{\xa6\xc9\xa7\xda\xd5?'
+p654
+tp655
+Rp656
+tp657
+a(S'international association for official statistics'
+p658
+g2
+(g6
+S'\x048\xa4\xb1\xa1\xd3\xd5?'
+p659
+tp660
+Rp661
+tp662
+a(S'statistics denmark'
+p663
+g2
+(g6
+S'\xddau\x97\xfe\xd0\xd5?'
+p664
+tp665
+Rp666
+tp667
+a(S'sudaan'
+p668
+g2
+(g6
+S'Q\xc7h*\x9f\xd0\xd5?'
+p669
+tp670
+Rp671
+tp672
+a(S'federal statistical office (switzerland)'
+p673
+g2
+(g6
+S'\xa4\xff|\r:\xcf\xd5?'
+p674
+tp675
+Rp676
+tp677
+a(S'genstat'
+p678
+g2
+(g6
+S'\x01\x00\xc4\xea\x9f\xca\xd5?'
+p679
+tp680
+Rp681
+tp682
+a(S'maurice kendall'
+p683
+g2
+(g6
+S'\x06;\x8e\x1a\xf0\xc2\xd5?'
+p684
+tp685
+Rp686
+tp687
+a(S'estimation theory'
+p688
+g2
+(g6
+S'\x1a00\x04\x80\xba\xd5?'
+p689
+tp690
+Rp691
+tp692
+a(S'radha laha'
+p693
+g2
+(g6
+S'2F\xb8\x04z\xb4\xd5?'
+p694
+tp695
+Rp696
+tp697
+a(S'invalid science'
+p698
+g2
+(g6
+S'S<\xdd\xd4\xe0\xb1\xd5?'
+p699
+tp700
+Rp701
+tp702
+a(S'effect size'
+p703
+g2
+(g6
+S'\x97\x998\xc2\xfe\xae\xd5?'
+p704
+tp705
+Rp706
+tp707
+a(S'anova on ranks'
+p708
+g2
+(g6
+S'\xfd\x80U\r\x07\x9e\xd5?'
+p709
+tp710
+Rp711
+tp712
+a(S'asymptotic theory (statistics)'
+p713
+g2
+(g6
+S'\xa7}\xe7\xbd\x85\x9b\xd5?'
+p714
+tp715
+Rp716
+tp717
+a(S'xuming he'
+p718
+g2
+(g6
+S'\x8b6\xa1\xb2\xe9\x9a\xd5?'
+p719
+tp720
+Rp721
+tp722
+a(S'outline of science'
+p723
+g2
+(g6
+S'\x8f\xab\xa5\xf1\x8e\x90\xd5?'
+p724
+tp725
+Rp726
+tp727
+a(S'probability'
+p728
+g2
+(g6
+S'\x86;\xb3\xd1\xb5\x8c\xd5?'
+p729
+tp730
+Rp731
+tp732
+a(S'legal basis of official statistics in switzerland'
+p733
+g2
+(g6
+S'\x069\xe5EK\x88\xd5?'
+p734
+tp735
+Rp736
+tp737
+a(S'state statistics committee (azerbaijan)'
+p738
+g2
+(g6
+S'/)e4\x13\x81\xd5?'
+p739
+tp740
+Rp741
+tp742
+a(S'omnibus test'
+p743
+g2
+(g6
+S'\xdbU%g\x99\x7f\xd5?'
+p744
+tp745
+Rp746
+tp747
+a(S'shlomo sawilowsky'
+p748
+g2
+(g6
+S'n\\\xcfKK~\xd5?'
+p749
+tp750
+Rp751
+tp752
+a(S'census and statistics department (hong kong)'
+p753
+g2
+(g6
+S'|=V\xfc?}\xd5?'
+p754
+tp755
+Rp756
+tp757
+a(S"statisticians' and engineers' cross-reference of statistical terms"
+p758
+g2
+(g6
+S'\xd2aqx\xdaw\xd5?'
+p759
+tp760
+Rp761
+tp762
+a(S'simple linear regression'
+p763
+g2
+(g6
+S'\xb1\xc64\xcbks\xd5?'
+p764
+tp765
+Rp766
+tp767
+a(S'predictive probability of success'
+p768
+g2
+(g6
+S'I\x1f!\x180r\xd5?'
+p769
+tp770
+Rp771
+tp772
+a(S'quartile'
+p773
+g2
+(g6
+S'Qj\xfd\x03tj\xd5?'
+p774
+tp775
+Rp776
+tp777
+a(S'chicago bulls all-time roster'
+p778
+g2
+(g6
+S'\x83cQ\x8bSf\xd5?'
+p779
+tp780
+Rp781
+tp782
+a(S'statsmodels'
+p783
+g2
+(g6
+S'\\\xb4z\xc0\xa4a\xd5?'
+p784
+tp785
+Rp786
+tp787
+a(S'statistical office of the republic of serbia'
+p788
+g2
+(g6
+S'\xf3\xfb\xb8\x13\xb0`\xd5?'
+p789
+tp790
+Rp791
+tp792
+a(S'bonferroni correction'
+p793
+g2
+(g6
+S'AZr\xe0\xf7X\xd5?'
+p794
+tp795
+Rp796
+tp797
+a(S'consistency (statistics)'
+p798
+g2
+(g6
+S'm\xac\x82$}V\xd5?'
+p799
+tp800
+Rp801
+tp802
+a(S'spss'
+p803
+g2
+(g6
+S'\xe2\xc2B\x10\xefP\xd5?'
+p804
+tp805
+Rp806
+tp807
+a(S'economic statistics'
+p808
+g2
+(g6
+S'\xea\xbeQ\x98hN\xd5?'
+p809
+tp810
+Rp811
+tp812
+a(S'mean signed deviation'
+p813
+g2
+(g6
+S'\xd1r\xefg\xbaL\xd5?'
+p814
+tp815
+Rp816
+tp817
+a(S'big data'
+p818
+g2
+(g6
+S'\xabYf+HH\xd5?'
+p819
+tp820
+Rp821
+tp822
+a(S'journal of the american statistical association'
+p823
+g2
+(g6
+S"JRm'(H\xd5?"
+p824
+tp825
+Rp826
+tp827
+a(S'united nations system of national accounts'
+p828
+g2
+(g6
+S'\xda\xcc\xbb\xc4;D\xd5?'
+p829
+tp830
+Rp831
+tp832
+a(S'linear trend estimation'
+p833
+g2
+(g6
+S'-}\x8f\xef\xdb<\xd5?'
+p834
+tp835
+Rp836
+tp837
+a(S'sign test'
+p838
+g2
+(g6
+S'sD\xee\xd9\x8e6\xd5?'
+p839
+tp840
+Rp841
+tp842
+a(S'minimum chi-square estimation'
+p843
+g2
+(g6
+S'BWD\xc9\x0f2\xd5?'
+p844
+tp845
+Rp846
+tp847
+a(S'durbin\xe2\x80\x93wu\xe2\x80\x93hausman test'
+p848
+g2
+(g6
+S'\x972E\xe5\xa5.\xd5?'
+p849
+tp850
+Rp851
+tp852
+a(S'jianqing fan'
+p853
+g2
+(g6
+S')\xea\xa2\x926&\xd5?'
+p854
+tp855
+Rp856
+tp857
+a(S'nonprobability sampling'
+p858
+g2
+(g6
+S'E\x8b\x0f/R\x16\xd5?'
+p859
+tp860
+Rp861
+tp862
+a(S'imputation (statistics)'
+p863
+g2
+(g6
+S'\xa6S\xf4\x89\xd3\x15\xd5?'
+p864
+tp865
+Rp866
+tp867
+a(S'lynne billard'
+p868
+g2
+(g6
+S'JL\xe05Y\x15\xd5?'
+p869
+tp870
+Rp871
+tp872
+a(S'statistical assumption'
+p873
+g2
+(g6
+S'x\xd8 \xdf\x8e\x08\xd5?'
+p874
+tp875
+Rp876
+tp877
+a(S'theory of hyper-random phenomena'
+p878
+g2
+(g6
+S'\x8c{\xe6i~\x04\xd5?'
+p879
+tp880
+Rp881
+tp882
+a(S'regression analysis'
+p883
+g2
+(g6
+S'i\xebK$\x9b\xfc\xd4?'
+p884
+tp885
+Rp886
+tp887
+a(S'rankit'
+p888
+g2
+(g6
+S'\xc5\xfb\x9fO\xc4\xf2\xd4?'
+p889
+tp890
+Rp891
+tp892
+a(S'correlogram'
+p893
+g2
+(g6
+S'\xfa\xb3\xc7\xaa\xe2\xda\xd4?'
+p894
+tp895
+Rp896
+tp897
+a(S'elena zarova'
+p898
+g2
+(g6
+S'J\x83\xb7\xf2\xc6\xd5\xd4?'
+p899
+tp900
+Rp901
+tp902
+a(S'nomogram'
+p903
+g2
+(g6
+S'\x82%\xed|\x9d\xc5\xd4?'
+p904
+tp905
+Rp906
+tp907
+a(S'sankhya (journal)'
+p908
+g2
+(g6
+S'J.\xe55\x89\xc1\xd4?'
+p909
+tp910
+Rp911
+tp912
+a(S'paul f. velleman'
+p913
+g2
+(g6
+S'\xe5\xbc\xacXZ\xc0\xd4?'
+p914
+tp915
+Rp916
+tp917
+a(S'count data'
+p918
+g2
+(g6
+S'\x88Y^(j\xbd\xd4?'
+p919
+tp920
+Rp921
+tp922
+a(S'sampling (statistics)'
+p923
+g2
+(g6
+S'B\xe7@L\xfb\xb7\xd4?'
+p924
+tp925
+Rp926
+tp927
+a(S'exact statistics'
+p928
+g2
+(g6
+S'[\xadz\x99|\xb7\xd4?'
+p929
+tp930
+Rp931
+tp932
+a(S'ingram olkin'
+p933
+g2
+(g6
+S'*\xf2\x10h\x9b\xac\xd4?'
+p934
+tp935
+Rp936
+tp937
+a(S'john tukey'
+p938
+g2
+(g6
+S'\n?\xc2\x92o\xab\xd4?'
+p939
+tp940
+Rp941
+tp942
+a(S'sample maximum and minimum'
+p943
+g2
+(g6
+S'Bwk\x14\xf7\xa5\xd4?'
+p944
+tp945
+Rp946
+tp947
+a(S'national statistics'
+p948
+g2
+(g6
+S'\xf9\xf7\xedk\xee\xa3\xd4?'
+p949
+tp950
+Rp951
+tp952
+a(S'errors-in-variables models'
+p953
+g2
+(g6
+S'5\x16\x07\x97\x16\x98\xd4?'
+p954
+tp955
+Rp956
+tp957
+a(S'timeline of probability and statistics'
+p958
+g2
+(g6
+S'\x95\x99 \x1e\xc0\x96\xd4?'
+p959
+tp960
+Rp961
+tp962
+a(S'robert tibshirani'
+p963
+g2
+(g6
+S'\x82\x1b\xfd\xf5a\x96\xd4?'
+p964
+tp965
+Rp966
+tp967
+a(S'scientific method'
+p968
+g2
+(g6
+S'\x00>\xe0\xea\x1c\x88\xd4?'
+p969
+tp970
+Rp971
+tp972
+a(S'albert vexler'
+p973
+g2
+(g6
+S'\x06\x93\xe8UP\x85\xd4?'
+p974
+tp975
+Rp976
+tp977
+a(S'two-way analysis of variance'
+p978
+g2
+(g6
+S'\x7fX\xb5\xd6\xc6\x84\xd4?'
+p979
+tp980
+Rp981
+tp982
+a(S'probability distribution'
+p983
+g2
+(g6
+S'Y\xa9\\H@x\xd4?'
+p984
+tp985
+Rp986
+tp987
+a(S"student's t-distribution"
+p988
+g2
+(g6
+S'Im\xb6\xd0 u\xd4?'
+p989
+tp990
+Rp991
+tp992
+a(S'office for national statistics'
+p993
+g2
+(g6
+S"f'\xe9\xf1\xdcs\xd4?"
+p994
+tp995
+Rp996
+tp997
+a(S'glossary of probability and statistics'
+p998
+g2
+(g6
+S'\xd8\x13\xe1\x94\xa8p\xd4?'
+p999
+tp1000
+Rp1001
+tp1002
+a(S'estimating equations'
+p1003
+g2
+(g6
+S'\xde\rz\xb8\x0cj\xd4?'
+p1004
+tp1005
+Rp1006
+tp1007
+a(S'statistical database'
+p1008
+g2
+(g6
+S'\xef\xe6u*\x02h\xd4?'
+p1009
+tp1010
+Rp1011
+tp1012
+a(S'statistical parameter'
+p1013
+g2
+(g6
+S'\xa1V\x97\xd0\xffb\xd4?'
+p1014
+tp1015
+Rp1016
+tp1017
+a(S'data cleansing'
+p1018
+g2
+(g6
+S'\x83/\xe6\xb2\x13a\xd4?'
+p1019
+tp1020
+Rp1021
+tp1022
+a(S'linear regression'
+p1023
+g2
+(g6
+S'\x1awO\x12-`\xd4?'
+p1024
+tp1025
+Rp1026
+tp1027
+a(S'dubai statistics center'
+p1028
+g2
+(g6
+S'\xbc,\xfe\xf4\x8dY\xd4?'
+p1029
+tp1030
+Rp1031
+tp1032
+a(S'multiway data analysis'
+p1033
+g2
+(g6
+S'\x01\xf9\x90\xe0_Y\xd4?'
+p1034
+tp1035
+Rp1036
+tp1037
+a(S'jerzy neyman'
+p1038
+g2
+(g6
+S'\xe2\x01J\x10\xe9N\xd4?'
+p1039
+tp1040
+Rp1041
+tp1042
+a(S'errors and residuals'
+p1043
+g2
+(g6
+S'\n\x97\xa1_\x9fJ\xd4?'
+p1044
+tp1045
+Rp1046
+tp1047
+a(S'probability density function'
+p1048
+g2
+(g6
+S'1\xf8\xe0\x95\x88:\xd4?'
+p1049
+tp1050
+Rp1051
+tp1052
+a(S'generalization error'
+p1053
+g2
+(g6
+S'\xea<) i-\xd4?'
+p1054
+tp1055
+Rp1056
+tp1057
+a(S'siegel\xe2\x80\x93tukey test'
+p1058
+g2
+(g6
+S'n\xa8DK\x97+\xd4?'
+p1059
+tp1060
+Rp1061
+tp1062
+a(S'uniform distribution (continuous)'
+p1063
+g2
+(g6
+S'\xe9\xd0\xb7\xb3\xa8$\xd4?'
+p1064
+tp1065
+Rp1066
+tp1067
+a(S'world statistics day'
+p1068
+g2
+(g6
+S"(\xd4\xb4\xe5'\x1c\xd4?"
+p1069
+tp1070
+Rp1071
+tp1072
+a(S'informal inferential reasoning'
+p1073
+g2
+(g6
+S'\x9d\xa5\xe9\xb99\x1b\xd4?'
+p1074
+tp1075
+Rp1076
+tp1077
+a(S'normal score'
+p1078
+g2
+(g6
+S'Q\xa3\xb5\xdc\xe9\x1a\xd4?'
+p1079
+tp1080
+Rp1081
+tp1082
+a(S'surrogate data testing'
+p1083
+g2
+(g6
+S'\xe0\x0bU\xf1\xbf\x1a\xd4?'
+p1084
+tp1085
+Rp1086
+tp1087
+a(S'checking whether a coin is fair'
+p1088
+g2
+(g6
+S'K\x03a8\xed\x19\xd4?'
+p1089
+tp1090
+Rp1091
+tp1092
+a(S'uncomfortable science'
+p1093
+g2
+(g6
+S'y\xa5\xf6\x95\xe1\x18\xd4?'
+p1094
+tp1095
+Rp1096
+tp1097
+a(S'hellenic statistical authority'
+p1098
+g2
+(g6
+S'\x03+\xc6\xabY\x16\xd4?'
+p1099
+tp1100
+Rp1101
+tp1102
+a(S'multicollinearity'
+p1103
+g2
+(g6
+S'\xfd\x95\xf9E>\x16\xd4?'
+p1104
+tp1105
+Rp1106
+tp1107
+a(S'homoscedasticity'
+p1108
+g2
+(g6
+S'\xc0\xbeE\xc6\xb8\x12\xd4?'
+p1109
+tp1110
+Rp1111
+tp1112
+a(S'sam weerahandi'
+p1113
+g2
+(g6
+S"\xd2\xf0\xb5\xf3'\x12\xd4?"
+p1114
+tp1115
+Rp1116
+tp1117
+a(S'brazilian journal of probability and statistics'
+p1118
+g2
+(g6
+S'\xce\x03\xace\x87\x0f\xd4?'
+p1119
+tp1120
+Rp1121
+tp1122
+a(S'national agencies responsible for gdp measurement'
+p1123
+g2
+(g6
+S'5k"\x16\x19\x0f\xd4?'
+p1124
+tp1125
+Rp1126
+tp1127
+a(S'alexander alexandrovich chuprov'
+p1128
+g2
+(g6
+S'\xf3^\xb6\xbc~\x0e\xd4?'
+p1129
+tp1130
+Rp1131
+tp1132
+a(S'inverse probability weighting'
+p1133
+g2
+(g6
+S'"\x8a\xaeNU\x05\xd4?'
+p1134
+tp1135
+Rp1136
+tp1137
+a(S'c. r. rao'
+p1138
+g2
+(g6
+S'\xacK\x0b{Z\x03\xd4?'
+p1139
+tp1140
+Rp1141
+tp1142
+a(S'myhailo yadrenko'
+p1143
+g2
+(g6
+S'\xe6\xb5\x1c\xb2\xc0\x02\xd4?'
+p1144
+tp1145
+Rp1146
+tp1147
+a(S'probability of success'
+p1148
+g2
+(g6
+S'\xea\xd2\\\xba\xb7\xfe\xd3?'
+p1149
+tp1150
+Rp1151
+tp1152
+a(S'gustav elfving'
+p1153
+g2
+(g6
+S'3\x12\x06/p\xf8\xd3?'
+p1154
+tp1155
+Rp1156
+tp1157
+a(S'marketing research mix'
+p1158
+g2
+(g6
+S'F\xec9\x9eX\xf8\xd3?'
+p1159
+tp1160
+Rp1161
+tp1162
+a(S'statistics indonesia'
+p1163
+g2
+(g6
+S'M\xc0a:p\xf5\xd3?'
+p1164
+tp1165
+Rp1166
+tp1167
+a(S'cumulative frequency analysis'
+p1168
+g2
+(g6
+S'%_\x18u\xad\xf4\xd3?'
+p1169
+tp1170
+Rp1171
+tp1172
+a(S'parameter'
+p1173
+g2
+(g6
+S'\xfe\x97jr\xd5\xf3\xd3?'
+p1174
+tp1175
+Rp1176
+tp1177
+a(S'ncss (statistical software)'
+p1178
+g2
+(g6
+S'\xa0w\x98\xe5X\xee\xd3?'
+p1179
+tp1180
+Rp1181
+tp1182
+a(S'administration data'
+p1183
+g2
+(g6
+S'\xd2\xbd\xa3h\x1b\xee\xd3?'
+p1184
+tp1185
+Rp1186
+tp1187
+a(S'shapiro\xe2\x80\x93wilk test'
+p1188
+g2
+(g6
+S'3\xae\xd49\xf6\xe8\xd3?'
+p1189
+tp1190
+Rp1191
+tp1192
+a(S'david a. freedman'
+p1193
+g2
+(g6
+S'\xf7\xc1hQ\t\xe1\xd3?'
+p1194
+tp1195
+Rp1196
+tp1197
+a(S'research design'
+p1198
+g2
+(g6
+S'\xc5\xa3t|\x82\xd8\xd3?'
+p1199
+tp1200
+Rp1201
+tp1202
+a(S'sampling error'
+p1203
+g2
+(g6
+S'\xd1\x98V\x13\xdb\xd3\xd3?'
+p1204
+tp1205
+Rp1206
+tp1207
+a(S'federal statistical system of the united states'
+p1208
+g2
+(g6
+S'\xc8\xeb\xe4\x8c@\xc6\xd3?'
+p1209
+tp1210
+Rp1211
+tp1212
+a(S'statistical society of canada'
+p1213
+g2
+(g6
+S'=\xef)\x03\xc7\xbf\xd3?'
+p1214
+tp1215
+Rp1216
+tp1217
+a(S'david spiegelhalter'
+p1218
+g2
+(g6
+S'\xce\xddW\xb0o\xb7\xd3?'
+p1219
+tp1220
+Rp1221
+tp1222
+a(S'bapat\xe2\x80\x93beg theorem'
+p1223
+g2
+(g6
+S'\xe4J\xbda\xa3\xb6\xd3?'
+p1224
+tp1225
+Rp1226
+tp1227
+a(S"tukey's test of additivity"
+p1228
+g2
+(g6
+S'\x19\x118\x11\x13\xb3\xd3?'
+p1229
+tp1230
+Rp1231
+tp1232
+a(S'gibbs sampling'
+p1233
+g2
+(g6
+S'\xee\x156\xc7\xb2\xb2\xd3?'
+p1234
+tp1235
+Rp1236
+tp1237
+a(S'uk statistics authority'
+p1238
+g2
+(g6
+S'}@\xbd\x18\x9f\xaf\xd3?'
+p1239
+tp1240
+Rp1241
+tp1242
+a(S'quantitative psychological research'
+p1243
+g2
+(g6
+S'\x05\x163O\x88\xae\xd3?'
+p1244
+tp1245
+Rp1246
+tp1247
+a(S'data'
+p1248
+g2
+(g6
+S'>\x0f\xa5\xa9[\xad\xd3?'
+p1249
+tp1250
+Rp1251
+tp1252
+a(S'united nations statistics division'
+p1253
+g2
+(g6
+S'?#\x8f,\xd4\xa8\xd3?'
+p1254
+tp1255
+Rp1256
+tp1257
+a(S'information quality (infoq)'
+p1258
+g2
+(g6
+S'UG\xef\xb2\xae\xa8\xd3?'
+p1259
+tp1260
+Rp1261
+tp1262
+a(S'statistical graphics'
+p1263
+g2
+(g6
+S'\xaa\x8e\xfb\x12\xce\xa6\xd3?'
+p1264
+tp1265
+Rp1266
+tp1267
+a(S'regression validation'
+p1268
+g2
+(g6
+S'\xfcw\xa5\xbf\x84\xa0\xd3?'
+p1269
+tp1270
+Rp1271
+tp1272
+a(S'egon pearson'
+p1273
+g2
+(g6
+S'\xbe\xa3}\xf4\xb5\x95\xd3?'
+p1274
+tp1275
+Rp1276
+tp1277
+a(S'lilliefors test'
+p1278
+g2
+(g6
+S'\x96\xbf\xafJ\x1c\x93\xd3?'
+p1279
+tp1280
+Rp1281
+tp1282
+a(S'c+-probability'
+p1283
+g2
+(g6
+S'I!"S\x1c\x8b\xd3?'
+p1284
+tp1285
+Rp1286
+tp1287
+a(S'walter a. shewhart'
+p1288
+g2
+(g6
+S'sy\x9e\xca\xc7\x81\xd3?'
+p1289
+tp1290
+Rp1291
+tp1292
+a(S'mann\xe2\x80\x93whitney u test'
+p1293
+g2
+(g6
+S'P\x99\xaaKg\x81\xd3?'
+p1294
+tp1295
+Rp1296
+tp1297
+a(S'outline of probability'
+p1298
+g2
+(g6
+S'o\x8a]\xd5\xb3\x7f\xd3?'
+p1299
+tp1300
+Rp1301
+tp1302
+a(S'german tank problem'
+p1303
+g2
+(g6
+S'\xb4yDnfx\xd3?'
+p1304
+tp1305
+Rp1306
+tp1307
+a(S'national statistics office of georgia'
+p1308
+g2
+(g6
+S'\x9a\xb3(\xe9\x0fw\xd3?'
+p1309
+tp1310
+Rp1311
+tp1312
+a(S'joseph hilbe'
+p1313
+g2
+(g6
+S'\x9b3\xd1\xcc\xe3r\xd3?'
+p1314
+tp1315
+Rp1316
+tp1317
+a(S'econometrics'
+p1318
+g2
+(g6
+S'Ni\xe2\x1a\x04m\xd3?'
+p1319
+tp1320
+Rp1321
+tp1322
+a(S'statistics (disambiguation)'
+p1323
+g2
+(g6
+S'\xa5\x81\x8f}\x83l\xd3?'
+p1324
+tp1325
+Rp1326
+tp1327
+a(S'inverse probability'
+p1328
+g2
+(g6
+S'c\x07+rYj\xd3?'
+p1329
+tp1330
+Rp1331
+tp1332
+a(S'kerrie mengersen'
+p1333
+g2
+(g6
+S'\xe7b\x85\xaf\x97g\xd3?'
+p1334
+tp1335
+Rp1336
+tp1337
+a(S'american statistical association'
+p1338
+g2
+(g6
+S'\xeeRq+]b\xd3?'
+p1339
+tp1340
+Rp1341
+tp1342
+a(S'statistical syllogism'
+p1343
+g2
+(g6
+S'i\xaeU\x1e\n[\xd3?'
+p1344
+tp1345
+Rp1346
+tp1347
+a(S'5 ways of conceptualizing data'
+p1348
+g2
+(g6
+S'\xdb`\x9fM\xc6U\xd3?'
+p1349
+tp1350
+Rp1351
+tp1352
+a(S'family-wise error rate'
+p1353
+g2
+(g6
+S'?\xd5\xd8\xa5\x08U\xd3?'
+p1354
+tp1355
+Rp1356
+tp1357
+a(S'list of women in statistics'
+p1358
+g2
+(g6
+S'\x13\xa6\xfe\x82`T\xd3?'
+p1359
+tp1360
+Rp1361
+tp1362
+a(S'linear least squares (mathematics)'
+p1363
+g2
+(g6
+S'`z\x016iO\xd3?'
+p1364
+tp1365
+Rp1366
+tp1367
+a(S'unbiased estimation of standard deviation'
+p1368
+g2
+(g6
+S'\x19\xe7\xb7\xb3\x05K\xd3?'
+p1369
+tp1370
+Rp1371
+tp1372
+a(S'pandurang vasudeo sukhatme'
+p1373
+g2
+(g6
+S'\x85\xc3E\xf5\xc4E\xd3?'
+p1374
+tp1375
+Rp1376
+tp1377
+a(S'one- and two-tailed tests'
+p1378
+g2
+(g6
+S'\x1bs\x99u\xabA\xd3?'
+p1379
+tp1380
+Rp1381
+tp1382
+a(S'data desk'
+p1383
+g2
+(g6
+S'\x89A\xf9~:A\xd3?'
+p1384
+tp1385
+Rp1386
+tp1387
+a(S'polynomial least squares'
+p1388
+g2
+(g6
+S'\x85\x16\xc8`\xe4=\xd3?'
+p1389
+tp1390
+Rp1391
+tp1392
+a(S'error analysis (mathematics)'
+p1393
+g2
+(g6
+S'\xb9+$\x1d\xc8;\xd3?'
+p1394
+tp1395
+Rp1396
+tp1397
+a(S'kruskal\xe2\x80\x93wallis one-way analysis of variance'
+p1398
+g2
+(g6
+S'\x00\x03\x1dv\xb3:\xd3?'
+p1399
+tp1400
+Rp1401
+tp1402
+a(S'anil kumar bhattacharya'
+p1403
+g2
+(g6
+S'\xab\xf6EKy2\xd3?'
+p1404
+tp1405
+Rp1406
+tp1407
+a(S'per martin-l\xc3\xb6f'
+p1408
+g2
+(g6
+S'3\x0c\x96\x87\xc00\xd3?'
+p1409
+tp1410
+Rp1411
+tp1412
+a(S"tukey's range test"
+p1413
+g2
+(g6
+S'\xe5\xcb\x87\x94\xa5/\xd3?'
+p1414
+tp1415
+Rp1416
+tp1417
+a(S'bootstrapping populations'
+p1418
+g2
+(g6
+S'\xb6\xe1\x1fyF&\xd3?'
+p1419
+tp1420
+Rp1421
+tp1422
+a(S"lindley's paradox"
+p1423
+g2
+(g6
+S'\x97NO\xb8\xfb"\xd3?'
+p1424
+tp1425
+Rp1426
+tp1427
+a(S'consistent estimator'
+p1428
+g2
+(g6
+S'\xdc#\xb8V=\x1b\xd3?'
+p1429
+tp1430
+Rp1431
+tp1432
+a(S"taylor's law"
+p1433
+g2
+(g6
+S'\xee\x0b\x83\xc1\t\x1a\xd3?'
+p1434
+tp1435
+Rp1436
+tp1437
+a(S'standard error'
+p1438
+g2
+(g6
+S'\x06(\xad\xe6\xe4\x18\xd3?'
+p1439
+tp1440
+Rp1441
+tp1442
+a(S'george w. snedecor'
+p1443
+g2
+(g6
+S'\xb2,Z\x97\xfd\x13\xd3?'
+p1444
+tp1445
+Rp1446
+tp1447
+a(S'atomic radii of the elements (data page)'
+p1448
+g2
+(g6
+S'\x9d\xbf\xc3\xd8\xd7\x13\xd3?'
+p1449
+tp1450
+Rp1451
+tp1452
+a(S'carl morris (statistician)'
+p1453
+g2
+(g6
+S'.\x96\xb0\xf1\x16\x12\xd3?'
+p1454
+tp1455
+Rp1456
+tp1457
+a(S"d'agostino's k-squared test"
+p1458
+g2
+(g6
+S'\xdd\x88\x05\x80\xf7\x10\xd3?'
+p1459
+tp1460
+Rp1461
+tp1462
+a(S'paired difference test'
+p1463
+g2
+(g6
+S'd _\x85\x91\x0c\xd3?'
+p1464
+tp1465
+Rp1466
+tp1467
+a(S'wald\xe2\x80\x93wolfowitz runs test'
+p1468
+g2
+(g6
+S'[&t\xb8C\t\xd3?'
+p1469
+tp1470
+Rp1471
+tp1472
+a(S'durbin\xe2\x80\x93watson statistic'
+p1473
+g2
+(g6
+S'\xf6\x86\xe8\xe3\x11\x05\xd3?'
+p1474
+tp1475
+Rp1476
+tp1477
+a(S'philippine statistics authority'
+p1478
+g2
+(g6
+S'\xe0\xd0M\xdf\xfc\x03\xd3?'
+p1479
+tp1480
+Rp1481
+tp1482
+a(S'metropolitan areas in poland'
+p1483
+g2
+(g6
+S'%\x13]\x90\xa6\x02\xd3?'
+p1484
+tp1485
+Rp1486
+tp1487
+a(S'jayanta kumar ghosh'
+p1488
+g2
+(g6
+S'\x192\xb5Sd\x00\xd3?'
+p1489
+tp1490
+Rp1491
+tp1492
+a(S'denise lievesley'
+p1493
+g2
+(g6
+S'y\x0bw/\xcc\xf2\xd2?'
+p1494
+tp1495
+Rp1496
+tp1497
+a(S'adamsoft'
+p1498
+g2
+(g6
+S'1\xfb\xee\xb64\xf2\xd2?'
+p1499
+tp1500
+Rp1501
+tp1502
+a(S'david s. moore'
+p1503
+g2
+(g6
+S'\x0c\xee|\x9a\xb6\xee\xd2?'
+p1504
+tp1505
+Rp1506
+tp1507
+a(S'john nelder'
+p1508
+g2
+(g6
+S'Q\xf7Q)\xc1\xeb\xd2?'
+p1509
+tp1510
+Rp1511
+tp1512
+a.

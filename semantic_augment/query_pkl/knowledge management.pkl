@@ -1,0 +1,2728 @@
+(lp0
+(S'knowledge management'
+p1
+cnumpy.core.multiarray
+scalar
+p2
+(cnumpy
+dtype
+p3
+(S'f8'
+p4
+I0
+I1
+tp5
+Rp6
+(I3
+S'<'
+p7
+NNNI-1
+I-1
+I0
+tp8
+bS'\xf4\xff\xff\xff\xff\xff\xef?'
+p9
+tp10
+Rp11
+tp12
+a(S'outline of knowledge'
+p13
+g2
+(g6
+S'\xf4LuG\x8d \xea?'
+p14
+tp15
+Rp16
+tp17
+a(S'knowledge sharing'
+p18
+g2
+(g6
+S'\xdb@C\x10.\xa1\xe9?'
+p19
+tp20
+Rp21
+tp22
+a(S'knowledge transfer'
+p23
+g2
+(g6
+S'\xb9\x1b\xa6\x0c\x1b-\xe8?'
+p24
+tp25
+Rp26
+tp27
+a(S'knowledge worker'
+p28
+g2
+(g6
+S'\xc9\x8fa7\xe7\xc8\xe7?'
+p29
+tp30
+Rp31
+tp32
+a(S'chief knowledge officer'
+p33
+g2
+(g6
+S'k\xc1HU\xac|\xe7?'
+p34
+tp35
+Rp36
+tp37
+a(S'personal knowledge management'
+p38
+g2
+(g6
+S'\x02\x8bBS\x07c\xe7?'
+p39
+tp40
+Rp41
+tp42
+a(S'knowledge'
+p43
+g2
+(g6
+S'D\x08\xba\x8a7\n\xe7?'
+p44
+tp45
+Rp46
+tp47
+a(S'knowledge market'
+p48
+g2
+(g6
+S']\x94\x141\x0f\xed\xe5?'
+p49
+tp50
+Rp51
+tp52
+a(S'knowledge society'
+p53
+g2
+(g6
+S'\x82\xa9\x93\xbbL\xeb\xe5?'
+p54
+tp55
+Rp56
+tp57
+a(S'descriptive knowledge'
+p58
+g2
+(g6
+S'S\xc0\xa7\xf4\x8c\xc9\xe5?'
+p59
+tp60
+Rp61
+tp62
+a(S'social knowledge management'
+p63
+g2
+(g6
+S'\xff\xfb\xb4@bY\xe5?'
+p64
+tp65
+Rp66
+tp67
+a(S'explicit knowledge'
+p68
+g2
+(g6
+S'\xff\xb5\xe8h\x140\xe5?'
+p69
+tp70
+Rp71
+tp72
+a(S'knowledge ecosystem'
+p73
+g2
+(g6
+S'\xd3J\xf9\xf3} \xe5?'
+p74
+tp75
+Rp76
+tp77
+a(S'knowledge entrepreneurship'
+p78
+g2
+(g6
+S'8\x8aK\xfbH\xff\xe4?'
+p79
+tp80
+Rp81
+tp82
+a(S'knowledge organization (management)'
+p83
+g2
+(g6
+S'\x8b\x8c\xe5M4\xc2\xe4?'
+p84
+tp85
+Rp86
+tp87
+a(S'knowledge value chain'
+p88
+g2
+(g6
+S'\xd14\xe6*\x8a\x98\xe4?'
+p89
+tp90
+Rp91
+tp92
+a(S'seci model of knowledge dimensions'
+p93
+g2
+(g6
+S'bO\xbbh\x9ee\xe4?'
+p94
+tp95
+Rp96
+tp97
+a(S'list of knowledge management concepts'
+p98
+g2
+(g6
+S'\xcd\xf6\xba\xe7WS\xe4?'
+p99
+tp100
+Rp101
+tp102
+a(S'knowledge broker'
+p103
+g2
+(g6
+S'8\xee\xd1\xe9\xf6J\xe4?'
+p104
+tp105
+Rp106
+tp107
+a(S'knowledge community'
+p108
+g2
+(g6
+S'ta\xfa]}H\xe4?'
+p109
+tp110
+Rp111
+tp112
+a(S'knowledge by presence'
+p113
+g2
+(g6
+S'\xee~\x9a\xd0\xe2:\xe4?'
+p114
+tp115
+Rp116
+tp117
+a(S'knowledge divide'
+p118
+g2
+(g6
+S'\x03(\xbdE\xce/\xe4?'
+p119
+tp120
+Rp121
+tp122
+a(S'tacit knowledge'
+p123
+g2
+(g6
+S'[\xde\x15:\xf9\x17\xe4?'
+p124
+tp125
+Rp126
+tp127
+a(S'customer knowledge'
+p128
+g2
+(g6
+S'6ZN\x17\xac\x13\xe4?'
+p129
+tp130
+Rp131
+tp132
+a(S'knowledge economy'
+p133
+g2
+(g6
+S'\x84\x14\xf8\xc9C\xfe\xe3?'
+p134
+tp135
+Rp136
+tp137
+a(S'methods of obtaining knowledge'
+p138
+g2
+(g6
+S'\x08\x13\xdcl\xb6\xe8\xe3?'
+p139
+tp140
+Rp141
+tp142
+a(S'knowledge value'
+p143
+g2
+(g6
+S',*s\xd9s\xd9\xe3?'
+p144
+tp145
+Rp146
+tp147
+a(S'knowledge building community'
+p148
+g2
+(g6
+S'\xda-\xabM\xe6\xa6\xe3?'
+p149
+tp150
+Rp151
+tp152
+a(S'organizational memory'
+p153
+g2
+(g6
+S'\xbfF&r\x8b\x9b\xe3?'
+p154
+tp155
+Rp156
+tp157
+a(S'knowledge building'
+p158
+g2
+(g6
+S'O\xfb\xa6\x85\x96&\xe3?'
+p159
+tp160
+Rp161
+tp162
+a(S'air force knowledge now'
+p163
+g2
+(g6
+S'\x85\x03b?\x0b$\xe3?'
+p164
+tp165
+Rp166
+tp167
+a(S'the knowledge (disambiguation)'
+p168
+g2
+(g6
+S'p\x1bI\x88\xaf\xff\xe2?'
+p169
+tp170
+Rp171
+tp172
+a(S'body of knowledge'
+p173
+g2
+(g6
+S'\xd1\xfc\xa9\xd1a\xfa\xe2?'
+p174
+tp175
+Rp176
+tp177
+a(S'knowledge modeling'
+p178
+g2
+(g6
+S'\x0bq\x86\x1e$\xed\xe2?'
+p179
+tp180
+Rp181
+tp182
+a(S'encapsulated knowledge'
+p183
+g2
+(g6
+S'+l\xd9\xe5e\xe9\xe2?'
+p184
+tp185
+Rp186
+tp187
+a(S'personal knowledge networking'
+p188
+g2
+(g6
+S'!\x12\xd6\xf6A\xe9\xe2?'
+p189
+tp190
+Rp191
+tp192
+a(S'knowledge (disambiguation)'
+p193
+g2
+(g6
+S'7\xf1\x9c\xdeA\xe9\xe2?'
+p194
+tp195
+Rp196
+tp197
+a(S'general knowledge'
+p198
+g2
+(g6
+S'q\x05h\xca\xd4\xd5\xe2?'
+p199
+tp200
+Rp201
+tp202
+a(S'knowledge base'
+p203
+g2
+(g6
+S'\x18>~{\x84\xb9\xe2?'
+p204
+tp205
+Rp206
+tp207
+a(S'electronic journal of knowledge management'
+p208
+g2
+(g6
+S'\x99\xfc\x9a\x89Ye\xe2?'
+p209
+tp210
+Rp211
+tp212
+a(S'knowledge mobilization'
+p213
+g2
+(g6
+S'\xc9\xf2\x85\x0eh\\\xe2?'
+p214
+tp215
+Rp216
+tp217
+a(S'organizational learning'
+p218
+g2
+(g6
+S'\x06\xf8\x17\x9ft?\xe2?'
+p219
+tp220
+Rp221
+tp222
+a(S'knowledgebase manager pro'
+p223
+g2
+(g6
+S'\xd44G0\x14#\xe2?'
+p224
+tp225
+Rp226
+tp227
+a(S'knowledge-based theory of the firm'
+p228
+g2
+(g6
+S'\x16\xcb\x8b">\xfb\xe1?'
+p229
+tp230
+Rp231
+tp232
+a(S'dynamic knowledge repository'
+p233
+g2
+(g6
+S'\x0e\x87}?\xa8\xf7\xe1?'
+p234
+tp235
+Rp236
+tp237
+a(S'knowledge-based systems'
+p238
+g2
+(g6
+S'\xcd\xf4\xf7\xb0\xf1\xb4\xe1?'
+p239
+tp240
+Rp241
+tp242
+a(S'inert knowledge'
+p243
+g2
+(g6
+S'5\x9d\x13E\x1d\x94\xe1?'
+p244
+tp245
+Rp246
+tp247
+a(S'open knowledge base connectivity'
+p248
+g2
+(g6
+S'\x97\xf3\x1a\x9c\xd4\x90\xe1?'
+p249
+tp250
+Rp251
+tp252
+a(S'knowledge environment'
+p253
+g2
+(g6
+S'\x81\xfe{\x88\x9b}\xe1?'
+p254
+tp255
+Rp256
+tp257
+a(S'procedural knowledge'
+p258
+g2
+(g6
+S'\xcf\x13_\xc6\xa2\x11\xe1?'
+p259
+tp260
+Rp261
+tp262
+a(S'common knowledge'
+p263
+g2
+(g6
+S'f\xc5G]e\xd2\xe0?'
+p264
+tp265
+Rp266
+tp267
+a(S'nuclear knowledge management'
+p268
+g2
+(g6
+S'g%\xd5d\xbe\xbf\xe0?'
+p269
+tp270
+Rp271
+tp272
+a(S'dispersed knowledge'
+p273
+g2
+(g6
+S'W~\x93\xe4c\xb5\xe0?'
+p274
+tp275
+Rp276
+tp277
+a(S'vidya (knowledge)'
+p278
+g2
+(g6
+S'z\x8e:\xf7\x1a\xaa\xe0?'
+p279
+tp280
+Rp281
+tp282
+a(S'traditional knowledge'
+p283
+g2
+(g6
+S'\r\x17U2"\x97\xe0?'
+p284
+tp285
+Rp286
+tp287
+a(S'dikw pyramid'
+p288
+g2
+(g6
+S'a\xdeB\xfd\x01\x96\xe0?'
+p289
+tp290
+Rp291
+tp292
+a(S'domain knowledge'
+p293
+g2
+(g6
+S'u\x159Y\\\x93\xe0?'
+p294
+tp295
+Rp296
+tp297
+a(S'knowledge management professional society'
+p298
+g2
+(g6
+S"\\'\x8dMH\x91\xe0?"
+p299
+tp300
+Rp301
+tp302
+a(S'knowledge integration'
+p303
+g2
+(g6
+S'+.\xfd\xe9\x81\x90\xe0?'
+p304
+tp305
+Rp306
+tp307
+a(S'knowledge enterprise'
+p308
+g2
+(g6
+S'+\xf2\xc8\xbf\xe0o\xe0?'
+p309
+tp310
+Rp311
+tp312
+a(S'knowledge forum'
+p313
+g2
+(g6
+S'\xb0\xe3\xbfQHR\xe0?'
+p314
+tp315
+Rp316
+tp317
+a(S'knowledge space'
+p318
+g2
+(g6
+S'\x84\xf3\xf9C\xd8P\xe0?'
+p319
+tp320
+Rp321
+tp322
+a(S'knowledge engine'
+p323
+g2
+(g6
+S'\x86x\xcbNp6\xe0?'
+p324
+tp325
+Rp326
+tp327
+a(S'knowledge assessment methodology'
+p328
+g2
+(g6
+S'-\xa7\xcd\xb3m5\xe0?'
+p329
+tp330
+Rp331
+tp332
+a(S'international society for knowledge organization'
+p333
+g2
+(g6
+S'\xab\x18\xe0?\xbf0\xe0?'
+p334
+tp335
+Rp336
+tp337
+a(S'canadian it body of knowledge'
+p338
+g2
+(g6
+S'\xdfUC\x9d\xae"\xe0?'
+p339
+tp340
+Rp341
+tp342
+a(S'vipassan\xc4\x81-\xc3\xb1\xc4\x81\xe1\xb9\x87a'
+p343
+g2
+(g6
+S'\xb8\x94\xc1\xe1X\x19\xe0?'
+p344
+tp345
+Rp346
+tp347
+a(S'mutual knowledge (logic)'
+p348
+g2
+(g6
+S'b\xd7\nsp\x08\xe0?'
+p349
+tp350
+Rp351
+tp352
+a(S'cyc'
+p353
+g2
+(g6
+S'\xda#\x88\x05w\xe8\xdf?'
+p354
+tp355
+Rp356
+tp357
+a(S'theory of knowledge (ib course)'
+p358
+g2
+(g6
+S'_\x9a\xf0p\xc2\xc5\xdf?'
+p359
+tp360
+Rp361
+tp362
+a(S'knowledge acquisition and documentation structuring'
+p363
+g2
+(g6
+S'_\x0c\xf8\x80\xcb\xaa\xdf?'
+p364
+tp365
+Rp366
+tp367
+a(S'design knowledge'
+p368
+g2
+(g6
+S'\x90\xee\x9f\x9a=2\xdf?'
+p369
+tp370
+Rp371
+tp372
+a(S'knowledge representation and reasoning'
+p373
+g2
+(g6
+S'\x07\xfcW\x02\xaa,\xdf?'
+p374
+tp375
+Rp376
+tp377
+a(S'knowledge plaza'
+p378
+g2
+(g6
+S'\xd5\xe1\xd24g\x1d\xdf?'
+p379
+tp380
+Rp381
+tp382
+a(S'computational knowledge economy'
+p383
+g2
+(g6
+S'\x10\xaa\xd4\xe2\x17\x07\xdf?'
+p384
+tp385
+Rp386
+tp387
+a(S'd&d km-it'
+p388
+g2
+(g6
+S'\xa5\x97\x0e7]\xe1\xde?'
+p389
+tp390
+Rp391
+tp392
+a(S'new knowledge worker of korea'
+p393
+g2
+(g6
+S'\xafm\xa3>:\xd5\xde?'
+p394
+tp395
+Rp396
+tp397
+a(S'free knowledge institute'
+p398
+g2
+(g6
+S'\xaa\x98\xa0\xaeM\xd2\xde?'
+p399
+tp400
+Rp401
+tp402
+a(S'jnana'
+p403
+g2
+(g6
+S'\xce\xcf\xcd\xa0\x08\xb7\xde?'
+p404
+tp405
+Rp406
+tp407
+a(S'high performance knowledge bases'
+p408
+g2
+(g6
+S'\xd8S\xd3\xecg\x7f\xde?'
+p409
+tp410
+Rp411
+tp412
+a(S'knowledge utilization research center'
+p413
+g2
+(g6
+S'T*\xaf\x92lc\xde?'
+p414
+tp415
+Rp416
+tp417
+a(S'core knowledge foundation'
+p418
+g2
+(g6
+S'Q\x14\xdd\xe3\x0fb\xde?'
+p419
+tp420
+Rp421
+tp422
+a(S'personal knowledge base'
+p423
+g2
+(g6
+S'\xe0\xfe\xc1\xa9vI\xde?'
+p424
+tp425
+Rp426
+tp427
+a(S'knowledge network'
+p428
+g2
+(g6
+S'\xd2\xa4\x80\xe3\t+\xde?'
+p429
+tp430
+Rp431
+tp432
+a(S'new knowledge farmer of korea'
+p433
+g2
+(g6
+S'>\xe2\xf8\x01\x06\xfd\xdd?'
+p434
+tp435
+Rp436
+tp437
+a(S'epistemology'
+p438
+g2
+(g6
+S'\xb6\xe0\xdc\x13;\xe0\xdd?'
+p439
+tp440
+Rp441
+tp442
+a(S'knowledge engineer'
+p443
+g2
+(g6
+S'XJ\xd9\x88\xe3\xa4\xdd?'
+p444
+tp445
+Rp446
+tp447
+a(S'rashid kausar'
+p448
+g2
+(g6
+S"\xbb'\x14\xc6N\x98\xdd?"
+p449
+tp450
+Rp451
+tp452
+a(S'knowledge caf\xc3\xa9'
+p453
+g2
+(g6
+S'\x90\xa6\xc6S\xd9\x81\xdd?'
+p454
+tp455
+Rp456
+tp457
+a(S'kbe (disambiguation)'
+p458
+g2
+(g6
+S'y\x83\x12\xb8\x9db\xdd?'
+p459
+tp460
+Rp461
+tp462
+a(S'tribal knowledge'
+p463
+g2
+(g6
+S'!\xb9G\x93\xdfN\xdd?'
+p464
+tp465
+Rp466
+tp467
+a(S'knowledge level'
+p468
+g2
+(g6
+S'Pf3\xc93M\xdd?'
+p469
+tp470
+Rp471
+tp472
+a(S'interface position'
+p473
+g2
+(g6
+S'\xe4\x9ceyoF\xdd?'
+p474
+tp475
+Rp476
+tp477
+a(S'classora'
+p478
+g2
+(g6
+S'u\n\x10\xb6\x01:\xdd?'
+p479
+tp480
+Rp481
+tp482
+a(S'marlene scardamalia'
+p483
+g2
+(g6
+S'a.\xac\xf8G#\xdd?'
+p484
+tp485
+Rp486
+tp487
+a(S'core knowledge uk'
+p488
+g2
+(g6
+S'\xd1\xcd\xc9% \xff\xdc?'
+p489
+tp490
+Rp491
+tp492
+a(S'local knowledge problem'
+p493
+g2
+(g6
+S'\xca\xfeu5\xbc\xf9\xdc?'
+p494
+tp495
+Rp496
+tp497
+a(S'jain epistemology'
+p498
+g2
+(g6
+S'\xd3\x1b\xcev\x81\xf4\xdc?'
+p499
+tp500
+Rp501
+tp502
+a(S'distributed knowledge'
+p503
+g2
+(g6
+S'\x0f\x9fv8&\xee\xdc?'
+p504
+tp505
+Rp506
+tp507
+a(S'knowledge engineering'
+p508
+g2
+(g6
+S'\x12\xcd\xee\xbd\x1f\xd5\xdc?'
+p509
+tp510
+Rp511
+tp512
+a(S'experiential knowledge'
+p513
+g2
+(g6
+S'\xfd\xc5\x1fo\x04\xbb\xdc?'
+p514
+tp515
+Rp516
+tp517
+a(S'knowledge gap hypothesis'
+p518
+g2
+(g6
+S'\xc5!l_5\x7f\xdc?'
+p519
+tp520
+Rp521
+tp522
+a(S'knowledge vault'
+p523
+g2
+(g6
+S'\xf7\xe5y\x99\xe0v\xdc?'
+p524
+tp525
+Rp526
+tp527
+a(S'i-space'
+p528
+g2
+(g6
+S'f\xab\x1f\x1a\xcfs\xdc?'
+p529
+tp530
+Rp531
+tp532
+a(S'francisco javier carrillo gamboa'
+p533
+g2
+(g6
+S'6\xc5h\x82@`\xdc?'
+p534
+tp535
+Rp536
+tp537
+a(S'open knowledge'
+p538
+g2
+(g6
+S'\xfb\x8d\x16\x91@Y\xdc?'
+p539
+tp540
+Rp541
+tp542
+a(S'aparoksha'
+p543
+g2
+(g6
+S'/,L\xcfA?\xdc?'
+p544
+tp545
+Rp546
+tp547
+a(S'tree of knowledge'
+p548
+g2
+(g6
+S'K[\xfa\xf5\xb10\xdc?'
+p549
+tp550
+Rp551
+tp552
+a(S'lee shulman'
+p553
+g2
+(g6
+S'\\z\x0c\xc6\xe6\x01\xdc?'
+p554
+tp555
+Rp556
+tp557
+a(S'journal of knowledge management'
+p558
+g2
+(g6
+S'\xf9\xf0\xb6\x98\x19\x01\xdc?'
+p559
+tp560
+Rp561
+tp562
+a(S'knowledge commons'
+p563
+g2
+(g6
+S'\xb3\x9f-<\xa0\xdc\xdb?'
+p564
+tp565
+Rp566
+tp567
+a(S'ripple-down rules'
+p568
+g2
+(g6
+S'w\xfd\x82\xbbV\xca\xdb?'
+p569
+tp570
+Rp571
+tp572
+a(S'knowledge graph'
+p573
+g2
+(g6
+S'\x9b\xe5\x85\x9ft\xb3\xdb?'
+p574
+tp575
+Rp576
+tp577
+a(S'metaknowledge'
+p578
+g2
+(g6
+S'\xdf+\xfbu\x87\xad\xdb?'
+p579
+tp580
+Rp581
+tp582
+a(S'knowledge level modeling'
+p583
+g2
+(g6
+S'.\xafW\xf2(l\xdb?'
+p584
+tp585
+Rp586
+tp587
+a(S'the knowledge academy'
+p588
+g2
+(g6
+S'y\x121\x8b\xe7_\xdb?'
+p589
+tp590
+Rp591
+tp592
+a(S'knowledge machine'
+p593
+g2
+(g6
+S'\xa3\xbf\x9a\x1e\x83K\xdb?'
+p594
+tp595
+Rp596
+tp597
+a(S'new club of paris'
+p598
+g2
+(g6
+S'N-\x99\xf2\xce9\xdb?'
+p599
+tp600
+Rp601
+tp602
+a(S'knowledge neglect'
+p603
+g2
+(g6
+S'\x81\xd4)\xca\xd4)\xdb?'
+p604
+tp605
+Rp606
+tp607
+a(S'k-commerce'
+p608
+g2
+(g6
+S'\xc6\xc6.R\xf1$\xdb?'
+p609
+tp610
+Rp611
+tp612
+a(S'knowledge policy'
+p613
+g2
+(g6
+S'9t\xa1M\xb6\x06\xdb?'
+p614
+tp615
+Rp616
+tp617
+a(S'cognitive assets'
+p618
+g2
+(g6
+S'8\x1bLUl\x04\xdb?'
+p619
+tp620
+Rp621
+tp622
+a(S'metacognition'
+p623
+g2
+(g6
+S'\xdd\x1b\xee\x0e}\x01\xdb?'
+p624
+tp625
+Rp626
+tp627
+a(S'gnosology'
+p628
+g2
+(g6
+S'n\x8dh\x11\x89\xf7\xda?'
+p629
+tp630
+Rp631
+tp632
+a(S'eolas (disambiguation)'
+p633
+g2
+(g6
+S's\xf7\xe5\xdcv\xcb\xda?'
+p634
+tp635
+Rp636
+tp637
+a(S'openurl knowledge base'
+p638
+g2
+(g6
+S'\xae\xc0\xd3\x00!\xae\xda?'
+p639
+tp640
+Rp641
+tp642
+a(S'purvas'
+p643
+g2
+(g6
+S'\xb1\xe9\xcdc\xde\xa4\xda?'
+p644
+tp645
+Rp646
+tp647
+a(S'proof of knowledge'
+p648
+g2
+(g6
+S'\xfav\xf0\x1d\xae\x90\xda?'
+p649
+tp650
+Rp651
+tp652
+a(S'lognet'
+p653
+g2
+(g6
+S'\xa6\x9f\xcc66\x86\xda?'
+p654
+tp655
+Rp656
+tp657
+a(S'corporate amnesia'
+p658
+g2
+(g6
+S'\xc7\xed\xd3dyK\xda?'
+p659
+tp660
+Rp661
+tp662
+a(S'knowledge management software'
+p663
+g2
+(g6
+S'Ai\xfc\xe1\xe3=\xda?'
+p664
+tp665
+Rp666
+tp667
+a(S'knowledge query and manipulation language'
+p668
+g2
+(g6
+S'\x1eBD\xee\xe65\xda?'
+p669
+tp670
+Rp671
+tp672
+a(S'social cognitive optimization'
+p673
+g2
+(g6
+S'\xb1\x8a3\xc2\xa7\xf9\xd9?'
+p674
+tp675
+Rp676
+tp677
+a(S'kevin desouza'
+p678
+g2
+(g6
+S'\xe0?\x9bqG\xef\xd9?'
+p679
+tp680
+Rp681
+tp682
+a(S'common knowledge (logic)'
+p683
+g2
+(g6
+S'm\xec7\xdf\x17\xef\xd9?'
+p684
+tp685
+Rp686
+tp687
+a(S'symbol level'
+p688
+g2
+(g6
+S"\xa5\xcaj'\xd1\xdb\xd9?"
+p689
+tp690
+Rp691
+tp692
+a(S'integrated collaboration environment'
+p693
+g2
+(g6
+S'\x1e\x04\x93\xe3i\xd3\xd9?'
+p694
+tp695
+Rp696
+tp697
+a(S'network-centric organization'
+p698
+g2
+(g6
+S'r\xe8\xda7w\xbc\xd9?'
+p699
+tp700
+Rp701
+tp702
+a(S"women's ways of knowing"
+p703
+g2
+(g6
+S'\x98\x82\xdd\xf6@\x95\xd9?'
+p704
+tp705
+Rp706
+tp707
+a(S'd3web'
+p708
+g2
+(g6
+S'\x0c/\x18\x8f\xaf\x81\xd9?'
+p709
+tp710
+Rp711
+tp712
+a(S'knowledge collection from volunteer contributors'
+p713
+g2
+(g6
+S'\xd6\x08\xa1\xcb4y\xd9?'
+p714
+tp715
+Rp716
+tp717
+a(S'knowledge deficit'
+p718
+g2
+(g6
+S'vvH\xd4\xaai\xd9?'
+p719
+tp720
+Rp721
+tp722
+a(S'selfsourcing'
+p723
+g2
+(g6
+S'\xe7\xba0\x92\xaef\xd9?'
+p724
+tp725
+Rp726
+tp727
+a(S'ibtina theory'
+p728
+g2
+(g6
+S'\xea\x8c3s\xf4e\xd9?'
+p729
+tp730
+Rp731
+tp732
+a(S'community of practice'
+p733
+g2
+(g6
+S"\x15\xa0'\x8d\xa1^\xd9?"
+p734
+tp735
+Rp736
+tp737
+a(S'evi (software)'
+p738
+g2
+(g6
+S'\x8aj\x91\x17N8\xd9?'
+p739
+tp740
+Rp741
+tp742
+a(S'wirearchy'
+p743
+g2
+(g6
+S'x\xe4\x9f\xfd\xc1$\xd9?'
+p744
+tp745
+Rp746
+tp747
+a(S'guy st. clair'
+p748
+g2
+(g6
+S'\x87\xd9Q\xe6K\x13\xd9?'
+p749
+tp750
+Rp751
+tp752
+a(S'amar gupta'
+p753
+g2
+(g6
+S'\xc7\x8f\x19\xb9\xdf\x10\xd9?'
+p754
+tp755
+Rp756
+tp757
+a(S'fle3'
+p758
+g2
+(g6
+S'\xb5R\x0cV\xb7\xf8\xd8?'
+p759
+tp760
+Rp761
+tp762
+a(S'power-knowledge'
+p763
+g2
+(g6
+S'o9\xfc\xf5D\xec\xd8?'
+p764
+tp765
+Rp766
+tp767
+a(S'knowledge-based engineering'
+p768
+g2
+(g6
+S'\x80Zm\x91%\xe4\xd8?'
+p769
+tp770
+Rp771
+tp772
+a(S'process capital'
+p773
+g2
+(g6
+S'\\\xe3\xaa\xd2\xe2\xde\xd8?'
+p774
+tp775
+Rp776
+tp777
+a(S'chronosophy'
+p778
+g2
+(g6
+S'\xe1\xdag`\xfe\xcf\xd8?'
+p779
+tp780
+Rp781
+tp782
+a(S'transactive memory'
+p783
+g2
+(g6
+S'[\xa2\x1a\xe6l\xc3\xd8?'
+p784
+tp785
+Rp786
+tp787
+a(S'configuration design'
+p788
+g2
+(g6
+S't\xe2\x9dI\x10\x99\xd8?'
+p789
+tp790
+Rp791
+tp792
+a(S'knowledge river'
+p793
+g2
+(g6
+S'\xfd[D\x0bW\x90\xd8?'
+p794
+tp795
+Rp796
+tp797
+a(S'knowledge transferring assessment'
+p798
+g2
+(g6
+S'WY\xa2`_\x81\xd8?'
+p799
+tp800
+Rp801
+tp802
+a(S'encyclopedic knowledge'
+p803
+g2
+(g6
+S'K\xbe\xe4s\xedo\xd8?'
+p804
+tp805
+Rp806
+tp807
+a(S'patricia alexander'
+p808
+g2
+(g6
+S'\xf4\xc5\xf3\xeb3j\xd8?'
+p809
+tp810
+Rp811
+tp812
+a(S'kindercare education'
+p813
+g2
+(g6
+S'nV;M\xa5i\xd8?'
+p814
+tp815
+Rp816
+tp817
+a(S'access to knowledge movement'
+p818
+g2
+(g6
+S'Vs\x8f7\xc8R\xd8?'
+p819
+tp820
+Rp821
+tp822
+a(S'zero-knowledge proof'
+p823
+g2
+(g6
+S'\xf7\xa1n\x9d\x8bL\xd8?'
+p824
+tp825
+Rp826
+tp827
+a(S'knowledge organization system'
+p828
+g2
+(g6
+S'Py\xe1\xb3\xac1\xd8?'
+p829
+tp830
+Rp831
+tp832
+a(S'know-how trading'
+p833
+g2
+(g6
+S'\xa8\xb2\x1d\xe5\xdc/\xd8?'
+p834
+tp835
+Rp836
+tp837
+a(S'confidence-based learning'
+p838
+g2
+(g6
+S'QXGA\x11"\xd8?'
+p839
+tp840
+Rp841
+tp842
+a(S'karnataka knowledge commission'
+p843
+g2
+(g6
+S'\xd4/\xad\xac\xa2\xed\xd7?'
+p844
+tp845
+Rp846
+tp847
+a(S'contextualism'
+p848
+g2
+(g6
+S'\x03OK\xe7s\xe8\xd7?'
+p849
+tp850
+Rp851
+tp852
+a(S'tom gruber'
+p853
+g2
+(g6
+S'\xba\x95\x04\xe4\xc2\xde\xd7?'
+p854
+tp855
+Rp856
+tp857
+a(S'knowledge web'
+p858
+g2
+(g6
+S'\x918?\xf3\x0c\xcb\xd7?'
+p859
+tp860
+Rp861
+tp862
+a(S'mutual knowledge'
+p863
+g2
+(g6
+S'\x07\x1c\xae\x1a\xed\xc1\xd7?'
+p864
+tp865
+Rp866
+tp867
+a(S'london knowledge lab'
+p868
+g2
+(g6
+S'js\xf2\xf4\xb5\xbc\xd7?'
+p869
+tp870
+Rp871
+tp872
+a(S'mode 2'
+p873
+g2
+(g6
+S'^\x02xF\xac\xb5\xd7?'
+p874
+tp875
+Rp876
+tp877
+a(S'on practice'
+p878
+g2
+(g6
+S'\xd7\x13NU\xa5\xac\xd7?'
+p879
+tp880
+Rp881
+tp882
+a(S'robert de hoog (scientist)'
+p883
+g2
+(g6
+S'T\xf0\x0f\x81\xda\xa9\xd7?'
+p884
+tp885
+Rp886
+tp887
+a(S'mountain quest institute'
+p888
+g2
+(g6
+S'J.\xaf\x0f\xfa\x9f\xd7?'
+p889
+tp890
+Rp891
+tp892
+a(S'half-life of knowledge'
+p893
+g2
+(g6
+S'[Y\xf4\xee\x1a\x93\xd7?'
+p894
+tp895
+Rp896
+tp897
+a(S'knowledge acquisition'
+p898
+g2
+(g6
+S'\xbc]Uh\xfc\x90\xd7?'
+p899
+tp900
+Rp901
+tp902
+a(S'knowledge based community sharing system'
+p903
+g2
+(g6
+S'G\x82PzI\x8b\xd7?'
+p904
+tp905
+Rp906
+tp907
+a(S'max boisot'
+p908
+g2
+(g6
+S'\xf1\xab\x80\xcb\x93u\xd7?'
+p909
+tp910
+Rp911
+tp912
+a(S'knowledge organization (journal)'
+p913
+g2
+(g6
+S'\x01\xa5\xc7\x1d\x9bp\xd7?'
+p914
+tp915
+Rp916
+tp917
+a(S'knowledge survey'
+p918
+g2
+(g6
+S'E\x19\x83\xf3\xbfb\xd7?'
+p919
+tp920
+Rp921
+tp922
+a(S'open knowledge international'
+p923
+g2
+(g6
+S'\x0e\xe2\x93\xcar^\xd7?'
+p924
+tp925
+Rp926
+tp927
+a(S'asia-pacific telecentre network'
+p928
+g2
+(g6
+S'\xf8\x888=\xf1\\\xd7?'
+p929
+tp930
+Rp931
+tp932
+a(S'sociology of knowledge'
+p933
+g2
+(g6
+S'\xe4\x85\xed\xdc\xc6T\xd7?'
+p934
+tp935
+Rp936
+tp937
+a(S'free knowledge foundation'
+p938
+g2
+(g6
+S'j\x87R\x879S\xd7?'
+p939
+tp940
+Rp941
+tp942
+a(S'jijnasa'
+p943
+g2
+(g6
+S'\xe2\xcf\x8f\x0f\x1dN\xd7?'
+p944
+tp945
+Rp946
+tp947
+a(S'domain-specific learning'
+p948
+g2
+(g6
+S'O\xbf\xe49\x92A\xd7?'
+p949
+tp950
+Rp951
+tp952
+a(S'gnosiology'
+p953
+g2
+(g6
+S'T\x07\x08]\x0c7\xd7?'
+p954
+tp955
+Rp956
+tp957
+a(S'anuvyavasaya'
+p958
+g2
+(g6
+S'3\xd6\xfc2 )\xd7?'
+p959
+tp960
+Rp961
+tp962
+a(S'martin j. eppler'
+p963
+g2
+(g6
+S'\xb0rd\x12+\x13\xd7?'
+p964
+tp965
+Rp966
+tp967
+a(S'bob wielinga'
+p968
+g2
+(g6
+S'\xb6V\xdcNX\x0f\xd7?'
+p969
+tp970
+Rp971
+tp972
+a(S'brian r. gaines'
+p973
+g2
+(g6
+S'\xd3\xba\xa42\xd4\xfe\xd6?'
+p974
+tp975
+Rp976
+tp977
+a(S'knowledge search'
+p978
+g2
+(g6
+S'vK\x10t\xde\xe3\xd6?'
+p979
+tp980
+Rp981
+tp982
+a(S'history of knowledge'
+p983
+g2
+(g6
+S'I\xe6g\x96\xd9\xd5\xd6?'
+p984
+tp985
+Rp986
+tp987
+a(S'gnosis'
+p988
+g2
+(g6
+S'\x19\xd4\x1d\xfe>\xce\xd6?'
+p989
+tp990
+Rp991
+tp992
+a(S'carl bereiter'
+p993
+g2
+(g6
+S'\xe4\x19]Uz\xc7\xd6?'
+p994
+tp995
+Rp996
+tp997
+a(S'km programming language'
+p998
+g2
+(g6
+S'\x96.w\x8a:\xb1\xd6?'
+p999
+tp1000
+Rp1001
+tp1002
+a(S"joy's law (management)"
+p1003
+g2
+(g6
+S'p\x06\xe3\xf3\xd3\xa6\xd6?'
+p1004
+tp1005
+Rp1006
+tp1007
+a(S'preliminary discourse to the encyclopedia of diderot'
+p1008
+g2
+(g6
+S'\x8b\x0e6X\x1e\xa6\xd6?'
+p1009
+tp1010
+Rp1011
+tp1012
+a(S'pablo mach\xc3\xb3n'
+p1013
+g2
+(g6
+S'>\x8aE\x9b\xa3\x8e\xd6?'
+p1014
+tp1015
+Rp1016
+tp1017
+a(S'curse of knowledge'
+p1018
+g2
+(g6
+S';\xcd\xb5E\x98z\xd6?'
+p1019
+tp1020
+Rp1021
+tp1022
+a(S'natural history in the spanish new world'
+p1023
+g2
+(g6
+S'\xc4\xf85o\x07z\xd6?'
+p1024
+tp1025
+Rp1026
+tp1027
+a(S'richard fikes'
+p1028
+g2
+(g6
+S'\x0c\xbdDAXf\xd6?'
+p1029
+tp1030
+Rp1031
+tp1032
+a(S'henry t. laurency'
+p1033
+g2
+(g6
+S'\xc0n\xe9X\xc1]\xd6?'
+p1034
+tp1035
+Rp1036
+tp1037
+a(S'communicate knowledge manifesto'
+p1038
+g2
+(g6
+S'\x04\xda\xc4,\x8a,\xd6?'
+p1039
+tp1040
+Rp1041
+tp1042
+a(S'praxis test'
+p1043
+g2
+(g6
+S'\x95\x89\xdd\xef~\x0e\xd6?'
+p1044
+tp1045
+Rp1046
+tp1047
+a(S'information coding classification'
+p1048
+g2
+(g6
+S'MV\xb1\xe0\x9c\xf8\xd5?'
+p1049
+tp1050
+Rp1051
+tp1052
+a(S'knowledge (legal construct)'
+p1053
+g2
+(g6
+S'X\xe6\xba/c\xf5\xd5?'
+p1054
+tp1055
+Rp1056
+tp1057
+a(S'knowledge crystal'
+p1058
+g2
+(g6
+S'\xc2\x07\x91>"\xec\xd5?'
+p1059
+tp1060
+Rp1061
+tp1062
+a(S'cassell\xe2\x80\x99s book of knowledge'
+p1063
+g2
+(g6
+S'\x96b\x92\xe2\xa0\xe5\xd5?'
+p1064
+tp1065
+Rp1066
+tp1067
+a(S'the social construction of reality'
+p1068
+g2
+(g6
+S'B\xef\xde5\x9a\xd3\xd5?'
+p1069
+tp1070
+Rp1071
+tp1072
+a(S'bbc knowledge (magazine)'
+p1073
+g2
+(g6
+S'\xf9W\xf1X0\xcc\xd5?'
+p1074
+tp1075
+Rp1076
+tp1077
+a(S'enactive interfaces'
+p1078
+g2
+(g6
+S'\x8a\x0f\xd5\x17\xd0\xc5\xd5?'
+p1079
+tp1080
+Rp1081
+tp1082
+a(S'domain-general learning'
+p1083
+g2
+(g6
+S'\x89C\x18\xd1\xd5\xc0\xd5?'
+p1084
+tp1085
+Rp1086
+tp1087
+a(S'ny\xc4\x81ya s\xc5\xabtras'
+p1088
+g2
+(g6
+S'{\xd0\xd4\xa2\x93\xb5\xd5?'
+p1089
+tp1090
+Rp1091
+tp1092
+a(S'information management body of knowledge'
+p1093
+g2
+(g6
+S'd\xacMaq\x9a\xd5?'
+p1094
+tp1095
+Rp1096
+tp1097
+a(S'the info project'
+p1098
+g2
+(g6
+S'\xf6\xc9\xc2\xc0\xa9\x98\xd5?'
+p1099
+tp1100
+Rp1101
+tp1102
+a(S'national centre for science information'
+p1103
+g2
+(g6
+S'\x15gU\xcb\x96\x8e\xd5?'
+p1104
+tp1105
+Rp1106
+tp1107
+a(S'extelligence'
+p1108
+g2
+(g6
+S'\x90\xfa\x07\x1d\x93\x7f\xd5?'
+p1109
+tp1110
+Rp1111
+tp1112
+a(S'intelligence in nature'
+p1113
+g2
+(g6
+S'\x19T\xb5.\x87y\xd5?'
+p1114
+tp1115
+Rp1116
+tp1117
+a(S'knowledge and its limits'
+p1118
+g2
+(g6
+S'\x8e\xd3j\xbe\xfac\xd5?'
+p1119
+tp1120
+Rp1121
+tp1122
+a(S'wouter tebbens'
+p1123
+g2
+(g6
+S'\xd0\xb8\x01\xb2j7\xd5?'
+p1124
+tp1125
+Rp1126
+tp1127
+a(S'marilyn leask'
+p1128
+g2
+(g6
+S'\xa3\\\x12\xf5\x904\xd5?'
+p1129
+tp1130
+Rp1131
+tp1132
+a(S'genetic epistemology'
+p1133
+g2
+(g6
+S'\x11\x7f\x1e\xe1\x920\xd5?'
+p1134
+tp1135
+Rp1136
+tp1137
+a(S'knowledge triangle'
+p1138
+g2
+(g6
+S'B\xe6\x16\xb5\xa0)\xd5?'
+p1139
+tp1140
+Rp1141
+tp1142
+a(S'nico stehr'
+p1143
+g2
+(g6
+S'X7\xbc\x1fx!\xd5?'
+p1144
+tp1145
+Rp1146
+tp1147
+a(S'ittoolbox'
+p1148
+g2
+(g6
+S'\x11\xa8\x98\n\xa1\x1e\xd5?'
+p1149
+tp1150
+Rp1151
+tp1152
+a(S'a.d. amar'
+p1153
+g2
+(g6
+S'qJwqX\xf1\xd4?'
+p1154
+tp1155
+Rp1156
+tp1157
+a(S'national knowledge commission'
+p1158
+g2
+(g6
+S'\x86\x03P\x1a\x11\xe2\xd4?'
+p1159
+tp1160
+Rp1161
+tp1162
+a(S'too big to know'
+p1163
+g2
+(g6
+S'\xfc\xab\x14\x0f4\xe0\xd4?'
+p1164
+tp1165
+Rp1166
+tp1167
+a(S'gennady simeonovich osipov'
+p1168
+g2
+(g6
+S'W\xc0Q\xed\xa3\xde\xd4?'
+p1169
+tp1170
+Rp1171
+tp1172
+a(S'glossary of education terms (d\xe2\x80\x93f)'
+p1173
+g2
+(g6
+S'\x9a\x9f\x91`\xc8\xd9\xd4?'
+p1174
+tp1175
+Rp1176
+tp1177
+a(S'management development research foundation'
+p1178
+g2
+(g6
+S'\x9d\xa1\xf3\xf7\xa2\xd3\xd4?'
+p1179
+tp1180
+Rp1181
+tp1182
+a(S'index of windows games (j)'
+p1183
+g2
+(g6
+S's\xe8\xbci\x02\xc9\xd4?'
+p1184
+tp1185
+Rp1186
+tp1187
+a(S'mathematical knowledge management'
+p1188
+g2
+(g6
+S'8\xb8\x0e\xec\xdc\xb5\xd4?'
+p1189
+tp1190
+Rp1191
+tp1192
+a(S'scientia potentia est'
+p1193
+g2
+(g6
+S'\\\xf1\xae\n\xf8\xb1\xd4?'
+p1194
+tp1195
+Rp1196
+tp1197
+a(S's. barry barnes'
+p1198
+g2
+(g6
+S'\xa9\x9f%\xf8\x93\x93\xd4?'
+p1199
+tp1200
+Rp1201
+tp1202
+a(S'research (disambiguation)'
+p1203
+g2
+(g6
+S'\x8e\xac\xbf\xb7\x9c\x91\xd4?'
+p1204
+tp1205
+Rp1206
+tp1207
+a(S'zero knowledge'
+p1208
+g2
+(g6
+S'\x81-\x9f\xaaH\x89\xd4?'
+p1209
+tp1210
+Rp1211
+tp1212
+a(S'paul justin compton'
+p1213
+g2
+(g6
+S'b\x85\xcb\n_\x88\xd4?'
+p1214
+tp1215
+Rp1216
+tp1217
+a(S'activist knowledge'
+p1218
+g2
+(g6
+S'\x80\x07\x18\x1a\x1b\x85\xd4?'
+p1219
+tp1220
+Rp1221
+tp1222
+a(S'teacher quality'
+p1223
+g2
+(g6
+S'zIb\xf5\xfat\xd4?'
+p1224
+tp1225
+Rp1226
+tp1227
+a(S'gnowsys'
+p1228
+g2
+(g6
+S'4\xd0t\xbe\xf2m\xd4?'
+p1229
+tp1230
+Rp1231
+tp1232
+a(S'sharing'
+p1233
+g2
+(g6
+S'\x8e\xac\x01\x08\xe3W\xd4?'
+p1234
+tp1235
+Rp1236
+tp1237
+a(S'expertise reversal effect'
+p1238
+g2
+(g6
+S'\xfdg?aOV\xd4?'
+p1239
+tp1240
+Rp1241
+tp1242
+a(S'frank van harmelen'
+p1243
+g2
+(g6
+S'Z\xf1\x95_FT\xd4?'
+p1244
+tp1245
+Rp1246
+tp1247
+a(S'gregoris mentzas'
+p1248
+g2
+(g6
+S'"\xaa\xde\xaf\x0fO\xd4?'
+p1249
+tp1250
+Rp1251
+tp1252
+a(S'knowledge of results'
+p1253
+g2
+(g6
+S'\xc1\x8e\x9b~\xdf@\xd4?'
+p1254
+tp1255
+Rp1256
+tp1257
+a(S'knowledge institute of technology'
+p1258
+g2
+(g6
+S'\xa0\xe1\\\xb4\x07@\xd4?'
+p1259
+tp1260
+Rp1261
+tp1262
+a(S'vivid knowledge'
+p1263
+g2
+(g6
+S'8\xcam\x07\xa69\xd4?'
+p1264
+tp1265
+Rp1266
+tp1267
+a(S'knowledge of christ'
+p1268
+g2
+(g6
+S'\xca\xad&\xc8\xd07\xd4?'
+p1269
+tp1270
+Rp1271
+tp1272
+a(S'legal case management'
+p1273
+g2
+(g6
+S'#\xe9\xd3S\xf40\xd4?'
+p1274
+tp1275
+Rp1276
+tp1277
+a(S'line 14, guangzhou metro'
+p1278
+g2
+(g6
+S'\xb4\xe1q\x97?,\xd4?'
+p1279
+tp1280
+Rp1281
+tp1282
+a(S'institute of knowledge transfer'
+p1283
+g2
+(g6
+S"Y\xdf\\\x82k'\xd4?"
+p1284
+tp1285
+Rp1286
+tp1287
+a(S'knowledge retrieval'
+p1288
+g2
+(g6
+S'mK\xe8\xe1\xd6"\xd4?'
+p1289
+tp1290
+Rp1291
+tp1292
+a(S'empirical research'
+p1293
+g2
+(g6
+S'=\xeb\xda\xb5\x97 \xd4?'
+p1294
+tp1295
+Rp1296
+tp1297
+a(S'expert system'
+p1298
+g2
+(g6
+S'J+\x05\xca\x86 \xd4?'
+p1299
+tp1300
+Rp1301
+tp1302
+a(S'riba knowledge communities'
+p1303
+g2
+(g6
+S'}\xf0F\xf2\xf5\x10\xd4?'
+p1304
+tp1305
+Rp1306
+tp1307
+a(S'integration objects'
+p1308
+g2
+(g6
+S'\xe6=\x90\xa32\x0c\xd4?'
+p1309
+tp1310
+Rp1311
+tp1312
+a(S'second-language acquisition classroom research'
+p1313
+g2
+(g6
+S'\t\x15P)\xe6\xfc\xd3?'
+p1314
+tp1315
+Rp1316
+tp1317
+a(S'dangerous knowledge'
+p1318
+g2
+(g6
+S'\xb1r\x93,\xf8\xfb\xd3?'
+p1319
+tp1320
+Rp1321
+tp1322
+a(S'meaningful learning'
+p1323
+g2
+(g6
+S'\xbd\xb5\x1d\xc7u\xf4\xd3?'
+p1324
+tp1325
+Rp1326
+tp1327
+a(S'flat world knowledge'
+p1328
+g2
+(g6
+S'Q>\xacJ\xb2\xeb\xd3?'
+p1329
+tp1330
+Rp1331
+tp1332
+a(S'knowledge and skills framework'
+p1333
+g2
+(g6
+S'\x18(\xe0R\xe6\xd8\xd3?'
+p1334
+tp1335
+Rp1336
+tp1337
+a(S'knowledge engineering and machine learning group'
+p1338
+g2
+(g6
+S'\xd1\x8dA\x0c\xd8\xd4\xd3?'
+p1339
+tp1340
+Rp1341
+tp1342
+a(S'information management'
+p1343
+g2
+(g6
+S'S\xa3@3\x0f\xd3\xd3?'
+p1344
+tp1345
+Rp1346
+tp1347
+a(S'pillowfish'
+p1348
+g2
+(g6
+S'37H\x1d\x8d\xce\xd3?'
+p1349
+tp1350
+Rp1351
+tp1352
+a(S'open mind common sense'
+p1353
+g2
+(g6
+S'dt\xb3DQ\xcb\xd3?'
+p1354
+tp1355
+Rp1356
+tp1357
+a(S'semantic research'
+p1358
+g2
+(g6
+S'\xa8g\xcct\x89\xc6\xd3?'
+p1359
+tp1360
+Rp1361
+tp1362
+a(S'glossary of education terms (p\xe2\x80\x93r)'
+p1363
+g2
+(g6
+S'9a\xbc\x835\xc6\xd3?'
+p1364
+tp1365
+Rp1366
+tp1367
+a(S'ikujiro nonaka'
+p1368
+g2
+(g6
+S"\x13E\xf0'6\xc5\xd3?"
+p1369
+tp1370
+Rp1371
+tp1372
+a(S"bloom's taxonomy"
+p1373
+g2
+(g6
+S'\x83\xaab\xbcH\xc3\xd3?'
+p1374
+tp1375
+Rp1376
+tp1377
+a(S'forbidden knowledge'
+p1378
+g2
+(g6
+S'80\x08}\xe0\xb0\xd3?'
+p1379
+tp1380
+Rp1381
+tp1382
+a(S'knowledge management research & practice'
+p1383
+g2
+(g6
+S'\xc1\xa6\x8b\xe7M\xaa\xd3?'
+p1384
+tp1385
+Rp1386
+tp1387
+a(S'list of educational institutions which have sanskrit phrases as their mottos'
+p1388
+g2
+(g6
+S'\xf4\xeaSp\x92\xa6\xd3?'
+p1389
+tp1390
+Rp1391
+tp1392
+a(S'ronald e. day'
+p1393
+g2
+(g6
+S'\xf0\x89\xf6V\x93\x9f\xd3?'
+p1394
+tp1395
+Rp1396
+tp1397
+a(S'indigenous knowledge centre'
+p1398
+g2
+(g6
+S' \xef\xa4\xa2\x91\x9f\xd3?'
+p1399
+tp1400
+Rp1401
+tp1402
+a(S'knowledge translation'
+p1403
+g2
+(g6
+S'G\xf5\xfd\x9ey\x98\xd3?'
+p1404
+tp1405
+Rp1406
+tp1407
+a(S'molinism'
+p1408
+g2
+(g6
+S'\xbe\xee5\x9c\x04\x98\xd3?'
+p1409
+tp1410
+Rp1411
+tp1412
+a(S'paroksha'
+p1413
+g2
+(g6
+S'Q\xee@\xcf3\x97\xd3?'
+p1414
+tp1415
+Rp1416
+tp1417
+a(S'agnoetae'
+p1418
+g2
+(g6
+S'b\xd4LZ\x0e\x94\xd3?'
+p1419
+tp1420
+Rp1421
+tp1422
+a(S'elicitation technique'
+p1423
+g2
+(g6
+S'\x81iJ\xd7\x84\x8d\xd3?'
+p1424
+tp1425
+Rp1426
+tp1427
+a(S'european qualifications framework'
+p1428
+g2
+(g6
+S'\xe0\xcc\xb6\xc4#\x8a\xd3?'
+p1429
+tp1430
+Rp1431
+tp1432
+a(S'geographic information science and technology body of knowledge'
+p1433
+g2
+(g6
+S'0\xe6q\xda\x95\x89\xd3?'
+p1434
+tp1435
+Rp1436
+tp1437
+a(S'kshetrajna'
+p1438
+g2
+(g6
+S'\xd5\x15,\xdf\xc3\x82\xd3?'
+p1439
+tp1440
+Rp1441
+tp1442
+a(S'non-interactive zero-knowledge proof'
+p1443
+g2
+(g6
+S'\x0f,a;\x08\x80\xd3?'
+p1444
+tp1445
+Rp1446
+tp1447
+a(S'what engineers know and how they know it'
+p1448
+g2
+(g6
+S':1:}\x0fv\xd3?'
+p1449
+tp1450
+Rp1451
+tp1452
+a(S'knowledge economic city, medina'
+p1453
+g2
+(g6
+S'\\\x9b\x19\x97eu\xd3?'
+p1454
+tp1455
+Rp1456
+tp1457
+a(S"women's knowledge international"
+p1458
+g2
+(g6
+S'\xba\xab\xaa\xa6\xe9i\xd3?'
+p1459
+tp1460
+Rp1461
+tp1462
+a(S'public knowledge'
+p1463
+g2
+(g6
+S'\xc7\xd2\x15\xfc\xfdf\xd3?'
+p1464
+tp1465
+Rp1466
+tp1467
+a(S'knowledge balance sheet'
+p1468
+g2
+(g6
+S'W\\\xae\xe9Nf\xd3?'
+p1469
+tp1470
+Rp1471
+tp1472
+a(S'vincent mangematin'
+p1473
+g2
+(g6
+S'd\x9d\xf6\xb9\xe7b\xd3?'
+p1474
+tp1475
+Rp1476
+tp1477
+a(S'joseph g. davis'
+p1478
+g2
+(g6
+S'\xb1ovC\x19T\xd3?'
+p1479
+tp1480
+Rp1481
+tp1482
+a(S'the structure and interpretation of the computer science curriculum'
+p1483
+g2
+(g6
+S'\xe6\xd7\x87\x9c\x88P\xd3?'
+p1484
+tp1485
+Rp1486
+tp1487
+a(S'leibniz center for law'
+p1488
+g2
+(g6
+S',\xa4,7\xb3O\xd3?'
+p1489
+tp1490
+Rp1491
+tp1492
+a(S'para vidya'
+p1493
+g2
+(g6
+S'\xfd\xa8\xedu\x12J\xd3?'
+p1494
+tp1495
+Rp1496
+tp1497
+a(S'teachings of prem rawat'
+p1498
+g2
+(g6
+S'\xcc\x1d#\xc1\x02B\xd3?'
+p1499
+tp1500
+Rp1501
+tp1502
+a(S'sven voelpel'
+p1503
+g2
+(g6
+S'\x8a\xb0kS\xfd>\xd3?'
+p1504
+tp1505
+Rp1506
+tp1507
+a(S'software engineering body of knowledge'
+p1508
+g2
+(g6
+S'x\xfd\x83@+0\xd3?'
+p1509
+tp1510
+Rp1511
+tp1512
+a.

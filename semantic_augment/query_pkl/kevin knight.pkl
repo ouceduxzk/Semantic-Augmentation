@@ -1,0 +1,2728 @@
+(lp0
+(S'kevin knight'
+p1
+cnumpy.core.multiarray
+scalar
+p2
+(cnumpy
+dtype
+p3
+(S'f8'
+p4
+I0
+I1
+tp5
+Rp6
+(I3
+S'<'
+p7
+NNNI-1
+I-1
+I0
+tp8
+bS'\x00\x00\x00\x00\x00\x00\xf0?'
+p9
+tp10
+Rp11
+tp12
+a(S'2011 richmond kickers season'
+p13
+g2
+(g6
+S'\x15]\xc0#{3\xea?'
+p14
+tp15
+Rp16
+tp17
+a(S'2010 richmond kickers season'
+p18
+g2
+(g6
+S'\x8b\x9c;ByL\xe9?'
+p19
+tp20
+Rp21
+tp22
+a(S'richmond kickers'
+p23
+g2
+(g6
+S'p\x91\xd5oeK\xe9?'
+p24
+tp25
+Rp26
+tp27
+a(S'leigh cowlishaw'
+p28
+g2
+(g6
+S'\xbe\xee\xb8\xd8\xd0\xcc\xe8?'
+p29
+tp30
+Rp31
+tp32
+a(S'2009 richmond kickers season'
+p33
+g2
+(g6
+S"\xb1'\x02\xfcJ\xc2\xe8?"
+p34
+tp35
+Rp36
+tp37
+a(S'peter luzak'
+p38
+g2
+(g6
+S'\xb8F,\xaa\xe8\xae\xe8?'
+p39
+tp40
+Rp41
+tp42
+a(S'yomby william'
+p43
+g2
+(g6
+S'NE\xdb\x03?\xa8\xe8?'
+p44
+tp45
+Rp46
+tp47
+a(S'sascha g\xc3\xb6rres'
+p48
+g2
+(g6
+S'*\n^\xd5\xe4a\xe8?'
+p49
+tp50
+Rp51
+tp52
+a(S'2017 richmond kickers season'
+p53
+g2
+(g6
+S's\x99[B \xd2\xe7?'
+p54
+tp55
+Rp56
+tp57
+a(S'richmond kickers destiny'
+p58
+g2
+(g6
+S'\xc3\xd6\xc8|<\xb3\xe7?'
+p59
+tp60
+Rp61
+tp62
+a(S'david bulow'
+p63
+g2
+(g6
+S'\x0e\x17GH\x93\x88\xe7?'
+p64
+tp65
+Rp66
+tp67
+a(S'gerson dos santos'
+p68
+g2
+(g6
+S'PZ:\xa3\xb1s\xe7?'
+p69
+tp70
+Rp71
+tp72
+a(S'michael burke (soccer)'
+p73
+g2
+(g6
+S',\xc0\xdd\xb9\x8f\xed\xe6?'
+p74
+tp75
+Rp76
+tp77
+a(S'ryan taylor (soccer)'
+p78
+g2
+(g6
+S'\xccO{\x95m\xe9\xe6?'
+p79
+tp80
+Rp81
+tp82
+a(S'roger bothe'
+p83
+g2
+(g6
+S'M*wevp\xe6?'
+p84
+tp85
+Rp86
+tp87
+a(S'2005 richmond kickers season'
+p88
+g2
+(g6
+S'v\xb3\xfbr\x1bV\xe6?'
+p89
+tp90
+Rp91
+tp92
+a(S'2012 richmond kickers season'
+p93
+g2
+(g6
+S'\xcc\n\x95\x16\xa7\x13\xe6?'
+p94
+tp95
+Rp96
+tp97
+a(S'richmond kickers academy'
+p98
+g2
+(g6
+S'G\xfe\\9N\x0f\xe6?'
+p99
+tp100
+Rp101
+tp102
+a(S'vaughn fowler'
+p103
+g2
+(g6
+S'\xef\x86\x92\x06>\xe8\xe5?'
+p104
+tp105
+Rp106
+tp107
+a(S'david rosenbaum (soccer)'
+p108
+g2
+(g6
+S'k\x01\x95\r\x13\xe7\xe5?'
+p109
+tp110
+Rp111
+tp112
+a(S'matthew delic\xc3\xa2te'
+p113
+g2
+(g6
+S'\xf0\x89~\xbe\xbc\xb8\xe5?'
+p114
+tp115
+Rp116
+tp117
+a(S'edson elcock'
+p118
+g2
+(g6
+S'\x17\xd8e\xc4\xc1A\xe5?'
+p119
+tp120
+Rp121
+tp122
+a(S'tony williams (soccer)'
+p123
+g2
+(g6
+S'\xaeH\xeaGh;\xe5?'
+p124
+tp125
+Rp126
+tp127
+a(S'richmond kickers future'
+p128
+g2
+(g6
+S'h\xd1\x94\x87\xa2\x10\xe5?'
+p129
+tp130
+Rp131
+tp132
+a(S'nate shiffman'
+p133
+g2
+(g6
+S'H\xc9q5\x8f\xf3\xe4?'
+p134
+tp135
+Rp136
+tp137
+a(S'bobby foglesong'
+p138
+g2
+(g6
+S'\xffLe\xc7\x07\xa7\xe4?'
+p139
+tp140
+Rp141
+tp142
+a(S'stanley nyazamba'
+p143
+g2
+(g6
+S'\xe2A^DJ\x12\xe4?'
+p144
+tp145
+Rp146
+tp147
+a(S'cristian neagu'
+p148
+g2
+(g6
+S'\xbcH\x07\xa6H\xfa\xe3?'
+p149
+tp150
+Rp151
+tp152
+a(S'ihor dotsenko'
+p153
+g2
+(g6
+S'J\x98\xaa\x03\x06\xeb\xe3?'
+p154
+tp155
+Rp156
+tp157
+a(S'ben hunter'
+p158
+g2
+(g6
+S'2\xecC\xee/\x9f\xe3?'
+p159
+tp160
+Rp161
+tp162
+a(S'henry kalungi'
+p163
+g2
+(g6
+S'J\x08\\J\x17\x8a\xe3?'
+p164
+tp165
+Rp166
+tp167
+a(S'collin martin'
+p168
+g2
+(g6
+S'_\x93\xcc`\x9ez\xe3?'
+p169
+tp170
+Rp171
+tp172
+a(S'kevin jeffrey'
+p173
+g2
+(g6
+S'\xc13\x83\xe5\no\xe3?'
+p174
+tp175
+Rp176
+tp177
+a(S'evan fowler'
+p178
+g2
+(g6
+S'\x1b\x9a\x85 \x9ei\xe3?'
+p179
+tp180
+Rp181
+tp182
+a(S'1993 richmond kickers season'
+p183
+g2
+(g6
+S'\x9bT\x18P\x7fC\xe3?'
+p184
+tp185
+Rp186
+tp187
+a(S'jordan evans (soccer)'
+p188
+g2
+(g6
+S'\xc8FDy\xbd;\xe3?'
+p189
+tp190
+Rp191
+tp192
+a(S'list of richmond kickers seasons'
+p193
+g2
+(g6
+S'"<oY\xf5\xfb\xe2?'
+p194
+tp195
+Rp196
+tp197
+a(S'fred sekyere'
+p198
+g2
+(g6
+S';\xadPt\xc2\xbd\xe2?'
+p199
+tp200
+Rp201
+tp202
+a(S'ross mackenzie (footballer)'
+p203
+g2
+(g6
+S'A\xc6\xc6)\x16\xb9\xe2?'
+p204
+tp205
+Rp206
+tp207
+a(S'chris carrieri'
+p208
+g2
+(g6
+S'\x95\xe7\xf9,\xbe\xb2\xe2?'
+p209
+tp210
+Rp211
+tp212
+a(S'luiz fernando nascimento'
+p213
+g2
+(g6
+S'\xa7&\x13\xf6\x98R\xe2?'
+p214
+tp215
+Rp216
+tp217
+a(S'ray goodlett'
+p218
+g2
+(g6
+S'\xc7\x9cA\xab\xdb;\xe2?'
+p219
+tp220
+Rp221
+tp222
+a(S'evan harding'
+p223
+g2
+(g6
+S'\xcf8\r\x7fG\x00\xe2?'
+p224
+tp225
+Rp226
+tp227
+a(S'stephen nsereko'
+p228
+g2
+(g6
+S'\xee\x8d\x81P!\x9b\xe1?'
+p229
+tp230
+Rp231
+tp232
+a(S'matthew fondy'
+p233
+g2
+(g6
+S'\xde\x1cu1\xbb\x94\xe1?'
+p234
+tp235
+Rp236
+tp237
+a(S'adrian bumbut'
+p238
+g2
+(g6
+S'\xf4\x02\xf4\xda3~\xe1?'
+p239
+tp240
+Rp241
+tp242
+a(S'conor shanosky'
+p243
+g2
+(g6
+S'\x99\xe5c\x87HQ\xe1?'
+p244
+tp245
+Rp246
+tp247
+a(S'2014 richmond kickers season'
+p248
+g2
+(g6
+S'f]4\n\x928\xe1?'
+p249
+tp250
+Rp251
+tp252
+a(S'joey worthen'
+p253
+g2
+(g6
+S'o\x0b\xeaK\xee)\xe1?'
+p254
+tp255
+Rp256
+tp257
+a(S'usl first division'
+p258
+g2
+(g6
+S'W\x9cK&U\x04\xe1?'
+p259
+tp260
+Rp261
+tp262
+a(S'luke vercollone'
+p263
+g2
+(g6
+S'\x9d\x9d\xf0O\x0b\x02\xe1?'
+p264
+tp265
+Rp266
+tp267
+a(S'alex lee (soccer)'
+p268
+g2
+(g6
+S'S\x84\xc6U\xa3\xff\xe0?'
+p269
+tp270
+Rp271
+tp272
+a(S'kenny cutler'
+p273
+g2
+(g6
+S'\x89e\xd0\x9e|\xfe\xe0?'
+p274
+tp275
+Rp276
+tp277
+a(S'hugh roberts (soccer)'
+p278
+g2
+(g6
+S'\xad\xbfoL\x9f\xda\xe0?'
+p279
+tp280
+Rp281
+tp282
+a(S'jeremy barlow'
+p283
+g2
+(g6
+S'\xb49O~=\xd0\xe0?'
+p284
+tp285
+Rp286
+tp287
+a(S'usl second division'
+p288
+g2
+(g6
+S'I\xc776o\xbf\xe0?'
+p289
+tp290
+Rp291
+tp292
+a(S'jack avesyan'
+p293
+g2
+(g6
+S'\x15=n\xb2\xe3\xba\xe0?'
+p294
+tp295
+Rp296
+tp297
+a(S'charlotte lady eagles'
+p298
+g2
+(g6
+S'\x91\xb1\xfa\xf7U~\xe0?'
+p299
+tp300
+Rp301
+tp302
+a(S'atlanta silverbacks women'
+p303
+g2
+(g6
+S'\xb6\xc0\xad\xcc\x0cu\xe0?'
+p304
+tp305
+Rp306
+tp307
+a(S'ryan heins'
+p308
+g2
+(g6
+S'+C_\xe4*l\xe0?'
+p309
+tp310
+Rp311
+tp312
+a(S'hunter gilstrap'
+p313
+g2
+(g6
+S'b\xb6|\xf0l^\xe0?'
+p314
+tp315
+Rp316
+tp317
+a(S'united soccer league'
+p318
+g2
+(g6
+S'\x9b\xb6\x16%m3\xe0?'
+p319
+tp320
+Rp321
+tp322
+a(S'ottawa fury women'
+p323
+g2
+(g6
+S'\xcf\x81\xb2\xf13!\xe0?'
+p324
+tp325
+Rp326
+tp327
+a(S'mile high edge'
+p328
+g2
+(g6
+S'gU\xa8\xb9\xbb\x11\xe0?'
+p329
+tp330
+Rp331
+tp332
+a(S'k-w united fc (w-league)'
+p333
+g2
+(g6
+S'<\x9c7\xfd7\xc5\xdf?'
+p334
+tp335
+Rp336
+tp337
+a(S'jeremy tolleson'
+p338
+g2
+(g6
+S'\xbeX6\x15\x8a\x82\xdf?'
+p339
+tp340
+Rp341
+tp342
+a(S'dustin swinehart'
+p343
+g2
+(g6
+S'\xb1\xa0J\x96nb\xdf?'
+p344
+tp345
+Rp346
+tp347
+a(S'ronnie pascale'
+p348
+g2
+(g6
+S'\xe0[\xc7\xac\x1e2\xdf?'
+p349
+tp350
+Rp351
+tp352
+a(S'kickers, inc.'
+p353
+g2
+(g6
+S':\xd4;\xc4\xf6&\xdf?'
+p354
+tp355
+Rp356
+tp357
+a(S'new hampshire lady phantoms'
+p358
+g2
+(g6
+S'E\xb1\xe6;\xa9\x02\xdf?'
+p359
+tp360
+Rp361
+tp362
+a(S'1999 richmond kickers season'
+p363
+g2
+(g6
+S'\x9b\xf1#bS\xf2\xde?'
+p364
+tp365
+Rp366
+tp367
+a(S'kelvin jones'
+p368
+g2
+(g6
+S'\xea\x0f\x0f\x9e`\xe9\xde?'
+p369
+tp370
+Rp371
+tp372
+a(S'dave hertel'
+p373
+g2
+(g6
+S'\xab\x8c\x1a2\xef\xda\xde?'
+p374
+tp375
+Rp376
+tp377
+a(S'kicker'
+p378
+g2
+(g6
+S'\x87\xcfP\x03\x1e\xcf\xde?'
+p379
+tp380
+Rp381
+tp382
+a(S'2006 united soccer leagues'
+p383
+g2
+(g6
+S'9(b\xf8\xef\xc0\xde?'
+p384
+tp385
+Rp386
+tp387
+a(S'houston oldham'
+p388
+g2
+(g6
+S'\r3Y\x8fF\xb5\xde?'
+p389
+tp390
+Rp391
+tp392
+a(S'colorado rapids women'
+p393
+g2
+(g6
+S'V\x1f\x11\x1f\xa4\x8b\xde?'
+p394
+tp395
+Rp396
+tp397
+a(S'jackson eskay'
+p398
+g2
+(g6
+S'\x1b{\xb4#^\x84\xde?'
+p399
+tp400
+Rp401
+tp402
+a(S'new york magic'
+p403
+g2
+(g6
+S'\x07\xee\xf9O\x8ch\xde?'
+p404
+tp405
+Rp406
+tp407
+a(S'2012 rochester rhinos season'
+p408
+g2
+(g6
+S'\x99\x12\x99>q]\xde?'
+p409
+tp410
+Rp411
+tp412
+a(S'trevor mceachron'
+p413
+g2
+(g6
+S"\x03\xe2\x0c\x8a'X\xde?"
+p414
+tp415
+Rp416
+tp417
+a(S'los angeles kickers'
+p418
+g2
+(g6
+S'\xb9,\x15\xa46M\xde?'
+p419
+tp420
+Rp421
+tp422
+a(S'northern virginia majestics'
+p423
+g2
+(g6
+S'R\xcb\x12~\x8a\x06\xde?'
+p424
+tp425
+Rp426
+tp427
+a(S'seattle sounders women'
+p428
+g2
+(g6
+S'T\xb6\xecd\x87\x00\xde?'
+p429
+tp430
+Rp431
+tp432
+a(S'robert boskovic'
+p433
+g2
+(g6
+S'|Y@\r\xdc\xfd\xdd?'
+p434
+tp435
+Rp436
+tp437
+a(S'western mass lady pioneers'
+p438
+g2
+(g6
+S'Z\x97\xd9i\x1f\xe9\xdd?'
+p439
+tp440
+Rp441
+tp442
+a(S'denver kickers'
+p443
+g2
+(g6
+S'\xc4\xf8\xe0\x953\xa9\xdd?'
+p444
+tp445
+Rp446
+tp447
+a(S'boston renegades'
+p448
+g2
+(g6
+S'\xb0\xf0v\xfb\x1b\xa7\xdd?'
+p449
+tp450
+Rp451
+tp452
+a(S'2005 united soccer leagues'
+p453
+g2
+(g6
+S'\xd8\xe9$?o\xa6\xdd?'
+p454
+tp455
+Rp456
+tp457
+a(S'david testo'
+p458
+g2
+(g6
+S'\xce\xb9\xdc%\xf2\x88\xdd?'
+p459
+tp460
+Rp461
+tp462
+a(S'carolina dynamo (w-league)'
+p463
+g2
+(g6
+S'\x9f\xd4\xf7`4\x85\xdd?'
+p464
+tp465
+Rp466
+tp467
+a(S'neil barlow'
+p468
+g2
+(g6
+S'm6\xed*\xc3_\xdd?'
+p469
+tp470
+Rp471
+tp472
+a(S'london gryphons'
+p473
+g2
+(g6
+S'\xf9\x1a\xea\xda\x0f[\xdd?'
+p474
+tp475
+Rp476
+tp477
+a(S'john diraimondo'
+p478
+g2
+(g6
+S'\xf7\xb2\xfa3\xc0?\xdd?'
+p479
+tp480
+Rp481
+tp482
+a(S'paul lekics'
+p483
+g2
+(g6
+S'D\xb0N,\x033\xdd?'
+p484
+tp485
+Rp486
+tp487
+a(S'david hayes (soccer)'
+p488
+g2
+(g6
+S"\x02}\xfc\xbb\xe8'\xdd?"
+p489
+tp490
+Rp491
+tp492
+a(S'eduardo sebrango'
+p493
+g2
+(g6
+S'7d\xcf\xfc\xbd!\xdd?'
+p494
+tp495
+Rp496
+tp497
+a(S'matt turner (soccer)'
+p498
+g2
+(g6
+S'm\xcb\xb7P\xa7!\xdd?'
+p499
+tp500
+Rp501
+tp502
+a(S'joey gjertsen'
+p503
+g2
+(g6
+S'\x13\xc5.\xcc\x02\x0e\xdd?'
+p504
+tp505
+Rp506
+tp507
+a(S'real colorado cougars'
+p508
+g2
+(g6
+S'\xdeL\xa4\xcfK\xc8\xdc?'
+p509
+tp510
+Rp511
+tp512
+a(S'new jersey lady stallions'
+p513
+g2
+(g6
+S'|\xcdf\x05|\xc5\xdc?'
+p514
+tp515
+Rp516
+tp517
+a(S'raleigh wings'
+p518
+g2
+(g6
+S'\xa5\xb8\xc3\x99\xcc\xb7\xdc?'
+p519
+tp520
+Rp521
+tp522
+a(S'joseph haboush'
+p523
+g2
+(g6
+S'#v\x94\xac\xdf\x99\xdc?'
+p524
+tp525
+Rp526
+tp527
+a(S'marco ferruzzi'
+p528
+g2
+(g6
+S'@c\x8d\x05\x9a\x8f\xdc?'
+p529
+tp530
+Rp531
+tp532
+a(S'anthony grant (jamaican footballer)'
+p533
+g2
+(g6
+S'\x0e{6L\x07\x84\xdc?'
+p534
+tp535
+Rp536
+tp537
+a(S'charlie reiter'
+p538
+g2
+(g6
+S'\xcd\xdc\xeb\x7f,\x83\xdc?'
+p539
+tp540
+Rp541
+tp542
+a(S'pali blues'
+p543
+g2
+(g6
+S'\xb2\xc1\xbcj\xf6^\xdc?'
+p544
+tp545
+Rp546
+tp547
+a(S'toronto lady lynx'
+p548
+g2
+(g6
+S'\xb2+\x87E{^\xdc?'
+p549
+tp550
+Rp551
+tp552
+a(S'fort wayne fever (w-league)'
+p553
+g2
+(g6
+S'aM\x1dI\x1dE\xdc?'
+p554
+tp555
+Rp556
+tp557
+a(S'2005 lamar hunt u.s. open cup'
+p558
+g2
+(g6
+S'4\xfa\xd4\x83\xb7@\xdc?'
+p559
+tp560
+Rp561
+tp562
+a(S'michael callahan'
+p563
+g2
+(g6
+S'\xe4\xd2hdL(\xdc?'
+p564
+tp565
+Rp566
+tp567
+a(S'shintaro harada'
+p568
+g2
+(g6
+S'\xd6E\x01_\xdd$\xdc?'
+p569
+tp570
+Rp571
+tp572
+a(S'cleveland city stars'
+p573
+g2
+(g6
+S'\x03\xb5\xc8&#\x1a\xdc?'
+p574
+tp575
+Rp576
+tp577
+a(S'marcel debellis'
+p578
+g2
+(g6
+S'\xcb\xf2\x97;$\x13\xdc?'
+p579
+tp580
+Rp581
+tp582
+a(S'tony donatelli'
+p583
+g2
+(g6
+S'\xd0\xa0\x1d\xd5\xa1\x12\xdc?'
+p584
+tp585
+Rp586
+tp587
+a(S'drew romig'
+p588
+g2
+(g6
+S'\x15\xd7T\xda>\t\xdc?'
+p589
+tp590
+Rp591
+tp592
+a(S'trey alexander'
+p593
+g2
+(g6
+S'\xd8IT$\x93\x01\xdc?'
+p594
+tp595
+Rp596
+tp597
+a(S'chris estridge'
+p598
+g2
+(g6
+S'\xe2J\x1e\xd4\xd7\xf8\xdb?'
+p599
+tp600
+Rp601
+tp602
+a(S'samuel asante'
+p603
+g2
+(g6
+S'\xfa\xf4\x05\xdd^\xf7\xdb?'
+p604
+tp605
+Rp606
+tp607
+a(S'virginia beach piranhas'
+p608
+g2
+(g6
+S'\x03\x10W8\xea\xf2\xdb?'
+p609
+tp610
+Rp611
+tp612
+a(S'2011 lamar hunt u.s. open cup'
+p613
+g2
+(g6
+S'g\x9f\xdc<k\xe2\xdb?'
+p614
+tp615
+Rp616
+tp617
+a(S'joe germanese'
+p618
+g2
+(g6
+S'\xe28\x0b*\xee\x9d\xdb?'
+p619
+tp620
+Rp621
+tp622
+a(S'joannis karsanidis'
+p623
+g2
+(g6
+S'<\xb6\xa8#\xeb\x9d\xdb?'
+p624
+tp625
+Rp626
+tp627
+a(S'charlotte eagles'
+p628
+g2
+(g6
+S'\xd9\x14\x8d\xedu\x97\xdb?'
+p629
+tp630
+Rp631
+tp632
+a(S'chicago cobras'
+p633
+g2
+(g6
+S'>\x02vS\xde\x90\xdb?'
+p634
+tp635
+Rp636
+tp637
+a(S'wilmington hammerheads fc'
+p638
+g2
+(g6
+S'\xfcS*\xad\xda\x8c\xdb?'
+p639
+tp640
+Rp641
+tp642
+a(S'stefan defregger'
+p643
+g2
+(g6
+S'\xf0\xc7\x95\x05e\x82\xdb?'
+p644
+tp645
+Rp646
+tp647
+a(S'arizona heatwave'
+p648
+g2
+(g6
+S'S]\xc0\xafIx\xdb?'
+p649
+tp650
+Rp651
+tp652
+a(S'ty shipalane'
+p653
+g2
+(g6
+S'\xed\xd5\xf70__\xdb?'
+p654
+tp655
+Rp656
+tp657
+a(S'kitchener kickers'
+p658
+g2
+(g6
+S'\xf2U\xfd\x19\x17Z\xdb?'
+p659
+tp660
+Rp661
+tp662
+a(S'western mass pioneers'
+p663
+g2
+(g6
+S'\x82\x0fM\xe1\xbeT\xdb?'
+p664
+tp665
+Rp666
+tp667
+a(S'nathan micklos'
+p668
+g2
+(g6
+S'\xb9@\x019\xf6C\xdb?'
+p669
+tp670
+Rp671
+tp672
+a(S'mark foster (soccer)'
+p673
+g2
+(g6
+S'nF-\xda-?\xdb?'
+p674
+tp675
+Rp676
+tp677
+a(S'bermuda hogges'
+p678
+g2
+(g6
+S'\xfb\x0f\xeb\xe7\x12)\xdb?'
+p679
+tp680
+Rp681
+tp682
+a(S'minnesota lightning'
+p683
+g2
+(g6
+S'Ft\xe1\x89\x94\x12\xdb?'
+p684
+tp685
+Rp686
+tp687
+a(S'south jersey banshees'
+p688
+g2
+(g6
+S'5\xe4\x01\xc0\xf3\x07\xdb?'
+p689
+tp690
+Rp691
+tp692
+a(S'terry alvino'
+p693
+g2
+(g6
+S'\xd5\x19y;\x9c\xf8\xda?'
+p694
+tp695
+Rp696
+tp697
+a(S'2017 fc cincinnati season'
+p698
+g2
+(g6
+S'g\rQn\x95\xb0\xda?'
+p699
+tp700
+Rp701
+tp702
+a(S'stephen deroux'
+p703
+g2
+(g6
+S'7\x12\tdT\x84\xda?'
+p704
+tp705
+Rp706
+tp707
+a(S'morgan zeba'
+p708
+g2
+(g6
+S'\xa3\x8c\x02\x0f\xcb\x83\xda?'
+p709
+tp710
+Rp711
+tp712
+a(S'leonardo di lorenzo'
+p713
+g2
+(g6
+S'\xb2\xf0%\x85\x94Y\xda?'
+p714
+tp715
+Rp716
+tp717
+a(S'steve klein (soccer)'
+p718
+g2
+(g6
+S'U\xdf\xde\xa0RW\xda?'
+p719
+tp720
+Rp721
+tp722
+a(S'new jersey wildcats'
+p723
+g2
+(g6
+S'\xa3\x13q\x86\x91Q\xda?'
+p724
+tp725
+Rp726
+tp727
+a(S'cleveland internationals women'
+p728
+g2
+(g6
+S'\xb9\xcdr\xc4\xa7L\xda?'
+p729
+tp730
+Rp731
+tp732
+a(S'dayton dutch lions'
+p733
+g2
+(g6
+S'\x0b\xf7D\x95\x98I\xda?'
+p734
+tp735
+Rp736
+tp737
+a(S'santa clarita blue heat'
+p738
+g2
+(g6
+S'\x8d\xc8\xae\xcdSB\xda?'
+p739
+tp740
+Rp741
+tp742
+a(S'ryan mingachos'
+p743
+g2
+(g6
+S'\xecV.H\xfc-\xda?'
+p744
+tp745
+Rp746
+tp747
+a(S'stuttgart derby'
+p748
+g2
+(g6
+S'\x19b\xe2YZ-\xda?'
+p749
+tp750
+Rp751
+tp752
+a(S'calgary mustangs (soccer)'
+p753
+g2
+(g6
+S'\xc6\xd4\x13\xad\xf0*\xda?'
+p754
+tp755
+Rp756
+tp757
+a(S'daniel steres'
+p758
+g2
+(g6
+S'>s\x87\xf2\xd5&\xda?'
+p759
+tp760
+Rp761
+tp762
+a(S'west michigan firewomen'
+p763
+g2
+(g6
+S'\xd9J\x0b\x9ez&\xda?'
+p764
+tp765
+Rp766
+tp767
+a(S'2015 austin aztex season'
+p768
+g2
+(g6
+S'\xbfE\xb6\xedV \xda?'
+p769
+tp770
+Rp771
+tp772
+a(S'bart creasman'
+p773
+g2
+(g6
+S'w\xec\x8a\x91\x8a\x19\xda?'
+p774
+tp775
+Rp776
+tp777
+a(S'ethan white'
+p778
+g2
+(g6
+S'\xa3\x8f\x16\xad\xbe\x0f\xda?'
+p779
+tp780
+Rp781
+tp782
+a(S'dennis chin'
+p783
+g2
+(g6
+S'\xfbL\x07\xcc\xd2\xfa\xd9?'
+p784
+tp785
+Rp786
+tp787
+a(S'rumba munthali'
+p788
+g2
+(g6
+S'\x9d\x03\x9d\x04\xe2\xf9\xd9?'
+p789
+tp790
+Rp791
+tp792
+a(S'eric kissinger'
+p793
+g2
+(g6
+S'\xf6wm\x03\x89\xf7\xd9?'
+p794
+tp795
+Rp796
+tp797
+a(S'list of top level minor league sports teams in the united states by city'
+p798
+g2
+(g6
+S'\x08\xfetW#\xf7\xd9?'
+p799
+tp800
+Rp801
+tp802
+a(S'2013 in american soccer'
+p803
+g2
+(g6
+S'(d\x82\x8a\xae\xdf\xd9?'
+p804
+tp805
+Rp806
+tp807
+a(S'can kickers'
+p808
+g2
+(g6
+S'\x03u:7\xb2\xd3\xd9?'
+p809
+tp810
+Rp811
+tp812
+a(S'kickers'
+p813
+g2
+(g6
+S"I'\xe9]\xd0\xca\xd9?"
+p814
+tp815
+Rp816
+tp817
+a(S'2007 united soccer leagues'
+p818
+g2
+(g6
+S'\x91\x9a.5w\xc6\xd9?'
+p819
+tp820
+Rp821
+tp822
+a(S'utah blitzz'
+p823
+g2
+(g6
+S'^z\xff\x8d\x05\xaf\xd9?'
+p824
+tp825
+Rp826
+tp827
+a(S'stephen danbusky'
+p828
+g2
+(g6
+S'\xe1vy\x84(\xaa\xd9?'
+p829
+tp830
+Rp831
+tp832
+a(S'mark murphy (soccer)'
+p833
+g2
+(g6
+S'\xcd\x95\xe5U\x9d\xa0\xd9?'
+p834
+tp835
+Rp836
+tp837
+a(S'swope park rangers'
+p838
+g2
+(g6
+S'~\xf44\xfb\xcb\x98\xd9?'
+p839
+tp840
+Rp841
+tp842
+a(S'chris fox'
+p843
+g2
+(g6
+S'\xa92A\xa0y\x81\xd9?'
+p844
+tp845
+Rp846
+tp847
+a(S'khary stockton'
+p848
+g2
+(g6
+S'J\xe7p\xab-\x7f\xd9?'
+p849
+tp850
+Rp851
+tp852
+a(S'idris ughiovhe'
+p853
+g2
+(g6
+S'\xa4\xcd\x07\xff\xf5r\xd9?'
+p854
+tp855
+Rp856
+tp857
+a(S'nevio pizzolitto'
+p858
+g2
+(g6
+S'\xd3\xba\x1d\xcf\xf1r\xd9?'
+p859
+tp860
+Rp861
+tp862
+a(S'r\xc3\xb4mulo henrique peretta'
+p863
+g2
+(g6
+S'\xe6YK\xa76r\xd9?'
+p864
+tp865
+Rp866
+tp867
+a(S'josiah snelgrove'
+p868
+g2
+(g6
+S'\x16\xb7\xa4h\xdcd\xd9?'
+p869
+tp870
+Rp871
+tp872
+a(S'jason ditullio'
+p873
+g2
+(g6
+S'_@\x1f\xc1\xaab\xd9?'
+p874
+tp875
+Rp876
+tp877
+a(S'dayton dutch lions wfc'
+p878
+g2
+(g6
+S"\xf5\xa3'\x0e\xf8R\xd9?"
+p879
+tp880
+Rp881
+tp882
+a(S'real maryland f.c.'
+p883
+g2
+(g6
+S'F\xf5\xe8\xf6tR\xd9?'
+p884
+tp885
+Rp886
+tp887
+a(S'berliner tufc elf'
+p888
+g2
+(g6
+S'\x1d\xf3O%),\xd9?'
+p889
+tp890
+Rp891
+tp892
+a(S'2013 charlotte eagles season'
+p893
+g2
+(g6
+S"\xc5\x93p\xaf\x0e'\xd9?"
+p894
+tp895
+Rp896
+tp897
+a(S'robert ukrop'
+p898
+g2
+(g6
+S'm_\xad\x10@\x1f\xd9?'
+p899
+tp900
+Rp901
+tp902
+a(S'2015 richmond kickers season'
+p903
+g2
+(g6
+S'\xe0\xfa\xdf..\x1c\xd9?'
+p904
+tp905
+Rp906
+tp907
+a(S'jonathan villanueva'
+p908
+g2
+(g6
+S'\xa2\xa9-0\xd2\x19\xd9?'
+p909
+tp910
+Rp911
+tp912
+a(S'f\xc3\xa9lix brillant'
+p913
+g2
+(g6
+S'w\x19\xbe#;\x0f\xd9?'
+p914
+tp915
+Rp916
+tp917
+a(S'2010 charleston battery season'
+p918
+g2
+(g6
+S'\x95\x18\x93\x0f\x94\x04\xd9?'
+p919
+tp920
+Rp921
+tp922
+a(S'bryce taylor (soccer)'
+p923
+g2
+(g6
+S'\xd7\x06\xe8b\x9a\xfd\xd8?'
+p924
+tp925
+Rp926
+tp927
+a(S'devlin barnes'
+p928
+g2
+(g6
+S'\xd0\x07\xb3S*\xfb\xd8?'
+p929
+tp930
+Rp931
+tp932
+a(S'list of orlando city sc seasons'
+p933
+g2
+(g6
+S'\xa0\xdc2\x19\xb6\xe3\xd8?'
+p934
+tp935
+Rp936
+tp937
+a(S'vermont lady voltage'
+p938
+g2
+(g6
+S'e7?\xd4\xba\xdc\xd8?'
+p939
+tp940
+Rp941
+tp942
+a(S'2008 lamar hunt u.s. open cup'
+p943
+g2
+(g6
+S'\xf0\x03Q\xbe\x99\xdc\xd8?'
+p944
+tp945
+Rp946
+tp947
+a(S'kris tyrpak'
+p948
+g2
+(g6
+S'\x86B\x0c4\x84\xd5\xd8?'
+p949
+tp950
+Rp951
+tp952
+a(S'sebastian fries'
+p953
+g2
+(g6
+S'L\xb3\x7f\xb8\xe9\xd4\xd8?'
+p954
+tp955
+Rp956
+tp957
+a(S'willie carson (soccer)'
+p958
+g2
+(g6
+S"\xda\xb9-'g\xd0\xd8?"
+p959
+tp960
+Rp961
+tp962
+a(S'trevor spangenberg'
+p963
+g2
+(g6
+S'\xe1\t\xdc\xd3\x19\xcd\xd8?'
+p964
+tp965
+Rp966
+tp967
+a(S'sean teepen'
+p968
+g2
+(g6
+S'l\xed9ik\xc4\xd8?'
+p969
+tp970
+Rp971
+tp972
+a(S'ryan zabinski'
+p973
+g2
+(g6
+S'\x1f\x9b\xf1\xdd\xbf\xc1\xd8?'
+p974
+tp975
+Rp976
+tp977
+a(S'wes knight'
+p978
+g2
+(g6
+S'\xd7\xe7\xcc\x07\xec\xbe\xd8?'
+p979
+tp980
+Rp981
+tp982
+a(S'rochester ravens'
+p983
+g2
+(g6
+S'\x923r,k\xb3\xd8?'
+p984
+tp985
+Rp986
+tp987
+a(S'columbus lady shooting stars'
+p988
+g2
+(g6
+S'\x1b\xd1\xfd\x9b\x16\xa0\xd8?'
+p989
+tp990
+Rp991
+tp992
+a(S'hampton roads piranhas'
+p993
+g2
+(g6
+S'l\x84\xbe\x00\xb7\x91\xd8?'
+p994
+tp995
+Rp996
+tp997
+a(S'new york red bulls ii'
+p998
+g2
+(g6
+S'\xe0 \xf7p\xa7\x91\xd8?'
+p999
+tp1000
+Rp1001
+tp1002
+a(S'harrison delbridge'
+p1003
+g2
+(g6
+S'\x98\xe7\xd8\x99\xbe\x8c\xd8?'
+p1004
+tp1005
+Rp1006
+tp1007
+a(S'bsc kickers 1900'
+p1008
+g2
+(g6
+S'R\xdaD\rB\x85\xd8?'
+p1009
+tp1010
+Rp1011
+tp1012
+a(S'2016 richmond kickers season'
+p1013
+g2
+(g6
+S'\xa4\x15#\xecd{\xd8?'
+p1014
+tp1015
+Rp1016
+tp1017
+a(S'2014 charlotte eagles season'
+p1018
+g2
+(g6
+S'\xbdap\x80\x84Y\xd8?'
+p1019
+tp1020
+Rp1021
+tp1022
+a(S'f.c. new york'
+p1023
+g2
+(g6
+S'\xaf\xba1\xfd)M\xd8?'
+p1024
+tp1025
+Rp1026
+tp1027
+a(S'harrisburg city islanders'
+p1028
+g2
+(g6
+S'\xc8\xedy\xe1\xfeI\xd8?'
+p1029
+tp1030
+Rp1031
+tp1032
+a(S'john dugan (soccer)'
+p1033
+g2
+(g6
+S'\x00\\:\xa7\xd77\xd8?'
+p1034
+tp1035
+Rp1036
+tp1037
+a(S'united soccer leagues'
+p1038
+g2
+(g6
+S'\x97\xaf\xaf\xfbo4\xd8?'
+p1039
+tp1040
+Rp1041
+tp1042
+a(S'christopher schwarze'
+p1043
+g2
+(g6
+S'\x0eB\xb5T\x820\xd8?'
+p1044
+tp1045
+Rp1046
+tp1047
+a(S'jems geffrard'
+p1048
+g2
+(g6
+S'\xees\x01\x1cK.\xd8?'
+p1049
+tp1050
+Rp1051
+tp1052
+a(S'jamiel hardware'
+p1053
+g2
+(g6
+S'\x07\xe72\xb0N$\xd8?'
+p1054
+tp1055
+Rp1056
+tp1057
+a(S'shaka bangura'
+p1058
+g2
+(g6
+S'8`\xb0h&\x1a\xd8?'
+p1059
+tp1060
+Rp1061
+tp1062
+a(S'kadeem dacres'
+p1063
+g2
+(g6
+S'\xc1\x93\xf4\xb9Z\x15\xd8?'
+p1064
+tp1065
+Rp1066
+tp1067
+a(S'ben newnam'
+p1068
+g2
+(g6
+S'\xe0\xc0\xe4\\\x03\x14\xd8?'
+p1069
+tp1070
+Rp1071
+tp1072
+a(S'alex caskey'
+p1073
+g2
+(g6
+S'j\xa4\xc9(e\x02\xd8?'
+p1074
+tp1075
+Rp1076
+tp1077
+a(S'2013 charleston battery season'
+p1078
+g2
+(g6
+S'\xb4x\xef+)\xf3\xd7?'
+p1079
+tp1080
+Rp1081
+tp1082
+a(S'jose cuevas (soccer)'
+p1083
+g2
+(g6
+S'\xe3\xfdMm\t\xe8\xd7?'
+p1084
+tp1085
+Rp1086
+tp1087
+a(S'brandon tyler'
+p1088
+g2
+(g6
+S'-L\xfe\xeap\xe6\xd7?'
+p1089
+tp1090
+Rp1091
+tp1092
+a(S'richard isberner'
+p1093
+g2
+(g6
+S'\xfc\xe5yE\xf9\xe5\xd7?'
+p1094
+tp1095
+Rp1096
+tp1097
+a(S'lamar hunt u.s. open cup'
+p1098
+g2
+(g6
+S'\x05\xfdi\xd9\xe9\xd6\xd7?'
+p1099
+tp1100
+Rp1101
+tp1102
+a(S'jason yeisley'
+p1103
+g2
+(g6
+S'g\xc9\xdd\x85S\xce\xd7?'
+p1104
+tp1105
+Rp1106
+tp1107
+a(S'axel d\xc3\xbcnnwald-metzler'
+p1108
+g2
+(g6
+S'l\xff\x00=>\xcc\xd7?'
+p1109
+tp1110
+Rp1111
+tp1112
+a(S'onua obasi'
+p1113
+g2
+(g6
+S'\x17L\x83\x16\xcd\xc6\xd7?'
+p1114
+tp1115
+Rp1116
+tp1117
+a(S'liam fraser'
+p1118
+g2
+(g6
+S'\x10\x00\x92B\xb2\xb6\xd7?'
+p1119
+tp1120
+Rp1121
+tp1122
+a(S'charlie horton (soccer)'
+p1123
+g2
+(g6
+S'0\x14hQ\xdc\xaf\xd7?'
+p1124
+tp1125
+Rp1126
+tp1127
+a(S'jaman tripoli'
+p1128
+g2
+(g6
+S'w\x84G`\xb5\xab\xd7?'
+p1129
+tp1130
+Rp1131
+tp1132
+a(S'bradenton athletics'
+p1133
+g2
+(g6
+S'%=\xa2\xec\x8b\x86\xd7?'
+p1134
+tp1135
+Rp1136
+tp1137
+a(S'suat t\xc3\xbcrker'
+p1138
+g2
+(g6
+S'3\xf9A\xca\xa2|\xd7?'
+p1139
+tp1140
+Rp1141
+tp1142
+a(S'jalen robinson'
+p1143
+g2
+(g6
+S'\xfbh\xd6#\x86x\xd7?'
+p1144
+tp1145
+Rp1146
+tp1147
+a(S'calgary kickers'
+p1148
+g2
+(g6
+S'\xc0\x0e\xc1\x8e\xd8p\xd7?'
+p1149
+tp1150
+Rp1151
+tp1152
+a(S'2011 orlando city sc season'
+p1153
+g2
+(g6
+S'N\x1b5\xe6Dm\xd7?'
+p1154
+tp1155
+Rp1156
+tp1157
+a(S'mike huwiler'
+p1158
+g2
+(g6
+S'\t\xe6o\xa8\xa7l\xd7?'
+p1159
+tp1160
+Rp1161
+tp1162
+a(S'greenville lions'
+p1163
+g2
+(g6
+S'p\x90\x8f\xb5\x1bd\xd7?'
+p1164
+tp1165
+Rp1166
+tp1167
+a(S'antoine hoppenot'
+p1168
+g2
+(g6
+S'O~\xc2\x14?b\xd7?'
+p1169
+tp1170
+Rp1171
+tp1172
+a(S'steve kindel'
+p1173
+g2
+(g6
+S'\x98\xc4\x15\xee\x9fR\xd7?'
+p1174
+tp1175
+Rp1176
+tp1177
+a(S'2012 dayton dutch lions season'
+p1178
+g2
+(g6
+S'L*F\x97\x03*\xd7?'
+p1179
+tp1180
+Rp1181
+tp1182
+a(S'rochester rhinos'
+p1183
+g2
+(g6
+S'\xbd\xc5\xf5\x10\x8b(\xd7?'
+p1184
+tp1185
+Rp1186
+tp1187
+a(S'orlando city b'
+p1188
+g2
+(g6
+S"\xd5\t\x04\xb9\xac'\xd7?"
+p1189
+tp1190
+Rp1191
+tp1192
+a(S'kolby lacrone'
+p1193
+g2
+(g6
+S'\xdco&\x8b\xf1"\xd7?'
+p1194
+tp1195
+Rp1196
+tp1197
+a(S'brandon swartzendruber'
+p1198
+g2
+(g6
+S'\xe2\xff\xb8\x02E \xd7?'
+p1199
+tp1200
+Rp1201
+tp1202
+a(S'braeden troyer'
+p1203
+g2
+(g6
+S'%\x8e/^\xa3\x1c\xd7?'
+p1204
+tp1205
+Rp1206
+tp1207
+a(S'kevin klasila'
+p1208
+g2
+(g6
+S'\xeb\x1fo4r\x00\xd7?'
+p1209
+tp1210
+Rp1211
+tp1212
+a(S'konrad plewa'
+p1213
+g2
+(g6
+S'\xcaMFk\xde\xf1\xd6?'
+p1214
+tp1215
+Rp1216
+tp1217
+a(S'dersu abolfathi'
+p1218
+g2
+(g6
+S'\x84k\xf9\x1eo\xed\xd6?'
+p1219
+tp1220
+Rp1221
+tp1222
+a(S'aaron long (soccer)'
+p1223
+g2
+(g6
+S'$R\x93\x0f\xc0\xec\xd6?'
+p1224
+tp1225
+Rp1226
+tp1227
+a(S'washington freedom futures'
+p1228
+g2
+(g6
+S'\x17[\xf3Q\xf5\xe8\xd6?'
+p1229
+tp1230
+Rp1231
+tp1232
+a(S'toronto lynx'
+p1233
+g2
+(g6
+S'\x15c\x89x-\xe5\xd6?'
+p1234
+tp1235
+Rp1236
+tp1237
+a(S'northern nevada aces'
+p1238
+g2
+(g6
+S'U\x05^~\x81\xe3\xd6?'
+p1239
+tp1240
+Rp1241
+tp1242
+a(S'daniel leon'
+p1243
+g2
+(g6
+S'T\x04EJ\x8c\xde\xd6?'
+p1244
+tp1245
+Rp1246
+tp1247
+a(S'central coast roadrunners'
+p1248
+g2
+(g6
+S'\xfbX\xb8\x84\xbb\xdb\xd6?'
+p1249
+tp1250
+Rp1251
+tp1252
+a(S'gabriel gervais'
+p1253
+g2
+(g6
+S'\x08\x80\x1a\n#\xd6\xd6?'
+p1254
+tp1255
+Rp1256
+tp1257
+a(S'new york freedom'
+p1258
+g2
+(g6
+S'y\xe0\xa8\xb5\xcb\xd5\xd6?'
+p1259
+tp1260
+Rp1261
+tp1262
+a(S'seacoast united phantoms'
+p1263
+g2
+(g6
+S'\xfd\xdb\x96t\xe8\xc8\xd6?'
+p1264
+tp1265
+Rp1266
+tp1267
+a(S'w\xc3\xbcrzburger kickers'
+p1268
+g2
+(g6
+S'\x99{\xaeJ(\xc4\xd6?'
+p1269
+tp1270
+Rp1271
+tp1272
+a(S'tom poltl'
+p1273
+g2
+(g6
+S'U\x19\x8cCz\xc1\xd6?'
+p1274
+tp1275
+Rp1276
+tp1277
+a(S'richie williams'
+p1278
+g2
+(g6
+S'\x10\xda\x03t\xd2\xba\xd6?'
+p1279
+tp1280
+Rp1281
+tp1282
+a(S'2016 louisville city fc season'
+p1283
+g2
+(g6
+S'\xf7\x1e\xdcN\x96\xb5\xd6?'
+p1284
+tp1285
+Rp1286
+tp1287
+a(S'chris morman'
+p1288
+g2
+(g6
+S'\xe9+\x10c=\xb0\xd6?'
+p1289
+tp1290
+Rp1291
+tp1292
+a(S'keith detelj'
+p1293
+g2
+(g6
+S'1\tRI>\xaa\xd6?'
+p1294
+tp1295
+Rp1296
+tp1297
+a(S'chris tsonis'
+p1298
+g2
+(g6
+S'nk\xed\x9e\x88\xa2\xd6?'
+p1299
+tp1300
+Rp1301
+tp1302
+a(S'charles joly'
+p1303
+g2
+(g6
+S'\x99\xb4\xe7\xb1P\x9f\xd6?'
+p1304
+tp1305
+Rp1306
+tp1307
+a(S'asani samuels'
+p1308
+g2
+(g6
+S'\xdc;\xe6\xf5\xec\x99\xd6?'
+p1309
+tp1310
+Rp1311
+tp1312
+a(S'cincinnati kings'
+p1313
+g2
+(g6
+S'}`\x03\xb8\x11\x8e\xd6?'
+p1314
+tp1315
+Rp1316
+tp1317
+a(S'rodrigo l\xc3\xb3pez (footballer)'
+p1318
+g2
+(g6
+S'\xd0\xadC\x9eH\x83\xd6?'
+p1319
+tp1320
+Rp1321
+tp1322
+a(S'san diego sunwaves'
+p1323
+g2
+(g6
+S'\xbdL5^.\x7f\xd6?'
+p1324
+tp1325
+Rp1326
+tp1327
+a(S'nigel marples'
+p1328
+g2
+(g6
+S')p\xec+\xf1|\xd6?'
+p1329
+tp1330
+Rp1331
+tp1332
+a(S'arron patrick'
+p1333
+g2
+(g6
+S'\x99\xa3\x9d\x90sv\xd6?'
+p1334
+tp1335
+Rp1336
+tp1337
+a(S'irakli khutsidze'
+p1338
+g2
+(g6
+S'ol\xe3\x14\x96t\xd6?'
+p1339
+tp1340
+Rp1341
+tp1342
+a(S'chris mcclellan'
+p1343
+g2
+(g6
+S'nE\xae\x80\xf9k\xd6?'
+p1344
+tp1345
+Rp1346
+tp1347
+a(S'mac cozier'
+p1348
+g2
+(g6
+S'^bJ5\xbek\xd6?'
+p1349
+tp1350
+Rp1351
+tp1352
+a(S'2015 louisville city fc season'
+p1353
+g2
+(g6
+S'/33\xd8\xcai\xd6?'
+p1354
+tp1355
+Rp1356
+tp1357
+a(S'gregg schroeder'
+p1358
+g2
+(g6
+S'\xb0\xf5ww\x19i\xd6?'
+p1359
+tp1360
+Rp1361
+tp1362
+a(S'colin falvey'
+p1363
+g2
+(g6
+S'(\xcdY\xfe\\d\xd6?'
+p1364
+tp1365
+Rp1366
+tp1367
+a(S'virginia beach mariners'
+p1368
+g2
+(g6
+S'T\x8e\x006\xf0^\xd6?'
+p1369
+tp1370
+Rp1371
+tp1372
+a(S'fredericksburg gunners'
+p1373
+g2
+(g6
+S'~\x94\x86\xff\xf7\\\xd6?'
+p1374
+tp1375
+Rp1376
+tp1377
+a(S'2008 united soccer leagues'
+p1378
+g2
+(g6
+S'y(\xc6"\x89T\xd6?'
+p1379
+tp1380
+Rp1381
+tp1382
+a(S'jamel wallace'
+p1383
+g2
+(g6
+S'\x83\xf7s,\xe5S\xd6?'
+p1384
+tp1385
+Rp1386
+tp1387
+a(S'st. petersburg kickers'
+p1388
+g2
+(g6
+S"!\xd0\xbc'\xb7R\xd6?"
+p1389
+tp1390
+Rp1391
+tp1392
+a(S'sports in richmond, virginia'
+p1393
+g2
+(g6
+S'\x82$_\x94\x07O\xd6?'
+p1394
+tp1395
+Rp1396
+tp1397
+a(S'2015 rochester rhinos season'
+p1398
+g2
+(g6
+S'\xd5\x99\xf2XmI\xd6?'
+p1399
+tp1400
+Rp1401
+tp1402
+a(S'almir barbosa'
+p1403
+g2
+(g6
+S'\xa2\x07\x06\xabfA\xd6?'
+p1404
+tp1405
+Rp1406
+tp1407
+a(S'luke mishu'
+p1408
+g2
+(g6
+S'>\xcb\x98\x05\x18@\xd6?'
+p1409
+tp1410
+Rp1411
+tp1412
+a(S'la galaxy ii'
+p1413
+g2
+(g6
+S'\xc4\r\xae\xe31>\xd6?'
+p1414
+tp1415
+Rp1416
+tp1417
+a(S'los angeles strikers'
+p1418
+g2
+(g6
+S'\x1c\x9aK\xb4\xc7=\xd6?'
+p1419
+tp1420
+Rp1421
+tp1422
+a(S'cincinnati ladyhawks'
+p1423
+g2
+(g6
+S'\xe5\xe6\xaa\x18u;\xd6?'
+p1424
+tp1425
+Rp1426
+tp1427
+a(S'brad stuver'
+p1428
+g2
+(g6
+S'i\xfbZA\xd80\xd6?'
+p1429
+tp1430
+Rp1431
+tp1432
+a(S'jordan james (soccer)'
+p1433
+g2
+(g6
+S"'\r\x16q\x8a+\xd6?"
+p1434
+tp1435
+Rp1436
+tp1437
+a(S'mubarike chisoni'
+p1438
+g2
+(g6
+S'0\x84\n\xfe4)\xd6?'
+p1439
+tp1440
+Rp1441
+tp1442
+a(S'eric reed (soccer)'
+p1443
+g2
+(g6
+S'\x00\xaf:\x97\xf2(\xd6?'
+p1444
+tp1445
+Rp1446
+tp1447
+a(S'sean okoli'
+p1448
+g2
+(g6
+S'\xd9\x0f\x04\x82\xe8(\xd6?'
+p1449
+tp1450
+Rp1451
+tp1452
+a(S'central florida krush'
+p1453
+g2
+(g6
+S"ir\xbe\x889'\xd6?"
+p1454
+tp1455
+Rp1456
+tp1457
+a(S'jason hotchkin'
+p1458
+g2
+(g6
+S"55'\x8c\xc7#\xd6?"
+p1459
+tp1460
+Rp1461
+tp1462
+a(S'2017 bethlehem steel fc season'
+p1463
+g2
+(g6
+S'\x92\xb1\x05\xe8u#\xd6?'
+p1464
+tp1465
+Rp1466
+tp1467
+a(S'john gilkerson'
+p1468
+g2
+(g6
+S'\xeem\xc5\xd1{"\xd6?'
+p1469
+tp1470
+Rp1471
+tp1472
+a(S'sheanon williams'
+p1473
+g2
+(g6
+S'\xc4\x00\x8a>\x8d\x1d\xd6?'
+p1474
+tp1475
+Rp1476
+tp1477
+a(S'new jersey stallions'
+p1478
+g2
+(g6
+S'\xc5k\xeb\xb3\xaa\x16\xd6?'
+p1479
+tp1480
+Rp1481
+tp1482
+a(S'paul moran (soccer)'
+p1483
+g2
+(g6
+S'dMr\xc2\xc5\x0f\xd6?'
+p1484
+tp1485
+Rp1486
+tp1487
+a(S'cesar rivera'
+p1488
+g2
+(g6
+S'r\xe4_\x15\xa3\x0b\xd6?'
+p1489
+tp1490
+Rp1491
+tp1492
+a(S'buffalo ffillies'
+p1493
+g2
+(g6
+S'\x96*\xea^\xd5\x08\xd6?'
+p1494
+tp1495
+Rp1496
+tp1497
+a(S'tomislav coli\xc4\x87'
+p1498
+g2
+(g6
+S'\xe5Kf\x16\xc6\x06\xd6?'
+p1499
+tp1500
+Rp1501
+tp1502
+a(S'gabriel gonz\xc3\xa1lez (mexican footballer)'
+p1503
+g2
+(g6
+S'\x8bT\xa2|\xd1\xfd\xd5?'
+p1504
+tp1505
+Rp1506
+tp1507
+a(S'sabine shoe'
+p1508
+g2
+(g6
+S'<\xc1\xfe\xd3A\xfd\xd5?'
+p1509
+tp1510
+Rp1511
+tp1512
+a.

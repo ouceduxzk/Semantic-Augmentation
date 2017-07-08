@@ -1,0 +1,2728 @@
+(lp0
+(S'ieee computer society'
+p1
+cnumpy.core.multiarray
+scalar
+p2
+(cnumpy
+dtype
+p3
+(S'f8'
+p4
+I0
+I1
+tp5
+Rp6
+(I3
+S'<'
+p7
+NNNI-1
+I-1
+I0
+tp8
+bS'\x04\x00\x00\x00\x00\x00\xf0?'
+p9
+tp10
+Rp11
+tp12
+a(S'ieee rebooting computing'
+p13
+g2
+(g6
+S'\xfdY\xaba\x80\xf0\xe0?'
+p14
+tp15
+Rp16
+tp17
+a(S'ieee technical activities board'
+p18
+g2
+(g6
+S'\xb7\x00\xd7V\x86\x98\xe0?'
+p19
+tp20
+Rp21
+tp22
+a(S'technical college (sri lanka)'
+p23
+g2
+(g6
+S'\x1c\xb8\x8c\xeb\xe1\x92\xe0?'
+p24
+tp25
+Rp26
+tp27
+a(S'chung laung liu'
+p28
+g2
+(g6
+S"\xb1,\x1b'\x98\x85\xe0?"
+p29
+tp30
+Rp31
+tp32
+a(S'institute of electrical and electronics engineers'
+p33
+g2
+(g6
+S"q'\x7f\xff]=\xdf?"
+p34
+tp35
+Rp36
+tp37
+a(S'sulaimani polytechnic university'
+p38
+g2
+(g6
+S'T\x126\xef|6\xdf?'
+p39
+tp40
+Rp41
+tp42
+a(S'list of iraqi technical colleges and institutes'
+p43
+g2
+(g6
+S'L\xc1\x0e\xc7\x8a\r\xdf?'
+p44
+tp45
+Rp46
+tp47
+a(S'ieee electromagnetic compatibility society'
+p48
+g2
+(g6
+S'\xfc5o$\x04\xdc\xde?'
+p49
+tp50
+Rp51
+tp52
+a(S'technical college system of georgia'
+p53
+g2
+(g6
+S'\xb8\x95M\xb1\x9d\xd5\xde?'
+p54
+tp55
+Rp56
+tp57
+a(S'wai-chi fang'
+p58
+g2
+(g6
+S'#\xaa\xcc\xff\x01\xb9\xde?'
+p59
+tp60
+Rp61
+tp62
+a(S'hausi a. muller'
+p63
+g2
+(g6
+S'\xfb\xa1\x96a\x0ei\xde?'
+p64
+tp65
+Rp66
+tp67
+a(S'ieee professional communication society'
+p68
+g2
+(g6
+S'b\xadH\xaa\xcbG\xde?'
+p69
+tp70
+Rp71
+tp72
+a(S'ieee education society'
+p73
+g2
+(g6
+S'\x92\xaddaV \xde?'
+p74
+tp75
+Rp76
+tp77
+a(S'connecticut technical high school system'
+p78
+g2
+(g6
+S'k\xa1V\x06\xae\xd0\xdd?'
+p79
+tp80
+Rp81
+tp82
+a(S'south carolina technical college system'
+p83
+g2
+(g6
+S'\xe6Yh\xa8\x8a\xb9\xdd?'
+p84
+tp85
+Rp86
+tp87
+a(S'technical writing'
+p88
+g2
+(g6
+S'\x06\x88I\xf4\xc3(\xdd?'
+p89
+tp90
+Rp91
+tp92
+a(S'albert zomaya'
+p93
+g2
+(g6
+S'\xe1_#z-\xe5\xdc?'
+p94
+tp95
+Rp96
+tp97
+a(S'ieee cloud computing'
+p98
+g2
+(g6
+S',\xcc\xc5k\x96\xe0\xdc?'
+p99
+tp100
+Rp101
+tp102
+a(S'ieee annals of the history of computing'
+p103
+g2
+(g6
+S'Q\xd0\xfaC\x86\xdd\xdc?'
+p104
+tp105
+Rp106
+tp107
+a(S'ieee-isto'
+p108
+g2
+(g6
+S'\x06\x1b\xd7\xc1\x03\xb1\xdc?'
+p109
+tp110
+Rp111
+tp112
+a(S'computer-aided design technical committee'
+p113
+g2
+(g6
+S'\xd3q\xf2"\xe2\xa5\xdc?'
+p114
+tp115
+Rp116
+tp117
+a(S'canadian aviation regulation advisory council'
+p118
+g2
+(g6
+S'\xdbR\x1b\xd0?\xa0\xdc?'
+p119
+tp120
+Rp121
+tp122
+a(S'ieee communications society'
+p123
+g2
+(g6
+S'4cV\xe9L\x98\xdc?'
+p124
+tp125
+Rp126
+tp127
+a(S'\xc4\x8cesk\xc3\xa1 spole\xc4\x8dnost pro v\xc4\x9bdeckou a technickou komunikaci'
+p128
+g2
+(g6
+S'T\xa6u\x86\x18\x82\xdc?'
+p129
+tp130
+Rp131
+tp132
+a(S'internet technical committee'
+p133
+g2
+(g6
+S'\xbe\xa6M"\xaa^\xdc?'
+p134
+tp135
+Rp136
+tp137
+a(S'american federation of information processing societies'
+p138
+g2
+(g6
+S'\xa4\xf8\x02\xd3\xd5:\xdc?'
+p139
+tp140
+Rp141
+tp142
+a(S'technical writer'
+p143
+g2
+(g6
+S'\xdcpi\xdc8\xee\xdb?'
+p144
+tp145
+Rp146
+tp147
+a(S'technical communication'
+p148
+g2
+(g6
+S'Y\xee\x97h\x14\xe9\xdb?'
+p149
+tp150
+Rp151
+tp152
+a(S'xiaowei li'
+p153
+g2
+(g6
+S't\x85\xf1\x11R\xdb\xdb?'
+p154
+tp155
+Rp156
+tp157
+a(S'maradana college of technology'
+p158
+g2
+(g6
+S'\x18\x02\xae\xbe\xf1\xba\xdb?'
+p159
+tp160
+Rp161
+tp162
+a(S'carl chang (computer scientist)'
+p163
+g2
+(g6
+S'B\x8e\xce\x0b\xb5\xb8\xdb?'
+p164
+tp165
+Rp166
+tp167
+a(S'computer (magazine)'
+p168
+g2
+(g6
+S':8\xac\xf2\xf7\xaf\xdb?'
+p169
+tp170
+Rp171
+tp172
+a(S'ieee power & energy society'
+p173
+g2
+(g6
+S'\xe5y\xb8\x93\xaa\x9d\xdb?'
+p174
+tp175
+Rp176
+tp177
+a(S'seymour cray computer engineering award'
+p178
+g2
+(g6
+S'\x8e_\n\x04\x1e\xfd\xda?'
+p179
+tp180
+Rp181
+tp182
+a(S'list of ieee publications'
+p183
+g2
+(g6
+S'y\xa2\xa4\x9a\x15\xe9\xda?'
+p184
+tp185
+Rp186
+tp187
+a(S'ieee circuits and systems society'
+p188
+g2
+(g6
+S'\xb6~\x12\x9d\xc0\xe4\xda?'
+p189
+tp190
+Rp191
+tp192
+a(S'ieee xplore'
+p193
+g2
+(g6
+S'A\xc6WA\xa1\xdf\xda?'
+p194
+tp195
+Rp196
+tp197
+a(S'ieee signal processing society'
+p198
+g2
+(g6
+S'\xa6\x00\xb6Hy\xb6\xda?'
+p199
+tp200
+Rp201
+tp202
+a(S'ieee systems council'
+p203
+g2
+(g6
+S'q&Sc\x14\x95\xda?'
+p204
+tp205
+Rp206
+tp207
+a(S'moshe kam'
+p208
+g2
+(g6
+S'I\xdd\xa1\xb7\x13\x91\xda?'
+p209
+tp210
+Rp211
+tp212
+a(S'ieee transportation technologies award'
+p213
+g2
+(g6
+S'q\x7f\x18!vz\xda?'
+p214
+tp215
+Rp216
+tp217
+a(S'ieee magnetics society'
+p218
+g2
+(g6
+S'\xabWF\xfc\xbeg\xda?'
+p219
+tp220
+Rp221
+tp222
+a(S'biswanath mukherjee'
+p223
+g2
+(g6
+S'/\xf1D\x15\x1cI\xda?'
+p224
+tp225
+Rp226
+tp227
+a(S'abbas jamalipour'
+p228
+g2
+(g6
+S'\xc5\xd9\x95L\xeb>\xda?'
+p229
+tp230
+Rp231
+tp232
+a(S'jianwei huang'
+p233
+g2
+(g6
+S'\x99j1Ys>\xda?'
+p234
+tp235
+Rp236
+tp237
+a(S'jacek m. zurada'
+p238
+g2
+(g6
+S'\x91\x975[l%\xda?'
+p239
+tp240
+Rp241
+tp242
+a(S'technical computing'
+p243
+g2
+(g6
+S'F\xcb\xab\xf1\x11\x1e\xda?'
+p244
+tp245
+Rp246
+tp247
+a(S'ieee standards association'
+p248
+g2
+(g6
+S'\xff\x0f\xb8\xce\x17\x1a\xda?'
+p249
+tp250
+Rp251
+tp252
+a(S'international joint conference on web intelligence and intelligent agent technology'
+p253
+g2
+(g6
+S'\xca\xe6\xee3M\xef\xd9?'
+p254
+tp255
+Rp256
+tp257
+a(S'wisconsin technical college system'
+p258
+g2
+(g6
+S'\x16\xa3\x8dp\xc6\xe4\xd9?'
+p259
+tp260
+Rp261
+tp262
+a(S'ieee information theory society'
+p263
+g2
+(g6
+S'\xf0\xbf\xb7\xe7l\xd9\xd9?'
+p264
+tp265
+Rp266
+tp267
+a(S'tech high school'
+p268
+g2
+(g6
+S'\xdc;-\x05\x9a\xc9\xd9?'
+p269
+tp270
+Rp271
+tp272
+a(S'ieee transactions on professional communication'
+p273
+g2
+(g6
+S'\xbd\x81\xb5\x13f\xc7\xd9?'
+p274
+tp275
+Rp276
+tp277
+a(S'specialised technical committees of the african union'
+p278
+g2
+(g6
+S'\x96\xb5c=\n\xc4\xd9?'
+p279
+tp280
+Rp281
+tp282
+a(S'technical trainer'
+p283
+g2
+(g6
+S'\xb8\x15\xe8\xd3\xb8\xb6\xd9?'
+p284
+tp285
+Rp286
+tp287
+a(S'technical report'
+p288
+g2
+(g6
+S'$G\x93\xb3rk\xd9?'
+p289
+tp290
+Rp291
+tp292
+a(S'ieee transactions on information forensics and security'
+p293
+g2
+(g6
+S'R\xb5\xda\xae\xe5<\xd9?'
+p294
+tp295
+Rp296
+tp297
+a(S'technical'
+p298
+g2
+(g6
+S'\xad\x02\xe3\xe0U\x1c\xd9?'
+p299
+tp300
+Rp301
+tp302
+a(S'adam skorek'
+p303
+g2
+(g6
+S'V\x01\x11U\x9e\x18\xd9?'
+p304
+tp305
+Rp306
+tp307
+a(S'ieee photonics society'
+p308
+g2
+(g6
+S'"\x82!,\x82\x0c\xd9?'
+p309
+tp310
+Rp311
+tp312
+a(S'ieee access'
+p313
+g2
+(g6
+S'sR<\xf1\xe6\x04\xd9?'
+p314
+tp315
+Rp316
+tp317
+a(S'ieee transactions on multimedia'
+p318
+g2
+(g6
+S'\x0c\x086\x1e\x83\xfd\xd8?'
+p319
+tp320
+Rp321
+tp322
+a(S'ieee 802'
+p323
+g2
+(g6
+S'E\x90\xd9\xd6\xad\xd3\xd8?'
+p324
+tp325
+Rp326
+tp327
+a(S'antonio p\xc3\xa9rez yuste'
+p328
+g2
+(g6
+S'\xd5\xc8*i<\xac\xd8?'
+p329
+tp330
+Rp331
+tp332
+a(S'outline of computing'
+p333
+g2
+(g6
+S'=\xa4\xbe\xe1\x0b\xab\xd8?'
+p334
+tp335
+Rp336
+tp337
+a(S'ieee broadcast technology society'
+p338
+g2
+(g6
+S'\xa8\xc6\xdd\x8c\xcc\xa2\xd8?'
+p339
+tp340
+Rp341
+tp342
+a(S'list of wimax networks'
+p343
+g2
+(g6
+S'\xbf?\x8fH\x9c\x80\xd8?'
+p344
+tp345
+Rp346
+tp347
+a(S'jie wu'
+p348
+g2
+(g6
+S'\xcb\xf5p\xbb\xf2m\xd8?'
+p349
+tp350
+Rp351
+tp352
+a(S'technical committee on vlsi'
+p353
+g2
+(g6
+S'\xd1\xe4\xec2\xb2X\xd8?'
+p354
+tp355
+Rp356
+tp357
+a(S'ieee life sciences'
+p358
+g2
+(g6
+S'p\xd4\xe1\xd7\x0f4\xd8?'
+p359
+tp360
+Rp361
+tp362
+a(S'michael honig'
+p363
+g2
+(g6
+S'\xe8\xa6\xac\x99&!\xd8?'
+p364
+tp365
+Rp366
+tp367
+a(S'ieee technology and engineering management society'
+p368
+g2
+(g6
+S'\xc5\xd8p\xb8<\x14\xd8?'
+p369
+tp370
+Rp371
+tp372
+a(S'swainsboro technical college'
+p373
+g2
+(g6
+S'\xfej\x85\x82\x0b\x0f\xd8?'
+p374
+tp375
+Rp376
+tp377
+a(S'ieee industry applications society'
+p378
+g2
+(g6
+S'd\xcf\\\x06!\xe2\xd7?'
+p379
+tp380
+Rp381
+tp382
+a(S'ieee power electronics society'
+p383
+g2
+(g6
+S'\xa4\xe0\xb0O\x12\xe0\xd7?'
+p384
+tp385
+Rp386
+tp387
+a(S'sajal k. das'
+p388
+g2
+(g6
+S'\x8a\xedA! \xd3\xd7?'
+p389
+tp390
+Rp391
+tp392
+a(S'ieee smart grid'
+p393
+g2
+(g6
+S'\xd8\xe6\x9a\x8b\xa6\xc9\xd7?'
+p394
+tp395
+Rp396
+tp397
+a(S'computer science'
+p398
+g2
+(g6
+S's\xf3M\x96\xe0\xad\xd7?'
+p399
+tp400
+Rp401
+tp402
+a(S'jack dongarra'
+p403
+g2
+(g6
+S'\xafD\xa6\xab)\x8f\xd7?'
+p404
+tp405
+Rp406
+tp407
+a(S'ieee microwave magazine'
+p408
+g2
+(g6
+S'\xc4g\xa22\x0e\x8e\xd7?'
+p409
+tp410
+Rp411
+tp412
+a(S'software technical review'
+p413
+g2
+(g6
+S'(\x13\xdd/\xbb\x86\xd7?'
+p414
+tp415
+Rp416
+tp417
+a(S'computer pioneer award'
+p418
+g2
+(g6
+S'\xc5\xd6@\xb8\xa0y\xd7?'
+p419
+tp420
+Rp421
+tp422
+a(S'ieee software'
+p423
+g2
+(g6
+S'\xc5>\xe3-\xb1s\xd7?'
+p424
+tp425
+Rp426
+tp427
+a(S'computing'
+p428
+g2
+(g6
+S'\xa05\x14\xe5_p\xd7?'
+p429
+tp430
+Rp431
+tp432
+a(S'boeing technical fellowship'
+p433
+g2
+(g6
+S'\xc4\x88\x8d\x17-c\xd7?'
+p434
+tp435
+Rp436
+tp437
+a(S'memetic computing society'
+p438
+g2
+(g6
+S'l\x865\xcd\xacV\xd7?'
+p439
+tp440
+Rp441
+tp442
+a(S'fred brooks'
+p443
+g2
+(g6
+S'\xc2\xf0(\x17\xb2E\xd7?'
+p444
+tp445
+Rp446
+tp447
+a(S'benjamin wah'
+p448
+g2
+(g6
+S'"\x99\xc7\xc7H?\xd7?'
+p449
+tp450
+Rp451
+tp452
+a(S'ieee computational intelligence society'
+p453
+g2
+(g6
+S'\xbe\xb5\x84}o\x15\xd7?'
+p454
+tp455
+Rp456
+tp457
+a(S'david forsyth (computer scientist)'
+p458
+g2
+(g6
+S'|E\xeb\xeeF\x13\xd7?'
+p459
+tp460
+Rp461
+tp462
+a(S'list of computer science journals'
+p463
+g2
+(g6
+S'GG\xefW\xc9\x12\xd7?'
+p464
+tp465
+Rp466
+tp467
+a(S'ieee sa international award'
+p468
+g2
+(g6
+S'\xf4A@\xe3\xb0\x10\xd7?'
+p469
+tp470
+Rp471
+tp472
+a(S'institute of scientific and technical communicators'
+p473
+g2
+(g6
+S'F\x81\xaa\xc6\xa4\x0c\xd7?'
+p474
+tp475
+Rp476
+tp477
+a(S'ieee components, packaging & manufacturing technology society'
+p478
+g2
+(g6
+S'\xd28]\x80\x8a\x07\xd7?'
+p479
+tp480
+Rp481
+tp482
+a(S'michael t. goodrich'
+p483
+g2
+(g6
+S'\xfd\x0f\xf7!u\x00\xd7?'
+p484
+tp485
+Rp486
+tp487
+a(S'ming c. lin'
+p488
+g2
+(g6
+S'@\xeb\xe5\xe1\xd3\xf4\xd6?'
+p489
+tp490
+Rp491
+tp492
+a(S'ieee oceanic engineering society'
+p493
+g2
+(g6
+S'`\x84\xea\x99i\xef\xd6?'
+p494
+tp495
+Rp496
+tp497
+a(S'southeastern technical college'
+p498
+g2
+(g6
+S'\xcc\x15\x06\xa6C\xec\xd6?'
+p499
+tp500
+Rp501
+tp502
+a(S'rico malvar'
+p503
+g2
+(g6
+S'\xa6W\xfe\xf9\xae\xda\xd6?'
+p504
+tp505
+Rp506
+tp507
+a(S'ogeechee technical college'
+p508
+g2
+(g6
+S'\xca\x9d\xfc\xeb\\\xd3\xd6?'
+p509
+tp510
+Rp511
+tp512
+a(S'ieee intelligent systems'
+p513
+g2
+(g6
+S'\xf5\x87\xa4\x8d\xfe\xc0\xd6?'
+p514
+tp515
+Rp516
+tp517
+a(S'ieee honorary membership'
+p518
+g2
+(g6
+S'iQ\xfb\x10\x96\xbd\xd6?'
+p519
+tp520
+Rp521
+tp522
+a(S'salvatore d. morgera'
+p523
+g2
+(g6
+S'\xf2o:=\xfb\xba\xd6?'
+p524
+tp525
+Rp526
+tp527
+a(S'martha e. sloan'
+p528
+g2
+(g6
+S'\xfdin.\xb3\xa9\xd6?'
+p529
+tp530
+Rp531
+tp532
+a(S'international federation for the promotion of mechanism and machine science'
+p533
+g2
+(g6
+S'_\xeb\x91i\x90\xa7\xd6?'
+p534
+tp535
+Rp536
+tp537
+a(S'ieee style'
+p538
+g2
+(g6
+S'\xf1\x16\xa7\xa8z\x93\xd6?'
+p539
+tp540
+Rp541
+tp542
+a(S'state committee of the soviet union'
+p543
+g2
+(g6
+S'\xe2\x85Q\xff\xe3\x8e\xd6?'
+p544
+tp545
+Rp546
+tp547
+a(S'district university ieee student branch'
+p548
+g2
+(g6
+S'\xc1\x81\xc2\xaaN\x87\xd6?'
+p549
+tp550
+Rp551
+tp552
+a(S'ieee 802.18'
+p553
+g2
+(g6
+S'\x89:+\xe4f\x80\xd6?'
+p554
+tp555
+Rp556
+tp557
+a(S'east central technical college'
+p558
+g2
+(g6
+S'#\x8e\x95\xe4\tp\xd6?'
+p559
+tp560
+Rp561
+tp562
+a(S'ieee richard m. emberson award'
+p563
+g2
+(g6
+S'\xb3b\x90\xd1\x9a_\xd6?'
+p564
+tp565
+Rp566
+tp567
+a(S'buraidah college of technology'
+p568
+g2
+(g6
+S'\n\x7f\xd2Y]_\xd6?'
+p569
+tp570
+Rp571
+tp572
+a(S'david bader (computer scientist)'
+p573
+g2
+(g6
+S'\xaak\x9b-\x1b\\\xd6?'
+p574
+tp575
+Rp576
+tp577
+a(S'henry l. bachman'
+p578
+g2
+(g6
+S'j\xf0\xf5\x19\x0fY\xd6?'
+p579
+tp580
+Rp581
+tp582
+a(S'xiaodong wang (electrical engineer)'
+p583
+g2
+(g6
+S'\xc82\t\xaavW\xd6?'
+p584
+tp585
+Rp586
+tp587
+a(S'ieee consumer electronics society'
+p588
+g2
+(g6
+S'\xa9(W\x96\xafV\xd6?'
+p589
+tp590
+Rp591
+tp592
+a(S'ieee control systems society'
+p593
+g2
+(g6
+S'YP\x8d\xe6\xe2@\xd6?'
+p594
+tp595
+Rp596
+tp597
+a(S'ieee control systems award'
+p598
+g2
+(g6
+S'(\xa1\xa4\x1d\x04@\xd6?'
+p599
+tp600
+Rp601
+tp602
+a(S'l v muralikrishna reddy'
+p603
+g2
+(g6
+S'P\xf4\x97\x1d\xf67\xd6?'
+p604
+tp605
+Rp606
+tp607
+a(S'ieee robotics and automation society'
+p608
+g2
+(g6
+S'wv\xfaVf7\xd6?'
+p609
+tp610
+Rp611
+tp612
+a(S'nettur technical training foundation'
+p613
+g2
+(g6
+S's\xc9\xea\x12\xeb6\xd6?'
+p614
+tp615
+Rp616
+tp617
+a(S'punjab state board of technical education and industrial training'
+p618
+g2
+(g6
+S'\xba?\x9e\x18;0\xd6?'
+p619
+tp620
+Rp621
+tp622
+a(S'ieee emanuel r. piore award'
+p623
+g2
+(g6
+S'\xbcW%O?!\xd6?'
+p624
+tp625
+Rp626
+tp627
+a(S'southeast career technical academy'
+p628
+g2
+(g6
+S'\xfan\xcc\x0bY\x17\xd6?'
+p629
+tp630
+Rp631
+tp632
+a(S'elza erkip'
+p633
+g2
+(g6
+S'\x8f\xdc\xb7\xd5!\x05\xd6?'
+p634
+tp635
+Rp636
+tp637
+a(S'ieee transactions on education'
+p638
+g2
+(g6
+S'\xa1%\xc5\td\xfc\xd5?'
+p639
+tp640
+Rp641
+tp642
+a(S'ieee intelligent transportation systems society'
+p643
+g2
+(g6
+S'\x90\x9e\x89i\x00\xf1\xd5?'
+p644
+tp645
+Rp646
+tp647
+a(S'ieee 802.15'
+p648
+g2
+(g6
+S'\xf8\xdb\x80\x173\xea\xd5?'
+p649
+tp650
+Rp651
+tp652
+a(S'min chen (computer scientist)'
+p653
+g2
+(g6
+S'\xb5\xe5\x9c(\x85\xe9\xd5?'
+p654
+tp655
+Rp656
+tp657
+a(S'mid-state technical college'
+p658
+g2
+(g6
+S'U*\xeb\xbb\xa2\xe7\xd5?'
+p659
+tp660
+Rp661
+tp662
+a(S'charles concordia'
+p663
+g2
+(g6
+S'\xe9\x17p\xc7T\xe5\xd5?'
+p664
+tp665
+Rp666
+tp667
+a(S'ieee haraden pratt award'
+p668
+g2
+(g6
+S'\x9f\xd3\xbc\x08I\xe4\xd5?'
+p669
+tp670
+Rp671
+tp672
+a(S'ieee industrial electronics society'
+p673
+g2
+(g6
+S'\x9e\x91\x15~8\xe3\xd5?'
+p674
+tp675
+Rp676
+tp677
+a(S'venu govindaraju'
+p678
+g2
+(g6
+S'=\xfe5\xa9\xd8\xd4\xd5?'
+p679
+tp680
+Rp681
+tp682
+a(S'vladim\xc3\xadr teyssler'
+p683
+g2
+(g6
+S'(J\x8bp\xae\xd0\xd5?'
+p684
+tp685
+Rp686
+tp687
+a(S'ieee electron devices society'
+p688
+g2
+(g6
+S'\x8d\xad\x80\x92\xe1\xcb\xd5?'
+p689
+tp690
+Rp691
+tp692
+a(S'list of italy national football team managers'
+p693
+g2
+(g6
+S'\xcb\np\xc8\xa2\xc8\xd5?'
+p694
+tp695
+Rp696
+tp697
+a(S'saraju mohanty'
+p698
+g2
+(g6
+S'\xa5M\xf5\xa5\x10\xc3\xd5?'
+p699
+tp700
+Rp701
+tp702
+a(S'american institute of electrical engineers'
+p703
+g2
+(g6
+S'\x11L+\x15\xf4\xb8\xd5?'
+p704
+tp705
+Rp706
+tp707
+a(S'ieee spectrum'
+p708
+g2
+(g6
+S'<*\xa5\xe40\xb8\xd5?'
+p709
+tp710
+Rp711
+tp712
+a(S'international conference on parallel and distributed systems'
+p713
+g2
+(g6
+S'j\x01\x9bP\x82\xb6\xd5?'
+p714
+tp715
+Rp716
+tp717
+a(S'alan burns (professor)'
+p718
+g2
+(g6
+S'\x8b\x96\xe4fu\xb6\xd5?'
+p719
+tp720
+Rp721
+tp722
+a(S'ieee instrumentation and measurement society'
+p723
+g2
+(g6
+S'\xfdN!5\xf5\xa8\xd5?'
+p724
+tp725
+Rp726
+tp727
+a(S'sergio verd\xc3\xba'
+p728
+g2
+(g6
+S'\xfdarj\x95\xa1\xd5?'
+p729
+tp730
+Rp731
+tp732
+a(S'st. georges technical high school'
+p733
+g2
+(g6
+S'WAy4 \x9b\xd5?'
+p734
+tp735
+Rp736
+tp737
+a(S'ieee power & energy magazine'
+p738
+g2
+(g6
+S'[\xed\x07\xc2\xf1\x9a\xd5?'
+p739
+tp740
+Rp741
+tp742
+a(S'ieee nanotechnology council'
+p743
+g2
+(g6
+S'\xcfrZ\xcc\xcb\x94\xd5?'
+p744
+tp745
+Rp746
+tp747
+a(S'ieee transactions on mobile computing'
+p748
+g2
+(g6
+S'\xdfL\x93\x11:\x92\xd5?'
+p749
+tp750
+Rp751
+tp752
+a(S'vahid tarokh'
+p753
+g2
+(g6
+S'O\x9b\x9b"\xbe\x91\xd5?'
+p754
+tp755
+Rp756
+tp757
+a(S'susan l. graham'
+p758
+g2
+(g6
+S'q\xa1X\x94\x96\x91\xd5?'
+p759
+tp760
+Rp761
+tp762
+a(S'ieee donald g. fink prize paper award'
+p763
+g2
+(g6
+S'\xb4\x1dmt\x83\x8c\xd5?'
+p764
+tp765
+Rp766
+tp767
+a(S'ieee 1680'
+p768
+g2
+(g6
+S'C\xb0\x86\x91\x0c\x82\xd5?'
+p769
+tp770
+Rp771
+tp772
+a(S'david j. allstot'
+p773
+g2
+(g6
+S'@\xf7\x83\x9e\xe9~\xd5?'
+p774
+tp775
+Rp776
+tp777
+a(S'appalachian technical college'
+p778
+g2
+(g6
+S'\xf2\x893\x96\xafo\xd5?'
+p779
+tp780
+Rp781
+tp782
+a(S'dcf interframe space'
+p783
+g2
+(g6
+S')H0\x07\x89l\xd5?'
+p784
+tp785
+Rp786
+tp787
+a(S'technical difficulties'
+p788
+g2
+(g6
+S'\xa0W\xbbny]\xd5?'
+p789
+tp790
+Rp791
+tp792
+a(S'ieee biometrics council'
+p793
+g2
+(g6
+S'\xb5\xd2+=WX\xd5?'
+p794
+tp795
+Rp796
+tp797
+a(S't 1173/97'
+p798
+g2
+(g6
+S'\xf2\xadf\xfcvW\xd5?'
+p799
+tp800
+Rp801
+tp802
+a(S'ieee transactions on computers'
+p803
+g2
+(g6
+S'b\xb1\x8b2\xb7R\xd5?'
+p804
+tp805
+Rp806
+tp807
+a(S'ieee reliability society'
+p808
+g2
+(g6
+S'\xba9\xc9sqM\xd5?'
+p809
+tp810
+Rp811
+tp812
+a(S'international symposium on wearable computers'
+p813
+g2
+(g6
+S'\xf8\xbf\xc8\x93\x87F\xd5?'
+p814
+tp815
+Rp816
+tp817
+a(S'vocational-technical school'
+p818
+g2
+(g6
+S"A$\x02'\x97A\xd5?"
+p819
+tp820
+Rp821
+tp822
+a(S'liang-jie zhang'
+p823
+g2
+(g6
+S'\xbc\xf6\x82\x01 A\xd5?'
+p824
+tp825
+Rp826
+tp827
+a(S'ieee transactions on computer-aided design of integrated circuits and systems'
+p828
+g2
+(g6
+S'\xb1\xe3#\xc6b8\xd5?'
+p829
+tp830
+Rp831
+tp832
+a(S'model technical higher secondary schools'
+p833
+g2
+(g6
+S'3\x80C\x0b\xd36\xd5?'
+p834
+tp835
+Rp836
+tp837
+a(S'technical performance measure'
+p838
+g2
+(g6
+S'~\xba\x12\xa0\x945\xd5?'
+p839
+tp840
+Rp841
+tp842
+a(S'ieee andrew s. grove award'
+p843
+g2
+(g6
+S'\xbb!B\xb2\xf20\xd5?'
+p844
+tp845
+Rp846
+tp847
+a(S'ieee computing edge (magazine)'
+p848
+g2
+(g6
+S'\xa2\x12\xdf\x14+0\xd5?'
+p849
+tp850
+Rp851
+tp852
+a(S'tccc'
+p853
+g2
+(g6
+S'\xbf\xd0y\xf9\xf1/\xd5?'
+p854
+tp855
+Rp856
+tp857
+a(S'elaine weyuker'
+p858
+g2
+(g6
+S'j3\x9eu5+\xd5?'
+p859
+tp860
+Rp861
+tp862
+a(S'ieee fellow'
+p863
+g2
+(g6
+S'\xecy\xefr\x01(\xd5?'
+p864
+tp865
+Rp866
+tp867
+a(S'technical school'
+p868
+g2
+(g6
+S'\x91\xd0\x8c8%!\xd5?'
+p869
+tp870
+Rp871
+tp872
+a(S'list of ptp implementations'
+p873
+g2
+(g6
+S'\x04\xb9\x0f\xc6\x1c\x1c\xd5?'
+p874
+tp875
+Rp876
+tp877
+a(S'technical division, air training command'
+p878
+g2
+(g6
+S'\x1a\x898\rn\x1b\xd5?'
+p879
+tp880
+Rp881
+tp882
+a(S'gene spafford'
+p883
+g2
+(g6
+S'\xa8\xa1\xca\xecU\x18\xd5?'
+p884
+tp885
+Rp886
+tp887
+a(S'constantine a. balanis'
+p888
+g2
+(g6
+S'|\x9bh\xdc\xd6\x14\xd5?'
+p889
+tp890
+Rp891
+tp892
+a(S'ieee transactions on semiconductor manufacturing'
+p893
+g2
+(g6
+S'K\x19\x91e\xef\x13\xd5?'
+p894
+tp895
+Rp896
+tp897
+a(S'ieee engineering in medicine and biology society'
+p898
+g2
+(g6
+S'O\x06\xc6\xe5\xc2\x12\xd5?'
+p899
+tp900
+Rp901
+tp902
+a(S'technical file'
+p903
+g2
+(g6
+S'\xe9T}\xd2\xf5\x0c\xd5?'
+p904
+tp905
+Rp906
+tp907
+a(S'searcc'
+p908
+g2
+(g6
+S'!\xc7\x85\x8f\xca\t\xd5?'
+p909
+tp910
+Rp911
+tp912
+a(S'ieee leon k. kirchmayer graduate teaching award'
+p913
+g2
+(g6
+S'\x13\x817\xf3F\t\xd5?'
+p914
+tp915
+Rp916
+tp917
+a(S'technical documentation'
+p918
+g2
+(g6
+S"t\xea\xdcj'\x03\xd5?"
+p919
+tp920
+Rp921
+tp922
+a(S'member of technical staff'
+p923
+g2
+(g6
+S'=\xe7\xdf\x83\x00\x02\xd5?'
+p924
+tp925
+Rp926
+tp927
+a(S'lee swindlehurst'
+p928
+g2
+(g6
+S'D\x15\x1cN"\xfd\xd4?'
+p929
+tp930
+Rp931
+tp932
+a(S'coastal pines technical college'
+p933
+g2
+(g6
+S'\xc2\xe9\xfe\xee\xa0\xf8\xd4?'
+p934
+tp935
+Rp936
+tp937
+a(S'don towsley'
+p938
+g2
+(g6
+S'\xc0\xc6*co\xe9\xd4?'
+p939
+tp940
+Rp941
+tp942
+a(S'ieee w.r.g. baker award'
+p943
+g2
+(g6
+S'\x0b\x02\xbd1\xf3\xd5\xd4?'
+p944
+tp945
+Rp946
+tp947
+a(S'hodgson vo-tech high school'
+p948
+g2
+(g6
+S'B\x16\xc6h\x1f\xc6\xd4?'
+p949
+tp950
+Rp951
+tp952
+a(S'john o. limb'
+p953
+g2
+(g6
+S'\x04\x87\x03\xcd\xcf\xaa\xd4?'
+p954
+tp955
+Rp956
+tp957
+a(S'ieee computer science and engineering undergraduate teaching award'
+p958
+g2
+(g6
+S'\x92\xf82\x01\xb0\xaa\xd4?'
+p959
+tp960
+Rp961
+tp962
+a(S'hendrik c. ferreira'
+p963
+g2
+(g6
+S'\x18"\xb8\x83k\xa3\xd4?'
+p964
+tp965
+Rp966
+tp967
+a(S'college of engineering chengannur'
+p968
+g2
+(g6
+S'\xc8\xbf_\xa4\xef\x9f\xd4?'
+p969
+tp970
+Rp971
+tp972
+a(S'robert g. gallager'
+p973
+g2
+(g6
+S'\x97\x0586p\x9a\xd4?'
+p974
+tp975
+Rp976
+tp977
+a(S'national technical honor society'
+p978
+g2
+(g6
+S'\xcd\x9e\xd9\xd3\x02\x98\xd4?'
+p979
+tp980
+Rp981
+tp982
+a(S'secondary technical school'
+p983
+g2
+(g6
+S'&\xe9\x1fe\xff\x93\xd4?'
+p984
+tp985
+Rp986
+tp987
+a(S'design automation and test in europe'
+p988
+g2
+(g6
+S'PJ\xc0\x00\x8f\x8f\xd4?'
+p989
+tp990
+Rp991
+tp992
+a(S'ieee innovation in societal infrastructure award'
+p993
+g2
+(g6
+S'NY\x12\xf5\x03\x8c\xd4?'
+p994
+tp995
+Rp996
+tp997
+a(S'ruzena bajcsy'
+p998
+g2
+(g6
+S'E\xa0\xc0\xf6\xa3\x89\xd4?'
+p999
+tp1000
+Rp1001
+tp1002
+a(S'ieee committee on earth observation'
+p1003
+g2
+(g6
+S':\xbe\x9b\xd5\x9b\x82\xd4?'
+p1004
+tp1005
+Rp1006
+tp1007
+a(S'ieee systems, man, and cybernetics society'
+p1008
+g2
+(g6
+S'\x13!5\x12y\x7f\xd4?'
+p1009
+tp1010
+Rp1011
+tp1012
+a(S'l. j. institute of engineering and technology'
+p1013
+g2
+(g6
+S'\xeaF{e]y\xd4?'
+p1014
+tp1015
+Rp1016
+tp1017
+a(S'ieee/acm transactions on computational biology and bioinformatics'
+p1018
+g2
+(g6
+S'v\x8d1\xba\xa0s\xd4?'
+p1019
+tp1020
+Rp1021
+tp1022
+a(S'zhang hongjiang'
+p1023
+g2
+(g6
+S'I\xf4\xb8e\x1ca\xd4?'
+p1024
+tp1025
+Rp1026
+tp1027
+a(S'columbus technical college'
+p1028
+g2
+(g6
+S'\xd4\xf5\xb4\x80k`\xd4?'
+p1029
+tp1030
+Rp1031
+tp1032
+a(S'indira gandhi delhi technological university for women'
+p1033
+g2
+(g6
+S'<.\xe7\xc1\xa8P\xd4?'
+p1034
+tp1035
+Rp1036
+tp1037
+a(S'futurebus'
+p1038
+g2
+(g6
+S'\xf8\x04Ez\x8dO\xd4?'
+p1039
+tp1040
+Rp1041
+tp1042
+a(S'gemsville technical university'
+p1043
+g2
+(g6
+S'H\t\xc1tNK\xd4?'
+p1044
+tp1045
+Rp1046
+tp1047
+a(S'mohamed fayad'
+p1048
+g2
+(g6
+S'\xa2\xc47h\x0eE\xd4?'
+p1049
+tp1050
+Rp1051
+tp1052
+a(S'w. wallace mcdowell award'
+p1053
+g2
+(g6
+S's\xa7$R{D\xd4?'
+p1054
+tp1055
+Rp1056
+tp1057
+a(S'central technical training command'
+p1058
+g2
+(g6
+S'v\x1d\xd0\xbb\x08D\xd4?'
+p1059
+tp1060
+Rp1061
+tp1062
+a(S'computer science teachers association'
+p1063
+g2
+(g6
+S'\xedr\xd0\xc2\x122\xd4?'
+p1064
+tp1065
+Rp1066
+tp1067
+a(S'mohammad shahidehpour'
+p1068
+g2
+(g6
+S'\x91\x0ed\x1e\xc7+\xd4?'
+p1069
+tp1070
+Rp1071
+tp1072
+a(S'james won-ki hong'
+p1073
+g2
+(g6
+S'}A\x8b\xb1v&\xd4?'
+p1074
+tp1075
+Rp1076
+tp1077
+a(S'ieee 1613'
+p1078
+g2
+(g6
+S'\xad\xe9\xbb\xfc\x10%\xd4?'
+p1079
+tp1080
+Rp1081
+tp1082
+a(S'ieee society on social implications of technology'
+p1083
+g2
+(g6
+S'\xdb\xf5]c\x02#\xd4?'
+p1084
+tp1085
+Rp1086
+tp1087
+a(S'computer: a history of the information machine'
+p1088
+g2
+(g6
+S'\xfd\xe5\rm*\x1d\xd4?'
+p1089
+tp1090
+Rp1091
+tp1092
+a(S't 641/00'
+p1093
+g2
+(g6
+S'..\xf9c\xe1\x17\xd4?'
+p1094
+tp1095
+Rp1096
+tp1097
+a(S'mark guzdial'
+p1098
+g2
+(g6
+S'<\x048\xf0\x93\x17\xd4?'
+p1099
+tp1100
+Rp1101
+tp1102
+a(S'ieee aerospace and electronic systems society'
+p1103
+g2
+(g6
+S'(\xda\xa2\xd3H\x16\xd4?'
+p1104
+tp1105
+Rp1106
+tp1107
+a(S'keith marzullo'
+p1108
+g2
+(g6
+S'j~?\xf7\xff\x12\xd4?'
+p1109
+tp1110
+Rp1111
+tp1112
+a(S'western technical training command'
+p1113
+g2
+(g6
+S'\xbc\rY\x03\x1b\x0c\xd4?'
+p1114
+tp1115
+Rp1116
+tp1117
+a(S'ian f. akyildiz'
+p1118
+g2
+(g6
+S'h\xa9\xf1.\xdd\x07\xd4?'
+p1119
+tp1120
+Rp1121
+tp1122
+a(S'western technical college'
+p1123
+g2
+(g6
+S'\xda\x08\x1d\x950\x07\xd4?'
+p1124
+tp1125
+Rp1126
+tp1127
+a(S'ieee marie sklodowska-curie award'
+p1128
+g2
+(g6
+S'\xf3\x8a\x93\x9b\xd9\xfe\xd3?'
+p1129
+tp1130
+Rp1131
+tp1132
+a(S'kenneth c. smith'
+p1133
+g2
+(g6
+S'/\xbb\xcb\xf2\xb0\xfd\xd3?'
+p1134
+tp1135
+Rp1136
+tp1137
+a(S'thadomal shahani engineering college'
+p1138
+g2
+(g6
+S'\xd5H\x90\xa1\x97\xfc\xd3?'
+p1139
+tp1140
+Rp1141
+tp1142
+a(S'chattahoochee technical college'
+p1143
+g2
+(g6
+S'\xd8\xd4u\x1cB\xf7\xd3?'
+p1144
+tp1145
+Rp1146
+tp1147
+a(S'university visvesvaraya college of engineering'
+p1148
+g2
+(g6
+S'\xf6\n\xbd\xed\t\xf3\xd3?'
+p1149
+tp1150
+Rp1151
+tp1152
+a(S'anthony n. michel'
+p1153
+g2
+(g6
+S'\x95\xbc\xdc\x13\xe8\xeb\xd3?'
+p1154
+tp1155
+Rp1156
+tp1157
+a(S'computer museum'
+p1158
+g2
+(g6
+S'\x1e\xdf\xc3\xbdE\xe7\xd3?'
+p1159
+tp1160
+Rp1161
+tp1162
+a(S'norman abramson'
+p1163
+g2
+(g6
+S'W\x07\xc9Ej\xe1\xd3?'
+p1164
+tp1165
+Rp1166
+tp1167
+a(S'technical director'
+p1168
+g2
+(g6
+S'\x03j\x8a\xa1\xfa\xd0\xd3?'
+p1169
+tp1170
+Rp1171
+tp1172
+a(S'ieee design & test of computers'
+p1173
+g2
+(g6
+S'\xf2\x1e\xd6LX\xd0\xd3?'
+p1174
+tp1175
+Rp1176
+tp1177
+a(S'elisa bertino'
+p1178
+g2
+(g6
+S'\x86\xcd\xb2\x94\r\xd0\xd3?'
+p1179
+tp1180
+Rp1181
+tp1182
+a(S'computer engineering'
+p1183
+g2
+(g6
+S'\xfd+J\x88\xa2\xcf\xd3?'
+p1184
+tp1185
+Rp1186
+tp1187
+a(S'east career and technical academy'
+p1188
+g2
+(g6
+S'\x9ej\x1b\xe7c\xcd\xd3?'
+p1189
+tp1190
+Rp1191
+tp1192
+a(S'massoud pedram'
+p1193
+g2
+(g6
+S'!J\xf2\xa6V\xcc\xd3?'
+p1194
+tp1195
+Rp1196
+tp1197
+a(S'john choma (professor)'
+p1198
+g2
+(g6
+S'\xe0\xedzt\xe3\xc7\xd3?'
+p1199
+tp1200
+Rp1201
+tp1202
+a(S'demetri terzopoulos'
+p1203
+g2
+(g6
+S'\xba\x84Q\x00\xb3\xb4\xd3?'
+p1204
+tp1205
+Rp1206
+tp1207
+a(S'committee'
+p1208
+g2
+(g6
+S'!\xb0\xdd\xf1\x1e\xb4\xd3?'
+p1209
+tp1210
+Rp1211
+tp1212
+a(S'inter-access point protocol'
+p1213
+g2
+(g6
+S'\xdc5^\xdb=\xa3\xd3?'
+p1214
+tp1215
+Rp1216
+tp1217
+a(S'mohammad s. obaidat'
+p1218
+g2
+(g6
+S'2\x0b;i\x7f\x9d\xd3?'
+p1219
+tp1220
+Rp1221
+tp1222
+a(S'ieee sensors council early career gold award'
+p1223
+g2
+(g6
+S"@\xe3'H\xb6\x9a\xd3?"
+p1224
+tp1225
+Rp1226
+tp1227
+a(S'list of united states air force technical operations squadrons'
+p1228
+g2
+(g6
+S'c\x03b/\xa5\x9a\xd3?'
+p1229
+tp1230
+Rp1231
+tp1232
+a(S'ieee p802.1p'
+p1233
+g2
+(g6
+S'\xde\xa0K\x10\x98\x95\xd3?'
+p1234
+tp1235
+Rp1236
+tp1237
+a(S'clark state community college'
+p1238
+g2
+(g6
+S'\x9d\xe7~<\xbc\x8d\xd3?'
+p1239
+tp1240
+Rp1241
+tp1242
+a(S'joint conference on digital libraries'
+p1243
+g2
+(g6
+S'\xc7\xe1\xc7?R\x8c\xd3?'
+p1244
+tp1245
+Rp1246
+tp1247
+a(S'gender disparity in computing'
+p1248
+g2
+(g6
+S'b\xf8\x19\x8d\xf8\x83\xd3?'
+p1249
+tp1250
+Rp1251
+tp1252
+a(S'hans wilhelm sch\xc3\xbc\xc3\x9fler'
+p1253
+g2
+(g6
+S'\xdcs\x8f\xd6\x1e\x83\xd3?'
+p1254
+tp1255
+Rp1256
+tp1257
+a(S'university of computer studies, yangon'
+p1258
+g2
+(g6
+S')\x16G\x92\x81\x81\xd3?'
+p1259
+tp1260
+Rp1261
+tp1262
+a(S'ieee cledo brunetti award'
+p1263
+g2
+(g6
+S'"4f\xa6\n\x80\xd3?'
+p1264
+tp1265
+Rp1266
+tp1267
+a(S'symposium on foundations of computer science'
+p1268
+g2
+(g6
+S'\xb0\x16\x92\x14\x97|\xd3?'
+p1269
+tp1270
+Rp1271
+tp1272
+a(S'mischa schwartz'
+p1273
+g2
+(g6
+S'\xfb\xd7vK\x81y\xd3?'
+p1274
+tp1275
+Rp1276
+tp1277
+a(S'business and computing'
+p1278
+g2
+(g6
+S'\xc8U;)\x15w\xd3?'
+p1279
+tp1280
+Rp1281
+tp1282
+a(S'city of bath technical school'
+p1283
+g2
+(g6
+S'\xb5\xb9\x9ee\xf6v\xd3?'
+p1284
+tp1285
+Rp1286
+tp1287
+a(S'gerald estrin'
+p1288
+g2
+(g6
+S'\xceB\xe8\x85"v\xd3?'
+p1289
+tp1290
+Rp1291
+tp1292
+a(S'george v. eleftheriades'
+p1293
+g2
+(g6
+S'\xe8ukg(u\xd3?'
+p1294
+tp1295
+Rp1296
+tp1297
+a(S'griffin technical college'
+p1298
+g2
+(g6
+S'Ch\x98:ni\xd3?'
+p1299
+tp1300
+Rp1301
+tp1302
+a(S'frede blaabjerg'
+p1303
+g2
+(g6
+S'\x00\xb7\x8b\xe5}h\xd3?'
+p1304
+tp1305
+Rp1306
+tp1307
+a(S'manhattan area technical college'
+p1308
+g2
+(g6
+S'\xf0\x17=1\xdag\xd3?'
+p1309
+tp1310
+Rp1311
+tp1312
+a(S'university of computer studies, mandalay'
+p1313
+g2
+(g6
+S'\x9e(A\x05\xabf\xd3?'
+p1314
+tp1315
+Rp1316
+tp1317
+a(S'ieee sensors council'
+p1318
+g2
+(g6
+S']w\xa4`\x82f\xd3?'
+p1319
+tp1320
+Rp1321
+tp1322
+a(S'eckert\xe2\x80\x93mauchly award'
+p1323
+g2
+(g6
+S'W\xe2\x0c\x98\x9cd\xd3?'
+p1324
+tp1325
+Rp1326
+tp1327
+a(S'ieee internet computing'
+p1328
+g2
+(g6
+S'\xc7r\xadj\xad_\xd3?'
+p1329
+tp1330
+Rp1331
+tp1332
+a(S'international conference on software engineering and formal methods'
+p1333
+g2
+(g6
+S'\xceE\x9e\x8a\x04O\xd3?'
+p1334
+tp1335
+Rp1336
+tp1337
+a(S'dyspan'
+p1338
+g2
+(g6
+S'\x8c`^\xeegN\xd3?'
+p1339
+tp1340
+Rp1341
+tp1342
+a(S'richard w. ziolkowski'
+p1343
+g2
+(g6
+S'\x1f\xacS\x01\x9cL\xd3?'
+p1344
+tp1345
+Rp1346
+tp1347
+a(S'ieee/acm transactions on networking'
+p1348
+g2
+(g6
+S'%dp\x90cJ\xd3?'
+p1349
+tp1350
+Rp1351
+tp1352
+a(S'student congress (pakistan)'
+p1353
+g2
+(g6
+S'\xf9T/0\xc4H\xd3?'
+p1354
+tp1355
+Rp1356
+tp1357
+a(S'outline of computer engineering'
+p1358
+g2
+(g6
+S'\x10(\x89\xe4\x0bB\xd3?'
+p1359
+tp1360
+Rp1361
+tp1362
+a(S'mootaz elnozahy'
+p1363
+g2
+(g6
+S'?1=\xc2\xfb<\xd3?'
+p1364
+tp1365
+Rp1366
+tp1367
+a(S'international council on large electric systems'
+p1368
+g2
+(g6
+S"'\xfc#\x1fo<\xd3?"
+p1369
+tp1370
+Rp1371
+tp1372
+a(S'christopher r. johnson'
+p1373
+g2
+(g6
+S'\xccF\xd5d\xb1;\xd3?'
+p1374
+tp1375
+Rp1376
+tp1377
+a(S'ieee 1547'
+p1378
+g2
+(g6
+S'\x8e\xaf3\xa5M:\xd3?'
+p1379
+tp1380
+Rp1381
+tp1382
+a(S'douglas p. verret'
+p1383
+g2
+(g6
+S'*\x13\t\xbc\x887\xd3?'
+p1384
+tp1385
+Rp1386
+tp1387
+a(S'technical translation'
+p1388
+g2
+(g6
+S'\xd7\xa4(\xe2\xbd1\xd3?'
+p1389
+tp1390
+Rp1391
+tp1392
+a(S'services computing'
+p1393
+g2
+(g6
+S'W[\xb0N\xef/\xd3?'
+p1394
+tp1395
+Rp1396
+tp1397
+a(S'ingemar cox'
+p1398
+g2
+(g6
+S'\xa2\xda\x1f\x0b}-\xd3?'
+p1399
+tp1400
+Rp1401
+tp1402
+a(S'engineering and technology history wiki'
+p1403
+g2
+(g6
+S'\xc5\x0b\x8e\x8d\xcc,\xd3?'
+p1404
+tp1405
+Rp1406
+tp1407
+a(S'computing (magazine)'
+p1408
+g2
+(g6
+S'\rKR\xf6|$\xd3?'
+p1409
+tp1410
+Rp1411
+tp1412
+a(S'model technical higher secondary school, kaloor'
+p1413
+g2
+(g6
+S'^\x9b#\x7f|$\xd3?'
+p1414
+tp1415
+Rp1416
+tp1417
+a(S'metacomputing'
+p1418
+g2
+(g6
+S'\x90\xcaK\xe3\xae!\xd3?'
+p1419
+tp1420
+Rp1421
+tp1422
+a(S'southeast arkansas college'
+p1423
+g2
+(g6
+S'\xaa\r\xe5aA!\xd3?'
+p1424
+tp1425
+Rp1426
+tp1427
+a(S'ieee ernst weber engineering leadership recognition'
+p1428
+g2
+(g6
+S'\xf0lR\r\xd1 \xd3?'
+p1429
+tp1430
+Rp1431
+tp1432
+a(S'computer scientist'
+p1433
+g2
+(g6
+S'E3\xc7\xb3E \xd3?'
+p1434
+tp1435
+Rp1436
+tp1437
+a(S'k. j. somaiya institute of engineering and information technology'
+p1438
+g2
+(g6
+S'\xa2\xd4Qu\xea\x1d\xd3?'
+p1439
+tp1440
+Rp1441
+tp1442
+a(S'arun netravali'
+p1443
+g2
+(g6
+S'D\x89h"\xf3\x18\xd3?'
+p1444
+tp1445
+Rp1446
+tp1447
+a(S'a.j. han vinck'
+p1448
+g2
+(g6
+S'\x1c\xb4>\x02\xd5\x18\xd3?'
+p1449
+tp1450
+Rp1451
+tp1452
+a(S'jos\xc3\xa9 tribolet'
+p1453
+g2
+(g6
+S'\x7f\xea3\xc5\xbe\x17\xd3?'
+p1454
+tp1455
+Rp1456
+tp1457
+a(S'list of computer science conferences'
+p1458
+g2
+(g6
+S'O\xc4?\xe8b\x13\xd3?'
+p1459
+tp1460
+Rp1461
+tp1462
+a(S'ieee southwest symposium on image analysis and interpretation'
+p1463
+g2
+(g6
+S't\xaf\xf9\x98\x97\x12\xd3?'
+p1464
+tp1465
+Rp1466
+tp1467
+a(S'list of committees of the indian government'
+p1468
+g2
+(g6
+S'\x05\x15\xe9sV\x12\xd3?'
+p1469
+tp1470
+Rp1471
+tp1472
+a(S'university of kragujevac faculty of technical sciences'
+p1473
+g2
+(g6
+S'#\xb2:\xb7\xb2\x10\xd3?'
+p1474
+tp1475
+Rp1476
+tp1477
+a(S'charles e. leiserson'
+p1478
+g2
+(g6
+S'\x1b\xbf\x01\x83\x1c\x10\xd3?'
+p1479
+tp1480
+Rp1481
+tp1482
+a(S'yale patt'
+p1483
+g2
+(g6
+S'\x9a\xfag\xf3\x8a\r\xd3?'
+p1484
+tp1485
+Rp1486
+tp1487
+a(S'jean bacon'
+p1488
+g2
+(g6
+S'\x98\x91\xedn\x06\r\xd3?'
+p1489
+tp1490
+Rp1491
+tp1492
+a(S'canadian information processing society'
+p1493
+g2
+(g6
+S'?\xc82d\xf9\x0c\xd3?'
+p1494
+tp1495
+Rp1496
+tp1497
+a(S'computer (disambiguation)'
+p1498
+g2
+(g6
+S'J\xe8K\xde\x8f\n\xd3?'
+p1499
+tp1500
+Rp1501
+tp1502
+a(S'technical chamber of greece'
+p1503
+g2
+(g6
+S'\xb9J(\x1b5\x04\xd3?'
+p1504
+tp1505
+Rp1506
+tp1507
+a(S'jack m. sipress'
+p1508
+g2
+(g6
+S'\x8b\x8e&\xd2t\x00\xd3?'
+p1509
+tp1510
+Rp1511
+tp1512
+a.

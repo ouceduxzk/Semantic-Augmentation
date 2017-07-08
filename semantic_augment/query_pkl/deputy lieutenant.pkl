@@ -1,0 +1,2728 @@
+(lp0
+(S'deputy lieutenant'
+p1
+cnumpy.core.multiarray
+scalar
+p2
+(cnumpy
+dtype
+p3
+(S'f8'
+p4
+I0
+I1
+tp5
+Rp6
+(I3
+S'<'
+p7
+NNNI-1
+I-1
+I0
+tp8
+bS'\xff\xff\xff\xff\xff\xff\xef?'
+p9
+tp10
+Rp11
+tp12
+a(S'lord lieutenant'
+p13
+g2
+(g6
+S'\xfa\xa0\xd7qy\x91\xe4?'
+p14
+tp15
+Rp16
+tp17
+a(S'lord lieutenant of bristol'
+p18
+g2
+(g6
+S"\xc0\xff'\xfec\x1b\xe0?"
+p19
+tp20
+Rp21
+tp22
+a(S'lieutenant (navy)'
+p23
+g2
+(g6
+S'\x98\xf1y\x98K\xac\xde?'
+p24
+tp25
+Rp26
+tp27
+a(S'lieutenant (united states)'
+p28
+g2
+(g6
+S'BB\xe7\xaf\xac\x84\xdd?'
+p29
+tp30
+Rp31
+tp32
+a(S'lord lieutenant of south yorkshire'
+p33
+g2
+(g6
+S'\x96\xe7\x13\x8a\xbem\xdd?'
+p34
+tp35
+Rp36
+tp37
+a(S'lord lieutenant of greater manchester'
+p38
+g2
+(g6
+S"\xc2'\x1b\xd4-\xf9\xdc?"
+p39
+tp40
+Rp41
+tp42
+a(S'lord lieutenant of cambridgeshire'
+p43
+g2
+(g6
+S'5]wc\x00\xa4\xdc?'
+p44
+tp45
+Rp46
+tp47
+a(S'lord lieutenant of dyfed'
+p48
+g2
+(g6
+S'\x12\xd2\x07\x8f\xa4\xbb\xda?'
+p49
+tp50
+Rp51
+tp52
+a(S'lieutenant'
+p53
+g2
+(g6
+S'\x10\x99\xcb\xde\xa3{\xda?'
+p54
+tp55
+Rp56
+tp57
+a(S'lord lieutenant of cumbria'
+p58
+g2
+(g6
+S'\x15\x8c\xf3P\xdc.\xda?'
+p59
+tp60
+Rp61
+tp62
+a(S'list of commanders of v corps (united states)'
+p63
+g2
+(g6
+S'/v\x81\x88\x9b\xfa\xd9?'
+p64
+tp65
+Rp66
+tp67
+a(S'lord lieutenant of merionethshire'
+p68
+g2
+(g6
+S'\xe0\x05\xfd\x97\x12t\xd8?'
+p69
+tp70
+Rp71
+tp72
+a(S'lord lieutenant of banffshire'
+p73
+g2
+(g6
+S'\xb3\xf1\xb4w\xd2l\xd8?'
+p74
+tp75
+Rp76
+tp77
+a(S'lord lieutenant of gwynedd'
+p78
+g2
+(g6
+S'\x8cub.5C\xd8?'
+p79
+tp80
+Rp81
+tp82
+a(S'list of knights and dames commander of the royal victorian order appointed by elizabeth ii (since 2003)'
+p83
+g2
+(g6
+S'.\xd5\xa3\xb1V4\xd8?'
+p84
+tp85
+Rp86
+tp87
+a(S'lord lieutenant of greater london'
+p88
+g2
+(g6
+S'\x15\x84\xf2\xf3E\xe4\xd7?'
+p89
+tp90
+Rp91
+tp92
+a(S'lord lieutenant of berkshire'
+p93
+g2
+(g6
+S'`\xcaS\xf5\xe9\xa0\xd7?'
+p94
+tp95
+Rp96
+tp97
+a(S'list of commanders of i corps (united states)'
+p98
+g2
+(g6
+S'\xd8z\xc9\xe9u\x88\xd7?'
+p99
+tp100
+Rp101
+tp102
+a(S'lieutenant-fireworker'
+p103
+g2
+(g6
+S'c\xf4\x14\x01\x9e\x85\xd7?'
+p104
+tp105
+Rp106
+tp107
+a(S'lord lieutenant of huntingdon and peterborough'
+p108
+g2
+(g6
+S'j\xd0\xb0\xff\xc8\\\xd7?'
+p109
+tp110
+Rp111
+tp112
+a(S'chief governor of ireland'
+p113
+g2
+(g6
+S'L\x93\xf8_X\x1e\xd7?'
+p114
+tp115
+Rp116
+tp117
+a(S'lord lieutenant of powys'
+p118
+g2
+(g6
+S'\x0e{\x0c\x15g\xc6\xd6?'
+p119
+tp120
+Rp121
+tp122
+a(S'lord lieutenant of the east riding of yorkshire'
+p123
+g2
+(g6
+S'kn@\xf0\x0c\xc3\xd6?'
+p124
+tp125
+Rp126
+tp127
+a(S'first lieutenant'
+p128
+g2
+(g6
+S'\x9f\xfb8\x04\xa8\x9c\xd6?'
+p129
+tp130
+Rp131
+tp132
+a(S'commander of the canadian army'
+p133
+g2
+(g6
+S'F\xa9\xd5o\x88\x98\xd6?'
+p134
+tp135
+Rp136
+tp137
+a(S'lord lieutenant of cardiganshire'
+p138
+g2
+(g6
+S'\xf8Xi\xfe\x80H\xd6?'
+p139
+tp140
+Rp141
+tp142
+a(S'lord lieutenant of humberside'
+p143
+g2
+(g6
+S'\x98\xcdS\x10\xbe\x05\xd6?'
+p144
+tp145
+Rp146
+tp147
+a(S'deputy commander field army (united kingdom)'
+p148
+g2
+(g6
+S'H\xfc_\xf8_\xae\xd5?'
+p149
+tp150
+Rp151
+tp152
+a(S'deputy chief of the general staff (united kingdom)'
+p153
+g2
+(g6
+S'\xf0\xbc\x18-\xcbp\xd5?'
+p154
+tp155
+Rp156
+tp157
+a(S'lieutenant general (france)'
+p158
+g2
+(g6
+S'Q\xd0P\xa7VH\xd5?'
+p159
+tp160
+Rp161
+tp162
+a(S'lord lieutenant of radnorshire'
+p163
+g2
+(g6
+S'\x93\xd8\x1a\xd3\xaf+\xd5?'
+p164
+tp165
+Rp166
+tp167
+a(S'lieutenant governor (canada)'
+p168
+g2
+(g6
+S'O@\xf2\xe5\xb9\x16\xd5?'
+p169
+tp170
+Rp171
+tp172
+a(S'lord lieutenant of ireland'
+p173
+g2
+(g6
+S'w[J\xce\xe9\xea\xd4?'
+p174
+tp175
+Rp176
+tp177
+a(S'lord lieutenant of east sussex'
+p178
+g2
+(g6
+S'@\x89\x17m\xa7\xd5\xd4?'
+p179
+tp180
+Rp181
+tp182
+a(S'lieutenant governor'
+p183
+g2
+(g6
+S'x5[\xdfk\xcb\xd4?'
+p184
+tp185
+Rp186
+tp187
+a(S'lord lieutenant of brecknockshire'
+p188
+g2
+(g6
+S'\x02\xcc\xbf\x16`\xb4\xd4?'
+p189
+tp190
+Rp191
+tp192
+a(S'military cross (belgium)'
+p193
+g2
+(g6
+S'\xae\xfcg\xd5\xe3\x9b\xd4?'
+p194
+tp195
+Rp196
+tp197
+a(S'sub-lieutenant'
+p198
+g2
+(g6
+S'\xe4BW\xf7u_\xd4?'
+p199
+tp200
+Rp201
+tp202
+a(S'inspector of the air force'
+p203
+g2
+(g6
+S',\xca\xdaG\xdb8\xd4?'
+p204
+tp205
+Rp206
+tp207
+a(S'central district army'
+p208
+g2
+(g6
+S'0\xae\xadB\xf12\xd4?'
+p209
+tp210
+Rp211
+tp212
+a(S'military secretary (united kingdom)'
+p213
+g2
+(g6
+S'\xac\x91\x82\t\xf4\xff\xd3?'
+p214
+tp215
+Rp216
+tp217
+a(S'lieutenancies act 1997'
+p218
+g2
+(g6
+S'(\xf7}gh\xaa\xd3?'
+p219
+tp220
+Rp221
+tp222
+a(S'lord lieutenant of pembrokeshire'
+p223
+g2
+(g6
+S'\x10)\x1d\x8ak\x92\xd3?'
+p224
+tp225
+Rp226
+tp227
+a(S'lord lieutenant of north yorkshire'
+p228
+g2
+(g6
+S'#\xb7\xdfcq~\xd3?'
+p229
+tp230
+Rp231
+tp232
+a(S'lieutenant rose films'
+p233
+g2
+(g6
+S'k\xd7=\xa0\xb7|\xd3?'
+p234
+tp235
+Rp236
+tp237
+a(S'inter-allied victory medal (belgium)'
+p238
+g2
+(g6
+S'\xdc=br\x85`\xd3?'
+p239
+tp240
+Rp241
+tp242
+a(S'grenville johnston'
+p243
+g2
+(g6
+S'\x02.\x82\xe1\x9aE\xd3?'
+p244
+tp245
+Rp246
+tp247
+a(S'1870\xe2\x80\x9371 commemorative medal'
+p248
+g2
+(g6
+S'Z\x92\x9a\xd9\x884\xd3?'
+p249
+tp250
+Rp251
+tp252
+a(S'lord lieutenant of carmarthenshire'
+p253
+g2
+(g6
+S'\xe8|\x8cG\xd4/\xd3?'
+p254
+tp255
+Rp256
+tp257
+a(S'commemorative medal of the 1914\xe2\x80\x931918 war'
+p258
+g2
+(g6
+S'Ek\xe2\xf1\xa9\x15\xd3?'
+p259
+tp260
+Rp261
+tp262
+a(S'philip lavallin wroughton'
+p263
+g2
+(g6
+S'0q\xf1\x97\xdf\x0c\xd3?'
+p264
+tp265
+Rp266
+tp267
+a(S'bad lieutenants'
+p268
+g2
+(g6
+S'\xce3A\x81\xae\xd2\xd2?'
+p269
+tp270
+Rp271
+tp272
+a(S'25th new jersey volunteer infantry regiment'
+p273
+g2
+(g6
+S'z\xc1\xed,\xc6\xd0\xd2?'
+p274
+tp275
+Rp276
+tp277
+a(S'centenary of national independence commemorative medal'
+p278
+g2
+(g6
+S'\x1cx\xf5|\n\xcc\xd2?'
+p279
+tp280
+Rp281
+tp282
+a(S'27th new jersey volunteer infantry regiment'
+p283
+g2
+(g6
+S'4\xbfWx\xb7\xbb\xd2?'
+p284
+tp285
+Rp286
+tp287
+a(S'list of australian army generals'
+p288
+g2
+(g6
+S'\xa9\xfc-N\x83\x9a\xd2?'
+p289
+tp290
+Rp291
+tp292
+a(S'lord lieutenant of herefordshire'
+p293
+g2
+(g6
+S'\xe9\x00>8\xd1\x94\xd2?'
+p294
+tp295
+Rp296
+tp297
+a(S'lieutenant (british army and royal marines)'
+p298
+g2
+(g6
+S'?\xd2\xcc\xff6\x8b\xd2?'
+p299
+tp300
+Rp301
+tp302
+a(S'lieutenants protection association'
+p303
+g2
+(g6
+S'l57\x02\x96t\xd2?'
+p304
+tp305
+Rp306
+tp307
+a(S'lieutenant of the tower of london'
+p308
+g2
+(g6
+S'\\\x99\x83\xde\xfc\\\xd2?'
+p309
+tp310
+Rp311
+tp312
+a(S'list of canadian awards'
+p313
+g2
+(g6
+S'~\xd2\xa5*\xe1K\xd2?'
+p314
+tp315
+Rp316
+tp317
+a(S'surgeon general of the united states air force'
+p318
+g2
+(g6
+S'\x97Wl=\xf38\xd2?'
+p319
+tp320
+Rp321
+tp322
+a(S'lord lieutenant of orkney and shetland'
+p323
+g2
+(g6
+S'{\x7f\xa3e\xf06\xd2?'
+p324
+tp325
+Rp326
+tp327
+a(S'lieutenant (canada)'
+p328
+g2
+(g6
+S'\xfe\x02Cd\x0f\x18\xd2?'
+p329
+tp330
+Rp331
+tp332
+a(S'commemorative medal of the reign of king leopold ii'
+p333
+g2
+(g6
+S'\xd5\xed\xf0\x01\xa2\x14\xd2?'
+p334
+tp335
+Rp336
+tp337
+a(S"castaways' club"
+p338
+g2
+(g6
+S'g\x03Q\xffS\x05\xd2?'
+p339
+tp340
+Rp341
+tp342
+a(S'lieutenant governor of quebec'
+p343
+g2
+(g6
+S'\x11\x85\x80\xaa\xa1\x04\xd2?'
+p344
+tp345
+Rp346
+tp347
+a(S'list of dominican secretary of armed forces'
+p348
+g2
+(g6
+S'm\x1b\xd5\xa8)\xf6\xd1?'
+p349
+tp350
+Rp351
+tp352
+a(S'lord lieutenant of angus'
+p353
+g2
+(g6
+S'\xb7\rF\xb5_\xe8\xd1?'
+p354
+tp355
+Rp356
+tp357
+a(S'list of serving generals of the indian army'
+p358
+g2
+(g6
+S'n$#t\xb7\xe1\xd1?'
+p359
+tp360
+Rp361
+tp362
+a(S'sir joshua rowley, 7th baronet'
+p363
+g2
+(g6
+S'\xbbg\nYl\xda\xd1?'
+p364
+tp365
+Rp366
+tp367
+a(S'southern command (united kingdom)'
+p368
+g2
+(g6
+S'a\xcd\xe3\xd0=\xc6\xd1?'
+p369
+tp370
+Rp371
+tp372
+a(S'list of captains, lieutenants and lords deputies of english calais'
+p373
+g2
+(g6
+S'HY\xdaA\x1e\xbc\xd1?'
+p374
+tp375
+Rp376
+tp377
+a(S'lord lieutenant of worcestershire'
+p378
+g2
+(g6
+S'k\xe1\xf2{;\xb6\xd1?'
+p379
+tp380
+Rp381
+tp382
+a(S'eastern command (united kingdom)'
+p383
+g2
+(g6
+S'\x1d0y[\xc0\xb0\xd1?'
+p384
+tp385
+Rp386
+tp387
+a(S'lord lieutenant of fermanagh'
+p388
+g2
+(g6
+S'\x1bC\n\x15\x12\xac\xd1?'
+p389
+tp390
+Rp391
+tp392
+a(S'western command (united kingdom)'
+p393
+g2
+(g6
+S"\x07'I.&\xa4\xd1?"
+p394
+tp395
+Rp396
+tp397
+a(S'lord lieutenant of perth and kinross'
+p398
+g2
+(g6
+S'\xfeI\xe4\x05\x02\x8c\xd1?'
+p399
+tp400
+Rp401
+tp402
+a(S'lieutenant (navy) (canada)'
+p403
+g2
+(g6
+S'\x92\xa1\xbe\x18\x81\x86\xd1?'
+p404
+tp405
+Rp406
+tp407
+a(S'lord lieutenant of gwent'
+p408
+g2
+(g6
+S'Y:\xb7q\xdb\x84\xd1?'
+p409
+tp410
+Rp411
+tp412
+a(S'director general army medical services'
+p413
+g2
+(g6
+S'\x97i\x90qA\x82\xd1?'
+p414
+tp415
+Rp416
+tp417
+a(S'south-eastern district (british army)'
+p418
+g2
+(g6
+S'\xac\xfd4\xc9\xf1\x81\xd1?'
+p419
+tp420
+Rp421
+tp422
+a(S'deputy chief of the defence staff'
+p423
+g2
+(g6
+S'\xde\xdeo\x00\xb3\x81\xd1?'
+p424
+tp425
+Rp426
+tp427
+a(S'chief of army (australia)'
+p428
+g2
+(g6
+S'V\x8eT\xe8\xd0\x7f\xd1?'
+p429
+tp430
+Rp431
+tp432
+a(S'yser medal'
+p433
+g2
+(g6
+S'x\x80\xcf`\x7fu\xd1?'
+p434
+tp435
+Rp436
+tp437
+a(S'palestine command'
+p438
+g2
+(g6
+S'T\xaf.\xb6\nd\xd1?'
+p439
+tp440
+Rp441
+tp442
+a(S'lord lieutenant of ross and cromarty'
+p443
+g2
+(g6
+S'g\xaf\xf1l\x81H\xd1?'
+p444
+tp445
+Rp446
+tp447
+a(S'lieutenant governor of alberta'
+p448
+g2
+(g6
+S'\xfe\xb2\r`9A\xd1?'
+p449
+tp450
+Rp451
+tp452
+a(S'generalkommandoen'
+p453
+g2
+(g6
+S'f\xe6\x13\x08[;\xd1?'
+p454
+tp455
+Rp456
+tp457
+a(S'kathryn mcdowell'
+p458
+g2
+(g6
+S'{Z\xdb\x1d\xf26\xd1?'
+p459
+tp460
+Rp461
+tp462
+a(S'lieutenant-general (united kingdom)'
+p463
+g2
+(g6
+S'\xe2\x15y\x1aR0\xd1?'
+p464
+tp465
+Rp466
+tp467
+a(S'lieutenant governor of ontario'
+p468
+g2
+(g6
+S'\x84Z-I\xf7\x16\xd1?'
+p469
+tp470
+Rp471
+tp472
+a(S'flight lieutenant'
+p473
+g2
+(g6
+S'c\x1d\xc7\xf0\x85\n\xd1?'
+p474
+tp475
+Rp476
+tp477
+a(S'mona pasquil'
+p478
+g2
+(g6
+S'\xf2\\o\x9f\xd4\x03\xd1?'
+p479
+tp480
+Rp481
+tp482
+a(S'lord lieutenant of shropshire'
+p483
+g2
+(g6
+S'\x00\x86\x04\x99\x90\xff\xd0?'
+p484
+tp485
+Rp486
+tp487
+a(S'mutiny (2002 film)'
+p488
+g2
+(g6
+S'sj\xbe\xf82\xfb\xd0?'
+p489
+tp490
+Rp491
+tp492
+a(S'list of bulgarian generals from 1878 to 1946'
+p493
+g2
+(g6
+S'o>c\x8f\x82\xe2\xd0?'
+p494
+tp495
+Rp496
+tp497
+a(S'lieutenant governor of manitoba'
+p498
+g2
+(g6
+S'nd\r\xaa\xb1\xe1\xd0?'
+p499
+tp500
+Rp501
+tp502
+a(S'lord lieutenant of tweeddale'
+p503
+g2
+(g6
+S'\x1d\x0e\xb0\x13\x15\xe0\xd0?'
+p504
+tp505
+Rp506
+tp507
+a(S'lord lieutenant of belfast'
+p508
+g2
+(g6
+S's\x9e\x96\xe0\xdf\xc9\xd0?'
+p509
+tp510
+Rp511
+tp512
+a(S'lord chancellor'
+p513
+g2
+(g6
+S'\xb1\xa2\x88)\x15\xc4\xd0?'
+p514
+tp515
+Rp516
+tp517
+a(S'lord lieutenant of northamptonshire'
+p518
+g2
+(g6
+S'\xb2\xc6(\x03\x97\xc2\xd0?'
+p519
+tp520
+Rp521
+tp522
+a(S'list of confederate regular army officers'
+p523
+g2
+(g6
+S'\xb2\xff\xa3S\xf0\xb2\xd0?'
+p524
+tp525
+Rp526
+tp527
+a(S'george fead'
+p528
+g2
+(g6
+S'\x1bq\x12i\x9b\xac\xd0?'
+p529
+tp530
+Rp531
+tp532
+a(S'lord lieutenant of hereford and worcester'
+p533
+g2
+(g6
+S'\x01\xbbi\xe2\x01\x7f\xd0?'
+p534
+tp535
+Rp536
+tp537
+a(S'lord lieutenant of argyllshire'
+p538
+g2
+(g6
+S'\xc6PQ\x11Xu\xd0?'
+p539
+tp540
+Rp541
+tp542
+a(S'susan snowdon'
+p543
+g2
+(g6
+S'uE\x13\xec)q\xd0?'
+p544
+tp545
+Rp546
+tp547
+a(S'allen k. ono'
+p548
+g2
+(g6
+S'>\x05-\xc9sl\xd0?'
+p549
+tp550
+Rp551
+tp552
+a(S'lieutenant governor of north dakota'
+p553
+g2
+(g6
+S'\xcf\x82\x86j6c\xd0?'
+p554
+tp555
+Rp556
+tp557
+a(S'\xc3\x96d\xc3\xb6n be\xc3\xb6thy'
+p558
+g2
+(g6
+S'\xb9\x1d\xa6&\x00S\xd0?'
+p559
+tp560
+Rp561
+tp562
+a(S'lieutenant governor of delaware'
+p563
+g2
+(g6
+S'\xe7\x86\x96\x08\xd6J\xd0?'
+p564
+tp565
+Rp566
+tp567
+a(S'list of senior officers of the british army'
+p568
+g2
+(g6
+S'\x0c\x16\xe2pRE\xd0?'
+p569
+tp570
+Rp571
+tp572
+a(S'policy council of guernsey'
+p573
+g2
+(g6
+S'\xde\xd8rx\x83D\xd0?'
+p574
+tp575
+Rp576
+tp577
+a(S'senior officer'
+p578
+g2
+(g6
+S'\xdf\xa7\x93\x84\x96A\xd0?'
+p579
+tp580
+Rp581
+tp582
+a(S'eastern district army (japan)'
+p583
+g2
+(g6
+S'%I5"<<\xd0?'
+p584
+tp585
+Rp586
+tp587
+a(S'eleventh army (japan)'
+p588
+g2
+(g6
+S'K\x9e\xccEM;\xd0?'
+p589
+tp590
+Rp591
+tp592
+a(S'justice of the supreme court of the united kingdom'
+p593
+g2
+(g6
+S'\xcfa8D.;\xd0?'
+p594
+tp595
+Rp596
+tp597
+a(S'northern command (united kingdom)'
+p598
+g2
+(g6
+S'\xf6]\x1d\x9eJ-\xd0?'
+p599
+tp600
+Rp601
+tp602
+a(S'cabinet of namibia'
+p603
+g2
+(g6
+S'D\x9bu\n#*\xd0?'
+p604
+tp605
+Rp606
+tp607
+a(S'comparative officer ranks of world war ii'
+p608
+g2
+(g6
+S'\x1af\xeeeh!\xd0?'
+p609
+tp610
+Rp611
+tp612
+a(S'lieutenant commander'
+p613
+g2
+(g6
+S'\x91s\x9a\xc6\\\x13\xd0?'
+p614
+tp615
+Rp616
+tp617
+a(S'richard dawson (british army officer)'
+p618
+g2
+(g6
+S'\xfa\xd5\xe8\xda\x1a\x0b\xd0?'
+p619
+tp620
+Rp621
+tp622
+a(S'scottish command'
+p623
+g2
+(g6
+S'*\x13\x1d\xf3\x0c\x01\xd0?'
+p624
+tp625
+Rp626
+tp627
+a(S'list of colonial governors of mauritania'
+p628
+g2
+(g6
+S'm\x13\xf0\x90\x17\x00\xd0?'
+p629
+tp630
+Rp631
+tp632
+a(S'james butler (british army officer)'
+p633
+g2
+(g6
+S'I\xe8F;i\xfc\xcf?'
+p634
+tp635
+Rp636
+tp637
+a(S'valerie lane-fox pitt-rivers'
+p638
+g2
+(g6
+S"'>\x048(\xfa\xcf?"
+p639
+tp640
+Rp641
+tp642
+a(S'dealtry charles part'
+p643
+g2
+(g6
+S'\xec\xaf`\nZ\xf9\xcf?'
+p644
+tp645
+Rp646
+tp647
+a(S'japanese korean army'
+p648
+g2
+(g6
+S'\xd9\x9e|?\xc6\xf6\xcf?'
+p649
+tp650
+Rp651
+tp652
+a(S'lieutenant governor of wisconsin'
+p653
+g2
+(g6
+S'*o\xdbk\xad\xf5\xcf?'
+p654
+tp655
+Rp656
+tp657
+a(S'list of inspectors general of the u.s. army'
+p658
+g2
+(g6
+S'\xd1|}6\xc9\xed\xcf?'
+p659
+tp660
+Rp661
+tp662
+a(S'lieutenant governor of british columbia'
+p663
+g2
+(g6
+S'\xc2\xc5o\xd5\x84\xde\xcf?'
+p664
+tp665
+Rp666
+tp667
+a(S'second lieutenant'
+p668
+g2
+(g6
+S'F7y\xdbj\xca\xcf?'
+p669
+tp670
+Rp671
+tp672
+a(S'list of generals of the lithuanian army'
+p673
+g2
+(g6
+S'\x8a!\xcd\xaa\\\xc2\xcf?'
+p674
+tp675
+Rp676
+tp677
+a(S'great officer of state'
+p678
+g2
+(g6
+S'\xc8\xc1\xda"J\x95\xcf?'
+p679
+tp680
+Rp681
+tp682
+a(S'president of the supreme court of the united kingdom'
+p683
+g2
+(g6
+S'\xd8\xb6\x98\x06\xbc\x8e\xcf?'
+p684
+tp685
+Rp686
+tp687
+a(S'deputy'
+p688
+g2
+(g6
+S'4\x91\x98\x0b\x98\x8c\xcf?'
+p689
+tp690
+Rp691
+tp692
+a(S'lieutenant commander (united states)'
+p693
+g2
+(g6
+S'd\xa5Z\x18\xf1\x86\xcf?'
+p694
+tp695
+Rp696
+tp697
+a(S'shiva sahasranama'
+p698
+g2
+(g6
+S'\x85\xa8\x93\xbbzy\xcf?'
+p699
+tp700
+Rp701
+tp702
+a(S'lieutenant governor of illinois'
+p703
+g2
+(g6
+S'G$I\xf2\xcbo\xcf?'
+p704
+tp705
+Rp706
+tp707
+a(S'lord lieutenant of merseyside'
+p708
+g2
+(g6
+S'\xac\x88D\x1a\xd8\\\xcf?'
+p709
+tp710
+Rp711
+tp712
+a(S'arthur parsons'
+p713
+g2
+(g6
+S'\x13\xbftY\x8eL\xcf?'
+p714
+tp715
+Rp716
+tp717
+a(S'flower mocher'
+p718
+g2
+(g6
+S'\xe6Bo\xd0\x03>\xcf?'
+p719
+tp720
+Rp721
+tp722
+a(S'lord (surname)'
+p723
+g2
+(g6
+S'\xb4Bz\x962\x1c\xcf?'
+p724
+tp725
+Rp726
+tp727
+a(S'vice chief of the defence staff (canada)'
+p728
+g2
+(g6
+S'\x04\x15\xb0<P\x00\xcf?'
+p729
+tp730
+Rp731
+tp732
+a(S'fire cross 1914\xe2\x80\x931918'
+p733
+g2
+(g6
+S'\x88\xa7\xcb\xa9\xb6\xfc\xce?'
+p734
+tp735
+Rp736
+tp737
+a(S'egypt command'
+p738
+g2
+(g6
+S'n\x1d\x91\r\x11\xed\xce?'
+p739
+tp740
+Rp741
+tp742
+a(S'thomas dunne (lord lieutenant)'
+p743
+g2
+(g6
+S'-H\xc8\xb4\xdc\xdd\xce?'
+p744
+tp745
+Rp746
+tp747
+a(S'teiichi yoshimoto'
+p748
+g2
+(g6
+S'\x15Fl\x86)\xce\xce?'
+p749
+tp750
+Rp751
+tp752
+a(S'lord lieutenant of flintshire'
+p753
+g2
+(g6
+S'\xf57\x131\x13\xc8\xce?'
+p754
+tp755
+Rp756
+tp757
+a(S'senior deputy speaker of the house of lords'
+p758
+g2
+(g6
+S'\xcf\xaa\xc9\xf4!\xc3\xce?'
+p759
+tp760
+Rp761
+tp762
+a(S'deputy, indiana'
+p763
+g2
+(g6
+S'\xe8\x81,\xed6\xbf\xce?'
+p764
+tp765
+Rp766
+tp767
+a(S'deputy premiers of the australian states'
+p768
+g2
+(g6
+S'\xab\x90\x1by\x05\xac\xce?'
+p769
+tp770
+Rp771
+tp772
+a(S'army officer ranks'
+p773
+g2
+(g6
+S'\xcf\x7f\xae\xe7\xc2\xab\xce?'
+p774
+tp775
+Rp776
+tp777
+a(S'lieutenant governor of california'
+p778
+g2
+(g6
+S':\x96\xf7\x12\x1f\xa1\xce?'
+p779
+tp780
+Rp781
+tp782
+a(S'john brown (british army officer)'
+p783
+g2
+(g6
+S"k\xaf\xeb('\x9a\xce?"
+p784
+tp785
+Rp786
+tp787
+a(S'commander-in-chief, ireland'
+p788
+g2
+(g6
+S'\xa5\xb2z\x87\xd9\x95\xce?'
+p789
+tp790
+Rp791
+tp792
+a(S'list of general commanders of the turkish gendarmerie'
+p793
+g2
+(g6
+S'\xaa\xb3B\xb2p\x88\xce?'
+p794
+tp795
+Rp796
+tp797
+a(S'oberarzt (military)'
+p798
+g2
+(g6
+S'\x91\xb0\xe7\xe6\x85t\xce?'
+p799
+tp800
+Rp801
+tp802
+a(S'list of lieutenants of english aquitaine'
+p803
+g2
+(g6
+S'?\xba\x8e\x87\xa6m\xce?'
+p804
+tp805
+Rp806
+tp807
+a(S'lieutenant governor of texas'
+p808
+g2
+(g6
+S'1~k\xf9\x1el\xce?'
+p809
+tp810
+Rp811
+tp812
+a(S'lord lieutenant of renfrewshire'
+p813
+g2
+(g6
+S'Q\xd7\xe3D\xb7;\xce?'
+p814
+tp815
+Rp816
+tp817
+a(S'edward bolitho'
+p818
+g2
+(g6
+S'\xa0"\x90e\xa0-\xce?'
+p819
+tp820
+Rp821
+tp822
+a(S'bad lieutenant'
+p823
+g2
+(g6
+S'>\x99\xecsT+\xce?'
+p824
+tp825
+Rp826
+tp827
+a(S'lord lieutenant of cromarty'
+p828
+g2
+(g6
+S'\xe5\xf4\xe3\xbc)\x12\xce?'
+p829
+tp830
+Rp831
+tp832
+a(S'deputy minister (canada)'
+p833
+g2
+(g6
+S'\x08U\x04\x8c~\x0b\xce?'
+p834
+tp835
+Rp836
+tp837
+a(S'first pitt the younger ministry'
+p838
+g2
+(g6
+S'm\xb3\xad\x89L\xf9\xcd?'
+p839
+tp840
+Rp841
+tp842
+a(S'lord lieutenant of the county of london'
+p843
+g2
+(g6
+S'u\xdd\xda\xfa@\xeb\xcd?'
+p844
+tp845
+Rp846
+tp847
+a(S'lord lieutenant of roxburgh, ettrick and lauderdale'
+p848
+g2
+(g6
+S'\xe6:_fB\xdd\xcd?'
+p849
+tp850
+Rp851
+tp852
+a(S'list of lords of appeal in ordinary'
+p853
+g2
+(g6
+S'a\xc0\x1cp\xf5\xd0\xcd?'
+p854
+tp855
+Rp856
+tp857
+a(S'lord lieutenant of anglesey'
+p858
+g2
+(g6
+S'W\xb6e\xf5\xb8\xc9\xcd?'
+p859
+tp860
+Rp861
+tp862
+a(S'list of the lord lieutenants of the united kingdom'
+p863
+g2
+(g6
+S'g\x96\xfec\\\xbb\xcd?'
+p864
+tp865
+Rp866
+tp867
+a(S'chen dong (general)'
+p868
+g2
+(g6
+S'v\xd3dl\xb4\xb7\xcd?'
+p869
+tp870
+Rp871
+tp872
+a(S'lieutenant daring'
+p873
+g2
+(g6
+S'\xcfl*\xa6>\xb7\xcd?'
+p874
+tp875
+Rp876
+tp877
+a(S'launcelot kiggell'
+p878
+g2
+(g6
+S'T\xaf\x82\xefq\xb0\xcd?'
+p879
+tp880
+Rp881
+tp882
+a(S'chief secretary for ireland'
+p883
+g2
+(g6
+S'>\xba$1\xff\xa6\xcd?'
+p884
+tp885
+Rp886
+tp887
+a(S'lord lieutenant of glamorgan'
+p888
+g2
+(g6
+S'\x10e\xd2s\xd6\xa6\xcd?'
+p889
+tp890
+Rp891
+tp892
+a(S'lieutenant governor of new brunswick'
+p893
+g2
+(g6
+S'\xa2\x02`\x8e\xff\xa0\xcd?'
+p894
+tp895
+Rp896
+tp897
+a(S'lieutenant governor of saskatchewan'
+p898
+g2
+(g6
+S'\xa4\xa6\x92\xfd\x18~\xcd?'
+p899
+tp900
+Rp901
+tp902
+a(S'edward willis (british army officer)'
+p903
+g2
+(g6
+S'\x86)\xbaVuv\xcd?'
+p904
+tp905
+Rp906
+tp907
+a(S'railroad guards in the american civil war'
+p908
+g2
+(g6
+S'\x815+\xce/v\xcd?'
+p909
+tp910
+Rp911
+tp912
+a(S'lieutenant general (bosnia and herzegovina)'
+p913
+g2
+(g6
+S'\xab\x110\xd9Sm\xcd?'
+p914
+tp915
+Rp916
+tp917
+a(S'lieutenant-governor (australia)'
+p918
+g2
+(g6
+S'\x9c8\xbe3\xb0k\xcd?'
+p919
+tp920
+Rp921
+tp922
+a(S'william meggitt'
+p923
+g2
+(g6
+S'\x98v\xb8\x1a<j\xcd?'
+p924
+tp925
+Rp926
+tp927
+a(S'taiwan army of japan'
+p928
+g2
+(g6
+S'\xaf\xb1\xd4\xb6\x02d\xcd?'
+p929
+tp930
+Rp931
+tp932
+a(S'blind husbands'
+p933
+g2
+(g6
+S'\xc7\xde8\x13R7\xcd?'
+p934
+tp935
+Rp936
+tp937
+a(S'joseph wells (politician)'
+p938
+g2
+(g6
+S'\x07\x08\xf1\x81|-\xcd?'
+p939
+tp940
+Rp941
+tp942
+a(S'andrew gordon (british army officer)'
+p943
+g2
+(g6
+S"\xe0G\xc9\x9b\xd0'\xcd?"
+p944
+tp945
+Rp946
+tp947
+a(S'charles st clair, 17th lord sinclair'
+p948
+g2
+(g6
+S'\xfc\xe4\xafE\x0c \xcd?'
+p949
+tp950
+Rp951
+tp952
+a(S'lord lieutenant of mid glamorgan'
+p953
+g2
+(g6
+S'K\xcdmxf\x19\xcd?'
+p954
+tp955
+Rp956
+tp957
+a(S'lieutenancy areas of scotland'
+p958
+g2
+(g6
+S'\xd0\xc0\x95\x91\xeb\x03\xcd?'
+p959
+tp960
+Rp961
+tp962
+a(S'list of world war i aces from canada'
+p963
+g2
+(g6
+S'\xb5m\xea6\xda\xfb\xcc?'
+p964
+tp965
+Rp966
+tp967
+a(S'master (naval)'
+p968
+g2
+(g6
+S'v\xa8\xea\x8an\xf3\xcc?'
+p969
+tp970
+Rp971
+tp972
+a(S'170th infantry division (wehrmacht)'
+p973
+g2
+(g6
+S'X\xc51\xbd\x94\xea\xcc?'
+p974
+tp975
+Rp976
+tp977
+a(S'townshend ministry'
+p978
+g2
+(g6
+S'\xdc\x97\xfch\xc4\xda\xcc?'
+p979
+tp980
+Rp981
+tp982
+a(S'dls format'
+p983
+g2
+(g6
+S'c\x8b\xd1#\xa2\xc5\xcc?'
+p984
+tp985
+Rp986
+tp987
+a(S'lord lieutenant of montgomeryshire'
+p988
+g2
+(g6
+S'\xca+\x01W:\xc5\xcc?'
+p989
+tp990
+Rp991
+tp992
+a(S'lord cranstoun'
+p993
+g2
+(g6
+S'\xbdU\xaf\xdcw\xab\xcc?'
+p994
+tp995
+Rp996
+tp997
+a(S'lord lieutenant of wigtown'
+p998
+g2
+(g6
+S'\x01\xa4\xc4=$\x91\xcc?'
+p999
+tp1000
+Rp1001
+tp1002
+a(S'lieutenant governor of georgia'
+p1003
+g2
+(g6
+S'\xa9F~Fp\x8d\xcc?'
+p1004
+tp1005
+Rp1006
+tp1007
+a(S'commemorative medal of the 1940\xe2\x80\x931945 war'
+p1008
+g2
+(g6
+S'\x8b-\x0e\xe8ry\xcc?'
+p1009
+tp1010
+Rp1011
+tp1012
+a(S'lieutenant governor of virginia'
+p1013
+g2
+(g6
+S'K\x8d\xd2N\xf0s\xcc?'
+p1014
+tp1015
+Rp1016
+tp1017
+a(S'ulick de burgh, lord dunkellin'
+p1018
+g2
+(g6
+S'O\xa7V\xc9\x8fg\xcc?'
+p1019
+tp1020
+Rp1021
+tp1022
+a(S'perry l. wiggins'
+p1023
+g2
+(g6
+S'\xe4\xe9z\xb0Dc\xcc?'
+p1024
+tp1025
+Rp1026
+tp1027
+a(S'marmaduke constable-maxwell, 11th lord herries of terregles'
+p1028
+g2
+(g6
+S'wk\x176mN\xcc?'
+p1029
+tp1030
+Rp1031
+tp1032
+a(S'lieutenant colonel general'
+p1033
+g2
+(g6
+S' Q\xa5U\xef9\xcc?'
+p1034
+tp1035
+Rp1036
+tp1037
+a(S'danube army'
+p1038
+g2
+(g6
+S'\xfe\x19T\xaf\xd2/\xcc?'
+p1039
+tp1040
+Rp1041
+tp1042
+a(S'list of chiefs of the general staff of the argentine army'
+p1043
+g2
+(g6
+S',9:\xf3V-\xcc?'
+p1044
+tp1045
+Rp1046
+tp1047
+a(S'hms trepassey (1789)'
+p1048
+g2
+(g6
+S'_\xec\xbcL %\xcc?'
+p1049
+tp1050
+Rp1051
+tp1052
+a(S'john paulet, 14th marquess of winchester'
+p1053
+g2
+(g6
+S'\x1f\xbe\xd1\xb9w"\xcc?'
+p1054
+tp1055
+Rp1056
+tp1057
+a(S'john folliot (british army officer, died 1748)'
+p1058
+g2
+(g6
+S'`*h\xcbl\x1f\xcc?'
+p1059
+tp1060
+Rp1061
+tp1062
+a(S'stafford floyer-acland'
+p1063
+g2
+(g6
+S'\x10jY$\xfd\x04\xcc?'
+p1064
+tp1065
+Rp1066
+tp1067
+a(S"lord chancellor's department"
+p1068
+g2
+(g6
+S'\xa7\xbd\xa0B\xa9\x04\xcc?'
+p1069
+tp1070
+Rp1071
+tp1072
+a(S'lord lieutenant of moray'
+p1073
+g2
+(g6
+S'4\xa2\xd6\x8c\xd7\xfd\xcb?'
+p1074
+tp1075
+Rp1076
+tp1077
+a(S'khana ratsadon'
+p1078
+g2
+(g6
+S'9\x0e\xf6\r\xd2\xee\xcb?'
+p1079
+tp1080
+Rp1081
+tp1082
+a(S'commander of the british troops in canada'
+p1083
+g2
+(g6
+S'(\xfb\xc2\xba\x82\xc5\xcb?'
+p1084
+tp1085
+Rp1086
+tp1087
+a(S'gavin hamilton, 2nd baron hamilton of dalzell'
+p1088
+g2
+(g6
+S'J\x06\x103\x11\xc3\xcb?'
+p1089
+tp1090
+Rp1091
+tp1092
+a(S'deputy minister'
+p1093
+g2
+(g6
+S'\xad\x1c<\xd40\xc1\xcb?'
+p1094
+tp1095
+Rp1096
+tp1097
+a(S'second pitt the younger ministry'
+p1098
+g2
+(g6
+S'\xd2\xcf\x93\xb8\xfe\xc0\xcb?'
+p1099
+tp1100
+Rp1101
+tp1102
+a(S'haakon ditlev lowzow'
+p1103
+g2
+(g6
+S'>\xb8\xb8\x08^\xb6\xcb?'
+p1104
+tp1105
+Rp1106
+tp1107
+a(S'j. m. marcus humphrey'
+p1108
+g2
+(g6
+S'X\x8dP4F\xb6\xcb?'
+p1109
+tp1110
+Rp1111
+tp1112
+a(S'john goldring'
+p1113
+g2
+(g6
+S'|\x7f\xdd\xb9!\xa5\xcb?'
+p1114
+tp1115
+Rp1116
+tp1117
+a(S'david j. davis'
+p1118
+g2
+(g6
+S'\xefw\xfaS\x86\xa2\xcb?'
+p1119
+tp1120
+Rp1121
+tp1122
+a(S'9th army (russian empire)'
+p1123
+g2
+(g6
+S'o|\x06qX\xa1\xcb?'
+p1124
+tp1125
+Rp1126
+tp1127
+a(S"list of los angeles county sheriff's department officers killed in the line of duty"
+p1128
+g2
+(g6
+S'a-Q_\x1b\xa1\xcb?'
+p1129
+tp1130
+Rp1131
+tp1132
+a(S'u.s. army medical materiel center \xe2\x80\x93 southwest asia'
+p1133
+g2
+(g6
+S'\xcb\xd0\x93\xb7V\xa0\xcb?'
+p1134
+tp1135
+Rp1136
+tp1137
+a(S'assistenzarzt (military)'
+p1138
+g2
+(g6
+S'cyK\xac\xd0\x9f\xcb?'
+p1139
+tp1140
+Rp1141
+tp1142
+a(S'list of lords commissioners of the admiralty'
+p1143
+g2
+(g6
+S'\xda\xd2"\x95\xb7\x9b\xcb?'
+p1144
+tp1145
+Rp1146
+tp1147
+a(S'john mccoll'
+p1148
+g2
+(g6
+S'mR\xd3U\x03\x99\xcb?'
+p1149
+tp1150
+Rp1151
+tp1152
+a(S'lieutenant governor of prince edward island'
+p1153
+g2
+(g6
+S'-\xec\xd1\xd7\x88\x96\xcb?'
+p1154
+tp1155
+Rp1156
+tp1157
+a(S'james bevan bowen (raf officer)'
+p1158
+g2
+(g6
+S'F0\xe8\xebp\x96\xcb?'
+p1159
+tp1160
+Rp1161
+tp1162
+a(S'lieutenant general'
+p1163
+g2
+(g6
+S'\x08\xad\x079"\x8d\xcb?'
+p1164
+tp1165
+Rp1166
+tp1167
+a(S'lord lieutenant of clwyd'
+p1168
+g2
+(g6
+S'a\xd1\xacV\xe1\x8c\xcb?'
+p1169
+tp1170
+Rp1171
+tp1172
+a(S'u.s. army medical materiel center \xe2\x80\x93 korea'
+p1173
+g2
+(g6
+S'\x1a\xd9\xab[\x9b\x85\xcb?'
+p1174
+tp1175
+Rp1176
+tp1177
+a(S'deputy lieutenants of aberdeen'
+p1178
+g2
+(g6
+S'.\xadAS\xd9\x81\xcb?'
+p1179
+tp1180
+Rp1181
+tp1182
+a(S'james durand (british army officer)'
+p1183
+g2
+(g6
+S'\xcf_\xc0\xae\xdd|\xcb?'
+p1184
+tp1185
+Rp1186
+tp1187
+a(S'list of current knights and ladies of the garter'
+p1188
+g2
+(g6
+S'B\xb5r\x99\x1dx\xcb?'
+p1189
+tp1190
+Rp1191
+tp1192
+a(S'croix de guerre (belgium)'
+p1193
+g2
+(g6
+S'\x9b\xf2e\x17lv\xcb?'
+p1194
+tp1195
+Rp1196
+tp1197
+a(S'deputy prime minister'
+p1198
+g2
+(g6
+S'\x88\x7f2\xb0\x1as\xcb?'
+p1199
+tp1200
+Rp1201
+tp1202
+a(S'deputy prime minister of the united kingdom'
+p1203
+g2
+(g6
+S'\rk\x97\xf9\xfeo\xcb?'
+p1204
+tp1205
+Rp1206
+tp1207
+a(S'peter hudson (british army officer)'
+p1208
+g2
+(g6
+S'\x16\xe9\x92N4g\xcb?'
+p1209
+tp1210
+Rp1211
+tp1212
+a(S'ian diamond'
+p1213
+g2
+(g6
+S'|\xdd?\x0b_`\xcb?'
+p1214
+tp1215
+Rp1216
+tp1217
+a(S"custos rotulorum of queen's county"
+p1218
+g2
+(g6
+S'\xec\x9c\xe3"\xf2]\xcb?'
+p1219
+tp1220
+Rp1221
+tp1222
+a(S'new york lieutenant gubernatorial special election, 1811'
+p1223
+g2
+(g6
+S'\xae\xd3V\xcf~]\xcb?'
+p1224
+tp1225
+Rp1226
+tp1227
+a(S'fourth army (japan)'
+p1228
+g2
+(g6
+S'(\xf5\xda\x92\\I\xcb?'
+p1229
+tp1230
+Rp1231
+tp1232
+a(S'lieutenant governor of mississippi'
+p1233
+g2
+(g6
+S'\xda\x86\xfa\xfb\x8eF\xcb?'
+p1234
+tp1235
+Rp1236
+tp1237
+a(S'jersey general election, 2011'
+p1238
+g2
+(g6
+S'\xacm\x19Sr0\xcb?'
+p1239
+tp1240
+Rp1241
+tp1242
+a(S'cennydd traherne'
+p1243
+g2
+(g6
+S'\xb7\xa1\xd0%\x80+\xcb?'
+p1244
+tp1245
+Rp1246
+tp1247
+a(S'15th new jersey volunteer infantry'
+p1248
+g2
+(g6
+S'\xd9wX/\xec(\xcb?'
+p1249
+tp1250
+Rp1251
+tp1252
+a(S'lord lieutenant of argyll and bute'
+p1253
+g2
+(g6
+S"\x19B\x98\xb0\x10'\xcb?"
+p1254
+tp1255
+Rp1256
+tp1257
+a(S'lord lieutenant of dorset'
+p1258
+g2
+(g6
+S'J\xb6\xb7\xd9,&\xcb?'
+p1259
+tp1260
+Rp1261
+tp1262
+a(S'malcolm ross (courtier)'
+p1263
+g2
+(g6
+S'\xb6\x82\xcd\\i\x1b\xcb?'
+p1264
+tp1265
+Rp1266
+tp1267
+a(S'national lieutenant governors association'
+p1268
+g2
+(g6
+S'\xa2\xb5\t\x07\xbf\x18\xcb?'
+p1269
+tp1270
+Rp1271
+tp1272
+a(S'4th infantry division (russian empire)'
+p1273
+g2
+(g6
+S'v\xfe\xdeb\xea\x15\xcb?'
+p1274
+tp1275
+Rp1276
+tp1277
+a(S'monarchy in the canadian provinces'
+p1278
+g2
+(g6
+S"\xb6'@\x05\xa6\x15\xcb?"
+p1279
+tp1280
+Rp1281
+tp1282
+a(S'the lieutenant (musical)'
+p1283
+g2
+(g6
+S'\xb1\xb5y.\r\x11\xcb?'
+p1284
+tp1285
+Rp1286
+tp1287
+a(S'lieutenant governor of oklahoma'
+p1288
+g2
+(g6
+S"'X\xbe\xa3\x0e\t\xcb?"
+p1289
+tp1290
+Rp1291
+tp1292
+a(S'deputy leader'
+p1293
+g2
+(g6
+S'Uk\xd8\xbc\x95\xf6\xca?'
+p1294
+tp1295
+Rp1296
+tp1297
+a(S'lieutenant governor of indiana'
+p1298
+g2
+(g6
+S'\x11"\x8eGk\xea\xca?'
+p1299
+tp1300
+Rp1301
+tp1302
+a(S'lord lieutenant of midlothian'
+p1303
+g2
+(g6
+S'\xd6\xb4\x99\xa2k\xe4\xca?'
+p1304
+tp1305
+Rp1306
+tp1307
+a(S"5th military region (vietnam people's army)"
+p1308
+g2
+(g6
+S'\xa4f\xd2y\xe8\xcc\xca?'
+p1309
+tp1310
+Rp1311
+tp1312
+a(S'deputy first sea lord'
+p1313
+g2
+(g6
+S'\x92\x19L\xcfS\xc5\xca?'
+p1314
+tp1315
+Rp1316
+tp1317
+a(S'frederick inglefield'
+p1318
+g2
+(g6
+S'd$\x9f\xac\x8d\xc3\xca?'
+p1319
+tp1320
+Rp1321
+tp1322
+a(S'john david bingham younger'
+p1323
+g2
+(g6
+S'e\xc2\x05\xcb\n\xba\xca?'
+p1324
+tp1325
+Rp1326
+tp1327
+a(S'list of deputy lieutenants of wiltshire'
+p1328
+g2
+(g6
+S'[\xb4\xf9/\x95\xb5\xca?'
+p1329
+tp1330
+Rp1331
+tp1332
+a(S'lord'
+p1333
+g2
+(g6
+S'\xc5[\xe6\xb5\x89\xb2\xca?'
+p1334
+tp1335
+Rp1336
+tp1337
+a(S'lord lieutenant of wales'
+p1338
+g2
+(g6
+S'\x9cX\x98l\xc6\xa5\xca?'
+p1339
+tp1340
+Rp1341
+tp1342
+a(S'ronald william turner'
+p1343
+g2
+(g6
+S'\xa0\xe2\xc3\xff.\x9e\xca?'
+p1344
+tp1345
+Rp1346
+tp1347
+a(S'constitutional reform act 2005'
+p1348
+g2
+(g6
+S'\x00\x04\x07\x9d\x11\x9e\xca?'
+p1349
+tp1350
+Rp1351
+tp1352
+a(S'lord lieutenant of cheshire'
+p1353
+g2
+(g6
+S'\xe4\x13\xd0*\x86\x9c\xca?'
+p1354
+tp1355
+Rp1356
+tp1357
+a(S'lord president of the court of session'
+p1358
+g2
+(g6
+S'\x87N\xe3\xd4 \x98\xca?'
+p1359
+tp1360
+Rp1361
+tp1362
+a(S'royal navy officer rank insignia'
+p1363
+g2
+(g6
+S'\x15\xc6\xfd)\xca\x91\xca?'
+p1364
+tp1365
+Rp1366
+tp1367
+a(S'buka suka dimka'
+p1368
+g2
+(g6
+S'\xfe=\x11\x85\xe8\x8d\xca?'
+p1369
+tp1370
+Rp1371
+tp1372
+a(S'7th new jersey volunteer infantry'
+p1373
+g2
+(g6
+S'H\x1c\xe9*\x1e\x86\xca?'
+p1374
+tp1375
+Rp1376
+tp1377
+a(S'clarendon ministry'
+p1378
+g2
+(g6
+S'9\x96AD\x17\x7f\xca?'
+p1379
+tp1380
+Rp1381
+tp1382
+a(S'john lord'
+p1383
+g2
+(g6
+S'\xd2\x8f\x952\x17x\xca?'
+p1384
+tp1385
+Rp1386
+tp1387
+a(S'1st army corps (vsur)'
+p1388
+g2
+(g6
+S'>\xe0e\x83)v\xca?'
+p1389
+tp1390
+Rp1391
+tp1392
+a(S'list of living life peers'
+p1393
+g2
+(g6
+S'\x1b\x15\x03\xca\xeeu\xca?'
+p1394
+tp1395
+Rp1396
+tp1397
+a(S'lieutenant governor (united states)'
+p1398
+g2
+(g6
+S'\x95\x0f\xe6j\xb1q\xca?'
+p1399
+tp1400
+Rp1401
+tp1402
+a(S'css hampton'
+p1403
+g2
+(g6
+S'\x11\xc4}\xd4\xcek\xca?'
+p1404
+tp1405
+Rp1406
+tp1407
+a(S'richard janvrin'
+p1408
+g2
+(g6
+S'.\xe96\x99\nh\xca?'
+p1409
+tp1410
+Rp1411
+tp1412
+a(S'mika lintil\xc3\xa4'
+p1413
+g2
+(g6
+S'\xb1\xca\xae\xf5\xece\xca?'
+p1414
+tp1415
+Rp1416
+tp1417
+a(S'hms mullett (1807)'
+p1418
+g2
+(g6
+S'\xb6\x0bv~2d\xca?'
+p1419
+tp1420
+Rp1421
+tp1422
+a(S'lord president'
+p1423
+g2
+(g6
+S'\xb74zJ\x82^\xca?'
+p1424
+tp1425
+Rp1426
+tp1427
+a(S'lord lieutenant of cork'
+p1428
+g2
+(g6
+S'ik?T\x9fO\xca?'
+p1429
+tp1430
+Rp1431
+tp1432
+a(S'rikichi tsukada'
+p1433
+g2
+(g6
+S'\xf1\xa0\x12\xeb\x83I\xca?'
+p1434
+tp1435
+Rp1436
+tp1437
+a(S'charles harrison (raf officer)'
+p1438
+g2
+(g6
+S'}`\xab\x9b\x9fC\xca?'
+p1439
+tp1440
+Rp1441
+tp1442
+a(S'thomas edgar lacy'
+p1443
+g2
+(g6
+S' U\x0b\xcf\xd4B\xca?'
+p1444
+tp1445
+Rp1446
+tp1447
+a(S'1881 in canada'
+p1448
+g2
+(g6
+S'c\xbb\xa2\x97\xe07\xca?'
+p1449
+tp1450
+Rp1451
+tp1452
+a(S'commander british forces in hong kong'
+p1453
+g2
+(g6
+S'\xc8,\xd1\xa0]-\xca?'
+p1454
+tp1455
+Rp1456
+tp1457
+a(S'deputy director'
+p1458
+g2
+(g6
+S'7RY\xa7\xbd+\xca?'
+p1459
+tp1460
+Rp1461
+tp1462
+a(S'miroslav stojanovski'
+p1463
+g2
+(g6
+S'RRGY\xef)\xca?'
+p1464
+tp1465
+Rp1466
+tp1467
+a(S'weston cracroft-amcotts'
+p1468
+g2
+(g6
+S"xFa\x85t'\xca?"
+p1469
+tp1470
+Rp1471
+tp1472
+a(S'list of lieutenant governors of nevada'
+p1473
+g2
+(g6
+S'X\x86q\xac\x02"\xca?'
+p1474
+tp1475
+Rp1476
+tp1477
+a(S'lieutenant of the admiralty'
+p1478
+g2
+(g6
+S'{`\xfaI\xa4\x1f\xca?'
+p1479
+tp1480
+Rp1481
+tp1482
+a(S'lord sempill'
+p1483
+g2
+(g6
+S'\xd5t\xf5\x10\xd3\x1d\xca?'
+p1484
+tp1485
+Rp1486
+tp1487
+a(S'sarah troughton'
+p1488
+g2
+(g6
+S'p\x17\xe1@q\x1a\xca?'
+p1489
+tp1490
+Rp1491
+tp1492
+a(S'hms scourge (1794)'
+p1493
+g2
+(g6
+S'KW\r\xa1W\x0f\xca?'
+p1494
+tp1495
+Rp1496
+tp1497
+a(S'japanese china garrison army'
+p1498
+g2
+(g6
+S'$3\xab\x90\xe7\x07\xca?'
+p1499
+tp1500
+Rp1501
+tp1502
+a(S'deputy leader of the conservative party (uk)'
+p1503
+g2
+(g6
+S'\xc7\xc0!YM\x07\xca?'
+p1504
+tp1505
+Rp1506
+tp1507
+a(S'lord mayor of london'
+p1508
+g2
+(g6
+S'\xfe:*\x98\xa1\x06\xca?'
+p1509
+tp1510
+Rp1511
+tp1512
+a.

@@ -1,0 +1,2728 @@
+(lp0
+(S'simultaneous localization and mapping'
+p1
+cnumpy.core.multiarray
+scalar
+p2
+(cnumpy
+dtype
+p3
+(S'f8'
+p4
+I0
+I1
+tp5
+Rp6
+(I3
+S'<'
+p7
+NNNI-1
+I-1
+I0
+tp8
+bS'\x04\x00\x00\x00\x00\x00\xf0?'
+p9
+tp10
+Rp11
+tp12
+a(S'slam'
+p13
+g2
+(g6
+S'\xd4\xb1\xef\x15(i\xe5?'
+p14
+tp15
+Rp16
+tp17
+a(S'ekf slam'
+p18
+g2
+(g6
+S'E)\xee\x1c\x11L\xe5?'
+p19
+tp20
+Rp21
+tp22
+a(S'grand slam'
+p23
+g2
+(g6
+S'X\xff\xa0\xb4C/\xe4?'
+p24
+tp25
+Rp26
+tp27
+a(S'slam!tv'
+p28
+g2
+(g6
+S'<:D\xaa\xc3r\xe2?'
+p29
+tp30
+Rp31
+tp32
+a(S'national poetry slam'
+p33
+g2
+(g6
+S'$l\xf3\xc0($\xe2?'
+p34
+tp35
+Rp36
+tp37
+a(S'george haslam'
+p38
+g2
+(g6
+S'\xc0\x8f\xab,\xca \xe2?'
+p39
+tp40
+Rp41
+tp42
+a(S'poetry slam'
+p43
+g2
+(g6
+S'KX\x90\x95I\xee\xe1?'
+p44
+tp45
+Rp46
+tp47
+a(S'slam! (radio station)'
+p48
+g2
+(g6
+S't\xcb\xfe1T\xe4\xe0?'
+p49
+tp50
+Rp51
+tp52
+a(S'slam book'
+p53
+g2
+(g6
+S'4B\xdbK.V\xe0?'
+p54
+tp55
+Rp56
+tp57
+a(S'hawaii slam'
+p58
+g2
+(g6
+S'^Y\x17(\xbcL\xe0?'
+p59
+tp60
+Rp61
+tp62
+a(S'slam (onyx song)'
+p63
+g2
+(g6
+S't9![\xff\r\xe0?'
+p64
+tp65
+Rp66
+tp67
+a(S'slam nuba'
+p68
+g2
+(g6
+S'\x94r\xa7\xa4\xf3\x03\xe0?'
+p69
+tp70
+Rp71
+tp72
+a(S'grand slam (rugby union)'
+p73
+g2
+(g6
+S'\xdc\xbf~T\xcc\x8f\xdf?'
+p74
+tp75
+Rp76
+tp77
+a(S'swatch fivb world tour 2012'
+p78
+g2
+(g6
+S'\xff\x87\xd3\x83oA\xdf?'
+p79
+tp80
+Rp81
+tp82
+a(S'louder than a bomb'
+p83
+g2
+(g6
+S'\xf8\xcb\xc0\x19}\xf7\xde?'
+p84
+tp85
+Rp86
+tp87
+a(S'1968 australian championships'
+p88
+g2
+(g6
+S'\x0f\xfb\xabQ\xf6\xb6\xde?'
+p89
+tp90
+Rp91
+tp92
+a(S'city slam'
+p93
+g2
+(g6
+S'\x19\nS4J\xa5\xde?'
+p94
+tp95
+Rp96
+tp97
+a(S'stonerville'
+p98
+g2
+(g6
+S'4-)\x85\x13s\xde?'
+p99
+tp100
+Rp101
+tp102
+a(S'equestrian grand slam'
+p103
+g2
+(g6
+S'\xe6\x86P\xcd\x1d\\\xde?'
+p104
+tp105
+Rp106
+tp107
+a(S'bellingham slam'
+p108
+g2
+(g6
+S'\x99\xe1\xd73\x18\x16\xde?'
+p109
+tp110
+Rp111
+tp112
+a(S'agm-84h/k slam-er'
+p113
+g2
+(g6
+S'\xfe\xd1\xb4\x88\xc1\xf9\xdd?'
+p114
+tp115
+Rp116
+tp117
+a(S'2013 fivb beach volleyball world tour'
+p118
+g2
+(g6
+S'%\xa9l\xc8\xb9[\xdd?'
+p119
+tp120
+Rp121
+tp122
+a(S'poetry slam, inc.'
+p123
+g2
+(g6
+S'\x85[&\x9f\xb3\xf6\xdc?'
+p124
+tp125
+Rp126
+tp127
+a(S'slamnation'
+p128
+g2
+(g6
+S'Vn\xf4\xda\xcd6\xdc?'
+p129
+tp130
+Rp131
+tp132
+a(S'austin poetry slam'
+p133
+g2
+(g6
+S'%\xfdQU\xa4)\xdc?'
+p134
+tp135
+Rp136
+tp137
+a(S'elvis mcgonagall'
+p138
+g2
+(g6
+S'\xeb\x1b\xa3\xd6m"\xdc?'
+p139
+tp140
+Rp141
+tp142
+a(S'grand slam (g.i. joe)'
+p143
+g2
+(g6
+S'\xe3\xa3\xa2\x1c\xbf \xdc?'
+p144
+tp145
+Rp146
+tp147
+a(S'slam (djs)'
+p148
+g2
+(g6
+S'>\xfd`28\x08\xdc?'
+p149
+tp150
+Rp151
+tp152
+a(S"2015 us open \xe2\x80\x93 women's singles"
+p153
+g2
+(g6
+S'\xe9\\\xa6\t\x1c\xfc\xdb?'
+p154
+tp155
+Rp156
+tp157
+a(S'slam project'
+p158
+g2
+(g6
+S'M\xfa\x88\x9c\x07\xe7\xdb?'
+p159
+tp160
+Rp161
+tp162
+a(S'2014 fivb beach volleyball world tour'
+p163
+g2
+(g6
+S'x\xf4\x7f\xd5\xa0\xe5\xdb?'
+p164
+tp165
+Rp166
+tp167
+a(S'seif slam'
+p168
+g2
+(g6
+S'R\xfa0}E\xc6\xdb?'
+p169
+tp170
+Rp171
+tp172
+a(S'puroslam'
+p173
+g2
+(g6
+S'c\xc4\x12\xfd\x82\x9f\xdb?'
+p174
+tp175
+Rp176
+tp177
+a(S'selectable lightweight attack munition'
+p178
+g2
+(g6
+S'{\xca\xf7\xac\xac\x9c\xdb?'
+p179
+tp180
+Rp181
+tp182
+a(S'slam bradley'
+p183
+g2
+(g6
+S'\x92\x87!0\xcfg\xdb?'
+p184
+tp185
+Rp186
+tp187
+a(S'olivia bergdahl'
+p188
+g2
+(g6
+S'\rY\x92s\xe4L\xdb?'
+p189
+tp190
+Rp191
+tp192
+a(S'shrek superslam'
+p193
+g2
+(g6
+S'\x16Iy\xf2\x8bI\xdb?'
+p194
+tp195
+Rp196
+tp197
+a(S'pulp summer slam'
+p198
+g2
+(g6
+S'DD\xda\x10&6\xdb?'
+p199
+tp200
+Rp201
+tp202
+a(S'mighty mike mcgee'
+p203
+g2
+(g6
+S'\x1a+\x07\xc4\xb5\xf4\xda?'
+p204
+tp205
+Rp206
+tp207
+a(S'margaret court'
+p208
+g2
+(g6
+S'\xbb\x97\xd5 \xad\xb8\xda?'
+p209
+tp210
+Rp211
+tp212
+a(S'explorers grand slam'
+p213
+g2
+(g6
+S'gX\x13\xf1\xab\xb7\xda?'
+p214
+tp215
+Rp216
+tp217
+a(S'1969 us open (tennis)'
+p218
+g2
+(g6
+S'\xe2\xb9\xd3\x00X\xa2\xda?'
+p219
+tp220
+Rp221
+tp222
+a(S'anis mojgani'
+p223
+g2
+(g6
+S'\x0b\x01]>\xa8B\xda?'
+p224
+tp225
+Rp226
+tp227
+a(S'joaquin zihuatanejo'
+p228
+g2
+(g6
+S'\xa6.\xa3N/3\xda?'
+p229
+tp230
+Rp231
+tp232
+a(S'marc smith (poet)'
+p233
+g2
+(g6
+S'\xe2\x92R\x9f\x83\xb2\xd9?'
+p234
+tp235
+Rp236
+tp237
+a(S"1999 us open \xe2\x80\x93 women's singles"
+p238
+g2
+(g6
+S'\xf0\x8e\xf1\x0c\x9d\xae\xd9?'
+p239
+tp240
+Rp241
+tp242
+a(S'slam stewart'
+p243
+g2
+(g6
+S'D%\x13\xcf\x86\xa9\xd9?'
+p244
+tp245
+Rp246
+tp247
+a(S'1988 us open (tennis)'
+p248
+g2
+(g6
+S'\x05V_\xd9gZ\xd9?'
+p249
+tp250
+Rp251
+tp252
+a(S'operation grand slam (disambiguation)'
+p253
+g2
+(g6
+S'G\x1f\x8f\x1c\xb9A\xd9?'
+p254
+tp255
+Rp256
+tp257
+a(S'glam slam'
+p258
+g2
+(g6
+S'U\xf9\xe1lb>\xd9?'
+p259
+tp260
+Rp261
+tp262
+a(S'college unions poetry slam invitational'
+p263
+g2
+(g6
+S'F#\xaaL\xc9\x17\xd9?'
+p264
+tp265
+Rp266
+tp267
+a(S'slam-door train'
+p268
+g2
+(g6
+S'\xc1\xfe\xeb\xe5G\t\xd9?'
+p269
+tp270
+Rp271
+tp272
+a(S'1970 us open (tennis)'
+p273
+g2
+(g6
+S'Y\x9a2\xd88\xde\xd8?'
+p274
+tp275
+Rp276
+tp277
+a(S'slam dunk (disambiguation)'
+p278
+g2
+(g6
+S';\x9a\x08\xa4\x87\xdd\xd8?'
+p279
+tp280
+Rp281
+tp282
+a(S"1988 french open \xe2\x80\x93 women's singles"
+p283
+g2
+(g6
+S'\x15\xf9\xfet+\xce\xd8?'
+p284
+tp285
+Rp286
+tp287
+a(S'agm-84e standoff land attack missile'
+p288
+g2
+(g6
+S'q\x06+C\x8d\xc4\xd8?'
+p289
+tp290
+Rp291
+tp292
+a(S'slam, ce qui nous br\xc3\xbble'
+p293
+g2
+(g6
+S'\xfe\xfe\xb7PM\xc2\xd8?'
+p294
+tp295
+Rp296
+tp297
+a(S'syndicat national de la librairie ancienne et moderne'
+p298
+g2
+(g6
+S'\x8d\xf8L\xef8\xbb\xd8?'
+p299
+tp300
+Rp301
+tp302
+a(S'slam / out here'
+p303
+g2
+(g6
+S'\x06x\xfdQ\x14\xaf\xd8?'
+p304
+tp305
+Rp306
+tp307
+a(S'grandview, u.s.a.'
+p308
+g2
+(g6
+S'\x1f\xbbQ\xe9]\x7f\xd8?'
+p309
+tp310
+Rp311
+tp312
+a(S'lists of tennis records and statistics'
+p313
+g2
+(g6
+S'\xc5\xde\x98\x14\xa4y\xd8?'
+p314
+tp315
+Rp316
+tp317
+a(S"2004 french open \xe2\x80\x93 women's singles"
+p318
+g2
+(g6
+S'\xd1\x8b\xd5\x05\xb2m\xd8?'
+p319
+tp320
+Rp321
+tp322
+a(S'mobile robot programming toolkit'
+p323
+g2
+(g6
+S'\xab-\xa7V\xcea\xd8?'
+p324
+tp325
+Rp326
+tp327
+a(S'robert paparemborde'
+p328
+g2
+(g6
+S'N\xb9^,\xa7A\xd8?'
+p329
+tp330
+Rp331
+tp332
+a(S'madzitatiguru'
+p333
+g2
+(g6
+S'h,aJ),\xd8?'
+p334
+tp335
+Rp336
+tp337
+a(S'danny strack'
+p338
+g2
+(g6
+S'\x1c)\xb7\x13\xb8\x10\xd8?'
+p339
+tp340
+Rp341
+tp342
+a(S'grand slam of ultrarunning'
+p343
+g2
+(g6
+S'\xa9%\x89K \n\xd8?'
+p344
+tp345
+Rp346
+tp347
+a(S'noraz poets'
+p348
+g2
+(g6
+S'x{\x1c14\xea\xd7?'
+p349
+tp350
+Rp351
+tp352
+a(S'1968 french open'
+p353
+g2
+(g6
+S'\x87P\x0bhv\xe5\xd7?'
+p354
+tp355
+Rp356
+tp357
+a(S'1978 australian open'
+p358
+g2
+(g6
+S'\x8e\xe7\x8e\xf8\xd2\x97\xd7?'
+p359
+tp360
+Rp361
+tp362
+a(S'new mexico slam'
+p363
+g2
+(g6
+S'\xa8\x86Q\xb4q\x95\xd7?'
+p364
+tp365
+Rp366
+tp367
+a(S'grand slam cup'
+p368
+g2
+(g6
+S'9=\x7f\xdbi\x90\xd7?'
+p369
+tp370
+Rp371
+tp372
+a(S'grand slam (fly-fishing caribbean)'
+p373
+g2
+(g6
+S'\xa9c\xfa\x90\x9dh\xd7?'
+p374
+tp375
+Rp376
+tp377
+a(S'individual world poetry slam'
+p378
+g2
+(g6
+S'=!\xfa\xd2\xe9V\xd7?'
+p379
+tp380
+Rp381
+tp382
+a(S"2003 australian open \xe2\x80\x93 women's singles"
+p383
+g2
+(g6
+S':#\xecV]O\xd7?'
+p384
+tp385
+Rp386
+tp387
+a(S'swatch fivb world tour 2011'
+p388
+g2
+(g6
+S'.\x84\xfc\xd1)7\xd7?'
+p389
+tp390
+Rp391
+tp392
+a(S'1991 australian open'
+p393
+g2
+(g6
+S'\xcfR\xb8$\xc7\x1d\xd7?'
+p394
+tp395
+Rp396
+tp397
+a(S'1979 australian open'
+p398
+g2
+(g6
+S'b!\xd2\xe2\x80\x05\xd7?'
+p399
+tp400
+Rp401
+tp402
+a(S'1972 australian open'
+p403
+g2
+(g6
+S'\xd9\xf9\x905\xb8\xfe\xd6?'
+p404
+tp405
+Rp406
+tp407
+a(S'swatch fivb world tour 2010'
+p408
+g2
+(g6
+S'6\x9b\xde\xb1j\xd4\xd6?'
+p409
+tp410
+Rp411
+tp412
+a(S'roger bonair-agard'
+p413
+g2
+(g6
+S'\xf3t\xa5\xa8\xe3\xb0\xd6?'
+p414
+tp415
+Rp416
+tp417
+a(S'1981 us open (tennis)'
+p418
+g2
+(g6
+S'R\xe1[\x02\xe8\xa7\xd6?'
+p419
+tp420
+Rp421
+tp422
+a(S"2002 us open \xe2\x80\x93 women's singles"
+p423
+g2
+(g6
+S'\xc7ea\xcao\x9c\xd6?'
+p424
+tp425
+Rp426
+tp427
+a(S'kealoha (poet)'
+p428
+g2
+(g6
+S'H\x11a\xb3\x9c\x98\xd6?'
+p429
+tp430
+Rp431
+tp432
+a(S'slam (humanoid song)'
+p433
+g2
+(g6
+S'b\xa27\xb1\x98y\xd6?'
+p434
+tp435
+Rp436
+tp437
+a(S'grand slam (professional wrestling)'
+p438
+g2
+(g6
+S'B>\xfb\x0f\xfdf\xd6?'
+p439
+tp440
+Rp441
+tp442
+a(S'lennart bergelin'
+p443
+g2
+(g6
+S'\x04\xed\xd4\xb7\xe8a\xd6?'
+p444
+tp445
+Rp446
+tp447
+a(S'grand slam force'
+p448
+g2
+(g6
+S'\xf2\x11Y\xdf2W\xd6?'
+p449
+tp450
+Rp451
+tp452
+a(S'kevin butler (streetball player)'
+p453
+g2
+(g6
+S'/\xc6\x12ZjJ\xd6?'
+p454
+tp455
+Rp456
+tp457
+a(S'robotic mapping'
+p458
+g2
+(g6
+S'\xe9\xae\xc6\xe6\xcc4\xd6?'
+p459
+tp460
+Rp461
+tp462
+a(S"women's six nations championship"
+p463
+g2
+(g6
+S'W\xe7oC\xc8\x13\xd6?'
+p464
+tp465
+Rp466
+tp467
+a(S'1980 us open (tennis)'
+p468
+g2
+(g6
+S'\xc0x\xf1\xa4\xd9\x0b\xd6?'
+p469
+tp470
+Rp471
+tp472
+a(S'dia davina'
+p473
+g2
+(g6
+S'\x13\xe9\x91~\x82\xff\xd5?'
+p474
+tp475
+Rp476
+tp477
+a(S"cristin o'keefe aptowicz"
+p478
+g2
+(g6
+S'\x0b{i\xfe}\xf4\xd5?'
+p479
+tp480
+Rp481
+tp482
+a(S'women of the world poetry slam'
+p483
+g2
+(g6
+S'\xe2\xd2u\t\xb5\xf2\xd5?'
+p484
+tp485
+Rp486
+tp487
+a(S'michael salinger'
+p488
+g2
+(g6
+S'\xabJ\x04\n\xc3\xbf\xd5?'
+p489
+tp490
+Rp491
+tp492
+a(S'1971 french open'
+p493
+g2
+(g6
+S'\xa5\x97m\xac\x13\xad\xd5?'
+p494
+tp495
+Rp496
+tp497
+a(S'grand slam tennis 2'
+p498
+g2
+(g6
+S'\xc4\x11\xe2\xce\xbc\x93\xd5?'
+p499
+tp500
+Rp501
+tp502
+a(S'louder than a bomb (film)'
+p503
+g2
+(g6
+S'R\t\x1d\xf9z\x83\xd5?'
+p504
+tp505
+Rp506
+tp507
+a(S'frank sulloway (tennis)'
+p508
+g2
+(g6
+S'\xa9\xdd\x05&\x7fK\xd5?'
+p509
+tp510
+Rp511
+tp512
+a(S"2003 us open \xe2\x80\x93 men's singles"
+p513
+g2
+(g6
+S'"t\xafw\xf7>\xd5?'
+p514
+tp515
+Rp516
+tp517
+a(S'1989 french open'
+p518
+g2
+(g6
+S'q\xa1\xd2`&=\xd5?'
+p519
+tp520
+Rp521
+tp522
+a(S'1998 compaq grand slam cup'
+p523
+g2
+(g6
+S'\t\x1a\x83\x12j"\xd5?'
+p524
+tp525
+Rp526
+tp527
+a(S'bilbao chess masters final'
+p528
+g2
+(g6
+S'\x98\xb4p=@\x1d\xd5?'
+p529
+tp530
+Rp531
+tp532
+a(S'1995 us open (tennis)'
+p533
+g2
+(g6
+S'w\tp\xaa\xea\x15\xd5?'
+p534
+tp535
+Rp536
+tp537
+a(S'1968 us open (tennis)'
+p538
+g2
+(g6
+S'\xe4*3\x86\xae\x07\xd5?'
+p539
+tp540
+Rp541
+tp542
+a(S'1997 french open'
+p543
+g2
+(g6
+S'AU\x07\xf5l\x01\xd5?'
+p544
+tp545
+Rp546
+tp547
+a(S"1999 wimbledon championships \xe2\x80\x93 women's singles"
+p548
+g2
+(g6
+S'\xb9\xff\xb6\xef&\xf6\xd4?'
+p549
+tp550
+Rp551
+tp552
+a(S'grand slam tennis'
+p553
+g2
+(g6
+S'3\xc1R\xecZ\xe6\xd4?'
+p554
+tp555
+Rp556
+tp557
+a(S'2003 us open (tennis)'
+p558
+g2
+(g6
+S'\xe5t8/=\xd3\xd4?'
+p559
+tp560
+Rp561
+tp562
+a(S'naohisa takato'
+p563
+g2
+(g6
+S'\xf6\xf0\xd3q\x14\xd1\xd4?'
+p564
+tp565
+Rp566
+tp567
+a(S'1996 australian open'
+p568
+g2
+(g6
+S'W\x02\x8b[\xa1\xcc\xd4?'
+p569
+tp570
+Rp571
+tp572
+a(S'1988 australian open'
+p573
+g2
+(g6
+S'\xa4ion\xf9\xc8\xd4?'
+p574
+tp575
+Rp576
+tp577
+a(S'science slam'
+p578
+g2
+(g6
+S'K\xf9\xe6\xe27\xc5\xd4?'
+p579
+tp580
+Rp581
+tp582
+a(S'1985 us open (tennis)'
+p583
+g2
+(g6
+S'?)}.b\xb5\xd4?'
+p584
+tp585
+Rp586
+tp587
+a(S'lita liem sugiarto'
+p588
+g2
+(g6
+S'\x9d5"\xd9?\xb3\xd4?'
+p589
+tp590
+Rp591
+tp592
+a(S"1990 french open \xe2\x80\x93 men's singles"
+p593
+g2
+(g6
+S'V\xa2u|\xd6\xb2\xd4?'
+p594
+tp595
+Rp596
+tp597
+a(S'1997 us open (tennis)'
+p598
+g2
+(g6
+S'?\x83\xb6J\x91\xac\xd4?'
+p599
+tp600
+Rp601
+tp602
+a(S'swatch fivb world tour 2008'
+p603
+g2
+(g6
+S'\xc3|,\xa5\xe8\xaa\xd4?'
+p604
+tp605
+Rp606
+tp607
+a(S'1991 us open (tennis)'
+p608
+g2
+(g6
+S'\xc2"H&\xc5\xa1\xd4?'
+p609
+tp610
+Rp611
+tp612
+a(S'back door slam \xe2\x80\x93 ep'
+p613
+g2
+(g6
+S'\x9f:\xe6a \xa0\xd4?'
+p614
+tp615
+Rp616
+tp617
+a(S'bas b\xc3\xb6ttcher'
+p618
+g2
+(g6
+S'v\xfa\x17\xeb\x16\x9d\xd4?'
+p619
+tp620
+Rp621
+tp622
+a(S'1986 us open (tennis)'
+p623
+g2
+(g6
+S'\xad{s\xc6\xdc\x94\xd4?'
+p624
+tp625
+Rp626
+tp627
+a(S'danni bassan'
+p628
+g2
+(g6
+S'/\x7f2\xcdW\x92\xd4?'
+p629
+tp630
+Rp631
+tp632
+a(S"2014 us open \xe2\x80\x93 men's singles"
+p633
+g2
+(g6
+S"'#S\xc6\x03\x8d\xd4?"
+p634
+tp635
+Rp636
+tp637
+a(S'suzi q smith'
+p638
+g2
+(g6
+S'\xe5\xe3>\xc9p\x82\xd4?'
+p639
+tp640
+Rp641
+tp642
+a(S'suzi q. smith'
+p643
+g2
+(g6
+S'\xe5\xe3>\xc9p\x82\xd4?'
+p644
+tp645
+Rp646
+tp647
+a(S'1998 australian open'
+p648
+g2
+(g6
+S'\xf5F\x99J.\x80\xd4?'
+p649
+tp650
+Rp651
+tp652
+a(S'1992 australian open'
+p653
+g2
+(g6
+S'\xfc`\xe9\xc3\x03h\xd4?'
+p654
+tp655
+Rp656
+tp657
+a(S'1998 us open (tennis)'
+p658
+g2
+(g6
+S'hC\xdaN\xa3Z\xd4?'
+p659
+tp660
+Rp661
+tp662
+a(S't-slam'
+p663
+g2
+(g6
+S'i\xfd\x9c%\x92H\xd4?'
+p664
+tp665
+Rp666
+tp667
+a(S'1980 australian open'
+p668
+g2
+(g6
+S'\xd3\xee\xd9M\xb8E\xd4?'
+p669
+tp670
+Rp671
+tp672
+a(S'slam dunk (manga)'
+p673
+g2
+(g6
+S't\xc0\xdbD\x91B\xd4?'
+p674
+tp675
+Rp676
+tp677
+a(S'slam dunk (da funk)'
+p678
+g2
+(g6
+S'S\x1a\xc1m\xe6@\xd4?'
+p679
+tp680
+Rp681
+tp682
+a(S'1982 us open (tennis)'
+p683
+g2
+(g6
+S'P1\xeafx;\xd4?'
+p684
+tp685
+Rp686
+tp687
+a(S'grand slam (shinty)'
+p688
+g2
+(g6
+S'\x13\xe19\x05\xa97\xd4?'
+p689
+tp690
+Rp691
+tp692
+a(S'jacksonville slam'
+p693
+g2
+(g6
+S'\xd2\xb3(\x854-\xd4?'
+p694
+tp695
+Rp696
+tp697
+a(S"2005 french open \xe2\x80\x93 men's singles"
+p698
+g2
+(g6
+S'b\xab\xc9,1+\xd4?'
+p699
+tp700
+Rp701
+tp702
+a(S'1994 australian open'
+p703
+g2
+(g6
+S'\x13G\x81\xb0?\r\xd4?'
+p704
+tp705
+Rp706
+tp707
+a(S'back door slam'
+p708
+g2
+(g6
+S'\x89\xa1\xb0\xb4\x0f\t\xd4?'
+p709
+tp710
+Rp711
+tp712
+a(S'1993 australian open'
+p713
+g2
+(g6
+S'\x90\xbc_\xb5%\x04\xd4?'
+p714
+tp715
+Rp716
+tp717
+a(S"2006 french open \xe2\x80\x93 men's singles"
+p718
+g2
+(g6
+S'\x01\x92+0\xe3\x01\xd4?'
+p719
+tp720
+Rp721
+tp722
+a(S'1997 australian open'
+p723
+g2
+(g6
+S'o\x0fL\t\x00\xe9\xd3?'
+p724
+tp725
+Rp726
+tp727
+a(S'1998 french open'
+p728
+g2
+(g6
+S'<%\x9c\x06o\xe1\xd3?'
+p729
+tp730
+Rp731
+tp732
+a(S'1970 australian open'
+p733
+g2
+(g6
+S'\x13\xd6\xb0+\x83\xd1\xd3?'
+p734
+tp735
+Rp736
+tp737
+a(S"2003 french open \xe2\x80\x93 women's singles"
+p738
+g2
+(g6
+S'Ad\xa2\xfd\xea\xcc\xd3?'
+p739
+tp740
+Rp741
+tp742
+a(S'juize'
+p743
+g2
+(g6
+S'\xa5\x8cj/\x9c\xcc\xd3?'
+p744
+tp745
+Rp746
+tp747
+a(S'slim & slam'
+p748
+g2
+(g6
+S'\x03fl\n\x15\xc0\xd3?'
+p749
+tp750
+Rp751
+tp752
+a(S'1984 australian open'
+p753
+g2
+(g6
+S'9\xd6\xf2h\x0e\xbf\xd3?'
+p754
+tp755
+Rp756
+tp757
+a(S'1990 australian open'
+p758
+g2
+(g6
+S'\xc4\xa6_,W\xbe\xd3?'
+p759
+tp760
+Rp761
+tp762
+a(S'1989 australian open'
+p763
+g2
+(g6
+S'\xbe\xe2r:\xb4\xbb\xd3?'
+p764
+tp765
+Rp766
+tp767
+a(S'grand slam (golf)'
+p768
+g2
+(g6
+S'\xbeTt\x11{\xb9\xd3?'
+p769
+tp770
+Rp771
+tp772
+a(S'1983 us open (tennis)'
+p773
+g2
+(g6
+S'\x97\x96>\xbe~\xb4\xd3?'
+p774
+tp775
+Rp776
+tp777
+a(S'1987 us open (tennis)'
+p778
+g2
+(g6
+S'\x13\x1c\xb4\xb6\x91\xb1\xd3?'
+p779
+tp780
+Rp781
+tp782
+a(S"2004 us open \xe2\x80\x93 boys' singles"
+p783
+g2
+(g6
+S'4\xdf\xf8\xfc\xa3\xad\xd3?'
+p784
+tp785
+Rp786
+tp787
+a(S'grand slam (tennis)'
+p788
+g2
+(g6
+S':D\xd4\x18T\x99\xd3?'
+p789
+tp790
+Rp791
+tp792
+a(S'1980 wimbledon championships'
+p793
+g2
+(g6
+S'=\xd1\n\xd9Z\x91\xd3?'
+p794
+tp795
+Rp796
+tp797
+a(S'td daily magazine'
+p798
+g2
+(g6
+S'\x9a\x00\xdc\xc2\x88\x8e\xd3?'
+p799
+tp800
+Rp801
+tp802
+a(S'1990 us open (tennis)'
+p803
+g2
+(g6
+S'\x9fii\x01\x96{\xd3?'
+p804
+tp805
+Rp806
+tp807
+a(S"2007 australian open \xe2\x80\x93 men's singles"
+p808
+g2
+(g6
+S'4\xd8\xe1\x19(x\xd3?'
+p809
+tp810
+Rp811
+tp812
+a(S"2011 australian open \xe2\x80\x93 women's singles"
+p813
+g2
+(g6
+S'i\xa0\xfd6tr\xd3?'
+p814
+tp815
+Rp816
+tp817
+a(S'udo frese'
+p818
+g2
+(g6
+S'\xa9MpM(k\xd3?'
+p819
+tp820
+Rp821
+tp822
+a(S'1972 french open'
+p823
+g2
+(g6
+S')\x14\xbd\x89\xfa_\xd3?'
+p824
+tp825
+Rp826
+tp827
+a(S'slam-seeking conventions'
+p828
+g2
+(g6
+S'\x02|\xe4$\xf6E\xd3?'
+p829
+tp830
+Rp831
+tp832
+a(S'1984 us open (tennis)'
+p833
+g2
+(g6
+S'\x9d9\xdd\xff\xa5(\xd3?'
+p834
+tp835
+Rp836
+tp837
+a(S'canadian festival of spoken word'
+p838
+g2
+(g6
+S"q\xc4B\x11\x9d'\xd3?"
+p839
+tp840
+Rp841
+tp842
+a(S'list of male doubles tennis players'
+p843
+g2
+(g6
+S'Y\x86\x02\x8e-\xf9\xd2?'
+p844
+tp845
+Rp846
+tp847
+a(S'1995 australian open'
+p848
+g2
+(g6
+S'"@\xe0;B\xf7\xd2?'
+p849
+tp850
+Rp851
+tp852
+a(S'mobile robotics laboratory at iisc'
+p853
+g2
+(g6
+S'\xafXs\xd2\xf2\xea\xd2?'
+p854
+tp855
+Rp856
+tp857
+a(S'1987 australian open'
+p858
+g2
+(g6
+S'\xc9y\x8e4\x8b\xdc\xd2?'
+p859
+tp860
+Rp861
+tp862
+a(S'1989 us open (tennis)'
+p863
+g2
+(g6
+S'\xa0\xa1\r\xbf\xf4\xd5\xd2?'
+p864
+tp865
+Rp866
+tp867
+a(S'tadeusz kruszelnicki'
+p868
+g2
+(g6
+S'\xe4\x8fF8K\xd0\xd2?'
+p869
+tp870
+Rp871
+tp872
+a(S'1971 us open (tennis)'
+p873
+g2
+(g6
+S'\x8c\x02G\xa1\xce\xc9\xd2?'
+p874
+tp875
+Rp876
+tp877
+a(S'1987 wimbledon championships'
+p878
+g2
+(g6
+S'\xaf\x1bQ%\xfd\xc5\xd2?'
+p879
+tp880
+Rp881
+tp882
+a(S'1981 wimbledon championships'
+p883
+g2
+(g6
+S'\x06ad\xda}\xb5\xd2?'
+p884
+tp885
+Rp886
+tp887
+a(S'istv\xc3\xa1n guly\xc3\xa1s'
+p888
+g2
+(g6
+S'\xe2\xf8t{\xf9\xb0\xd2?'
+p889
+tp890
+Rp891
+tp892
+a(S'lany kaligis'
+p893
+g2
+(g6
+S'\xd2\x19\xa0\xe0\x84\x8e\xd2?'
+p894
+tp895
+Rp896
+tp897
+a(S'1973 us open (tennis)'
+p898
+g2
+(g6
+S'U\x91\xec8\xf9o\xd2?'
+p899
+tp900
+Rp901
+tp902
+a(S'grand slam (band)'
+p903
+g2
+(g6
+S'\xf99\xf0\x8aof\xd2?'
+p904
+tp905
+Rp906
+tp907
+a(S'2000 us open (tennis)'
+p908
+g2
+(g6
+S'B\xa7\xe1\x8e\xbcb\xd2?'
+p909
+tp910
+Rp911
+tp912
+a(S'brendan mcleod'
+p913
+g2
+(g6
+S'\x90Q\xf9\xea\xb9Z\xd2?'
+p914
+tp915
+Rp916
+tp917
+a(S'grand slam (baseball)'
+p918
+g2
+(g6
+S"'\x83\xef/\x8d5\xd2?"
+p919
+tp920
+Rp921
+tp922
+a(S'1991 wimbledon championships'
+p923
+g2
+(g6
+S'\x11\nL\xfa\xeb2\xd2?'
+p924
+tp925
+Rp926
+tp927
+a(S"list of grand slam girls' singles champions"
+p928
+g2
+(g6
+S'\xb8\x96\x89\xf4C-\xd2?'
+p929
+tp930
+Rp931
+tp932
+a(S'1975 australian open'
+p933
+g2
+(g6
+S'\x9e\xfdp\xef\xbd&\xd2?'
+p934
+tp935
+Rp936
+tp937
+a(S'sh2d1a'
+p938
+g2
+(g6
+S'n)\x01\x8d\xa9 \xd2?'
+p939
+tp940
+Rp941
+tp942
+a(S'1994 us open (tennis)'
+p943
+g2
+(g6
+S'L\xea\x18\x11s\x1a\xd2?'
+p944
+tp945
+Rp946
+tp947
+a(S'1993 wimbledon championships'
+p948
+g2
+(g6
+S'\xed\xc5\xc4G\xcf\x17\xd2?'
+p949
+tp950
+Rp951
+tp952
+a(S'grand slam (bomb)'
+p953
+g2
+(g6
+S'R\xffg_\x96\x15\xd2?'
+p954
+tp955
+Rp956
+tp957
+a(S'staceyann chin'
+p958
+g2
+(g6
+S'\xdc\x028F4\x14\xd2?'
+p959
+tp960
+Rp961
+tp962
+a(S'1996 us open (tennis)'
+p963
+g2
+(g6
+S'J\xee\xc1 :\x02\xd2?'
+p964
+tp965
+Rp966
+tp967
+a(S'sandra reynolds'
+p968
+g2
+(g6
+S'[d\xd3\xf5\xe6\xfd\xd1?'
+p969
+tp970
+Rp971
+tp972
+a(S'peter curtis (tennis)'
+p973
+g2
+(g6
+S'rB1\xe7\xb9\xfa\xd1?'
+p974
+tp975
+Rp976
+tp977
+a(S'list of slam dunk chapters'
+p978
+g2
+(g6
+S'\x08\xf6\x06\xb7\x9a\xf5\xd1?'
+p979
+tp980
+Rp981
+tp982
+a(S'1977 five nations championship'
+p983
+g2
+(g6
+S'\xb4\xd2\xa1\xb1\x9b\xe5\xd1?'
+p984
+tp985
+Rp986
+tp987
+a(S'will work for food (album)'
+p988
+g2
+(g6
+S'y\xffN\xddb\xe3\xd1?'
+p989
+tp990
+Rp991
+tp992
+a(S'grand slam (spiderbait album)'
+p993
+g2
+(g6
+S'\x17\x9b\xb1e\x98\xe2\xd1?'
+p994
+tp995
+Rp996
+tp997
+a(S'1988 wimbledon championships'
+p998
+g2
+(g6
+S'\xa0\\\x11"U\xe1\xd1?'
+p999
+tp1000
+Rp1001
+tp1002
+a(S'slam city jam'
+p1003
+g2
+(g6
+S'\xf9\xc6\xdfZU\xe0\xd1?'
+p1004
+tp1005
+Rp1006
+tp1007
+a(S"2005 australian open \xe2\x80\x93 women's singles"
+p1008
+g2
+(g6
+S'\xeb\xca\x9dd\xbf\xdd\xd1?'
+p1009
+tp1010
+Rp1011
+tp1012
+a(S'1992 us open (tennis)'
+p1013
+g2
+(g6
+S'{=\xa3\xe7!\xd8\xd1?'
+p1014
+tp1015
+Rp1016
+tp1017
+a(S'st. paul slam!'
+p1018
+g2
+(g6
+S'\xff\x9f\xd9s?\xd3\xd1?'
+p1019
+tp1020
+Rp1021
+tp1022
+a(S'swatch fivb world tour 2003'
+p1023
+g2
+(g6
+S'x\x85\x1fV\x9d\xca\xd1?'
+p1024
+tp1025
+Rp1026
+tp1027
+a(S'taalam acey'
+p1028
+g2
+(g6
+S'\x98l0\xf2\x04\xb7\xd1?'
+p1029
+tp1030
+Rp1031
+tp1032
+a(S'delhi poetry slam'
+p1033
+g2
+(g6
+S'f\xc0@v.\xb6\xd1?'
+p1034
+tp1035
+Rp1036
+tp1037
+a(S'1999 wimbledon championships'
+p1038
+g2
+(g6
+S'\xcdKs\x94"\xb5\xd1?'
+p1039
+tp1040
+Rp1041
+tp1042
+a(S"2008 french open \xe2\x80\x93 women's singles"
+p1043
+g2
+(g6
+S'\x9aMH\xac\xed\xab\xd1?'
+p1044
+tp1045
+Rp1046
+tp1047
+a(S"1999 french open \xe2\x80\x93 women's singles"
+p1048
+g2
+(g6
+S'\xf7\x97\xcaQ\xed\xa6\xd1?'
+p1049
+tp1050
+Rp1051
+tp1052
+a(S'muriel robb'
+p1053
+g2
+(g6
+S'\xed\x81S\xb9\xc8\xa6\xd1?'
+p1054
+tp1055
+Rp1056
+tp1057
+a(S'1989 wimbledon championships'
+p1058
+g2
+(g6
+S'\xb4\xf9\xdc\x0f\xf5\xa1\xd1?'
+p1059
+tp1060
+Rp1061
+tp1062
+a(S'1998 wimbledon championships'
+p1063
+g2
+(g6
+S'q\xde\xeem4\xa1\xd1?'
+p1064
+tp1065
+Rp1066
+tp1067
+a(S'2008 sobeys slam'
+p1068
+g2
+(g6
+S'z\x82\x96y\x08\x92\xd1?'
+p1069
+tp1070
+Rp1071
+tp1072
+a(S'1993 us open (tennis)'
+p1073
+g2
+(g6
+S'g\xf5\xf6\x83<\x90\xd1?'
+p1074
+tp1075
+Rp1076
+tp1077
+a(S'andrea cardona'
+p1078
+g2
+(g6
+S'a\xcb;\xdd\x1e\x88\xd1?'
+p1079
+tp1080
+Rp1081
+tp1082
+a(S"2015 us open \xe2\x80\x93 men's singles"
+p1083
+g2
+(g6
+S'\x99\xf0I~\xf9\x84\xd1?'
+p1084
+tp1085
+Rp1086
+tp1087
+a(S'1990 wimbledon championships'
+p1088
+g2
+(g6
+S'\tu\x16g\xd4n\xd1?'
+p1089
+tp1090
+Rp1091
+tp1092
+a(S'h. laverne westfall'
+p1093
+g2
+(g6
+S'!\x1f5\x86[l\xd1?'
+p1094
+tp1095
+Rp1096
+tp1097
+a(S'robbie q. telfer'
+p1098
+g2
+(g6
+S'\xd8\x8d\x15p\xd0j\xd1?'
+p1099
+tp1100
+Rp1101
+tp1102
+a(S'1981 australian open'
+p1103
+g2
+(g6
+S'\x16t\x1f\x99\x00h\xd1?'
+p1104
+tp1105
+Rp1106
+tp1107
+a(S'gary mex glazner'
+p1108
+g2
+(g6
+S'\xecdd\xe3\x9cd\xd1?'
+p1109
+tp1110
+Rp1111
+tp1112
+a(S'1992 wimbledon championships'
+p1113
+g2
+(g6
+S'\xd6\xa9k\xc8cR\xd1?'
+p1114
+tp1115
+Rp1116
+tp1117
+a(S'1999 french open'
+p1118
+g2
+(g6
+S'\xb4\xd5\xd5\xa8\x92K\xd1?'
+p1119
+tp1120
+Rp1121
+tp1122
+a(S'slam bolt scrappers'
+p1123
+g2
+(g6
+S'\x94\x7fC\x7f&?\xd1?'
+p1124
+tp1125
+Rp1126
+tp1127
+a(S'floren\xc8\x9ba mihai'
+p1128
+g2
+(g6
+S'\x1e\xa0\xf6\xb4\x1d>\xd1?'
+p1129
+tp1130
+Rp1131
+tp1132
+a(S"2016 french open \xe2\x80\x93 men's singles"
+p1133
+g2
+(g6
+S'L<\n\x04\x8b&\xd1?'
+p1134
+tp1135
+Rp1136
+tp1137
+a(S'anita lizana'
+p1138
+g2
+(g6
+S'\xa1\r\x95\xf2L\x1b\xd1?'
+p1139
+tp1140
+Rp1141
+tp1142
+a(S'wynne prakusya'
+p1143
+g2
+(g6
+S'\xa4\x88pM\x0b\x11\xd1?'
+p1144
+tp1145
+Rp1146
+tp1147
+a(S'jimmy brown (tennis)'
+p1148
+g2
+(g6
+S'\x86\xc6\x19\xd2\xdb\r\xd1?'
+p1149
+tp1150
+Rp1151
+tp1152
+a(S'1995 wimbledon championships'
+p1153
+g2
+(g6
+S'\xfb\x85\x9fb\x0b\r\xd1?'
+p1154
+tp1155
+Rp1156
+tp1157
+a(S'we are happy people'
+p1158
+g2
+(g6
+S'<V%\x01g\x02\xd1?'
+p1159
+tp1160
+Rp1161
+tp1162
+a(S"2007 french open \xe2\x80\x93 women's singles"
+p1163
+g2
+(g6
+S'\x13\x06\xafQ\x0f\xed\xd0?'
+p1164
+tp1165
+Rp1166
+tp1167
+a(S'1994 wimbledon championships'
+p1168
+g2
+(g6
+S'?\xd8\x13\x0b\xd6\xe9\xd0?'
+p1169
+tp1170
+Rp1171
+tp1172
+a(S'timo brunke'
+p1173
+g2
+(g6
+S'\x0e\xef\xf1\x1e\t\xe1\xd0?'
+p1174
+tp1175
+Rp1176
+tp1177
+a(S'yair nitzani'
+p1178
+g2
+(g6
+S'\xee\x1a\xf7i\xd4\xdb\xd0?'
+p1179
+tp1180
+Rp1181
+tp1182
+a(S'ren\xc3\xa9e schuurman'
+p1183
+g2
+(g6
+S'l\x10&\xb4\xb6\xda\xd0?'
+p1184
+tp1185
+Rp1186
+tp1187
+a(S"2004 australian open \xe2\x80\x93 women's singles"
+p1188
+g2
+(g6
+S'A\x96\x1e\xbf\xcd\xd9\xd0?'
+p1189
+tp1190
+Rp1191
+tp1192
+a(S"1988 us open \xe2\x80\x93 women's singles"
+p1193
+g2
+(g6
+S'\xd3\x02\\\xeb8\xcf\xd0?'
+p1194
+tp1195
+Rp1196
+tp1197
+a(S'dieter kindlmann'
+p1198
+g2
+(g6
+S'\x00Oo\xb0\xdf\xce\xd0?'
+p1199
+tp1200
+Rp1201
+tp1202
+a(S'2015 fivb beach volleyball world tour'
+p1203
+g2
+(g6
+S'P\xae\xf9\x8b\x16\xcc\xd0?'
+p1204
+tp1205
+Rp1206
+tp1207
+a(S'1983 australian open'
+p1208
+g2
+(g6
+S'\x0f\xcdlJ\xd6\xc0\xd0?'
+p1209
+tp1210
+Rp1211
+tp1212
+a(S'grand slam of show jumping'
+p1213
+g2
+(g6
+S'\x10\x0b\xdb\x99\x80\xbf\xd0?'
+p1214
+tp1215
+Rp1216
+tp1217
+a(S'molly van nostrand'
+p1218
+g2
+(g6
+S'\x07\x0b\xcc\xc8\xa9\xb2\xd0?'
+p1219
+tp1220
+Rp1221
+tp1222
+a(S'1976 australian open'
+p1223
+g2
+(g6
+S'\x9f\x94cn\x06\xa9\xd0?'
+p1224
+tp1225
+Rp1226
+tp1227
+a(S'edward whitney'
+p1228
+g2
+(g6
+S'B\x9f\xb0\x8b\xe0\x9c\xd0?'
+p1229
+tp1230
+Rp1231
+tp1232
+a(S'1970 french open'
+p1233
+g2
+(g6
+S"'\xef\x11\xc0\x98\x9a\xd0?"
+p1234
+tp1235
+Rp1236
+tp1237
+a(S'1982 wimbledon championships'
+p1238
+g2
+(g6
+S'J\x99\x0c\x05\xc2\x97\xd0?'
+p1239
+tp1240
+Rp1241
+tp1242
+a(S'chris tse'
+p1243
+g2
+(g6
+S'\xb0\xb8\xc3`Z\x97\xd0?'
+p1244
+tp1245
+Rp1246
+tp1247
+a(S'jean-pierre bastiat'
+p1248
+g2
+(g6
+S'\xa7\xd8_\xcc\x7f\x83\xd0?'
+p1249
+tp1250
+Rp1251
+tp1252
+a(S'1986 wimbledon championships'
+p1253
+g2
+(g6
+S'\x93\xf5mr\xe9\x82\xd0?'
+p1254
+tp1255
+Rp1256
+tp1257
+a(S'2004 us open (tennis)'
+p1258
+g2
+(g6
+S'\x91\\\x9f=n\x82\xd0?'
+p1259
+tp1260
+Rp1261
+tp1262
+a(S'1973 french open'
+p1263
+g2
+(g6
+S'\x0b\xa1\xb0(|p\xd0?'
+p1264
+tp1265
+Rp1266
+tp1267
+a(S'fr\xc3\xa9d\xc3\xa9ric vitoux (tennis)'
+p1268
+g2
+(g6
+S'\xca\xaff\xd5;p\xd0?'
+p1269
+tp1270
+Rp1271
+tp1272
+a(S"2011 australian open \xe2\x80\x93 wheelchair women's singles"
+p1273
+g2
+(g6
+S'\xa4\xea0\x85\xcco\xd0?'
+p1274
+tp1275
+Rp1276
+tp1277
+a(S'beau sia'
+p1278
+g2
+(g6
+S';6\xff?xZ\xd0?'
+p1279
+tp1280
+Rp1281
+tp1282
+a(S'1985 wimbledon championships'
+p1283
+g2
+(g6
+S'-\\\xdb\x87\xb6V\xd0?'
+p1284
+tp1285
+Rp1286
+tp1287
+a(S'1985 australian open'
+p1288
+g2
+(g6
+S'a\xb4\xa9\xcfYD\xd0?'
+p1289
+tp1290
+Rp1291
+tp1292
+a(S'2009 grand slam of darts itv wildcard qualifier'
+p1293
+g2
+(g6
+S'_\xc5\x1e\xec\x1dC\xd0?'
+p1294
+tp1295
+Rp1296
+tp1297
+a(S"tennis at the 1988 summer olympics \xe2\x80\x93 women's singles"
+p1298
+g2
+(g6
+S'wI\xbf\x81 :\xd0?'
+p1299
+tp1300
+Rp1301
+tp1302
+a(S'tazuo yamaguchi'
+p1303
+g2
+(g6
+S'ZW\xad\xcc\x03:\xd0?'
+p1304
+tp1305
+Rp1306
+tp1307
+a(S'2002 french open'
+p1308
+g2
+(g6
+S'\xcb\xc7\x1e\xf9\\\x0b\xd0?'
+p1309
+tp1310
+Rp1311
+tp1312
+a(S'jack brasington'
+p1313
+g2
+(g6
+S'\xca{h\xa4|\x02\xd0?'
+p1314
+tp1315
+Rp1316
+tp1317
+a(S'\xc3\x81ngeles montolio'
+p1318
+g2
+(g6
+S'\xfeF1\xd1\xab\x01\xd0?'
+p1319
+tp1320
+Rp1321
+tp1322
+a(S'1983 wimbledon championships'
+p1323
+g2
+(g6
+S'=\xdd\x90;\xe9\xfc\xcf?'
+p1324
+tp1325
+Rp1326
+tp1327
+a(S'1982 australian open'
+p1328
+g2
+(g6
+S'\x15\xad\xeeSi\xec\xcf?'
+p1329
+tp1330
+Rp1331
+tp1332
+a(S'1990 five nations championship'
+p1333
+g2
+(g6
+S'B\xb0-\xce\xef\xd1\xcf?'
+p1334
+tp1335
+Rp1336
+tp1337
+a(S'giulia momoli'
+p1338
+g2
+(g6
+S'\xdeX\xfc={\xcc\xcf?'
+p1339
+tp1340
+Rp1341
+tp1342
+a(S'harold throckmorton'
+p1343
+g2
+(g6
+S'\xb4"\xc3j\xe7\xc5\xcf?'
+p1344
+tp1345
+Rp1346
+tp1347
+a(S"2012 us open \xe2\x80\x93 men's singles"
+p1348
+g2
+(g6
+S't[\x96\xc6\xcd\xc0\xcf?'
+p1349
+tp1350
+Rp1351
+tp1352
+a(S'tennis in australia'
+p1353
+g2
+(g6
+S'*\xb8\x17\xadu\xa9\xcf?'
+p1354
+tp1355
+Rp1356
+tp1357
+a(S'pat orreal'
+p1358
+g2
+(g6
+S'Rr\x88\x1b\xc3\x9e\xcf?'
+p1359
+tp1360
+Rp1361
+tp1362
+a(S'swatch fivb world tour 2007'
+p1363
+g2
+(g6
+S'\x163Al\xe2v\xcf?'
+p1364
+tp1365
+Rp1366
+tp1367
+a(S'george bastl'
+p1368
+g2
+(g6
+S'_\xd4\x8eJ4u\xcf?'
+p1369
+tp1370
+Rp1371
+tp1372
+a(S'franco squillari'
+p1373
+g2
+(g6
+S'N\x98\x1d\xaf\xa1o\xcf?'
+p1374
+tp1375
+Rp1376
+tp1377
+a(S"2009 french open \xe2\x80\x93 men's singles"
+p1378
+g2
+(g6
+S'\xe6\xba\xb2\x98qY\xcf?'
+p1379
+tp1380
+Rp1381
+tp1382
+a(S'autonomous robot'
+p1383
+g2
+(g6
+S'\xa7\x9d\xd4\x94\x07Q\xcf?'
+p1384
+tp1385
+Rp1386
+tp1387
+a(S'2004 australian open'
+p1388
+g2
+(g6
+S'lX\xd0E\xba7\xcf?'
+p1389
+tp1390
+Rp1391
+tp1392
+a(S'izhar ashdot'
+p1393
+g2
+(g6
+S'\x81W?\xdaz1\xcf?'
+p1394
+tp1395
+Rp1396
+tp1397
+a(S'j\xc3\xb3zsef asb\xc3\xb3th'
+p1398
+g2
+(g6
+S'~\x9d\x93\x8b\xf9\x13\xcf?'
+p1399
+tp1400
+Rp1401
+tp1402
+a(S'marie toomey'
+p1403
+g2
+(g6
+S"\x9a\x8b\xf2~'\x10\xcf?"
+p1404
+tp1405
+Rp1406
+tp1407
+a(S'1913 five nations championship'
+p1408
+g2
+(g6
+S'\x8d\x0f\xecP\x90\xe9\xce?'
+p1409
+tp1410
+Rp1411
+tp1412
+a(S'supersonic low altitude missile'
+p1413
+g2
+(g6
+S'\xceU\xac\xd7\xf0\xe3\xce?'
+p1414
+tp1415
+Rp1416
+tp1417
+a(S'2003 wimbledon championships'
+p1418
+g2
+(g6
+S')\xb4\xb4\xfb\x1f\xdf\xce?'
+p1419
+tp1420
+Rp1421
+tp1422
+a(S'youth speaks hawaii'
+p1423
+g2
+(g6
+S'R\x87\x01\x94\x85\xc8\xce?'
+p1424
+tp1425
+Rp1426
+tp1427
+a(S'kurt nielsen'
+p1428
+g2
+(g6
+S'h\x1eG\xf0\xf6\xc3\xce?'
+p1429
+tp1430
+Rp1431
+tp1432
+a(S'hugo armando'
+p1433
+g2
+(g6
+S'\xb8\xc6\x90\xd3D\xbb\xce?'
+p1434
+tp1435
+Rp1436
+tp1437
+a(S'intrinsic localization'
+p1438
+g2
+(g6
+S'd\xe2\xee\xd5\xe2\xb8\xce?'
+p1439
+tp1440
+Rp1441
+tp1442
+a(S'quentin halys'
+p1443
+g2
+(g6
+S'\xb2?2\xd2|\xb5\xce?'
+p1444
+tp1445
+Rp1446
+tp1447
+a(S'moerani bouzige'
+p1448
+g2
+(g6
+S'x\xfb\x85\xd7\x88\x8f\xce?'
+p1449
+tp1450
+Rp1451
+tp1452
+a(S'slam tilt'
+p1453
+g2
+(g6
+S'\xc8e\x8b\xa4\x10\x86\xce?'
+p1454
+tp1455
+Rp1456
+tp1457
+a(S'2003 french open'
+p1458
+g2
+(g6
+S'*\xab\xb5\xe7[|\xce?'
+p1459
+tp1460
+Rp1461
+tp1462
+a(S'1997 wimbledon championships'
+p1463
+g2
+(g6
+S'\x84)H\xbb\r|\xce?'
+p1464
+tp1465
+Rp1466
+tp1467
+a(S'port hawkesbury civic centre'
+p1468
+g2
+(g6
+S'\x9f\x14\xcd\xe2\x8dx\xce?'
+p1469
+tp1470
+Rp1471
+tp1472
+a(S'exploration problem'
+p1473
+g2
+(g6
+S'\x83~\xdd\x8f\xd1]\xce?'
+p1474
+tp1475
+Rp1476
+tp1477
+a(S'saturday night slam masters'
+p1478
+g2
+(g6
+S'\x14\xc6\xaf\x0f:N\xce?'
+p1479
+tp1480
+Rp1481
+tp1482
+a(S'invisibl skratch piklz'
+p1483
+g2
+(g6
+S'\xd6\xbf2\x89-D\xce?'
+p1484
+tp1485
+Rp1486
+tp1487
+a(S'margaret scriven'
+p1488
+g2
+(g6
+S'\xf1\xd3O\xbd\xf5>\xce?'
+p1489
+tp1490
+Rp1491
+tp1492
+a(S'wwe slam city'
+p1493
+g2
+(g6
+S'_g\x11D)0\xce?'
+p1494
+tp1495
+Rp1496
+tp1497
+a(S'1980 french open'
+p1498
+g2
+(g6
+S'\xd4\xaev\xbc\xec+\xce?'
+p1499
+tp1500
+Rp1501
+tp1502
+a(S'2000 french open'
+p1503
+g2
+(g6
+S'\xfe\xf5\xa5\xec\xc6 \xce?'
+p1504
+tp1505
+Rp1506
+tp1507
+a(S'maria (masha) gordon'
+p1508
+g2
+(g6
+S'\xb9g\x16\xedk\x1c\xce?'
+p1509
+tp1510
+Rp1511
+tp1512
+a.

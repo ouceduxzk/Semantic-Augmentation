@@ -1,0 +1,2728 @@
+(lp0
+(S'market manipulation'
+p1
+cnumpy.core.multiarray
+scalar
+p2
+(cnumpy
+dtype
+p3
+(S'f8'
+p4
+I0
+I1
+tp5
+Rp6
+(I3
+S'<'
+p7
+NNNI-1
+I-1
+I0
+tp8
+bS'\xf3\xff\xff\xff\xff\xff\xef?'
+p9
+tp10
+Rp11
+tp12
+a(S'stock'
+p13
+g2
+(g6
+S'\xcd\r\x00\x1fa\x83\xe1?'
+p14
+tp15
+Rp16
+tp17
+a(S'theoretical ex-rights price'
+p18
+g2
+(g6
+S'\xe7\xb9\x0b\xd2\x11\x0b\xe1?'
+p19
+tp20
+Rp21
+tp22
+a(S'share price'
+p23
+g2
+(g6
+S'tX\xd4\xa9l\xb4\xe0?'
+p24
+tp25
+Rp26
+tp27
+a(S'stock market'
+p28
+g2
+(g6
+S'\xc2H\xc1;\x9aI\xe0?'
+p29
+tp30
+Rp31
+tp32
+a(S'stock split'
+p33
+g2
+(g6
+S'\x91\xabn^\xe3D\xdf?'
+p34
+tp35
+Rp36
+tp37
+a(S'pump and dump'
+p38
+g2
+(g6
+S'\xde#F\xcf\x98C\xde?'
+p39
+tp40
+Rp41
+tp42
+a(S'market impact'
+p43
+g2
+(g6
+S'r\xb0\xe8,%&\xde?'
+p44
+tp45
+Rp46
+tp47
+a(S'order (exchange)'
+p48
+g2
+(g6
+S'dJ\x1f9\xf4\xbd\xdd?'
+p49
+tp50
+Rp51
+tp52
+a(S'ask price'
+p53
+g2
+(g6
+S'\xd2\x90\x07\xa7-m\xdd?'
+p54
+tp55
+Rp56
+tp57
+a(S'stock promoter'
+p58
+g2
+(g6
+S'\xc3{\\\x1f\t\x04\xdd?'
+p59
+tp60
+Rp61
+tp62
+a(S'layering (finance)'
+p63
+g2
+(g6
+S'\xdc\x19U\n\x0b\xb1\xdc?'
+p64
+tp65
+Rp66
+tp67
+a(S'stock trader'
+p68
+g2
+(g6
+S'.5\xccD\xaf\x87\xdc?'
+p69
+tp70
+Rp71
+tp72
+a(S'price (surname)'
+p73
+g2
+(g6
+S'\xd9\xf6I\x1a\xabl\xdc?'
+p74
+tp75
+Rp76
+tp77
+a(S'popular science predictions exchange'
+p78
+g2
+(g6
+S'\x1cD}\x89\xd8\x14\xdc?'
+p79
+tp80
+Rp81
+tp82
+a(S'day trading'
+p83
+g2
+(g6
+S'\xe8eN\x11\x1d\xf0\xdb?'
+p84
+tp85
+Rp86
+tp87
+a(S'price discovery'
+p88
+g2
+(g6
+S'\x9d\x13 W\x06\xee\xdb?'
+p89
+tp90
+Rp91
+tp92
+a(S'stock exchange'
+p93
+g2
+(g6
+S'm\x03\xad\xf4w\xea\xdb?'
+p94
+tp95
+Rp96
+tp97
+a(S'mid price'
+p98
+g2
+(g6
+S'\x0e\x85+\\;\xdc\xdb?'
+p99
+tp100
+Rp101
+tp102
+a(S'bear raid'
+p103
+g2
+(g6
+S'\xde^\xd87\x03\xb9\xdb?'
+p104
+tp105
+Rp106
+tp107
+a(S'microcap stock fraud'
+p108
+g2
+(g6
+S"\xa6'\xb57s\x9a\xdb?"
+p109
+tp110
+Rp111
+tp112
+a(S'implementation shortfall'
+p113
+g2
+(g6
+S'h\xad\x9d,_-\xdb?'
+p114
+tp115
+Rp116
+tp117
+a(S'normal backwardation'
+p118
+g2
+(g6
+S'0\xc6\x99\x0f\xaf\x14\xdb?'
+p119
+tp120
+Rp121
+tp122
+a(S'short (finance)'
+p123
+g2
+(g6
+S'\xea\xfd\xb5\xa8T\n\xdb?'
+p124
+tp125
+Rp126
+tp127
+a(S'price (disambiguation)'
+p128
+g2
+(g6
+S'\x8a\xafE\\\xdc\x05\xdb?'
+p129
+tp130
+Rp131
+tp132
+a(S'share repurchase'
+p133
+g2
+(g6
+S"\x87\xca\x8b'\x01\xd9\xda?"
+p134
+tp135
+Rp136
+tp137
+a(S'market maker'
+p138
+g2
+(g6
+S'(W\x88 "\x9d\xda?'
+p139
+tp140
+Rp141
+tp142
+a(S'the price'
+p143
+g2
+(g6
+S'\x979T%\xfc\x96\xda?'
+p144
+tp145
+Rp146
+tp147
+a(S'bid price'
+p148
+g2
+(g6
+S'\xd9p)\x07\x82M\xda?'
+p149
+tp150
+Rp151
+tp152
+a(S'price point'
+p153
+g2
+(g6
+S'\xd5m\xfe\n\x82\x14\xda?'
+p154
+tp155
+Rp156
+tp157
+a(S'stock dilution'
+p158
+g2
+(g6
+S'\x90\xba\xf2\xc6\xcc\xbf\xd9?'
+p159
+tp160
+Rp161
+tp162
+a(S'book building'
+p163
+g2
+(g6
+S'\xaa}N\x19\xe8\xa3\xd9?'
+p164
+tp165
+Rp166
+tp167
+a(S'short and distort'
+p168
+g2
+(g6
+S'\x8c\x0eY\x85@\xa1\xd9?'
+p169
+tp170
+Rp171
+tp172
+a(S'market price'
+p173
+g2
+(g6
+S'\t\xc4\xbf\x98`\x93\xd9?'
+p174
+tp175
+Rp176
+tp177
+a(S'price-based selling'
+p178
+g2
+(g6
+S'O]0\xe3\xcd\x8e\xd9?'
+p179
+tp180
+Rp181
+tp182
+a(S'shadow stock'
+p183
+g2
+(g6
+S'\x98.\xc1\x08\x85\x7f\xd9?'
+p184
+tp185
+Rp186
+tp187
+a(S'price mechanism'
+p188
+g2
+(g6
+S'7\x1d\x85\x0f\x87_\xd9?'
+p189
+tp190
+Rp191
+tp192
+a(S'john price'
+p193
+g2
+(g6
+S'N\x177\xfe\x8b\x1b\xd9?'
+p194
+tp195
+Rp196
+tp197
+a(S'two for the price of one'
+p198
+g2
+(g6
+S'\x9cG\xcc\xae_\xe9\xd8?'
+p199
+tp200
+Rp201
+tp202
+a(S'william price (merchant)'
+p203
+g2
+(g6
+S'9@U\x9b\xe4\xd8\xd8?'
+p204
+tp205
+Rp206
+tp207
+a(S'strike price'
+p208
+g2
+(g6
+S'\xa3\xd0\xfb\x0c\x97\xc3\xd8?'
+p209
+tp210
+Rp211
+tp212
+a(S'price premium'
+p213
+g2
+(g6
+S'\x11\xd0\xf4{\xd5\xac\xd8?'
+p214
+tp215
+Rp216
+tp217
+a(S'vincent price'
+p218
+g2
+(g6
+S'\xca\xe2)\x08\xbc\xaa\xd8?'
+p219
+tp220
+Rp221
+tp222
+a(S'john wiley price'
+p223
+g2
+(g6
+S'\\\x0b:\xb6{\xaa\xd8?'
+p224
+tp225
+Rp226
+tp227
+a(S'price floor'
+p228
+g2
+(g6
+S'\xcc7\x8eJ\x7fn\xd8?'
+p229
+tp230
+Rp231
+tp232
+a(S'equity trading'
+p233
+g2
+(g6
+S'rO~5Vj\xd8?'
+p234
+tp235
+Rp236
+tp237
+a(S'short-term trading'
+p238
+g2
+(g6
+S'?\x8a\x9f\x1e\xe4`\xd8?'
+p239
+tp240
+Rp241
+tp242
+a(S'volume-weighted average price'
+p243
+g2
+(g6
+S'M^\xa2J\xd4_\xd8?'
+p244
+tp245
+Rp246
+tp247
+a(S'buffer stock scheme'
+p248
+g2
+(g6
+S'\x1d\xec\xb1\x1a7\x1f\xd8?'
+p249
+tp250
+Rp251
+tp252
+a(S'financial quote'
+p253
+g2
+(g6
+S'[\x86\xee\x8aZ\x0f\xd8?'
+p254
+tp255
+Rp256
+tp257
+a(S'treasury stock'
+p258
+g2
+(g6
+S'\x1f\xfb\xf8\xaf\x01\x01\xd8?'
+p259
+tp260
+Rp261
+tp262
+a(S'price war'
+p263
+g2
+(g6
+S'zl`\x9a?\xf0\xd7?'
+p264
+tp265
+Rp266
+tp267
+a(S'call option'
+p268
+g2
+(g6
+S'\x81&6\x00&\xe9\xd7?'
+p269
+tp270
+Rp271
+tp272
+a(S'french auction'
+p273
+g2
+(g6
+S'\xda\x04\xb7\x1c\xc3\xe5\xd7?'
+p274
+tp275
+Rp276
+tp277
+a(S'law of one price'
+p278
+g2
+(g6
+S'9\xfb\xc5G\x98\xde\xd7?'
+p279
+tp280
+Rp281
+tp282
+a(S'stock market crash'
+p283
+g2
+(g6
+S'\x7f\xe9\xb4\xabg\xce\xd7?'
+p284
+tp285
+Rp286
+tp287
+a(S'william price'
+p288
+g2
+(g6
+S'\xf9,\xc4\xb1\xf7\xcb\xd7?'
+p289
+tp290
+Rp291
+tp292
+a(S'covered call'
+p293
+g2
+(g6
+S'+\xe8v\xa0]\xcb\xd7?'
+p294
+tp295
+Rp296
+tp297
+a(S'securities fraud'
+p298
+g2
+(g6
+S'k<\xbe\x86\xbe\xc2\xd7?'
+p299
+tp300
+Rp301
+tp302
+a(S'public company'
+p303
+g2
+(g6
+S'\xd8G\xa7\xb9\n\xc2\xd7?'
+p304
+tp305
+Rp306
+tp307
+a(S'nicolas darvas'
+p308
+g2
+(g6
+S'\xb6\x19R\x93i\x94\xd7?'
+p309
+tp310
+Rp311
+tp312
+a(S'algorithmic trading'
+p313
+g2
+(g6
+S'Y\xe3&N\xcd\x8f\xd7?'
+p314
+tp315
+Rp316
+tp317
+a(S'stock forecast'
+p318
+g2
+(g6
+S"\t\x8e\xc1'7|\xd7?"
+p319
+tp320
+Rp321
+tp322
+a(S'invoice price'
+p323
+g2
+(g6
+S'q\xcc\xd7\xb1\xcby\xd7?'
+p324
+tp325
+Rp326
+tp327
+a(S'stock selection criterion'
+p328
+g2
+(g6
+S'Z\xa6\xb2\xfb\x7f\\\xd7?'
+p329
+tp330
+Rp331
+tp332
+a(S'david price'
+p333
+g2
+(g6
+S'\xf6i\x00\xd8!D\xd7?'
+p334
+tp335
+Rp336
+tp337
+a(S'price'
+p338
+g2
+(g6
+S'\xa9\xfb\x89\xa8\xc5=\xd7?'
+p339
+tp340
+Rp341
+tp342
+a(S'reverse stock split'
+p343
+g2
+(g6
+S'^@!\xbds<\xd7?'
+p344
+tp345
+Rp346
+tp347
+a(S'james price'
+p348
+g2
+(g6
+S'\xa3y\xf7>U.\xd7?'
+p349
+tp350
+Rp351
+tp352
+a(S'accumulator (structured product)'
+p353
+g2
+(g6
+S'<l\x0c\xa8\xff+\xd7?'
+p354
+tp355
+Rp356
+tp357
+a(S'robert price'
+p358
+g2
+(g6
+S'\xbe\x93\xc0\xdeD(\xd7?'
+p359
+tp360
+Rp361
+tp362
+a(S'richard price'
+p363
+g2
+(g6
+S'H\xd8Ea\xd5\t\xd7?'
+p364
+tp365
+Rp366
+tp367
+a(S'edward price'
+p368
+g2
+(g6
+S'!5\xeb\xad\x14\xff\xd6?'
+p369
+tp370
+Rp371
+tp372
+a(S'volume (finance)'
+p373
+g2
+(g6
+S'\x81\x01\x19@\x13\xec\xd6?'
+p374
+tp375
+Rp376
+tp377
+a(S'thomas price'
+p378
+g2
+(g6
+S'\xc6V\x9a=\xc1\xe5\xd6?'
+p379
+tp380
+Rp381
+tp382
+a(S'penny stock'
+p383
+g2
+(g6
+S'\x0f\x86\x08\t^\xe2\xd6?'
+p384
+tp385
+Rp386
+tp387
+a(S'death spiral financing'
+p388
+g2
+(g6
+S';\xa8fa\x16\xad\xd6?'
+p389
+tp390
+Rp391
+tp392
+a(S'stock exchange of thailand'
+p393
+g2
+(g6
+S'\x89:K\x1aQ\x9c\xd6?'
+p394
+tp395
+Rp396
+tp397
+a(S'stock market prediction'
+p398
+g2
+(g6
+S'\xfb3|\xfeM\x9a\xd6?'
+p399
+tp400
+Rp401
+tp402
+a(S'stock option return'
+p403
+g2
+(g6
+S"<g?\x0f'\x91\xd6?"
+p404
+tp405
+Rp406
+tp407
+a(S'real prices and ideal prices'
+p408
+g2
+(g6
+S'\x97\x9b \xa0f\x7f\xd6?'
+p409
+tp410
+Rp411
+tp412
+a(S'michael price'
+p413
+g2
+(g6
+S'B\xa5\xe7:\xd5w\xd6?'
+p414
+tp415
+Rp416
+tp417
+a(S'capt. price'
+p418
+g2
+(g6
+S'\x9d\xfb\xd8]\xc5_\xd6?'
+p419
+tp420
+Rp421
+tp422
+a(S'bob price (texas politician)'
+p423
+g2
+(g6
+S'Ik>/iP\xd6?'
+p424
+tp425
+Rp426
+tp427
+a(S'ray price (musician)'
+p428
+g2
+(g6
+S'q\xed\xc9\xa9\x0eN\xd6?'
+p429
+tp430
+Rp431
+tp432
+a(S'price book'
+p433
+g2
+(g6
+S'3)\x08L\xdbG\xd6?'
+p434
+tp435
+Rp436
+tp437
+a(S'rights issue'
+p438
+g2
+(g6
+S'\\\x92$\x00+1\xd6?'
+p439
+tp440
+Rp441
+tp442
+a(S'price discrimination'
+p443
+g2
+(g6
+S'E\xbe\x88\xf9\xd8&\xd6?'
+p444
+tp445
+Rp446
+tp447
+a(S'henry price'
+p448
+g2
+(g6
+S'\x12}\xf7\xe8\x10$\xd6?'
+p449
+tp450
+Rp451
+tp452
+a(S'stock market simulator'
+p453
+g2
+(g6
+S'U\xce\x9f\xcd\x0f#\xd6?'
+p454
+tp455
+Rp456
+tp457
+a(S'david price (u.s. politician)'
+p458
+g2
+(g6
+S'\x97[\x84\xae\x01\x1a\xd6?'
+p459
+tp460
+Rp461
+tp462
+a(S'pfts ukraine stock exchange'
+p463
+g2
+(g6
+S'\x1b`H4\xe7\x10\xd6?'
+p464
+tp465
+Rp466
+tp467
+a(S'fraud-on-the-market theory'
+p468
+g2
+(g6
+S'\xd2\xb5\xd1\x0e\x9e\x0f\xd6?'
+p469
+tp470
+Rp471
+tp472
+a(S'nzr a class (1906)'
+p473
+g2
+(g6
+S'\x0c\xa6Zp\x98\x06\xd6?'
+p474
+tp475
+Rp476
+tp477
+a(S'stock (surname)'
+p478
+g2
+(g6
+S'\xdf!\xbcpi\x01\xd6?'
+p479
+tp480
+Rp481
+tp482
+a(S'stock exchanges of small economies'
+p483
+g2
+(g6
+S'Z\xc2\x9dfS\xff\xd5?'
+p484
+tp485
+Rp486
+tp487
+a(S'collar (finance)'
+p488
+g2
+(g6
+S'q-\xa5\xbd\xf8\xed\xd5?'
+p489
+tp490
+Rp491
+tp492
+a(S'robert price (attorney)'
+p493
+g2
+(g6
+S'\x9f\x84\x8d/\x95\xe1\xd5?'
+p494
+tp495
+Rp496
+tp497
+a(S'price ceiling'
+p498
+g2
+(g6
+S'\x84\x16f\xa3i\xe0\xd5?'
+p499
+tp500
+Rp501
+tp502
+a(S'tom price (u.s. politician)'
+p503
+g2
+(g6
+S'\x11\xcb"\xbf=\xe0\xd5?'
+p504
+tp505
+Rp506
+tp507
+a(S'reynolds price'
+p508
+g2
+(g6
+S'9\xbdu\xc9t\xdd\xd5?'
+p509
+tp510
+Rp511
+tp512
+a(S'london underground h stock'
+p513
+g2
+(g6
+S'\x94\xfe*J\xd6\xd6\xd5?'
+p514
+tp515
+Rp516
+tp517
+a(S'stop price'
+p518
+g2
+(g6
+S't$\x9e}\xf5\xc6\xd5?'
+p519
+tp520
+Rp521
+tp522
+a(S'technical analysis'
+p523
+g2
+(g6
+S'\xf7\xe5v\x7f\x17\xc1\xd5?'
+p524
+tp525
+Rp526
+tp527
+a(S'common stock'
+p528
+g2
+(g6
+S'\xb4\xc1\xa5\x12\xe9\xb9\xd5?'
+p529
+tp530
+Rp531
+tp532
+a(S'mark price (disambiguation)'
+p533
+g2
+(g6
+S'\xe7x\xba\xc7\x87\xb6\xd5?'
+p534
+tp535
+Rp536
+tp537
+a(S'price adjustment (retail)'
+p538
+g2
+(g6
+S'x@\x1f\xb5\xbe\xa8\xd5?'
+p539
+tp540
+Rp541
+tp542
+a(S'price fixing'
+p543
+g2
+(g6
+S'\xa8\x87\xe0\x0bc\x8b\xd5?'
+p544
+tp545
+Rp546
+tp547
+a(S'2010 flash crash'
+p548
+g2
+(g6
+S'H%\x94s\x1e\x89\xd5?'
+p549
+tp550
+Rp551
+tp552
+a(S'charles price'
+p553
+g2
+(g6
+S'6\x97\x13\rF\x83\xd5?'
+p554
+tp555
+Rp556
+tp557
+a(S'mean reversion (finance)'
+p558
+g2
+(g6
+S'\xb3L\xb5\xe2\xb8\x80\xd5?'
+p559
+tp560
+Rp561
+tp562
+a(S'slippage (finance)'
+p563
+g2
+(g6
+S'\xaej\x1cO\x9c\x80\xd5?'
+p564
+tp565
+Rp566
+tp567
+a(S'price band'
+p568
+g2
+(g6
+S'"L\xe6\xea[|\xd5?'
+p569
+tp570
+Rp571
+tp572
+a(S'steve price'
+p573
+g2
+(g6
+S'x\xd7i^\x01r\xd5?'
+p574
+tp575
+Rp576
+tp577
+a(S'list price'
+p578
+g2
+(g6
+S'@\x8b\xa2fVk\xd5?'
+p579
+tp580
+Rp581
+tp582
+a(S'panic selling'
+p583
+g2
+(g6
+S'\xce=\xf6H/`\xd5?'
+p584
+tp585
+Rp586
+tp587
+a(S'overcharge'
+p588
+g2
+(g6
+S'\xf7\xe2\xbf\xc6\x0b\\\xd5?'
+p589
+tp590
+Rp591
+tp592
+a(S'stock (disambiguation)'
+p593
+g2
+(g6
+S'\xea\xa5\x89K\xf0V\xd5?'
+p594
+tp595
+Rp596
+tp597
+a(S'bill price'
+p598
+g2
+(g6
+S'\xcd\x8f\xf4D\xd9N\xd5?'
+p599
+tp600
+Rp601
+tp602
+a(S'mazocraeidae'
+p603
+g2
+(g6
+S'\x88\r\xc8\xc6wG\xd5?'
+p604
+tp605
+Rp606
+tp607
+a(S'all share price index'
+p608
+g2
+(g6
+S'n\x89e\xda\xcc0\xd5?'
+p609
+tp610
+Rp611
+tp612
+a(S'price-weighted index'
+p613
+g2
+(g6
+S'\xd9\x12\xbbwI.\xd5?'
+p614
+tp615
+Rp616
+tp617
+a(S'price skimming'
+p618
+g2
+(g6
+S'\x16\xd4d\x1c\xe6-\xd5?'
+p619
+tp620
+Rp621
+tp622
+a(S'katie price'
+p623
+g2
+(g6
+S'\xbd\xf3\x1aao,\xd5?'
+p624
+tp625
+Rp626
+tp627
+a(S'option (finance)'
+p628
+g2
+(g6
+S']\xf1C\x8d-*\xd5?'
+p629
+tp630
+Rp631
+tp632
+a(S'hickman price'
+p633
+g2
+(g6
+S'\xd4\x86_0\xa7"\xd5?'
+p634
+tp635
+Rp636
+tp637
+a(S'henry strong price'
+p638
+g2
+(g6
+S'S(\xc3K! \xd5?'
+p639
+tp640
+Rp641
+tp642
+a(S'market trend'
+p643
+g2
+(g6
+S'5b\x83\xe8,\x1b\xd5?'
+p644
+tp645
+Rp646
+tp647
+a(S'price baronets'
+p648
+g2
+(g6
+S' S\xb3\xc7\x14\x19\xd5?'
+p649
+tp650
+Rp651
+tp652
+a(S'stock market education'
+p653
+g2
+(g6
+S'\x8bfz\xdav\x17\xd5?'
+p654
+tp655
+Rp656
+tp657
+a(S'low exercise price option'
+p658
+g2
+(g6
+S'\x04IL\xbd\xa3\x16\xd5?'
+p659
+tp660
+Rp661
+tp662
+a(S'captain price'
+p663
+g2
+(g6
+S'R\xa9\xabX\xcc\x0f\xd5?'
+p664
+tp665
+Rp666
+tp667
+a(S'front running'
+p668
+g2
+(g6
+S'S*Mhf\t\xd5?'
+p669
+tp670
+Rp671
+tp672
+a(S'kagi chart'
+p673
+g2
+(g6
+S'`\x95\xc37\xe3\x00\xd5?'
+p674
+tp675
+Rp676
+tp677
+a(S'naked call'
+p678
+g2
+(g6
+S'\xc3/fA{\xf7\xd4?'
+p679
+tp680
+Rp681
+tp682
+a(S'kenneth price'
+p683
+g2
+(g6
+S'b\xda[t\xaa\xf3\xd4?'
+p684
+tp685
+Rp686
+tp687
+a(S'price on application'
+p688
+g2
+(g6
+S'/.\xd1`h\xf3\xd4?'
+p689
+tp690
+Rp691
+tp692
+a(S'contango'
+p693
+g2
+(g6
+S'\x8d\xc6\x012\xa8\xec\xd4?'
+p694
+tp695
+Rp696
+tp697
+a(S'competitor indexing'
+p698
+g2
+(g6
+S'TQ^\n\xef\xe6\xd4?'
+p699
+tp700
+Rp701
+tp702
+a(S'george price'
+p703
+g2
+(g6
+S'\xbfz "D\xde\xd4?'
+p704
+tp705
+Rp706
+tp707
+a(S'small but significant and non-transitory increase in price'
+p708
+g2
+(g6
+S'\xe2 \xfe\xb5I\xc1\xd4?'
+p709
+tp710
+Rp711
+tp712
+a(S'price controls'
+p713
+g2
+(g6
+S'D[\x04\x8e_\xc0\xd4?'
+p714
+tp715
+Rp716
+tp717
+a(S'concentrated stock'
+p718
+g2
+(g6
+S'\xbe\xbflki\xbe\xd4?'
+p719
+tp720
+Rp721
+tp722
+a(S'secondary market'
+p723
+g2
+(g6
+S'x\xb1\x86j{\xb7\xd4?'
+p724
+tp725
+Rp726
+tp727
+a(S'corallovexiidae'
+p728
+g2
+(g6
+S'D\xd99\x01\x10\xb7\xd4?'
+p729
+tp730
+Rp731
+tp732
+a(S'harry price'
+p733
+g2
+(g6
+S'n\x7fE8\xbe\xb5\xd4?'
+p734
+tp735
+Rp736
+tp737
+a(S'peter price'
+p738
+g2
+(g6
+S'\xf7\x1f\x0e\xed\xb6\xaa\xd4?'
+p739
+tp740
+Rp741
+tp742
+a(S'dick price'
+p743
+g2
+(g6
+S'GoaoR\xa9\xd4?'
+p744
+tp745
+Rp746
+tp747
+a(S'greenshoe'
+p748
+g2
+(g6
+S'#\xb3\x9c\x81\x03\xa5\xd4?'
+p749
+tp750
+Rp751
+tp752
+a(S'price (given name)'
+p753
+g2
+(g6
+S'\x9cv\xb1\xe5\xc2\x9d\xd4?'
+p754
+tp755
+Rp756
+tp757
+a(S'securities market'
+p758
+g2
+(g6
+S'w\x91\x1f\xce\x14\x92\xd4?'
+p759
+tp760
+Rp761
+tp762
+a(S'the price is right (disambiguation)'
+p763
+g2
+(g6
+S'\xde\xf5]\xdd\x1b}\xd4?'
+p764
+tp765
+Rp766
+tp767
+a(S'margaret price (disambiguation)'
+p768
+g2
+(g6
+S'\x0b\x98X4\xe5{\xd4?'
+p769
+tp770
+Rp771
+tp772
+a(S'can slim'
+p773
+g2
+(g6
+S'\xce\x9a\x16\x1eNz\xd4?'
+p774
+tp775
+Rp776
+tp777
+a(S'nick price (disambiguation)'
+p778
+g2
+(g6
+S'&$\xc1m\xb3x\xd4?'
+p779
+tp780
+Rp781
+tp782
+a(S'price support'
+p783
+g2
+(g6
+S'\x9dq\xd9\x99st\xd4?'
+p784
+tp785
+Rp786
+tp787
+a(S'chengzhi co., ltd'
+p788
+g2
+(g6
+S'p\xc1\x02\x97hm\xd4?'
+p789
+tp790
+Rp791
+tp792
+a(S'list of works by stuart price'
+p793
+g2
+(g6
+S'\xbf\xb1\xca\xb6\x85l\xd4?'
+p794
+tp795
+Rp796
+tp797
+a(S'santiago stock exchange'
+p798
+g2
+(g6
+S'x\x84\xd7\xb7\xdck\xd4?'
+p799
+tp800
+Rp801
+tp802
+a(S'time-weighted average price'
+p803
+g2
+(g6
+S'\xd0\xf0\xd6\xcb\x0fk\xd4?'
+p804
+tp805
+Rp806
+tp807
+a(S'trading curb'
+p808
+g2
+(g6
+S'\xa1\xdc1G\xf7g\xd4?'
+p809
+tp810
+Rp811
+tp812
+a(S'richard price (disambiguation)'
+p813
+g2
+(g6
+S'\xe8m\xb9q\xf2b\xd4?'
+p814
+tp815
+Rp816
+tp817
+a(S'cecil price'
+p818
+g2
+(g6
+S'\xdb\xbfv3iZ\xd4?'
+p819
+tp820
+Rp821
+tp822
+a(S'benjamin price'
+p823
+g2
+(g6
+S'R\xac\x89\xa6\x03Z\xd4?'
+p824
+tp825
+Rp826
+tp827
+a(S'phil price (sculptor)'
+p828
+g2
+(g6
+S'\x83s\x8c\x9f\x85R\xd4?'
+p829
+tp830
+Rp831
+tp832
+a(S'philip price'
+p833
+g2
+(g6
+S'O1\xfb\xccHO\xd4?'
+p834
+tp835
+Rp836
+tp837
+a(S'amsterdam stock exchange'
+p838
+g2
+(g6
+S'\x94\\\x0e\xde\x91C\xd4?'
+p839
+tp840
+Rp841
+tp842
+a(S'order matching system'
+p843
+g2
+(g6
+S'H7\xe9\xe2\x92>\xd4?'
+p844
+tp845
+Rp846
+tp847
+a(S'uptick rule'
+p848
+g2
+(g6
+S'\xb7M`\x91\xa4<\xd4?'
+p849
+tp850
+Rp851
+tp852
+a(S'unit price'
+p853
+g2
+(g6
+S'\xd8d\x01\x15j3\xd4?'
+p854
+tp855
+Rp856
+tp857
+a(S'sterling price'
+p858
+g2
+(g6
+S'\x01\xcdV\x1a\xe6+\xd4?'
+p859
+tp860
+Rp861
+tp862
+a(S'stock market data systems'
+p863
+g2
+(g6
+S"q'\xca\x1b\x96*\xd4?"
+p864
+tp865
+Rp866
+tp867
+a(S'primary market'
+p868
+g2
+(g6
+S"\x1f\xafhs`'\xd4?"
+p869
+tp870
+Rp871
+tp872
+a(S'price lake (whatcom county, washington)'
+p873
+g2
+(g6
+S'\x85\x1c\x0f\x06\xf8"\xd4?'
+p874
+tp875
+Rp876
+tp877
+a(S'tom price'
+p878
+g2
+(g6
+S'\xa6[4\x9c7!\xd4?'
+p879
+tp880
+Rp881
+tp882
+a(S'hybrid security'
+p883
+g2
+(g6
+S'\xa2\xfdy\x15S\x1c\xd4?'
+p884
+tp885
+Rp886
+tp887
+a(S'american solar challenge 2001'
+p888
+g2
+(g6
+S'\xc8e\xc4\x98E\x1b\xd4?'
+p889
+tp890
+Rp891
+tp892
+a(S'market depth'
+p893
+g2
+(g6
+S'y\xed(`1\x15\xd4?'
+p894
+tp895
+Rp896
+tp897
+a(S'ernest price'
+p898
+g2
+(g6
+S'\xbc\xfe\xf9 \xa6\x0f\xd4?'
+p899
+tp900
+Rp901
+tp902
+a(S'scalping (trading)'
+p903
+g2
+(g6
+S'cx\xa3\xf7\x93\x0f\xd4?'
+p904
+tp905
+Rp906
+tp907
+a(S'the price of love (disambiguation)'
+p908
+g2
+(g6
+S'q\xde\xde\x911\x0e\xd4?'
+p909
+tp910
+Rp911
+tp912
+a(S'credit spread (options)'
+p913
+g2
+(g6
+S'u\x95I,\xc9\t\xd4?'
+p914
+tp915
+Rp916
+tp917
+a(S'cellophane paradox'
+p918
+g2
+(g6
+S'\xe0-\xc8\x90.\x04\xd4?'
+p919
+tp920
+Rp921
+tp922
+a(S'thomas price (south australian politician)'
+p923
+g2
+(g6
+S'd:t\xb2\xac\xfa\xd3?'
+p924
+tp925
+Rp926
+tp927
+a(S'reverse convertible securities'
+p928
+g2
+(g6
+S'7\r\r0a\xf9\xd3?'
+p929
+tp930
+Rp931
+tp932
+a(S'alan price'
+p933
+g2
+(g6
+S'\xc5-I\xaf\xd6\xf8\xd3?'
+p934
+tp935
+Rp936
+tp937
+a(S'stock option expensing'
+p938
+g2
+(g6
+S'\xe3\x98\xe8\x93\x10\xf3\xd3?'
+p939
+tp940
+Rp941
+tp942
+a(S'non-price competition'
+p943
+g2
+(g6
+S'\xd9n\xa2n\x7f\xea\xd3?'
+p944
+tp945
+Rp946
+tp947
+a(S'four price'
+p948
+g2
+(g6
+S'\xa4\x14|e\xf4\xe1\xd3?'
+p949
+tp950
+Rp951
+tp952
+a(S'initial public offering'
+p953
+g2
+(g6
+S'\x19J\xd1\xd4\x8b\xd3\xd3?'
+p954
+tp955
+Rp956
+tp957
+a(S'ljubljana stock exchange'
+p958
+g2
+(g6
+S'\xa1\xb8)\xf0\x94\xc8\xd3?'
+p959
+tp960
+Rp961
+tp962
+a(S'price hill'
+p963
+g2
+(g6
+S'\xa8\xa2N\xe5+\xc1\xd3?'
+p964
+tp965
+Rp966
+tp967
+a(S'buying in (securities)'
+p968
+g2
+(g6
+S'\x96\x8c\xb4\x0b\x83\xb4\xd3?'
+p969
+tp970
+Rp971
+tp972
+a(S'constant dollar plan'
+p973
+g2
+(g6
+S'\xac]N\xe3\xf3\xac\xd3?'
+p974
+tp975
+Rp976
+tp977
+a(S'stock generation'
+p978
+g2
+(g6
+S'm\xb9\x8aM.\xa3\xd3?'
+p979
+tp980
+Rp981
+tp982
+a(S'algiers stock exchange'
+p983
+g2
+(g6
+S'\xc3\xb80\x95\xa3\x9e\xd3?'
+p984
+tp985
+Rp986
+tp987
+a(S'relative price'
+p988
+g2
+(g6
+S'\x1a,\x164\xfe\x9b\xd3?'
+p989
+tp990
+Rp991
+tp992
+a(S'restricted stock'
+p993
+g2
+(g6
+S'\x15\xd0\xc3\x1e\xca\x9a\xd3?'
+p994
+tp995
+Rp996
+tp997
+a(S'lastminute.com'
+p998
+g2
+(g6
+S'\xebG\xa8*i\x9a\xd3?'
+p999
+tp1000
+Rp1001
+tp1002
+a(S'market capitalization'
+p1003
+g2
+(g6
+S'C\x88\xc2\xddp\x99\xd3?'
+p1004
+tp1005
+Rp1006
+tp1007
+a(S'electricity price area'
+p1008
+g2
+(g6
+S'y(\xd8\xf8\xf2\x97\xd3?'
+p1009
+tp1010
+Rp1011
+tp1012
+a(S'london underground m and n stock'
+p1013
+g2
+(g6
+S'\x06\x03.\xf3\x0f\x91\xd3?'
+p1014
+tp1015
+Rp1016
+tp1017
+a(S'shanghai stock exchange'
+p1018
+g2
+(g6
+S'\x99\x05\xc3\x10\xb0\x90\xd3?'
+p1019
+tp1020
+Rp1021
+tp1022
+a(S'share (finance)'
+p1023
+g2
+(g6
+S'\x8e\x0b\xe2\x1c\x0b\x8d\xd3?'
+p1024
+tp1025
+Rp1026
+tp1027
+a(S'support and resistance'
+p1028
+g2
+(g6
+S't\x12t\xaa\x07\x8b\xd3?'
+p1029
+tp1030
+Rp1031
+tp1032
+a(S'stock exchange of mauritius'
+p1033
+g2
+(g6
+S'{\x12R\x91]\x88\xd3?'
+p1034
+tp1035
+Rp1036
+tp1037
+a(S'free price system'
+p1038
+g2
+(g6
+S'\xd9uZ\xdd\xef\x86\xd3?'
+p1039
+tp1040
+Rp1041
+tp1042
+a(S'brian price'
+p1043
+g2
+(g6
+S'E7H\xb0\x8eu\xd3?'
+p1044
+tp1045
+Rp1046
+tp1047
+a(S'la paz stock exchange'
+p1048
+g2
+(g6
+S'\xd6\xf7\x9d\xf4\x84t\xd3?'
+p1049
+tp1050
+Rp1051
+tp1052
+a(S'stock clearance'
+p1053
+g2
+(g6
+S'2\x1f\xfd\xf97t\xd3?'
+p1054
+tp1055
+Rp1056
+tp1057
+a(S'oligopoly'
+p1058
+g2
+(g6
+S'\x08b\x98\x1d\xcap\xd3?'
+p1059
+tp1060
+Rp1061
+tp1062
+a(S'sol price'
+p1063
+g2
+(g6
+S'O\xb2\xab\x10\x88o\xd3?'
+p1064
+tp1065
+Rp1066
+tp1067
+a(S'michael f. price'
+p1068
+g2
+(g6
+S'\x13nM\t\xdcm\xd3?'
+p1069
+tp1070
+Rp1071
+tp1072
+a(S'elizabeth price'
+p1073
+g2
+(g6
+S'=\xa9]*\xb8X\xd3?'
+p1074
+tp1075
+Rp1076
+tp1077
+a(S'price, jackson county, wisconsin'
+p1078
+g2
+(g6
+S'x*\xe1\x7f\xa2V\xd3?'
+p1079
+tp1080
+Rp1081
+tp1082
+a(S'crossing network'
+p1083
+g2
+(g6
+S'\xf3!\x1e\xc2jV\xd3?'
+p1084
+tp1085
+Rp1086
+tp1087
+a(S'david price (boxer)'
+p1088
+g2
+(g6
+S'>\xfee\xb79U\xd3?'
+p1089
+tp1090
+Rp1091
+tp1092
+a(S'arizona stock exchange'
+p1093
+g2
+(g6
+S"\x06!'\xb0\x91T\xd3?"
+p1094
+tp1095
+Rp1096
+tp1097
+a(S'stock market crashes in hong kong'
+p1098
+g2
+(g6
+S'2\xd7\xeb\xbc\xc3R\xd3?'
+p1099
+tp1100
+Rp1101
+tp1102
+a(S'stock market learning'
+p1103
+g2
+(g6
+S'i\xf1\xc4\x8a\x93K\xd3?'
+p1104
+tp1105
+Rp1106
+tp1107
+a(S"price's raid"
+p1108
+g2
+(g6
+S'O\xfe\xa5n\x88=\xd3?'
+p1109
+tp1110
+Rp1111
+tp1112
+a(S'pricing objectives'
+p1113
+g2
+(g6
+S'\xa7\xa5K\xdb\xd29\xd3?'
+p1114
+tp1115
+Rp1116
+tp1117
+a(S'1944\xe2\x80\x9345 huddersfield town a.f.c. season'
+p1118
+g2
+(g6
+S"'`\xc9\xbc\xde7\xd3?"
+p1119
+tp1120
+Rp1121
+tp1122
+a(S'minnesota-wisconsin price'
+p1123
+g2
+(g6
+S'\x11w\xb7L\x801\xd3?'
+p1124
+tp1125
+Rp1126
+tp1127
+a(S'stock valuation'
+p1128
+g2
+(g6
+S'\xc1\xb3Gt\x051\xd3?'
+p1129
+tp1130
+Rp1131
+tp1132
+a(S'list of london underground electric multiple units'
+p1133
+g2
+(g6
+S'\xb4J@\x87R)\xd3?'
+p1134
+tp1135
+Rp1136
+tp1137
+a(S'bolsa de valores de montevideo'
+p1138
+g2
+(g6
+S'9\xcf\xb7\x08\xf2$\xd3?'
+p1139
+tp1140
+Rp1141
+tp1142
+a(S'put option'
+p1143
+g2
+(g6
+S'Un\x8f1\x08 \xd3?'
+p1144
+tp1145
+Rp1146
+tp1147
+a(S'federation of euro-asian stock exchanges'
+p1148
+g2
+(g6
+S'\x1f\x85\x1e\x11\x89\x1d\xd3?'
+p1149
+tp1150
+Rp1151
+tp1152
+a(S'short squeeze'
+p1153
+g2
+(g6
+S'G\x8atd\xb4\x1b\xd3?'
+p1154
+tp1155
+Rp1156
+tp1157
+a(S'pin risk (options)'
+p1158
+g2
+(g6
+S'\xb0k\xd4O\xf6\x15\xd3?'
+p1159
+tp1160
+Rp1161
+tp1162
+a(S'ernest b. price'
+p1163
+g2
+(g6
+S'\x82n\x9f~c\x15\xd3?'
+p1164
+tp1165
+Rp1166
+tp1167
+a(S'john g. price'
+p1168
+g2
+(g6
+S'E\x1b\xf1\x18\x82\x0c\xd3?'
+p1169
+tp1170
+Rp1171
+tp1172
+a(S'preferred stock'
+p1173
+g2
+(g6
+S'P\xaf\xe4\xc9\xe4\t\xd3?'
+p1174
+tp1175
+Rp1176
+tp1177
+a(S'initial public offering of facebook'
+p1178
+g2
+(g6
+S'9\xb2\xb93\xa7\t\xd3?'
+p1179
+tp1180
+Rp1181
+tp1182
+a(S'ronnie price'
+p1183
+g2
+(g6
+S'\x10\xdf@$l\t\xd3?'
+p1184
+tp1185
+Rp1186
+tp1187
+a(S'frederick price'
+p1188
+g2
+(g6
+S'\xdf\xd3\x88\xc9\x98\x05\xd3?'
+p1189
+tp1190
+Rp1191
+tp1192
+a(S'stock exchanges in ukraine'
+p1193
+g2
+(g6
+S'\xf5\xdb\x06\xd5[\x05\xd3?'
+p1194
+tp1195
+Rp1196
+tp1197
+a(S'london stock exchange'
+p1198
+g2
+(g6
+S'\xe4RZ\x1e\xae\xff\xd2?'
+p1199
+tp1200
+Rp1201
+tp1202
+a(S'secondary shares'
+p1203
+g2
+(g6
+S'\x12\\N\xead\xff\xd2?'
+p1204
+tp1205
+Rp1206
+tp1207
+a(S'jacob little'
+p1208
+g2
+(g6
+S'\xb0\xc5\x1c\xef_\xff\xd2?'
+p1209
+tp1210
+Rp1211
+tp1212
+a(S'price drop'
+p1213
+g2
+(g6
+S'C\x90fI_\xfd\xd2?'
+p1214
+tp1215
+Rp1216
+tp1217
+a(S'thomas frederick price'
+p1218
+g2
+(g6
+S'\xd5*\x05`(\xf6\xd2?'
+p1219
+tp1220
+Rp1221
+tp1222
+a(S'sean price'
+p1223
+g2
+(g6
+S'\x8d=\xe2\x98\xe7\xe8\xd2?'
+p1224
+tp1225
+Rp1226
+tp1227
+a(S'superhedging price'
+p1228
+g2
+(g6
+S'j5\n\x05H\xe8\xd2?'
+p1229
+tp1230
+Rp1231
+tp1232
+a(S'high-frequency trading'
+p1233
+g2
+(g6
+S' x\x8e\xdf&\xe7\xd2?'
+p1234
+tp1235
+Rp1236
+tp1237
+a(S'list of stock market crashes and bear markets'
+p1238
+g2
+(g6
+S'i\x1e\xb7o\xff\xe2\xd2?'
+p1239
+tp1240
+Rp1241
+tp1242
+a(S'south sea company'
+p1243
+g2
+(g6
+S'b\xb9\xd3\xa2\xc5\xe2\xd2?'
+p1244
+tp1245
+Rp1246
+tp1247
+a(S'gse composite index'
+p1248
+g2
+(g6
+S'X\xab&\xddf\xe1\xd2?'
+p1249
+tp1250
+Rp1251
+tp1252
+a(S'henry h. "hank" price'
+p1253
+g2
+(g6
+S'\x99l\xc9\x8d^\xdd\xd2?'
+p1254
+tp1255
+Rp1256
+tp1257
+a(S'charles melvin price'
+p1258
+g2
+(g6
+S'\xe7{\xc7\x89\n\xdb\xd2?'
+p1259
+tp1260
+Rp1261
+tp1262
+a(S'george mccready price'
+p1263
+g2
+(g6
+S'_\x12\xfe\x84\xb7\xd5\xd2?'
+p1264
+tp1265
+Rp1266
+tp1267
+a(S'name your own price'
+p1268
+g2
+(g6
+S'\xe4\xfa\x86\xac\xa6\xd3\xd2?'
+p1269
+tp1270
+Rp1271
+tp1272
+a(S'bucharest stock exchange'
+p1273
+g2
+(g6
+S'\xf4:\x0c\xae\xa2\xcf\xd2?'
+p1274
+tp1275
+Rp1276
+tp1277
+a(S'wholesale price index'
+p1278
+g2
+(g6
+S'*\x80?\x93i\xcf\xd2?'
+p1279
+tp1280
+Rp1281
+tp1282
+a(S'2015\xe2\x80\x9316 chinese stock market turbulence'
+p1283
+g2
+(g6
+S'\xafn\x8d\xb4I\xcc\xd2?'
+p1284
+tp1285
+Rp1286
+tp1287
+a(S'hedge (finance)'
+p1288
+g2
+(g6
+S'\x1a\xfa8\x8b\xcf\xc9\xd2?'
+p1289
+tp1290
+Rp1291
+tp1292
+a(S'stock market index option'
+p1293
+g2
+(g6
+S'\xfd\xe2\xfdj\x13\xc5\xd2?'
+p1294
+tp1295
+Rp1296
+tp1297
+a(S'tom price, western australia'
+p1298
+g2
+(g6
+S'9 u\xb6R\xbb\xd2?'
+p1299
+tp1300
+Rp1301
+tp1302
+a(S'glossary of stock market terms'
+p1303
+g2
+(g6
+S'\xce\xf2\x98\xb5\x8f\xb5\xd2?'
+p1304
+tp1305
+Rp1306
+tp1307
+a(S'brian price (american football, born 1989)'
+p1308
+g2
+(g6
+S'e)\xf5\x15\xc9\xb2\xd2?'
+p1309
+tp1310
+Rp1311
+tp1312
+a(S'samuel woodson price'
+p1313
+g2
+(g6
+S'\x97%4\xc0\x82\xb1\xd2?'
+p1314
+tp1315
+Rp1316
+tp1317
+a(S'pricing strategies'
+p1318
+g2
+(g6
+S'\x1b\xe6\xbe\xd26\xaf\xd2?'
+p1319
+tp1320
+Rp1321
+tp1322
+a(S'monopoly price'
+p1323
+g2
+(g6
+S'\xbb\xf2&\xaeI\xae\xd2?'
+p1324
+tp1325
+Rp1326
+tp1327
+a(S'army of missouri'
+p1328
+g2
+(g6
+S'z\xda]\x0em\xad\xd2?'
+p1329
+tp1330
+Rp1331
+tp1332
+a(S'market timing'
+p1333
+g2
+(g6
+S'\xc0\x11?\xf3\n\xad\xd2?'
+p1334
+tp1335
+Rp1336
+tp1337
+a(S'jim price'
+p1338
+g2
+(g6
+S'\xb2\xb0?u\x19\xa1\xd2?'
+p1339
+tp1340
+Rp1341
+tp1342
+a(S'rock and roll (1973 album)'
+p1343
+g2
+(g6
+S'M\xd1\x93\x8fk\xa0\xd2?'
+p1344
+tp1345
+Rp1346
+tp1347
+a(S'thomas rowe price, jr.'
+p1348
+g2
+(g6
+S'\tm\xd5\x86s\x9d\xd2?'
+p1349
+tp1350
+Rp1351
+tp1352
+a(S'leading stock'
+p1353
+g2
+(g6
+S'\xc3s\nX\x9d\x9a\xd2?'
+p1354
+tp1355
+Rp1356
+tp1357
+a(S'hapimag'
+p1358
+g2
+(g6
+S'\xb4\x9c\xca\xdc\x96\x97\xd2?'
+p1359
+tp1360
+Rp1361
+tp1362
+a(S'david price (baseball)'
+p1363
+g2
+(g6
+S'\xe6\xe0L}\xd9\x94\xd2?'
+p1364
+tp1365
+Rp1366
+tp1367
+a(S'shares outstanding'
+p1368
+g2
+(g6
+S'\xa1\n\xb2\x1a\xa5\x93\xd2?'
+p1369
+tp1370
+Rp1371
+tp1372
+a(S'bertrand paradox (economics)'
+p1373
+g2
+(g6
+S'\xb4\x10}\xec\x9a\x91\xd2?'
+p1374
+tp1375
+Rp1376
+tp1377
+a(S'energy exchange austria'
+p1378
+g2
+(g6
+S'\xf8\xd7\xe8\xe74\x8f\xd2?'
+p1379
+tp1380
+Rp1381
+tp1382
+a(S'price gouging'
+p1383
+g2
+(g6
+S'\x1b\xb1\xc3o\xf6\x8e\xd2?'
+p1384
+tp1385
+Rp1386
+tp1387
+a(S'south pacific stock exchange'
+p1388
+g2
+(g6
+S'D\xefJ\x98\xc7\x7f\xd2?'
+p1389
+tp1390
+Rp1391
+tp1392
+a(S'libyan stock market'
+p1393
+g2
+(g6
+S'\x7f\x7fQ\x13\xee}\xd2?'
+p1394
+tp1395
+Rp1396
+tp1397
+a(S'fufeng group'
+p1398
+g2
+(g6
+S'G\xb6\x89\x00E{\xd2?'
+p1399
+tp1400
+Rp1401
+tp1402
+a(S'monopoly'
+p1403
+g2
+(g6
+S'\xdc\xb3,}\x12y\xd2?'
+p1404
+tp1405
+Rp1406
+tp1407
+a(S'stock catalyst'
+p1408
+g2
+(g6
+S'`~\xee\xa3\xccw\xd2?'
+p1409
+tp1410
+Rp1411
+tp1412
+a(S'london underground e stock'
+p1413
+g2
+(g6
+S'6\xcc\xb0\xf8Rw\xd2?'
+p1414
+tp1415
+Rp1416
+tp1417
+a(S'price system'
+p1418
+g2
+(g6
+S'\r\xad[\x81\xb7p\xd2?'
+p1419
+tp1420
+Rp1421
+tp1422
+a(S'mosely v koffyfontein mines ltd'
+p1423
+g2
+(g6
+S'\xf6AKa\x05m\xd2?'
+p1424
+tp1425
+Rp1426
+tp1427
+a(S'squeeze-out'
+p1428
+g2
+(g6
+S'\xad\x96k*\xd8j\xd2?'
+p1429
+tp1430
+Rp1431
+tp1432
+a(S'clayton sumner price'
+p1433
+g2
+(g6
+S'\xe8\xf7Gw\xcdi\xd2?'
+p1434
+tp1435
+Rp1436
+tp1437
+a(S'novalyne price ellis'
+p1438
+g2
+(g6
+S'@\x9a\xc1\xe0\xd4h\xd2?'
+p1439
+tp1440
+Rp1441
+tp1442
+a(S'jeff price'
+p1443
+g2
+(g6
+S'o=jXNd\xd2?'
+p1444
+tp1445
+Rp1446
+tp1447
+a(S'london underground k stock'
+p1448
+g2
+(g6
+S'F\xfd=\xd3.c\xd2?'
+p1449
+tp1450
+Rp1451
+tp1452
+a(S'convertible bond'
+p1453
+g2
+(g6
+S'\x86r/SRb\xd2?'
+p1454
+tp1455
+Rp1456
+tp1457
+a(S'mr. market'
+p1458
+g2
+(g6
+S'\x86\x8e\xea\xc5\x9aM\xd2?'
+p1459
+tp1460
+Rp1461
+tp1462
+a(S'l\xc3\xa1szl\xc3\xb3 szombatfalvy'
+p1463
+g2
+(g6
+S'\xa3\x7f\xe6T\xe2I\xd2?'
+p1464
+tp1465
+Rp1466
+tp1467
+a(S'bull (stock market speculator)'
+p1468
+g2
+(g6
+S'Qv\xe8G\x91G\xd2?'
+p1469
+tp1470
+Rp1471
+tp1472
+a(S'late trading'
+p1473
+g2
+(g6
+S'@nr\xfa\xb0B\xd2?'
+p1474
+tp1475
+Rp1476
+tp1477
+a(S'victoria price'
+p1478
+g2
+(g6
+S'\xd1\xad\x9f\xa4\x859\xd2?'
+p1479
+tp1480
+Rp1481
+tp1482
+a(S'market rate'
+p1483
+g2
+(g6
+S'\xcc\x0f=\xf5\x169\xd2?'
+p1484
+tp1485
+Rp1486
+tp1487
+a(S'market clearing'
+p1488
+g2
+(g6
+S'\x01\x80\x96\xff\x827\xd2?'
+p1489
+tp1490
+Rp1491
+tp1492
+a(S'callable bull/bear contract'
+p1493
+g2
+(g6
+S'\x04\x9a\x1cI\xd65\xd2?'
+p1494
+tp1495
+Rp1496
+tp1497
+a(S'yellow strip'
+p1498
+g2
+(g6
+S'B\xe9\xd9\xafx2\xd2?'
+p1499
+tp1500
+Rp1501
+tp1502
+a(S'affine pricing'
+p1503
+g2
+(g6
+S'\xdfU\x9d\xabk.\xd2?'
+p1504
+tp1505
+Rp1506
+tp1507
+a(S'accretion/dilution analysis'
+p1508
+g2
+(g6
+S'\xdf\xf0\xd2\x9b2.\xd2?'
+p1509
+tp1510
+Rp1511
+tp1512
+a.

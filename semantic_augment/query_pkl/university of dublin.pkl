@@ -1,0 +1,2728 @@
+(lp0
+(S'university of dublin'
+p1
+cnumpy.core.multiarray
+scalar
+p2
+(cnumpy
+dtype
+p3
+(S'f8'
+p4
+I0
+I1
+tp5
+Rp6
+(I3
+S'<'
+p7
+NNNI-1
+I-1
+I0
+tp8
+bS'\xfc\xff\xff\xff\xff\xff\xef?'
+p9
+tp10
+Rp11
+tp12
+a(S'trinity college, dublin'
+p13
+g2
+(g6
+S'\xddY\x14t1_\xde?'
+p14
+tp15
+Rp16
+tp17
+a(S'united states senate'
+p18
+g2
+(g6
+S'Z[\x9ej\xd8\xd1\xda?'
+p19
+tp20
+Rp21
+tp22
+a(S'senate'
+p23
+g2
+(g6
+S")\x84\x07\t5'\xda?"
+p24
+tp25
+Rp26
+tp27
+a(S'australian senate'
+p28
+g2
+(g6
+S'q\x85\x1e\xf7\x12"\xda?'
+p29
+tp30
+Rp31
+tp32
+a(S'seanad \xc3\x89ireann (irish free state)'
+p33
+g2
+(g6
+S'\xc1\x93\x8e\x86\xe4\xfa\xd9?'
+p34
+tp35
+Rp36
+tp37
+a(S'president of the senate'
+p38
+g2
+(g6
+S'4\x9b\xa8\x18d\xde\xd9?'
+p39
+tp40
+Rp41
+tp42
+a(S'senate house, cambridge'
+p43
+g2
+(g6
+S'4\xe1\x8f\xcf\xc3\xb2\xd9?'
+p44
+tp45
+Rp46
+tp47
+a(S'roman senate'
+p48
+g2
+(g6
+S'6\x83R$3\x95\xd9?'
+p49
+tp50
+Rp51
+tp52
+a(S'senate of canada'
+p53
+g2
+(g6
+S'B\xe6"37|\xd9?'
+p54
+tp55
+Rp56
+tp57
+a(S'staggered elections'
+p58
+g2
+(g6
+S'\x8e\xb3\xd9\xd5\xf1q\xd9?'
+p59
+tp60
+Rp61
+tp62
+a(S'standing rules of the united states senate, rule xviii'
+p63
+g2
+(g6
+S'%\xfc^j\x8fP\xd9?'
+p64
+tp65
+Rp66
+tp67
+a(S'history of the united states senate'
+p68
+g2
+(g6
+S"6\x9d'?\xb72\xd9?"
+p69
+tp70
+Rp71
+tp72
+a(S'senate of the philippines'
+p73
+g2
+(g6
+S'\xc1\x183\xe9\xc1&\xd9?'
+p74
+tp75
+Rp76
+tp77
+a(S'academic senate'
+p78
+g2
+(g6
+S']\xf3\xa6\r\xa6\xde\xd8?'
+p79
+tp80
+Rp81
+tp82
+a(S'administrative affairs committee (georgia senate)'
+p83
+g2
+(g6
+S'p\x1e\xaab\xe2\xd5\xd8?'
+p84
+tp85
+Rp86
+tp87
+a(S'governance of the university of bristol'
+p88
+g2
+(g6
+S'\xb6\xd9\x92\xacU\xcf\xd8?'
+p89
+tp90
+Rp91
+tp92
+a(S'senate of poland'
+p93
+g2
+(g6
+S'\x8b\xc2G\xaf\xf0\xa9\xd8?'
+p94
+tp95
+Rp96
+tp97
+a(S'byzantine senate'
+p98
+g2
+(g6
+S'\x15\x87\xa9\xeb\x8a4\xd8?'
+p99
+tp100
+Rp101
+tp102
+a(S'historian of the united states senate'
+p103
+g2
+(g6
+S'\xbd\xc1D\xaep\x19\xd8?'
+p104
+tp105
+Rp106
+tp107
+a(S'members of the australian senate'
+p108
+g2
+(g6
+S'\x86\xeanE\x82\x0e\xd8?'
+p109
+tp110
+Rp111
+tp112
+a(S'list of elections in the united states'
+p113
+g2
+(g6
+S'\x02\xe0p1\xab\xef\xd7?'
+p114
+tp115
+Rp116
+tp117
+a(S'california state senate'
+p118
+g2
+(g6
+S'\x06&qJ\x96\xeb\xd7?'
+p119
+tp120
+Rp121
+tp122
+a(S'richard a. baker (historian)'
+p123
+g2
+(g6
+S'\xfd\xbd\xbf\xb1.\xc4\xd7?'
+p124
+tp125
+Rp126
+tp127
+a(S'senate house'
+p128
+g2
+(g6
+S'T\x19\xe7K\xa4\xa7\xd7?'
+p129
+tp130
+Rp131
+tp132
+a(S'senate of the republic'
+p133
+g2
+(g6
+S'\xdc\n\x93\xe7\xfd\x8a\xd7?'
+p134
+tp135
+Rp136
+tp137
+a(S'senate of the kingdom of italy'
+p138
+g2
+(g6
+S'\xb9\x06\xf5\x038\x87\xd7?'
+p139
+tp140
+Rp141
+tp142
+a(S'assignments committee (georgia senate)'
+p143
+g2
+(g6
+S' \xb4\xc5\x1dY|\xd7?'
+p144
+tp145
+Rp146
+tp147
+a(S'president of the kentucky senate'
+p148
+g2
+(g6
+S'g\xf4\x7f\xa8(T\xd7?'
+p149
+tp150
+Rp151
+tp152
+a(S'president of the senate of the republic (italy)'
+p153
+g2
+(g6
+S'\xb2\x98a\x1b\xbc7\xd7?'
+p154
+tp155
+Rp156
+tp157
+a(S'senate of liberia'
+p158
+g2
+(g6
+S'VSW,\xb6\x19\xd7?'
+p159
+tp160
+Rp161
+tp162
+a(S'senate of ceylon'
+p163
+g2
+(g6
+S'*\xfc\r\xd7Q\x10\xd7?'
+p164
+tp165
+Rp166
+tp167
+a(S'secretary of the california state senate'
+p168
+g2
+(g6
+S'\x12X\x01\x00\x7f\x0e\xd7?'
+p169
+tp170
+Rp171
+tp172
+a(S'senate (france)'
+p173
+g2
+(g6
+S'\xc0c\xe3\x0f\xe4\xf7\xd6?'
+p174
+tp175
+Rp176
+tp177
+a(S'senate of the republic (turkey)'
+p178
+g2
+(g6
+S'<\x9b\xe6\xec@\xf3\xd6?'
+p179
+tp180
+Rp181
+tp182
+a(S'president of the senate of puerto rico'
+p183
+g2
+(g6
+S'\xd8\xa0n\xcb6\xd2\xd6?'
+p184
+tp185
+Rp186
+tp187
+a(S'weekly republican address'
+p188
+g2
+(g6
+S'\xa1\x80\xbb\xf0\xed\xb7\xd6?'
+p189
+tp190
+Rp191
+tp192
+a(S'joshua koshiba'
+p193
+g2
+(g6
+S'\xd8\xe9\xad\x8e}\xb0\xd6?'
+p194
+tp195
+Rp196
+tp197
+a(S'angelo maria cicolani'
+p198
+g2
+(g6
+S'\x17M\xb6L\xbd\xab\xd6?'
+p199
+tp200
+Rp201
+tp202
+a(S'united states senate chamber'
+p203
+g2
+(g6
+S'\x8c\xf0O\x92\xda\xa0\xd6?'
+p204
+tp205
+Rp206
+tp207
+a(S'senate of the roman kingdom'
+p208
+g2
+(g6
+S'\xd19\xf7\x1d\x17\x88\xd6?'
+p209
+tp210
+Rp211
+tp212
+a(S'standing rules of the united states senate, rule xvii'
+p213
+g2
+(g6
+S'<\xc3\xac\xe5$\x84\xd6?'
+p214
+tp215
+Rp216
+tp217
+a(S'speaker of the senate'
+p218
+g2
+(g6
+S'\xbd\xcb]\x8c\x9fd\xd6?'
+p219
+tp220
+Rp221
+tp222
+a(S'greek senate'
+p223
+g2
+(g6
+S'\xbd\xeae\x1cQ=\xd6?'
+p224
+tp225
+Rp226
+tp227
+a(S'standing rules of the united states senate, rule ix'
+p228
+g2
+(g6
+S'\xfe\x08~\x9a7\x18\xd6?'
+p229
+tp230
+Rp231
+tp232
+a(S'senate of the roman empire'
+p233
+g2
+(g6
+S'E\x90\xfd\xe4\xf6\xfd\xd5?'
+p234
+tp235
+Rp236
+tp237
+a(S'senate of thailand'
+p238
+g2
+(g6
+S"'?\x97\x80\x00\xeb\xd5?"
+p239
+tp240
+Rp241
+tp242
+a(S'master of arts (oxbridge and dublin)'
+p243
+g2
+(g6
+S'\r\x14\x8d\xf3\xe9\xe4\xd5?'
+p244
+tp245
+Rp246
+tp247
+a(S'maryland senate'
+p248
+g2
+(g6
+S'\x85y\xa4t\t\xda\xd5?'
+p249
+tp250
+Rp251
+tp252
+a(S'clerk of the australian senate'
+p253
+g2
+(g6
+S'9\xf7\x1dXP\xca\xd5?'
+p254
+tp255
+Rp256
+tp257
+a(S'deputy president of the nigerian senate'
+p258
+g2
+(g6
+S'i\x83\xda\xa4|\xaa\xd5?'
+p259
+tp260
+Rp261
+tp262
+a(S'new york state elections, 2008'
+p263
+g2
+(g6
+S'\xa4\xa5d\xd7\x00\xa8\xd5?'
+p264
+tp265
+Rp266
+tp267
+a(S'richard finan'
+p268
+g2
+(g6
+S'\xd7\xdb\xac=\\l\xd5?'
+p269
+tp270
+Rp271
+tp272
+a(S'party leadership of the united states senate'
+p273
+g2
+(g6
+S'\x8b\xda\t2\xf7]\xd5?'
+p274
+tp275
+Rp276
+tp277
+a(S'united states senate library'
+p278
+g2
+(g6
+S'\xc6\xce\xe2.\xba2\xd5?'
+p279
+tp280
+Rp281
+tp282
+a(S'weekly democratic address'
+p283
+g2
+(g6
+S'\xc2\x93\xacb\xaf/\xd5?'
+p284
+tp285
+Rp286
+tp287
+a(S'secretary of the united states senate'
+p288
+g2
+(g6
+S'=\x8e\xd7t\xc9&\xd5?'
+p289
+tp290
+Rp291
+tp292
+a(S'senate (netherlands)'
+p293
+g2
+(g6
+S'\x90>\x94\xd2\xfa"\xd5?'
+p294
+tp295
+Rp296
+tp297
+a(S'senate of the parliament of the czech republic'
+p298
+g2
+(g6
+S'\x14\t\x11\x91%\xe7\xd4?'
+p299
+tp300
+Rp301
+tp302
+a(S'milu\xc5\xa1e horsk\xc3\xa1'
+p303
+g2
+(g6
+S'^=\xf1\x0f=\xbd\xd4?'
+p304
+tp305
+Rp306
+tp307
+a(S'traditions of the united states senate'
+p308
+g2
+(g6
+S'$k\xeb4\xb3\x9f\xd4?'
+p309
+tp310
+Rp311
+tp312
+a(S'standing rules of the united states senate, rule xx'
+p313
+g2
+(g6
+S'+\xf9\xb0\xf3\xc4\x9d\xd4?'
+p314
+tp315
+Rp316
+tp317
+a(S'jean-pierre bel'
+p318
+g2
+(g6
+S'zs\xdeY\xea\x97\xd4?'
+p319
+tp320
+Rp321
+tp322
+a(S'william hildenbrand'
+p323
+g2
+(g6
+S'\xc0\x95\x94\xb2\xa5\x8f\xd4?'
+p324
+tp325
+Rp326
+tp327
+a(S'new york state election, 1988'
+p328
+g2
+(g6
+S'7\xa4!/lk\xd4?'
+p329
+tp330
+Rp331
+tp332
+a(S'triple-e senate'
+p333
+g2
+(g6
+S')\x90GE\x8cU\xd4?'
+p334
+tp335
+Rp336
+tp337
+a(S'philip j. rock'
+p338
+g2
+(g6
+S'\xa8\x00n\xfb\x1f+\xd4?'
+p339
+tp340
+Rp341
+tp342
+a(S'peloponnesian senate'
+p343
+g2
+(g6
+S'\x1fQ,\xcc\xbd \xd4?'
+p344
+tp345
+Rp346
+tp347
+a(S'canadian senate page program'
+p348
+g2
+(g6
+S'*K\x10\xeb\xee\x1e\xd4?'
+p349
+tp350
+Rp351
+tp352
+a(S'harry evans (australian senate clerk)'
+p353
+g2
+(g6
+S'\xbb\x08N\xf9\x1c\x0f\xd4?'
+p354
+tp355
+Rp356
+tp357
+a(S'senate (equatorial guinea)'
+p358
+g2
+(g6
+S'\xa4\xe3\xc6\x8a\x1a\x02\xd4?'
+p359
+tp360
+Rp361
+tp362
+a(S'senate of south africa'
+p363
+g2
+(g6
+S'\xdc\x1br\x87\x1c\xfb\xd3?'
+p364
+tp365
+Rp366
+tp367
+a(S'gary stanislawski'
+p368
+g2
+(g6
+S'\x99\xcc\xe4:\xc6\xf5\xd3?'
+p369
+tp370
+Rp371
+tp372
+a(S'senate (madagascar)'
+p373
+g2
+(g6
+S'\xb3\xca\xc7\x08\xb0\xf0\xd3?'
+p374
+tp375
+Rp376
+tp377
+a(S'united states senate journal'
+p378
+g2
+(g6
+S'\x95\x1b\xab\xfax\xeb\xd3?'
+p379
+tp380
+Rp381
+tp382
+a(S'ren\xc3\xa9 radembino coniquet'
+p383
+g2
+(g6
+S'\xf5\xa1\xa4\x189\xeb\xd3?'
+p384
+tp385
+Rp386
+tp387
+a(S'dublin'
+p388
+g2
+(g6
+S'\x19I\xa3-\xf7\xe9\xd3?'
+p389
+tp390
+Rp391
+tp392
+a(S'cambridge university act 1856'
+p393
+g2
+(g6
+S'T\xf1K(\xeb\xe9\xd3?'
+p394
+tp395
+Rp396
+tp397
+a(S'franklin drilon'
+p398
+g2
+(g6
+S'D\x0cV\xe0\x9e\xde\xd3?'
+p399
+tp400
+Rp401
+tp402
+a(S'leader of the opposition in the senate of canada'
+p403
+g2
+(g6
+S'\xf2,~\xdd\n\xd9\xd3?'
+p404
+tp405
+Rp406
+tp407
+a(S'standing rules of the united states senate, rule xii'
+p408
+g2
+(g6
+S'@>\x96g\x16\xd2\xd3?'
+p409
+tp410
+Rp411
+tp412
+a(S'president of the senate (netherlands)'
+p413
+g2
+(g6
+S'\xeds.:\xa8\xce\xd3?'
+p414
+tp415
+Rp416
+tp417
+a(S'ennio zelioli-lanzini'
+p418
+g2
+(g6
+S':l\x19r\x05\xc2\xd3?'
+p419
+tp420
+Rp421
+tp422
+a(S'l\xc3\xa9onard andjemb\xc3\xa9'
+p423
+g2
+(g6
+S'\xc1m\xa7\x05\\\xbd\xd3?'
+p424
+tp425
+Rp426
+tp427
+a(S'william albert boucher'
+p428
+g2
+(g6
+S'\xbd\xaeI\xa6s\xb2\xd3?'
+p429
+tp430
+Rp431
+tp432
+a(S'standing rules of the united states senate, rule xl'
+p433
+g2
+(g6
+S')\xe9\rt}\xaa\xd3?'
+p434
+tp435
+Rp436
+tp437
+a(S'marcel rainaud'
+p438
+g2
+(g6
+S'\xf2\xd6\xcf\xbf\t\xaa\xd3?'
+p439
+tp440
+Rp441
+tp442
+a(S'ohio senate committees'
+p443
+g2
+(g6
+S'\xc7\xdd,\x15\x18\xa6\xd3?'
+p444
+tp445
+Rp446
+tp447
+a(S'senate (belgium)'
+p448
+g2
+(g6
+S'Dc\xb9\xe1_\xa5\xd3?'
+p449
+tp450
+Rp451
+tp452
+a(S'senate of the roman republic'
+p453
+g2
+(g6
+S'2PQy$\xa0\xd3?'
+p454
+tp455
+Rp456
+tp457
+a(S'seal of the united states senate'
+p458
+g2
+(g6
+S'Ml\x8b\xa9\xa2\x97\xd3?'
+p459
+tp460
+Rp461
+tp462
+a(S'florida senate majority office'
+p463
+g2
+(g6
+S'\xf4\xa6\xb5c\xd9\x89\xd3?'
+p464
+tp465
+Rp466
+tp467
+a(S"master's degree in europe"
+p468
+g2
+(g6
+S'\x9b\x95\x16\xe7\xf8x\xd3?'
+p469
+tp470
+Rp471
+tp472
+a(S'representative of the government in the senate (canada)'
+p473
+g2
+(g6
+S'\xf9\xb2\xbd\t;s\xd3?'
+p474
+tp475
+Rp476
+tp477
+a(S'standing rules of the united states senate, rule xxi'
+p478
+g2
+(g6
+S'\xff\x82\xb3\xde#i\xd3?'
+p479
+tp480
+Rp481
+tp482
+a(S'government palace (finland)'
+p483
+g2
+(g6
+S'\x85 nY\xc0g\xd3?'
+p484
+tp485
+Rp486
+tp487
+a(S'harris s. richardson'
+p488
+g2
+(g6
+S"'n^<j[\xd3?"
+p489
+tp490
+Rp491
+tp492
+a(S'dirksen senate office building'
+p493
+g2
+(g6
+S'\xf1\x82h0]Z\xd3?'
+p494
+tp495
+Rp496
+tp497
+a(S'mike shirkey'
+p498
+g2
+(g6
+S'\x99\xfe}\x9c\xedJ\xd3?'
+p499
+tp500
+Rp501
+tp502
+a(S'lula j. davis'
+p503
+g2
+(g6
+S'\x7fiOu\xdeC\xd3?'
+p504
+tp505
+Rp506
+tp507
+a(S'edward j. gearty'
+p508
+g2
+(g6
+S'\xed\xb0\xb5?eC\xd3?'
+p509
+tp510
+Rp511
+tp512
+a(S'thomas noel mitchell'
+p513
+g2
+(g6
+S'\x0e\xe5w\x94OA\xd3?'
+p514
+tp515
+Rp516
+tp517
+a(S'e. b. west'
+p518
+g2
+(g6
+S'8)q\xdf\xfb=\xd3?'
+p519
+tp520
+Rp521
+tp522
+a(S'marcel moufouma-okia'
+p523
+g2
+(g6
+S'\xa2\xd0\xdb\xa8\xbd=\xd3?'
+p524
+tp525
+Rp526
+tp527
+a(S'alberta senate nominee election, 2012'
+p528
+g2
+(g6
+S'\xa4\xcd\xa8Y\xf27\xd3?'
+p529
+tp530
+Rp531
+tp532
+a(S'morris jackson'
+p533
+g2
+(g6
+S't,\x93B]6\xd3?'
+p534
+tp535
+Rp536
+tp537
+a(S'senate (republic of the congo)'
+p538
+g2
+(g6
+S'`\xc4\xe4.\\5\xd3?'
+p539
+tp540
+Rp541
+tp542
+a(S'north carolina senate election, 2016'
+p543
+g2
+(g6
+S'\x08+2\xda\x1e5\xd3?'
+p544
+tp545
+Rp546
+tp547
+a(S'jon kyl'
+p548
+g2
+(g6
+S'.\x81\xf0v\xfe-\xd3?'
+p549
+tp550
+Rp551
+tp552
+a(S'senate (ivory coast)'
+p553
+g2
+(g6
+S'\xa6\x97TW\xdb%\xd3?'
+p554
+tp555
+Rp556
+tp557
+a(S'senate house (university of madras)'
+p558
+g2
+(g6
+S'\x02\xc0s\xf7\xf1\x1f\xd3?'
+p559
+tp560
+Rp561
+tp562
+a(S'standing rules of the united states senate, rule xiii'
+p563
+g2
+(g6
+S'\xeb=\x17\xd6e\x17\xd3?'
+p564
+tp565
+Rp566
+tp567
+a(S'darrel aubertine'
+p568
+g2
+(g6
+S'\xce\x9e\xd6\x11u\x16\xd3?'
+p569
+tp570
+Rp571
+tp572
+a(S'united states senate election in pennsylvania, 1845'
+p573
+g2
+(g6
+S'\x9eb\x903)\x11\xd3?'
+p574
+tp575
+Rp576
+tp577
+a(S'bavarian senate'
+p578
+g2
+(g6
+S']\xf2\xa3>P\x07\xd3?'
+p579
+tp580
+Rp581
+tp582
+a(S'mace of the philippine senate'
+p583
+g2
+(g6
+S'X j\x93\xa1\xfd\xd2?'
+p584
+tp585
+Rp586
+tp587
+a(S'dublin (disambiguation)'
+p588
+g2
+(g6
+S'\xa7\n.F\\\xf6\xd2?'
+p589
+tp590
+Rp591
+tp592
+a(S'parliament of australia'
+p593
+g2
+(g6
+S'|(\\P\n\xe8\xd2?'
+p594
+tp595
+Rp596
+tp597
+a(S'george r. coppenrath'
+p598
+g2
+(g6
+S'\xce\x99\xdbt\x89\xdc\xd2?'
+p599
+tp600
+Rp601
+tp602
+a(S'united states senate page'
+p603
+g2
+(g6
+S'"-3\x7fy\xd7\xd2?'
+p604
+tp605
+Rp606
+tp607
+a(S'john cullerton'
+p608
+g2
+(g6
+S'd\xd7\xee\xaeD\xd3\xd2?'
+p609
+tp610
+Rp611
+tp612
+a(S'alberta senate nominee elections'
+p613
+g2
+(g6
+S'\xa7=a-\xb1\xcf\xd2?'
+p614
+tp615
+Rp616
+tp617
+a(S'ruth m. j. byrne'
+p618
+g2
+(g6
+S'<\x1c\xdf\x07<\xce\xd2?'
+p619
+tp620
+Rp621
+tp622
+a(S'standing rules of the united states senate, rule iv'
+p623
+g2
+(g6
+S" \x16'\x84!\xc7\xd2?"
+p624
+tp625
+Rp626
+tp627
+a(S'senate of colombia'
+p628
+g2
+(g6
+S'\x11\x97y\x17\xb0\xc5\xd2?'
+p629
+tp630
+Rp631
+tp632
+a(S'ernest alton'
+p633
+g2
+(g6
+S'4\xf5o\x03t\xb6\xd2?'
+p634
+tp635
+Rp636
+tp637
+a(S'model united states senate'
+p638
+g2
+(g6
+S"|\xe5!'/\xb5\xd2?"
+p639
+tp640
+Rp641
+tp642
+a(S'united states senate election in pennsylvania, 1863'
+p643
+g2
+(g6
+S'X\xfbtx\xbd\xad\xd2?'
+p644
+tp645
+Rp646
+tp647
+a(S'united states senate election in pennsylvania, 1869'
+p648
+g2
+(g6
+S'\xffob()\xa3\xd2?'
+p649
+tp650
+Rp651
+tp652
+a(S'california senate fellows'
+p653
+g2
+(g6
+S'O#X\xabH\x98\xd2?'
+p654
+tp655
+Rp656
+tp657
+a(S'united states senate election in pennsylvania, 1861'
+p658
+g2
+(g6
+S'\x05\xbd\x1f\xba\xb2\x90\xd2?'
+p659
+tp660
+Rp661
+tp662
+a(S'franc sadleir'
+p663
+g2
+(g6
+S'\xf0T \xcf\xb8\x8e\xd2?'
+p664
+tp665
+Rp666
+tp667
+a(S'senate of malta'
+p668
+g2
+(g6
+S'\xad\xaf\xa4\xe1\x86\x8d\xd2?'
+p669
+tp670
+Rp671
+tp672
+a(S'simon loueckhote'
+p673
+g2
+(g6
+S'=\x0e\x89,\x15\x8a\xd2?'
+p674
+tp675
+Rp676
+tp677
+a(S"master's degree"
+p678
+g2
+(g6
+S'A\x8f\xde\xa7\xd5\x84\xd2?'
+p679
+tp680
+Rp681
+tp682
+a(S'bicameralism'
+p683
+g2
+(g6
+S'c\xfd\xb2\n\xdd\x82\xd2?'
+p684
+tp685
+Rp686
+tp687
+a(S'united states senate election in pennsylvania, 1875'
+p688
+g2
+(g6
+S'\xa8\x19\x03s;\x81\xd2?'
+p689
+tp690
+Rp691
+tp692
+a(S'president of the pennsylvania senate'
+p693
+g2
+(g6
+S'\xdd6z\x01\xd9\x80\xd2?'
+p694
+tp695
+Rp696
+tp697
+a(S'john stearne (physician)'
+p698
+g2
+(g6
+S'\xdf\x1a\rtU\x7f\xd2?'
+p699
+tp700
+Rp701
+tp702
+a(S'royal university of ireland'
+p703
+g2
+(g6
+S'\xea?b\xbd\x9c{\xd2?'
+p704
+tp705
+Rp706
+tp707
+a(S'jean boyer (politician)'
+p708
+g2
+(g6
+S'\xd6?\xf2\x86&{\xd2?'
+p709
+tp710
+Rp711
+tp712
+a(S'history of dublin'
+p713
+g2
+(g6
+S'\xc2t\xcc\xed\xa0u\xd2?'
+p714
+tp715
+Rp716
+tp717
+a(S'herman baertschiger jr.'
+p718
+g2
+(g6
+S'\xa9\xd3f\x93\tu\xd2?'
+p719
+tp720
+Rp721
+tp722
+a(S'charles schwertner'
+p723
+g2
+(g6
+S']\xcd\x8d\x87\xd2r\xd2?'
+p724
+tp725
+Rp726
+tp727
+a(S'louisiana state senate'
+p728
+g2
+(g6
+S'\x14G\x1c\xea0r\xd2?'
+p729
+tp730
+Rp731
+tp732
+a(S'senate of spain'
+p733
+g2
+(g6
+S'&\xeeFA\xcaq\xd2?'
+p734
+tp735
+Rp736
+tp737
+a(S'petros serghiou florides'
+p738
+g2
+(g6
+S'\xbc0\x9bi\x01o\xd2?'
+p739
+tp740
+Rp741
+tp742
+a(S'senate of fiji'
+p743
+g2
+(g6
+S'S<A\x89un\xd2?'
+p744
+tp745
+Rp746
+tp747
+a(S'jim metzen'
+p748
+g2
+(g6
+S'\x98\xf1\xf5\xffDb\xd2?'
+p749
+tp750
+Rp751
+tp752
+a(S'oregon state senate'
+p753
+g2
+(g6
+S'\x0b\xeb\x9eniX\xd2?'
+p754
+tp755
+Rp756
+tp757
+a(S'academic degree'
+p758
+g2
+(g6
+S'2\xbb\xe18qT\xd2?'
+p759
+tp760
+Rp761
+tp762
+a(S'united states senate election in pennsylvania, 1887'
+p763
+g2
+(g6
+S'\x9c\xf6lexO\xd2?'
+p764
+tp765
+Rp766
+tp767
+a(S'mohammed aruwa'
+p768
+g2
+(g6
+S'\xea\xf8\x0c|\x05O\xd2?'
+p769
+tp770
+Rp771
+tp772
+a(S'dublin high school'
+p773
+g2
+(g6
+S'X\xe6\xcdx\x8bL\xd2?'
+p774
+tp775
+Rp776
+tp777
+a(S'standing rules of the united states senate, rule xxxv'
+p778
+g2
+(g6
+S'\xaf\xd5\x9d\xe3\x04J\xd2?'
+p779
+tp780
+Rp781
+tp782
+a(S'standing rules of the united states senate, rule v'
+p783
+g2
+(g6
+S'\xabi\xa9\xb2PB\xd2?'
+p784
+tp785
+Rp786
+tp787
+a(S'alphonse gondzia'
+p788
+g2
+(g6
+S'\x94u\xe7U\xa7>\xd2?'
+p789
+tp790
+Rp791
+tp792
+a(S'senate (cameroon)'
+p793
+g2
+(g6
+S'\x06\t\x826.<\xd2?'
+p794
+tp795
+Rp796
+tp797
+a(S'joint senate of the supreme courts of the federation'
+p798
+g2
+(g6
+S'\xda\xa0uhF:\xd2?'
+p799
+tp800
+Rp801
+tp802
+a(S'robert g. dillenback'
+p803
+g2
+(g6
+S'\xb21\xd8\x97\xaf9\xd2?'
+p804
+tp805
+Rp806
+tp807
+a(S'list of buildings in ireland'
+p808
+g2
+(g6
+S'\xf9\xad\x9f\x94\x866\xd2?'
+p809
+tp810
+Rp811
+tp812
+a(S'senate of puerto rico'
+p813
+g2
+(g6
+S'\xde\xe4Tcx0\xd2?'
+p814
+tp815
+Rp816
+tp817
+a(S'standing rules of the united states senate, rule ii'
+p818
+g2
+(g6
+S'\xc0\xb5\xc4\xdc\xcd-\xd2?'
+p819
+tp820
+Rp821
+tp822
+a(S'economy of dublin'
+p823
+g2
+(g6
+S'\x7f\xa2\xf1\x99B,\xd2?'
+p824
+tp825
+Rp826
+tp827
+a(S'donald c. white'
+p828
+g2
+(g6
+S'\x01\xc0x/\x99\x1b\xd2?'
+p829
+tp830
+Rp831
+tp832
+a(S'jim marleau'
+p833
+g2
+(g6
+S'\x10Eo\xf3|\t\xd2?'
+p834
+tp835
+Rp836
+tp837
+a(S'university of central florida student government'
+p838
+g2
+(g6
+S'\xf2\x87\x80\x98\xac\x05\xd2?'
+p839
+tp840
+Rp841
+tp842
+a(S'iowa senate election, 2016'
+p843
+g2
+(g6
+S' dB\xc1\xa3\x05\xd2?'
+p844
+tp845
+Rp846
+tp847
+a(S'gilbert baker (politician)'
+p848
+g2
+(g6
+S'\xc61Q\x98\xb8\x02\xd2?'
+p849
+tp850
+Rp851
+tp852
+a(S'north carolina senate election, 2002'
+p853
+g2
+(g6
+S'TJ\x1d\xe8\xbd\x01\xd2?'
+p854
+tp855
+Rp856
+tp857
+a(S'north carolina senate election, 2008'
+p858
+g2
+(g6
+S'TJ\x1d\xe8\xbd\x01\xd2?'
+p859
+tp860
+Rp861
+tp862
+a(S'president pro tempore of the kentucky senate'
+p863
+g2
+(g6
+S'\xe6#\x00\x93\xad\xfc\xd1?'
+p864
+tp865
+Rp866
+tp867
+a(S'united states senate election in pennsylvania, 1893'
+p868
+g2
+(g6
+S'\x93\x85\xc0J,\xfc\xd1?'
+p869
+tp870
+Rp871
+tp872
+a(S'dublin philosophical society'
+p873
+g2
+(g6
+S'\xd01\x00:\x1f\xfb\xd1?'
+p874
+tp875
+Rp876
+tp877
+a(S'president of the senate of nigeria'
+p878
+g2
+(g6
+S'\x1e\x91E2h\xf7\xd1?'
+p879
+tp880
+Rp881
+tp882
+a(S'united states senate election in pennsylvania, 1851'
+p883
+g2
+(g6
+S'\x93\xacaV$\xed\xd1?'
+p884
+tp885
+Rp886
+tp887
+a(S'regent house'
+p888
+g2
+(g6
+S'\\J\xd4 \x0e\xe7\xd1?'
+p889
+tp890
+Rp891
+tp892
+a(S'county dublin'
+p893
+g2
+(g6
+S'sE\x0e\xc3\xfe\xe6\xd1?'
+p894
+tp895
+Rp896
+tp897
+a(S'united states senate special election in pennsylvania, 1861'
+p898
+g2
+(g6
+S'\xa9\xe1-\xf1\x9c\xe1\xd1?'
+p899
+tp900
+Rp901
+tp902
+a(S'senate of northern ireland'
+p903
+g2
+(g6
+S'\xa1F{\xdd\x06\xdc\xd1?'
+p904
+tp905
+Rp906
+tp907
+a(S'trinity hall, dublin'
+p908
+g2
+(g6
+S'?jD}\xd0\xd9\xd1?'
+p909
+tp910
+Rp911
+tp912
+a(S'curator of the united states senate'
+p913
+g2
+(g6
+S'\x1bX\xdb\xec\xf5\xd6\xd1?'
+p914
+tp915
+Rp916
+tp917
+a(S'william walsh (archbishop of dublin)'
+p918
+g2
+(g6
+S'\xb3\x9c\xc2\xd81\xce\xd1?'
+p919
+tp920
+Rp921
+tp922
+a(S'administrative meeting for senators not on the list of another group'
+p923
+g2
+(g6
+S'.\r\xf7_\xe8\xc8\xd1?'
+p924
+tp925
+Rp926
+tp927
+a(S'senate of kazakhstan'
+p928
+g2
+(g6
+S'\x0c*\x9e\x8f\x99\xc0\xd1?'
+p929
+tp930
+Rp931
+tp932
+a(S'alban francis'
+p933
+g2
+(g6
+S'\x8f}S\xfa\x85\xb6\xd1?'
+p934
+tp935
+Rp936
+tp937
+a(S'bernhard gettelman'
+p938
+g2
+(g6
+S'pW\x9dr\t\xb4\xd1?'
+p939
+tp940
+Rp941
+tp942
+a(S'senate staff health and fitness facility'
+p943
+g2
+(g6
+S'\xa8>\xa4Q%\xad\xd1?'
+p944
+tp945
+Rp946
+tp947
+a(S'daniel webster senate page residence'
+p948
+g2
+(g6
+S'\xccE\x86\xa8\xc7\xa8\xd1?'
+p949
+tp950
+Rp951
+tp952
+a(S'honorary degree'
+p953
+g2
+(g6
+S'\x0e\xe7\x91\xab\xb9\xa7\xd1?'
+p954
+tp955
+Rp956
+tp957
+a(S'david j. schiappa'
+p958
+g2
+(g6
+S'c\xfcy\xd4@\x9a\xd1?'
+p959
+tp960
+Rp961
+tp962
+a(S'california state senate districts'
+p963
+g2
+(g6
+S'T\x1e\xc1\xb9\xab\x98\xd1?'
+p964
+tp965
+Rp966
+tp967
+a(S'senate (democratic republic of the congo)'
+p968
+g2
+(g6
+S'\xe5F{\xba\xe5\x96\xd1?'
+p969
+tp970
+Rp971
+tp972
+a(S'list of dublin postal districts'
+p973
+g2
+(g6
+S'\x19\xe1\xee\x05\xdd\x8e\xd1?'
+p974
+tp975
+Rp976
+tp977
+a(S'micheal r. williams'
+p978
+g2
+(g6
+S'\x13m\xa7\xdf\xaa\x89\xd1?'
+p979
+tp980
+Rp981
+tp982
+a(S'senate of the republic (italy)'
+p983
+g2
+(g6
+S'1\xe7Z{v\x88\xd1?'
+p984
+tp985
+Rp986
+tp987
+a(S'galactic republic'
+p988
+g2
+(g6
+S'\x1e\t2\x9a\x03\x88\xd1?'
+p989
+tp990
+Rp991
+tp992
+a(S'bert brown'
+p993
+g2
+(g6
+S'\xa2h\xa8\x83;\x86\xd1?'
+p994
+tp995
+Rp996
+tp997
+a(S'senate (senegal)'
+p998
+g2
+(g6
+S"\x86'*\x85\x0c\x85\xd1?"
+p999
+tp1000
+Rp1001
+tp1002
+a(S'australian senate election, 1953'
+p1003
+g2
+(g6
+S"c'/\r\xe6|\xd1?"
+p1004
+tp1005
+Rp1006
+tp1007
+a(S'sheldon killpack'
+p1008
+g2
+(g6
+S"\xb2E\t\x85'w\xd1?"
+p1009
+tp1010
+Rp1011
+tp1012
+a(S'electoral history of thomas f. bayard'
+p1013
+g2
+(g6
+S'\x94k\xe4[jn\xd1?'
+p1014
+tp1015
+Rp1016
+tp1017
+a(S'daniel mcgladdery'
+p1018
+g2
+(g6
+S')v\x14)\xafh\xd1?'
+p1019
+tp1020
+Rp1021
+tp1022
+a(S'standing rules of the united states senate, rule vii'
+p1023
+g2
+(g6
+S'\xba58\x91\x8fh\xd1?'
+p1024
+tp1025
+Rp1026
+tp1027
+a(S'master of arts'
+p1028
+g2
+(g6
+S'A\x01\x8b\xce\xfbg\xd1?'
+p1029
+tp1030
+Rp1031
+tp1032
+a(S'david byerman'
+p1033
+g2
+(g6
+S' \xb4\xa4\xa0>c\xd1?'
+p1034
+tp1035
+Rp1036
+tp1037
+a(S'senate of the republic (mexico)'
+p1038
+g2
+(g6
+S'B\x00\x1d\xc0$b\xd1?'
+p1039
+tp1040
+Rp1041
+tp1042
+a(S'hiram monserrate'
+p1043
+g2
+(g6
+S'\xc7A\xd5\xd2\x01_\xd1?'
+p1044
+tp1045
+Rp1046
+tp1047
+a(S'timeline of dublin'
+p1048
+g2
+(g6
+S'\xb2\xe2\xb1\x9cx[\xd1?'
+p1049
+tp1050
+Rp1051
+tp1052
+a(S'dublin corporation'
+p1053
+g2
+(g6
+S'\xb6\x07<@\xafZ\xd1?'
+p1054
+tp1055
+Rp1056
+tp1057
+a(S'president of the senate of ceylon'
+p1058
+g2
+(g6
+S'L0pc?V\xd1?'
+p1059
+tp1060
+Rp1061
+tp1062
+a(S'jim denning'
+p1063
+g2
+(g6
+S'\x19\xbf\r\xe2\xceS\xd1?'
+p1064
+tp1065
+Rp1066
+tp1067
+a(S'senate (mauritania)'
+p1068
+g2
+(g6
+S'\xae+~\x1c\x7fJ\xd1?'
+p1069
+tp1070
+Rp1071
+tp1072
+a(S'senate, saskatchewan'
+p1073
+g2
+(g6
+S"A'#m[G\xd1?"
+p1074
+tp1075
+Rp1076
+tp1077
+a(S'greek senate (1829)'
+p1078
+g2
+(g6
+S'lO.7\xdeD\xd1?'
+p1079
+tp1080
+Rp1081
+tp1082
+a(S'united states senate election in pennsylvania, 1795'
+p1083
+g2
+(g6
+S'\xe1n\x10C\xe6<\xd1?'
+p1084
+tp1085
+Rp1086
+tp1087
+a(S'yann gaillard'
+p1088
+g2
+(g6
+S'\x0c\x92a*S8\xd1?'
+p1089
+tp1090
+Rp1091
+tp1092
+a(S'federalist no. 62'
+p1093
+g2
+(g6
+S'a \xed\xfd\x965\xd1?'
+p1094
+tp1095
+Rp1096
+tp1097
+a(S'medieval university of dublin'
+p1098
+g2
+(g6
+S'\xf7\x1e~\xb912\xd1?'
+p1099
+tp1100
+Rp1101
+tp1102
+a(S'sam slom'
+p1103
+g2
+(g6
+S'\x8c\x0c\x1bt\xd7/\xd1?'
+p1104
+tp1105
+Rp1106
+tp1107
+a(S'don perata'
+p1108
+g2
+(g6
+S'FX\xd9\xdf\xcc*\xd1?'
+p1109
+tp1110
+Rp1111
+tp1112
+a(S'consilium principis'
+p1113
+g2
+(g6
+S'\xe1\xe7a\xb4\xb5*\xd1?'
+p1114
+tp1115
+Rp1116
+tp1117
+a(S'senate of iran'
+p1118
+g2
+(g6
+S'\x9f\xad*yU)\xd1?'
+p1119
+tp1120
+Rp1121
+tp1122
+a(S'laura j. woods'
+p1123
+g2
+(g6
+S'\xba\x0eVE*&\xd1?'
+p1124
+tp1125
+Rp1126
+tp1127
+a(S'senate house, london'
+p1128
+g2
+(g6
+S'\x1a\x067\x9e\x9c$\xd1?'
+p1129
+tp1130
+Rp1131
+tp1132
+a(S'united states senate election in pennsylvania, 1849'
+p1133
+g2
+(g6
+S'\x16\xcc\x1c\xb4\x13#\xd1?'
+p1134
+tp1135
+Rp1136
+tp1137
+a(S'assistant secretary of the united states senate'
+p1138
+g2
+(g6
+S';(9,\x9f!\xd1?'
+p1139
+tp1140
+Rp1141
+tp1142
+a(S'senate of berlin'
+p1143
+g2
+(g6
+S'\xcb\xb9qq\x91\x1c\xd1?'
+p1144
+tp1145
+Rp1146
+tp1147
+a(S'students against the destruction of dublin'
+p1148
+g2
+(g6
+S'\xf6Hp[l\x1b\xd1?'
+p1149
+tp1150
+Rp1151
+tp1152
+a(S'peter fox (librarian)'
+p1153
+g2
+(g6
+S'\x9f\xd7F\x00W\x18\xd1?'
+p1154
+tp1155
+Rp1156
+tp1157
+a(S'floor leader'
+p1158
+g2
+(g6
+S'\x19\xef)\xca@\x16\xd1?'
+p1159
+tp1160
+Rp1161
+tp1162
+a(S'australian senate election, 1964'
+p1163
+g2
+(g6
+S'6\x17[yf\x13\xd1?'
+p1164
+tp1165
+Rp1166
+tp1167
+a(S'george ferdinand shaw'
+p1168
+g2
+(g6
+S'k&\xfd\xc6O\x10\xd1?'
+p1169
+tp1170
+Rp1171
+tp1172
+a(S'francis r. valeo'
+p1173
+g2
+(g6
+S'\xe2SseR\r\xd1?'
+p1174
+tp1175
+Rp1176
+tp1177
+a(S'australian referendum, 1906 (senate elections)'
+p1178
+g2
+(g6
+S'QNw\x95\xbc\n\xd1?'
+p1179
+tp1180
+Rp1181
+tp1182
+a(S'jay hottinger'
+p1183
+g2
+(g6
+S'\x18\xb2\x9a\\\xd5\x06\xd1?'
+p1184
+tp1185
+Rp1186
+tp1187
+a(S'dublin, california'
+p1188
+g2
+(g6
+S'\xaf\x93\xeey+\x04\xd1?'
+p1189
+tp1190
+Rp1191
+tp1192
+a(S'carmencita hederman'
+p1193
+g2
+(g6
+S'\xbd\x93\x9a\x9eB\x02\xd1?'
+p1194
+tp1195
+Rp1196
+tp1197
+a(S'chancellor (education)'
+p1198
+g2
+(g6
+S'8*\x98|\x03\xfb\xd0?'
+p1199
+tp1200
+Rp1201
+tp1202
+a(S'muhammad saleh shah'
+p1203
+g2
+(g6
+S'\x8bI\xde\x9e\x0f\xf6\xd0?'
+p1204
+tp1205
+Rp1206
+tp1207
+a(S'chuck morse'
+p1208
+g2
+(g6
+S'&Vf\xf2\x7f\xf3\xd0?'
+p1209
+tp1210
+Rp1211
+tp1212
+a(S'roland courteau'
+p1213
+g2
+(g6
+S'\xec\x7f\xc9C\xf2\xf0\xd0?'
+p1214
+tp1215
+Rp1216
+tp1217
+a(S'jerry petrowski'
+p1218
+g2
+(g6
+S'C\x7f\x15t;\xf0\xd0?'
+p1219
+tp1220
+Rp1221
+tp1222
+a(S'julian mcgauran'
+p1223
+g2
+(g6
+S'\xa2)\x0b\xfd\xf2\xeb\xd0?'
+p1224
+tp1225
+Rp1226
+tp1227
+a(S'michael kearney (priest)'
+p1228
+g2
+(g6
+S'B9\x13\x02\xd7\xe7\xd0?'
+p1229
+tp1230
+Rp1231
+tp1232
+a(S'united states senate election in pennsylvania, 1897'
+p1233
+g2
+(g6
+S'\x83\x05"\x91c\xe3\xd0?'
+p1234
+tp1235
+Rp1236
+tp1237
+a(S'boyd r. overhulse'
+p1238
+g2
+(g6
+S'(\xad\xbfT2\xe3\xd0?'
+p1239
+tp1240
+Rp1241
+tp1242
+a(S'united states senate special election in pennsylvania, 1845'
+p1243
+g2
+(g6
+S'\x7f\x1f\x1b\x9a0\xe1\xd0?'
+p1244
+tp1245
+Rp1246
+tp1247
+a(S'thomas croci'
+p1248
+g2
+(g6
+S'\x89\x17\x99e\xc7\xdf\xd0?'
+p1249
+tp1250
+Rp1251
+tp1252
+a(S'rich kasunic'
+p1253
+g2
+(g6
+S'\xc83\x88\xef\xb0\xdf\xd0?'
+p1254
+tp1255
+Rp1256
+tp1257
+a(S'milton young'
+p1258
+g2
+(g6
+S"\xab'{\xa8W\xde\xd0?"
+p1259
+tp1260
+Rp1261
+tp1262
+a(S'elizabeth baldwin letchworth'
+p1263
+g2
+(g6
+S'LD\xe5n\xc9\xdd\xd0?'
+p1264
+tp1265
+Rp1266
+tp1267
+a(S'history of trinity college, oxford'
+p1268
+g2
+(g6
+S'\xd6e\xf9:5\xdd\xd0?'
+p1269
+tp1270
+Rp1271
+tp1272
+a(S'tommie williams'
+p1273
+g2
+(g6
+S'C\xd9\r\xcfG\xdc\xd0?'
+p1274
+tp1275
+Rp1276
+tp1277
+a(S'list of united states state legislatures'
+p1278
+g2
+(g6
+S'\x02\x12A\xb6*\xda\xd0?'
+p1279
+tp1280
+Rp1281
+tp1282
+a(S'united states senate election in wyoming, 2018'
+p1283
+g2
+(g6
+S'U\xea\\\xab5\xd6\xd0?'
+p1284
+tp1285
+Rp1286
+tp1287
+a(S'dublin high school (california)'
+p1288
+g2
+(g6
+S'ex\xe4\xfa\xd9\xd4\xd0?'
+p1289
+tp1290
+Rp1291
+tp1292
+a(S'double dissolution'
+p1293
+g2
+(g6
+S'\x82K\x94\x93\xbb\xd3\xd0?'
+p1294
+tp1295
+Rp1296
+tp1297
+a(S'senate (rwanda)'
+p1298
+g2
+(g6
+S'\x1ed\x01\x8e\x12\xcf\xd0?'
+p1299
+tp1300
+Rp1301
+tp1302
+a(S'united states senate election in pennsylvania, 1873'
+p1303
+g2
+(g6
+S'\x0cD\x82y\xf9\xc6\xd0?'
+p1304
+tp1305
+Rp1306
+tp1307
+a(S'humphrey lloyd (physicist)'
+p1308
+g2
+(g6
+S'\xea\xe13\xc3`\xc1\xd0?'
+p1309
+tp1310
+Rp1311
+tp1312
+a(S'holly mitchell'
+p1313
+g2
+(g6
+S'<d\x08\xdb\xc5\xbf\xd0?'
+p1314
+tp1315
+Rp1316
+tp1317
+a(S'illinois senate elections, 2014'
+p1318
+g2
+(g6
+S')\xfdo<\xbf\xbd\xd0?'
+p1319
+tp1320
+Rp1321
+tp1322
+a(S'list of elections in 1986'
+p1323
+g2
+(g6
+S'\x11w9DQ\xba\xd0?'
+p1324
+tp1325
+Rp1326
+tp1327
+a(S'sheila frahm'
+p1328
+g2
+(g6
+S'\xff\x8f\x90\x13F\xba\xd0?'
+p1329
+tp1330
+Rp1331
+tp1332
+a(S'dan delp'
+p1333
+g2
+(g6
+S'\x00\xe0p\te\xb9\xd0?'
+p1334
+tp1335
+Rp1336
+tp1337
+a(S'carl kunasek'
+p1338
+g2
+(g6
+S'\xa1\x87\xaa9\xab\xb3\xd0?'
+p1339
+tp1340
+Rp1341
+tp1342
+a(S'republic of the congo senate election, 2008'
+p1343
+g2
+(g6
+S'\xe5[Y\xef(\xb1\xd0?'
+p1344
+tp1345
+Rp1346
+tp1347
+a(S'nuclear option'
+p1348
+g2
+(g6
+S'\xdc\xfc\x93\x9cI\xab\xd0?'
+p1349
+tp1350
+Rp1351
+tp1352
+a(S'trinity lane'
+p1353
+g2
+(g6
+S'\xad\x1e\xd0\xc8\x0c\xa7\xd0?'
+p1354
+tp1355
+Rp1356
+tp1357
+a(S'gregory p. schmidt'
+p1358
+g2
+(g6
+S']\xa9\xa0\x91\xdb\xa2\xd0?'
+p1359
+tp1360
+Rp1361
+tp1362
+a(S'david suetterlein'
+p1363
+g2
+(g6
+S'\xc1\x12\xa5\xce\x0e\x9f\xd0?'
+p1364
+tp1365
+Rp1366
+tp1367
+a(S'united states senate election in idaho, 2016'
+p1368
+g2
+(g6
+S'\xc6z[\xd4^\x9d\xd0?'
+p1369
+tp1370
+Rp1371
+tp1372
+a(S'charles b. tanksley'
+p1373
+g2
+(g6
+S'\x18\xcdE\xe6\xc8\x9c\xd0?'
+p1374
+tp1375
+Rp1376
+tp1377
+a(S'george onorato'
+p1378
+g2
+(g6
+S'jR]\xd3r\x9c\xd0?'
+p1379
+tp1380
+Rp1381
+tp1382
+a(S'william arthur watts'
+p1383
+g2
+(g6
+S'\xb8<,\xf3\xbb\x98\xd0?'
+p1384
+tp1385
+Rp1386
+tp1387
+a(S'nuhu aliyu labbo'
+p1388
+g2
+(g6
+S'{\xf3\xb7\x0eb\x98\xd0?'
+p1389
+tp1390
+Rp1391
+tp1392
+a(S'old dublin society'
+p1393
+g2
+(g6
+S'\xfe\xfdA\xfe\xcb\x97\xd0?'
+p1394
+tp1395
+Rp1396
+tp1397
+a(S'ancient university'
+p1398
+g2
+(g6
+S'\x16k\xba\x8c\x9d\x97\xd0?'
+p1399
+tp1400
+Rp1401
+tp1402
+a(S'didier boulaud'
+p1403
+g2
+(g6
+S'3\xca\xbf\x03\xb9\x94\xd0?'
+p1404
+tp1405
+Rp1406
+tp1407
+a(S'united states senate election in pennsylvania, 1843'
+p1408
+g2
+(g6
+S'R\n>\xc5e\x93\xd0?'
+p1409
+tp1410
+Rp1411
+tp1412
+a(S'wayne dropulich'
+p1413
+g2
+(g6
+S'\xa4~.\x87k\x90\xd0?'
+p1414
+tp1415
+Rp1416
+tp1417
+a(S'trinity college'
+p1418
+g2
+(g6
+S'\x8dcw\x05\xf4\x8e\xd0?'
+p1419
+tp1420
+Rp1421
+tp1422
+a(S'trinity college chapel'
+p1423
+g2
+(g6
+S'\xb4\xb8\xa7$\x86\x8c\xd0?'
+p1424
+tp1425
+Rp1426
+tp1427
+a(S'john bonacic'
+p1428
+g2
+(g6
+S'\xc9\x15\xc7\r-\x8c\xd0?'
+p1429
+tp1430
+Rp1431
+tp1432
+a(S'renan calheiros'
+p1433
+g2
+(g6
+S'\x00\xab,\xae\x0f\x8c\xd0?'
+p1434
+tp1435
+Rp1436
+tp1437
+a(S'nevada senate'
+p1438
+g2
+(g6
+S'\xf7#\xb2\x93\xcd\x8a\xd0?'
+p1439
+tp1440
+Rp1441
+tp1442
+a(S'gerry hargan'
+p1443
+g2
+(g6
+S'\xde\xc0\x1b\xbe\xa8\x8a\xd0?'
+p1444
+tp1445
+Rp1446
+tp1447
+a(S'parliament of southern ireland'
+p1448
+g2
+(g6
+S'\x7f\x81\xd8\xf4\x05\x87\xd0?'
+p1449
+tp1450
+Rp1451
+tp1452
+a(S'trinity college, cambridge'
+p1453
+g2
+(g6
+S'M#o\n\x01\x86\xd0?'
+p1454
+tp1455
+Rp1456
+tp1457
+a(S'mohammad yousaf (pakistani politician)'
+p1458
+g2
+(g6
+S'}\xf5\x8bl5\x82\xd0?'
+p1459
+tp1460
+Rp1461
+tp1462
+a(S'emil jones'
+p1463
+g2
+(g6
+S'}\xe2\x7f\x85\x1a\x82\xd0?'
+p1464
+tp1465
+Rp1466
+tp1467
+a(S'school of medicine (trinity college, dublin)'
+p1468
+g2
+(g6
+S'%\x97\x18\x06\x0c\x80\xd0?'
+p1469
+tp1470
+Rp1471
+tp1472
+a(S'seventeenth amendment to the united states constitution'
+p1473
+g2
+(g6
+S'\xde\xf9\xd5\xc3\x0c{\xd0?'
+p1474
+tp1475
+Rp1476
+tp1477
+a(S'sajid mir'
+p1478
+g2
+(g6
+S'g"\xb1nKx\xd0?'
+p1479
+tp1480
+Rp1481
+tp1482
+a(S'pennsylvania senate election, 2010'
+p1483
+g2
+(g6
+S'\x97\xfa\x0e-$t\xd0?'
+p1484
+tp1485
+Rp1486
+tp1487
+a(S'third-level education in the republic of ireland'
+p1488
+g2
+(g6
+S'3\xf0\xca\xbd\xceo\xd0?'
+p1489
+tp1490
+Rp1491
+tp1492
+a(S'women senators'
+p1493
+g2
+(g6
+S'\xe3.-\x8e\xe4n\xd0?'
+p1494
+tp1495
+Rp1496
+tp1497
+a(S'john f. campbell (politician)'
+p1498
+g2
+(g6
+S'\xc0\xf3\xc3N<k\xd0?'
+p1499
+tp1500
+Rp1501
+tp1502
+a(S'national university of ireland'
+p1503
+g2
+(g6
+S'\xae\xd1\xf9\x0b\xcbj\xd0?'
+p1504
+tp1505
+Rp1506
+tp1507
+a(S'jim ferlo'
+p1508
+g2
+(g6
+S'"\xa9\xdd\xce\xb7i\xd0?'
+p1509
+tp1510
+Rp1511
+tp1512
+a.

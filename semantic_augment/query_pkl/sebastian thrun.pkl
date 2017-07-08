@@ -1,0 +1,2728 @@
+(lp0
+(S'sebastian thrun'
+p1
+cnumpy.core.multiarray
+scalar
+p2
+(cnumpy
+dtype
+p3
+(S'f8'
+p4
+I0
+I1
+tp5
+Rp6
+(I3
+S'<'
+p7
+NNNI-1
+I-1
+I0
+tp8
+bS'\xff\xff\xff\xff\xff\xff\xef?'
+p9
+tp10
+Rp11
+tp12
+a(S'darpa grand challenge'
+p13
+g2
+(g6
+S'\xe2{\xb3]UO\xdf?'
+p14
+tp15
+Rp16
+tp17
+a(S'james j. kuffner jr.'
+p18
+g2
+(g6
+S'\x04\xa6\x01\x1eW\xea\xdc?'
+p19
+tp20
+Rp21
+tp22
+a(S'stanley (vehicle)'
+p23
+g2
+(g6
+S'n\xd59\xd3\\\x80\xdc?'
+p24
+tp25
+Rp26
+tp27
+a(S'national robotics engineering center'
+p28
+g2
+(g6
+S'K\x81\x8d\x0b\xe0b\xdb?'
+p29
+tp30
+Rp31
+tp32
+a(S'darpa robotics challenge'
+p33
+g2
+(g6
+S'\x90\x08\xfdv\xe9\xed\xda?'
+p34
+tp35
+Rp36
+tp37
+a(S'dieter fox'
+p38
+g2
+(g6
+S'(|fJ\x18\xbe\xd8?'
+p39
+tp40
+Rp41
+tp42
+a(S'robotics institute'
+p43
+g2
+(g6
+S'F\xc7\xde\xa8\x13\xbd\xd8?'
+p44
+tp45
+Rp46
+tp47
+a(S'personal robot'
+p48
+g2
+(g6
+S'Y\xe3\xa5k\xec\x99\xd8?'
+p49
+tp50
+Rp51
+tp52
+a(S'outline of robotics'
+p53
+g2
+(g6
+S'\xa4\xe2\xb2\xe3\x11u\xd8?'
+p54
+tp55
+Rp56
+tp57
+a(S'red whittaker'
+p58
+g2
+(g6
+S'\xeeq\xd0C\x1c\xed\xd7?'
+p59
+tp60
+Rp61
+tp62
+a(S'paul j. perrone'
+p63
+g2
+(g6
+S'7<\xd4_\xe1\xb7\xd7?'
+p64
+tp65
+Rp66
+tp67
+a(S'carnegie mellon school of computer science'
+p68
+g2
+(g6
+S'.|d\x85\xeah\xd7?'
+p69
+tp70
+Rp71
+tp72
+a(S'darpa (disambiguation)'
+p73
+g2
+(g6
+S'x\xe3\x97\xbc\x009\xd7?'
+p74
+tp75
+Rp76
+tp77
+a(S'index of robotics articles'
+p78
+g2
+(g6
+S'\r\xbcB\x11M\xf3\xd6?'
+p79
+tp80
+Rp81
+tp82
+a(S'roboticist'
+p83
+g2
+(g6
+S'M\xe6J\xc2L\xe2\xd6?'
+p84
+tp85
+Rp86
+tp87
+a(S'srinivasan seshan'
+p88
+g2
+(g6
+S'\x82\xe6\xed\xc4\x19\x80\xd6?'
+p89
+tp90
+Rp91
+tp92
+a(S'x (company)'
+p93
+g2
+(g6
+S'\xe7\xe25\xc3M\x0f\xd6?'
+p94
+tp95
+Rp96
+tp97
+a(S'florida institute for human and machine cognition'
+p98
+g2
+(g6
+S'\x02\x99\x90\xbbk\xd0\xd5?'
+p99
+tp100
+Rp101
+tp102
+a(S'christopher g. atkeson'
+p103
+g2
+(g6
+S'\xe2wn*\xa4\xb6\xd5?'
+p104
+tp105
+Rp106
+tp107
+a(S'frank dellaert'
+p108
+g2
+(g6
+S'\xf8&\xda\x06\x17\xa6\xd5?'
+p109
+tp110
+Rp111
+tp112
+a(S'robot competition'
+p113
+g2
+(g6
+S'\xe01\xcf\xbb\xc2\x9b\xd5?'
+p114
+tp115
+Rp116
+tp117
+a(S'joseph engelberger'
+p118
+g2
+(g6
+S'4}#\\\xb9n\xd5?'
+p119
+tp120
+Rp121
+tp122
+a(S'wolfram burgard'
+p123
+g2
+(g6
+S'[\x19~\x9b\xcc\x1b\xd5?'
+p124
+tp125
+Rp126
+tp127
+a(S'henrik i. christensen'
+p128
+g2
+(g6
+S'\x84F\x8e\xb5\x15\x06\xd5?'
+p129
+tp130
+Rp131
+tp132
+a(S'robot learning'
+p133
+g2
+(g6
+S'\xd29\x80y\xad\xfd\xd4?'
+p134
+tp135
+Rp136
+tp137
+a(S'centibots'
+p138
+g2
+(g6
+S'm#\x89\x9b\x1b\xfd\xd4?'
+p139
+tp140
+Rp141
+tp142
+a(S'robotics suite'
+p143
+g2
+(g6
+S'(\n\x85p\xe2\xcf\xd4?'
+p144
+tp145
+Rp146
+tp147
+a(S'paul eremenko'
+p148
+g2
+(g6
+S'\x94T\xfb\x05\x87\x1d\xd4?'
+p149
+tp150
+Rp151
+tp152
+a(S'bradley nelson'
+p153
+g2
+(g6
+S'H}\xbe]\xeb\x13\xd4?'
+p154
+tp155
+Rp156
+tp157
+a(S'perrone robotics'
+p158
+g2
+(g6
+S'?\xe8\xf3\x9c,\x0b\xd4?'
+p159
+tp160
+Rp161
+tp162
+a(S'darpa grand challenge (2007)'
+p163
+g2
+(g6
+S'\xe5\x14@\x1a\x85\xe1\xd3?'
+p164
+tp165
+Rp166
+tp167
+a(S'robot hall of fame'
+p168
+g2
+(g6
+S'C^\x80\xd83\xc3\xd3?'
+p169
+tp170
+Rp171
+tp172
+a(S'meka robotics'
+p173
+g2
+(g6
+S'>x\x9b&(\xb3\xd3?'
+p174
+tp175
+Rp176
+tp177
+a(S'darpa grand challenge (2005)'
+p178
+g2
+(g6
+S'\xaf\xb5(\xf4<\xa4\xd3?'
+p179
+tp180
+Rp181
+tp182
+a(S'gregory dudek'
+p183
+g2
+(g6
+S'\xa2\xcd\\\x9d\xa0\x95\xd3?'
+p184
+tp185
+Rp186
+tp187
+a(S'ruzena bajcsy'
+p188
+g2
+(g6
+S'\xb6\xe2\xb3e\xbb\x8b\xd3?'
+p189
+tp190
+Rp191
+tp192
+a(S'darpa shredder challenge 2011'
+p193
+g2
+(g6
+S'\xa6\x10\x99T\xbb\x81\xd3?'
+p194
+tp195
+Rp196
+tp197
+a(S'robot research initiative'
+p198
+g2
+(g6
+S'b\xdaa\x99`\x81\xd3?'
+p199
+tp200
+Rp201
+tp202
+a(S'gerd hirzinger'
+p203
+g2
+(g6
+S'e\xaa\xfe\xa6\x88^\xd3?'
+p204
+tp205
+Rp206
+tp207
+a(S'cloud robotics'
+p208
+g2
+(g6
+S'\xdf\x8f\xfb\x1c\x9bD\xd3?'
+p209
+tp210
+Rp211
+tp212
+a(S'darpa'
+p213
+g2
+(g6
+S'\xb9@&;\x041\xd3?'
+p214
+tp215
+Rp216
+tp217
+a(S'anthony levandowski'
+p218
+g2
+(g6
+S'\xad\x08\x15\x04[$\xd3?'
+p219
+tp220
+Rp221
+tp222
+a(S'andrew ng'
+p223
+g2
+(g6
+S'{\xd0\x9d\x0fq\xec\xd2?'
+p224
+tp225
+Rp226
+tp227
+a(S'google'
+p228
+g2
+(g6
+S'\x81\x80\xc4X\xda\xc4\xd2?'
+p229
+tp230
+Rp231
+tp232
+a(S'angel g. jordan'
+p233
+g2
+(g6
+S'\x9a\xf3\x90\x9f\xb0\x9f\xd2?'
+p234
+tp235
+Rp236
+tp237
+a(S'darpa grand challenge (2004)'
+p238
+g2
+(g6
+S'cZ\x84\x05\xbdw\xd2?'
+p239
+tp240
+Rp241
+tp242
+a(S'robot software'
+p243
+g2
+(g6
+S'<-\xb2\x1a\xc1e\xd2?'
+p244
+tp245
+Rp246
+tp247
+a(S'the department of mad scientists'
+p248
+g2
+(g6
+S'\xda-\x87\xd8\x01X\xd2?'
+p249
+tp250
+Rp251
+tp252
+a(S'timeline of artificial intelligence'
+p253
+g2
+(g6
+S'\x9c\xa65#\xb0L\xd2?'
+p254
+tp255
+Rp256
+tp257
+a(S'h\xc3\xa9ctor garc\xc3\xada-molina'
+p258
+g2
+(g6
+S'_H\xca@\x0f&\xd2?'
+p259
+tp260
+Rp261
+tp262
+a(S'robotic industries association'
+p263
+g2
+(g6
+S'\x92\\\x1e\xa2I!\xd2?'
+p264
+tp265
+Rp266
+tp267
+a(S'boston dynamics'
+p268
+g2
+(g6
+S'K\xa4z7\xe9\x16\xd2?'
+p269
+tp270
+Rp271
+tp272
+a(S'glossary of robotics'
+p273
+g2
+(g6
+S'\x9d\x925l^\xf7\xd1?'
+p274
+tp275
+Rp276
+tp277
+a(S'activmedia robotics'
+p278
+g2
+(g6
+S'\x87\xdc\x87\xadp\xdd\xd1?'
+p279
+tp280
+Rp281
+tp282
+a(S'atrias'
+p283
+g2
+(g6
+S'\xb7\\x\xdf\xdb\xd5\xd1?'
+p284
+tp285
+Rp286
+tp287
+a(S'atlas (robot)'
+p288
+g2
+(g6
+S'\x16w\xc0x1\xc0\xd1?'
+p289
+tp290
+Rp291
+tp292
+a(S'cajunbot'
+p293
+g2
+(g6
+S'\xac\xc5\xd9q#\xbf\xd1?'
+p294
+tp295
+Rp296
+tp297
+a(S'international federation of robotics'
+p298
+g2
+(g6
+S'[{\x12\xefN\xbb\xd1?'
+p299
+tp300
+Rp301
+tp302
+a(S'microsoft robotics developer studio'
+p303
+g2
+(g6
+S'89&\xd1\x8d\xb7\xd1?'
+p304
+tp305
+Rp306
+tp307
+a(S'irobot'
+p308
+g2
+(g6
+S'\xfd\x13\xfe(o\xb3\xd1?'
+p309
+tp310
+Rp311
+tp312
+a(S'complete music update'
+p313
+g2
+(g6
+S'2>\x99\x00\x88\xa7\xd1?'
+p314
+tp315
+Rp316
+tp317
+a(S'list of mergers and acquisitions by alphabet'
+p318
+g2
+(g6
+S'\x17\x88\x16\xb6\xac\x9e\xd1?'
+p319
+tp320
+Rp321
+tp322
+a(S'redwood robotics'
+p323
+g2
+(g6
+S'.\xaa\xaa\xe5\x10\x9d\xd1?'
+p324
+tp325
+Rp326
+tp327
+a(S'history of google'
+p328
+g2
+(g6
+S'\xcb\xcb\xfcg\xcd\x9c\xd1?'
+p329
+tp330
+Rp331
+tp332
+a(S'stanford university'
+p333
+g2
+(g6
+S"\xfd'\xd7f0\x9b\xd1?"
+p334
+tp335
+Rp336
+tp337
+a(S'rodney brooks'
+p338
+g2
+(g6
+S'\xd9\xe7.\x9f\x95\x95\xd1?'
+p339
+tp340
+Rp341
+tp342
+a(S'narayanan shivakumar'
+p343
+g2
+(g6
+S'_nJh\xcd\x8c\xd1?'
+p344
+tp345
+Rp346
+tp347
+a(S'yossi matias'
+p348
+g2
+(g6
+S'k\xd3_\xbc\x9d\x82\xd1?'
+p349
+tp350
+Rp351
+tp352
+a(S'fran\xc3\xa7ois pierrot'
+p353
+g2
+(g6
+S'\xfej\xf19&\x7f\xd1?'
+p354
+tp355
+Rp356
+tp357
+a(S'national robotics challenge'
+p358
+g2
+(g6
+S'\x13\xfc\xea\xce\xe1x\xd1?'
+p359
+tp360
+Rp361
+tp362
+a(S'katia sycara'
+p363
+g2
+(g6
+S'V\xb0+F*w\xd1?'
+p364
+tp365
+Rp366
+tp367
+a(S'neil daswani'
+p368
+g2
+(g6
+S'\xd2\x90N\\\xccv\xd1?'
+p369
+tp370
+Rp371
+tp372
+a(S'ilya sutskever'
+p373
+g2
+(g6
+S'\t\x862\x15\xe6u\xd1?'
+p374
+tp375
+Rp376
+tp377
+a(S'surface robotics laboratory-cmeri'
+p378
+g2
+(g6
+S'\rAE\xd1er\xd1?'
+p379
+tp380
+Rp381
+tp382
+a(S'ernest lenard hall'
+p383
+g2
+(g6
+S'\xbe\xac\r\x88\xf0p\xd1?'
+p384
+tp385
+Rp386
+tp387
+a(S'mobile robot'
+p388
+g2
+(g6
+S'\xca\xec4\x9b\xedo\xd1?'
+p389
+tp390
+Rp391
+tp392
+a(S'list of google apps for android'
+p393
+g2
+(g6
+S'\xb5\xfd\xabP\x1d]\xd1?'
+p394
+tp395
+Rp396
+tp397
+a(S'mehran sahami'
+p398
+g2
+(g6
+S'\xd1\x92@\xf3\xa3X\xd1?'
+p399
+tp400
+Rp401
+tp402
+a(S'robot ethics'
+p403
+g2
+(g6
+S'\x1d\xbc\xd2\xe6WM\xd1?'
+p404
+tp405
+Rp406
+tp407
+a(S'jean-claude latombe'
+p408
+g2
+(g6
+S'\x81\x9e_\xdb\xfeI\xd1?'
+p409
+tp410
+Rp411
+tp412
+a(S'stanford university centers and institutes'
+p413
+g2
+(g6
+S'\xddgE<\nH\xd1?'
+p414
+tp415
+Rp416
+tp417
+a(S'robot magazine'
+p418
+g2
+(g6
+S'\xa2\x86I\xe7\xa4>\xd1?'
+p419
+tp420
+Rp421
+tp422
+a(S'darwin caldwell'
+p423
+g2
+(g6
+S'~\xee\x93\xbb\x9f>\xd1?'
+p424
+tp425
+Rp426
+tp427
+a(S'outline of google'
+p428
+g2
+(g6
+S'\x99\xbf\x95\xd4\x005\xd1?'
+p429
+tp430
+Rp431
+tp432
+a(S'kim jong-hwan'
+p433
+g2
+(g6
+S'\x8a\xfc\xd1=p-\xd1?'
+p434
+tp435
+Rp436
+tp437
+a(S'armin b. cremers'
+p438
+g2
+(g6
+S'\x81\xe7\xa8P\xc5 \xd1?'
+p439
+tp440
+Rp441
+tp442
+a(S'victor scheinman'
+p443
+g2
+(g6
+S'\x8c\xf7\x9b1\xd6\x1a\xd1?'
+p444
+tp445
+Rp446
+tp447
+a(S'paladyn'
+p448
+g2
+(g6
+S'\x1b6NK=\x12\xd1?'
+p449
+tp450
+Rp451
+tp452
+a(S'list of google products'
+p453
+g2
+(g6
+S'\xd4VM\x99\xab\x10\xd1?'
+p454
+tp455
+Rp456
+tp457
+a(S'peter corke'
+p458
+g2
+(g6
+S'\xfe\x7f (\xe3\x0c\xd1?'
+p459
+tp460
+Rp461
+tp462
+a(S'stanford (name)'
+p463
+g2
+(g6
+S'\x19\x8fEqM\xfa\xd0?'
+p464
+tp465
+Rp466
+tp467
+a(S'google brain'
+p468
+g2
+(g6
+S'\x12#\xc2\xac\xe4\xf2\xd0?'
+p469
+tp470
+Rp471
+tp472
+a(S'social robot'
+p473
+g2
+(g6
+S'\xc2\xb1\xa9\x1c\xe0\xef\xd0?'
+p474
+tp475
+Rp476
+tp477
+a(S'yoky matsuoka'
+p478
+g2
+(g6
+S'\xa4\xc7x\xc0\xa8\xee\xd0?'
+p479
+tp480
+Rp481
+tp482
+a(S'marc levoy'
+p483
+g2
+(g6
+S'\x83\xd3@\x1c\x07\xea\xd0?'
+p484
+tp485
+Rp486
+tp487
+a(S'rajeev motwani'
+p488
+g2
+(g6
+S'\x91d\xb6\xcc\x9a\xdc\xd0?'
+p489
+tp490
+Rp491
+tp492
+a(S'robotics'
+p493
+g2
+(g6
+S'\xad\xa7\x07\xc0\x8d\xdc\xd0?'
+p494
+tp495
+Rp496
+tp497
+a(S'francesco mondada'
+p498
+g2
+(g6
+S'\x01C\xbeK]\xd6\xd0?'
+p499
+tp500
+Rp501
+tp502
+a(S'stanford (disambiguation)'
+p503
+g2
+(g6
+S'\x04\xef\x0c}\xea\xc1\xd0?'
+p504
+tp505
+Rp506
+tp507
+a(S'masakatsu g. fujie'
+p508
+g2
+(g6
+S'.D\xf8\xbc!\xbf\xd0?'
+p509
+tp510
+Rp511
+tp512
+a(S'criticism of google'
+p513
+g2
+(g6
+S'\x9c\n\xcd\xd3T\xba\xd0?'
+p514
+tp515
+Rp516
+tp517
+a(S'cognitive robotics'
+p518
+g2
+(g6
+S'\x01\xb9\xaf\x076\xba\xd0?'
+p519
+tp520
+Rp521
+tp522
+a(S'susan wojcicki'
+p523
+g2
+(g6
+S'\xda{\xc8m3\xb1\xd0?'
+p524
+tp525
+Rp526
+tp527
+a(S'list of european union robotics projects'
+p528
+g2
+(g6
+S'!\\d\xa9\x8b\xab\xd0?'
+p529
+tp530
+Rp531
+tp532
+a(S'noel sharkey'
+p533
+g2
+(g6
+S'V\xd1\xfcJU\xa5\xd0?'
+p534
+tp535
+Rp536
+tp537
+a(S'adaptable robotics'
+p538
+g2
+(g6
+S'\xcfz\xdf\xae\x12\x9c\xd0?'
+p539
+tp540
+Rp541
+tp542
+a(S's-one'
+p543
+g2
+(g6
+S'\xfd\x17JTm\x98\xd0?'
+p544
+tp545
+Rp546
+tp547
+a(S'google+'
+p548
+g2
+(g6
+S"/\xebi'H\x97\xd0?"
+p549
+tp550
+Rp551
+tp552
+a(S'ruppin academic center'
+p553
+g2
+(g6
+S'\x91|G8\xae\x83\xd0?'
+p554
+tp555
+Rp556
+tp557
+a(S'educational robotics'
+p558
+g2
+(g6
+S'\x85n\xf7\xf4\x16\x81\xd0?'
+p559
+tp560
+Rp561
+tp562
+a(S'industrial robot'
+p563
+g2
+(g6
+S'J\xb9\x08n\xeax\xd0?'
+p564
+tp565
+Rp566
+tp567
+a(S"list of google april fools' day jokes"
+p568
+g2
+(g6
+S'\x0bw\xe3\x88<x\xd0?'
+p569
+tp570
+Rp571
+tp572
+a(S'john jay science and engineering academy'
+p573
+g2
+(g6
+S'iR\x8f\xfb=n\xd0?'
+p574
+tp575
+Rp576
+tp577
+a(S'waymo'
+p578
+g2
+(g6
+S'+\xb9)+jm\xd0?'
+p579
+tp580
+Rp581
+tp582
+a(S'stanford in popular culture'
+p583
+g2
+(g6
+S'\x17\xb99\x1f\x8fk\xd0?'
+p584
+tp585
+Rp586
+tp587
+a(S'robotshop'
+p588
+g2
+(g6
+S"'\xfb\x8b\x1c\x9d^\xd0?"
+p589
+tp590
+Rp591
+tp592
+a(S'list of punahou school alumni'
+p593
+g2
+(g6
+S'\xd0A\xe8\xa3\x0f\\\xd0?'
+p594
+tp595
+Rp596
+tp597
+a(S'department of computer science, university of illinois at urbana\xe2\x80\x93champaign'
+p598
+g2
+(g6
+S'\xc9\x0c\xc0\x00hV\xd0?'
+p599
+tp600
+Rp601
+tp602
+a(S'history of stanford university'
+p603
+g2
+(g6
+S'y\xbb\xa0\xe5\xb3T\xd0?'
+p604
+tp605
+Rp606
+tp607
+a(S'american robotics'
+p608
+g2
+(g6
+S'B&\x06|\x93O\xd0?'
+p609
+tp610
+Rp611
+tp612
+a(S'raj reddy'
+p613
+g2
+(g6
+S'\x83\xf1\xbc\x80\xf3F\xd0?'
+p614
+tp615
+Rp616
+tp617
+a(S'shigeo hirose'
+p618
+g2
+(g6
+S'\xdcs\xdf\x16\xebD\xd0?'
+p619
+tp620
+Rp621
+tp622
+a(S'alan w. black'
+p623
+g2
+(g6
+S'\x8a\xab\xb4:\xe7D\xd0?'
+p624
+tp625
+Rp626
+tp627
+a(S'google business solutions'
+p628
+g2
+(g6
+S'\xb7\x0e\x8d\xbb\xb0>\xd0?'
+p629
+tp630
+Rp631
+tp632
+a(S'planet google'
+p633
+g2
+(g6
+S'\xea\xc6\x0bSD/\xd0?'
+p634
+tp635
+Rp636
+tp637
+a(S'wesley chan'
+p638
+g2
+(g6
+S'\xf3\xf5\xb3\xf3\xad.\xd0?'
+p639
+tp640
+Rp641
+tp642
+a(S'jong oh park'
+p643
+g2
+(g6
+S'\x99\xd7\t;\xa0-\xd0?'
+p644
+tp645
+Rp646
+tp647
+a(S'vijay kumar (roboticist)'
+p648
+g2
+(g6
+S't\xac\xb5/\xe6*\xd0?'
+p649
+tp650
+Rp651
+tp652
+a(S'matthew t. mason'
+p653
+g2
+(g6
+S"]+\xac\x05\x83'\xd0?"
+p654
+tp655
+Rp656
+tp657
+a(S'moley robotics'
+p658
+g2
+(g6
+S'\xf1\xe0\x9f\xd9\xd1&\xd0?'
+p659
+tp660
+Rp661
+tp662
+a(S'player project'
+p663
+g2
+(g6
+S'}\x1c\x0fD\x06\x16\xd0?'
+p664
+tp665
+Rp666
+tp667
+a(S'bhargav gajjar'
+p668
+g2
+(g6
+S'\xfe\xc2\x84 W\x13\xd0?'
+p669
+tp670
+Rp671
+tp672
+a(S'humanoid robot'
+p673
+g2
+(g6
+S'\xad\x01p\xcd\xb2\x0f\xd0?'
+p674
+tp675
+Rp676
+tp677
+a(S'rob a. rutenbar'
+p678
+g2
+(g6
+S'\xaf\xb5)\x88\x07\x0c\xd0?'
+p679
+tp680
+Rp681
+tp682
+a(S'joanne pransky'
+p683
+g2
+(g6
+S'\x0f?\x04p\xbd\x08\xd0?'
+p684
+tp685
+Rp686
+tp687
+a(S'googlization'
+p688
+g2
+(g6
+S'\x81\x85\xd5\xe3A\x07\xd0?'
+p689
+tp690
+Rp691
+tp692
+a(S'robovalley'
+p693
+g2
+(g6
+S'\x19\xa8`3!\xfd\xcf?'
+p694
+tp695
+Rp696
+tp697
+a(S'human\xe2\x80\x93robot interaction'
+p698
+g2
+(g6
+S'b\x18Z\xce\xc2\xf1\xcf?'
+p699
+tp700
+Rp701
+tp702
+a(S'david isaac murray'
+p703
+g2
+(g6
+S'\xeb\x10\xd0\\\xb1\xf0\xcf?'
+p704
+tp705
+Rp706
+tp707
+a(S'daphne koller'
+p708
+g2
+(g6
+S'\xd5\xda\x7f\xf5U\xeb\xcf?'
+p709
+tp710
+Rp711
+tp712
+a(S'willow garage'
+p713
+g2
+(g6
+S'\xd2\xabR\xb4\x99\xe1\xcf?'
+p714
+tp715
+Rp716
+tp717
+a(S'soft robotics'
+p718
+g2
+(g6
+S'\xcf1]\xe0\x1a\xe0\xcf?'
+p719
+tp720
+Rp721
+tp722
+a(S'darpa lagr program'
+p723
+g2
+(g6
+S'u\xf8\xbf\x8bg\xd3\xcf?'
+p724
+tp725
+Rp726
+tp727
+a(S'open-source robotics'
+p728
+g2
+(g6
+S'\x12\xa1\xb6\xceU\xc9\xcf?'
+p729
+tp730
+Rp731
+tp732
+a(S'google now'
+p733
+g2
+(g6
+S'pcb1\xa6\xbc\xcf?'
+p734
+tp735
+Rp736
+tp737
+a(S'andy flessas'
+p738
+g2
+(g6
+S'+\xd9\xd0\xd4\x1f\xa2\xcf?'
+p739
+tp740
+Rp741
+tp742
+a(S'charles villiers stanford'
+p743
+g2
+(g6
+S'yE\xafv\xe7\x99\xcf?'
+p744
+tp745
+Rp746
+tp747
+a(S'privacy concerns regarding google'
+p748
+g2
+(g6
+S'1\x16/\x15:\x99\xcf?'
+p749
+tp750
+Rp751
+tp752
+a(S'active robots'
+p753
+g2
+(g6
+S'\x000s\xea\x1e\x8e\xcf?'
+p754
+tp755
+Rp756
+tp757
+a(S'john stanford'
+p758
+g2
+(g6
+S'\xda\xb2\xef\x1b]\x87\xcf?'
+p759
+tp760
+Rp761
+tp762
+a(S'randy pausch'
+p763
+g2
+(g6
+S'\xc2\x1d\x16\xabV{\xcf?'
+p764
+tp765
+Rp766
+tp767
+a(S'google developer expert'
+p768
+g2
+(g6
+S'/Qf\x86\xd6t\xcf?'
+p769
+tp770
+Rp771
+tp772
+a(S'franz josef och'
+p773
+g2
+(g6
+S'\x8e{>2_s\xcf?'
+p774
+tp775
+Rp776
+tp777
+a(S'robojackets'
+p778
+g2
+(g6
+S'=\xbf\xb9\x10\xe4n\xcf?'
+p779
+tp780
+Rp781
+tp782
+a(S'in the plex'
+p783
+g2
+(g6
+S'\t@\xd5\xfe\x17f\xcf?'
+p784
+tp785
+Rp786
+tp787
+a(S'stanford field'
+p788
+g2
+(g6
+S'\xa9P\xa41\x03e\xcf?'
+p789
+tp790
+Rp791
+tp792
+a(S'sarcos'
+p793
+g2
+(g6
+S'\x0bW\x87TpP\xcf?'
+p794
+tp795
+Rp796
+tp797
+a(S'swedish robotics society'
+p798
+g2
+(g6
+S'\xfa\xa4\x1aM\x14J\xcf?'
+p799
+tp800
+Rp801
+tp802
+a(S'google pack'
+p803
+g2
+(g6
+S'A\xed;C\x9eF\xcf?'
+p804
+tp805
+Rp806
+tp807
+a(S'andy bechtolsheim'
+p808
+g2
+(g6
+S'\xfc\xde\xa7\x0b\x9e6\xcf?'
+p809
+tp810
+Rp811
+tp812
+a(S'google mobile services'
+p813
+g2
+(g6
+S'\xd4\xc7Z\xff\x086\xcf?'
+p814
+tp815
+Rp816
+tp817
+a(S'jeff dean (computer scientist)'
+p818
+g2
+(g6
+S'\xf4\x80A$\xfb*\xcf?'
+p819
+tp820
+Rp821
+tp822
+a(S'john c. mitchell'
+p823
+g2
+(g6
+S'\xcc\xbd\\b\xdc&\xcf?'
+p824
+tp825
+Rp826
+tp827
+a(S'daniela l. rus'
+p828
+g2
+(g6
+S'_Y\x9etG"\xcf?'
+p829
+tp830
+Rp831
+tp832
+a(S'tensorflow'
+p833
+g2
+(g6
+S'Oz\x14\xdd\xda!\xcf?'
+p834
+tp835
+Rp836
+tp837
+a(S'brian singerman'
+p838
+g2
+(g6
+S'\xb4W\x94pt\x1c\xcf?'
+p839
+tp840
+Rp841
+tp842
+a(S'maja matari\xc4\x87'
+p843
+g2
+(g6
+S'#Y\xd5\xfb\x9e\x18\xcf?'
+p844
+tp845
+Rp846
+tp847
+a(S'kathleen fisher'
+p848
+g2
+(g6
+S'\xe2^$\xe0~\x16\xcf?'
+p849
+tp850
+Rp851
+tp852
+a(S'bobcat robotics'
+p853
+g2
+(g6
+S'\xeb\t5X7\x11\xcf?'
+p854
+tp855
+Rp856
+tp857
+a(S'myheartmap challenge'
+p858
+g2
+(g6
+S'\xd8_\r\xea\xe7\x0c\xcf?'
+p859
+tp860
+Rp861
+tp862
+a(S'bill walsh legacy game'
+p863
+g2
+(g6
+S'\xa3\x1c\x89\xe8\n\x0c\xcf?'
+p864
+tp865
+Rp866
+tp867
+a(S'indian underwater robotics society'
+p868
+g2
+(g6
+S'h\x99\x957\xd5\x0b\xcf?'
+p869
+tp870
+Rp871
+tp872
+a(S'google home'
+p873
+g2
+(g6
+S'.\x1aC\xd3\xb6\x0b\xcf?'
+p874
+tp875
+Rp876
+tp877
+a(S'1905 stanford football team'
+p878
+g2
+(g6
+S'yv\xd8\xcb\x95\x01\xcf?'
+p879
+tp880
+Rp881
+tp882
+a(S'eric s. roberts'
+p883
+g2
+(g6
+S'a=\x7f!\n\x01\xcf?'
+p884
+tp885
+Rp886
+tp887
+a(S'google data liberation front'
+p888
+g2
+(g6
+S'\x1f\x80\xf0\xeb0\xfc\xce?'
+p889
+tp890
+Rp891
+tp892
+a(S'ballbot'
+p893
+g2
+(g6
+S'\xc8\xccQ;\xb8\xe6\xce?'
+p894
+tp895
+Rp896
+tp897
+a(S'google earth'
+p898
+g2
+(g6
+S'\xe7\x95\xaf\xb1\x92\xe4\xce?'
+p899
+tp900
+Rp901
+tp902
+a(S'lydia kavraki'
+p903
+g2
+(g6
+S'\xde\t6\xa4\xaa\xc6\xce?'
+p904
+tp905
+Rp906
+tp907
+a(S'google assistant'
+p908
+g2
+(g6
+S'3\x0c\xde0c\xc1\xce?'
+p909
+tp910
+Rp911
+tp912
+a(S'history of robots'
+p913
+g2
+(g6
+S'G\x87I\xeb\xe9\xc0\xce?'
+p914
+tp915
+Rp916
+tp917
+a(S'sandra liu huang'
+p918
+g2
+(g6
+S'\x05*\xd6\x8f"\xb4\xce?'
+p919
+tp920
+Rp921
+tp922
+a(S'allen stanford'
+p923
+g2
+(g6
+S'\xf8\x1b\\rU\xb2\xce?'
+p924
+tp925
+Rp926
+tp927
+a(S'terry winograd'
+p928
+g2
+(g6
+S'\xdc\x05$j,\xac\xce?'
+p929
+tp930
+Rp931
+tp932
+a(S'christophe bisciglia'
+p933
+g2
+(g6
+S'\xd7\x1a\xfb\x1bo\x9b\xce?'
+p934
+tp935
+Rp936
+tp937
+a(S'google china'
+p938
+g2
+(g6
+S'T\xf5A:\x08\x96\xce?'
+p939
+tp940
+Rp941
+tp942
+a(S'mobile robotics laboratory at iisc'
+p943
+g2
+(g6
+S'R\xf7\xd9<\xa7\x90\xce?'
+p944
+tp945
+Rp946
+tp947
+a(S'2010 central michigan chippewas football team'
+p948
+g2
+(g6
+S'\x9a\x83\x1d5^\x8f\xce?'
+p949
+tp950
+Rp951
+tp952
+a(S'google page creator'
+p953
+g2
+(g6
+S'pJ\xaa!\xf6\x8b\xce?'
+p954
+tp955
+Rp956
+tp957
+a(S'google blogoscoped'
+p958
+g2
+(g6
+S'\x18\xbf\xabF$\x86\xce?'
+p959
+tp960
+Rp961
+tp962
+a(S'google litigation'
+p963
+g2
+(g6
+S'\x86\xdb\x9fc^\x84\xce?'
+p964
+tp965
+Rp966
+tp967
+a(S'monika henzinger'
+p968
+g2
+(g6
+S'\xa2\xbf\x19\x01\xe1\x82\xce?'
+p969
+tp970
+Rp971
+tp972
+a(S'g suite'
+p973
+g2
+(g6
+S'\xa6\x1b\xb2\x96\x12\x81\xce?'
+p974
+tp975
+Rp976
+tp977
+a(S'urs h\xc3\xb6lzle'
+p978
+g2
+(g6
+S'b;\xca\x84\x88\x80\xce?'
+p979
+tp980
+Rp981
+tp982
+a(S'institute for personal robots in education'
+p983
+g2
+(g6
+S'\x14\xd6\xa2\xe6\xffy\xce?'
+p984
+tp985
+Rp986
+tp987
+a(S'larry page'
+p988
+g2
+(g6
+S'\xbf\xd4tM\xc6X\xce?'
+p989
+tp990
+Rp991
+tp992
+a(S'alfred spector'
+p993
+g2
+(g6
+S'r\x92\x9d\xe93W\xce?'
+p994
+tp995
+Rp996
+tp997
+a(S'ellen spertus'
+p998
+g2
+(g6
+S'A\xfb\x8f[BQ\xce?'
+p999
+tp1000
+Rp1001
+tp1002
+a(S'street view trusted'
+p1003
+g2
+(g6
+S'\x0f-\xd5\x9f\xe6I\xce?'
+p1004
+tp1005
+Rp1006
+tp1007
+a(S'morphogenetic robotics'
+p1008
+g2
+(g6
+S'\xfaG\x99\xca\x12D\xce?'
+p1009
+tp1010
+Rp1011
+tp1012
+a(S'ronald c. arkin'
+p1013
+g2
+(g6
+S'\x0eV\xf2V\xc0&\xce?'
+p1014
+tp1015
+Rp1016
+tp1017
+a(S'robotnik automation'
+p1018
+g2
+(g6
+S'\xb6\x1a\xd0\xd1\xc3\x1e\xce?'
+p1019
+tp1020
+Rp1021
+tp1022
+a(S'regina e. dugan'
+p1023
+g2
+(g6
+S'\x01\xb0\x19r\xf9\x1a\xce?'
+p1024
+tp1025
+Rp1026
+tp1027
+a(S'censorship by google'
+p1028
+g2
+(g6
+S'\xd0\xfe\xe0\xef7\x19\xce?'
+p1029
+tp1030
+Rp1031
+tp1032
+a(S'frank stanford'
+p1033
+g2
+(g6
+S'\xady1;:\x14\xce?'
+p1034
+tp1035
+Rp1036
+tp1037
+a(S'1960 stanford indians football team'
+p1038
+g2
+(g6
+S'\xf6\xc1\x0bO\xb6\x0e\xce?'
+p1039
+tp1040
+Rp1041
+tp1042
+a(S'openrave'
+p1043
+g2
+(g6
+S'\xcd\x92\x8f^\xb4\x06\xce?'
+p1044
+tp1045
+Rp1046
+tp1047
+a(S'best robotics'
+p1048
+g2
+(g6
+S'{=\xba\xc3\xbd\xfd\xcd?'
+p1049
+tp1050
+Rp1051
+tp1052
+a(S'stanford financial group'
+p1053
+g2
+(g6
+S'\xc0\xefj\x9b\x85\xfa\xcd?'
+p1054
+tp1055
+Rp1056
+tp1057
+a(S'google maps'
+p1058
+g2
+(g6
+S'\xd8e\x85s\x94\xf8\xcd?'
+p1059
+tp1060
+Rp1061
+tp1062
+a(S'stanford center for computers and the law'
+p1063
+g2
+(g6
+S'\xf7a\xae\xfa\xcf\xf1\xcd?'
+p1064
+tp1065
+Rp1066
+tp1067
+a(S'a google a day'
+p1068
+g2
+(g6
+S'-\x1e\xadf;\xf0\xcd?'
+p1069
+tp1070
+Rp1071
+tp1072
+a(S'evolution robotics'
+p1073
+g2
+(g6
+S'tS\xfc\x16g\xef\xcd?'
+p1074
+tp1075
+Rp1076
+tp1077
+a(S'leland stanford'
+p1078
+g2
+(g6
+S'o\x06\xb1R\xc5\xd1\xcd?'
+p1079
+tp1080
+Rp1081
+tp1082
+a(S'miomir vukobratovi\xc4\x87'
+p1083
+g2
+(g6
+S'Qs\xd9\xac\xa4\xc5\xcd?'
+p1084
+tp1085
+Rp1086
+tp1087
+a(S'1925 stanford football team'
+p1088
+g2
+(g6
+S'Y\xa9\xd7Ib\xc0\xcd?'
+p1089
+tp1090
+Rp1091
+tp1092
+a(S'google.by'
+p1093
+g2
+(g6
+S'\xd57O\x1f\t\xbf\xcd?'
+p1094
+tp1095
+Rp1096
+tp1097
+a(S'salar kamangar'
+p1098
+g2
+(g6
+S'\xe9=h\n\x0b\xb0\xcd?'
+p1099
+tp1100
+Rp1101
+tp1102
+a(S'oussama khatib'
+p1103
+g2
+(g6
+S'\x954^\xeb\xef\xaf\xcd?'
+p1104
+tp1105
+Rp1106
+tp1107
+a(S'autonomous research robot'
+p1108
+g2
+(g6
+S'\xa7~\xe1\xaa\xf8\xa2\xcd?'
+p1109
+tp1110
+Rp1111
+tp1112
+a(S'google books'
+p1113
+g2
+(g6
+S'nj\x16e\xa5\x9b\xcd?'
+p1114
+tp1115
+Rp1116
+tp1117
+a(S'rhex'
+p1118
+g2
+(g6
+S'\x92\xd6\x8bqE\x94\xcd?'
+p1119
+tp1120
+Rp1121
+tp1122
+a(S'competitions and prizes in artificial intelligence'
+p1123
+g2
+(g6
+S'E\xce\x98~+\x81\xcd?'
+p1124
+tp1125
+Rp1126
+tp1127
+a(S'h1ghlander'
+p1128
+g2
+(g6
+S'\x83\x03\t\x08K~\xcd?'
+p1129
+tp1130
+Rp1131
+tp1132
+a(S'google developers'
+p1133
+g2
+(g6
+S'\x9dola\x8cn\xcd?'
+p1134
+tp1135
+Rp1136
+tp1137
+a(S'hitec'
+p1138
+g2
+(g6
+S'\xdd\xb0r\xe4Kl\xcd?'
+p1139
+tp1140
+Rp1141
+tp1142
+a(S'peter stone (professor)'
+p1143
+g2
+(g6
+S'\xf4\x9bT\x8b\xe8k\xcd?'
+p1144
+tp1145
+Rp1146
+tp1147
+a(S'rehabilitation robotics'
+p1148
+g2
+(g6
+S'\xd5\xc9y\xe8\x19h\xcd?'
+p1149
+tp1150
+Rp1151
+tp1152
+a(S'georgia institute of technology center for robotics and intelligent machines'
+p1153
+g2
+(g6
+S'\xbbEe@\xd9f\xcd?'
+p1154
+tp1155
+Rp1156
+tp1157
+a(S'google talk'
+p1158
+g2
+(g6
+S'\xf6\xfaq\x02<^\xcd?'
+p1159
+tp1160
+Rp1161
+tp1162
+a(S'google labs'
+p1163
+g2
+(g6
+S'r\xd1\xe8\xfbq[\xcd?'
+p1164
+tp1165
+Rp1166
+tp1167
+a(S'shimon y. nof'
+p1168
+g2
+(g6
+S'\xaf\xd8\xeb\xcb\xadS\xcd?'
+p1169
+tp1170
+Rp1171
+tp1172
+a(S'2009 central michigan chippewas football team'
+p1173
+g2
+(g6
+S'\xdb\x81{D\xb5Q\xcd?'
+p1174
+tp1175
+Rp1176
+tp1177
+a(S'vic gundotra'
+p1178
+g2
+(g6
+S'\x88S\xb7\xe7\x9aN\xcd?'
+p1179
+tp1180
+Rp1181
+tp1182
+a(S'intelligent robotics group'
+p1183
+g2
+(g6
+S'\xf5<$\xe6\x1bL\xcd?'
+p1184
+tp1185
+Rp1186
+tp1187
+a(S'google account'
+p1188
+g2
+(g6
+S'\xaf\x11\xa0$gB\xcd?'
+p1189
+tp1190
+Rp1191
+tp1192
+a(S'1921 stanford football team'
+p1193
+g2
+(g6
+S'vM\xfe\x1c\xcc>\xcd?'
+p1194
+tp1195
+Rp1196
+tp1197
+a(S'christoph von sigwart'
+p1198
+g2
+(g6
+S'\x8b\x05y\xcb\xb5:\xcd?'
+p1199
+tp1200
+Rp1201
+tp1202
+a(S'robot app store'
+p1203
+g2
+(g6
+S'\xce\xc6\xf8\x9bg7\xcd?'
+p1204
+tp1205
+Rp1206
+tp1207
+a(S'central mindanao university'
+p1208
+g2
+(g6
+S'%;\x9c\xcc[4\xcd?'
+p1209
+tp1210
+Rp1211
+tp1212
+a(S'rethink robotics'
+p1213
+g2
+(g6
+S'\xe7!|=\x001\xcd?'
+p1214
+tp1215
+Rp1216
+tp1217
+a(S'google developers live'
+p1218
+g2
+(g6
+S'\xbb\t\x01\xf0}0\xcd?'
+p1219
+tp1220
+Rp1221
+tp1222
+a(S'stanford online'
+p1223
+g2
+(g6
+S'\xfa\xc6\xff\xeb\x1a.\xcd?'
+p1224
+tp1225
+Rp1226
+tp1227
+a(S'business association of stanford entrepreneurial students'
+p1228
+g2
+(g6
+S'}X\xd8\xcaE,\xcd?'
+p1229
+tp1230
+Rp1231
+tp1232
+a(S'google takeout'
+p1233
+g2
+(g6
+S'\xe11#\xa1\xd7*\xcd?'
+p1234
+tp1235
+Rp1236
+tp1237
+a(S'japanese robotics'
+p1238
+g2
+(g6
+S'\xca\xcf\xea\xa8\x10(\xcd?'
+p1239
+tp1240
+Rp1241
+tp1242
+a(S'google bomb'
+p1243
+g2
+(g6
+S'\x06+F0\x0e&\xcd?'
+p1244
+tp1245
+Rp1246
+tp1247
+a(S'gary bradski'
+p1248
+g2
+(g6
+S'\x88\xef\x970z\x1f\xcd?'
+p1249
+tp1250
+Rp1251
+tp1252
+a(S'knowledge systems laboratory'
+p1253
+g2
+(g6
+S'9\xda4\x15\xbf\x17\xcd?'
+p1254
+tp1255
+Rp1256
+tp1257
+a(S'department of computer science, university of oxford'
+p1258
+g2
+(g6
+S'\xd7\x7f\xb6\xaf\x89\x10\xcd?'
+p1259
+tp1260
+Rp1261
+tp1262
+a(S'institute of robotics and intelligent systems'
+p1263
+g2
+(g6
+S'R\xfe6\x8aH\x0c\xcd?'
+p1264
+tp1265
+Rp1266
+tp1267
+a(S'google play music'
+p1268
+g2
+(g6
+S'$\xd7\xf0\x13\xff\xff\xcc?'
+p1269
+tp1270
+Rp1271
+tp1272
+a(S'adrian kaehler'
+p1273
+g2
+(g6
+S'\x9f\x99\x13.p\xff\xcc?'
+p1274
+tp1275
+Rp1276
+tp1277
+a(S'yoav shoham'
+p1278
+g2
+(g6
+S'\x18\x8c\x8c\r\x88\xfc\xcc?'
+p1279
+tp1280
+Rp1281
+tp1282
+a(S'kai-fu lee'
+p1283
+g2
+(g6
+S'\x1b\x8d\xe2\xa4\x0f\xf8\xcc?'
+p1284
+tp1285
+Rp1286
+tp1287
+a(S'istituto italiano di tecnologia'
+p1288
+g2
+(g6
+S'=5\x1ba\xfd\xf6\xcc?'
+p1289
+tp1290
+Rp1291
+tp1292
+a(S'm. anthony lewis'
+p1293
+g2
+(g6
+S'~\x1c\xe2\xc8\xbc\xec\xcc?'
+p1294
+tp1295
+Rp1296
+tp1297
+a(S'howard h. pattee'
+p1298
+g2
+(g6
+S'L\x9aV0n\xec\xcc?'
+p1299
+tp1300
+Rp1301
+tp1302
+a(S'bigdog'
+p1303
+g2
+(g6
+S'\x82e\\\xca\xab\xe6\xcc?'
+p1304
+tp1305
+Rp1306
+tp1307
+a(S'john stanford (general)'
+p1308
+g2
+(g6
+S'\xbd\x06Ks\xd5\xe2\xcc?'
+p1309
+tp1310
+Rp1311
+tp1312
+a(S'google store'
+p1313
+g2
+(g6
+S'\x91H\x08\x00\xe1\xdc\xcc?'
+p1314
+tp1315
+Rp1316
+tp1317
+a(S'pierre-yves oudeyer'
+p1318
+g2
+(g6
+S'\x9a2\x9b\xbf\xd4\xd8\xcc?'
+p1319
+tp1320
+Rp1321
+tp1322
+a(S'evolutionary robotics'
+p1323
+g2
+(g6
+S'T\x02\x1e\x83\x18\xd5\xcc?'
+p1324
+tp1325
+Rp1326
+tp1327
+a(S'takeo kanade'
+p1328
+g2
+(g6
+S'p\x87\x19\xf0\n\xd5\xcc?'
+p1329
+tp1330
+Rp1331
+tp1332
+a(S'ross d. king'
+p1333
+g2
+(g6
+S'\x1d\x9a\xe7o\x1e\xd0\xcc?'
+p1334
+tp1335
+Rp1336
+tp1337
+a(S'google questions and answers'
+p1338
+g2
+(g6
+S'\x90\xf6\xd0\xa9w\xcf\xcc?'
+p1339
+tp1340
+Rp1341
+tp1342
+a(S'river ridge high school (florida)'
+p1343
+g2
+(g6
+S'\xe4M\x1a\x7f\xf4\xc5\xcc?'
+p1344
+tp1345
+Rp1346
+tp1347
+a(S'google help forums'
+p1348
+g2
+(g6
+S'i\x82\xaf\xb1\x7f\xbb\xcc?'
+p1349
+tp1350
+Rp1351
+tp1352
+a(S'yo kobayashi'
+p1353
+g2
+(g6
+S'f6\xb6\xf8B\xbb\xcc?'
+p1354
+tp1355
+Rp1356
+tp1357
+a(S'reymond clavel'
+p1358
+g2
+(g6
+S'\xce!R\x1b\x81\xb9\xcc?'
+p1359
+tp1360
+Rp1361
+tp1362
+a(S'arsh shah dilbagi'
+p1363
+g2
+(g6
+S'1\xfe \x9a\x12\xb3\xcc?'
+p1364
+tp1365
+Rp1366
+tp1367
+a(S'magnus egerstedt'
+p1368
+g2
+(g6
+S'\xcd\xa6E\x90\xe0\xab\xcc?'
+p1369
+tp1370
+Rp1371
+tp1372
+a(S'list of most downloaded android applications'
+p1373
+g2
+(g6
+S'\xce\x81Vr\x1e\x9f\xcc?'
+p1374
+tp1375
+Rp1376
+tp1377
+a(S'demetri terzopoulos'
+p1378
+g2
+(g6
+S'\\\xd1\xe8G\xa5\x9c\xcc?'
+p1379
+tp1380
+Rp1381
+tp1382
+a(S'alon halevy'
+p1383
+g2
+(g6
+S'\x06\xea1\x800\x9a\xcc?'
+p1384
+tp1385
+Rp1386
+tp1387
+a(S'stanford university school of medicine'
+p1388
+g2
+(g6
+S'\xbcU\xf1\x88w\x95\xcc?'
+p1389
+tp1390
+Rp1391
+tp1392
+a(S'google crisis response'
+p1393
+g2
+(g6
+S'SUV\x7f\x98\x93\xcc?'
+p1394
+tp1395
+Rp1396
+tp1397
+a(S'google reader'
+p1398
+g2
+(g6
+S'c\xcc\xe9N\xab\x90\xcc?'
+p1399
+tp1400
+Rp1401
+tp1402
+a(S'ologic'
+p1403
+g2
+(g6
+S'\xa8jy\xc3\xfb\x8e\xcc?'
+p1404
+tp1405
+Rp1406
+tp1407
+a(S'susumu tachi'
+p1408
+g2
+(g6
+S'\xd2\xbf\xec\xf80\x8b\xcc?'
+p1409
+tp1410
+Rp1411
+tp1412
+a(S'stanford raagapella'
+p1413
+g2
+(g6
+S'~\x80\xc0\x97F\x84\xcc?'
+p1414
+tp1415
+Rp1416
+tp1417
+a(S'russ salakhutdinov'
+p1418
+g2
+(g6
+S'\xc5\x18\xdf;\x88y\xcc?'
+p1419
+tp1420
+Rp1421
+tp1422
+a(S'evolutionary developmental robotics'
+p1423
+g2
+(g6
+S'\x9d\x96b\xfd\xcer\xcc?'
+p1424
+tp1425
+Rp1426
+tp1427
+a(S'google street view'
+p1428
+g2
+(g6
+S'\xf6\x17\xc0esp\xcc?'
+p1429
+tp1430
+Rp1431
+tp1432
+a(S'daniel okimoto'
+p1433
+g2
+(g6
+S'\xb2Z\x15\xd2\xd5f\xcc?'
+p1434
+tp1435
+Rp1436
+tp1437
+a(S'european robotics platform'
+p1438
+g2
+(g6
+S'\x00d+\xfa\x84f\xcc?'
+p1439
+tp1440
+Rp1441
+tp1442
+a(S'autonomous robot'
+p1443
+g2
+(g6
+S'\xff\xcaE\x9e\xb3d\xcc?'
+p1444
+tp1445
+Rp1446
+tp1447
+a(S"laboratoire d'informatique, de robotique et de micro\xc3\xa9lectronique de montpellier"
+p1448
+g2
+(g6
+S'\xca\xf87,)\\\xcc?'
+p1449
+tp1450
+Rp1451
+tp1452
+a(S'google (disambiguation)'
+p1453
+g2
+(g6
+S'\x9asd\x0b\xb0N\xcc?'
+p1454
+tp1455
+Rp1456
+tp1457
+a(S'livingston robotics club'
+p1458
+g2
+(g6
+S'\xaf-\x8aJ\xcdK\xcc?'
+p1459
+tp1460
+Rp1461
+tp1462
+a(S'developmental robotics'
+p1463
+g2
+(g6
+S'\x83M\xa1\xf4\x88J\xcc?'
+p1464
+tp1465
+Rp1466
+tp1467
+a(S'stanford, western cape'
+p1468
+g2
+(g6
+S'\xa6\xd4\x8c;\x19H\xcc?'
+p1469
+tp1470
+Rp1471
+tp1472
+a(S'stanford university computer science'
+p1473
+g2
+(g6
+S'\x91|{\xdd\xebC\xcc?'
+p1474
+tp1475
+Rp1476
+tp1477
+a(S'eric paulos'
+p1478
+g2
+(g6
+S'\xbfm\xfc\x91\x83B\xcc?'
+p1479
+tp1480
+Rp1481
+tp1482
+a(S'ian goodfellow'
+p1483
+g2
+(g6
+S'Jz\x98\xc3dB\xcc?'
+p1484
+tp1485
+Rp1486
+tp1487
+a(S'1929 stanford football team'
+p1488
+g2
+(g6
+S'\n\xa8\xed\xf1\xdf;\xcc?'
+p1489
+tp1490
+Rp1491
+tp1492
+a(S'list of stanford university people'
+p1493
+g2
+(g6
+S'\xe8\x8a\xe1\x8eo5\xcc?'
+p1494
+tp1495
+Rp1496
+tp1497
+a(S'amit lal'
+p1498
+g2
+(g6
+S"\x19\x7f\x8c\x93'4\xcc?"
+p1499
+tp1500
+Rp1501
+tp1502
+a(S'google play services'
+p1503
+g2
+(g6
+S'q\x16\x01\x8e\xbb3\xcc?'
+p1504
+tp1505
+Rp1506
+tp1507
+a(S'ted selker'
+p1508
+g2
+(g6
+S'Q9(\x03\xa7!\xcc?'
+p1509
+tp1510
+Rp1511
+tp1512
+a.

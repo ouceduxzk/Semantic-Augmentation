@@ -1,0 +1,2728 @@
+(lp0
+(S'swarm intelligence'
+p1
+cnumpy.core.multiarray
+scalar
+p2
+(cnumpy
+dtype
+p3
+(S'f8'
+p4
+I0
+I1
+tp5
+Rp6
+(I3
+S'<'
+p7
+NNNI-1
+I-1
+I0
+tp8
+bS'\x06\x00\x00\x00\x00\x00\xf0?'
+p9
+tp10
+Rp11
+tp12
+a(S'swarm behaviour'
+p13
+g2
+(g6
+S',\xd8_t&}\xe6?'
+p14
+tp15
+Rp16
+tp17
+a(S'swarm (disambiguation)'
+p18
+g2
+(g6
+S'\xdeD\xb9\xeaL\xb6\xe5?'
+p19
+tp20
+Rp21
+tp22
+a(S'multi-swarm optimization'
+p23
+g2
+(g6
+S'\x1e!\x15\x8e\xf7\x91\xe4?'
+p24
+tp25
+Rp26
+tp27
+a(S'swarm robotics'
+p28
+g2
+(g6
+S'\xd0e?\x93\xb5*\xe4?'
+p29
+tp30
+Rp31
+tp32
+a(S'the swarm'
+p33
+g2
+(g6
+S'D\x91\xafV\xf6\n\xe4?'
+p34
+tp35
+Rp36
+tp37
+a(S'swarm (comics)'
+p38
+g2
+(g6
+S'\x9b\xcd&|\xde\xf6\xe1?'
+p39
+tp40
+Rp41
+tp42
+a(S'mike lines'
+p43
+g2
+(g6
+S'\x08\xb9\x1d4\xedu\xe1?'
+p44
+tp45
+Rp46
+tp47
+a(S'marco dorigo'
+p48
+g2
+(g6
+S'\x1c\xd6QMb\xe0\xe0?'
+p49
+tp50
+Rp51
+tp52
+a(S'swarming (honey bee)'
+p53
+g2
+(g6
+S'`\x85i\xdd$\xdd\xe0?'
+p54
+tp55
+Rp56
+tp57
+a(S'swarm (simulation)'
+p58
+g2
+(g6
+S'\xbd\xb7*s\x12[\xe0?'
+p59
+tp60
+Rp61
+tp62
+a(S'dike swarm'
+p63
+g2
+(g6
+S'P\xc1~6\x81\x14\xe0?'
+p64
+tp65
+Rp66
+tp67
+a(S'satakunta dyke swarms'
+p68
+g2
+(g6
+S'-\x05\xea\xb9\xf1\xe5\xdf?'
+p69
+tp70
+Rp71
+tp72
+a(S'georgia swarm'
+p73
+g2
+(g6
+S'y6\xe2\xb2\xbdL\xdf?'
+p74
+tp75
+Rp76
+tp77
+a(S'swarm of the snakehead'
+p78
+g2
+(g6
+S'vj4\x87L\x1e\xde?'
+p79
+tp80
+Rp81
+tp82
+a(S'particle swarm optimization'
+p83
+g2
+(g6
+S'\xa8\x0e3\\\x8c\n\xde?'
+p84
+tp85
+Rp86
+tp87
+a(S'2013 minnesota swarm season'
+p88
+g2
+(g6
+S'\x84F\xc3\x04\xcc\xf6\xdd?'
+p89
+tp90
+Rp91
+tp92
+a(S'guy-greenbrier earthquake swarm'
+p93
+g2
+(g6
+S'B^\xa95\x84g\xdd?'
+p94
+tp95
+Rp96
+tp97
+a(S'james kennedy (social psychologist)'
+p98
+g2
+(g6
+S'8\xbbLC\x11c\xdd?'
+p99
+tp100
+Rp101
+tp102
+a(S"albert's swarm"
+p103
+g2
+(g6
+S'\xb4\xa0\x19\x1b\xd8@\xdd?'
+p104
+tp105
+Rp106
+tp107
+a(S'minnesota swarm'
+p108
+g2
+(g6
+S'\x1a#\x18\xb8C\x13\xdd?'
+p109
+tp110
+Rp111
+tp112
+a(S'intelligent small world autonomous robots for micro-manipulation'
+p113
+g2
+(g6
+S'*s2\x88f\x91\xdc?'
+p114
+tp115
+Rp116
+tp117
+a(S'swarm (novelette)'
+p118
+g2
+(g6
+S'\x8d!r$Qw\xdc?'
+p119
+tp120
+Rp121
+tp122
+a(S'swarm robotic platforms'
+p123
+g2
+(g6
+S"k\xa6'\x8a\xd7z\xdb?"
+p124
+tp125
+Rp126
+tp127
+a(S'cincinnati swarm'
+p128
+g2
+(g6
+S's\x97\xd1\xd8h#\xdb?'
+p129
+tp130
+Rp131
+tp132
+a(S'alien swarm (mod)'
+p133
+g2
+(g6
+S'\xd5\xfe\xad\x1c\xfa\x1c\xdb?'
+p134
+tp135
+Rp136
+tp137
+a(S'swarm development group'
+p138
+g2
+(g6
+S'\xca\xb0:7\x16\xdc\xda?'
+p139
+tp140
+Rp141
+tp142
+a(S'orb swarm'
+p143
+g2
+(g6
+S'N?\xbeu\x19\x89\xda?'
+p144
+tp145
+Rp146
+tp147
+a(S'champaign swarm'
+p148
+g2
+(g6
+S'\xd6\xa9\xd6\xf3\x8f\\\xda?'
+p149
+tp150
+Rp151
+tp152
+a(S'2016 georgia swarm season'
+p153
+g2
+(g6
+S'f\xe2\xc4\xc0F\r\xda?'
+p154
+tp155
+Rp156
+tp157
+a(S'list of metaphor-based metaheuristics'
+p158
+g2
+(g6
+S'q\xc3\xa5\xfc{\xcd\xd9?'
+p159
+tp160
+Rp161
+tp162
+a(S'ant colony optimization algorithms'
+p163
+g2
+(g6
+S'\xe6T-Yf)\xd9?'
+p164
+tp165
+Rp166
+tp167
+a(S'metaheuristic'
+p168
+g2
+(g6
+S'+^\xd1\xdagX\xd8?'
+p169
+tp170
+Rp171
+tp172
+a(S'january 2016 argentinean locust swarm'
+p173
+g2
+(g6
+S'/\xde\x04KD\x1b\xd8?'
+p174
+tp175
+Rp176
+tp177
+a(S'independence dike swarm'
+p178
+g2
+(g6
+S'\xe1z\x10CZ\x1a\xd8?'
+p179
+tp180
+Rp181
+tp182
+a(S'patrick conlon (artist)'
+p183
+g2
+(g6
+S'\xd5\xa1\xa5\x17\xfb\xdd\xd7?'
+p184
+tp185
+Rp186
+tp187
+a(S'2012 minnesota swarm season'
+p188
+g2
+(g6
+S'\xb4\xb9\x9e\xe6\x95\xd6\xd7?'
+p189
+tp190
+Rp191
+tp192
+a(S'earthquake swarm'
+p193
+g2
+(g6
+S'\xc7\xb5\xb9:x\xcf\xd7?'
+p194
+tp195
+Rp196
+tp197
+a(S'charlie huber'
+p198
+g2
+(g6
+S'\xfe8`\t\xf3\xcb\xd7?'
+p199
+tp200
+Rp201
+tp202
+a(S'2005 minnesota swarm season'
+p203
+g2
+(g6
+S'\xe9\xe4\xc0\xa8\x03\xab\xd7?'
+p204
+tp205
+Rp206
+tp207
+a(S'alien swarm'
+p208
+g2
+(g6
+S';v\x89?%\x87\xd7?'
+p209
+tp210
+Rp211
+tp212
+a(S'the swarm (roller coaster)'
+p213
+g2
+(g6
+S'\xc8;\x9e]\x15\x86\xd7?'
+p214
+tp215
+Rp216
+tp217
+a(S'ant robotics'
+p218
+g2
+(g6
+S'#\xabGO\xb9]\xd7?'
+p219
+tp220
+Rp221
+tp222
+a(S'uruguayan dyke swarms'
+p223
+g2
+(g6
+S'0\xa2$\x18\xfeM\xd7?'
+p224
+tp225
+Rp226
+tp227
+a(S'2007\xe2\x80\x932008 nazko earthquakes'
+p228
+g2
+(g6
+S'gM\x96\x9b\x1a6\xd7?'
+p229
+tp230
+Rp231
+tp232
+a(S'artificial ants'
+p233
+g2
+(g6
+S'=\x99\xd6\xd1\x19\x17\xd7?'
+p234
+tp235
+Rp236
+tp237
+a(S'a swarm of angels'
+p238
+g2
+(g6
+S'_)\x12\xf7;\x07\xd7?'
+p239
+tp240
+Rp241
+tp242
+a(S'stochastic diffusion search'
+p243
+g2
+(g6
+S'ON\x1d\x0b\xef\x00\xd7?'
+p244
+tp245
+Rp246
+tp247
+a(S'2014 minnesota swarm season'
+p248
+g2
+(g6
+S'\xfe\x08S\xb2\x9c\x86\xd6?'
+p249
+tp250
+Rp251
+tp252
+a(S'sill swarm'
+p253
+g2
+(g6
+S'\xb3\x85g\xc7vz\xd6?'
+p254
+tp255
+Rp256
+tp257
+a(S'swarm (app)'
+p258
+g2
+(g6
+S'G\xc4\xd0I:g\xd6?'
+p259
+tp260
+Rp261
+tp262
+a(S'starcraft ii: heart of the swarm'
+p263
+g2
+(g6
+S'\xe54L`iT\xd5?'
+p264
+tp265
+Rp266
+tp267
+a(S'matt hanson'
+p268
+g2
+(g6
+S'\xde2]\x92\xe5L\xd5?'
+p269
+tp270
+Rp271
+tp272
+a(S'grenville dike swarm'
+p273
+g2
+(g6
+S"'\x19Or\xe26\xd5?"
+p274
+tp275
+Rp276
+tp277
+a(S'2015 minnesota swarm season'
+p278
+g2
+(g6
+S'\x86M3\xbdF)\xd5?'
+p279
+tp280
+Rp281
+tp282
+a(S'gerardo beni'
+p283
+g2
+(g6
+S'\x03\xd2r\x0eu\xee\xd4?'
+p284
+tp285
+Rp286
+tp287
+a(S'unanimous a.i.'
+p288
+g2
+(g6
+S'e\xaeD\xf7\x01\xc9\xd4?'
+p289
+tp290
+Rp291
+tp292
+a(S'mistassini dike swarm'
+p293
+g2
+(g6
+S'\x80\x8f\xbeD\xfc\xbb\xd4?'
+p294
+tp295
+Rp296
+tp297
+a(S'ian wannamaker'
+p298
+g2
+(g6
+S'\xda\x9b\xc3?\xe02\xd4?'
+p299
+tp300
+Rp301
+tp302
+a(S'checkerboarding (beekeeping)'
+p303
+g2
+(g6
+S'\xa8bo\xf0E\x01\xd4?'
+p304
+tp305
+Rp306
+tp307
+a(S'2011 nzihl season'
+p308
+g2
+(g6
+S'\xfa\x97qh\xb0\x00\xd4?'
+p309
+tp310
+Rp311
+tp312
+a(S'national lacrosse league transition player of the year award'
+p313
+g2
+(g6
+S'Z\xb7D\x07E\xe9\xd3?'
+p314
+tp315
+Rp316
+tp317
+a(S'matachewan dike swarm'
+p318
+g2
+(g6
+S'wV\xa6\xac\xe6\xad\xd3?'
+p319
+tp320
+Rp321
+tp322
+a(S'mobile robotics laboratory at iisc'
+p323
+g2
+(g6
+S'\x94\x82Y\x91Y\x97\xd3?'
+p324
+tp325
+Rp326
+tp327
+a(S'eciton'
+p328
+g2
+(g6
+S'\xe0\x94v\x83k\x81\xd3?'
+p329
+tp330
+Rp331
+tp332
+a(S'the swarm (film)'
+p333
+g2
+(g6
+S'Xo\xff\x95\xe1}\xd3?'
+p334
+tp335
+Rp336
+tp337
+a(S'national lacrosse league executive of the year award'
+p338
+g2
+(g6
+S'u\xf3f\x9e\xb2m\xd3?'
+p339
+tp340
+Rp341
+tp342
+a(S'2010 nzihl season'
+p343
+g2
+(g6
+S'E\xd3\x15Y"V\xd3?'
+p344
+tp345
+Rp346
+tp347
+a(S'evolutionary algorithm for landmark detection'
+p348
+g2
+(g6
+S'\x03\xfc\xe7v#1\xd3?'
+p349
+tp350
+Rp351
+tp352
+a(S's-bot mobile robot'
+p353
+g2
+(g6
+S'\x02\xe8\x9bH\x05-\xd3?'
+p354
+tp355
+Rp356
+tp357
+a(S'evolutionary multimodal optimization'
+p358
+g2
+(g6
+S'\x8c\x19z\x17\xc7\x1d\xd3?'
+p359
+tp360
+Rp361
+tp362
+a(S'enrique alba'
+p363
+g2
+(g6
+S'\x0f>5\xad\xa9\xfe\xd2?'
+p364
+tp365
+Rp366
+tp367
+a(S'synoeca surinama'
+p368
+g2
+(g6
+S'!{\xdc\x80\xd4\xec\xd2?'
+p369
+tp370
+Rp371
+tp372
+a(S'okavango dyke swarm'
+p373
+g2
+(g6
+S'\x96\xd8\x15\xe4\xb1\x89\xd2?'
+p374
+tp375
+Rp376
+tp377
+a(S'swarm (spacecraft)'
+p378
+g2
+(g6
+S'^c\x12\xc0\xbe\x7f\xd2?'
+p379
+tp380
+Rp381
+tp382
+a(S'jisan research institute'
+p383
+g2
+(g6
+S'b\x0e8\xf1\xf9x\xd2?'
+p384
+tp385
+Rp386
+tp387
+a(S'the swarm (song)'
+p388
+g2
+(g6
+S'\x8a\xa8\x85N#_\xd2?'
+p389
+tp390
+Rp391
+tp392
+a(S'decentralised system'
+p393
+g2
+(g6
+S'\x1cQ(\xbb\xc2W\xd2?'
+p394
+tp395
+Rp396
+tp397
+a(S'franklin dike swarm'
+p398
+g2
+(g6
+S'\xcd\x05\xea\xd5ME\xd2?'
+p399
+tp400
+Rp401
+tp402
+a(S'stigmergy'
+p403
+g2
+(g6
+S'\x01\xdaS\x92\x9d6\xd2?'
+p404
+tp405
+Rp406
+tp407
+a(S'boids'
+p408
+g2
+(g6
+S'}[T\xff\x00/\xd2?'
+p409
+tp410
+Rp411
+tp412
+a(S'peer exchange'
+p413
+g2
+(g6
+S'~\x04\x7fi\x93\xea\xd1?'
+p414
+tp415
+Rp416
+tp417
+a(S'kangaamiut dike swarm'
+p418
+g2
+(g6
+S'\xff\x11\xb4\x12\x97\xe1\xd1?'
+p419
+tp420
+Rp421
+tp422
+a(S'prey (novel)'
+p423
+g2
+(g6
+S'\xf7\x8f\xe7[T\xbb\xd1?'
+p424
+tp425
+Rp426
+tp427
+a(S'ropalidia romandi'
+p428
+g2
+(g6
+S'\xd4\xcb\x0e\xafk\xb8\xd1?'
+p429
+tp430
+Rp431
+tp432
+a(S'2007 nzihl season'
+p433
+g2
+(g6
+S'\x7f\xfe\x13\xdd\xe6\x97\xd1?'
+p434
+tp435
+Rp436
+tp437
+a(S'swarm (2011 video game)'
+p438
+g2
+(g6
+S'\xffQ\x91\xff\x8cy\xd1?'
+p439
+tp440
+Rp441
+tp442
+a(S'swarm gallery'
+p443
+g2
+(g6
+S'\xaf\x95s\xb67o\xd1?'
+p444
+tp445
+Rp446
+tp447
+a(S'global optimization'
+p448
+g2
+(g6
+S'\xf4\xeb\xc0\x1fZk\xd1?'
+p449
+tp450
+Rp451
+tp452
+a(S'greensboro swarm'
+p453
+g2
+(g6
+S'H\xf5\xa1\xcf\xbd[\xd1?'
+p454
+tp455
+Rp456
+tp457
+a(S'2006 nzihl season'
+p458
+g2
+(g6
+S'\xc6.S)PT\xd1?'
+p459
+tp460
+Rp461
+tp462
+a(S'evolutionary algorithm'
+p463
+g2
+(g6
+S'\xe3\xb5\xaeq\x97K\xd1?'
+p464
+tp465
+Rp466
+tp467
+a(S'national lacrosse league gm of the year award'
+p468
+g2
+(g6
+S'+\x0f\xe0\x05\xbe"\xd1?'
+p469
+tp470
+Rp471
+tp472
+a(S'alcherio martinoli'
+p473
+g2
+(g6
+S'\x1a\xf0\xaa\xd4\xf5\x1e\xd1?'
+p474
+tp475
+Rp476
+tp477
+a(S'galaxy of fear: the swarm'
+p478
+g2
+(g6
+S'\xd6TA\x03Z\x1d\xd1?'
+p479
+tp480
+Rp481
+tp482
+a(S'francesco mondada'
+p483
+g2
+(g6
+S'\x19\x13\xa8q\r\xfe\xd0?'
+p484
+tp485
+Rp486
+tp487
+a(S'adaptive dimensional search'
+p488
+g2
+(g6
+S'\xb5\xcfr\xe6\xfe\xf9\xd0?'
+p489
+tp490
+Rp491
+tp492
+a(S'long range dikes'
+p493
+g2
+(g6
+S'\x93\xfa\x02{)\xf7\xd0?'
+p494
+tp495
+Rp496
+tp497
+a(S'russell c. eberhart'
+p498
+g2
+(g6
+S'~\x15\x1a\xc6\x13\xe5\xd0?'
+p499
+tp500
+Rp501
+tp502
+a(S'2009 minnesota swarm season'
+p503
+g2
+(g6
+S'\xa45\x00\xaeI\xc0\xd0?'
+p504
+tp505
+Rp506
+tp507
+a(S'mackenzie dike swarm'
+p508
+g2
+(g6
+S'(\xe8\xc1r\x0b\xb8\xd0?'
+p509
+tp510
+Rp511
+tp512
+a(S'symbrion'
+p513
+g2
+(g6
+S'\xf0\x8b\x84bI\xa6\xd0?'
+p514
+tp515
+Rp516
+tp517
+a(S'glossary of artificial intelligence'
+p518
+g2
+(g6
+S'\xc0\x7f\x12\x0e\xf0\x8d\xd0?'
+p519
+tp520
+Rp521
+tp522
+a(S'sudbury dike swarm'
+p523
+g2
+(g6
+S'7!\x0c~\xfb\x83\xd0?'
+p524
+tp525
+Rp526
+tp527
+a(S'2008 nzihl season'
+p528
+g2
+(g6
+S'@N[j\x0c~\xd0?'
+p529
+tp530
+Rp531
+tp532
+a(S'luca maria gambardella'
+p533
+g2
+(g6
+S'\xc3\xa2\x95 \xbbR\xd0?'
+p534
+tp535
+Rp536
+tp537
+a(S'genetic algorithm'
+p538
+g2
+(g6
+S'\x01\xfaF\x88bC\xd0?'
+p539
+tp540
+Rp541
+tp542
+a(S'swarmed (film)'
+p543
+g2
+(g6
+S'\xf9N\xf3\xe5\x80;\xd0?'
+p544
+tp545
+Rp546
+tp547
+a(S'polybioides tabidus'
+p548
+g2
+(g6
+S'uO\xa2\xe2\xfa\x19\xd0?'
+p549
+tp550
+Rp551
+tp552
+a(S'parallel metaheuristic'
+p553
+g2
+(g6
+S'\x851\xb68\xb3\x18\xd0?'
+p554
+tp555
+Rp556
+tp557
+a(S'physicomimetics'
+p558
+g2
+(g6
+S'\x0b\x00\xf1\xdf\xc2\x16\xd0?'
+p559
+tp560
+Rp561
+tp562
+a(S'pso'
+p563
+g2
+(g6
+S'\xedRd\x89\x99\x0c\xd0?'
+p564
+tp565
+Rp566
+tp567
+a(S'cultural algorithm'
+p568
+g2
+(g6
+S'<[\xc7u\x8e\xfb\xcf?'
+p569
+tp570
+Rp571
+tp572
+a(S'debasish ghose'
+p573
+g2
+(g6
+S'j\xfea\xa0\x9b\xee\xcf?'
+p574
+tp575
+Rp576
+tp577
+a(S'derivative-free optimization'
+p578
+g2
+(g6
+S'\x8ea\xce\x8cY\xa4\xcf?'
+p579
+tp580
+Rp581
+tp582
+a(S'kane easterbrook'
+p583
+g2
+(g6
+S'\x1c\xcc)\xd8-[\xcf?'
+p584
+tp585
+Rp586
+tp587
+a(S'kattsund-koster dyke swarm'
+p588
+g2
+(g6
+S'A\xb0\xf3f\x9bS\xcf?'
+p589
+tp590
+Rp591
+tp592
+a(S'2010 minnesota swarm season'
+p593
+g2
+(g6
+S'[b\xd5\xf9\xd0\xec\xce?'
+p594
+tp595
+Rp596
+tp597
+a(S'2006 minnesota swarm season'
+p598
+g2
+(g6
+S'\xc20\xbc\xa5\x11\xc4\xce?'
+p599
+tp600
+Rp601
+tp602
+a(S'dorylus molestus'
+p603
+g2
+(g6
+S'\xd8\x9e`E\xd4\xab\xce?'
+p604
+tp605
+Rp606
+tp607
+a(S'stochastic optimization'
+p608
+g2
+(g6
+S'3\x12\xadS\xc2\x9d\xce?'
+p609
+tp610
+Rp611
+tp612
+a(S'the hive (2008 film)'
+p613
+g2
+(g6
+S'p\x0cq\xb0\x94\x94\xce?'
+p614
+tp615
+Rp616
+tp617
+a(S'natural computing'
+p618
+g2
+(g6
+S'\x82q\xd9\xbc\xc2n\xce?'
+p619
+tp620
+Rp621
+tp622
+a(S'nasonov pheromone'
+p623
+g2
+(g6
+S'\xdc\r\x7f\x83u\x0c\xce?'
+p624
+tp625
+Rp626
+tp627
+a(S'the swarm (sch\xc3\xa4tzing novel)'
+p628
+g2
+(g6
+S'\xab\xf8\x1fhx\xae\xcd?'
+p629
+tp630
+Rp631
+tp632
+a(S'student space exploration & technology initiative'
+p633
+g2
+(g6
+S'\xa4\xd9\xcdqS\xaa\xcd?'
+p634
+tp635
+Rp636
+tp637
+a(S'terminal world'
+p638
+g2
+(g6
+S'C:\xc6\xb3\x9bw\xcd?'
+p639
+tp640
+Rp641
+tp642
+a(S'emergent algorithm'
+p643
+g2
+(g6
+S' Xu"\xaev\xcd?'
+p644
+tp645
+Rp646
+tp647
+a(S'swarm peak'
+p648
+g2
+(g6
+S'\x06\xa8\xaem\xcbn\xcd?'
+p649
+tp650
+Rp651
+tp652
+a(S'geodefense swarm'
+p653
+g2
+(g6
+S'\x08J\x8d\xae\xd1\\\xcd?'
+p654
+tp655
+Rp656
+tp657
+a(S'self-propelled particles'
+p658
+g2
+(g6
+S'\x889\x84\x15\x04O\xcd?'
+p659
+tp660
+Rp661
+tp662
+a(S'ants of medical importance'
+p663
+g2
+(g6
+S'\x8b\x14x\xf9\xeeF\xcd?'
+p664
+tp665
+Rp666
+tp667
+a(S'swarm of angels'
+p668
+g2
+(g6
+S't\xde\xce\x99\x9b#\xcd?'
+p669
+tp670
+Rp671
+tp672
+a(S'transformers: generation 2 (comics)'
+p673
+g2
+(g6
+S'\xe0r\xe6\x14\xd0\xfe\xcc?'
+p674
+tp675
+Rp676
+tp677
+a(S'bio-inspired computing'
+p678
+g2
+(g6
+S'\xce\xf2\x14\x8fN\xf6\xcc?'
+p679
+tp680
+Rp681
+tp682
+a(S'documentary swarm'
+p683
+g2
+(g6
+S'wV\x85m\xe6\xf2\xcc?'
+p684
+tp685
+Rp686
+tp687
+a(S'international basketball league (1999\xe2\x80\x932001)'
+p688
+g2
+(g6
+S':DB\xba\x06\xa5\xcc?'
+p689
+tp690
+Rp691
+tp692
+a(S'artificial bee colony algorithm'
+p693
+g2
+(g6
+S'q\xa8\x14\x93\x89~\xcc?'
+p694
+tp695
+Rp696
+tp697
+a(S'eciton burchellii'
+p698
+g2
+(g6
+S'\x0b\xf0\r_\xfdU\xcc?'
+p699
+tp700
+Rp701
+tp702
+a(S'sean pollock'
+p703
+g2
+(g6
+S'\xa5\xbfZ&65\xcc?'
+p704
+tp705
+Rp706
+tp707
+a(S'agelaia pallipes'
+p708
+g2
+(g6
+S'(\x8f\xc9\xd9n#\xcc?'
+p709
+tp710
+Rp711
+tp712
+a(S'swarm!'
+p713
+g2
+(g6
+S'\x97\xfb\xd1\x17\xb7\x18\xcc?'
+p714
+tp715
+Rp716
+tp717
+a(S'moribund (album)'
+p718
+g2
+(g6
+S'\xef\xfa\x02\x15l\xe4\xcb?'
+p719
+tp720
+Rp721
+tp722
+a(S'2016 nll season'
+p723
+g2
+(g6
+S'\xb6\r\x00\x9c,\xda\xcb?'
+p724
+tp725
+Rp726
+tp727
+a(S'zach higgins'
+p728
+g2
+(g6
+S'\x12\x0b\xa7\x06\x80\xb8\xcb?'
+p729
+tp730
+Rp731
+tp732
+a(S'collective intelligence'
+p733
+g2
+(g6
+S'\xf6/\xce\xc5#Y\xcb?'
+p734
+tp735
+Rp736
+tp737
+a(S'ant follower'
+p738
+g2
+(g6
+S'\x82\x9c\x85\x9bKQ\xcb?'
+p739
+tp740
+Rp741
+tp742
+a(S'firefly algorithm'
+p743
+g2
+(g6
+S'\xfd\xf3A\x86cJ\xcb?'
+p744
+tp745
+Rp746
+tp747
+a(S'radhika nagpal'
+p748
+g2
+(g6
+S'@\x96ggE8\xcb?'
+p749
+tp750
+Rp751
+tp752
+a(S'alex crepinsek'
+p753
+g2
+(g6
+S'\xefG\x05\xb6\xd66\xcb?'
+p754
+tp755
+Rp756
+tp757
+a(S'national lacrosse league rookie of the year award'
+p758
+g2
+(g6
+S'_\xd8\x01\xca\x8e,\xcb?'
+p759
+tp760
+Rp761
+tp762
+a(S'students for a democratic society (2006 organization)'
+p763
+g2
+(g6
+S'\xe6\x9aT\xf1\x9a\x19\xcb?'
+p764
+tp765
+Rp766
+tp767
+a(S'distributed artificial intelligence'
+p768
+g2
+(g6
+S'\xcdFqz7\n\xcb?'
+p769
+tp770
+Rp771
+tp772
+a(S'rhamphomyia marginata'
+p773
+g2
+(g6
+S'jA\xbe\xdfE\x05\xcb?'
+p774
+tp775
+Rp776
+tp777
+a(S'evolutionary computation'
+p778
+g2
+(g6
+S'\xa2\xfd=n6\xf4\xca?'
+p779
+tp780
+Rp781
+tp782
+a(S'humant (humanoid ant) algorithm'
+p783
+g2
+(g6
+S'\xd6\xaaS\x95$\xda\xca?'
+p784
+tp785
+Rp786
+tp787
+a(S'outline of artificial intelligence'
+p788
+g2
+(g6
+S'\x95\t\x83\xa9\xfd\xd8\xca?'
+p789
+tp790
+Rp791
+tp792
+a(S'daniel shiffman'
+p793
+g2
+(g6
+S'L.\x8e\xf4\x9f\x93\xca?'
+p794
+tp795
+Rp796
+tp797
+a(S'riccardo poli'
+p798
+g2
+(g6
+S'n\x80u\x9c\xee\x85\xca?'
+p799
+tp800
+Rp801
+tp802
+a(S'students for a democratic society'
+p803
+g2
+(g6
+S'\x04\x9a\xe4\xa8\xfbp\xca?'
+p804
+tp805
+Rp806
+tp807
+a(S'extremal optimization'
+p808
+g2
+(g6
+S'\x1bX%\x19\xcfo\xca?'
+p809
+tp810
+Rp811
+tp812
+a(S'apidictor'
+p813
+g2
+(g6
+S'k+d\x01{`\xca?'
+p814
+tp815
+Rp816
+tp817
+a(S'james a. contner'
+p818
+g2
+(g6
+S'\x1a\x05-\xe9\xb1N\xca?'
+p819
+tp820
+Rp821
+tp822
+a(S'artificial intelligence'
+p823
+g2
+(g6
+S'd\xd4\x97\xc7\xce.\xca?'
+p824
+tp825
+Rp826
+tp827
+a(S'mogul, nevada'
+p828
+g2
+(g6
+S'\x12\x9cp\xcd\xd8+\xca?'
+p829
+tp830
+Rp831
+tp832
+a(S'kraslice'
+p833
+g2
+(g6
+S'G,T\xff\xd9\x1d\xca?'
+p834
+tp835
+Rp836
+tp837
+a(S'destination: infestation'
+p838
+g2
+(g6
+S'\x7f\x03\xb5?-\xfe\xc9?'
+p839
+tp840
+Rp841
+tp842
+a(S'2012 trans-tasman champions league'
+p843
+g2
+(g6
+S'\xcdE11|\xfc\xc9?'
+p844
+tp845
+Rp846
+tp847
+a(S'utku k\xc3\xb6se'
+p848
+g2
+(g6
+S'\xfdMK\x00n\xd2\xc9?'
+p849
+tp850
+Rp851
+tp852
+a(S'the colony (professional wrestling)'
+p853
+g2
+(g6
+S'J)\xec$\x8a\x91\xc9?'
+p854
+tp855
+Rp856
+tp857
+a(S'differential evolution'
+p858
+g2
+(g6
+S'\xa9\x94W^]\x84\xc9?'
+p859
+tp860
+Rp861
+tp862
+a(S'the swarm (star trek: voyager)'
+p863
+g2
+(g6
+S'\x1d\xc1\xc0\xf2\n}\xc9?'
+p864
+tp865
+Rp866
+tp867
+a(S'swarm (1998 video game)'
+p868
+g2
+(g6
+S'\xdb:\x0e:\x02m\xc9?'
+p869
+tp870
+Rp871
+tp872
+a(S'2005 nzihl season'
+p873
+g2
+(g6
+S'\xf58S\x1d\xabV\xc9?'
+p874
+tp875
+Rp876
+tp877
+a(S'frank sch\xc3\xa4tzing'
+p878
+g2
+(g6
+S'\xf2f\x0f=&C\xc9?'
+p879
+tp880
+Rp881
+tp882
+a(S'mathematical optimization'
+p883
+g2
+(g6
+S'\xa6\x15\x0fx\x82B\xc9?'
+p884
+tp885
+Rp886
+tp887
+a(S'paradiseo'
+p888
+g2
+(g6
+S'W\xe8y\xfcV5\xc9?'
+p889
+tp890
+Rp891
+tp892
+a(S'ant'
+p893
+g2
+(g6
+S'\xdd\x93\x18}j)\xc9?'
+p894
+tp895
+Rp896
+tp897
+a(S'social cognitive optimization'
+p898
+g2
+(g6
+S'H\x14\x96\xd9\xc8(\xc9?'
+p899
+tp900
+Rp901
+tp902
+a(S'sally-ann spencer'
+p903
+g2
+(g6
+S'[\xe6t\xc4\xb0\x1e\xc9?'
+p904
+tp905
+Rp906
+tp907
+a(S'ioso'
+p908
+g2
+(g6
+S'\x07s8,q\x18\xc9?'
+p909
+tp910
+Rp911
+tp912
+a(S'shark swarm'
+p913
+g2
+(g6
+S'\xad\x89\xb2\xe5\x84\x0c\xc9?'
+p914
+tp915
+Rp916
+tp917
+a(S'java evolutionary computation toolkit'
+p918
+g2
+(g6
+S'\xcf9\x10:\xbf\xf3\xc8?'
+p919
+tp920
+Rp921
+tp922
+a(S'intelligence officer'
+p923
+g2
+(g6
+S'\xdf6:\\\xed\xd1\xc8?'
+p924
+tp925
+Rp926
+tp927
+a(S'ant colony'
+p928
+g2
+(g6
+S'\x1d\x9cws\xcf\xcf\xc8?'
+p929
+tp930
+Rp931
+tp932
+a(S'ant (disambiguation)'
+p933
+g2
+(g6
+S'$c\xd8\xce\xd1a\xc8?'
+p934
+tp935
+Rp936
+tp937
+a(S'gears of war 4'
+p938
+g2
+(g6
+S'\x90\xb3^\xef\xf4U\xc8?'
+p939
+tp940
+Rp941
+tp942
+a(S'samsung sds'
+p943
+g2
+(g6
+S',U\xd49\xc3S\xc8?'
+p944
+tp945
+Rp946
+tp947
+a(S'dioithona oculata'
+p948
+g2
+(g6
+S' \xec\xbfw\x9a=\xc8?'
+p949
+tp950
+Rp951
+tp952
+a(S'myxococcus xanthus'
+p953
+g2
+(g6
+S'\xff\x08/\x80=;\xc8?'
+p954
+tp955
+Rp956
+tp957
+a(S'multi-agent system'
+p958
+g2
+(g6
+S'@\x05\x9f\x11\xfd9\xc8?'
+p959
+tp960
+Rp961
+tp962
+a(S'swarmatron'
+p963
+g2
+(g6
+S"HO\x0f,\x99'\xc8?"
+p964
+tp965
+Rp966
+tp967
+a(S'intelligence'
+p968
+g2
+(g6
+S'\xb6\xa9\xb0\x99\xd1$\xc8?'
+p969
+tp970
+Rp971
+tp972
+a(S'crowd simulation'
+p973
+g2
+(g6
+S'h6\xd8\x93_\x1f\xc8?'
+p974
+tp975
+Rp976
+tp977
+a(S'swarm'
+p978
+g2
+(g6
+S'\\AM\xee\xb9\x1c\xc8?'
+p979
+tp980
+Rp981
+tp982
+a(S'characters of starcraft'
+p983
+g2
+(g6
+S'\x12\x1dt\xd9#\x18\xc8?'
+p984
+tp985
+Rp986
+tp987
+a(S'sds 940'
+p988
+g2
+(g6
+S'E@\x9d\xf2g\x04\xc8?'
+p989
+tp990
+Rp991
+tp992
+a(S'lionsolver'
+p993
+g2
+(g6
+S'P|\xc8b\xd3\xf6\xc7?'
+p994
+tp995
+Rp996
+tp997
+a(S'2011 colorado earthquake'
+p998
+g2
+(g6
+S'R\xe9+\xc0\xb7\xf3\xc7?'
+p999
+tp1000
+Rp1001
+tp1002
+a(S'sds 930'
+p1003
+g2
+(g6
+S'H\xc8\x8a\xa86\xea\xc7?'
+p1004
+tp1005
+Rp1006
+tp1007
+a(S'simant'
+p1008
+g2
+(g6
+S'#\x94\xa8*Y\xe5\xc7?'
+p1009
+tp1010
+Rp1011
+tp1012
+a(S'army ant'
+p1013
+g2
+(g6
+S"\x88\xb7\xd6\xf4'\xce\xc7?"
+p1014
+tp1015
+Rp1016
+tp1017
+a(S'new zealand ice hockey league'
+p1018
+g2
+(g6
+S'\x8el\x13\xc3\xcf\xc6\xc7?'
+p1019
+tp1020
+Rp1021
+tp1022
+a(S'soft computing'
+p1023
+g2
+(g6
+S'\xd8\x1b\xa7\x93+\xbb\xc7?'
+p1024
+tp1025
+Rp1026
+tp1027
+a(S'local search (optimization)'
+p1028
+g2
+(g6
+S'W\x98\xc4\x9d$\xb3\xc7?'
+p1029
+tp1030
+Rp1031
+tp1032
+a(S'eric pacey'
+p1033
+g2
+(g6
+S'y\xe2\xf5\xa5\xd5\xa1\xc7?'
+p1034
+tp1035
+Rp1036
+tp1037
+a(S'collaborative intelligence'
+p1038
+g2
+(g6
+S'2L\x02\xbd\x1a\x95\xc7?'
+p1039
+tp1040
+Rp1041
+tp1042
+a(S'intelligence cycle management'
+p1043
+g2
+(g6
+S'Q\xb1PU\xdf\x94\xc7?'
+p1044
+tp1045
+Rp1046
+tp1047
+a(S'midwest professional basketball association'
+p1048
+g2
+(g6
+S'\xb8\x19\xe63\x99\x8e\xc7?'
+p1049
+tp1050
+Rp1051
+tp1052
+a(S'antwain smith'
+p1053
+g2
+(g6
+S'\xf9\xb6\x86\x98\xa4\x89\xc7?'
+p1054
+tp1055
+Rp1056
+tp1057
+a(S'serbian state guard'
+p1058
+g2
+(g6
+S'\xc1\xb4\xdd\xac\x8br\xc7?'
+p1059
+tp1060
+Rp1061
+tp1062
+a(S'2012 nll season'
+p1063
+g2
+(g6
+S'~\xa3\x8d\xdd\x80o\xc7?'
+p1064
+tp1065
+Rp1066
+tp1067
+a(S'letdowncrush'
+p1068
+g2
+(g6
+S'3\x9d\x99R\xcfg\xc7?'
+p1069
+tp1070
+Rp1071
+tp1072
+a(S'scientific data systems'
+p1073
+g2
+(g6
+S'\x82,\xb3\x8b\x87R\xc7?'
+p1074
+tp1075
+Rp1076
+tp1077
+a(S'hyperparameter optimization'
+p1078
+g2
+(g6
+S'~\x1bW0K0\xc7?'
+p1079
+tp1080
+Rp1081
+tp1082
+a(S'simulation-based optimization'
+p1083
+g2
+(g6
+S'|\xa6U@\xe2,\xc7?'
+p1084
+tp1085
+Rp1086
+tp1087
+a(S'imperialist competitive algorithm'
+p1088
+g2
+(g6
+S'\xd4RY\x8c\x17\x1a\xc7?'
+p1089
+tp1090
+Rp1091
+tp1092
+a(S'clonal selection algorithm'
+p1093
+g2
+(g6
+S'\xd3\xeaH\xd5(\x17\xc7?'
+p1094
+tp1095
+Rp1096
+tp1097
+a(S'bat algorithm'
+p1098
+g2
+(g6
+S'\x83\xe9\xb9\x91\xf0\x15\xc7?'
+p1099
+tp1100
+Rp1101
+tp1102
+a(S'brst algorithm'
+p1103
+g2
+(g6
+S'\x1bD\xe9\xe1\xf6\r\xc7?'
+p1104
+tp1105
+Rp1106
+tp1107
+a(S'galadriel stineman'
+p1108
+g2
+(g6
+S'\xf7?\x85(\x14\x03\xc7?'
+p1109
+tp1110
+Rp1111
+tp1112
+a(S'active matter'
+p1113
+g2
+(g6
+S'\xe8\xb9\x7f\x8f\x9c\xe8\xc6?'
+p1114
+tp1115
+Rp1116
+tp1117
+a(S'computational intelligence'
+p1118
+g2
+(g6
+S' q\xfd\xae\xed\xe3\xc6?'
+p1119
+tp1120
+Rp1121
+tp1122
+a(S'the heir of night'
+p1123
+g2
+(g6
+S'b\x85\xc9\xbc\xaa\xe0\xc6?'
+p1124
+tp1125
+Rp1126
+tp1127
+a(S'e-sds'
+p1128
+g2
+(g6
+S'\xb3H8B\xfd\xdf\xc6?'
+p1129
+tp1130
+Rp1131
+tp1132
+a(S'burakin, western australia'
+p1133
+g2
+(g6
+S'\xd9\xb4\xaeb!\xac\xc6?'
+p1134
+tp1135
+Rp1136
+tp1137
+a(S'grammatical evolution'
+p1138
+g2
+(g6
+S'*%\xe1\x8bD\x9c\xc6?'
+p1139
+tp1140
+Rp1141
+tp1142
+a(S'artificial life'
+p1143
+g2
+(g6
+S'4.\x0c\x07o\x89\xc6?'
+p1144
+tp1145
+Rp1146
+tp1147
+a(S'nolan heavenor'
+p1148
+g2
+(g6
+S'\xccy\x8a\xcfS\x86\xc6?'
+p1149
+tp1150
+Rp1151
+tp1152
+a(S'black ant'
+p1153
+g2
+(g6
+S'\x8f\xdb\xe7\xb6M\x85\xc6?'
+p1154
+tp1155
+Rp1156
+tp1157
+a(S'heuristiclab'
+p1158
+g2
+(g6
+S'\xcdH\x08\x93~{\xc6?'
+p1159
+tp1160
+Rp1161
+tp1162
+a(S'outline of human intelligence'
+p1163
+g2
+(g6
+S'\xb2!hN,s\xc6?'
+p1164
+tp1165
+Rp1166
+tp1167
+a(S'goatreich \xe2\x80\x93 fleshcult'
+p1168
+g2
+(g6
+S'2Yn\xafRq\xc6?'
+p1169
+tp1170
+Rp1171
+tp1172
+a(S'next left notes'
+p1173
+g2
+(g6
+S'd\x17\xf2K\xa1l\xc6?'
+p1174
+tp1175
+Rp1176
+tp1177
+a(S'fred w. glover'
+p1178
+g2
+(g6
+S'\xac\x89\xfd\x14\xb7^\xc6?'
+p1179
+tp1180
+Rp1181
+tp1182
+a(S'swarming (military)'
+p1183
+g2
+(g6
+S'7\xb5_\x91\xa6M\xc6?'
+p1184
+tp1185
+Rp1186
+tp1187
+a(S'human intelligence'
+p1188
+g2
+(g6
+S'$\xdc\xe8\xf8\x1fK\xc6?'
+p1189
+tp1190
+Rp1191
+tp1192
+a(S'antbird'
+p1193
+g2
+(g6
+S'\x99\x07R9G6\xc6?'
+p1194
+tp1195
+Rp1196
+tp1197
+a(S'hots'
+p1198
+g2
+(g6
+S'\x01:\x99aL.\xc6?'
+p1199
+tp1200
+Rp1201
+tp1202
+a(S'worker student alliance'
+p1203
+g2
+(g6
+S"'\xfc4\xb3=\x1e\xc6?"
+p1204
+tp1205
+Rp1206
+tp1207
+a(S'euryplatea nanaknihali'
+p1208
+g2
+(g6
+S'W\xe5\xc9)\xa8\x1c\xc6?'
+p1209
+tp1210
+Rp1211
+tp1212
+a(S'agent-based model'
+p1213
+g2
+(g6
+S'\xe8\xa9M\xc1=\x19\xc6?'
+p1214
+tp1215
+Rp1216
+tp1217
+a(S'intelligence cycle'
+p1218
+g2
+(g6
+S'A\xb2I*\xb5\x16\xc6?'
+p1219
+tp1220
+Rp1221
+tp1222
+a(S'sozialistischer deutscher studentenbund'
+p1223
+g2
+(g6
+S'\xe6-G\xf8K\x12\xc6?'
+p1224
+tp1225
+Rp1226
+tp1227
+a(S'2008 reno earthquakes'
+p1228
+g2
+(g6
+S'n8\x90\x9f\x1f\x11\xc6?'
+p1229
+tp1230
+Rp1231
+tp1232
+a(S'2007 minnesota swarm season'
+p1233
+g2
+(g6
+S'\xc5\x7f.\xd1n\xff\xc5?'
+p1234
+tp1235
+Rp1236
+tp1237
+a(S'military intelligence'
+p1238
+g2
+(g6
+S'K*\t\xc6\x1c\xf3\xc5?'
+p1239
+tp1240
+Rp1241
+tp1242
+a(S'argentine ant'
+p1243
+g2
+(g6
+S'H\x17\xb91\x05\xeb\xc5?'
+p1244
+tp1245
+Rp1246
+tp1247
+a(S'myrmecophily'
+p1248
+g2
+(g6
+S'\x17\xcbm\xd1\xfd\xea\xc5?'
+p1249
+tp1250
+Rp1251
+tp1252
+a(S'red imported fire ant'
+p1253
+g2
+(g6
+S'wM\xaf\xf64\xea\xc5?'
+p1254
+tp1255
+Rp1256
+tp1257
+a(S'mountain king studios'
+p1258
+g2
+(g6
+S'e\x97\xe2~\xc2\xe8\xc5?'
+p1259
+tp1260
+Rp1261
+tp1262
+a(S'symbolic artificial intelligence'
+p1263
+g2
+(g6
+S'\x08xG)\xb0\xe8\xc5?'
+p1264
+tp1265
+Rp1266
+tp1267
+a(S'kilobot'
+p1268
+g2
+(g6
+S'\xbb\xf8\xf3qu\xe6\xc5?'
+p1269
+tp1270
+Rp1271
+tp1272
+a(S'fire ant'
+p1273
+g2
+(g6
+S'\x8eAz\x91\xf0\xe5\xc5?'
+p1274
+tp1275
+Rp1276
+tp1277
+a(S'national lacrosse league entry draft'
+p1278
+g2
+(g6
+S'\xf5(\xe0\xbc}\xe5\xc5?'
+p1279
+tp1280
+Rp1281
+tp1282
+a(S'artificial intelligence (disambiguation)'
+p1283
+g2
+(g6
+S"\xfa\x93ZL'\xdc\xc5?"
+p1284
+tp1285
+Rp1286
+tp1287
+a(S'brawley seismic zone'
+p1288
+g2
+(g6
+S'\xda\x8c\xe4\xa8<\xda\xc5?'
+p1289
+tp1290
+Rp1291
+tp1292
+a(S'search algorithm'
+p1293
+g2
+(g6
+S'\xd0F\xe6\x08\xe7\xd6\xc5?'
+p1294
+tp1295
+Rp1296
+tp1297
+a(S'myrmecophagy'
+p1298
+g2
+(g6
+S'V6\x94B\xd6\xc6\xc5?'
+p1299
+tp1300
+Rp1301
+tp1302
+a(S'repast (modeling toolkit)'
+p1303
+g2
+(g6
+S'\x94\x1131\xd9\xc2\xc5?'
+p1304
+tp1305
+Rp1306
+tp1307
+a(S'espionage organizations'
+p1308
+g2
+(g6
+S'\x8fNs\xbf.\xad\xc5?'
+p1309
+tp1310
+Rp1311
+tp1312
+a(S'andrew watt (lacrosse)'
+p1313
+g2
+(g6
+S'\xeb\x150\xb0\x95\xab\xc5?'
+p1314
+tp1315
+Rp1316
+tp1317
+a(S'illescas batholith'
+p1318
+g2
+(g6
+S'\x0e\xe6_\xf8\x85\xa6\xc5?'
+p1319
+tp1320
+Rp1321
+tp1322
+a(S'robobee'
+p1323
+g2
+(g6
+S'P":\xe1m\x99\xc5?'
+p1324
+tp1325
+Rp1326
+tp1327
+a(S'crowd analysis'
+p1328
+g2
+(g6
+S'\nd\xb4\xdc\xbe\x86\xc5?'
+p1329
+tp1330
+Rp1331
+tp1332
+a(S'take me to the edge'
+p1333
+g2
+(g6
+S'd\xee#z\x8a~\xc5?'
+p1334
+tp1335
+Rp1336
+tp1337
+a(S'multidisciplinary design optimization'
+p1338
+g2
+(g6
+S',v`\xdd\x06z\xc5?'
+p1339
+tp1340
+Rp1341
+tp1342
+a(S'nikolaus correll'
+p1343
+g2
+(g6
+S'\x0b! \xb2\xdel\xc5?'
+p1344
+tp1345
+Rp1346
+tp1347
+a(S'theoretical ecology'
+p1348
+g2
+(g6
+S"'\xdb!\x8cmh\xc5?"
+p1349
+tp1350
+Rp1351
+tp1352
+a(S'simulated annealing'
+p1353
+g2
+(g6
+S'\xb26\xd4tv\\\xc5?'
+p1354
+tp1355
+Rp1356
+tp1357
+a(S'l\xc5\x8d\xca\xbbihi seamount'
+p1358
+g2
+(g6
+S'\xd5\xfb\xea\xec\x10[\xc5?'
+p1359
+tp1360
+Rp1361
+tp1362
+a(S'society for the study of artificial intelligence and the simulation of behaviour'
+p1363
+g2
+(g6
+S'\x13}\xd2\xb4\xdbY\xc5?'
+p1364
+tp1365
+Rp1366
+tp1367
+a(S'multi-objective optimization'
+p1368
+g2
+(g6
+S'\xb1\xd3\\\xa7\x86Q\xc5?'
+p1369
+tp1370
+Rp1371
+tp1372
+a(S'list of intelligence agencies'
+p1373
+g2
+(g6
+S'Vs\x8c~\xc3N\xc5?'
+p1374
+tp1375
+Rp1376
+tp1377
+a(S'national lacrosse league defensive player of the year award'
+p1378
+g2
+(g6
+S'\xf3\x05h\xb8\x0cL\xc5?'
+p1379
+tp1380
+Rp1381
+tp1382
+a(S'rasberry crazy ant'
+p1383
+g2
+(g6
+S'\xe0\x8cq\xcdgG\xc5?'
+p1384
+tp1385
+Rp1386
+tp1387
+a(S'program optimization'
+p1388
+g2
+(g6
+S'\xf3\xac|\xbe\xb9E\xc5?'
+p1389
+tp1390
+Rp1391
+tp1392
+a(S'sodium dodecyl sulfate'
+p1393
+g2
+(g6
+S'\xb8=\x1d\xc8\x1e;\xc5?'
+p1394
+tp1395
+Rp1396
+tp1397
+a(S'berkeley timesharing system'
+p1398
+g2
+(g6
+S'\xbd\x1c>\xc0\x076\xc5?'
+p1399
+tp1400
+Rp1401
+tp1402
+a(S'eucharitidae'
+p1403
+g2
+(g6
+S'\xbbn\xb4\xdfA4\xc5?'
+p1404
+tp1405
+Rp1406
+tp1407
+a(S'phengaris rebeli'
+p1408
+g2
+(g6
+S'\xcf1\xef-\x174\xc5?'
+p1409
+tp1410
+Rp1411
+tp1412
+a(S'rivallo'
+p1413
+g2
+(g6
+S'\xdf\xa0\xb2\xe7\xa22\xc5?'
+p1414
+tp1415
+Rp1416
+tp1417
+a(S'ted gold'
+p1418
+g2
+(g6
+S'\x18D\x19\xa9\xff+\xc5?'
+p1419
+tp1420
+Rp1421
+tp1422
+a(S'intelligence (disambiguation)'
+p1423
+g2
+(g6
+S'\xd6&M4B(\xc5?'
+p1424
+tp1425
+Rp1426
+tp1427
+a(S'adam ant'
+p1428
+g2
+(g6
+S'\xbfo\xf5\x9a\xcd%\xc5?'
+p1429
+tp1430
+Rp1431
+tp1432
+a(S'smartdo'
+p1433
+g2
+(g6
+S'\xef\x17\xb7\xb0\x1d\x1f\xc5?'
+p1434
+tp1435
+Rp1436
+tp1437
+a(S'memetic algorithm'
+p1438
+g2
+(g6
+S'\xbb6R\xdea\x1b\xc5?'
+p1439
+tp1440
+Rp1441
+tp1442
+a(S'i monster'
+p1443
+g2
+(g6
+S'\x99\xcd\xb8\xfe~\x1a\xc5?'
+p1444
+tp1445
+Rp1446
+tp1447
+a(S'the magic voyage'
+p1448
+g2
+(g6
+S'\xb2\x95\xaa\xc4\xb2\x17\xc5?'
+p1449
+tp1450
+Rp1451
+tp1452
+a(S'2008 minnesota swarm season'
+p1453
+g2
+(g6
+S'w\xf0O\xfc\xe2\x0e\xc5?'
+p1454
+tp1455
+Rp1456
+tp1457
+a(S'anatea'
+p1458
+g2
+(g6
+S'\xa9\x84.\xba\x18\r\xc5?'
+p1459
+tp1460
+Rp1461
+tp1462
+a(S'day of darkness'
+p1463
+g2
+(g6
+S'\xb3\x15Z_l\x0c\xc5?'
+p1464
+tp1465
+Rp1466
+tp1467
+a(S'kimeme'
+p1468
+g2
+(g6
+S'Bz\xa1\xf5\xe1\x06\xc5?'
+p1469
+tp1470
+Rp1471
+tp1472
+a(S'central de reuni\xc3\xb3n de inteligencia militar'
+p1473
+g2
+(g6
+S'\xf4\x9d\xe5N=\x02\xc5?'
+p1474
+tp1475
+Rp1476
+tp1477
+a(S'nathan keyes'
+p1478
+g2
+(g6
+S'\xabP\x08\x8a\x89\x01\xc5?'
+p1479
+tp1480
+Rp1481
+tp1482
+a(S'hive mind'
+p1483
+g2
+(g6
+S'\xfa\x05\xbbKo\x00\xc5?'
+p1484
+tp1485
+Rp1486
+tp1487
+a(S'bear river dikes'
+p1488
+g2
+(g6
+S'\xab\xc0\xeb\xc9\xb4\xfe\xc4?'
+p1489
+tp1490
+Rp1491
+tp1492
+a(S'computer-automated design'
+p1493
+g2
+(g6
+S';Z\xf6\xcd\xe2\xfb\xc4?'
+p1494
+tp1495
+Rp1496
+tp1497
+a(S'list of optimization software'
+p1498
+g2
+(g6
+S'/\x11\x0f\x18U\xfb\xc4?'
+p1499
+tp1500
+Rp1501
+tp1502
+a(S'agelaia'
+p1503
+g2
+(g6
+S'\xc4\x95\x83r\x8f\xe9\xc4?'
+p1504
+tp1505
+Rp1506
+tp1507
+a(S'graduated optimization'
+p1508
+g2
+(g6
+S'\x05^H\xd4~\xe7\xc4?'
+p1509
+tp1510
+Rp1511
+tp1512
+a.

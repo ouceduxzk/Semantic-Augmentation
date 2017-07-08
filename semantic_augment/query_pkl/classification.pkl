@@ -1,0 +1,2728 @@
+(lp0
+(S'classification'
+p1
+cnumpy.core.multiarray
+scalar
+p2
+(cnumpy
+dtype
+p3
+(S'f8'
+p4
+I0
+I1
+tp5
+Rp6
+(I3
+S'<'
+p7
+NNNI-1
+I-1
+I0
+tp8
+bS'\x01\x00\x00\x00\x00\x00\xf0?'
+p9
+tp10
+Rp11
+tp12
+a(S'library classification'
+p13
+g2
+(g6
+S'\x7f\xef\x8d)\x1c\x11\xe8?'
+p14
+tp15
+Rp16
+tp17
+a(S'volleyball at the 2009 summer universiade \xe2\x80\x93 men'
+p18
+g2
+(g6
+S'\xdeM\xc2<\xfb\xb5\xe6?'
+p19
+tp20
+Rp21
+tp22
+a(S'scientific classification (disambiguation)'
+p23
+g2
+(g6
+S'\xe6\xc8\xc7\xf9<\xe3\xe5?'
+p24
+tp25
+Rp26
+tp27
+a(S'team classification'
+p28
+g2
+(g6
+S'\x91\xf4_\x14+\xe2\xe5?'
+p29
+tp30
+Rp31
+tp32
+a(S'office of film and literature classification'
+p33
+g2
+(g6
+S'n\xdeu\xe0\xc57\xe5?'
+p34
+tp35
+Rp36
+tp37
+a(S'document classification'
+p38
+g2
+(g6
+S'|\xe6Ud\x86\xc6\xe4?'
+p39
+tp40
+Rp41
+tp42
+a(S'taxonomy'
+p43
+g2
+(g6
+S'2\x0e~\xc9\xfa\xc5\xe4?'
+p44
+tp45
+Rp46
+tp47
+a(S'classification research group'
+p48
+g2
+(g6
+S'\xed\xa3\xe0\xfa\xc5\x02\xe4?'
+p49
+tp50
+Rp51
+tp52
+a(S'climate classification'
+p53
+g2
+(g6
+S'\xe1\x07s\r\xbe\xfc\xe3?'
+p54
+tp55
+Rp56
+tp57
+a(S'social history and industrial classification'
+p58
+g2
+(g6
+S'(\xe2\xa49u\xb2\xe3?'
+p59
+tp60
+Rp61
+tp62
+a(S'2015 energiewacht tour'
+p63
+g2
+(g6
+S'\xa7~Q\x1d\x04\xaf\xe3?'
+p64
+tp65
+Rp66
+tp67
+a(S'0-6-2+2-6-0'
+p68
+g2
+(g6
+S'\xfc\x94\x8d\xd4<\xa5\xe3?'
+p69
+tp70
+Rp71
+tp72
+a(S'classification chart'
+p73
+g2
+(g6
+S'\xf4c\x94\x96\xbf\x91\xe3?'
+p74
+tp75
+Rp76
+tp77
+a(S'tour of siam'
+p78
+g2
+(g6
+S'Y\xb3\x82\x80\x92q\xe3?'
+p79
+tp80
+Rp81
+tp82
+a(S't41 (classification)'
+p83
+g2
+(g6
+S'\xcf\xdbo<\x981\xe3?'
+p84
+tp85
+Rp86
+tp87
+a(S'para-athletics classification'
+p88
+g2
+(g6
+S'\xd0\xed!\xbfSP\xe2?'
+p89
+tp90
+Rp91
+tp92
+a(S'wheelchair basketball classification'
+p93
+g2
+(g6
+S'\xa0!;\xc6\xc2M\xe2?'
+p94
+tp95
+Rp96
+tp97
+a(S'international patent classification'
+p98
+g2
+(g6
+S'\xb5\xad\xcb{\xa8\x01\xe2?'
+p99
+tp100
+Rp101
+tp102
+a(S"volleyball at the 2011 summer universiade \xe2\x80\x93 men's tournament"
+p103
+g2
+(g6
+S'\x9b:\xf18\xbf\xf5\xe1?'
+p104
+tp105
+Rp106
+tp107
+a(S'european classification'
+p108
+g2
+(g6
+S'\xc8c\x8e\x90\x8c\xf5\xe1?'
+p109
+tp110
+Rp111
+tp112
+a(S'faceted classification'
+p113
+g2
+(g6
+S'*\x8f\xbe\x06\x92\xe8\xe1?'
+p114
+tp115
+Rp116
+tp117
+a(S"water polo at the 2004 summer olympics \xe2\x80\x93 men's tournament"
+p118
+g2
+(g6
+S'\x87%i\xc9\x1e\xe5\xe1?'
+p119
+tp120
+Rp121
+tp122
+a(S'1999 vuelta a venezuela'
+p123
+g2
+(g6
+S'\xad\xa8\x8f\x0f\xf6\xc6\xe1?'
+p124
+tp125
+Rp126
+tp127
+a(S'global classification'
+p128
+g2
+(g6
+S'A\xf2\x1b\nk\xc4\xe1?'
+p129
+tp130
+Rp131
+tp132
+a(S'jack mills (classification researcher)'
+p133
+g2
+(g6
+S'\xdaS\xc80\xa1\xbe\xe1?'
+p134
+tp135
+Rp136
+tp137
+a(S'international classification of primary care'
+p138
+g2
+(g6
+S'x\xcbm\xf5\xed\xab\xe1?'
+p139
+tp140
+Rp141
+tp142
+a(S'2-4-4-0'
+p143
+g2
+(g6
+S'$\xd6\x88\xf9K\xa4\xe1?'
+p144
+tp145
+Rp146
+tp147
+a(S'0-4-4-2'
+p148
+g2
+(g6
+S'k \xec\x8d\xe0\xa2\xe1?'
+p149
+tp150
+Rp151
+tp152
+a(S'football 7-a-side classification'
+p153
+g2
+(g6
+S'\xb8\xe7\xfe\xd6x\x8e\xe1?'
+p154
+tp155
+Rp156
+tp157
+a(S"combination classification in the giro d'italia"
+p158
+g2
+(g6
+S'`\xa3&xm\x85\xe1?'
+p159
+tp160
+Rp161
+tp162
+a(S'2008 vuelta a venezuela'
+p163
+g2
+(g6
+S'm\x05n"\xefa\xe1?'
+p164
+tp165
+Rp166
+tp167
+a(S'c1 (classification)'
+p168
+g2
+(g6
+S'\xef\xe3\x0e\xd0\xd6U\xe1?'
+p169
+tp170
+Rp171
+tp172
+a(S'classification theorem'
+p173
+g2
+(g6
+S'\xc7J\x7f\xa4\x10E\xe1?'
+p174
+tp175
+Rp176
+tp177
+a(S't40 (classification)'
+p178
+g2
+(g6
+S'\x8f\xa6o\xa4\x04?\xe1?'
+p179
+tp180
+Rp181
+tp182
+a(S'0-8-6'
+p183
+g2
+(g6
+S'\xfd_aD\x8d#\xe1?'
+p184
+tp185
+Rp186
+tp187
+a(S'2006 vuelta ciclista de chile'
+p188
+g2
+(g6
+S'\x92\xc7.P~!\xe1?'
+p189
+tp190
+Rp191
+tp192
+a(S'bc4'
+p193
+g2
+(g6
+S'oS\x96\x87\x82\x15\xe1?'
+p194
+tp195
+Rp196
+tp197
+a(S'disability classification in sailing'
+p198
+g2
+(g6
+S'|\xc4\xa79\x9e\x12\xe1?'
+p199
+tp200
+Rp201
+tp202
+a(S'sitting volleyball classification'
+p203
+g2
+(g6
+S'\xf4z\xd2\xab9\x08\xe1?'
+p204
+tp205
+Rp206
+tp207
+a(S'2016 presidential tour of turkey'
+p208
+g2
+(g6
+S'\x7fj\x89z\xc9\xfd\xe0?'
+p209
+tp210
+Rp211
+tp212
+a(S't2 (classification)'
+p213
+g2
+(g6
+S'\x91H\xdbtb\xfa\xe0?'
+p214
+tp215
+Rp216
+tp217
+a(S'c2 (classification)'
+p218
+g2
+(g6
+S'\x0f\xa5Z\x80s\xf2\xe0?'
+p219
+tp220
+Rp221
+tp222
+a(S'australian and new zealand standard research classification'
+p223
+g2
+(g6
+S' \x0b\x17\xaf\x0f\xd3\xe0?'
+p224
+tp225
+Rp226
+tp227
+a(S'sledge racing classification'
+p228
+g2
+(g6
+S',!O\n\x1c\xca\xe0?'
+p229
+tp230
+Rp231
+tp232
+a(S'mountains classification in the vuelta a espa\xc3\xb1a'
+p233
+g2
+(g6
+S'\xa7\xdfG\x1e\x81\xc7\xe0?'
+p234
+tp235
+Rp236
+tp237
+a(S'disability classification in table tennis'
+p238
+g2
+(g6
+S'y;\xbe\x90\xe5\xc3\xe0?'
+p239
+tp240
+Rp241
+tp242
+a(S'c5 (classification)'
+p243
+g2
+(g6
+S'\xbf\xe7\xec\xf1\xd8\xa2\xe0?'
+p244
+tp245
+Rp246
+tp247
+a(S'points classification in the vuelta a espa\xc3\xb1a'
+p248
+g2
+(g6
+S'\xe68M1\x90\x9f\xe0?'
+p249
+tp250
+Rp251
+tp252
+a(S'1999 vuelta ciclista de chile'
+p253
+g2
+(g6
+S'6\xc6\xa6\xf1\x14\x97\xe0?'
+p254
+tp255
+Rp256
+tp257
+a(S'1999 vuelta a colombia'
+p258
+g2
+(g6
+S'\xba\xe0\x80\xebr\x89\xe0?'
+p259
+tp260
+Rp261
+tp262
+a(S'2002 vuelta a colombia'
+p263
+g2
+(g6
+S'q\x0c\xa1\x85{\x87\xe0?'
+p264
+tp265
+Rp266
+tp267
+a(S'v1 (classification)'
+p268
+g2
+(g6
+S'\x07\xbb\xd6\xcb\x0f\x82\xe0?'
+p269
+tp270
+Rp271
+tp272
+a(S'north american industry classification system'
+p273
+g2
+(g6
+S'\xc1[\x88\xa8\x84x\xe0?'
+p274
+tp275
+Rp276
+tp277
+a(S'2007 vuelta a colombia'
+p278
+g2
+(g6
+S'e\x1f\x1bU\xebQ\xe0?'
+p279
+tp280
+Rp281
+tp282
+a(S'2009\xe2\x80\x9310 tff second league'
+p283
+g2
+(g6
+S'\x1f4q\xb7bP\xe0?'
+p284
+tp285
+Rp286
+tp287
+a(S'paralympic powerlifting classification'
+p288
+g2
+(g6
+S'0\xa1\xb9\xae\xd4L\xe0?'
+p289
+tp290
+Rp291
+tp292
+a(S'2010 tour de suisse'
+p293
+g2
+(g6
+S'!\xe8B2\x95A\xe0?'
+p294
+tp295
+Rp296
+tp297
+a(S'2005 vuelta a colombia'
+p298
+g2
+(g6
+S'{NMW\x03>\xe0?'
+p299
+tp300
+Rp301
+tp302
+a(S'2016 tour of croatia'
+p303
+g2
+(g6
+S'\xb2\xe8\x17R\x078\xe0?'
+p304
+tp305
+Rp306
+tp307
+a(S'2016 tour of slovenia'
+p308
+g2
+(g6
+S'v\xa7Z\xa4I,\xe0?'
+p309
+tp310
+Rp311
+tp312
+a(S'1945 vuelta a espa\xc3\xb1a'
+p313
+g2
+(g6
+S'\x1d!\xde\xdaS$\xe0?'
+p314
+tp315
+Rp316
+tp317
+a(S'2016 tour of norway'
+p318
+g2
+(g6
+S'Ir\\\xcb\xc0!\xe0?'
+p319
+tp320
+Rp321
+tp322
+a(S'wheelchair fencing classification'
+p323
+g2
+(g6
+S'\xb0\xed\x8d:\x14\x1e\xe0?'
+p324
+tp325
+Rp326
+tp327
+a(S'2000 vuelta ciclista de chile'
+p328
+g2
+(g6
+S'SbV\xf8\x83\x1d\xe0?'
+p329
+tp330
+Rp331
+tp332
+a(S'4-6-4-4'
+p333
+g2
+(g6
+S'\xbd\xf4\xdfw9\x0f\xe0?'
+p334
+tp335
+Rp336
+tp337
+a(S'2010 holland ladies tour'
+p338
+g2
+(g6
+S'H\xf1\xaf,\xbe\x08\xe0?'
+p339
+tp340
+Rp341
+tp342
+a(S'1992 vuelta a colombia'
+p343
+g2
+(g6
+S'\xc2\xc4\xed\xac6\xed\xdf?'
+p344
+tp345
+Rp346
+tp347
+a(S'2000 vuelta a colombia'
+p348
+g2
+(g6
+S'\xb8\xd4\xb1\xbbk\xdb\xdf?'
+p349
+tp350
+Rp351
+tp352
+a(S'2016 vuelta a espa\xc3\xb1a'
+p353
+g2
+(g6
+S'z\x1a\x01]\xd4\xc1\xdf?'
+p354
+tp355
+Rp356
+tp357
+a(S'2016 tour de hongrie'
+p358
+g2
+(g6
+S'\x02\x1b\xea|\x96\xba\xdf?'
+p359
+tp360
+Rp361
+tp362
+a(S'industry classification'
+p363
+g2
+(g6
+S'\xd2\xb6\xe9F@\xb4\xdf?'
+p364
+tp365
+Rp366
+tp367
+a(S'2003 vuelta ciclista de chile'
+p368
+g2
+(g6
+S'\xb7a\xa0\x9ab\xa5\xdf?'
+p369
+tp370
+Rp371
+tp372
+a(S'2-12-2'
+p373
+g2
+(g6
+S'y]G\xb3\x93\xa4\xdf?'
+p374
+tp375
+Rp376
+tp377
+a(S'junkeer classification'
+p378
+g2
+(g6
+S'\xcfO\x83\xea9\xa0\xdf?'
+p379
+tp380
+Rp381
+tp382
+a(S'1998 vuelta a colombia'
+p383
+g2
+(g6
+S'\xfaZ\xdd\xc0\xbav\xdf?'
+p384
+tp385
+Rp386
+tp387
+a(S't35 (classification)'
+p388
+g2
+(g6
+S'\x9a\x82\xdd%0u\xdf?'
+p389
+tp390
+Rp391
+tp392
+a(S'paradigm classification'
+p393
+g2
+(g6
+S'\xdf\x91\xd7\xe3\x18t\xdf?'
+p394
+tp395
+Rp396
+tp397
+a(S'1993 vuelta a colombia'
+p398
+g2
+(g6
+S'\xad\xdcWb\xefr\xdf?'
+p399
+tp400
+Rp401
+tp402
+a(S'arw2'
+p403
+g2
+(g6
+S'\x8f~\xfd\x05\xbde\xdf?'
+p404
+tp405
+Rp406
+tp407
+a(S'2008 vuelta a colombia'
+p408
+g2
+(g6
+S'Nr\x86lEe\xdf?'
+p409
+tp410
+Rp411
+tp412
+a(S'2003 vuelta a colombia'
+p413
+g2
+(g6
+S'\xb0A\xadF\x9aZ\xdf?'
+p414
+tp415
+Rp416
+tp417
+a(S'central product classification'
+p418
+g2
+(g6
+S'\x95\xf8!\xbd\x03S\xdf?'
+p419
+tp420
+Rp421
+tp422
+a(S'dewey decimal classification'
+p423
+g2
+(g6
+S'\x8b\x8a\x11\xe3\x87L\xdf?'
+p424
+tp425
+Rp426
+tp427
+a(S'6-8-6'
+p428
+g2
+(g6
+S'\x18v\x1ceyG\xdf?'
+p429
+tp430
+Rp431
+tp432
+a(S'2004 vuelta ciclista de chile'
+p433
+g2
+(g6
+S'\xe0P\x81230\xdf?'
+p434
+tp435
+Rp436
+tp437
+a(S'tour of \xc3\x87anakkale'
+p438
+g2
+(g6
+S'\xbb2\x820P\x1a\xdf?'
+p439
+tp440
+Rp441
+tp442
+a(S'nazim bak\xc4\xb1rc\xc4\xb1'
+p443
+g2
+(g6
+S'\xcb\x82I\xc4b\xfa\xde?'
+p444
+tp445
+Rp446
+tp447
+a(S'international classification of procedures in medicine'
+p448
+g2
+(g6
+S'I\x95hG#\xfa\xde?'
+p449
+tp450
+Rp451
+tp452
+a(S'2003 vuelta a venezuela'
+p453
+g2
+(g6
+S'~7\xcbA\x8a\xef\xde?'
+p454
+tp455
+Rp456
+tp457
+a(S'h4 (classification)'
+p458
+g2
+(g6
+S'\xbc\xb8\x17\n\xd7\xdd\xde?'
+p459
+tp460
+Rp461
+tp462
+a(S'1995 vuelta a colombia'
+p463
+g2
+(g6
+S'\x95;\x1c\xe7\x8e\xc4\xde?'
+p464
+tp465
+Rp466
+tp467
+a(S'h5 (classification)'
+p468
+g2
+(g6
+S'\xc1\x12\nQ\xee\xb5\xde?'
+p469
+tp470
+Rp471
+tp472
+a(S'2010 tour of britain'
+p473
+g2
+(g6
+S'\xce@\x80\xc8A\xb5\xde?'
+p474
+tp475
+Rp476
+tp477
+a(S'2016 crit\xc3\xa9rium du dauphin\xc3\xa9'
+p478
+g2
+(g6
+S'\xa8=T\xbeR\xa2\xde?'
+p479
+tp480
+Rp481
+tp482
+a(S'2006 vuelta a colombia'
+p483
+g2
+(g6
+S'\x04\xfc\xdag\x16\x9f\xde?'
+p484
+tp485
+Rp486
+tp487
+a(S'statistical classification'
+p488
+g2
+(g6
+S'`\x93=\x8f\xbc\x9a\xde?'
+p489
+tp490
+Rp491
+tp492
+a(S'2007 vuelta a venezuela'
+p493
+g2
+(g6
+S'"\xcc<\xba\xe8\x99\xde?'
+p494
+tp495
+Rp496
+tp497
+a(S'2001 vuelta a venezuela'
+p498
+g2
+(g6
+S'\x9fp\xa4c\x1d\x83\xde?'
+p499
+tp500
+Rp501
+tp502
+a(S'1999 cl\xc3\xa1sico rcn'
+p503
+g2
+(g6
+S'\x14t\xc7\xd0\x04\x80\xde?'
+p504
+tp505
+Rp506
+tp507
+a(S'2006 vuelta a venezuela'
+p508
+g2
+(g6
+S'\x8aF\xef\x0e:u\xde?'
+p509
+tp510
+Rp511
+tp512
+a(S'2015 tour of norway'
+p513
+g2
+(g6
+S'\xb7\x1b\xb8\xe0\xe0o\xde?'
+p514
+tp515
+Rp516
+tp517
+a(S'boccia classification'
+p518
+g2
+(g6
+S'\x15\xa0I\x84\x17_\xde?'
+p519
+tp520
+Rp521
+tp522
+a(S'bc2 (classification)'
+p523
+g2
+(g6
+S'\xcbe\xc8\x84\xc6U\xde?'
+p524
+tp525
+Rp526
+tp527
+a(S'nankali post and core classification'
+p528
+g2
+(g6
+S'F\x9d\xc0\xb2}U\xde?'
+p529
+tp530
+Rp531
+tp532
+a(S'football 5-a-side classification'
+p533
+g2
+(g6
+S'\\@\x82\xa96M\xde?'
+p534
+tp535
+Rp536
+tp537
+a(S'2000 vuelta a venezuela'
+p538
+g2
+(g6
+S'\xaa\x04\x8da& \xde?'
+p539
+tp540
+Rp541
+tp542
+a(S'research i university'
+p543
+g2
+(g6
+S'\xfa\x1d\xd5\x16\x1b\x1a\xde?'
+p544
+tp545
+Rp546
+tp547
+a(S'h2 (classification)'
+p548
+g2
+(g6
+S'JS6\xf6\xce\x17\xde?'
+p549
+tp550
+Rp551
+tp552
+a(S'b3 (classification)'
+p553
+g2
+(g6
+S'\x9cI\x1f#\xf1\x04\xde?'
+p554
+tp555
+Rp556
+tp557
+a(S'para-swimming classification'
+p558
+g2
+(g6
+S'\x91\xb76\x16\x9c\xff\xdd?'
+p559
+tp560
+Rp561
+tp562
+a(S'icpc-2 plus'
+p563
+g2
+(g6
+S'\xfb\xf8\xc4\xc8\xa3\xfd\xdd?'
+p564
+tp565
+Rp566
+tp567
+a(S'young rider classification in the tour de france'
+p568
+g2
+(g6
+S'\x1d\xc7@u\x80\xec\xdd?'
+p569
+tp570
+Rp571
+tp572
+a(S'4-4-6-4'
+p573
+g2
+(g6
+S'\xf90\xc0\xa5\x15\xe2\xdd?'
+p574
+tp575
+Rp576
+tp577
+a(S'para-archery classification'
+p578
+g2
+(g6
+S'[\x1e\xc8\xda\xc0\xde\xdd?'
+p579
+tp580
+Rp581
+tp582
+a(S'2009 vuelta a venezuela'
+p583
+g2
+(g6
+S'\x14sp=\r\xd8\xdd?'
+p584
+tp585
+Rp586
+tp587
+a(S'b2 (classification)'
+p588
+g2
+(g6
+S'\x03Ol\xb3\x08\xd5\xdd?'
+p589
+tp590
+Rp591
+tp592
+a(S'2013 baltic chain tour'
+p593
+g2
+(g6
+S'\x9b\xa1\xe1\xb9\xac\xd3\xdd?'
+p594
+tp595
+Rp596
+tp597
+a(S'b1 (classification)'
+p598
+g2
+(g6
+S'V\xc6\xc5-3\xd3\xdd?'
+p599
+tp600
+Rp601
+tp602
+a(S'2012 baltic chain tour'
+p603
+g2
+(g6
+S'\x8f?Xt\xfd\xd0\xdd?'
+p604
+tp605
+Rp606
+tp607
+a(S'1997 vuelta a colombia'
+p608
+g2
+(g6
+S'b\xde=zJ\x9d\xdd?'
+p609
+tp610
+Rp611
+tp612
+a(S'2-4-6'
+p613
+g2
+(g6
+S'6A\x92\x17v\x93\xdd?'
+p614
+tp615
+Rp616
+tp617
+a(S"2014 giro d'italia"
+p618
+g2
+(g6
+S'Z\x97\xcf\xa2(\x92\xdd?'
+p619
+tp620
+Rp621
+tp622
+a(S'dickinson classification'
+p623
+g2
+(g6
+S'\xe3g\xe4\xf9\xd6\x8f\xdd?'
+p624
+tp625
+Rp626
+tp627
+a(S'2010 vuelta a espa\xc3\xb1a, stage 12 to stage 21'
+p628
+g2
+(g6
+S'\xec\x84\xbd\xde\x10\x82\xdd?'
+p629
+tp630
+Rp631
+tp632
+a(S'2004 vuelta a colombia'
+p633
+g2
+(g6
+S'\x12\xa97\n\x0fl\xdd?'
+p634
+tp635
+Rp636
+tp637
+a(S'2010 vuelta a espa\xc3\xb1a, stage 1 to stage 11'
+p638
+g2
+(g6
+S'\xc5\xf4H\x1f\xfe`\xdd?'
+p639
+tp640
+Rp641
+tp642
+a(S'team classification in the tour de france'
+p643
+g2
+(g6
+S'\xbaM\xf8\x83\xb2M\xdd?'
+p644
+tp645
+Rp646
+tp647
+a(S'para-shooting classification'
+p648
+g2
+(g6
+S'N\xe0\xbeu\xe9H\xdd?'
+p649
+tp650
+Rp651
+tp652
+a(S'r18'
+p653
+g2
+(g6
+S'\xc8k\xe4\xbdg4\xdd?'
+p654
+tp655
+Rp656
+tp657
+a(S'2011 vuelta a andaluc\xc3\xada'
+p658
+g2
+(g6
+S'\x84\n\x9dZ\x05\x1a\xdd?'
+p659
+tp660
+Rp661
+tp662
+a(S'list of wins by sky professional racing and its successors'
+p663
+g2
+(g6
+S'\x9b\x9d\xb0@4\x18\xdd?'
+p664
+tp665
+Rp666
+tp667
+a(S'class b (classification)'
+p668
+g2
+(g6
+S'\xb9{\xc1\x98@\x13\xdd?'
+p669
+tp670
+Rp671
+tp672
+a(S'2014 tour of the basque country'
+p673
+g2
+(g6
+S'\xfb\xef\x8c\x05\xb5\x11\xdd?'
+p674
+tp675
+Rp676
+tp677
+a(S'north american product classification system'
+p678
+g2
+(g6
+S'\xe6#e\x85\x86\x03\xdd?'
+p679
+tp680
+Rp681
+tp682
+a(S'bartol brinkler'
+p683
+g2
+(g6
+S'\xd2\xe1\xd1I\xc0\xf2\xdc?'
+p684
+tp685
+Rp686
+tp687
+a(S'2005 vuelta ciclista de chile'
+p688
+g2
+(g6
+S'\xaf\xda\x90\xce2\xee\xdc?'
+p689
+tp690
+Rp691
+tp692
+a(S'class a (classification)'
+p693
+g2
+(g6
+S')\xc1E\xef\x0e\xee\xdc?'
+p694
+tp695
+Rp696
+tp697
+a(S'arw1'
+p698
+g2
+(g6
+S'\x00\x93m>G\xe8\xdc?'
+p699
+tp700
+Rp701
+tp702
+a(S'b4 (classification)'
+p703
+g2
+(g6
+S'\x0eF8\xa9\xd1\xdd\xdc?'
+p704
+tp705
+Rp706
+tp707
+a(S'1986 tour de france'
+p708
+g2
+(g6
+S'S\x95\xa2\xc8\xba\xc4\xdc?'
+p709
+tp710
+Rp711
+tp712
+a(S'volleyball at the 1998 asian games \xe2\x80\x93 men'
+p713
+g2
+(g6
+S'\xacf\x14\x9d\xcc\xbf\xdc?'
+p714
+tp715
+Rp716
+tp717
+a(S'1990 tour de france'
+p718
+g2
+(g6
+S'!\x01\xbdc\x1c\xbb\xdc?'
+p719
+tp720
+Rp721
+tp722
+a(S"general classification in the giro d'italia"
+p723
+g2
+(g6
+S'\xaf;u\x0b\x80\xac\xdc?'
+p724
+tp725
+Rp726
+tp727
+a(S'4-10-0'
+p728
+g2
+(g6
+S'"n\xfc6\x96\xa3\xdc?'
+p729
+tp730
+Rp731
+tp732
+a(S'c4 (classification)'
+p733
+g2
+(g6
+S'\xb73\x1czb\xa1\xdc?'
+p734
+tp735
+Rp736
+tp737
+a(S'para-cycling classification'
+p738
+g2
+(g6
+S'\xf7\xbcV\xcdH\x9b\xdc?'
+p739
+tp740
+Rp741
+tp742
+a(S'1994 vuelta a colombia'
+p743
+g2
+(g6
+S'\x15>\xc8\xf9\x92\x9a\xdc?'
+p744
+tp745
+Rp746
+tp747
+a(S'accident classification'
+p748
+g2
+(g6
+S'\x1ejE\xb9\x98\x98\xdc?'
+p749
+tp750
+Rp751
+tp752
+a(S'2-12-0'
+p753
+g2
+(g6
+S'+\xe8\xee[P\x95\xdc?'
+p754
+tp755
+Rp756
+tp757
+a(S"2013 fivb volleyball women's u20 world championship"
+p758
+g2
+(g6
+S'\x16\x8b\x04L\xe2\x81\xdc?'
+p759
+tp760
+Rp761
+tp762
+a(S'procedure code'
+p763
+g2
+(g6
+S'|\x92#!\x03\x7f\xdc?'
+p764
+tp765
+Rp766
+tp767
+a(S'2015 festival luxembourgeois du cyclisme f\xc3\xa9minin elsy jacobs'
+p768
+g2
+(g6
+S'\x81\x82.\x19\x91u\xdc?'
+p769
+tp770
+Rp771
+tp772
+a(S'2007 cl\xc3\xa1sico rcn'
+p773
+g2
+(g6
+S'\xf3\xc6\xde\xdf\xbei\xdc?'
+p774
+tp775
+Rp776
+tp777
+a(S'2-8-8-8-2'
+p778
+g2
+(g6
+S'\x18\xc9>\x8bZ_\xdc?'
+p779
+tp780
+Rp781
+tp782
+a(S't47 (classification)'
+p783
+g2
+(g6
+S'\x9c\x8e\x172tF\xdc?'
+p784
+tp785
+Rp786
+tp787
+a(S't32 (classification)'
+p788
+g2
+(g6
+S'\x9bs\xaft\xd5E\xdc?'
+p789
+tp790
+Rp791
+tp792
+a(S'2009 tour de pologne'
+p793
+g2
+(g6
+S'\xb5$\x9f\xc9xA\xdc?'
+p794
+tp795
+Rp796
+tp797
+a(S'2014 vuelta a espa\xc3\xb1a'
+p798
+g2
+(g6
+S'#\xe3\xab\x8c\xcc<\xdc?'
+p799
+tp800
+Rp801
+tp802
+a(S'arst'
+p803
+g2
+(g6
+S'\x1d\x12:U\x8c:\xdc?'
+p804
+tp805
+Rp806
+tp807
+a(S'wheelchair rugby classification'
+p808
+g2
+(g6
+S'\xca\x0f\xfe\nu-\xdc?'
+p809
+tp810
+Rp811
+tp812
+a(S'2014 crit\xc3\xa9rium du dauphin\xc3\xa9'
+p813
+g2
+(g6
+S'\x0befl\x12-\xdc?'
+p814
+tp815
+Rp816
+tp817
+a(S'h3 (classification)'
+p818
+g2
+(g6
+S'-K\x12\xbcM\x11\xdc?'
+p819
+tp820
+Rp821
+tp822
+a(S's13 (classification)'
+p823
+g2
+(g6
+S'\x89\xa5\x11E\xcf\x07\xdc?'
+p824
+tp825
+Rp826
+tp827
+a(S'4-4-6'
+p828
+g2
+(g6
+S'\x86\x90\xb2H\xd4\xff\xdb?'
+p829
+tp830
+Rp831
+tp832
+a(S'product classification'
+p833
+g2
+(g6
+S'Y\x16\x7f\xc0\xec\xf9\xdb?'
+p834
+tp835
+Rp836
+tp837
+a(S'oligotyping (taxonomy)'
+p838
+g2
+(g6
+S'\xe6\x15\xadW\x19\xef\xdb?'
+p839
+tp840
+Rp841
+tp842
+a(S'eneco tour'
+p843
+g2
+(g6
+S'\\\x1d\xbc\x1f\xd8\xee\xdb?'
+p844
+tp845
+Rp846
+tp847
+a(S'0-12-0'
+p848
+g2
+(g6
+S'bZ^\x9fw\xea\xdb?'
+p849
+tp850
+Rp851
+tp852
+a(S"young rider classification in the giro d'italia"
+p853
+g2
+(g6
+S'\xe4\xde\xb2\x1c\x9e\xe6\xdb?'
+p854
+tp855
+Rp856
+tp857
+a(S'multispectral pattern recognition'
+p858
+g2
+(g6
+S'.$\x85\x8eQ\xe3\xdb?'
+p859
+tp860
+Rp861
+tp862
+a(S'imerio massignan'
+p863
+g2
+(g6
+S'h$X&\xe1\xe0\xdb?'
+p864
+tp865
+Rp866
+tp867
+a(S'2-6-6'
+p868
+g2
+(g6
+S'n\xc4Z\xab9\xd3\xdb?'
+p869
+tp870
+Rp871
+tp872
+a(S's12 (classification)'
+p873
+g2
+(g6
+S'\xcfS\x0c\x0e\xa6\xc1\xdb?'
+p874
+tp875
+Rp876
+tp877
+a(S'2007 holland ladies tour'
+p878
+g2
+(g6
+S'\x8e[#n\xbc\xbf\xdb?'
+p879
+tp880
+Rp881
+tp882
+a(S'1998 cl\xc3\xa1sico rcn'
+p883
+g2
+(g6
+S'&\x06T\xde3\xbf\xdb?'
+p884
+tp885
+Rp886
+tp887
+a(S'2-8-6'
+p888
+g2
+(g6
+S'a\x08\x14\x88\xc0\xb7\xdb?'
+p889
+tp890
+Rp891
+tp892
+a(S'2015 tour of slovenia'
+p893
+g2
+(g6
+S'u\x0e\xfc\xba;\x8d\xdb?'
+p894
+tp895
+Rp896
+tp897
+a(S'multiclass classification'
+p898
+g2
+(g6
+S"\x9b\xb8\xec'N\x80\xdb?"
+p899
+tp900
+Rp901
+tp902
+a(S'1995 tour de france'
+p903
+g2
+(g6
+S'\xec\x85\x83q\x1bq\xdb?'
+p904
+tp905
+Rp906
+tp907
+a(S'list of tour de france secondary classification winners'
+p908
+g2
+(g6
+S'\x1f\x8e\xa0`\xb6g\xdb?'
+p909
+tp910
+Rp911
+tp912
+a(S'wheelchair sport classification'
+p913
+g2
+(g6
+S'\x96\x94\x02\xb3\xdad\xdb?'
+p914
+tp915
+Rp916
+tp917
+a(S'volleyball at the 2009 summer universiade \xe2\x80\x93 women'
+p918
+g2
+(g6
+S'\x04\x16\x02rn`\xdb?'
+p919
+tp920
+Rp921
+tp922
+a(S'1996 cl\xc3\xa1sico rcn'
+p923
+g2
+(g6
+S'\xaaM&\x92XX\xdb?'
+p924
+tp925
+Rp926
+tp927
+a(S'office of film and literature classification (new zealand)'
+p928
+g2
+(g6
+S'^\x8a\x02\xa5\xbbV\xdb?'
+p929
+tp930
+Rp931
+tp932
+a(S't36 (classification)'
+p933
+g2
+(g6
+S'e\x10\xe0_\xf0I\xdb?'
+p934
+tp935
+Rp936
+tp937
+a(S'1996 vuelta a colombia'
+p938
+g2
+(g6
+S'8\xb6\x1b%\x80I\xdb?'
+p939
+tp940
+Rp941
+tp942
+a(S'2016 tour of california'
+p943
+g2
+(g6
+S'\xed\xfd3[\xa5A\xdb?'
+p944
+tp945
+Rp946
+tp947
+a(S't45 (classification)'
+p948
+g2
+(g6
+S'i\xca\xa4\x0f\xa97\xdb?'
+p949
+tp950
+Rp951
+tp952
+a(S'disability classification in judo'
+p953
+g2
+(g6
+S'\xf3\x02\x07\xde)#\xdb?'
+p954
+tp955
+Rp956
+tp957
+a(S'2015 tour de luxembourg'
+p958
+g2
+(g6
+S'\xdd\xc5\x98\xeb\xf2"\xdb?'
+p959
+tp960
+Rp961
+tp962
+a(S'combination classification in the tour de france'
+p963
+g2
+(g6
+S'%\xa02\xde4\x1a\xdb?'
+p964
+tp965
+Rp966
+tp967
+a(S'james duff brown'
+p968
+g2
+(g6
+S'\x83\xd8\xcas\x07\x12\xdb?'
+p969
+tp970
+Rp971
+tp972
+a(S'combination classification in the vuelta a espa\xc3\xb1a'
+p973
+g2
+(g6
+S'\\xe\xa2g\x0c\xdb?'
+p974
+tp975
+Rp976
+tp977
+a(S'2009 holland ladies tour'
+p978
+g2
+(g6
+S'\xf0\x1d\xfe~V\x01\xdb?'
+p979
+tp980
+Rp981
+tp982
+a(S'2012 vuelta a espa\xc3\xb1a'
+p983
+g2
+(g6
+S'\xcb\xecv\xc2\x96\xf7\xda?'
+p984
+tp985
+Rp986
+tp987
+a(S'2009 tour of california'
+p988
+g2
+(g6
+S'L\x06\x0b\xe1\xe3\xee\xda?'
+p989
+tp990
+Rp991
+tp992
+a(S'2010 crit\xc3\xa9rium du dauphin\xc3\xa9'
+p993
+g2
+(g6
+S'T\t\x97>\xfb\xdb\xda?'
+p994
+tp995
+Rp996
+tp997
+a(S'cutter expansive classification'
+p998
+g2
+(g6
+S'\xa8\xcfW\xc3o\xd4\xda?'
+p999
+tp1000
+Rp1001
+tp1002
+a(S's14 (classification)'
+p1003
+g2
+(g6
+S'\xa7\x00\xf1\xbf\xe7\xc0\xda?'
+p1004
+tp1005
+Rp1006
+tp1007
+a(S"2013 fivb volleyball girls' u18 world championship"
+p1008
+g2
+(g6
+S'u\xb7=\xfa\xb8\xc0\xda?'
+p1009
+tp1010
+Rp1011
+tp1012
+a(S"water polo at the 2008 summer olympics \xe2\x80\x93 men's tournament"
+p1013
+g2
+(g6
+S"'\xb4N\xd1\x1e\xbd\xda?"
+p1014
+tp1015
+Rp1016
+tp1017
+a(S'1997 cl\xc3\xa1sico rcn'
+p1018
+g2
+(g6
+S'\xa1Y\xcc\xdc\xd0\xae\xda?'
+p1019
+tp1020
+Rp1021
+tp1022
+a(S'australian classification board'
+p1023
+g2
+(g6
+S'\xc3\x89K\xe48\xae\xda?'
+p1024
+tp1025
+Rp1026
+tp1027
+a(S'2015 fiba europe under-16 championship for women'
+p1028
+g2
+(g6
+S'\xfdZ\x89\xdc\x81\xa6\xda?'
+p1029
+tp1030
+Rp1031
+tp1032
+a(S'2006 holland ladies tour'
+p1033
+g2
+(g6
+S'8\xca^\xf8P\x9e\xda?'
+p1034
+tp1035
+Rp1036
+tp1037
+a(S'2014 tour of california'
+p1038
+g2
+(g6
+S'\x95z\x1e@\n\x97\xda?'
+p1039
+tp1040
+Rp1041
+tp1042
+a(S'bliss bibliographic classification'
+p1043
+g2
+(g6
+S'>=or\xdb\x94\xda?'
+p1044
+tp1045
+Rp1046
+tp1047
+a(S'video gaming in australia'
+p1048
+g2
+(g6
+S'r\n\xb91\x82\x90\xda?'
+p1049
+tp1050
+Rp1051
+tp1052
+a(S'hca (classification)'
+p1053
+g2
+(g6
+S'c\xcb~\xd8w\x88\xda?'
+p1054
+tp1055
+Rp1056
+tp1057
+a(S't1 (classification)'
+p1058
+g2
+(g6
+S'!\xf1u\x19\x0c\x81\xda?'
+p1059
+tp1060
+Rp1061
+tp1062
+a(S'1968 tour de france'
+p1063
+g2
+(g6
+S'|\xcd]L\xf2v\xda?'
+p1064
+tp1065
+Rp1066
+tp1067
+a(S'volleyball at the 1990 asian games \xe2\x80\x93 men'
+p1068
+g2
+(g6
+S'\x85f\x8dllq\xda?'
+p1069
+tp1070
+Rp1071
+tp1072
+a(S'\xc3\x93scar vargas (cyclist)'
+p1073
+g2
+(g6
+S'\tt0>\xfen\xda?'
+p1074
+tp1075
+Rp1076
+tp1077
+a(S'2015 settimana internazionale di coppi e bartali'
+p1078
+g2
+(g6
+S'\xe4\xb43\xe8bn\xda?'
+p1079
+tp1080
+Rp1081
+tp1082
+a(S'4-8-6'
+p1083
+g2
+(g6
+S'e\x1dW\xe7hm\xda?'
+p1084
+tp1085
+Rp1086
+tp1087
+a(S'2008 cl\xc3\xa1sico rcn'
+p1088
+g2
+(g6
+S'\x0e\x83\x1eK\xddg\xda?'
+p1089
+tp1090
+Rp1091
+tp1092
+a(S'fritz sch\xc3\xa4r'
+p1093
+g2
+(g6
+S'\xd3\xf9\x92A6`\xda?'
+p1094
+tp1095
+Rp1096
+tp1097
+a(S'china classification society'
+p1098
+g2
+(g6
+S'\x82\xb4\xf7\xc3\xd7_\xda?'
+p1099
+tp1100
+Rp1101
+tp1102
+a(S'2016 tour of austria'
+p1103
+g2
+(g6
+S'\xae\xcbR\xd2!:\xda?'
+p1104
+tp1105
+Rp1106
+tp1107
+a(S'hcb (classification)'
+p1108
+g2
+(g6
+S'\x84\xceV:U8\xda?'
+p1109
+tp1110
+Rp1111
+tp1112
+a(S'2016 energiewacht tour'
+p1113
+g2
+(g6
+S'<$\xc5\xae\xd45\xda?'
+p1114
+tp1115
+Rp1116
+tp1117
+a(S'basketball at the 2007 pan american games'
+p1118
+g2
+(g6
+S'\xe7\x1a$\xd0\x934\xda?'
+p1119
+tp1120
+Rp1121
+tp1122
+a(S'2014 tour of slovenia'
+p1123
+g2
+(g6
+S'Y\xba\xbf\x9c\x1c4\xda?'
+p1124
+tp1125
+Rp1126
+tp1127
+a(S'2016 tour de serbie'
+p1128
+g2
+(g6
+S'\ncnJ+/\xda?'
+p1129
+tp1130
+Rp1131
+tp1132
+a(S'the liv-ex bordeaux classification'
+p1133
+g2
+(g6
+S'r\xea\xab\xa0\x94"\xda?'
+p1134
+tp1135
+Rp1136
+tp1137
+a(S"intergiro classification in the giro d'italia"
+p1138
+g2
+(g6
+S'>\x9d\xd4Y\x03\r\xda?'
+p1139
+tp1140
+Rp1141
+tp1142
+a(S'2008 holland ladies tour'
+p1143
+g2
+(g6
+S'\xc3\x82}\x02\xe3\x0c\xda?'
+p1144
+tp1145
+Rp1146
+tp1147
+a(S'2013 fiba europe under-18 championship'
+p1148
+g2
+(g6
+S'i\xf1\xa7\r\xa4\x07\xda?'
+p1149
+tp1150
+Rp1151
+tp1152
+a(S'am1x'
+p1153
+g2
+(g6
+S'\xf4x\\%\xa1\xf0\xd9?'
+p1154
+tp1155
+Rp1156
+tp1157
+a(S't37 (classification)'
+p1158
+g2
+(g6
+S'\xfe \xb7g\xd6\xec\xd9?'
+p1159
+tp1160
+Rp1161
+tp1162
+a(S'disability sport classification'
+p1163
+g2
+(g6
+S'O\x9a.\xb6f\xec\xd9?'
+p1164
+tp1165
+Rp1166
+tp1167
+a(S'sawyer and keeler-wolf classification system'
+p1168
+g2
+(g6
+S'\x92\x93St\xc0\xe7\xd9?'
+p1169
+tp1170
+Rp1171
+tp1172
+a(S'1999 tour de france'
+p1173
+g2
+(g6
+S'\xd06\xa5d\xa6\xe4\xd9?'
+p1174
+tp1175
+Rp1176
+tp1177
+a(S'jean brankart'
+p1178
+g2
+(g6
+S'\x0e=Ij\xfb\xd8\xd9?'
+p1179
+tp1180
+Rp1181
+tp1182
+a(S'classification society'
+p1183
+g2
+(g6
+S'\xc6\xaf\x82\x1fC\xd5\xd9?'
+p1184
+tp1185
+Rp1186
+tp1187
+a(S'2015 danmark rundt'
+p1188
+g2
+(g6
+S'\xb3S\xf9\xed\x7f\xd2\xd9?'
+p1189
+tp1190
+Rp1191
+tp1192
+a(S'1979 tour de france'
+p1193
+g2
+(g6
+S'\x80\xd8F\xb8\x05\xc2\xd9?'
+p1194
+tp1195
+Rp1196
+tp1197
+a(S'roberto conti'
+p1198
+g2
+(g6
+S'X\x89\x92\xc9\x99\xbc\xd9?'
+p1199
+tp1200
+Rp1201
+tp1202
+a(S'sh2 (classification)'
+p1203
+g2
+(g6
+S'\xe7\xc4D\x11\xea\xba\xd9?'
+p1204
+tp1205
+Rp1206
+tp1207
+a(S'2009 vuelta a espa\xc3\xb1a, stage 12 to stage 21'
+p1208
+g2
+(g6
+S'\x0e ``P\xb5\xd9?'
+p1209
+tp1210
+Rp1211
+tp1212
+a(S'2013 vuelta a espa\xc3\xb1a'
+p1213
+g2
+(g6
+S'\xd4\xcbN\xe2r\xb2\xd9?'
+p1214
+tp1215
+Rp1216
+tp1217
+a(S'graziano battistini'
+p1218
+g2
+(g6
+S'\xde*\xc4E\xa3\xb1\xd9?'
+p1219
+tp1220
+Rp1221
+tp1222
+a(S'2002 cl\xc3\xa1sico rcn'
+p1223
+g2
+(g6
+S'L+W\xd5\xe7\xac\xd9?'
+p1224
+tp1225
+Rp1226
+tp1227
+a(S'international standard industrial classification'
+p1228
+g2
+(g6
+S'\xb6\xab\x89\x8c\xde\x9b\xd9?'
+p1229
+tp1230
+Rp1231
+tp1232
+a(S'1994 tour de france'
+p1233
+g2
+(g6
+S'\xcd%gs\xd8\x9b\xd9?'
+p1234
+tp1235
+Rp1236
+tp1237
+a(S'1995 vuelta a espa\xc3\xb1a'
+p1238
+g2
+(g6
+S'~\x9ae\xdc<\x9a\xd9?'
+p1239
+tp1240
+Rp1241
+tp1242
+a(S'ingetraut dahlberg'
+p1243
+g2
+(g6
+S'\x85\xe8\x00L\xaf\x99\xd9?'
+p1244
+tp1245
+Rp1246
+tp1247
+a(S'data classification (business intelligence)'
+p1248
+g2
+(g6
+S')\x8d:5\xdc\x8d\xd9?'
+p1249
+tp1250
+Rp1251
+tp1252
+a(S'para-nordic skiing classification'
+p1253
+g2
+(g6
+S';\xe9\xee\x84Q\x85\xd9?'
+p1254
+tp1255
+Rp1256
+tp1257
+a(S'censorship in australia'
+p1258
+g2
+(g6
+S'\xb7"w\x1f\xd2\x83\xd9?'
+p1259
+tp1260
+Rp1261
+tp1262
+a(S'2013 tour of utah'
+p1263
+g2
+(g6
+S'\xf2@y\xb8A\x82\xd9?'
+p1264
+tp1265
+Rp1266
+tp1267
+a(S'2011 tour of the basque country'
+p1268
+g2
+(g6
+S'4\xe9H\x878\x82\xd9?'
+p1269
+tp1270
+Rp1271
+tp1272
+a(S'korean decimal classification'
+p1273
+g2
+(g6
+S'1\xab\xf2}\xcd~\xd9?'
+p1274
+tp1275
+Rp1276
+tp1277
+a(S'2014 volta a catalunya'
+p1278
+g2
+(g6
+S'\xb8\x8a\x9aQ\xbd~\xd9?'
+p1279
+tp1280
+Rp1281
+tp1282
+a(S'2015 fiba europe under-16 championship'
+p1283
+g2
+(g6
+S'7>\xae==w\xd9?'
+p1284
+tp1285
+Rp1286
+tp1287
+a(S'1988 tour de france'
+p1288
+g2
+(g6
+S'r\xf4]\x8aZu\xd9?'
+p1289
+tp1290
+Rp1291
+tp1292
+a(S'1987 tour de france'
+p1293
+g2
+(g6
+S'1= \x8f\x85m\xd9?'
+p1294
+tp1295
+Rp1296
+tp1297
+a(S'government budget'
+p1298
+g2
+(g6
+S'H\x95\xd9\x01rm\xd9?'
+p1299
+tp1300
+Rp1301
+tp1302
+a(S'bc3'
+p1303
+g2
+(g6
+S"'\x04\x8e\xeb]f\xd9?"
+p1304
+tp1305
+Rp1306
+tp1307
+a(S'2011 tour du haut var'
+p1308
+g2
+(g6
+S'd\xdc\x7f\x87\xc7d\xd9?'
+p1309
+tp1310
+Rp1311
+tp1312
+a(S'douglas john foskett'
+p1313
+g2
+(g6
+S'\xb7\xce\xd4\xeb\x98_\xd9?'
+p1314
+tp1315
+Rp1316
+tp1317
+a(S'brian deer classification system'
+p1318
+g2
+(g6
+S'c\xc0:\xa2\xda\\\xd9?'
+p1319
+tp1320
+Rp1321
+tp1322
+a(S'montiniaceae'
+p1323
+g2
+(g6
+S'\x17\x91\xe6\xc4F\\\xd9?'
+p1324
+tp1325
+Rp1326
+tp1327
+a(S"2016 tour d'azerba\xc3\xafdjan"
+p1328
+g2
+(g6
+S'\x02\x9e_7\xe8P\xd9?'
+p1329
+tp1330
+Rp1331
+tp1332
+a(S'ta2x'
+p1333
+g2
+(g6
+S'\xa9\x85\xd2\xaf\xa6O\xd9?'
+p1334
+tp1335
+Rp1336
+tp1337
+a(S'lc3 (classification)'
+p1338
+g2
+(g6
+S'&\x98\xdd\xc1\xdeM\xd9?'
+p1339
+tp1340
+Rp1341
+tp1342
+a(S'william stetson merrill'
+p1343
+g2
+(g6
+S'\xad\xdc\x9f\x85\x9bF\xd9?'
+p1344
+tp1345
+Rp1346
+tp1347
+a(S'1984 tour de france'
+p1348
+g2
+(g6
+S'\xc6\xfa\xf9\x92\xbbD\xd9?'
+p1349
+tp1350
+Rp1351
+tp1352
+a(S'2000 cl\xc3\xa1sico rcn'
+p1353
+g2
+(g6
+S'\x97\x1bg1mD\xd9?'
+p1354
+tp1355
+Rp1356
+tp1357
+a(S'2010 tour of california'
+p1358
+g2
+(g6
+S'5r\x9a\x0bV@\xd9?'
+p1359
+tp1360
+Rp1361
+tp1362
+a(S'film and literature board of review'
+p1363
+g2
+(g6
+S'\xa6?P\x13\xe3.\xd9?'
+p1364
+tp1365
+Rp1366
+tp1367
+a(S'2-2-4t'
+p1368
+g2
+(g6
+S'Un\x16\xab\xbe-\xd9?'
+p1369
+tp1370
+Rp1371
+tp1372
+a(S"2011 men's pan-american volleyball cup"
+p1373
+g2
+(g6
+S'A/\xd0\xa0=,\xd9?'
+p1374
+tp1375
+Rp1376
+tp1377
+a(S'lc4 (classification)'
+p1378
+g2
+(g6
+S'\xa2\x1co\xa8\x17\x1f\xd9?'
+p1379
+tp1380
+Rp1381
+tp1382
+a(S"mountains classification in the giro d'italia"
+p1383
+g2
+(g6
+S'\xfe\xac\x92\x96k\x19\xd9?'
+p1384
+tp1385
+Rp1386
+tp1387
+a(S'comparison and contrast of classification schemes in linguistics and metadata'
+p1388
+g2
+(g6
+S'\xd38a\xee\x8d\x18\xd9?'
+p1389
+tp1390
+Rp1391
+tp1392
+a(S'wheelchair curling classification'
+p1393
+g2
+(g6
+S'\xfc \xfa\x9b\x98\x17\xd9?'
+p1394
+tp1395
+Rp1396
+tp1397
+a(S'2015 fiba europe under-18 championship for women'
+p1398
+g2
+(g6
+S'+\x1ecy\x06\x08\xd9?'
+p1399
+tp1400
+Rp1401
+tp1402
+a(S'1985 tour de france'
+p1403
+g2
+(g6
+S'\x829\xd4\x87j\xfe\xd8?'
+p1404
+tp1405
+Rp1406
+tp1407
+a(S't51 (classification)'
+p1408
+g2
+(g6
+S'\xe5\xc4\x02\x85Y\xf9\xd8?'
+p1409
+tp1410
+Rp1411
+tp1412
+a(S'2015 fiba europe under-18 championship'
+p1413
+g2
+(g6
+S'\x89\x99\xea\x13\xa3\xf4\xd8?'
+p1414
+tp1415
+Rp1416
+tp1417
+a(S'0-4-6'
+p1418
+g2
+(g6
+S'(\x0f\x11\xec\xcb\xef\xd8?'
+p1419
+tp1420
+Rp1421
+tp1422
+a(S'4-8-8-4'
+p1423
+g2
+(g6
+S'\xe1\x84\xe6h\xb2\xd4\xd8?'
+p1424
+tp1425
+Rp1426
+tp1427
+a(S'patent classification'
+p1428
+g2
+(g6
+S'<H\xc7\x8a\xc9\xca\xd8?'
+p1429
+tp1430
+Rp1431
+tp1432
+a(S'wheelchair tennis classification'
+p1433
+g2
+(g6
+S'\xeem\x9bN\x80\xca\xd8?'
+p1434
+tp1435
+Rp1436
+tp1437
+a(S'2004 cl\xc3\xa1sico rcn'
+p1438
+g2
+(g6
+S'\xe4@\x88\x85\x04\xbc\xd8?'
+p1439
+tp1440
+Rp1441
+tp1442
+a(S'lc1 (classification)'
+p1443
+g2
+(g6
+S"\xf2'\xa98\xea\xaf\xd8?"
+p1444
+tp1445
+Rp1446
+tp1447
+a(S'volleyball at the 2014 central american and caribbean games'
+p1448
+g2
+(g6
+S'\xe8_\x8fAB\xa1\xd8?'
+p1449
+tp1450
+Rp1451
+tp1452
+a(S'2011 volta ao algarve'
+p1453
+g2
+(g6
+S'\xf6\x04\xec$\xba\xa0\xd8?'
+p1454
+tp1455
+Rp1456
+tp1457
+a(S'2-8-8-8-8-2'
+p1458
+g2
+(g6
+S'\xd5\x91\xc3\xd3\xbe\x9f\xd8?'
+p1459
+tp1460
+Rp1461
+tp1462
+a(S'2009 tour of missouri'
+p1463
+g2
+(g6
+S'\xd8M\xa0g\x08\x9e\xd8?'
+p1464
+tp1465
+Rp1466
+tp1467
+a(S'sh1 (classification)'
+p1468
+g2
+(g6
+S'wLu^\xa3\x9c\xd8?'
+p1469
+tp1470
+Rp1471
+tp1472
+a(S'2013 tour de romandie'
+p1473
+g2
+(g6
+S'u\xe9O4\x04\x92\xd8?'
+p1474
+tp1475
+Rp1476
+tp1477
+a(S'wheelchair basketball at the 2008 summer paralympics \xe2\x80\x93 men'
+p1478
+g2
+(g6
+S'\x8c+B\xa5\xf1\x91\xd8?'
+p1479
+tp1480
+Rp1481
+tp1482
+a(S'2000 holland ladies tour'
+p1483
+g2
+(g6
+S'\x8d\x13S\xf7\xd9\x80\xd8?'
+p1484
+tp1485
+Rp1486
+tp1487
+a(S's11 (classification)'
+p1488
+g2
+(g6
+S'\x07\xe0\xe7P\x19\x80\xd8?'
+p1489
+tp1490
+Rp1491
+tp1492
+a(S'2011 tour de france'
+p1493
+g2
+(g6
+S'\x0e<e\xb7\xc0s\xd8?'
+p1494
+tp1495
+Rp1496
+tp1497
+a(S'2000 tour de france'
+p1498
+g2
+(g6
+S'\xa3\x0b/K\x84q\xd8?'
+p1499
+tp1500
+Rp1501
+tp1502
+a(S'u.s. national vegetation classification'
+p1503
+g2
+(g6
+S'\xc5\x8f\x85cgk\xd8?'
+p1504
+tp1505
+Rp1506
+tp1507
+a(S'h1 (classification)'
+p1508
+g2
+(g6
+S'F\x17\x8d\xae\xf7f\xd8?'
+p1509
+tp1510
+Rp1511
+tp1512
+a.

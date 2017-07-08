@@ -1,0 +1,2728 @@
+(lp0
+(S'professors in the united states'
+p1
+cnumpy.core.multiarray
+scalar
+p2
+(cnumpy
+dtype
+p3
+(S'f8'
+p4
+I0
+I1
+tp5
+Rp6
+(I3
+S'<'
+p7
+NNNI-1
+I-1
+I0
+tp8
+bS'\xfa\xff\xff\xff\xff\xff\xef?'
+p9
+tp10
+Rp11
+tp12
+a(S'academic ranks in canada'
+p13
+g2
+(g6
+S'm\xba\x96\xf9\x8d\xed\xeb?'
+p14
+tp15
+Rp16
+tp17
+a(S'academic ranks in the united states'
+p18
+g2
+(g6
+S'F\xbd,\xcd\x82\xd7\xe6?'
+p19
+tp20
+Rp21
+tp22
+a(S'professor'
+p23
+g2
+(g6
+S'Z>\xa7\xb3\xef?\xe6?'
+p24
+tp25
+Rp26
+tp27
+a(S'academic ranks in the netherlands'
+p28
+g2
+(g6
+S'\x03\xbd&\xf8\xb8\xd9\xe5?'
+p29
+tp30
+Rp31
+tp32
+a(S'list of academic ranks'
+p33
+g2
+(g6
+S'\x03\xd8\xf5Ii^\xe5?'
+p34
+tp35
+Rp36
+tp37
+a(S'academic ranks in norway'
+p38
+g2
+(g6
+S'\xa4\x87\x15>)\xdd\xe4?'
+p39
+tp40
+Rp41
+tp42
+a(S'academic ranks (portugal and brazil)'
+p43
+g2
+(g6
+S'3\xba\x03\xf1\xf1\xce\xe4?'
+p44
+tp45
+Rp46
+tp47
+a(S'academic tenure in north america'
+p48
+g2
+(g6
+S'\xf0}F\xe0\xb1+\xe3?'
+p49
+tp50
+Rp51
+tp52
+a(S'academic ranks in israel'
+p53
+g2
+(g6
+S'y4f+)\xcd\xe2?'
+p54
+tp55
+Rp56
+tp57
+a(S'academic ranks in jordan'
+p58
+g2
+(g6
+S'\xab\xf9\x1d\xa7\xd8\x87\xe2?'
+p59
+tp60
+Rp61
+tp62
+a(S'lecturer'
+p63
+g2
+(g6
+S'\x05y\x8b\xf6\xd0\x7f\xe2?'
+p64
+tp65
+Rp66
+tp67
+a(S'academic ranks in germany'
+p68
+g2
+(g6
+S'\xf7\x9b1\n\xf8\x11\xe2?'
+p69
+tp70
+Rp71
+tp72
+a(S'academic ranks in the united kingdom'
+p73
+g2
+(g6
+S'\xb5-\x08I\x06\x90\xe1?'
+p74
+tp75
+Rp76
+tp77
+a(S'academic ranks in india'
+p78
+g2
+(g6
+S's\xb5<\x99wn\xe1?'
+p79
+tp80
+Rp81
+tp82
+a(S'academic ranks in serbia'
+p83
+g2
+(g6
+S'KH~|\x9dS\xe1?'
+p84
+tp85
+Rp86
+tp87
+a(S'academic ranks in egypt'
+p88
+g2
+(g6
+S'\xd9\xad\r\xe42C\xe1?'
+p89
+tp90
+Rp91
+tp92
+a(S'faculty (academic staff)'
+p93
+g2
+(g6
+S'\xa1=\xf3\xef7\x1d\xe1?'
+p94
+tp95
+Rp96
+tp97
+a(S'academic ranks in the czech republic and in slovakia'
+p98
+g2
+(g6
+S'\xd7\xe7\x8f:\r\xaa\xe0?'
+p99
+tp100
+Rp101
+tp102
+a(S'professor (highest academic rank)'
+p103
+g2
+(g6
+S'(\xc0\xe2\xb5\x05\x86\xe0?'
+p104
+tp105
+Rp106
+tp107
+a(S'adjunct professors in north america'
+p108
+g2
+(g6
+S'\xe2\xb8{\xb5~q\xe0?'
+p109
+tp110
+Rp111
+tp112
+a(S'reader (academic rank)'
+p113
+g2
+(g6
+S'\xb1\x13\xb4\x96sc\xe0?'
+p114
+tp115
+Rp116
+tp117
+a(S'academic ranks in finland'
+p118
+g2
+(g6
+S'\x1f\xa9\xc7 \xf86\xe0?'
+p119
+tp120
+Rp121
+tp122
+a(S'adjunct professor'
+p123
+g2
+(g6
+S'\x9c\xcf<S\xde&\xe0?'
+p124
+tp125
+Rp126
+tp127
+a(S'academic ranks in colombia'
+p128
+g2
+(g6
+S'38\xa1\x89\xdd\xf0\xdf?'
+p129
+tp130
+Rp131
+tp132
+a(S'academic ranks in argentina'
+p133
+g2
+(g6
+S'w&\x87\xfc\x95\xed\xdf?'
+p134
+tp135
+Rp136
+tp137
+a(S'wissenschaftlicher assistent'
+p138
+g2
+(g6
+S'\xda\xc8n\x82\xe3\xd0\xdf?'
+p139
+tp140
+Rp141
+tp142
+a(S'assistant professor'
+p143
+g2
+(g6
+S'\xf9\xd1\xeb\x14`\xcf\xdf?'
+p144
+tp145
+Rp146
+tp147
+a(S'list of fellows of the british academy elected in the 2010s'
+p148
+g2
+(g6
+S'\xb8\x8d\xb2\xf6\t_\xdf?'
+p149
+tp150
+Rp151
+tp152
+a(S'academic ranks in china'
+p153
+g2
+(g6
+S'we\xb2\xfd\x1aE\xdf?'
+p154
+tp155
+Rp156
+tp157
+a(S'harvard university professor'
+p158
+g2
+(g6
+S'\xa4Z\xfe\x82\x9b9\xdf?'
+p159
+tp160
+Rp161
+tp162
+a(S'associate professor'
+p163
+g2
+(g6
+S'y\xac\xd8\x90\x131\xdf?'
+p164
+tp165
+Rp166
+tp167
+a(S'academic ranks in denmark'
+p168
+g2
+(g6
+S' \xe4wV\x04\xee\xde?'
+p169
+tp170
+Rp171
+tp172
+a(S'academic ranks in italy'
+p173
+g2
+(g6
+S'}\xa0\\\r\x99\xaa\xde?'
+p174
+tp175
+Rp176
+tp177
+a(S'list of university of california, davis faculty'
+p178
+g2
+(g6
+S'\x12\xe3O\xef\xf5B\xde?'
+p179
+tp180
+Rp181
+tp182
+a(S'list of guggenheim fellowships awarded in 2007'
+p183
+g2
+(g6
+S'*\x15S\xa6\xd9\x0b\xde?'
+p184
+tp185
+Rp186
+tp187
+a(S'academic ranks in hungary'
+p188
+g2
+(g6
+S'\x8d\xe6T\xe0\x92\x07\xde?'
+p189
+tp190
+Rp191
+tp192
+a(S'list of guggenheim fellowships awarded in 1979'
+p193
+g2
+(g6
+S'>+\xbe\x18e\xed\xdd?'
+p194
+tp195
+Rp196
+tp197
+a(S'list of university of wisconsin\xe2\x80\x93madison people in academics'
+p198
+g2
+(g6
+S'\x95e\xce\x06\xeb\xda\xdd?'
+p199
+tp200
+Rp201
+tp202
+a(S'list of guggenheim fellowships awarded in 2001'
+p203
+g2
+(g6
+S'Z\xb5(\xfax\xd9\xdd?'
+p204
+tp205
+Rp206
+tp207
+a(S'list of guggenheim fellowships awarded in 2008'
+p208
+g2
+(g6
+S'\xfbVa\xf7\xfa\xc7\xdd?'
+p209
+tp210
+Rp211
+tp212
+a(S'list of guggenheim fellowships awarded in 2004'
+p213
+g2
+(g6
+S'\xd82\xc0M^\xba\xdd?'
+p214
+tp215
+Rp216
+tp217
+a(S'list of guggenheim fellowships awarded in 1980'
+p218
+g2
+(g6
+S'\xe1\xf9(\xf3k\x9d\xdd?'
+p219
+tp220
+Rp221
+tp222
+a(S'list of guggenheim fellowships awarded in 1999'
+p223
+g2
+(g6
+S'>;Gb\xbb\x8d\xdd?'
+p224
+tp225
+Rp226
+tp227
+a(S'academic rank in sweden'
+p228
+g2
+(g6
+S'\n\x08\x0e\xaa\xbc\x8b\xdd?'
+p229
+tp230
+Rp231
+tp232
+a(S'list of guggenheim fellowships awarded in 1981'
+p233
+g2
+(g6
+S'\xabr\xb0(\xed\x8a\xdd?'
+p234
+tp235
+Rp236
+tp237
+a(S'list of professorships at the university of cambridge'
+p238
+g2
+(g6
+S'\xc7\xb9P\xed:g\xdd?'
+p239
+tp240
+Rp241
+tp242
+a(S'list of fellows of the british academy elected in the 2000s'
+p243
+g2
+(g6
+S'\x80\x96\xfc\xba\xe7f\xdd?'
+p244
+tp245
+Rp246
+tp247
+a(S'list of guggenheim fellowships awarded in 2006'
+p248
+g2
+(g6
+S'c\xbf}\xf8\x9cX\xdd?'
+p249
+tp250
+Rp251
+tp252
+a(S'list of professorships at the university of oxford'
+p253
+g2
+(g6
+S'\x07\xeb>\xa0\x92L\xdd?'
+p254
+tp255
+Rp256
+tp257
+a(S'list of guggenheim fellowships awarded in 2003'
+p258
+g2
+(g6
+S'\xc4D<\xc5WH\xdd?'
+p259
+tp260
+Rp261
+tp262
+a(S'academic ranks in kenya'
+p263
+g2
+(g6
+S' \xff0[i:\xdd?'
+p264
+tp265
+Rp266
+tp267
+a(S'list of guggenheim fellowships awarded in 1978'
+p268
+g2
+(g6
+S'Dv4\xaa\xfd1\xdd?'
+p269
+tp270
+Rp271
+tp272
+a(S'list of guggenheim fellowships awarded in 2002'
+p273
+g2
+(g6
+S'\xe1\x92w\xd5a1\xdd?'
+p274
+tp275
+Rp276
+tp277
+a(S'academic ranks in russia'
+p278
+g2
+(g6
+S'\xb9\x1f\xd1\xf0F-\xdd?'
+p279
+tp280
+Rp281
+tp282
+a(S'list of cornell university faculty'
+p283
+g2
+(g6
+S'`n\xf2\xe0\xb2\xed\xdc?'
+p284
+tp285
+Rp286
+tp287
+a(S'academic ranks (australia and new zealand)'
+p288
+g2
+(g6
+S'\xc2\x95}\xdbd\xe6\xdc?'
+p289
+tp290
+Rp291
+tp292
+a(S'list of guggenheim fellowships awarded in 2005'
+p293
+g2
+(g6
+S'\xd4<f\x87\x84\xe0\xdc?'
+p294
+tp295
+Rp296
+tp297
+a(S'list of university of michigan faculty and staff'
+p298
+g2
+(g6
+S'(\x00<\xc4\xf7\xdc\xdc?'
+p299
+tp300
+Rp301
+tp302
+a(S'list of guggenheim fellowships awarded in 1991'
+p303
+g2
+(g6
+S'}\xa1O\x87k\xbb\xdc?'
+p304
+tp305
+Rp306
+tp307
+a(S'list of fellows of the british academy elected in the 1990s'
+p308
+g2
+(g6
+S's\xe3\xbbs1\xb8\xdc?'
+p309
+tp310
+Rp311
+tp312
+a(S'list of fictional professors'
+p313
+g2
+(g6
+S'\xffz\x94(\xda\xb1\xdc?'
+p314
+tp315
+Rp316
+tp317
+a(S'list of guggenheim fellowships awarded in 2000'
+p318
+g2
+(g6
+S'\x0c\x18\x0f\xe49\xb1\xdc?'
+p319
+tp320
+Rp321
+tp322
+a(S'wako university'
+p323
+g2
+(g6
+S'\xac\xecE46\xae\xdc?'
+p324
+tp325
+Rp326
+tp327
+a(S'list of guggenheim fellowships awarded in 1974'
+p328
+g2
+(g6
+S'\xf4y\xb8)4\x8f\xdc?'
+p329
+tp330
+Rp331
+tp332
+a(S'list of university of california, berkeley faculty'
+p333
+g2
+(g6
+S'\xd2<\xa5\xdfDA\xdc?'
+p334
+tp335
+Rp336
+tp337
+a(S'list of professorships at the university of glasgow'
+p338
+g2
+(g6
+S'\x16\xa8.\xed\x9f:\xdc?'
+p339
+tp340
+Rp341
+tp342
+a(S'list of guggenheim fellowships awarded in 1975'
+p343
+g2
+(g6
+S'\nX\xe7*u\x1f\xdc?'
+p344
+tp345
+Rp346
+tp347
+a(S'academic ranks in thailand'
+p348
+g2
+(g6
+S'\xfc\x88\x16\xf9\x0b\x1a\xdc?'
+p349
+tp350
+Rp351
+tp352
+a(S'list of guggenheim fellowships awarded in 1973'
+p353
+g2
+(g6
+S'\xe1He\x0e\xa6\x19\xdc?'
+p354
+tp355
+Rp356
+tp357
+a(S'ratemyprofessors.com'
+p358
+g2
+(g6
+S'\xe8J4\x86\xc7\xdc\xdb?'
+p359
+tp360
+Rp361
+tp362
+a(S'academic ranks in south africa'
+p363
+g2
+(g6
+S'\xd2\x88\x08c\xf1\xbe\xdb?'
+p364
+tp365
+Rp366
+tp367
+a(S'wichai sankhachandrananda'
+p368
+g2
+(g6
+S'\x0bh\x15\x90\xb3w\xdb?'
+p369
+tp370
+Rp371
+tp372
+a(S'school of electrical and electronic engineering, university of manchester'
+p373
+g2
+(g6
+S'\x96\xe3\xf2\x04\xf3O\xdb?'
+p374
+tp375
+Rp376
+tp377
+a(S'list of colby college faculty'
+p378
+g2
+(g6
+S'@5\xa8\x8a\x0e\xcf\xda?'
+p379
+tp380
+Rp381
+tp382
+a(S'list of in our time programmes'
+p383
+g2
+(g6
+S'\x92\xa6N\x1f\xab*\xda?'
+p384
+tp385
+Rp386
+tp387
+a(S'professor (disambiguation)'
+p388
+g2
+(g6
+S'a\xa5\x9c;.%\xda?'
+p389
+tp390
+Rp391
+tp392
+a(S'department of computer science, university of bristol'
+p393
+g2
+(g6
+S'{T\xe8=\x82\xdd\xd9?'
+p394
+tp395
+Rp396
+tp397
+a(S'list of fellows of the royal society elected in 2015'
+p398
+g2
+(g6
+S'\xcd\xc5\x83\xc7o\xa1\xd9?'
+p399
+tp400
+Rp401
+tp402
+a(S'list of new york university faculty'
+p403
+g2
+(g6
+S'\xf6\t#\xfc\xda\x8d\xd9?'
+p404
+tp405
+Rp406
+tp407
+a(S'interdisciplinary center for organizational architecture'
+p408
+g2
+(g6
+S'\xab"\x98\xe2\xe0\x8b\xd9?'
+p409
+tp410
+Rp411
+tp412
+a(S'the emet prize for art, science and culture'
+p413
+g2
+(g6
+S'\x85\x8fP\xe0\x01W\xd9?'
+p414
+tp415
+Rp416
+tp417
+a(S'titles of distinction awarded by the university of oxford'
+p418
+g2
+(g6
+S'\xebP0Z\x1dJ\xd9?'
+p419
+tp420
+Rp421
+tp422
+a(S'list of regent college alumni and faculty'
+p423
+g2
+(g6
+S'\xe4iz\xd3VH\xd9?'
+p424
+tp425
+Rp426
+tp427
+a(S'list of professorial positions at harvard law school'
+p428
+g2
+(g6
+S'b\xbe2\\&C\xd9?'
+p429
+tp430
+Rp431
+tp432
+a(S'professor (stock character)'
+p433
+g2
+(g6
+S'\x92U\xf0\xd3\xe2@\xd9?'
+p434
+tp435
+Rp436
+tp437
+a(S'cornell university department of history'
+p438
+g2
+(g6
+S'\xfa\x1ehU\x8e*\xd9?'
+p439
+tp440
+Rp441
+tp442
+a(S'national conference of university professors'
+p443
+g2
+(g6
+S'\xb3_\xca\xd8\xe5\n\xd9?'
+p444
+tp445
+Rp446
+tp447
+a(S'federation fellowship'
+p448
+g2
+(g6
+S'<R\x93!\xe3\x03\xd9?'
+p449
+tp450
+Rp451
+tp452
+a(S'list of university of oregon faculty and staff'
+p453
+g2
+(g6
+S'he\x9c\xf5\x18\xe5\xd8?'
+p454
+tp455
+Rp456
+tp457
+a(S'list of nobel laureates by university affiliation'
+p458
+g2
+(g6
+S'\xf2Z\xd9\xca!\xc4\xd8?'
+p459
+tp460
+Rp461
+tp462
+a(S'list of guggenheim fellowships awarded in 1968'
+p463
+g2
+(g6
+S'\xa4\xea\xbc\x02\xe3\xab\xd8?'
+p464
+tp465
+Rp466
+tp467
+a(S'list of female fellows of the british academy'
+p468
+g2
+(g6
+S'~\xe50\x9f\x00\xa2\xd8?'
+p469
+tp470
+Rp471
+tp472
+a(S'school of computer science, university of manchester'
+p473
+g2
+(g6
+S'\x8c\x83lD\xbf_\xd8?'
+p474
+tp475
+Rp476
+tp477
+a(S'senior lecturer'
+p478
+g2
+(g6
+S"\xeb\n\\\x93\x0f'\xd8?"
+p479
+tp480
+Rp481
+tp482
+a(S'list of professor shonku adventures'
+p483
+g2
+(g6
+S'\xae\xd7>\x91<\x08\xd8?'
+p484
+tp485
+Rp486
+tp487
+a(S'professor watchlist'
+p488
+g2
+(g6
+S'\x06\x01\x9f\xa0\xc2\xf1\xd7?'
+p489
+tp490
+Rp491
+tp492
+a(S'ucla department of philosophy'
+p493
+g2
+(g6
+S"\x02[\xd9\xb5'\xe8\xd7?"
+p494
+tp495
+Rp496
+tp497
+a(S'list of university of chicago faculty'
+p498
+g2
+(g6
+S'B\n6\xc0\xf1\xcb\xd7?'
+p499
+tp500
+Rp501
+tp502
+a(S'academic ranks in malaysia'
+p503
+g2
+(g6
+S'\xf2^L=G\xb1\xd7?'
+p504
+tp505
+Rp506
+tp507
+a(S'yale school of music'
+p508
+g2
+(g6
+S'\xd7\x1c\x1d\x8e]\xa0\xd7?'
+p509
+tp510
+Rp511
+tp512
+a(S'rigmor and carl holst-knudsen award for scientific research'
+p513
+g2
+(g6
+S'\x13\x92,\x05-\x88\xd7?'
+p514
+tp515
+Rp516
+tp517
+a(S'list of canadian philosophers'
+p518
+g2
+(g6
+S'\x8b\xb5\xdc$ix\xd7?'
+p519
+tp520
+Rp521
+tp522
+a(S'list of reed college people'
+p523
+g2
+(g6
+S'\xb0\x95Sy\x98u\xd7?'
+p524
+tp525
+Rp526
+tp527
+a(S'clinical professor'
+p528
+g2
+(g6
+S'D\xdan\x00\x14t\xd7?'
+p529
+tp530
+Rp531
+tp532
+a(S'list of university of essex people'
+p533
+g2
+(g6
+S'_\xe4\xc1&GM\xd7?'
+p534
+tp535
+Rp536
+tp537
+a(S'list of guggenheim fellowships awarded in 1966'
+p538
+g2
+(g6
+S'o\x9d\x9e\xed\xe8H\xd7?'
+p539
+tp540
+Rp541
+tp542
+a(S'american association of university professors'
+p543
+g2
+(g6
+S'\xdd\n\x13\x04\xb5?\xd7?'
+p544
+tp545
+Rp546
+tp547
+a(S'list of columbia university people'
+p548
+g2
+(g6
+S'\xf5<A\x80\xbe:\xd7?'
+p549
+tp550
+Rp551
+tp552
+a(S'walter boas medal'
+p553
+g2
+(g6
+S'\xcbc\x7f\xf1\x914\xd7?'
+p554
+tp555
+Rp556
+tp557
+a(S'honorary fellows of the royal society of chemistry'
+p558
+g2
+(g6
+S'\xb6\xfe\x1fj\xba\x14\xd7?'
+p559
+tp560
+Rp561
+tp562
+a(S'johan skytte prize in political science'
+p563
+g2
+(g6
+S'xp\xa5\xf1J\xdb\xd6?'
+p564
+tp565
+Rp566
+tp567
+a(S'deil s. wright'
+p568
+g2
+(g6
+S'\x058\x0e\xcfz\xcd\xd6?'
+p569
+tp570
+Rp571
+tp572
+a(S'w. e. b. du bois institute'
+p573
+g2
+(g6
+S'\xfeC\x88\xed\x82\xc2\xd6?'
+p574
+tp575
+Rp576
+tp577
+a(S'list of zhejiang university faculty'
+p578
+g2
+(g6
+S'\x08]\x0e\th\x9f\xd6?'
+p579
+tp580
+Rp581
+tp582
+a(S'list of university of birmingham academics'
+p583
+g2
+(g6
+S']/y9\x8b\x96\xd6?'
+p584
+tp585
+Rp586
+tp587
+a(S'classical association'
+p588
+g2
+(g6
+S'/Gk\xb9\xc6\x8f\xd6?'
+p589
+tp590
+Rp591
+tp592
+a(S'university of oslo'
+p593
+g2
+(g6
+S'/\x02\x88\x85\x90R\xd6?'
+p594
+tp595
+Rp596
+tp597
+a(S'list of turing award laureates by university affiliation'
+p598
+g2
+(g6
+S'\xac\xf1xpuN\xd6?'
+p599
+tp600
+Rp601
+tp602
+a(S'list of university of california, berkeley alumni in academia'
+p603
+g2
+(g6
+S'\xe2UK\xca[L\xd6?'
+p604
+tp605
+Rp606
+tp607
+a(S'list of contemporary iranian scientists, scholars, and engineers'
+p608
+g2
+(g6
+S'\x9b\xdd\xa2\x06\\E\xd6?'
+p609
+tp610
+Rp611
+tp612
+a(S'list of former teachers at the conservatoire de paris'
+p613
+g2
+(g6
+S'\x0b\x8d\xae\xe1\xbc=\xd6?'
+p614
+tp615
+Rp616
+tp617
+a(S'university of science and technology of china'
+p618
+g2
+(g6
+S'\xbe\x7f\x1fR\xaa2\xd6?'
+p619
+tp620
+Rp621
+tp622
+a(S'heads of colleges of the university of london'
+p623
+g2
+(g6
+S'\x85\x94\xf8xC\x1a\xd6?'
+p624
+tp625
+Rp626
+tp627
+a(S'list of vice-chancellors of nigerian universities'
+p628
+g2
+(g6
+S'\xcc\xe1L\x08\x7f\x17\xd6?'
+p629
+tp630
+Rp631
+tp632
+a(S'owles'
+p633
+g2
+(g6
+S'\x95\xc8\xae*\t\x13\xd6?'
+p634
+tp635
+Rp636
+tp637
+a(S'academic ranks in france'
+p638
+g2
+(g6
+S'D1\x81:\x14\x05\xd6?'
+p639
+tp640
+Rp641
+tp642
+a(S'tarbiat modares university'
+p643
+g2
+(g6
+S'y*50\xd7\xef\xd5?'
+p644
+tp645
+Rp646
+tp647
+a(S'sessional lecturer'
+p648
+g2
+(g6
+S'\x88\x06\x81\xc2\xe0\xed\xd5?'
+p649
+tp650
+Rp651
+tp652
+a(S'yan chen (professor)'
+p653
+g2
+(g6
+S'\xbb6\x16U\xcb\xe7\xd5?'
+p654
+tp655
+Rp656
+tp657
+a(S'list of guggenheim fellowships awarded in 1971'
+p658
+g2
+(g6
+S'\xe9\xfb\xd4\x89 \xbf\xd5?'
+p659
+tp660
+Rp661
+tp662
+a(S'berlin prize'
+p663
+g2
+(g6
+S'\xb6\xfd3\x05(\xaa\xd5?'
+p664
+tp665
+Rp666
+tp667
+a(S'list of university of minnesota people'
+p668
+g2
+(g6
+S'\xc5P2\xea\x80\x9c\xd5?'
+p669
+tp670
+Rp671
+tp672
+a(S'list of guggenheim fellowships awarded in 1956'
+p673
+g2
+(g6
+S'\x87E\xd3}\x1e\x8b\xd5?'
+p674
+tp675
+Rp676
+tp677
+a(S'government college of commerce & economics'
+p678
+g2
+(g6
+S'\xbe\xb0:\x7fvd\xd5?'
+p679
+tp680
+Rp681
+tp682
+a(S'nangarhar university'
+p683
+g2
+(g6
+S'\xcbs)\xb3\xbcF\xd5?'
+p684
+tp685
+Rp686
+tp687
+a(S'southmayd professor of law'
+p688
+g2
+(g6
+S'(\x97f\xd2\xd0\x1e\xd5?'
+p689
+tp690
+Rp691
+tp692
+a(S'centre for the advancement of sustainable medical innovation'
+p693
+g2
+(g6
+S'\xdd\xa4O\x82t\x1d\xd5?'
+p694
+tp695
+Rp696
+tp697
+a(S'list of professorships at the university of dublin'
+p698
+g2
+(g6
+S'\x02\nh\xd0\xf7\xf7\xd4?'
+p699
+tp700
+Rp701
+tp702
+a(S'mehmet bulut'
+p703
+g2
+(g6
+S'\xee\xf0>F\xd2\xec\xd4?'
+p704
+tp705
+Rp706
+tp707
+a(S'society for the promotion of hellenic studies'
+p708
+g2
+(g6
+S'\x8fV\xb83!\xd1\xd4?'
+p709
+tp710
+Rp711
+tp712
+a(S'vinnytsia institute of economics and social sciences'
+p713
+g2
+(g6
+S'l\xc2c/\xd2\xbc\xd4?'
+p714
+tp715
+Rp716
+tp717
+a(S'south australian science council'
+p718
+g2
+(g6
+S'\xd8S\r2\x80\xb1\xd4?'
+p719
+tp720
+Rp721
+tp722
+a(S'list of northwestern university faculty'
+p723
+g2
+(g6
+S'\xbb\xd8\xe3ln\xad\xd4?'
+p724
+tp725
+Rp726
+tp727
+a(S'list of guggenheim fellowships awarded in 1962'
+p728
+g2
+(g6
+S'\xb6\xe1\xe2\x87P\x8f\xd4?'
+p729
+tp730
+Rp731
+tp732
+a(S'the taylor prize in mathematics'
+p733
+g2
+(g6
+S'\xf8\x871\xe7\xc9\x85\xd4?'
+p734
+tp735
+Rp736
+tp737
+a(S'university professorship (university of california)'
+p738
+g2
+(g6
+S'\x9b\xef{\xc2\x8ds\xd4?'
+p739
+tp740
+Rp741
+tp742
+a(S'department of chemistry, university of cambridge'
+p743
+g2
+(g6
+S'\x8b2\x9a\xf6\x85i\xd4?'
+p744
+tp745
+Rp746
+tp747
+a(S'list of university of waterloo people'
+p748
+g2
+(g6
+S'\xe6y\x89+\x88[\xd4?'
+p749
+tp750
+Rp751
+tp752
+a(S'faculty of classics, university of cambridge'
+p753
+g2
+(g6
+S'+2\xeb\x1c9S\xd4?'
+p754
+tp755
+Rp756
+tp757
+a(S'professor branestawm'
+p758
+g2
+(g6
+S'\x84u\xe35\x86P\xd4?'
+p759
+tp760
+Rp761
+tp762
+a(S'columbia theological seminary'
+p763
+g2
+(g6
+S'\xaa\x87*w\xe2F\xd4?'
+p764
+tp765
+Rp766
+tp767
+a(S'list of university of colombo people'
+p768
+g2
+(g6
+S'[l\x06\x14&/\xd4?'
+p769
+tp770
+Rp771
+tp772
+a(S'jennifer shay'
+p773
+g2
+(g6
+S'l_69\xff\x1b\xd4?'
+p774
+tp775
+Rp776
+tp777
+a(S'olabisi onabanjo university'
+p778
+g2
+(g6
+S'\xb3EE{\xa1\x0b\xd4?'
+p779
+tp780
+Rp781
+tp782
+a(S'list of george washington university faculty'
+p783
+g2
+(g6
+S'\x1fV\xfb\xf9\xbc\x01\xd4?'
+p784
+tp785
+Rp786
+tp787
+a(S'savilian professor of geometry'
+p788
+g2
+(g6
+S'~\xe1\x9c\xb7\xe8\xf1\xd3?'
+p789
+tp790
+Rp791
+tp792
+a(S'artois-baillet latour foundation'
+p793
+g2
+(g6
+S'\xd0i\x83\x0e\x04\xeb\xd3?'
+p794
+tp795
+Rp796
+tp797
+a(S'teacher tenure reform (united states)'
+p798
+g2
+(g6
+S'CY\xa1\xff\xe3\xe8\xd3?'
+p799
+tp800
+Rp801
+tp802
+a(S'king carl xvi gustaf professorship in environmental science'
+p803
+g2
+(g6
+S'\xde~@\x89\xcd\xd2\xd3?'
+p804
+tp805
+Rp806
+tp807
+a(S'david j. schneider'
+p808
+g2
+(g6
+S'\x16\xccegs\xd2\xd3?'
+p809
+tp810
+Rp811
+tp812
+a(S'list of middlebury college faculty'
+p813
+g2
+(g6
+S'\x8f\xc3\xd7.{\xce\xd3?'
+p814
+tp815
+Rp816
+tp817
+a(S'norwegian centre for violence and traumatic stress studies'
+p818
+g2
+(g6
+S'4\xbf:\xa3\xdc\xb5\xd3?'
+p819
+tp820
+Rp821
+tp822
+a(S'earl b. hunt'
+p823
+g2
+(g6
+S'\x1b\x9f*v\xcc\xb0\xd3?'
+p824
+tp825
+Rp826
+tp827
+a(S'department of computer science, university of oxford'
+p828
+g2
+(g6
+S'\x84\xa2\x8e\x10f\xaf\xd3?'
+p829
+tp830
+Rp831
+tp832
+a(S'york college, city university of new york'
+p833
+g2
+(g6
+S'1\x1c\xddjP\xad\xd3?'
+p834
+tp835
+Rp836
+tp837
+a(S'list of university of ceylon people'
+p838
+g2
+(g6
+S'\x1f+>].\xa9\xd3?'
+p839
+tp840
+Rp841
+tp842
+a(S'lady davis fellows'
+p843
+g2
+(g6
+S'\xc2jhy\x95\x96\xd3?'
+p844
+tp845
+Rp846
+tp847
+a(S"kluge scholars' council"
+p848
+g2
+(g6
+S'\x03\xe3\xee$\xb5\x90\xd3?'
+p849
+tp850
+Rp851
+tp852
+a(S'ucla school of theater, film and television'
+p853
+g2
+(g6
+S'\xaa\x82p\xdd\x14\x84\xd3?'
+p854
+tp855
+Rp856
+tp857
+a(S'nelson diversity surveys'
+p858
+g2
+(g6
+S'[\x17\xce\xec7\x80\xd3?'
+p859
+tp860
+Rp861
+tp862
+a(S'volvo environment prize'
+p863
+g2
+(g6
+S'^\xc8\xe0\x88%_\xd3?'
+p864
+tp865
+Rp866
+tp867
+a(S'chad m. rienstra'
+p868
+g2
+(g6
+S'\xd9e\xa5\x1e}]\xd3?'
+p869
+tp870
+Rp871
+tp872
+a(S'werner sollors'
+p873
+g2
+(g6
+S'P\xe1\xbdN\x82[\xd3?'
+p874
+tp875
+Rp876
+tp877
+a(S'punashcha professor shonku'
+p878
+g2
+(g6
+S'\x1d\x8d\x0f\xc8\xddV\xd3?'
+p879
+tp880
+Rp881
+tp882
+a(S'university of the arts helsinki'
+p883
+g2
+(g6
+S'M\xdcAh\x11S\xd3?'
+p884
+tp885
+Rp886
+tp887
+a(S"peoples' friendship university of russia"
+p888
+g2
+(g6
+S'U\x163\x81\xe5I\xd3?'
+p889
+tp890
+Rp891
+tp892
+a(S'james allan stewart evans'
+p893
+g2
+(g6
+S'\xf8\xbf\x15\xce*C\xd3?'
+p894
+tp895
+Rp896
+tp897
+a(S'st. francis school of law'
+p898
+g2
+(g6
+S'\xa4\x17q.jB\xd3?'
+p899
+tp900
+Rp901
+tp902
+a(S'life tenure'
+p903
+g2
+(g6
+S'0\xb4\x18\n\xc5A\xd3?'
+p904
+tp905
+Rp906
+tp907
+a(S'academic visibility'
+p908
+g2
+(g6
+S'\xee\xd4\xf8\x88x6\xd3?'
+p909
+tp910
+Rp911
+tp912
+a(S'list of carnegie mellon university people'
+p913
+g2
+(g6
+S'\xdbn\xf1\xa5X.\xd3?'
+p914
+tp915
+Rp916
+tp917
+a(S'department of plant sciences, university of cambridge'
+p918
+g2
+(g6
+S'\x020\x88Q\xf5$\xd3?'
+p919
+tp920
+Rp921
+tp922
+a(S'institute of philosophy, university of leuven'
+p923
+g2
+(g6
+S'\xdf3cr\x1b#\xd3?'
+p924
+tp925
+Rp926
+tp927
+a(S'harkness fellowship'
+p928
+g2
+(g6
+S'\xec*\x9fB~\x1b\xd3?'
+p929
+tp930
+Rp931
+tp932
+a(S'university of toronto faculty of arts and science'
+p933
+g2
+(g6
+S'\xfa\x91\xd2_.\x14\xd3?'
+p934
+tp935
+Rp936
+tp937
+a(S'australian institute of tropical health and medicine'
+p938
+g2
+(g6
+S'\xf4& P\xbd\x03\xd3?'
+p939
+tp940
+Rp941
+tp942
+a(S'monika piazzesi'
+p943
+g2
+(g6
+S'\xcd)O\xb2\xbb\xf6\xd2?'
+p944
+tp945
+Rp946
+tp947
+a(S'king faisal international prize'
+p948
+g2
+(g6
+S'\xca"\xdeD:\xe0\xd2?'
+p949
+tp950
+Rp951
+tp952
+a(S'harrie massey medal and prize'
+p953
+g2
+(g6
+S'9i*\x84\x12\xe0\xd2?'
+p954
+tp955
+Rp956
+tp957
+a(S'list of washington university faculty and staff'
+p958
+g2
+(g6
+S'\x87\xbfF\xa2\xe0\xdf\xd2?'
+p959
+tp960
+Rp961
+tp962
+a(S'world cultural council 31st award ceremony'
+p963
+g2
+(g6
+S']#E\xccY\xde\xd2?'
+p964
+tp965
+Rp966
+tp967
+a(S'prop\xc3\xa6dia'
+p968
+g2
+(g6
+S'/\xc8\xb6\xc0\x9d\xdc\xd2?'
+p969
+tp970
+Rp971
+tp972
+a(S'list of nyu stern people'
+p973
+g2
+(g6
+S'<&)\xe2\xea\xd3\xd2?'
+p974
+tp975
+Rp976
+tp977
+a(S'yanbian university'
+p978
+g2
+(g6
+S',;\xf2k|\xcf\xd2?'
+p979
+tp980
+Rp981
+tp982
+a(S'school of chemistry, university of manchester'
+p983
+g2
+(g6
+S'@\xfff\xf2\xc2\xc8\xd2?'
+p984
+tp985
+Rp986
+tp987
+a(S'gen\xc3\xa7ay g\xc3\xbcrsoy'
+p988
+g2
+(g6
+S'\x08\xbb\xa2\x1b\xbc\xc5\xd2?'
+p989
+tp990
+Rp991
+tp992
+a(S'the bartlett'
+p993
+g2
+(g6
+S'\xd3B \xb6L\xbb\xd2?'
+p994
+tp995
+Rp996
+tp997
+a(S'faculty of law, thammasat university'
+p998
+g2
+(g6
+S'I\xb8\x11\x89\x9e\xb3\xd2?'
+p999
+tp1000
+Rp1001
+tp1002
+a(S'kathleen musante dewalt'
+p1003
+g2
+(g6
+S'\xa7\xb3]\xe1\x90\xb3\xd2?'
+p1004
+tp1005
+Rp1006
+tp1007
+a(S'g\xc3\xb6khan budak'
+p1008
+g2
+(g6
+S'wH\x98J\x00\xaa\xd2?'
+p1009
+tp1010
+Rp1011
+tp1012
+a(S'list of university of cape town faculty'
+p1013
+g2
+(g6
+S'+\xce\x00n\x92\xa9\xd2?'
+p1014
+tp1015
+Rp1016
+tp1017
+a(S'list of university of florida faculty and administrators'
+p1018
+g2
+(g6
+S"'r\xfe\xe1G\xa8\xd2?"
+p1019
+tp1020
+Rp1021
+tp1022
+a(S'neubauer collegium for culture and society'
+p1023
+g2
+(g6
+S'n\xb8k\x93\xa4\xa7\xd2?'
+p1024
+tp1025
+Rp1026
+tp1027
+a(S'rice university school of architecture'
+p1028
+g2
+(g6
+S'S\xf5U\x99\xfd\xa4\xd2?'
+p1029
+tp1030
+Rp1031
+tp1032
+a(S'john e. jeuck'
+p1033
+g2
+(g6
+S'[\x05\xf2\x97q\xa3\xd2?'
+p1034
+tp1035
+Rp1036
+tp1037
+a(S'leon sterling'
+p1038
+g2
+(g6
+S'\x90\xb9\xa6\x01C\xa3\xd2?'
+p1039
+tp1040
+Rp1041
+tp1042
+a(S'rylands professor of biblical criticism and exegesis'
+p1043
+g2
+(g6
+S'\x01C\x9e\xbf\x81\xa2\xd2?'
+p1044
+tp1045
+Rp1046
+tp1047
+a(S'list of stony brook university people'
+p1048
+g2
+(g6
+S'\xce\xec\xde1\xbe\x9d\xd2?'
+p1049
+tp1050
+Rp1051
+tp1052
+a(S'academic ranks in spain'
+p1053
+g2
+(g6
+S'\x08\x02\x7f\x9f\xbb\x8b\xd2?'
+p1054
+tp1055
+Rp1056
+tp1057
+a(S'university of franeker'
+p1058
+g2
+(g6
+S'\xe1\xc0Zz\x91w\xd2?'
+p1059
+tp1060
+Rp1061
+tp1062
+a(S'list of national taiwan university people'
+p1063
+g2
+(g6
+S'UaU\xa5lW\xd2?'
+p1064
+tp1065
+Rp1066
+tp1067
+a(S'fletcher foundation'
+p1068
+g2
+(g6
+S'\xab\xec\x94Y~T\xd2?'
+p1069
+tp1070
+Rp1071
+tp1072
+a(S'list of university of illinois at chicago people'
+p1073
+g2
+(g6
+S'C\xa9\xed\x1e\xc8J\xd2?'
+p1074
+tp1075
+Rp1076
+tp1077
+a(S'the housekeeper and the professor'
+p1078
+g2
+(g6
+S'1\x0f\x7fh9@\xd2?'
+p1079
+tp1080
+Rp1081
+tp1082
+a(S'list of guggenheim fellowships awarded in 1953'
+p1083
+g2
+(g6
+S'pyf\xcc2:\xd2?'
+p1084
+tp1085
+Rp1086
+tp1087
+a(S'list of guggenheim fellowships awarded in 1951'
+p1088
+g2
+(g6
+S'\x89\t\xf8Xc2\xd2?'
+p1089
+tp1090
+Rp1091
+tp1092
+a(S'up or out'
+p1093
+g2
+(g6
+S'*Y\xe6\x16\xd01\xd2?'
+p1094
+tp1095
+Rp1096
+tp1097
+a(S'milan ristovi\xc4\x87'
+p1098
+g2
+(g6
+S'\x01\x86\xc2\x1co1\xd2?'
+p1099
+tp1100
+Rp1101
+tp1102
+a(S'charles p. kindregan, jr.'
+p1103
+g2
+(g6
+S'\xff\x85\xe32\x99/\xd2?'
+p1104
+tp1105
+Rp1106
+tp1107
+a(S'list of university of california, riverside people'
+p1108
+g2
+(g6
+S'O\x7f\x1a\xcb\x8b\x1e\xd2?'
+p1109
+tp1110
+Rp1111
+tp1112
+a(S'absent-minded professor'
+p1113
+g2
+(g6
+S'Z\xb6)\x02\x9d\x1c\xd2?'
+p1114
+tp1115
+Rp1116
+tp1117
+a(S'james c. anthony'
+p1118
+g2
+(g6
+S'\x84\xea\xfb\xe5\xf3\x14\xd2?'
+p1119
+tp1120
+Rp1121
+tp1122
+a(S'list of wayne state university people'
+p1123
+g2
+(g6
+S'\xd8\xdf\xa0\xa9E\x0b\xd2?'
+p1124
+tp1125
+Rp1126
+tp1127
+a(S'savilian professor of astronomy'
+p1128
+g2
+(g6
+S'&\x9avzu\x08\xd2?'
+p1129
+tp1130
+Rp1131
+tp1132
+a(S'laudian professor of arabic'
+p1133
+g2
+(g6
+S'\xd6\xac\xdd\xcf6\xf6\xd1?'
+p1134
+tp1135
+Rp1136
+tp1137
+a(S'list of mcmaster university people'
+p1138
+g2
+(g6
+S';\xf2>X\xc6\xe6\xd1?'
+p1139
+tp1140
+Rp1141
+tp1142
+a(S'centre for east asian studies'
+p1143
+g2
+(g6
+S'\xf8=\xd3/o\xe5\xd1?'
+p1144
+tp1145
+Rp1146
+tp1147
+a(S'list of old falconians'
+p1148
+g2
+(g6
+S':o\xfb{3\xe1\xd1?'
+p1149
+tp1150
+Rp1151
+tp1152
+a(S'lara mahal'
+p1153
+g2
+(g6
+S'\x1c+l\x89\x18\xe0\xd1?'
+p1154
+tp1155
+Rp1156
+tp1157
+a(S'tarner lectures'
+p1158
+g2
+(g6
+S'\x05\xe2|\x19\x16\xd1\xd1?'
+p1159
+tp1160
+Rp1161
+tp1162
+a(S'msu faculty of fundamental medicine'
+p1163
+g2
+(g6
+S'\x19\xf7\x169\xd9\xca\xd1?'
+p1164
+tp1165
+Rp1166
+tp1167
+a(S'cinema department at san francisco state university'
+p1168
+g2
+(g6
+S'\xdf\xc9\xa9\xe0\xab\xc1\xd1?'
+p1169
+tp1170
+Rp1171
+tp1172
+a(S'list of guggenheim fellowships awarded in 1955'
+p1173
+g2
+(g6
+S'\xc0\xc8\xd6\xd1z\xae\xd1?'
+p1174
+tp1175
+Rp1176
+tp1177
+a(S'the genetics society'
+p1178
+g2
+(g6
+S'\xf5\xc6.\xc7\xe5\x95\xd1?'
+p1179
+tp1180
+Rp1181
+tp1182
+a(S'nigerian academy of science'
+p1183
+g2
+(g6
+S'\x06G\xee\xdf\xb3\x93\xd1?'
+p1184
+tp1185
+Rp1186
+tp1187
+a(S'hefei university of technology'
+p1188
+g2
+(g6
+S'\xab4\xc4M\xdb\x8e\xd1?'
+p1189
+tp1190
+Rp1191
+tp1192
+a(S'david simbi'
+p1193
+g2
+(g6
+S'\xa4\xbeq[\xee\x8d\xd1?'
+p1194
+tp1195
+Rp1196
+tp1197
+a(S'doraiswami ramkrishna'
+p1198
+g2
+(g6
+S'K\xb5\xb6v$\x8b\xd1?'
+p1199
+tp1200
+Rp1201
+tp1202
+a(S'robert s. coleman'
+p1203
+g2
+(g6
+S'\x12\xdb%\x88\xc1\x88\xd1?'
+p1204
+tp1205
+Rp1206
+tp1207
+a(S'list of wesleyan university people'
+p1208
+g2
+(g6
+S'{\xb2\x84\x02\xd5\x82\xd1?'
+p1209
+tp1210
+Rp1211
+tp1212
+a(S'list of princeton university people'
+p1213
+g2
+(g6
+S'A\xa8>\xb0\x18\x7f\xd1?'
+p1214
+tp1215
+Rp1216
+tp1217
+a(S'council of economic advisers (scotland)'
+p1218
+g2
+(g6
+S'\xdd\xed\x10\x94ex\xd1?'
+p1219
+tp1220
+Rp1221
+tp1222
+a(S'john millington (professor)'
+p1223
+g2
+(g6
+S'[\xb4\xeb\xec\xdat\xd1?'
+p1224
+tp1225
+Rp1226
+tp1227
+a(S'little professor'
+p1228
+g2
+(g6
+S'\x19q\xc1\x04\x19s\xd1?'
+p1229
+tp1230
+Rp1231
+tp1232
+a(S'the volokh conspiracy'
+p1233
+g2
+(g6
+S'j\xd2\xd3\x9b$r\xd1?'
+p1234
+tp1235
+Rp1236
+tp1237
+a(S'international law and economics conference'
+p1238
+g2
+(g6
+S'!\xf6\x8a\xe8Ao\xd1?'
+p1239
+tp1240
+Rp1241
+tp1242
+a(S'list of scientists opposing the mainstream scientific assessment of global warming'
+p1243
+g2
+(g6
+S'\xd7\xcb\x064\x92i\xd1?'
+p1244
+tp1245
+Rp1246
+tp1247
+a(S'andrew hargadon'
+p1248
+g2
+(g6
+S'\x8d\xa0/?\xacd\xd1?'
+p1249
+tp1250
+Rp1251
+tp1252
+a(S'academic freedom'
+p1253
+g2
+(g6
+S'\xa7i\xec\xcb\xd2Z\xd1?'
+p1254
+tp1255
+Rp1256
+tp1257
+a(S'barbara nachtreib armstrong'
+p1258
+g2
+(g6
+S'N\xc8W\xc8\x96S\xd1?'
+p1259
+tp1260
+Rp1261
+tp1262
+a(S'school of physics and astronomy, university of manchester'
+p1263
+g2
+(g6
+S'\xf3\x85H\xbaNS\xd1?'
+p1264
+tp1265
+Rp1266
+tp1267
+a(S'list of trinity college (connecticut) people'
+p1268
+g2
+(g6
+S'\xe0\xc9\x9d\x9b\x1aG\xd1?'
+p1269
+tp1270
+Rp1271
+tp1272
+a(S'george constantinides'
+p1273
+g2
+(g6
+S'\x17\x94\xa9\xce\t:\xd1?'
+p1274
+tp1275
+Rp1276
+tp1277
+a(S'professor x (disambiguation)'
+p1278
+g2
+(g6
+S'\xaa\xca\xee\x92\xba1\xd1?'
+p1279
+tp1280
+Rp1281
+tp1282
+a(S'steven walt'
+p1283
+g2
+(g6
+S'\x04l\xa0\xc8\x8e0\xd1?'
+p1284
+tp1285
+Rp1286
+tp1287
+a(S'scott k. silverman'
+p1288
+g2
+(g6
+S'\x14X\xa9\xf4\xe3-\xd1?'
+p1289
+tp1290
+Rp1291
+tp1292
+a(S'yerevan state university'
+p1293
+g2
+(g6
+S'S\xe5\xfb\xc0R,\xd1?'
+p1294
+tp1295
+Rp1296
+tp1297
+a(S'list of rutgers university people'
+p1298
+g2
+(g6
+S'N\xbbKP\xad&\xd1?'
+p1299
+tp1300
+Rp1301
+tp1302
+a(S'doctor of business administration'
+p1303
+g2
+(g6
+S'\xea\xfc\xdf3\xdb%\xd1?'
+p1304
+tp1305
+Rp1306
+tp1307
+a(S'department of plant sciences, university of oxford'
+p1308
+g2
+(g6
+S't\x18\xb1\xe8\xaf\x1f\xd1?'
+p1309
+tp1310
+Rp1311
+tp1312
+a(S'list of university of california, irvine people'
+p1313
+g2
+(g6
+S'C\td\xf9\xc8\x1c\xd1?'
+p1314
+tp1315
+Rp1316
+tp1317
+a(S'professor of the russian academy of sciences'
+p1318
+g2
+(g6
+S'D\x9e\xb3\xf2\xec\x17\xd1?'
+p1319
+tp1320
+Rp1321
+tp1322
+a(S'ole holsti'
+p1323
+g2
+(g6
+S'\xd3@\x84\x14[\x12\xd1?'
+p1324
+tp1325
+Rp1326
+tp1327
+a(S'christopher sorensen'
+p1328
+g2
+(g6
+S'\xc6\xa6\xd3\x95\x99\x11\xd1?'
+p1329
+tp1330
+Rp1331
+tp1332
+a(S'zuhair nashed'
+p1333
+g2
+(g6
+S'\x97\x1f\xc4>\x1f\x0c\xd1?'
+p1334
+tp1335
+Rp1336
+tp1337
+a(S'james f. howard jr.'
+p1338
+g2
+(g6
+S'\xf6S\xf93\xf5\x0b\xd1?'
+p1339
+tp1340
+Rp1341
+tp1342
+a(S'faculty of chemical engineering and technology, university of zagreb'
+p1343
+g2
+(g6
+S'\xb4\xfd%-S\n\xd1?'
+p1344
+tp1345
+Rp1346
+tp1347
+a(S'alexander tropsha'
+p1348
+g2
+(g6
+S'\xfe\xc0\xb1\xa1\xdc\x08\xd1?'
+p1349
+tp1350
+Rp1351
+tp1352
+a(S'international hellenic university'
+p1353
+g2
+(g6
+S'p\xe5\xec\x1e+\x04\xd1?'
+p1354
+tp1355
+Rp1356
+tp1357
+a(S'university of rome tor vergata'
+p1358
+g2
+(g6
+S"\xa92G'\xf1\x02\xd1?"
+p1359
+tp1360
+Rp1361
+tp1362
+a(S'warsaw university of technology'
+p1363
+g2
+(g6
+S'\x94E\xd4Y\xd1\x00\xd1?'
+p1364
+tp1365
+Rp1366
+tp1367
+a(S'ira sharkansky'
+p1368
+g2
+(g6
+S'\x992i+W\xff\xd0?'
+p1369
+tp1370
+Rp1371
+tp1372
+a(S'two-body problem (career)'
+p1373
+g2
+(g6
+S'[*\xc5\xcf\xde\xfe\xd0?'
+p1374
+tp1375
+Rp1376
+tp1377
+a(S'list of university of pittsburgh faculty'
+p1378
+g2
+(g6
+S'\xfa\x00\x7f\x83\xab\xfc\xd0?'
+p1379
+tp1380
+Rp1381
+tp1382
+a(S'list of indian institute of technology madras alumni'
+p1383
+g2
+(g6
+S'\xf9\x8b69r\xfc\xd0?'
+p1384
+tp1385
+Rp1386
+tp1387
+a(S"research council of norway's award for excellence in communication of science"
+p1388
+g2
+(g6
+S'4\xbb-\xe8v\xfa\xd0?'
+p1389
+tp1390
+Rp1391
+tp1392
+a(S'nermin gozukirmizi'
+p1393
+g2
+(g6
+S'ew\xde\xf0\x98\xf7\xd0?'
+p1394
+tp1395
+Rp1396
+tp1397
+a(S'centre for research in the arts, social sciences, and humanities'
+p1398
+g2
+(g6
+S'\xe7\xfa\xe3\xf04\xe5\xd0?'
+p1399
+tp1400
+Rp1401
+tp1402
+a(S'alangar jayagovind'
+p1403
+g2
+(g6
+S'\x8c\xf9\xa6\xf4K\xdf\xd0?'
+p1404
+tp1405
+Rp1406
+tp1407
+a(S'sanjiang university'
+p1408
+g2
+(g6
+S'\x9fE@\xa3\xfb\xd9\xd0?'
+p1409
+tp1410
+Rp1411
+tp1412
+a(S'thomas n. sato'
+p1413
+g2
+(g6
+S'\xe3\xa0\xd5\x8c\xc7\xd3\xd0?'
+p1414
+tp1415
+Rp1416
+tp1417
+a(S'list of hofstra university faculty'
+p1418
+g2
+(g6
+S'\\\x83\xf5b>\xd3\xd0?'
+p1419
+tp1420
+Rp1421
+tp1422
+a(S'islamic azad university, science and research branch, tehran'
+p1423
+g2
+(g6
+S'\x7f\xa9K\xea\xff\xd2\xd0?'
+p1424
+tp1425
+Rp1426
+tp1427
+a(S'isao imai (physicist)'
+p1428
+g2
+(g6
+S'f\x1d\xdb,\xba\xce\xd0?'
+p1429
+tp1430
+Rp1431
+tp1432
+a(S'teaching assistant'
+p1433
+g2
+(g6
+S'\xef\xe4N\x1bN\xc3\xd0?'
+p1434
+tp1435
+Rp1436
+tp1437
+a(S'list of vice-chancellors of the university of hong kong'
+p1438
+g2
+(g6
+S'\x12\x9f\x9c,\x00\xbf\xd0?'
+p1439
+tp1440
+Rp1441
+tp1442
+a(S'gregory petsko'
+p1443
+g2
+(g6
+S'F\xf5\xce\xeb\xd4\xb7\xd0?'
+p1444
+tp1445
+Rp1446
+tp1447
+a(S'regius chair of clinical surgery'
+p1448
+g2
+(g6
+S'\xe0\xdceq@\xb7\xd0?'
+p1449
+tp1450
+Rp1451
+tp1452
+a(S'ali mehmet kocao\xc4\x9flu'
+p1453
+g2
+(g6
+S'?\xdf\xdc\xbf\xc0\xae\xd0?'
+p1454
+tp1455
+Rp1456
+tp1457
+a(S'susan r. wessler'
+p1458
+g2
+(g6
+S'\x9c\xbdo$\xcf\xac\xd0?'
+p1459
+tp1460
+Rp1461
+tp1462
+a(S'halford mackinder professor of geography'
+p1463
+g2
+(g6
+S'\xbc\x1a\x7f\x13Q\xa0\xd0?'
+p1464
+tp1465
+Rp1466
+tp1467
+a(S'faculdade de medicina de ribeir\xc3\xa3o preto'
+p1468
+g2
+(g6
+S'\xe7\xe3\xf01\x17\x9f\xd0?'
+p1469
+tp1470
+Rp1471
+tp1472
+a(S'andijan state university'
+p1473
+g2
+(g6
+S'\x8e\xdbXX\xed\x9b\xd0?'
+p1474
+tp1475
+Rp1476
+tp1477
+a(S'sigmund alfred anderssen'
+p1478
+g2
+(g6
+S'\xdaf\x8fw\x9f\x9b\xd0?'
+p1479
+tp1480
+Rp1481
+tp1482
+a(S'kevin mclaughlin (professor)'
+p1483
+g2
+(g6
+S'\xd8xa\xa6\x9a\x9b\xd0?'
+p1484
+tp1485
+Rp1486
+tp1487
+a(S'faculty of science, university of zagreb'
+p1488
+g2
+(g6
+S'\xbf\x05\xa2II\x99\xd0?'
+p1489
+tp1490
+Rp1491
+tp1492
+a(S'university of california, irvine school of education'
+p1493
+g2
+(g6
+S"`\xd9\xdd\xc9'\x94\xd0?"
+p1494
+tp1495
+Rp1496
+tp1497
+a(S'international standard bible encyclopedia'
+p1498
+g2
+(g6
+S'\xc6\xffT%\xef\x92\xd0?'
+p1499
+tp1500
+Rp1501
+tp1502
+a(S'jem spectar'
+p1503
+g2
+(g6
+S'\xe6\xd7G\xcb\xa2\x8f\xd0?'
+p1504
+tp1505
+Rp1506
+tp1507
+a(S'a. a. griffith medal and prize'
+p1508
+g2
+(g6
+S'\xd9\xd5\x03@<\x8f\xd0?'
+p1509
+tp1510
+Rp1511
+tp1512
+a.

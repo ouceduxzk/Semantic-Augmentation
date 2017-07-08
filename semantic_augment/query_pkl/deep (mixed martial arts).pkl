@@ -1,0 +1,2728 @@
+(lp0
+(S'deep (mixed martial arts)'
+p1
+cnumpy.core.multiarray
+scalar
+p2
+(cnumpy
+dtype
+p3
+(S'f8'
+p4
+I0
+I1
+tp5
+Rp6
+(I3
+S'<'
+p7
+NNNI-1
+I-1
+I0
+tp8
+bS'\xfe\xff\xff\xff\xff\xff\xef?'
+p9
+tp10
+Rp11
+tp12
+a(S'deep jewels events'
+p13
+g2
+(g6
+S'\xa5\xd7\x17\xdfJ\xb0\xe4?'
+p14
+tp15
+Rp16
+tp17
+a(S'deep'
+p18
+g2
+(g6
+S'\xcb\xa7\xa2\\\xa9\x14\xe2?'
+p19
+tp20
+Rp21
+tp22
+a(S'list of deep champions'
+p23
+g2
+(g6
+S'_\x1f\xaf\x1a\x13T\xe1?'
+p24
+tp25
+Rp26
+tp27
+a(S'2011 in deep'
+p28
+g2
+(g6
+S'\xfc\xe0\xf3ZX\xd4\xdf?'
+p29
+tp30
+Rp31
+tp32
+a(S'deep end'
+p33
+g2
+(g6
+S'7io\xbdCD\xdf?'
+p34
+tp35
+Rp36
+tp37
+a(S'2007 in deep'
+p38
+g2
+(g6
+S'\xfe\x16j\xe3E\xb9\xde?'
+p39
+tp40
+Rp41
+tp42
+a(S'deep river'
+p43
+g2
+(g6
+S'\xee\x0b\x15o\xe1&\xde?'
+p44
+tp45
+Rp46
+tp47
+a(S'2001 in deep'
+p48
+g2
+(g6
+S'\x99\x0cS^\xcc\x87\xdd?'
+p49
+tp50
+Rp51
+tp52
+a(S'2003 in deep'
+p53
+g2
+(g6
+S'[\xec]\xc8\xe2\x81\xdd?'
+p54
+tp55
+Rp56
+tp57
+a(S'2004 in deep'
+p58
+g2
+(g6
+S'BK\xb2\xf0\x8fu\xdd?'
+p59
+tp60
+Rp61
+tp62
+a(S'deep water'
+p63
+g2
+(g6
+S'j\xcf\xab\x00\x86f\xdd?'
+p64
+tp65
+Rp66
+tp67
+a(S'2005 in deep'
+p68
+g2
+(g6
+S'o\xa0}\xfd\x06\xfa\xdc?'
+p69
+tp70
+Rp71
+tp72
+a(S'\xc3\x89ric mouquet'
+p73
+g2
+(g6
+S'M\xce\x0cT\xcb\xbe\xdc?'
+p74
+tp75
+Rp76
+tp77
+a(S'2008 in deep'
+p78
+g2
+(g6
+S'\xe6\xeavO\xa8\x9e\xdc?'
+p79
+tp80
+Rp81
+tp82
+a(S'2009 in deep'
+p83
+g2
+(g6
+S'\x9f[\x17\xf3"D\xdc?'
+p84
+tp85
+Rp86
+tp87
+a(S'2010 in deep'
+p88
+g2
+(g6
+S'\xfc\xd7\x8d\x82<-\xdc?'
+p89
+tp90
+Rp91
+tp92
+a(S'deep ellum, dallas'
+p93
+g2
+(g6
+S'\xbf\xc5\x1a\x19U\xe4\xdb?'
+p94
+tp95
+Rp96
+tp97
+a(S'deep six'
+p98
+g2
+(g6
+S'\xea\x92] *\xd2\xdb?'
+p99
+tp100
+Rp101
+tp102
+a(S'in deep'
+p103
+g2
+(g6
+S'\x8fQ\x84\xb2\xa0\xa0\xdb?'
+p104
+tp105
+Rp106
+tp107
+a(S'jewels (mixed martial arts)'
+p108
+g2
+(g6
+S'%\xd5\xa9\xd6\x11\x04\xdb?'
+p109
+tp110
+Rp111
+tp112
+a(S'deep (given name)'
+p113
+g2
+(g6
+S')\x8c\xbeR\xe3\xeb\xda?'
+p114
+tp115
+Rp116
+tp117
+a(S'in too deep'
+p118
+g2
+(g6
+S'\xa1J\xf0w\xe1\xb4\xda?'
+p119
+tp120
+Rp121
+tp122
+a(S'deep blue'
+p123
+g2
+(g6
+S'\xc6\xff\x06;\xb9\xa2\xda?'
+p124
+tp125
+Rp126
+tp127
+a(S'list of deep events'
+p128
+g2
+(g6
+S'\xe6\xaf\xb0\x16\xfd\x98\xda?'
+p129
+tp130
+Rp131
+tp132
+a(S'2006 in deep'
+p133
+g2
+(g6
+S'\xb4\xa5\x03\xa2[K\xd9?'
+p134
+tp135
+Rp136
+tp137
+a(S'smackgirl'
+p138
+g2
+(g6
+S'\xdfV\x8b\x8a^\xcd\xd8?'
+p139
+tp140
+Rp141
+tp142
+a(S'deep creek'
+p143
+g2
+(g6
+S'\xdc\xfd\xc6_r\xbc\xd8?'
+p144
+tp145
+Rp146
+tp147
+a(S'2002 in deep'
+p148
+g2
+(g6
+S'\xb4\x141v\xf9Z\xd8?'
+p149
+tp150
+Rp151
+tp152
+a(S'deep forest (disambiguation)'
+p153
+g2
+(g6
+S'(\xde;h]\x03\xd8?'
+p154
+tp155
+Rp156
+tp157
+a(S'deep six (g.i. joe)'
+p158
+g2
+(g6
+S'\x04R\x8c\xb6\x88\x17\xd7?'
+p159
+tp160
+Rp161
+tp162
+a(S'deep space'
+p163
+g2
+(g6
+S'G\x03\xed\xaf\xbf\x12\xd7?'
+p164
+tp165
+Rp166
+tp167
+a(S'go that deep'
+p168
+g2
+(g6
+S'\x93z9\xc7-\x01\xd7?'
+p169
+tp170
+Rp171
+tp172
+a(S'deep cuts'
+p173
+g2
+(g6
+S'\xcb\x80\xff3\x01\xad\xd6?'
+p174
+tp175
+Rp176
+tp177
+a(S'skin deep'
+p178
+g2
+(g6
+S'\x90\xaa\xc0,\xda\xa4\xd6?'
+p179
+tp180
+Rp181
+tp182
+a(S'deep forest'
+p183
+g2
+(g6
+S'\xcc\xab\x17E\x1b\x98\xd6?'
+p184
+tp185
+Rp186
+tp187
+a(S'dj deep'
+p188
+g2
+(g6
+S'C&N\xe7\xf9\x86\xd6?'
+p189
+tp190
+Rp191
+tp192
+a(S'deep blue sea'
+p193
+g2
+(g6
+S'\x82\x9b\xcaa\xfcY\xd6?'
+p194
+tp195
+Rp196
+tp197
+a(S'deep in love'
+p198
+g2
+(g6
+S'\xfbN_l\xc9\xfd\xd5?'
+p199
+tp200
+Rp201
+tp202
+a(S'jewels 5th ring'
+p203
+g2
+(g6
+S'\x1e\x1a\xe8\xe4\xe7\xd1\xd5?'
+p204
+tp205
+Rp206
+tp207
+a(S'deep house'
+p208
+g2
+(g6
+S'qau\x8bi\xcc\xd5?'
+p209
+tp210
+Rp211
+tp212
+a(S'deep thought'
+p213
+g2
+(g6
+S'\xfag\x06a\xe1\xc7\xd5?'
+p214
+tp215
+Rp216
+tp217
+a(S'deep run high school'
+p218
+g2
+(g6
+S'H\x03\xf5\xa3\xf1\xb0\xd5?'
+p219
+tp220
+Rp221
+tp222
+a(S'deep sky (horse)'
+p223
+g2
+(g6
+S'\xa7b\xe3\xe5I\x8e\xd5?'
+p224
+tp225
+Rp226
+tp227
+a(S'deep in my heart (clubhouse song)'
+p228
+g2
+(g6
+S'\xbfz\xb0\x01\xa0f\xd5?'
+p229
+tp230
+Rp231
+tp232
+a(S'ryo chonan'
+p233
+g2
+(g6
+S'`\xbb-\x0b\xe0b\xd5?'
+p234
+tp235
+Rp236
+tp237
+a(S'deep purple (disambiguation)'
+p238
+g2
+(g6
+S'[\xe6\xee\x1b\xacG\xd5?'
+p239
+tp240
+Rp241
+tp242
+a(S'shigeru saeki'
+p243
+g2
+(g6
+S'\x0c~\xce}JF\xd5?'
+p244
+tp245
+Rp246
+tp247
+a(S'roll deep'
+p248
+g2
+(g6
+S'{\x93\xc1q3D\xd5?'
+p249
+tp250
+Rp251
+tp252
+a(S'o the deep, deep love of jesus'
+p253
+g2
+(g6
+S'\x96\x82F\xb6\xa8\x1f\xd5?'
+p254
+tp255
+Rp256
+tp257
+a(S'comparison of deep learning software/resources'
+p258
+g2
+(g6
+S'\xa0\x01Tt\x92\x19\xd5?'
+p259
+tp260
+Rp261
+tp262
+a(S'jewels 6th ring'
+p263
+g2
+(g6
+S'S\xf7\xadPs\x12\xd5?'
+p264
+tp265
+Rp266
+tp267
+a(S'how deep is your love'
+p268
+g2
+(g6
+S'MU\xc8\xc1e\xf0\xd4?'
+p269
+tp270
+Rp271
+tp272
+a(S'fish go deep'
+p273
+g2
+(g6
+S'\xde\x12\x9fdQ\xbf\xd4?'
+p274
+tp275
+Rp276
+tp277
+a(S'deep throat'
+p278
+g2
+(g6
+S'\xac0>\xe3x\x90\xd4?'
+p279
+tp280
+Rp281
+tp282
+a(S'ryuki ueyama'
+p283
+g2
+(g6
+S'r#\x93d\x9c{\xd4?'
+p284
+tp285
+Rp286
+tp287
+a(S'deep springs'
+p288
+g2
+(g6
+S'\x00Y\x99c(v\xd4?'
+p289
+tp290
+Rp291
+tp292
+a(S'deep black (video game)'
+p293
+g2
+(g6
+S'\x98`\\P\xffq\xd4?'
+p294
+tp295
+Rp296
+tp297
+a(S'oneirodidae'
+p298
+g2
+(g6
+S'\n\x96\x9c\xe6\xb2g\xd4?'
+p299
+tp300
+Rp301
+tp302
+a(S'jewels (disambiguation)'
+p303
+g2
+(g6
+S'\xbd*X[\x12J\xd4?'
+p304
+tp305
+Rp306
+tp307
+a(S'2008 in jewels'
+p308
+g2
+(g6
+S'i-\x9f\x899>\xd4?'
+p309
+tp310
+Rp311
+tp312
+a(S'jewels 4th ring'
+p313
+g2
+(g6
+S'\x9a\xba\xc4e\x9f=\xd4?'
+p314
+tp315
+Rp316
+tp317
+a(S'deep frying'
+p318
+g2
+(g6
+S'\x974\xa1Ta2\xd4?'
+p319
+tp320
+Rp321
+tp322
+a(S'deep run'
+p323
+g2
+(g6
+S';Z\x1c\xadZ$\xd4?'
+p324
+tp325
+Rp326
+tp327
+a(S'deep south wrestling'
+p328
+g2
+(g6
+S'3Q\xe2Yq\x1d\xd4?'
+p329
+tp330
+Rp331
+tp332
+a(S'deep foundations institute'
+p333
+g2
+(g6
+S'r\xfd\xdeM\x85\x17\xd4?'
+p334
+tp335
+Rp336
+tp337
+a(S'deep cove'
+p338
+g2
+(g6
+S'\x95)z\xe2E\x16\xd4?'
+p339
+tp340
+Rp341
+tp342
+a(S'katsunori kikuno'
+p343
+g2
+(g6
+S'\xae\xc0l/$\x10\xd4?'
+p344
+tp345
+Rp346
+tp347
+a(S'shin -deep-'
+p348
+g2
+(g6
+S'\xc0\xa9\xc3\x87\x82\x0e\xd4?'
+p349
+tp350
+Rp351
+tp352
+a(S'how deep is that river ep'
+p353
+g2
+(g6
+S'\x1e"\xdb\xfd\x14\r\xd4?'
+p354
+tp355
+Rp356
+tp357
+a(S'between the devil and the deep blue sea (disambiguation)'
+p358
+g2
+(g6
+S'\xfe1P\x8e\xac\xfe\xd3?'
+p359
+tp360
+Rp361
+tp362
+a(S'deep elm blues'
+p363
+g2
+(g6
+S'3h\xf6o\x15\xcc\xd3?'
+p364
+tp365
+Rp366
+tp367
+a(S'deep pocket'
+p368
+g2
+(g6
+S'\xc2\x01\x94\xdc\x04\xcb\xd3?'
+p369
+tp370
+Rp371
+tp372
+a(S'deep trouble'
+p373
+g2
+(g6
+S'o\xde\xe1\xe5\xc9\xb3\xd3?'
+p374
+tp375
+Rp376
+tp377
+a(S'shizuka sugiyama'
+p378
+g2
+(g6
+S'\xb1%\xb2\xd4B\xae\xd3?'
+p379
+tp380
+Rp381
+tp382
+a(S'deep blue orchestra'
+p383
+g2
+(g6
+S"\xa1X\xf7'9\xab\xd3?"
+p384
+tp385
+Rp386
+tp387
+a(S'deep space communications complex'
+p388
+g2
+(g6
+S'\xd6\x00\xc8\x88b\x81\xd3?'
+p389
+tp390
+Rp391
+tp392
+a(S'deep ng'
+p393
+g2
+(g6
+S'\x15\x9f\xaeX\xe1v\xd3?'
+p394
+tp395
+Rp396
+tp397
+a(S'deep lake'
+p398
+g2
+(g6
+S'\xce\xd2r\xf4\x95u\xd3?'
+p399
+tp400
+Rp401
+tp402
+a(S'masakazu imanari'
+p403
+g2
+(g6
+S'\xdaZ\xd4cRt\xd3?'
+p404
+tp405
+Rp406
+tp407
+a(S'deep freeze'
+p408
+g2
+(g6
+S'\xd16\xdb\x9b3h\xd3?'
+p409
+tp410
+Rp411
+tp412
+a(S'deep ellum (dart station)'
+p413
+g2
+(g6
+S'\xb9\xd0\xdc\xc5)g\xd3?'
+p414
+tp415
+Rp416
+tp417
+a(S'something deep inside'
+p418
+g2
+(g6
+S'b\x8aZ=qA\xd3?'
+p419
+tp420
+Rp421
+tp422
+a(S'deep blue (chess computer)'
+p423
+g2
+(g6
+S'A%\x19,\x81@\xd3?'
+p424
+tp425
+Rp426
+tp427
+a(S'deep bay, british columbia'
+p428
+g2
+(g6
+S'\xc2L\xfa\x0cP1\xd3?'
+p429
+tp430
+Rp431
+tp432
+a(S'kazunori yokota'
+p433
+g2
+(g6
+S'\xb5u\x0e\x89\xa9.\xd3?'
+p434
+tp435
+Rp436
+tp437
+a(S'deep creek valley'
+p438
+g2
+(g6
+S'\xa5L\x98*k\x1a\xd3?'
+p439
+tp440
+Rp441
+tp442
+a(S'jewels 1st ring'
+p443
+g2
+(g6
+S'\xeb\xef4\x16\xc2\x10\xd3?'
+p444
+tp445
+Rp446
+tp447
+a(S'jewels 3rd ring'
+p448
+g2
+(g6
+S'\x18\x077(\xeb\xee\xd2?'
+p449
+tp450
+Rp451
+tp452
+a(S'deep river state trail'
+p453
+g2
+(g6
+S'\r\xb2|\xa7Q\xd2\xd2?'
+p454
+tp455
+Rp456
+tp457
+a(S'deep well'
+p458
+g2
+(g6
+S'\x1a\xf8L\\\x1f\xc2\xd2?'
+p459
+tp460
+Rp461
+tp462
+a(S'levan razmadze'
+p463
+g2
+(g6
+S'\xf0\x14\xad\xdd\x9e\xad\xd2?'
+p464
+tp465
+Rp466
+tp467
+a(S'deep thought (chess computer)'
+p468
+g2
+(g6
+S'\xb6~+Lt\x92\xd2?'
+p469
+tp470
+Rp471
+tp472
+a(S'miku matsumoto'
+p473
+g2
+(g6
+S'g\x17\xcb\xe4\x14\x85\xd2?'
+p474
+tp475
+Rp476
+tp477
+a(S'yuya shirai'
+p478
+g2
+(g6
+S'w\xc7\xfaa\x80k\xd2?'
+p479
+tp480
+Rp481
+tp482
+a(S'naho sugiyama'
+p483
+g2
+(g6
+S'\xc4j\x02\x90\x9ae\xd2?'
+p484
+tp485
+Rp486
+tp487
+a(S'rawsrvnt'
+p488
+g2
+(g6
+S'\xd0-/>\x05=\xd2?'
+p489
+tp490
+Rp491
+tp492
+a(S'deep ecology'
+p493
+g2
+(g6
+S'\xe7\xf9\xf5\xf8\xbf<\xd2?'
+p494
+tp495
+Rp496
+tp497
+a(S'deep sea'
+p498
+g2
+(g6
+S'\x9b\xba\x18\x96z\x1f\xd2?'
+p499
+tp500
+Rp501
+tp502
+a(S'deep carbon observatory'
+p503
+g2
+(g6
+S'\xc6\xf9\xc1"\x87\x17\xd2?'
+p504
+tp505
+Rp506
+tp507
+a(S'asleep in the deep'
+p508
+g2
+(g6
+S'\x9b&\x99\x91`\n\xd2?'
+p509
+tp510
+Rp511
+tp512
+a(S'deep, deep trouble'
+p513
+g2
+(g6
+S'/\xcb\n\x89\xb2\x01\xd2?'
+p514
+tp515
+Rp516
+tp517
+a(S'deep springs college'
+p518
+g2
+(g6
+S'\xf8\x9e\x7f\\\xc5\xf5\xd1?'
+p519
+tp520
+Rp521
+tp522
+a(S"zarathustra's roundelay"
+p523
+g2
+(g6
+S'.\xc2\xec\x19o\xee\xd1?'
+p524
+tp525
+Rp526
+tp527
+a(S'jewels 12th ring'
+p528
+g2
+(g6
+S'\x9a\xee\x05\xa8\x01\xe8\xd1?'
+p529
+tp530
+Rp531
+tp532
+a(S'deep water (corris novel)'
+p533
+g2
+(g6
+S'v\xd7\xcfR\x87\xda\xd1?'
+p534
+tp535
+Rp536
+tp537
+a(S'deep springs, california'
+p538
+g2
+(g6
+S'\xadc\xf6T\x0c\xcd\xd1?'
+p539
+tp540
+Rp541
+tp542
+a(S'deep river, iowa'
+p543
+g2
+(g6
+S'c\nE\xe9\xcf\xca\xd1?'
+p544
+tp545
+Rp546
+tp547
+a(S'bogus deep purple'
+p548
+g2
+(g6
+S'a\xc7r0\xda\xbc\xd1?'
+p549
+tp550
+Rp551
+tp552
+a(S'france profonde'
+p553
+g2
+(g6
+S'\x8bbU\x95\x1a\x9c\xd1?'
+p554
+tp555
+Rp556
+tp557
+a(S'mixed martial arts'
+p558
+g2
+(g6
+S'\n\xad\xd1\x82\x81\x97\xd1?'
+p559
+tp560
+Rp561
+tp562
+a(S'black deep'
+p563
+g2
+(g6
+S'\x06O)}\x17\x93\xd1?'
+p564
+tp565
+Rp566
+tp567
+a(S'the deep (painting)'
+p568
+g2
+(g6
+S'\x8e\xd2\x0c]!\x80\xd1?'
+p569
+tp570
+Rp571
+tp572
+a(S'deep sea fish'
+p573
+g2
+(g6
+S'\xc1d\x04t\xb5r\xd1?'
+p574
+tp575
+Rp576
+tp577
+a(S'deep creek state forest'
+p578
+g2
+(g6
+S'\xe2\xcf\xb2\x8d\xa8]\xd1?'
+p579
+tp580
+Rp581
+tp582
+a(S'deep linking'
+p583
+g2
+(g6
+S'\xa0O\x85x/\\\xd1?'
+p584
+tp585
+Rp586
+tp587
+a(S'choi doo-ho'
+p588
+g2
+(g6
+S'\xddh\x81\xf5\xfbJ\xd1?'
+p589
+tp590
+Rp591
+tp592
+a(S'24-7-365 (n2deep album)'
+p593
+g2
+(g6
+S'\xe7\x9dZ6\x97D\xd1?'
+p594
+tp595
+Rp596
+tp597
+a(S'jewels 16th ring'
+p598
+g2
+(g6
+S'dI\xee,\x91>\xd1?'
+p599
+tp600
+Rp601
+tp602
+a(S'deep creek, south australia'
+p603
+g2
+(g6
+S"\xaf_\xad'z5\xd1?"
+p604
+tp605
+Rp606
+tp607
+a(S'deep river (north carolina)'
+p608
+g2
+(g6
+S"\xae4\x9f\xca'5\xd1?"
+p609
+tp610
+Rp611
+tp612
+a(S'2009 in jewels'
+p613
+g2
+(g6
+S'\x10\x18m\xa5 (\xd1?'
+p614
+tp615
+Rp616
+tp617
+a(S'deep river, ontario'
+p618
+g2
+(g6
+S'\x90\x92\xc8\x05U&\xd1?'
+p619
+tp620
+Rp621
+tp622
+a(S'2010 in jewels'
+p623
+g2
+(g6
+S'\xff\x96\xa0:Z\x0f\xd1?'
+p624
+tp625
+Rp626
+tp627
+a(S'i can go deep'
+p628
+g2
+(g6
+S'\x8d\x81\xaa<8\x05\xd1?'
+p629
+tp630
+Rp631
+tp632
+a(S'the book of taliesyn'
+p633
+g2
+(g6
+S'\x02\xc0\xea\x854\x05\xd1?'
+p634
+tp635
+Rp636
+tp637
+a(S'deep (rapper)'
+p638
+g2
+(g6
+S'\xcf=\x1b\x90\xa7\xfc\xd0?'
+p639
+tp640
+Rp641
+tp642
+a(S'zacorisca aglaocarpa'
+p643
+g2
+(g6
+S'<9"\x8b\xf0\xf1\xd0?'
+p644
+tp645
+Rp646
+tp647
+a(S'black slimehead'
+p648
+g2
+(g6
+S'\x9b\xee\xf0\x9bI\xe0\xd0?'
+p649
+tp650
+Rp651
+tp652
+a(S'deep time'
+p653
+g2
+(g6
+S'?\xb5\x0e\x90f\xd2\xd0?'
+p654
+tp655
+Rp656
+tp657
+a(S'deep focus'
+p658
+g2
+(g6
+S'\xb8\xf5\x0e\xc6\xdb\xd1\xd0?'
+p659
+tp660
+Rp661
+tp662
+a(S'deep heat (compilation series)'
+p663
+g2
+(g6
+S'\x8f\x80.\x0b\xfd\xcc\xd0?'
+p664
+tp665
+Rp666
+tp667
+a(S'deep river (song)'
+p668
+g2
+(g6
+S'\xeb\xba\xd73\xf5\xb6\xd0?'
+p669
+tp670
+Rp671
+tp672
+a(S'jewels 11th ring'
+p673
+g2
+(g6
+S'\xae\xf8\x0f\xb4\xf8\xa6\xd0?'
+p674
+tp675
+Rp676
+tp677
+a(S'jewels 17th ring'
+p678
+g2
+(g6
+S'z\xb6\xcdU+\xa4\xd0?'
+p679
+tp680
+Rp681
+tp682
+a(S'deep creek high school'
+p683
+g2
+(g6
+S'\xc8.\x9c.$\xa0\xd0?'
+p684
+tp685
+Rp686
+tp687
+a(S'deep creek hot springs'
+p688
+g2
+(g6
+S'\xd1i\x10\x12\xf1\x8e\xd0?'
+p689
+tp690
+Rp691
+tp692
+a(S'deep one'
+p693
+g2
+(g6
+S'\x1bS\x9b\xb4\xd2}\xd0?'
+p694
+tp695
+Rp696
+tp697
+a(S'deep learning'
+p698
+g2
+(g6
+S'\xd2\xcd\x150\x0by\xd0?'
+p699
+tp700
+Rp701
+tp702
+a(S'deep blue (2003 film)'
+p703
+g2
+(g6
+S'\xdf\x87*U}o\xd0?'
+p704
+tp705
+Rp706
+tp707
+a(S'2011 in jewels'
+p708
+g2
+(g6
+S'Q\x9a\x00\x9d\\M\xd0?'
+p709
+tp710
+Rp711
+tp712
+a(S'ryuta sakurai'
+p713
+g2
+(g6
+S'\xd5\xea\xd8\x8f\x83J\xd0?'
+p714
+tp715
+Rp716
+tp717
+a(S'jewels 13th ring & 14th ring'
+p718
+g2
+(g6
+S'C\xdax\xc8\x14B\xd0?'
+p719
+tp720
+Rp721
+tp722
+a(S'murray campbell'
+p723
+g2
+(g6
+S"G3'WL9\xd0?"
+p724
+tp725
+Rp726
+tp727
+a(S'run the jewels'
+p728
+g2
+(g6
+S'\xdbAK\xee\x8f*\xd0?'
+p729
+tp730
+Rp731
+tp732
+a(S'takafumi otsuka'
+p733
+g2
+(g6
+S'\xb8\xff"V\x89*\xd0?'
+p734
+tp735
+Rp736
+tp737
+a(S'team kaobon'
+p738
+g2
+(g6
+S'h\xdc0[\xb2)\xd0?'
+p739
+tp740
+Rp741
+tp742
+a(S'mika nagano'
+p743
+g2
+(g6
+S'Q\x98\xac\x15C\x1d\xd0?'
+p744
+tp745
+Rp746
+tp747
+a(S'dokonjonosuke mishima'
+p748
+g2
+(g6
+S"\xa7\xf8'\x98\x96\x1a\xd0?"
+p749
+tp750
+Rp751
+tp752
+a(S'deep east texas council of governments'
+p753
+g2
+(g6
+S'\xd0e(O\x00\x19\xd0?'
+p754
+tp755
+Rp756
+tp757
+a(S'seo hee ham'
+p758
+g2
+(g6
+S'a\xbf\x98\xa1\x99\t\xd0?'
+p759
+tp760
+Rp761
+tp762
+a(S'jewels 9th ring'
+p763
+g2
+(g6
+S'\xc6\x06Y\t\x8d\t\xd0?'
+p764
+tp765
+Rp766
+tp767
+a(S'sakura nomura'
+p768
+g2
+(g6
+S'\xbe\xe2{\x84k\x03\xd0?'
+p769
+tp770
+Rp771
+tp772
+a(S'deep time (disambiguation)'
+p773
+g2
+(g6
+S'\x08V\xc6h\x96\xef\xcf?'
+p774
+tp775
+Rp776
+tp777
+a(S'deep-throating'
+p778
+g2
+(g6
+S'\xe4\xb4\xe4\x8d\xb4\xee\xcf?'
+p779
+tp780
+Rp781
+tp782
+a(S'deep six (dc comics)'
+p783
+g2
+(g6
+S'\xb0O\xba\xfd\x87\xe2\xcf?'
+p784
+tp785
+Rp786
+tp787
+a(S'family jewels'
+p788
+g2
+(g6
+S'M\x91r\xd8\xbc\xde\xcf?'
+p789
+tp790
+Rp791
+tp792
+a(S'deep elements music records'
+p793
+g2
+(g6
+S'lN\xc3\x14\x97\xc5\xcf?'
+p794
+tp795
+Rp796
+tp797
+a(S'deep river (western australia)'
+p798
+g2
+(g6
+S'\xdb&\xf1\xdd\x83\xc4\xcf?'
+p799
+tp800
+Rp801
+tp802
+a(S'run silent, run deep (disambiguation)'
+p803
+g2
+(g6
+S'\x92\xab\x0c\xce$\xaf\xcf?'
+p804
+tp805
+Rp806
+tp807
+a(S'deep history'
+p808
+g2
+(g6
+S'q@{\x89\xfe\xaa\xcf?'
+p809
+tp810
+Rp811
+tp812
+a(S'deep water bay'
+p813
+g2
+(g6
+S'\xbd\x8bl&x\xa6\xcf?'
+p814
+tp815
+Rp816
+tp817
+a(S'jewels (song)'
+p818
+g2
+(g6
+S'E}\x07f\xf8\xa0\xcf?'
+p819
+tp820
+Rp821
+tp822
+a(S'esui'
+p823
+g2
+(g6
+S'\x9d\xcc\x18s.\x9e\xcf?'
+p824
+tp825
+Rp826
+tp827
+a(S'miami and erie canal deep cut'
+p828
+g2
+(g6
+S'\xf2\xd0\xa1tV\x8c\xcf?'
+p829
+tp830
+Rp831
+tp832
+a(S'list of baku metro stations'
+p833
+g2
+(g6
+S'\xd1\xf5\x01\xec\xaa\x8a\xcf?'
+p834
+tp835
+Rp836
+tp837
+a(S'sounds like violence'
+p838
+g2
+(g6
+S'\x9bs\x9bq\xc2\x88\xcf?'
+p839
+tp840
+Rp841
+tp842
+a(S'deep image compositing'
+p843
+g2
+(g6
+S'\x07\xd5?\x95\xa1\x87\xcf?'
+p844
+tp845
+Rp846
+tp847
+a(S'yasuhito namekawa'
+p848
+g2
+(g6
+S'\xe6\x0b\x17\xa2hp\xcf?'
+p849
+tp850
+Rp851
+tp852
+a(S'karaagach (river)'
+p853
+g2
+(g6
+S'\xaa\xf1\xc5\xb6!o\xcf?'
+p854
+tp855
+Rp856
+tp857
+a(S'deep-sea dragonfish'
+p858
+g2
+(g6
+S'\xd2@\xf5G\xe0^\xcf?'
+p859
+tp860
+Rp861
+tp862
+a(S'deep palmar branch of ulnar artery'
+p863
+g2
+(g6
+S'g}V%\xa9L\xcf?'
+p864
+tp865
+Rp866
+tp867
+a(S'post (route)'
+p868
+g2
+(g6
+S'qs\xd5\xf9\x15;\xcf?'
+p869
+tp870
+Rp871
+tp872
+a(S'epigonus (genus)'
+p873
+g2
+(g6
+S'qm\xe6_X5\xcf?'
+p874
+tp875
+Rp876
+tp877
+a(S'jewels 2nd ring'
+p878
+g2
+(g6
+S'u\xac\tL\xe2#\xcf?'
+p879
+tp880
+Rp881
+tp882
+a(S'deep river science academy'
+p883
+g2
+(g6
+S'\xad\x9b\x16\x16\x08\x1f\xcf?'
+p884
+tp885
+Rp886
+tp887
+a(S'deep note'
+p888
+g2
+(g6
+S',\xacoc\xe6\xfe\xce?'
+p889
+tp890
+Rp891
+tp892
+a(S'deep fork river'
+p893
+g2
+(g6
+S'\xf9\xa4~\x8c\xc1\xd2\xce?'
+p894
+tp895
+Rp896
+tp897
+a(S'daisuke nakamura (fighter)'
+p898
+g2
+(g6
+S'\xb7\xba\xe0\xe0E\xd2\xce?'
+p899
+tp900
+Rp901
+tp902
+a(S'deep water (highsmith novel)'
+p903
+g2
+(g6
+S'\xc0\xfa\x02\xbe\r\xcf\xce?'
+p904
+tp905
+Rp906
+tp907
+a(S'deep throat (film)'
+p908
+g2
+(g6
+S'[\x1d\\\xa0\x8b\xc3\xce?'
+p909
+tp910
+Rp911
+tp912
+a(S'take a deep breath'
+p913
+g2
+(g6
+S'\xb8\xd4FoW\xb4\xce?'
+p914
+tp915
+Rp916
+tp917
+a(S'rod evans'
+p918
+g2
+(g6
+S'\xaa\xe7\xc4\x82h\xab\xce?'
+p919
+tp920
+Rp921
+tp922
+a(S'deep creek lake'
+p923
+g2
+(g6
+S'\xd5\xd7\x893\x9dY\xce?'
+p924
+tp925
+Rp926
+tp927
+a(S'ibm deep thunder'
+p928
+g2
+(g6
+S'JOr\x94ON\xce?'
+p929
+tp930
+Rp931
+tp932
+a(S'star trek: deep space nine: harbinger'
+p933
+g2
+(g6
+S'\x8c\xcfpHoI\xce?'
+p934
+tp935
+Rp936
+tp937
+a(S'saori ishioka'
+p938
+g2
+(g6
+S'\xa2\xd0\xeb\xe1!H\xce?'
+p939
+tp940
+Rp941
+tp942
+a(S'bathyporania'
+p943
+g2
+(g6
+S'\xe9\xf7O>\x8f0\xce?'
+p944
+tp945
+Rp946
+tp947
+a(S'mai ichii'
+p948
+g2
+(g6
+S'\xb5\xe10\xcf\xb1\t\xce?'
+p949
+tp950
+Rp951
+tp952
+a(S'deep purple'
+p953
+g2
+(g6
+S'\x84\x02\r\xd4F\x03\xce?'
+p954
+tp955
+Rp956
+tp957
+a(S'mizuki inoue'
+p958
+g2
+(g6
+S'e\xa1\xbbV\x13\x01\xce?'
+p959
+tp960
+Rp961
+tp962
+a(S'evoplosoma claguei'
+p963
+g2
+(g6
+S'\xeb\xbf\x89i\xb9\xff\xcd?'
+p964
+tp965
+Rp966
+tp967
+a(S'evoplosoma voratus'
+p968
+g2
+(g6
+S'\xeb\xbf\x89i\xb9\xff\xcd?'
+p969
+tp970
+Rp971
+tp972
+a(S'deep-sea exploration'
+p973
+g2
+(g6
+S'\xfa`\x173>\xf0\xcd?'
+p974
+tp975
+Rp976
+tp977
+a(S'shades of deep purple tour'
+p978
+g2
+(g6
+S']\xd1\x02\x962\xe8\xcd?'
+p979
+tp980
+Rp981
+tp982
+a(S'roughskin catshark'
+p983
+g2
+(g6
+S'\xaa\xf9`\xeaK\xd2\xcd?'
+p984
+tp985
+Rp986
+tp987
+a(S'satoko shinashi'
+p988
+g2
+(g6
+S'\x08\x8c+D\xfb\xbd\xcd?'
+p989
+tp990
+Rp991
+tp992
+a(S'deep gap, north carolina'
+p993
+g2
+(g6
+S'\xe4\xae1\xc4S\xb6\xcd?'
+p994
+tp995
+Rp996
+tp997
+a(S'ayaka hamasaki'
+p998
+g2
+(g6
+S'#\xdb\xf8Z\xf7\xa5\xcd?'
+p999
+tp1000
+Rp1001
+tp1002
+a(S'lethata oculosa'
+p1003
+g2
+(g6
+S'ga\xb7|p\xa4\xcd?'
+p1004
+tp1005
+Rp1006
+tp1007
+a(S'neobathyclupea'
+p1008
+g2
+(g6
+S'G\xc4\xc1(B\x7f\xcd?'
+p1009
+tp1010
+Rp1011
+tp1012
+a(S'deep cove, north vancouver'
+p1013
+g2
+(g6
+S'\xcf\x89\xc1\x8b9\x7f\xcd?'
+p1014
+tp1015
+Rp1016
+tp1017
+a(S'deep-level trap'
+p1018
+g2
+(g6
+S'\xa2\xc8\x85\xb2~n\xcd?'
+p1019
+tp1020
+Rp1021
+tp1022
+a(S'deep krate recordingz'
+p1023
+g2
+(g6
+S'\xfc\x91!\xfbbn\xcd?'
+p1024
+tp1025
+Rp1026
+tp1027
+a(S'deep song (ballet)'
+p1028
+g2
+(g6
+S'L\x8f\xdc\xab\xf7Q\xcd?'
+p1029
+tp1030
+Rp1031
+tp1032
+a(S'ryuichi murata'
+p1033
+g2
+(g6
+S'\x84Q{\xe7\xca<\xcd?'
+p1034
+tp1035
+Rp1036
+tp1037
+a(S'sirena deep'
+p1038
+g2
+(g6
+S'9l\xef[\xf3(\xcd?'
+p1039
+tp1040
+Rp1041
+tp1042
+a(S'richard jewels'
+p1043
+g2
+(g6
+S'\xf8\x18\xa5r\t\x0e\xcd?'
+p1044
+tp1045
+Rp1046
+tp1047
+a(S'deep throat (the x-files)'
+p1048
+g2
+(g6
+S'\xd5\x18gp\x83\xe9\xcc?'
+p1049
+tp1050
+Rp1051
+tp1052
+a(S'deep structure and surface structure'
+p1053
+g2
+(g6
+S'\x02ym\x9dI\xd5\xcc?'
+p1054
+tp1055
+Rp1056
+tp1057
+a(S'deep lab'
+p1058
+g2
+(g6
+S'z4\x92\x9aP\xc4\xcc?'
+p1059
+tp1060
+Rp1061
+tp1062
+a(S'deep creek lake state park'
+p1063
+g2
+(g6
+S'\x03U{7\xe8\xb6\xcc?'
+p1064
+tp1065
+Rp1066
+tp1067
+a(S'sthenaster emmae'
+p1068
+g2
+(g6
+S'\xdc\xb4SV\x9a\xab\xcc?'
+p1069
+tp1070
+Rp1071
+tp1072
+a(S'jewels 10th ring'
+p1073
+g2
+(g6
+S'i\x1f\xf1;L\xab\xcc?'
+p1074
+tp1075
+Rp1076
+tp1077
+a(S'deep map'
+p1078
+g2
+(g6
+S'1\x98\x12\xbc\x95\xa8\xcc?'
+p1079
+tp1080
+Rp1081
+tp1082
+a(S'deep state in turkey'
+p1083
+g2
+(g6
+S'9${/^\x92\xcc?'
+p1084
+tp1085
+Rp1086
+tp1087
+a(S'moonlit sailor'
+p1088
+g2
+(g6
+S'\xea\x91]\xc2\xa8\x81\xcc?'
+p1089
+tp1090
+Rp1091
+tp1092
+a(S'list of songs recorded by neck deep'
+p1093
+g2
+(g6
+S'5\xa0\xde\xe5\x8b~\xcc?'
+p1094
+tp1095
+Rp1096
+tp1097
+a(S'hisae watanabe'
+p1098
+g2
+(g6
+S'\xeb\xf8\xf6z0w\xcc?'
+p1099
+tp1100
+Rp1101
+tp1102
+a(S'deep-secure'
+p1103
+g2
+(g6
+S'\x88\xc7.\x1bem\xcc?'
+p1104
+tp1105
+Rp1106
+tp1107
+a(S'jewels 15th ring'
+p1108
+g2
+(g6
+S'r\xbfr\xad\x1bm\xcc?'
+p1109
+tp1110
+Rp1111
+tp1112
+a(S'm-1 global'
+p1113
+g2
+(g6
+S':#\x16\xb2@k\xcc?'
+p1114
+tp1115
+Rp1116
+tp1117
+a(S'kazuhiro nakamura'
+p1118
+g2
+(g6
+S'\x8d\xcb,\x7f\x97_\xcc?'
+p1119
+tp1120
+Rp1121
+tp1122
+a(S'challenger deep'
+p1123
+g2
+(g6
+S'\\\xf4\x93:\x8eW\xcc?'
+p1124
+tp1125
+Rp1126
+tp1127
+a(S'deep falls'
+p1128
+g2
+(g6
+S'\xf8\x1d+\xb4\xc0B\xcc?'
+p1129
+tp1130
+Rp1131
+tp1132
+a(S'h\xc5\x8drai valley'
+p1133
+g2
+(g6
+S'D\xd7\xfc\xa8\xde4\xcc?'
+p1134
+tp1135
+Rp1136
+tp1137
+a(S"lil' hand"
+p1138
+g2
+(g6
+S')N\x14Y\xe0\x18\xcc?'
+p1139
+tp1140
+Rp1141
+tp1142
+a(S'coreura cerealia'
+p1143
+g2
+(g6
+S'\xc5\x80\xbe\xb9\xf9\x17\xcc?'
+p1144
+tp1145
+Rp1146
+tp1147
+a(S"women's mixed martial arts"
+p1148
+g2
+(g6
+S'\xa7\x84\x8f\x13\xe9\x12\xcc?'
+p1149
+tp1150
+Rp1151
+tp1152
+a(S'amanda lucas (fighter)'
+p1153
+g2
+(g6
+S'\xacf\x18\x84i\x11\xcc?'
+p1154
+tp1155
+Rp1156
+tp1157
+a(S'ghost catshark'
+p1158
+g2
+(g6
+S'A\xad!\xcb\xf3\n\xcc?'
+p1159
+tp1160
+Rp1161
+tp1162
+a(S'2012 in mixed martial arts events'
+p1163
+g2
+(g6
+S'\x85y\xfc\xe1\xee\x07\xcc?'
+p1164
+tp1165
+Rp1166
+tp1167
+a(S'deep-fried mars bar'
+p1168
+g2
+(g6
+S'\x9c<L\xc9\xfd\xfd\xcb?'
+p1169
+tp1170
+Rp1171
+tp1172
+a(S'deep dyslexia'
+p1173
+g2
+(g6
+S'\n\xc7)@\x96\xfd\xcb?'
+p1174
+tp1175
+Rp1176
+tp1177
+a(S'yarennoka!'
+p1178
+g2
+(g6
+S'\x1b\xb4\xcd\\\xf0\xec\xcb?'
+p1179
+tp1180
+Rp1181
+tp1182
+a(S'michel sanchez'
+p1183
+g2
+(g6
+S'R\x0cqJa\xcd\xcb?'
+p1184
+tp1185
+Rp1186
+tp1187
+a(S'deep south'
+p1188
+g2
+(g6
+S'?p\x9b\x92\x19\xcc\xcb?'
+p1189
+tp1190
+Rp1191
+tp1192
+a(S'deep cove (new zealand)'
+p1193
+g2
+(g6
+S'\xca|~zk\xc1\xcb?'
+p1194
+tp1195
+Rp1196
+tp1197
+a(S'monique buzzart\xc3\xa9'
+p1198
+g2
+(g6
+S'\xbf\x8a\xd4\xcdA\xc1\xcb?'
+p1199
+tp1200
+Rp1201
+tp1202
+a(S'seichi ikemoto'
+p1203
+g2
+(g6
+S'\x7f\xaau\xaf\x91\xb6\xcb?'
+p1204
+tp1205
+Rp1206
+tp1207
+a(S'mma organizations'
+p1208
+g2
+(g6
+S'\xbd\x18\xa0\x0e\xab\xac\xcb?'
+p1209
+tp1210
+Rp1211
+tp1212
+a(S'deep-fried peanuts'
+p1213
+g2
+(g6
+S'&\x05\x11\xf1\x8d\xab\xcb?'
+p1214
+tp1215
+Rp1216
+tp1217
+a(S'zst'
+p1218
+g2
+(g6
+S'l\x9e\x8cH\xef\x97\xcb?'
+p1219
+tp1220
+Rp1221
+tp1222
+a(S'deep trap'
+p1223
+g2
+(g6
+S'9\xd1?r\xb8\x97\xcb?'
+p1224
+tp1225
+Rp1226
+tp1227
+a(S'daiki hata'
+p1228
+g2
+(g6
+S'\x0b)\xa2I\xa6\x97\xcb?'
+p1229
+tp1230
+Rp1231
+tp1232
+a(S'atomweight (mma)'
+p1233
+g2
+(g6
+S'\xb9r\xab\xf8\xa5\x97\xcb?'
+p1234
+tp1235
+Rp1236
+tp1237
+a(S'pictures of home'
+p1238
+g2
+(g6
+S'aF\xad\xe6b\x95\xcb?'
+p1239
+tp1240
+Rp1241
+tp1242
+a(S'abyss box'
+p1243
+g2
+(g6
+S'\xe1bt\xf1\xd6\x92\xcb?'
+p1244
+tp1245
+Rp1246
+tp1247
+a(S'deep funk'
+p1248
+g2
+(g6
+S'\x13Z0\x10\x0f\x92\xcb?'
+p1249
+tp1250
+Rp1251
+tp1252
+a(S'deep throat (watergate)'
+p1253
+g2
+(g6
+S'z\xfcG\x10\x07\x8b\xcb?'
+p1254
+tp1255
+Rp1256
+tp1257
+a(S'skin deep (the stranglers song)'
+p1258
+g2
+(g6
+S'\xca\xd9\xe5\x1a\xc5\x8a\xcb?'
+p1259
+tp1260
+Rp1261
+tp1262
+a(S"tits 'n ass"
+p1263
+g2
+(g6
+S'\xbc\xf4\xa3\xa6it\xcb?'
+p1264
+tp1265
+Rp1266
+tp1267
+a(S'n2deep'
+p1268
+g2
+(g6
+S'\x97)\xf8*\xbfW\xcb?'
+p1269
+tp1270
+Rp1271
+tp1272
+a(S'deep song'
+p1273
+g2
+(g6
+S'\xa3#O\x9aPS\xcb?'
+p1274
+tp1275
+Rp1276
+tp1277
+a(S'list of deep fields'
+p1278
+g2
+(g6
+S'B\x7fU\xbd\xd2K\xcb?'
+p1279
+tp1280
+Rp1281
+tp1282
+a(S'deep image'
+p1283
+g2
+(g6
+S'\xb1\xf1\x00(\xea?\xcb?'
+p1284
+tp1285
+Rp1286
+tp1287
+a(S'brochiraja'
+p1288
+g2
+(g6
+S'P}D\xdc\xe5(\xcb?'
+p1289
+tp1290
+Rp1291
+tp1292
+a(S'kikuyo ishikawa'
+p1293
+g2
+(g6
+S'\\X=cF\x13\xcb?'
+p1294
+tp1295
+Rp1296
+tp1297
+a(S'baba deep singh'
+p1298
+g2
+(g6
+S'\x1e[W\x9cJ\t\xcb?'
+p1299
+tp1300
+Rp1301
+tp1302
+a(S'deep web'
+p1303
+g2
+(g6
+S'\xdf\x90\x02)\xbe\x06\xcb?'
+p1304
+tp1305
+Rp1306
+tp1307
+a(S'deep blue (musician)'
+p1308
+g2
+(g6
+S'\xe3\x9c\x8e\xabF\x03\xcb?'
+p1309
+tp1310
+Rp1311
+tp1312
+a(S'the deep: here be dragons'
+p1313
+g2
+(g6
+S'\xb9\x1d.<y\x02\xcb?'
+p1314
+tp1315
+Rp1316
+tp1317
+a(S'love help me'
+p1318
+g2
+(g6
+S',\x83\xc2\x10\x01\xf5\xca?'
+p1319
+tp1320
+Rp1321
+tp1322
+a(S'nick simper'
+p1323
+g2
+(g6
+S"'\xc5\xab\x84\xc8\xef\xca?"
+p1324
+tp1325
+Rp1326
+tp1327
+a(S'kentucky woman'
+p1328
+g2
+(g6
+S'\xaa\x05_\x9aG\xeb\xca?'
+p1329
+tp1330
+Rp1331
+tp1332
+a(S'deep (nine inch nails song)'
+p1333
+g2
+(g6
+S'\xb8*S!\xcd\xab\xca?'
+p1334
+tp1335
+Rp1336
+tp1337
+a(S'akihabara@deep'
+p1338
+g2
+(g6
+S'R\x8f\x14\xd1J\xa9\xca?'
+p1339
+tp1340
+Rp1341
+tp1342
+a(S'deep river, connecticut'
+p1343
+g2
+(g6
+S'\xa5(\xf2)\xf9\x9c\xca?'
+p1344
+tp1345
+Rp1346
+tp1347
+a(S'white ghost catshark'
+p1348
+g2
+(g6
+S'\x92_\x97CN\x9b\xca?'
+p1349
+tp1350
+Rp1351
+tp1352
+a(S'contextual deep linking'
+p1353
+g2
+(g6
+S'\xa4\xde\x9cv\x9d\x99\xca?'
+p1354
+tp1355
+Rp1356
+tp1357
+a(S'deep dermatophytosis'
+p1358
+g2
+(g6
+S'\xc6\x95\x83\xcbq\x98\xca?'
+p1359
+tp1360
+Rp1361
+tp1362
+a(S'deep horizon'
+p1363
+g2
+(g6
+S'\xfa\x8d\x97-\x84\x96\xca?'
+p1364
+tp1365
+Rp1366
+tp1367
+a(S"buddleja davidii 'carroll deep lavender'"
+p1368
+g2
+(g6
+S'\x98\xa8b?~\x8b\xca?'
+p1369
+tp1370
+Rp1371
+tp1372
+a(S'deep machine'
+p1373
+g2
+(g6
+S'\x95\x92\x07\xf4\xd7\x88\xca?'
+p1374
+tp1375
+Rp1376
+tp1377
+a(S'iniistius trivittatus'
+p1378
+g2
+(g6
+S'\xa5&\xc4\xb3>\x82\xca?'
+p1379
+tp1380
+Rp1381
+tp1382
+a(S'pride fighting championships'
+p1383
+g2
+(g6
+S'\x82\xf4\xd6\x90k\x80\xca?'
+p1384
+tp1385
+Rp1386
+tp1387
+a(S'yusuke kawaguchi'
+p1388
+g2
+(g6
+S'\xed\x18\xe5N\xc6b\xca?'
+p1389
+tp1390
+Rp1391
+tp1392
+a(S'brandtson'
+p1393
+g2
+(g6
+S'Y\xe82\t\x10^\xca?'
+p1394
+tp1395
+Rp1396
+tp1397
+a(S'alliance mma'
+p1398
+g2
+(g6
+S'\xf0k]0\xd2W\xca?'
+p1399
+tp1400
+Rp1401
+tp1402
+a(S'tracey k'
+p1403
+g2
+(g6
+S'\xd2\xfc7\xce\x8fR\xca?'
+p1404
+tp1405
+Rp1406
+tp1407
+a(S'one championship'
+p1408
+g2
+(g6
+S'\xc8\x8e\x1c\x93\xe87\xca?'
+p1409
+tp1410
+Rp1411
+tp1412
+a(S'crankshaft deep rolling'
+p1413
+g2
+(g6
+S'\xcb\x92\xe5a),\xca?'
+p1414
+tp1415
+Rp1416
+tp1417
+a(S'deep creek township, yadkin county, north carolina'
+p1418
+g2
+(g6
+S'\xfaM\xb1\x99\xa7#\xca?'
+p1419
+tp1420
+Rp1421
+tp1422
+a(S'list of irish ufc fighters'
+p1423
+g2
+(g6
+S'\xbev9=\xc0\x1f\xca?'
+p1424
+tp1425
+Rp1426
+tp1427
+a(S'usuda deep space center'
+p1428
+g2
+(g6
+S'\xe1E\xe6\xae\x03\x1c\xca?'
+p1429
+tp1430
+Rp1431
+tp1432
+a(S'deep treble'
+p1433
+g2
+(g6
+S'G@\xf4\xf1\xb1\xfb\xc9?'
+p1434
+tp1435
+Rp1436
+tp1437
+a(S'jutaro nakao'
+p1438
+g2
+(g6
+S'\\\x8f#Y\xc2\xf7\xc9?'
+p1439
+tp1440
+Rp1441
+tp1442
+a(S'yantian international container terminals'
+p1443
+g2
+(g6
+S'n`\x90\t\x94\xd7\xc9?'
+p1444
+tp1445
+Rp1446
+tp1447
+a(S'deep sea community'
+p1448
+g2
+(g6
+S'\xb2\n\xa1\x96M\xd7\xc9?'
+p1449
+tp1450
+Rp1451
+tp1452
+a(S'deep space exploration'
+p1453
+g2
+(g6
+S'th\x11\x85\x80\xce\xc9?'
+p1454
+tp1455
+Rp1456
+tp1457
+a(S'deep lake (oregon)'
+p1458
+g2
+(g6
+S'\x01\x9b@e\x9d\xc2\xc9?'
+p1459
+tp1460
+Rp1461
+tp1462
+a(S'sapropel'
+p1463
+g2
+(g6
+S'\xc2O\xa5\xdb\xb4\xbf\xc9?'
+p1464
+tp1465
+Rp1466
+tp1467
+a(S'afterimage (star trek: deep space nine)'
+p1468
+g2
+(g6
+S'2\x05\xd10u\xba\xc9?'
+p1469
+tp1470
+Rp1471
+tp1472
+a(S'clavaporania'
+p1473
+g2
+(g6
+S'\xb9b\xc7\xfd[\xb6\xc9?'
+p1474
+tp1475
+Rp1476
+tp1477
+a(S'list of top professional mma training camps'
+p1478
+g2
+(g6
+S'\xf5\x88\x00\x89\xa7\xa8\xc9?'
+p1479
+tp1480
+Rp1481
+tp1482
+a(S'capt. joseph gould house'
+p1483
+g2
+(g6
+S'\r\xe5V\x06\x14\x98\xc9?'
+p1484
+tp1485
+Rp1486
+tp1487
+a(S"hotspot ecosystem research and man's impact on european seas"
+p1488
+g2
+(g6
+S'\xf5\x87\xf8gD\x97\xc9?'
+p1489
+tp1490
+Rp1491
+tp1492
+a(S'mixed martial arts pakistan'
+p1493
+g2
+(g6
+S'\xbd\x19\xf3\x96\xf7\x95\xc9?'
+p1494
+tp1495
+Rp1496
+tp1497
+a(S'deep underground'
+p1498
+g2
+(g6
+S'6<\xfbAV\x88\xc9?'
+p1499
+tp1500
+Rp1501
+tp1502
+a(S"baby you're dynamite"
+p1503
+g2
+(g6
+S'3\x19/Ir\x86\xc9?'
+p1504
+tp1505
+Rp1506
+tp1507
+a(S'list of current mixed martial arts champions'
+p1508
+g2
+(g6
+S'\x18U\x9b\xca\xf0\x83\xc9?'
+p1509
+tp1510
+Rp1511
+tp1512
+a.

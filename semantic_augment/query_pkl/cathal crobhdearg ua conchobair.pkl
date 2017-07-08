@@ -1,0 +1,2728 @@
+(lp0
+(S'cathal crobhdearg ua conchobair'
+p1
+cnumpy.core.multiarray
+scalar
+p2
+(cnumpy
+dtype
+p3
+(S'f8'
+p4
+I0
+I1
+tp5
+Rp6
+(I3
+S'<'
+p7
+NNNI-1
+I-1
+I0
+tp8
+bS'\x01\x00\x00\x00\x00\x00\xf0?'
+p9
+tp10
+Rp11
+tp12
+a(S'cathal'
+p13
+g2
+(g6
+S'\xdcL8f4\x1d\xe5?'
+p14
+tp15
+Rp16
+tp17
+a(S'cathal carragh ua conchobair'
+p18
+g2
+(g6
+S'\x7f\x84\x0c\xc6.S\xe4?'
+p19
+tp20
+Rp21
+tp22
+a(S'clan muircheartaigh u\xc3\xad conchobhair'
+p23
+g2
+(g6
+S'E\x88\xdf\x05\x01C\xe4?'
+p24
+tp25
+Rp26
+tp27
+a(S'cathal mac conchobair'
+p28
+g2
+(g6
+S')\x7f\xd6H+\xc7\xe2?'
+p29
+tp30
+Rp31
+tp32
+a(S'cathal mac tadg'
+p33
+g2
+(g6
+S'\xd1\xd7p\x9a\x06\x1d\xe1?'
+p34
+tp35
+Rp36
+tp37
+a(S'conchobar maenmaige ua conchobair'
+p38
+g2
+(g6
+S'%\xd1\x1c)\x04\x10\xe1?'
+p39
+tp40
+Rp41
+tp42
+a(S'm\xc3\xb3r n\xc3\xad briain'
+p43
+g2
+(g6
+S'\xdd\x00\xab\xc5\x9b\xa7\xe0?'
+p44
+tp45
+Rp46
+tp47
+a(S'tairrdelbach ua conchobair'
+p48
+g2
+(g6
+S'G\xe88\xad5~\xe0?'
+p49
+tp50
+Rp51
+tp52
+a(S'\xc3\x81ed in gai bernaig'
+p53
+g2
+(g6
+S'\xf7\xd7P\xd7\xe64\xe0?'
+p54
+tp55
+Rp56
+tp57
+a(S'conchobar mac taidg m\xc3\xb3r'
+p58
+g2
+(g6
+S'\x04g\x0fj\x88*\xe0?'
+p59
+tp60
+Rp61
+tp62
+a(S'ruaidr\xc3\xad na saide buide'
+p63
+g2
+(g6
+S'f\x9f\xd9\xe8\x9d\xf7\xdf?'
+p64
+tp65
+Rp66
+tp67
+a(S'murchad mac flann mac glethneachan'
+p68
+g2
+(g6
+S'2!\x14\x92\x9b\xf3\xdf?'
+p69
+tp70
+Rp71
+tp72
+a(S'ruaidr\xc3\xad ua conchobair'
+p73
+g2
+(g6
+S'\xae\xb7\x0c\xec\xc6:\xdf?'
+p74
+tp75
+Rp76
+tp77
+a(S'donnell mor mideach ua conchobair'
+p78
+g2
+(g6
+S'\xb3\xb6\r\xb7\x16\xee\xde?'
+p79
+tp80
+Rp81
+tp82
+a(S'cathal mac finguine'
+p83
+g2
+(g6
+S'\xc2V\xd7dG\xe2\xde?'
+p84
+tp85
+Rp86
+tp87
+a(S'm\xc3\xb3r ingen taidhg an tuir'
+p88
+g2
+(g6
+S'\x96z?\xe2L\x90\xde?'
+p89
+tp90
+Rp91
+tp92
+a(S'mathghamhain mac conchobar maenmaige ua conchobair'
+p93
+g2
+(g6
+S'u\xa2\x06\xa5\x13R\xde?'
+p94
+tp95
+Rp96
+tp97
+a(S'1224 in ireland'
+p98
+g2
+(g6
+S'\xcb=\x8d\xa2 J\xde?'
+p99
+tp100
+Rp101
+tp102
+a(S'fearghal \xc3\x93 taidg an teaghlaigh'
+p103
+g2
+(g6
+S'\x90k;u\xc9,\xde?'
+p104
+tp105
+Rp106
+tp107
+a(S'dubhchobhlaigh bean ua heaghra'
+p108
+g2
+(g6
+S'\xd9,B\x9dm\x19\xde?'
+p109
+tp110
+Rp111
+tp112
+a(S'iar connacht'
+p113
+g2
+(g6
+S'\x19\xdd\xbc|O\x9c\xdd?'
+p114
+tp115
+Rp116
+tp117
+a(S'aislinge meic con glinne'
+p118
+g2
+(g6
+S'r\xa3T\xef\xdb\xaa\xdc?'
+p119
+tp120
+Rp121
+tp122
+a(S'cathal mac \xc3\x93g\xc3\xa1n'
+p123
+g2
+(g6
+S'\xf7\x9d0O\xb2\x9b\xdc?'
+p124
+tp125
+Rp126
+tp127
+a(S'dubh chablaigh ingen \xc3\x81ed'
+p128
+g2
+(g6
+S'\x16\x81[<\x87\x01\xdc?'
+p129
+tp130
+Rp131
+tp132
+a(S'amhalgaidh mac cathal'
+p133
+g2
+(g6
+S'\xf0\xcd7\xea+\xed\xdb?'
+p134
+tp135
+Rp136
+tp137
+a(S'cathal mac \xc3\x81eda'
+p138
+g2
+(g6
+S'*\xcf\xf1M\xf5\xa8\xdb?'
+p139
+tp140
+Rp141
+tp142
+a(S'conchobar ua ndiarmata'
+p143
+g2
+(g6
+S'\xf3\xfa\x12\xbb\x04E\xdb?'
+p144
+tp145
+Rp146
+tp147
+a(S'cathal mac \xc3\x81edo'
+p148
+g2
+(g6
+S'M\xc5\x0e\x13\x90&\xdb?'
+p149
+tp150
+Rp151
+tp152
+a(S'aodh (given name)'
+p153
+g2
+(g6
+S'u%hz\x19\xae\xda?'
+p154
+tp155
+Rp156
+tp157
+a(S'list of kings of connacht'
+p158
+g2
+(g6
+S'\xe8;\x15\xaf\xae\xab\xda?'
+p159
+tp160
+Rp161
+tp162
+a(S'cathal mac conchobar mac taidg'
+p163
+g2
+(g6
+S'\x9f(\x89zv\xab\xda?'
+p164
+tp165
+Rp166
+tp167
+a(S'parked'
+p168
+g2
+(g6
+S'\xe4p+\x1b\xfax\xda?'
+p169
+tp170
+Rp171
+tp172
+a(S'muiredach muillethan'
+p173
+g2
+(g6
+S'\xf0\x8f\x1f\xde\xd9b\xda?'
+p174
+tp175
+Rp176
+tp177
+a(S'cathal mac tigern\xc3\xa1n'
+p178
+g2
+(g6
+S'\xf5\xed\x1bR\x99a\xda?'
+p179
+tp180
+Rp181
+tp182
+a(S'cathal mac muiredaig'
+p183
+g2
+(g6
+S'\x99\xf0\x1c\xb9\xdc`\xda?'
+p184
+tp185
+Rp186
+tp187
+a(S'conchobar mac tadg'
+p188
+g2
+(g6
+S'\t)\xd8\xd7\x7f[\xda?'
+p189
+tp190
+Rp191
+tp192
+a(S'm\xc3\xb3r n\xc3\xad conchobair'
+p193
+g2
+(g6
+S'\x8c\xd5\xec\x84\x005\xda?'
+p194
+tp195
+Rp196
+tp197
+a(S'macraith m\xc3\xa1g tighearn\xc3\xa1n'
+p198
+g2
+(g6
+S'\xbb\x9eL+\xd84\xda?'
+p199
+tp200
+Rp201
+tp202
+a(S'sieges of galway'
+p203
+g2
+(g6
+S'\xd9)\xf1\x0f#\xd8\xd9?'
+p204
+tp205
+Rp206
+tp207
+a(S'tadg mac conchobair'
+p208
+g2
+(g6
+S'\xe1\xf4\x12:\xf2\x9f\xd9?'
+p209
+tp210
+Rp211
+tp212
+a(S'felim ua conchobair'
+p213
+g2
+(g6
+S'\xba\xdacr\xaa\x9c\xd9?'
+p214
+tp215
+Rp216
+tp217
+a(S'muirchertach muimhnech ua conchobair'
+p218
+g2
+(g6
+S'n\x03%c\xf0\x95\xd9?'
+p219
+tp220
+Rp221
+tp222
+a(S'cathal mac donnub\xc3\xa1in'
+p223
+g2
+(g6
+S'z8}bx\x89\xd9?'
+p224
+tp225
+Rp226
+tp227
+a(S'cathal mac domhnall \xc3\x93 conchobair'
+p228
+g2
+(g6
+S'm3.\x04\x97w\xd9?'
+p229
+tp230
+Rp231
+tp232
+a(S'f\xc3\xa9lim'
+p233
+g2
+(g6
+S'\x90\xb6\xc6t\xabh\xd9?'
+p234
+tp235
+Rp236
+tp237
+a(S'brugha'
+p238
+g2
+(g6
+S'\x016\xa1\xf8\xfcc\xd9?'
+p239
+tp240
+Rp241
+tp242
+a(S'tadhg mac conchobar maenmaige ua conchobair'
+p243
+g2
+(g6
+S'\xfa"\x88N\xfa4\xd9?'
+p244
+tp245
+Rp246
+tp247
+a(S"o'connor"
+p248
+g2
+(g6
+S'\xc4*\xa4\xafA&\xd9?'
+p249
+tp250
+Rp251
+tp252
+a(S'cathal mac ailell'
+p253
+g2
+(g6
+S'\x99W\x82R\xec\xf5\xd8?'
+p254
+tp255
+Rp256
+tp257
+a(S'connacht'
+p258
+g2
+(g6
+S'V\x9f\xack\xcd\xf3\xd8?'
+p259
+tp260
+Rp261
+tp262
+a(S'cathal mac muirgiussa'
+p263
+g2
+(g6
+S'\x99\x1f\xf6\x9bF\xee\xd8?'
+p264
+tp265
+Rp266
+tp267
+a(S'battle of magh slecht'
+p268
+g2
+(g6
+S'\x0e\x1f\xf5#6\xd5\xd8?'
+p269
+tp270
+Rp271
+tp272
+a(S'aedh ua conchobair'
+p273
+g2
+(g6
+S'!\xe1\xdc\xa1\xbd\xbd\xd8?'
+p274
+tp275
+Rp276
+tp277
+a(S'muirchertach tethbhach'
+p278
+g2
+(g6
+S'sG\x0f\x01\xe7\xb2\xd8?'
+p279
+tp280
+Rp281
+tp282
+a(S'kingdom of breifne'
+p283
+g2
+(g6
+S'r\x94)\x0b\x94\xaa\xd8?'
+p284
+tp285
+Rp286
+tp287
+a(S'fedlim \xc3\x93 conchobair'
+p288
+g2
+(g6
+S'\xbb\x85ap\xf8\x96\xd8?'
+p289
+tp290
+Rp291
+tp292
+a(S'annals of connacht'
+p293
+g2
+(g6
+S'\x00\xce\xa7\x19\xbf_\xd8?'
+p294
+tp295
+Rp296
+tp297
+a(S'morogh \xc3\x93 flaithbheartaigh'
+p298
+g2
+(g6
+S'\xfbO\xf2\xde\xd9N\xd8?'
+p299
+tp300
+Rp301
+tp302
+a(S'wrestling at the asian games'
+p303
+g2
+(g6
+S'4B\xef\xca63\xd8?'
+p304
+tp305
+Rp306
+tp307
+a(S'mael seachlainn mac conchobar maenmaige ua conchobair'
+p308
+g2
+(g6
+S'|\xe1\x11L\xbf0\xd8?'
+p309
+tp310
+Rp311
+tp312
+a(S'teige ua con ceannainn'
+p313
+g2
+(g6
+S'q\xfc\x13\xfbG)\xd8?'
+p314
+tp315
+Rp316
+tp317
+a(S'2008 pan american weightlifting championships'
+p318
+g2
+(g6
+S'MHmI\xb7$\xd8?'
+p319
+tp320
+Rp321
+tp322
+a(S'weightlifting at the 2016 south asian games'
+p323
+g2
+(g6
+S'I\x94^Y\x90\t\xd8?'
+p324
+tp325
+Rp326
+tp327
+a(S'maghnus ua conchobair'
+p328
+g2
+(g6
+S'D\x90\xaa$\x13\t\xd8?'
+p329
+tp330
+Rp331
+tp332
+a(S'connmhach mac duinn cothaid'
+p333
+g2
+(g6
+S'h\xcaq\x11\x9f\x06\xd8?'
+p334
+tp335
+Rp336
+tp337
+a(S'toirdelbach mac ruaidhi \xc3\x93 conchobair'
+p338
+g2
+(g6
+S'\xe7\xa7\xa8\x8a\x94\xf8\xd7?'
+p339
+tp340
+Rp341
+tp342
+a(S'aodh mac conchobar maenmaige ua conchobair'
+p343
+g2
+(g6
+S' \x89\xf8.\xfb\xe8\xd7?'
+p344
+tp345
+Rp346
+tp347
+a(S'taekwondo at the 2015 military world games'
+p348
+g2
+(g6
+S'=\x9fe\x8d\xce\xe7\xd7?'
+p349
+tp350
+Rp351
+tp352
+a(S'1970 european weightlifting championships'
+p353
+g2
+(g6
+S'\x83\xb0q\x87\x04\xdf\xd7?'
+p354
+tp355
+Rp356
+tp357
+a(S'weightlifting at the 2015 pacific games'
+p358
+g2
+(g6
+S'\x94|\xe5"\x85\xdd\xd7?'
+p359
+tp360
+Rp361
+tp362
+a(S'weightlifting at the 2013 bolivarian games'
+p363
+g2
+(g6
+S'"\xd2X).\xd5\xd7?'
+p364
+tp365
+Rp366
+tp367
+a(S'owen \xc3\x93 heidhin'
+p368
+g2
+(g6
+S'\xa6\xee\xa8G,\xcd\xd7?'
+p369
+tp370
+Rp371
+tp372
+a(S'1969 world weightlifting championships'
+p373
+g2
+(g6
+S'\xe8\x17\x9b\xed"\xcd\xd7?'
+p374
+tp375
+Rp376
+tp377
+a(S'\xc3\x81ed all\xc3\xa1n'
+p378
+g2
+(g6
+S'\xecA\xc1lH\xcc\xd7?'
+p379
+tp380
+Rp381
+tp382
+a(S'1970 world weightlifting championships'
+p383
+g2
+(g6
+S'W\x8d\xbf&p\xcb\xd7?'
+p384
+tp385
+Rp386
+tp387
+a(S'1971 world weightlifting championships'
+p388
+g2
+(g6
+S'/`\x0f\xddH\xcb\xd7?'
+p389
+tp390
+Rp391
+tp392
+a(S'2014 european weightlifting championships'
+p393
+g2
+(g6
+S'\xfc\xef\xce\xb5=\xc3\xd7?'
+p394
+tp395
+Rp396
+tp397
+a(S'2012 european weightlifting championships'
+p398
+g2
+(g6
+S'=G\xc1\xfc-\xc1\xd7?'
+p399
+tp400
+Rp401
+tp402
+a(S'2013 european weightlifting championships'
+p403
+g2
+(g6
+S'\x00\x95\xd2$\x02\xc1\xd7?'
+p404
+tp405
+Rp406
+tp407
+a(S'1971 asian weightlifting championships'
+p408
+g2
+(g6
+S'7\xfat\xba\x96\xbc\xd7?'
+p409
+tp410
+Rp411
+tp412
+a(S'2011 european weightlifting championships'
+p413
+g2
+(g6
+S'\xd6\xb8S\x19\x8a\xb5\xd7?'
+p414
+tp415
+Rp416
+tp417
+a(S'2015 european junior & u23 weightlifting championships'
+p418
+g2
+(g6
+S'\nJ\x02H\x8d\xb0\xd7?'
+p419
+tp420
+Rp421
+tp422
+a(S'2014 european junior & u23 weightlifting championships'
+p423
+g2
+(g6
+S'\xd2s\x08\xe4w\xb0\xd7?'
+p424
+tp425
+Rp426
+tp427
+a(S'2016 pan american weightlifting championships'
+p428
+g2
+(g6
+S'7(\x91\xa1v\xb0\xd7?'
+p429
+tp430
+Rp431
+tp432
+a(S'2016 african weightlifting championships'
+p433
+g2
+(g6
+S"!G\xcc\x9f'\xb0\xd7?"
+p434
+tp435
+Rp436
+tp437
+a(S'2016 oceania weightlifting championships'
+p438
+g2
+(g6
+S'`\xa65\t\r\xb0\xd7?'
+p439
+tp440
+Rp441
+tp442
+a(S'2010 pan american weightlifting championships'
+p443
+g2
+(g6
+S'\xb4:\xe0\xcb?\xad\xd7?'
+p444
+tp445
+Rp446
+tp447
+a(S'weightlifting at the 2007 all-africa games'
+p448
+g2
+(g6
+S'\xa3\x1fr\x83\xa7\xa7\xd7?'
+p449
+tp450
+Rp451
+tp452
+a(S'1972 world weightlifting championships'
+p453
+g2
+(g6
+S'j\x9f$\xda\x82\xa6\xd7?'
+p454
+tp455
+Rp456
+tp457
+a(S'taekwondo at the 2006 central american and caribbean games'
+p458
+g2
+(g6
+S'\xa75K~\x19\xa3\xd7?'
+p459
+tp460
+Rp461
+tp462
+a(S'1993 world weightlifting championships'
+p463
+g2
+(g6
+S'\x90\x1a\xc7{\xcf\x9f\xd7?'
+p464
+tp465
+Rp466
+tp467
+a(S'1994 world weightlifting championships'
+p468
+g2
+(g6
+S'\x9bEB\xb9\xbd\x9f\xd7?'
+p469
+tp470
+Rp471
+tp472
+a(S'1989 world weightlifting championships'
+p473
+g2
+(g6
+S'\x85\xf6\xb4\xe3P\x9f\xd7?'
+p474
+tp475
+Rp476
+tp477
+a(S'1995 world weightlifting championships'
+p478
+g2
+(g6
+S'\xc0\xfe\xc2hH\x9f\xd7?'
+p479
+tp480
+Rp481
+tp482
+a(S'1990 world weightlifting championships'
+p483
+g2
+(g6
+S'X\xde\xb3\xda\xb1\x9e\xd7?'
+p484
+tp485
+Rp486
+tp487
+a(S'1991 world weightlifting championships'
+p488
+g2
+(g6
+S'\xff"\xed\xa4d\x9e\xd7?'
+p489
+tp490
+Rp491
+tp492
+a(S'weightlifting at the 2015 african games'
+p493
+g2
+(g6
+S'\xb4+\x01\xca\xf5\x9d\xd7?'
+p494
+tp495
+Rp496
+tp497
+a(S'1987 world weightlifting championships'
+p498
+g2
+(g6
+S'\xd2N"\\\xb7\x9d\xd7?'
+p499
+tp500
+Rp501
+tp502
+a(S'1997 world weightlifting championships'
+p503
+g2
+(g6
+S'\xd9\x9e\xb8\xd4p\x9d\xd7?'
+p504
+tp505
+Rp506
+tp507
+a(S'2009 asian weightlifting championships'
+p508
+g2
+(g6
+S'\x12;\xd0\xfb8\x9a\xd7?'
+p509
+tp510
+Rp511
+tp512
+a(S'2012 asian weightlifting championships'
+p513
+g2
+(g6
+S'\xe9a} \xc9\x98\xd7?'
+p514
+tp515
+Rp516
+tp517
+a(S'2013 asian weightlifting championships'
+p518
+g2
+(g6
+S'k\x19\x93\x06\xb0\x98\xd7?'
+p519
+tp520
+Rp521
+tp522
+a(S'2016 asian weightlifting championships'
+p523
+g2
+(g6
+S'\x0e\xfa8j\x9c\x98\xd7?'
+p524
+tp525
+Rp526
+tp527
+a(S'2015 asian weightlifting championships'
+p528
+g2
+(g6
+S'(\xcd,\xe9\x93\x98\xd7?'
+p529
+tp530
+Rp531
+tp532
+a(S'2005 asian weightlifting championships'
+p533
+g2
+(g6
+S'\x99a\xb4\xc1`\x98\xd7?'
+p534
+tp535
+Rp536
+tp537
+a(S'2003 world weightlifting championships'
+p538
+g2
+(g6
+S'\xce\xa8e\x9c+\x98\xd7?'
+p539
+tp540
+Rp541
+tp542
+a(S"2015 world judo championships \xe2\x80\x93 men's team"
+p543
+g2
+(g6
+S'\x80#J\x97\x13\x98\xd7?'
+p544
+tp545
+Rp546
+tp547
+a(S'2001 world weightlifting championships'
+p548
+g2
+(g6
+S'\xf2\x18\x91+\x03\x98\xd7?'
+p549
+tp550
+Rp551
+tp552
+a(S'2011 asian weightlifting championships'
+p553
+g2
+(g6
+S'\xa7\x9aW\xb3\xa5\x97\xd7?'
+p554
+tp555
+Rp556
+tp557
+a(S'2002 world weightlifting championships'
+p558
+g2
+(g6
+S'\x9f\xdd\xe3X\x9c\x97\xd7?'
+p559
+tp560
+Rp561
+tp562
+a(S'wrestling at the 2007 pan american games'
+p563
+g2
+(g6
+S'\x862\xe0\xcf\x93\x97\xd7?'
+p564
+tp565
+Rp566
+tp567
+a(S'1998 world weightlifting championships'
+p568
+g2
+(g6
+S'r\xeaX\x89i\x97\xd7?'
+p569
+tp570
+Rp571
+tp572
+a(S'2015 european weightlifting championships'
+p573
+g2
+(g6
+S'\xbc\xf8O\x81/\x97\xd7?'
+p574
+tp575
+Rp576
+tp577
+a(S'1999 world weightlifting championships'
+p578
+g2
+(g6
+S'\xcb\xb5\x1e\x15\xbd\x95\xd7?'
+p579
+tp580
+Rp581
+tp582
+a(S'2000 asian weightlifting championships'
+p583
+g2
+(g6
+S'\xeb\x8f\xf1\x10\xbf\x92\xd7?'
+p584
+tp585
+Rp586
+tp587
+a(S'2004 asian weightlifting championships'
+p588
+g2
+(g6
+S'^D\x81\x0f\xb5\x92\xd7?'
+p589
+tp590
+Rp591
+tp592
+a(S'2007 asian weightlifting championships'
+p593
+g2
+(g6
+S'\xed\x92q\xda\xa2\x92\xd7?'
+p594
+tp595
+Rp596
+tp597
+a(S'2008 asian weightlifting championships'
+p598
+g2
+(g6
+S'X(!\x98\xe2\x91\xd7?'
+p599
+tp600
+Rp601
+tp602
+a(S'2009 world weightlifting championships'
+p603
+g2
+(g6
+S"\x95\xec\xbe'S\x90\xd7?"
+p604
+tp605
+Rp606
+tp607
+a(S'2010 world weightlifting championships'
+p608
+g2
+(g6
+S'\x00\xe6@\x1e\xfc\x8f\xd7?'
+p609
+tp610
+Rp611
+tp612
+a(S'weightlifting at the 1968 summer olympics'
+p613
+g2
+(g6
+S'\x9c\xfe\x18\x9c7\x8f\xd7?'
+p614
+tp615
+Rp616
+tp617
+a(S'2006 world weightlifting championships'
+p618
+g2
+(g6
+S'\xb1\x8c\x05\x14E\x8d\xd7?'
+p619
+tp620
+Rp621
+tp622
+a(S'1955 world weightlifting championships'
+p623
+g2
+(g6
+S'2\xf3\xf8\x8a0\x8a\xd7?'
+p624
+tp625
+Rp626
+tp627
+a(S'1954 world weightlifting championships'
+p628
+g2
+(g6
+S'\x12\x97\xca\xa0,\x89\xd7?'
+p629
+tp630
+Rp631
+tp632
+a(S'1963 world weightlifting championships'
+p633
+g2
+(g6
+S'7\xf6\x12\xb4\x8f\x88\xd7?'
+p634
+tp635
+Rp636
+tp637
+a(S'1953 world weightlifting championships'
+p638
+g2
+(g6
+S'7\xf6\x12\xb4\x8f\x88\xd7?'
+p639
+tp640
+Rp641
+tp642
+a(S'1958 world weightlifting championships'
+p643
+g2
+(g6
+S'7\xf6\x12\xb4\x8f\x88\xd7?'
+p644
+tp645
+Rp646
+tp647
+a(S'1977 world weightlifting championships'
+p648
+g2
+(g6
+S'x0\t\xbb{\x87\xd7?'
+p649
+tp650
+Rp651
+tp652
+a(S'1981 world weightlifting championships'
+p653
+g2
+(g6
+S'\xb3I\xed$V\x87\xd7?'
+p654
+tp655
+Rp656
+tp657
+a(S'1978 world weightlifting championships'
+p658
+g2
+(g6
+S'\xa8\x16\xe3\xc70\x87\xd7?'
+p659
+tp660
+Rp661
+tp662
+a(S'1983 world weightlifting championships'
+p663
+g2
+(g6
+S'\x86^\xdfV \x87\xd7?'
+p664
+tp665
+Rp666
+tp667
+a(S'1957 world weightlifting championships'
+p668
+g2
+(g6
+S'\x07\x14\xbd\xc7\xd9\x85\xd7?'
+p669
+tp670
+Rp671
+tp672
+a(S'1965 world weightlifting championships'
+p673
+g2
+(g6
+S'\x07\x14\xbd\xc7\xd9\x85\xd7?'
+p674
+tp675
+Rp676
+tp677
+a(S'2010 european weightlifting championships'
+p678
+g2
+(g6
+S'\x1f#\x1a\xf7o\x85\xd7?'
+p679
+tp680
+Rp681
+tp682
+a(S'1986 world weightlifting championships'
+p683
+g2
+(g6
+S'\xf75\xb0\xa4\xfa\x84\xd7?'
+p684
+tp685
+Rp686
+tp687
+a(S'1979 world weightlifting championships'
+p688
+g2
+(g6
+S'\x04\xa0\xd5\x02\x02\x83\xd7?'
+p689
+tp690
+Rp691
+tp692
+a(S'1951 world weightlifting championships'
+p693
+g2
+(g6
+S'\xfb\x8b2:\x01\x81\xd7?'
+p694
+tp695
+Rp696
+tp697
+a(S'1988 world weightlifting championships'
+p698
+g2
+(g6
+S'\xa9\xea=J\xb3\x80\xd7?'
+p699
+tp700
+Rp701
+tp702
+a(S'1992 world weightlifting championships'
+p703
+g2
+(g6
+S'\x93\xe4\xac&r\x80\xd7?'
+p704
+tp705
+Rp706
+tp707
+a(S'1975 world weightlifting championships'
+p708
+g2
+(g6
+S'\x95[\x02Mu\x7f\xd7?'
+p709
+tp710
+Rp711
+tp712
+a(S'1974 world weightlifting championships'
+p713
+g2
+(g6
+S'\x8f\xdc\xbafO\x7f\xd7?'
+p714
+tp715
+Rp716
+tp717
+a(S'1982 world weightlifting championships'
+p718
+g2
+(g6
+S'1\x83\xb2\x9bk~\xd7?'
+p719
+tp720
+Rp721
+tp722
+a(S'1996 world weightlifting championships'
+p723
+g2
+(g6
+S'\xf7\xdb\xde>i~\xd7?'
+p724
+tp725
+Rp726
+tp727
+a(S'1973 world weightlifting championships'
+p728
+g2
+(g6
+S't\xb8S\xbehx\xd7?'
+p729
+tp730
+Rp731
+tp732
+a(S'2005 world weightlifting championships'
+p733
+g2
+(g6
+S'\x03v\x8e\xbdAx\xd7?'
+p734
+tp735
+Rp736
+tp737
+a(S'weightlifting at the 2010 central american and caribbean games'
+p738
+g2
+(g6
+S'\xa7\xa9\x18\xd1\xdev\xd7?'
+p739
+tp740
+Rp741
+tp742
+a(S'1961 world weightlifting championships'
+p743
+g2
+(g6
+S'5\xe9\x0c\xdd\xa0v\xd7?'
+p744
+tp745
+Rp746
+tp747
+a(S'2007 world weightlifting championships'
+p748
+g2
+(g6
+S'p\x0f\x1f\x16\xd6t\xd7?'
+p749
+tp750
+Rp751
+tp752
+a(S"2014 world judo championships \xe2\x80\x93 women's team"
+p753
+g2
+(g6
+S'\xf0\xdfi\x9c\x0er\xd7?'
+p754
+tp755
+Rp756
+tp757
+a(S'judo at the 2013 world combat games'
+p758
+g2
+(g6
+S'\xf3\xcdB7\to\xd7?'
+p759
+tp760
+Rp761
+tp762
+a(S'2003 asian weightlifting championships'
+p763
+g2
+(g6
+S'E>f\x87\xf1n\xd7?'
+p764
+tp765
+Rp766
+tp767
+a(S'1947 world weightlifting championships'
+p768
+g2
+(g6
+S'd\xc9+p\xe7n\xd7?'
+p769
+tp770
+Rp771
+tp772
+a(S'1989 world wrestling championships'
+p773
+g2
+(g6
+S'\x92\xb31\xb0\xa4n\xd7?'
+p774
+tp775
+Rp776
+tp777
+a(S'wrestling at the 1995 pan american games'
+p778
+g2
+(g6
+S'Kz\xb5\xcd\x8dn\xd7?'
+p779
+tp780
+Rp781
+tp782
+a(S'1950 world weightlifting championships'
+p783
+g2
+(g6
+S'\xde>\xbchXn\xd7?'
+p784
+tp785
+Rp786
+tp787
+a(S'2014 european sambo championships'
+p788
+g2
+(g6
+S'\x98O\xf5S\x99j\xd7?'
+p789
+tp790
+Rp791
+tp792
+a(S'1993 asian wrestling championships'
+p793
+g2
+(g6
+S'&2l\x8f\xf7i\xd7?'
+p794
+tp795
+Rp796
+tp797
+a(S'1991 asian wrestling championships'
+p798
+g2
+(g6
+S'&2l\x8f\xf7i\xd7?'
+p799
+tp800
+Rp801
+tp802
+a(S'1985 world weightlifting championships'
+p803
+g2
+(g6
+S'|\x01p>\xd6h\xd7?'
+p804
+tp805
+Rp806
+tp807
+a(S'1949 world weightlifting championships'
+p808
+g2
+(g6
+S'\xefev\xd0\x95f\xd7?'
+p809
+tp810
+Rp811
+tp812
+a(S'wrestling at the 2014 asian games'
+p813
+g2
+(g6
+S'\xf7\x13"\xa8\xc6d\xd7?'
+p814
+tp815
+Rp816
+tp817
+a(S'taekwondo at the 2014 central american and caribbean games'
+p818
+g2
+(g6
+S'+\xce\x9bq\xdcc\xd7?'
+p819
+tp820
+Rp821
+tp822
+a(S'1999 asian weightlifting championships'
+p823
+g2
+(g6
+S"\t\xd7_\xd8'c\xd7?"
+p824
+tp825
+Rp826
+tp827
+a(S'boxing at the 2013 world combat games'
+p828
+g2
+(g6
+S'\xd1.\xb9\xf6\xc9a\xd7?'
+p829
+tp830
+Rp831
+tp832
+a(S'weightlifting at the 2006 commonwealth games'
+p833
+g2
+(g6
+S'\x91\xea\x0f\xfb\x03a\xd7?'
+p834
+tp835
+Rp836
+tp837
+a(S"2014 world judo championships \xe2\x80\x93 men's team"
+p838
+g2
+(g6
+S'\x89\xc5\x05\xdd\x9e_\xd7?'
+p839
+tp840
+Rp841
+tp842
+a(S'1989 asian wrestling championships'
+p843
+g2
+(g6
+S'X\xdc\xd4\xd0r_\xd7?'
+p844
+tp845
+Rp846
+tp847
+a(S'1991 world wrestling championships'
+p848
+g2
+(g6
+S'\x1fF\xef\x9d\xcf]\xd7?'
+p849
+tp850
+Rp851
+tp852
+a(S'weightlifting at the 2014 pan american sports festival'
+p853
+g2
+(g6
+S'\xcb\xc3}\x05\x02\\\xd7?'
+p854
+tp855
+Rp856
+tp857
+a(S'weightlifting at the 2014 central american and caribbean games'
+p858
+g2
+(g6
+S'V\xff!\xb8\xf9[\xd7?'
+p859
+tp860
+Rp861
+tp862
+a(S'1995 asian wrestling championships'
+p863
+g2
+(g6
+S'\x15\x1a{\xa5\xc9Z\xd7?'
+p864
+tp865
+Rp866
+tp867
+a(S'vocotruyen at the 2016 asian beach games'
+p868
+g2
+(g6
+S'\x0eo\xafO\x1eX\xd7?'
+p869
+tp870
+Rp871
+tp872
+a(S'1992 asian wrestling championships'
+p873
+g2
+(g6
+S'1\x87\x92\x92\x11X\xd7?'
+p874
+tp875
+Rp876
+tp877
+a(S'1983 asian wrestling championships'
+p878
+g2
+(g6
+S'1\x87\x92\x92\x11X\xd7?'
+p879
+tp880
+Rp881
+tp882
+a(S'1987 asian wrestling championships'
+p883
+g2
+(g6
+S'\xcf\x9dF\xb5\xebV\xd7?'
+p884
+tp885
+Rp886
+tp887
+a(S'1980 world weightlifting championships'
+p888
+g2
+(g6
+S'CW)\xd9\x17U\xd7?'
+p889
+tp890
+Rp891
+tp892
+a(S'dub chablaigh ingen cathal'
+p893
+g2
+(g6
+S'O\xccU\xcfFR\xd7?'
+p894
+tp895
+Rp896
+tp897
+a(S'1962 world weightlifting championships'
+p898
+g2
+(g6
+S'\xa9\xcc\x98\xbd\xb9Q\xd7?'
+p899
+tp900
+Rp901
+tp902
+a(S'1959 world weightlifting championships'
+p903
+g2
+(g6
+S'\x06\xebvJ9O\xd7?'
+p904
+tp905
+Rp906
+tp907
+a(S'wrestling at the 2013 summer universiade'
+p908
+g2
+(g6
+S'\x063\x0f\x93\rO\xd7?'
+p909
+tp910
+Rp911
+tp912
+a(S'1984 world weightlifting championships'
+p913
+g2
+(g6
+S'\xff\x95\xba\x83-M\xd7?'
+p914
+tp915
+Rp916
+tp917
+a(S'taekwondo at the 2009 asian martial arts games'
+p918
+g2
+(g6
+S'p\xd3\x1a\xd4\xe5L\xd7?'
+p919
+tp920
+Rp921
+tp922
+a(S'cathal gannon'
+p923
+g2
+(g6
+S'\xfc"q\xa9uK\xd7?'
+p924
+tp925
+Rp926
+tp927
+a(S'2016 pan american taekwondo olympic qualification tournament'
+p928
+g2
+(g6
+S'09F_\xc1J\xd7?'
+p929
+tp930
+Rp931
+tp932
+a(S'2014 pan american weightlifting championships'
+p933
+g2
+(g6
+S'\x9f\x95\xd7\xe2\xbcI\xd7?'
+p934
+tp935
+Rp936
+tp937
+a(S'1987 world wrestling championships'
+p938
+g2
+(g6
+S'O\x06x\xbc|I\xd7?'
+p939
+tp940
+Rp941
+tp942
+a(S'1976 world weightlifting championships'
+p943
+g2
+(g6
+S'~\xdc\x81\xd1\xbdF\xd7?'
+p944
+tp945
+Rp946
+tp947
+a(S'2016 african taekwondo olympic qualification tournament'
+p948
+g2
+(g6
+S'\xcfS\x92B,F\xd7?'
+p949
+tp950
+Rp951
+tp952
+a(S'zarema kasayeva'
+p953
+g2
+(g6
+S'vl\x07\x0c\xa3E\xd7?'
+p954
+tp955
+Rp956
+tp957
+a(S'2016 european weightlifting championships'
+p958
+g2
+(g6
+S'\n\x87\x97\x1b\x93E\xd7?'
+p959
+tp960
+Rp961
+tp962
+a(S'taekwondo at the 2010 central american and caribbean games'
+p963
+g2
+(g6
+S"s1\x1bU'D\xd7?"
+p964
+tp965
+Rp966
+tp967
+a(S'wrestling at the 2010 commonwealth games'
+p968
+g2
+(g6
+S'\xb7\xe1$\xa4RB\xd7?'
+p969
+tp970
+Rp971
+tp972
+a(S'karate at the 2011 pan american games'
+p973
+g2
+(g6
+S'U\xbc\xe7\xdd?B\xd7?'
+p974
+tp975
+Rp976
+tp977
+a(S'2014 european taekwondo championships'
+p978
+g2
+(g6
+S'3\x02\xe7\xd3\x8e>\xd7?'
+p979
+tp980
+Rp981
+tp982
+a(S'2009 european weightlifting championships'
+p983
+g2
+(g6
+S'}\xe3$Ls=\xd7?'
+p984
+tp985
+Rp986
+tp987
+a(S'1966 world weightlifting championships'
+p988
+g2
+(g6
+S'*\xa2\xa37\xb9<\xd7?'
+p989
+tp990
+Rp991
+tp992
+a(S'2016 european taekwondo olympic qualification tournament'
+p993
+g2
+(g6
+S'\x1a?\xa3\xd2E:\xd7?'
+p994
+tp995
+Rp996
+tp997
+a(S'1996 asian wrestling championships'
+p998
+g2
+(g6
+S'}x8\x04\xd45\xd7?'
+p999
+tp1000
+Rp1001
+tp1002
+a(S'2014 european wrestling championships'
+p1003
+g2
+(g6
+S'\xb1\x8c\x1c\xcaw5\xd7?'
+p1004
+tp1005
+Rp1006
+tp1007
+a(S'wrestling at the 1996 summer olympics'
+p1008
+g2
+(g6
+S'\xca~\xc4u\x8c/\xd7?'
+p1009
+tp1010
+Rp1011
+tp1012
+a(S'2010 world combat games'
+p1013
+g2
+(g6
+S'w\x01\xc9\xba6-\xd7?'
+p1014
+tp1015
+Rp1016
+tp1017
+a(S'orders of magnitude (mass)'
+p1018
+g2
+(g6
+S'\x9e\xea@\x06,-\xd7?'
+p1019
+tp1020
+Rp1021
+tp1022
+a(S'mughron ua n\xc3\xadoc'
+p1023
+g2
+(g6
+S'HqKs\xc7)\xd7?'
+p1024
+tp1025
+Rp1026
+tp1027
+a(S'taekwondo at the 2011 pan arab games'
+p1028
+g2
+(g6
+S'\xc7\xf7\xdb\xad\x8c(\xd7?'
+p1029
+tp1030
+Rp1031
+tp1032
+a(S'1971 european weightlifting championships'
+p1033
+g2
+(g6
+S"\xf4i'\x97\xea'\xd7?"
+p1034
+tp1035
+Rp1036
+tp1037
+a(S'1994 european weightlifting championships'
+p1038
+g2
+(g6
+S"\xe4\xc7\xe7\x13\x9c'\xd7?"
+p1039
+tp1040
+Rp1041
+tp1042
+a(S'brian luighnech ua conchobhair'
+p1043
+g2
+(g6
+S'k\xfa \xc5n&\xd7?'
+p1044
+tp1045
+Rp1046
+tp1047
+a(S'1978 world wrestling championships'
+p1048
+g2
+(g6
+S'2{D\xb6\xf9$\xd7?'
+p1049
+tp1050
+Rp1051
+tp1052
+a(S'1971 world wrestling championships'
+p1053
+g2
+(g6
+S'\xb1\xc6\x1fE\x8a#\xd7?'
+p1054
+tp1055
+Rp1056
+tp1057
+a(S'2011 pan american taekwondo olympic qualification tournament'
+p1058
+g2
+(g6
+S'vZ\x93RD#\xd7?'
+p1059
+tp1060
+Rp1061
+tp1062
+a(S'1973 world wrestling championships'
+p1063
+g2
+(g6
+S'\xdc\x00\xc6\xed\xb3"\xd7?'
+p1064
+tp1065
+Rp1066
+tp1067
+a(S'1946 world weightlifting championships'
+p1068
+g2
+(g6
+S'\xe4\xa3\xc3pO"\xd7?'
+p1069
+tp1070
+Rp1071
+tp1072
+a(S'1937 world weightlifting championships'
+p1073
+g2
+(g6
+S'\xe4\xa3\xc3pO"\xd7?'
+p1074
+tp1075
+Rp1076
+tp1077
+a(S'dmitry klokov'
+p1078
+g2
+(g6
+S'\xb3\xf4\xee\xa0\xde!\xd7?'
+p1079
+tp1080
+Rp1081
+tp1082
+a(S'1997 asian wrestling championships'
+p1083
+g2
+(g6
+S'N&\x9cr\xb4!\xd7?'
+p1084
+tp1085
+Rp1086
+tp1087
+a(S'2000 asian wrestling championships'
+p1088
+g2
+(g6
+S'N&\x9cr\xb4!\xd7?'
+p1089
+tp1090
+Rp1091
+tp1092
+a(S'2016 asian wrestling championships'
+p1093
+g2
+(g6
+S'\xf0\x9c\xbdx\xa2!\xd7?'
+p1094
+tp1095
+Rp1096
+tp1097
+a(S'1979 world wrestling championships'
+p1098
+g2
+(g6
+S'T\xb6s{1 \xd7?'
+p1099
+tp1100
+Rp1101
+tp1102
+a(S'2014 asian wrestling championships'
+p1103
+g2
+(g6
+S'7q\xe0R\x0b \xd7?'
+p1104
+tp1105
+Rp1106
+tp1107
+a(S'1970 world wrestling championships'
+p1108
+g2
+(g6
+S'\xb2pa\x8b\x9c\x1e\xd7?'
+p1109
+tp1110
+Rp1111
+tp1112
+a(S'1986 world wrestling championships'
+p1113
+g2
+(g6
+S'\x99\xf4\x98hv\x1e\xd7?'
+p1114
+tp1115
+Rp1116
+tp1117
+a(S'1923 world weightlifting championships'
+p1118
+g2
+(g6
+S'\xa2\xabI\x1e\xa6\x1c\xd7?'
+p1119
+tp1120
+Rp1121
+tp1122
+a(S'aedh mac aedh breifneach \xc3\x93 conchobair'
+p1123
+g2
+(g6
+S'\x1eo^\x11\xef\x18\xd7?'
+p1124
+tp1125
+Rp1126
+tp1127
+a(S'1938 world weightlifting championships'
+p1128
+g2
+(g6
+S'\x94\x15W\t\x9e\x18\xd7?'
+p1129
+tp1130
+Rp1131
+tp1132
+a(S'2009 world judo championships'
+p1133
+g2
+(g6
+S'\xdd\xf5\xa5\x94\x1c\x13\xd7?'
+p1134
+tp1135
+Rp1136
+tp1137
+a(S'1995 european weightlifting championships'
+p1138
+g2
+(g6
+S']\xc6R\x86\x0f\x13\xd7?'
+p1139
+tp1140
+Rp1141
+tp1142
+a(S'powerlifting at the 2008 summer paralympics'
+p1143
+g2
+(g6
+S'\x12\x15\xdfe\xee\x10\xd7?'
+p1144
+tp1145
+Rp1146
+tp1147
+a(S'2012 european taekwondo olympic qualification tournament'
+p1148
+g2
+(g6
+S'\xfc\x98 \x7f\xb6\x0e\xd7?'
+p1149
+tp1150
+Rp1151
+tp1152
+a(S'2005 boxing world cup'
+p1153
+g2
+(g6
+S'\x9ef$P\x9e\x0e\xd7?'
+p1154
+tp1155
+Rp1156
+tp1157
+a(S'2011 asian taekwondo olympic qualification tournament'
+p1158
+g2
+(g6
+S'2\xb2\xcar\xc2\x0b\xd7?'
+p1159
+tp1160
+Rp1161
+tp1162
+a(S'1999 asian wrestling championships'
+p1163
+g2
+(g6
+S'\x88\x96\xe1\x95\x1d\x0b\xd7?'
+p1164
+tp1165
+Rp1166
+tp1167
+a(S'marko yli-hannuksela'
+p1168
+g2
+(g6
+S'\xe7\xb1&!@\x08\xd7?'
+p1169
+tp1170
+Rp1171
+tp1172
+a(S'2001 asian wrestling championships'
+p1173
+g2
+(g6
+S'\xb6\x9d\xb8\xc1\t\x07\xd7?'
+p1174
+tp1175
+Rp1176
+tp1177
+a(S'2004 asian wrestling championships'
+p1178
+g2
+(g6
+S"2['\xa5\xae\x06\xd7?"
+p1179
+tp1180
+Rp1181
+tp1182
+a(S'wrestling at the 2003 pan american games'
+p1183
+g2
+(g6
+S'\xb4_\xea\x10\xff\x05\xd7?'
+p1184
+tp1185
+Rp1186
+tp1187
+a(S'2008 asian wrestling championships'
+p1188
+g2
+(g6
+S'A\xba\xa3m\x95\x05\xd7?'
+p1189
+tp1190
+Rp1191
+tp1192
+a(S'1993 world wrestling championships'
+p1193
+g2
+(g6
+S'\xc4!9\xed\xf4\x04\xd7?'
+p1194
+tp1195
+Rp1196
+tp1197
+a(S'2015 asian wrestling championships'
+p1198
+g2
+(g6
+S'\x02\x11\x9b\xfb}\x03\xd7?'
+p1199
+tp1200
+Rp1201
+tp1202
+a(S'2016 african boxing olympic qualification tournament'
+p1203
+g2
+(g6
+S'\x14\xaa\\\xd7M\x03\xd7?'
+p1204
+tp1205
+Rp1206
+tp1207
+a(S'2014 world weightlifting championships'
+p1208
+g2
+(g6
+S'\xa6\x8aM\x03\xce\x02\xd7?'
+p1209
+tp1210
+Rp1211
+tp1212
+a(S'1995 world wrestling championships'
+p1213
+g2
+(g6
+S'\xb0\x16\x89"\x05\x02\xd7?'
+p1214
+tp1215
+Rp1216
+tp1217
+a(S'weightlifting at the 2014 commonwealth games'
+p1218
+g2
+(g6
+S'\x86\xa8[\xb8\xee\x01\xd7?'
+p1219
+tp1220
+Rp1221
+tp1222
+a(S"list of united states women's national weightlifting champions"
+p1223
+g2
+(g6
+S'\xab"\xb5\x95e\x01\xd7?'
+p1224
+tp1225
+Rp1226
+tp1227
+a(S'wrestling at the 2011 pan arab games'
+p1228
+g2
+(g6
+S' \x82w\xff\xa2\x00\xd7?'
+p1229
+tp1230
+Rp1231
+tp1232
+a(S'muay at the 2016 asian beach games'
+p1233
+g2
+(g6
+S'+\xc8v\xc56\xff\xd6?'
+p1234
+tp1235
+Rp1236
+tp1237
+a(S'1969 world wrestling championships'
+p1238
+g2
+(g6
+S'\xe4i\xa8\xc1\x08\xfb\xd6?'
+p1239
+tp1240
+Rp1241
+tp1242
+a(S'1994 world wrestling championships'
+p1243
+g2
+(g6
+S'Z}\xfd\x85\x83\xfa\xd6?'
+p1244
+tp1245
+Rp1246
+tp1247
+a(S'1990 world wrestling championships'
+p1248
+g2
+(g6
+S'\xf9K\xa2\xeb\x0c\xf8\xd6?'
+p1249
+tp1250
+Rp1251
+tp1252
+a(S'2003 asian wrestling championships'
+p1253
+g2
+(g6
+S'\xdd^\x9e\xe6f\xf7\xd6?'
+p1254
+tp1255
+Rp1256
+tp1257
+a(S'2005 asian wrestling championships'
+p1258
+g2
+(g6
+S'/"\xef\x7f\xbb\xf3\xd6?'
+p1259
+tp1260
+Rp1261
+tp1262
+a(S'judo at the 2014 central american and caribbean games'
+p1263
+g2
+(g6
+S'\x1a\xab\x88\x06\xf4\xef\xd6?'
+p1264
+tp1265
+Rp1266
+tp1267
+a(S'2009 asian wrestling championships'
+p1268
+g2
+(g6
+S'T\xdb\xc92\xdf\xee\xd6?'
+p1269
+tp1270
+Rp1271
+tp1272
+a(S'weightlifting at the 2010 commonwealth games'
+p1273
+g2
+(g6
+S'X\xdbxC\x8a\xed\xd6?'
+p1274
+tp1275
+Rp1276
+tp1277
+a(S'2013 world weightlifting championships'
+p1278
+g2
+(g6
+S'\x89:\xa7pT\xec\xd6?'
+p1279
+tp1280
+Rp1281
+tp1282
+a(S'cathal gurrin'
+p1283
+g2
+(g6
+S'\xcd\xf6\xe2\xc09\xec\xd6?'
+p1284
+tp1285
+Rp1286
+tp1287
+a(S'\xc3\x93 flaithbheartaigh'
+p1288
+g2
+(g6
+S'#\xf55m\x88\xea\xd6?'
+p1289
+tp1290
+Rp1291
+tp1292
+a(S'2006 world wrestling championships'
+p1293
+g2
+(g6
+S'\x8eU\xac\xf9\xd7\xe6\xd6?'
+p1294
+tp1295
+Rp1296
+tp1297
+a(S'2007 asian wrestling championships'
+p1298
+g2
+(g6
+S'\x98\x17\xc0S\xc3\xe5\xd6?'
+p1299
+tp1300
+Rp1301
+tp1302
+a(S'wrestling at the 2015 european games'
+p1303
+g2
+(g6
+S'pR\xdd\xed\xad\xe5\xd6?'
+p1304
+tp1305
+Rp1306
+tp1307
+a(S'2011 asian wrestling championships'
+p1308
+g2
+(g6
+S'\xd9\xbc\xaf\x0cO\xe4\xd6?'
+p1309
+tp1310
+Rp1311
+tp1312
+a(S'2006 pan american judo championships'
+p1313
+g2
+(g6
+S'\xf5~\x91\xfa\xab\xe3\xd6?'
+p1314
+tp1315
+Rp1316
+tp1317
+a(S'wrestling at the 1992 summer olympics'
+p1318
+g2
+(g6
+S'\x1a7\n\x01\xfc\xe2\xd6?'
+p1319
+tp1320
+Rp1321
+tp1322
+a(S'karate at the 2009 asian martial arts games'
+p1323
+g2
+(g6
+S'(.9\xebb\xe0\xd6?'
+p1324
+tp1325
+Rp1326
+tp1327
+a(S'2010 world wrestling championships'
+p1328
+g2
+(g6
+S'\xfc?\xb9\xeb>\xdf\xd6?'
+p1329
+tp1330
+Rp1331
+tp1332
+a(S'2010 asian wrestling championships'
+p1333
+g2
+(g6
+S'?\xe7\xe4\xc9W\xda\xd6?'
+p1334
+tp1335
+Rp1336
+tp1337
+a(S'powerlifting at the summer paralympics'
+p1338
+g2
+(g6
+S'\x1b%k\x0f\x0f\xd9\xd6?'
+p1339
+tp1340
+Rp1341
+tp1342
+a(S'muay at the 2009 asian martial arts games'
+p1343
+g2
+(g6
+S'\xf0N\x08B\x86\xcf\xd6?'
+p1344
+tp1345
+Rp1346
+tp1347
+a(S'2008 pan american judo championships'
+p1348
+g2
+(g6
+S'b\x8f\x1ai\xcb\xce\xd6?'
+p1349
+tp1350
+Rp1351
+tp1352
+a(S'cathal m\xc3\xa1g samhradh\xc3\xa1in'
+p1353
+g2
+(g6
+S'J0~\x8e\xa9\xca\xd6?'
+p1354
+tp1355
+Rp1356
+tp1357
+a(S'2007 world wrestling championships'
+p1358
+g2
+(g6
+S'vUV\xe2>\xc7\xd6?'
+p1359
+tp1360
+Rp1361
+tp1362
+a(S'2013 asian wrestling championships'
+p1363
+g2
+(g6
+S'MNM\xad+\xc7\xd6?'
+p1364
+tp1365
+Rp1366
+tp1367
+a(S'weightlifting at the 2003 southeast asian games'
+p1368
+g2
+(g6
+S'\x1f*^\xb6\xb4\xc6\xd6?'
+p1369
+tp1370
+Rp1371
+tp1372
+a(S'2012 asian wrestling championships'
+p1373
+g2
+(g6
+S'\xef\x117Z\xf5\xc5\xd6?'
+p1374
+tp1375
+Rp1376
+tp1377
+a(S'ruadhri ua flaithbertaigh'
+p1378
+g2
+(g6
+S'\xbc\xa4]7\xd6\xc5\xd6?'
+p1379
+tp1380
+Rp1381
+tp1382
+a(S'2013 european wrestling championships'
+p1383
+g2
+(g6
+S'\xeb\x81\x89\x12\xb0\xbe\xd6?'
+p1384
+tp1385
+Rp1386
+tp1387
+a(S'kickboxing at the 2007 asian indoor games'
+p1388
+g2
+(g6
+S'S\xcf\x03\xef\xd7\xbd\xd6?'
+p1389
+tp1390
+Rp1391
+tp1392
+a(S'2006 asian wrestling championships'
+p1393
+g2
+(g6
+S'\r\xb5+#\xad\xbb\xd6?'
+p1394
+tp1395
+Rp1396
+tp1397
+a(S'powerlifting at the 2004 summer paralympics'
+p1398
+g2
+(g6
+S'\xe3\x88\x95R\xe1\xb5\xd6?'
+p1399
+tp1400
+Rp1401
+tp1402
+a(S'2011 world wrestling championships'
+p1403
+g2
+(g6
+S'\x85\x16\x11\xdb\xd3\xb4\xd6?'
+p1404
+tp1405
+Rp1406
+tp1407
+a(S'boxing at the 2013 southeast asian games'
+p1408
+g2
+(g6
+S'm.E)\x8a\xb3\xd6?'
+p1409
+tp1410
+Rp1411
+tp1412
+a(S'2002 commonwealth games results'
+p1413
+g2
+(g6
+S'\xcb\x96\xf1Bc\xb3\xd6?'
+p1414
+tp1415
+Rp1416
+tp1417
+a(S'powerlifting at the 2012 summer paralympics'
+p1418
+g2
+(g6
+S'\xebR\x85\xb0#\xb2\xd6?'
+p1419
+tp1420
+Rp1421
+tp1422
+a(S'2005 pan american judo championships'
+p1423
+g2
+(g6
+S'\xdfD\xb4\x93I\xb1\xd6?'
+p1424
+tp1425
+Rp1426
+tp1427
+a(S'oksana slivenko'
+p1428
+g2
+(g6
+S'\x98\xe4\x0b\xeaL\xb0\xd6?'
+p1429
+tp1430
+Rp1431
+tp1432
+a(S'brian breifneach ua conchobair'
+p1433
+g2
+(g6
+S'\x8c\xe7\x01K\xdf\xaf\xd6?'
+p1434
+tp1435
+Rp1436
+tp1437
+a(S'muay at the 2009 asian indoor games'
+p1438
+g2
+(g6
+S'\x01\xf7\xd3\xeb\xc9\xae\xd6?'
+p1439
+tp1440
+Rp1441
+tp1442
+a(S'muay at the 2014 asian beach games'
+p1443
+g2
+(g6
+S'\xa0\x0c\x87R\xe6\xad\xd6?'
+p1444
+tp1445
+Rp1446
+tp1447
+a(S'2011 world weightlifting championships'
+p1448
+g2
+(g6
+S'\xfc\xa9(\n\r\xad\xd6?'
+p1449
+tp1450
+Rp1451
+tp1452
+a(S'2009 pan american judo championships'
+p1453
+g2
+(g6
+S'\xb2\x88-}G\xac\xd6?'
+p1454
+tp1455
+Rp1456
+tp1457
+a(S'2005 world wrestling championships'
+p1458
+g2
+(g6
+S'\xae\x9e3\x01!\xac\xd6?'
+p1459
+tp1460
+Rp1461
+tp1462
+a(S'muay thai at the 2013 world combat games'
+p1463
+g2
+(g6
+S'\x008\xa2vN\xab\xd6?'
+p1464
+tp1465
+Rp1466
+tp1467
+a(S'weightlifting at the 2011 summer universiade'
+p1468
+g2
+(g6
+S'9<\x1c\xd6N\xaa\xd6?'
+p1469
+tp1470
+Rp1471
+tp1472
+a(S'conchobar ua conchobair'
+p1473
+g2
+(g6
+S'\xc6\x0f\xe2\xa1\xd6\xa6\xd6?'
+p1474
+tp1475
+Rp1476
+tp1477
+a(S'paralympic powerlifting'
+p1478
+g2
+(g6
+S'\xe8\xb03\xd3\xd1\xa3\xd6?'
+p1479
+tp1480
+Rp1481
+tp1482
+a(S'cathal mac ruaidhri'
+p1483
+g2
+(g6
+S'\x85\xb2\xc7\xfb!\xa3\xd6?'
+p1484
+tp1485
+Rp1486
+tp1487
+a(S'1985 world wrestling championships'
+p1488
+g2
+(g6
+S'$2\x83\x9d\xfb\xa1\xd6?'
+p1489
+tp1490
+Rp1491
+tp1492
+a(S'muay at the 2005 asian indoor games'
+p1493
+g2
+(g6
+S'\xfc\xb1\xb5\xf7\xe3\xa0\xd6?'
+p1494
+tp1495
+Rp1496
+tp1497
+a(S'weightlifting at the 2011 pan american games'
+p1498
+g2
+(g6
+S'5\x9c0H\n\x9e\xd6?'
+p1499
+tp1500
+Rp1501
+tp1502
+a(S'muay at the 2013 asian indoor and martial arts games'
+p1503
+g2
+(g6
+S'+\xf5\x9cv<\x9a\xd6?'
+p1504
+tp1505
+Rp1506
+tp1507
+a(S'2004 pan american judo championships'
+p1508
+g2
+(g6
+S'\x06R\x91w\x90\x97\xd6?'
+p1509
+tp1510
+Rp1511
+tp1512
+a.

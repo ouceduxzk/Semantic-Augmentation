@@ -1,0 +1,2728 @@
+(lp0
+(S'india'
+p1
+cnumpy.core.multiarray
+scalar
+p2
+(cnumpy
+dtype
+p3
+(S'f8'
+p4
+I0
+I1
+tp5
+Rp6
+(I3
+S'<'
+p7
+NNNI-1
+I-1
+I0
+tp8
+bS'\xe8\xff\xff\xff\xff\xff\xef?'
+p9
+tp10
+Rp11
+tp12
+a(S'outline of india'
+p13
+g2
+(g6
+S'`[\xcd\x1au\xe7\xe9?'
+p14
+tp15
+Rp16
+tp17
+a(S'india as an emerging superpower'
+p18
+g2
+(g6
+S'\x07@\xde\xa6:\x7f\xe8?'
+p19
+tp20
+Rp21
+tp22
+a(S'culture of india'
+p23
+g2
+(g6
+S'\xefl\x9e\r\xc4\x17\xe8?'
+p24
+tp25
+Rp26
+tp27
+a(S'foreign relations of india'
+p28
+g2
+(g6
+S'\x10\xa4\xb9+\xd1\xce\xe7?'
+p29
+tp30
+Rp31
+tp32
+a(S'economy of india'
+p33
+g2
+(g6
+S'\xf4\xe7x\x0f\xb4\x86\xe6?'
+p34
+tp35
+Rp36
+tp37
+a(S'british raj'
+p38
+g2
+(g6
+S'\xc7\xe0\x90\xe3y\x81\xe6?'
+p39
+tp40
+Rp41
+tp42
+a(S'economic history of india'
+p43
+g2
+(g6
+S'\xe6M\x04n\xc6U\xe6?'
+p44
+tp45
+Rp46
+tp47
+a(S'india\xe2\x80\x93united states relations'
+p48
+g2
+(g6
+S'C\xd3\n\x0bR\xeb\xe5?'
+p49
+tp50
+Rp51
+tp52
+a(S'india (disambiguation)'
+p53
+g2
+(g6
+S'\xcb\xef|\xec\x1cp\xe5?'
+p54
+tp55
+Rp56
+tp57
+a(S'history of the republic of india'
+p58
+g2
+(g6
+S'\x878\xc8\x03\x03\x10\xe5?'
+p59
+tp60
+Rp61
+tp62
+a(S'india\xe2\x80\x93united kingdom relations'
+p63
+g2
+(g6
+S'K\xca\\\xfeJ\xce\xe4?'
+p64
+tp65
+Rp66
+tp67
+a(S'indian people'
+p68
+g2
+(g6
+S't>h\t\x1c\xa4\xe4?'
+p69
+tp70
+Rp71
+tp72
+a(S'history of india'
+p73
+g2
+(g6
+S'\xa0j\xd1\x0f\xcd1\xe4?'
+p74
+tp75
+Rp76
+tp77
+a(S'indian century'
+p78
+g2
+(g6
+S'\xdd\x94\xcd\xfe&\xe7\xe3?'
+p79
+tp80
+Rp81
+tp82
+a(S'india\xe2\x80\x93european union relations'
+p83
+g2
+(g6
+S"\xa8~'\xcb\xbc\xa4\xe3?"
+p84
+tp85
+Rp86
+tp87
+a(S'history of the british raj'
+p88
+g2
+(g6
+S'ni15+\x92\xe3?'
+p89
+tp90
+Rp91
+tp92
+a(S'all india'
+p93
+g2
+(g6
+S'\xbb\xb9\xf6C\xc4c\xe3?'
+p94
+tp95
+Rp96
+tp97
+a(S'economic development in india'
+p98
+g2
+(g6
+S'\xa6M\xcaNVA\xe3?'
+p99
+tp100
+Rp101
+tp102
+a(S'challenger trophy in 2005\xe2\x80\x9306'
+p103
+g2
+(g6
+S'\xf6`\xa5\xe1\x9f>\xe3?'
+p104
+tp105
+Rp106
+tp107
+a(S'india (given name)'
+p108
+g2
+(g6
+S'\xe88\xca\x00\xbf:\xe3?'
+p109
+tp110
+Rp111
+tp112
+a(S'indian independence movement'
+p113
+g2
+(g6
+S'\x05\xce\x0b\xfb\xdc2\xe3?'
+p114
+tp115
+Rp116
+tp117
+a(S'india office'
+p118
+g2
+(g6
+S' \x9d\x07T\xfa\xec\xe2?'
+p119
+tp120
+Rp121
+tp122
+a(S'nkp salve challenger trophy'
+p123
+g2
+(g6
+S'n\xb1C\xb4\xc9\xe8\xe2?'
+p124
+tp125
+Rp126
+tp127
+a(S'government of india act 1858'
+p128
+g2
+(g6
+S'\xb8\x95\x93\x88G\xe5\xe2?'
+p129
+tp130
+Rp131
+tp132
+a(S'sport in india'
+p133
+g2
+(g6
+S'p\xc9(x!\xce\xe2?'
+p134
+tp135
+Rp136
+tp137
+a(S'east india company'
+p138
+g2
+(g6
+S"\xd2\xbe\xa68'\xc9\xe2?"
+p139
+tp140
+Rp141
+tp142
+a(S'religion in india'
+p143
+g2
+(g6
+S'\x80\xffz<\t\xb7\xe2?'
+p144
+tp145
+Rp146
+tp147
+a(S'india house'
+p148
+g2
+(g6
+S'iU\x95\xc6\x9fs\xe2?'
+p149
+tp150
+Rp151
+tp152
+a(S'military history of india'
+p153
+g2
+(g6
+S'B\x10\x96\xa7`J\xe2?'
+p154
+tp155
+Rp156
+tp157
+a(S'we the people (indian tv series)'
+p158
+g2
+(g6
+S'\xa8\x85\xeb\xde0I\xe2?'
+p159
+tp160
+Rp161
+tp162
+a(S'dadabhai naoroji'
+p163
+g2
+(g6
+S'u\xf6\x10\x81iF\xe2?'
+p164
+tp165
+Rp166
+tp167
+a(S'canada\xe2\x80\x93india relations'
+p168
+g2
+(g6
+S'\xb6\x9b\xcd\xca1\x1f\xe2?'
+p169
+tp170
+Rp171
+tp172
+a(S'2010 in india'
+p173
+g2
+(g6
+S'j\x00rk3\x1e\xe2?'
+p174
+tp175
+Rp176
+tp177
+a(S'colonial india'
+p178
+g2
+(g6
+S'\xe677E$\x1c\xe2?'
+p179
+tp180
+Rp181
+tp182
+a(S'east india company (disambiguation)'
+p183
+g2
+(g6
+S'\x10\xb9&\xf5(\x13\xe2?'
+p184
+tp185
+Rp186
+tp187
+a(S'mumbai consensus'
+p188
+g2
+(g6
+S'\x06\xaf\xa5\x0eZ\xf1\xe1?'
+p189
+tp190
+Rp191
+tp192
+a(S'china\xe2\x80\x93india relations'
+p193
+g2
+(g6
+S'\xab\xceN\xe3\xea\xe6\xe1?'
+p194
+tp195
+Rp196
+tp197
+a(S'fauna of india'
+p198
+g2
+(g6
+S"\xa5\x1e'\x16\x9c\xe6\xe1?"
+p199
+tp200
+Rp201
+tp202
+a(S'africa\xe2\x80\x93india relations'
+p203
+g2
+(g6
+S'+Z}\x1ci\xb3\xe1?'
+p204
+tp205
+Rp206
+tp207
+a(S'india\xe2\x80\x93russia relations'
+p208
+g2
+(g6
+S'\xfd\xc7=]\x06\x96\xe1?'
+p209
+tp210
+Rp211
+tp212
+a(S'wildlife of the indian subcontinent'
+p213
+g2
+(g6
+S'A<GM\xfe|\xe1?'
+p214
+tp215
+Rp216
+tp217
+a(S'political warfare in british colonial india'
+p218
+g2
+(g6
+S'2ZH\x94jb\xe1?'
+p219
+tp220
+Rp221
+tp222
+a(S'india\xe2\x80\x93japan relations'
+p223
+g2
+(g6
+S'\x0f\x98\xbaa1]\xe1?'
+p224
+tp225
+Rp226
+tp227
+a(S'france\xe2\x80\x93india relations'
+p228
+g2
+(g6
+S'c\xa0i\xe4\nV\xe1?'
+p229
+tp230
+Rp231
+tp232
+a(S'anti-indian sentiment'
+p233
+g2
+(g6
+S'\xa5\xaad\xe4\xca,\xe1?'
+p234
+tp235
+Rp236
+tp237
+a(S'agriculture in india'
+p238
+g2
+(g6
+S'On]2P\x1e\xe1?'
+p239
+tp240
+Rp241
+tp242
+a(S'engineering exports promotion council'
+p243
+g2
+(g6
+S'\xc0M\x01Q\xf6\x14\xe1?'
+p244
+tp245
+Rp246
+tp247
+a(S'brand india'
+p248
+g2
+(g6
+S'*\xd3\xfcr\xcc\xf3\xe0?'
+p249
+tp250
+Rp251
+tp252
+a(S'social issues in india'
+p253
+g2
+(g6
+S'\x13\x9bd2#\xeb\xe0?'
+p254
+tp255
+Rp256
+tp257
+a(S'science and technology in india'
+p258
+g2
+(g6
+S'\xc4\x95\xa3^Y\xe5\xe0?'
+p259
+tp260
+Rp261
+tp262
+a(S'list of firsts in india'
+p263
+g2
+(g6
+S'\xa7OpH\x17\xc9\xe0?'
+p264
+tp265
+Rp266
+tp267
+a(S'north india'
+p268
+g2
+(g6
+S'\x87\x05\xaad\xa0\xc0\xe0?'
+p269
+tp270
+Rp271
+tp272
+a(S'british india (disambiguation)'
+p273
+g2
+(g6
+S'j\tf\x88p\xbd\xe0?'
+p274
+tp275
+Rp276
+tp277
+a(S'company rule in india'
+p278
+g2
+(g6
+S'\x19\xb8B\xf5\xb5\xbc\xe0?'
+p279
+tp280
+Rp281
+tp282
+a(S'list of postage stamps of india (2005\xe2\x80\x9309)'
+p283
+g2
+(g6
+S'\xd6g\x84y\x1c\xbb\xe0?'
+p284
+tp285
+Rp286
+tp287
+a(S'1947 in india'
+p288
+g2
+(g6
+S'\xd8e5z\xe4\xb0\xe0?'
+p289
+tp290
+Rp291
+tp292
+a(S"senior women's challenger trophy"
+p293
+g2
+(g6
+S'\xeey\x1ffA\x9d\xe0?'
+p294
+tp295
+Rp296
+tp297
+a(S'islam in india'
+p298
+g2
+(g6
+S"'\xea\xcb\x93\x9b\x95\xe0?"
+p299
+tp300
+Rp301
+tp302
+a(S'indomania'
+p303
+g2
+(g6
+S'\x11\x8e\xcf\xe0\xb0\x93\xe0?'
+p304
+tp305
+Rp306
+tp307
+a(S'indian armed forces'
+p308
+g2
+(g6
+S'\xfc\x1d#\xfb\x1e\x90\xe0?'
+p309
+tp310
+Rp311
+tp312
+a(S'women in india'
+p313
+g2
+(g6
+S'j\x03\x9c\x8e\xfc\x89\xe0?'
+p314
+tp315
+Rp316
+tp317
+a(S'india and the united nations'
+p318
+g2
+(g6
+S'\x8eX\xe5\xeb\xf8\x88\xe0?'
+p319
+tp320
+Rp321
+tp322
+a(S'geography of india'
+p323
+g2
+(g6
+S'\xa1W\x14O\xd8u\xe0?'
+p324
+tp325
+Rp326
+tp327
+a(S'australia\xe2\x80\x93india relations'
+p328
+g2
+(g6
+S'|\x81\xd2\xdd1u\xe0?'
+p329
+tp330
+Rp331
+tp332
+a(S'government of india'
+p333
+g2
+(g6
+S'd\xcf\x19?\x8es\xe0?'
+p334
+tp335
+Rp336
+tp337
+a(S'army of india'
+p338
+g2
+(g6
+S'\xd6<\xb7\x13\x8a^\xe0?'
+p339
+tp340
+Rp341
+tp342
+a(S'india\xe2\x80\x99s \xe2\x80\x98connect central asia\xe2\x80\x99 policy'
+p343
+g2
+(g6
+S'\r%\x7f\xd4\x85M\xe0?'
+p344
+tp345
+Rp346
+tp347
+a(S'government of india act'
+p348
+g2
+(g6
+S'\xe0\x00\xd0\x0e\xd0@\xe0?'
+p349
+tp350
+Rp351
+tp352
+a(S'demographics of india'
+p353
+g2
+(g6
+S'\x11\\k\xc6\xbb6\xe0?'
+p354
+tp355
+Rp356
+tp357
+a(S'east india (disambiguation)'
+p358
+g2
+(g6
+S'\x08\xeb\x10\x9bN5\xe0?'
+p359
+tp360
+Rp361
+tp362
+a(S'mother india (disambiguation)'
+p363
+g2
+(g6
+S'Y\xa2\xd7Y\x05(\xe0?'
+p364
+tp365
+Rp366
+tp367
+a(S'2009 in india'
+p368
+g2
+(g6
+S'\xeb\xe8\x8e\xd7\xe8\x1c\xe0?'
+p369
+tp370
+Rp371
+tp372
+a(S'look east policy (india)'
+p373
+g2
+(g6
+S'\xbaj\xce\x9a\xe3\x1b\xe0?'
+p374
+tp375
+Rp376
+tp377
+a(S'indian independence'
+p378
+g2
+(g6
+S'\xfa:\xaaQ\x92\x1b\xe0?'
+p379
+tp380
+Rp381
+tp382
+a(S'wildlife of india'
+p383
+g2
+(g6
+S'\x02\x8e%\xcb\xd0\x18\xe0?'
+p384
+tp385
+Rp386
+tp387
+a(S'standard of living in india'
+p388
+g2
+(g6
+S'&\xc4\xaa\xfe\x96\x01\xe0?'
+p389
+tp390
+Rp391
+tp392
+a(S'history of sexuality in india'
+p393
+g2
+(g6
+S'{A}\xc1N\xd1\xdf?'
+p394
+tp395
+Rp396
+tp397
+a(S'daniel thorner'
+p398
+g2
+(g6
+S'\xd8\xcf\xc4\xdb\xec\xcb\xdf?'
+p399
+tp400
+Rp401
+tp402
+a(S'history of indian football'
+p403
+g2
+(g6
+S'\xea\x12\xad8\xb2\xc2\xdf?'
+p404
+tp405
+Rp406
+tp407
+a(S'south india'
+p408
+g2
+(g6
+S'\x16\xa1\x03e%\xbe\xdf?'
+p409
+tp410
+Rp411
+tp412
+a(S'india\xe2\x80\x93italy relations'
+p413
+g2
+(g6
+S'\x15\xd6\x96\x15\xa6\xb7\xdf?'
+p414
+tp415
+Rp416
+tp417
+a(S'indian maritime history'
+p418
+g2
+(g6
+S'v\xa0\x1f\x87\xb8\xb1\xdf?'
+p419
+tp420
+Rp421
+tp422
+a(S'little india'
+p423
+g2
+(g6
+S'\xa5\xa9\xa62:\x97\xdf?'
+p424
+tp425
+Rp426
+tp427
+a(S'germany\xe2\x80\x93india relations'
+p428
+g2
+(g6
+S'\x9a@\xfb{\x90\x93\xdf?'
+p429
+tp430
+Rp431
+tp432
+a(S'india\xe2\x80\x93pakistan relations'
+p433
+g2
+(g6
+S'\x99\x8f\x97\x05Q\x90\xdf?'
+p434
+tp435
+Rp436
+tp437
+a(S'politics of india'
+p438
+g2
+(g6
+S'\xad\x1eq-J\x86\xdf?'
+p439
+tp440
+Rp441
+tp442
+a(S'history of education in the indian subcontinent'
+p443
+g2
+(g6
+S' \xe2\xbb\xd9\xe8\x81\xdf?'
+p444
+tp445
+Rp446
+tp447
+a(S'india\xe2\x80\x93israel relations'
+p448
+g2
+(g6
+S'\xcb\xb0\xb2\xaf\xafw\xdf?'
+p449
+tp450
+Rp451
+tp452
+a(S'education in india'
+p453
+g2
+(g6
+S'\xc0\x96\x87\x06{k\xdf?'
+p454
+tp455
+Rp456
+tp457
+a(S'dominion of india'
+p458
+g2
+(g6
+S'\x08-tYM]\xdf?'
+p459
+tp460
+Rp461
+tp462
+a(S'flora of india'
+p463
+g2
+(g6
+S'\xfeclH\xdfU\xdf?'
+p464
+tp465
+Rp466
+tp467
+a(S'air india limited'
+p468
+g2
+(g6
+S'\xf6\xd6\x98z\xbbS\xdf?'
+p469
+tp470
+Rp471
+tp472
+a(S'names of india'
+p473
+g2
+(g6
+S'\xb5\x08a\x06q9\xdf?'
+p474
+tp475
+Rp476
+tp477
+a(S'political integration of india'
+p478
+g2
+(g6
+S'\xd8\x08\n\xd1c&\xdf?'
+p479
+tp480
+Rp481
+tp482
+a(S'make in india'
+p483
+g2
+(g6
+S']}\xb0\x1ac\x1b\xdf?'
+p484
+tp485
+Rp486
+tp487
+a(S'arts and entertainment in india'
+p488
+g2
+(g6
+S'\xd7pR[\xdc\x19\xdf?'
+p489
+tp490
+Rp491
+tp492
+a(S'india in world war ii'
+p493
+g2
+(g6
+S'7\xf9\xd3\x9bS\x11\xdf?'
+p494
+tp495
+Rp496
+tp497
+a(S'india\xe2\x80\x93sweden relations'
+p498
+g2
+(g6
+S'\x9f5(\x8a\xda\x02\xdf?'
+p499
+tp500
+Rp501
+tp502
+a(S'defence of india act'
+p503
+g2
+(g6
+S'\x01\x9f\xb5>\xd0\xfe\xde?'
+p504
+tp505
+Rp506
+tp507
+a(S'indian nationalism'
+p508
+g2
+(g6
+S'\x93\xe3\x96\xb2\xf6\xfc\xde?'
+p509
+tp510
+Rp511
+tp512
+a(S'contents of the united states diplomatic cables leak (india)'
+p513
+g2
+(g6
+S'R\xfe=\x1d\xa6\xf5\xde?'
+p514
+tp515
+Rp516
+tp517
+a(S'indian institute of technology (disambiguation)'
+p518
+g2
+(g6
+S'\x1a\xb6\x17><\xa4\xde?'
+p519
+tp520
+Rp521
+tp522
+a(S'socialism in india'
+p523
+g2
+(g6
+S'\x06\xac\x9a\xbf#\xa3\xde?'
+p524
+tp525
+Rp526
+tp527
+a(S'list of indian mutiny victoria cross recipients'
+p528
+g2
+(g6
+S'.O>Y\xb5\x9a\xde?'
+p529
+tp530
+Rp531
+tp532
+a(S'list of indian inventions and discoveries'
+p533
+g2
+(g6
+S'(^\x9d\xf5\xb1\x98\xde?'
+p534
+tp535
+Rp536
+tp537
+a(S'india general service medal'
+p538
+g2
+(g6
+S'\xe6cUv7\x8d\xde?'
+p539
+tp540
+Rp541
+tp542
+a(S'census of india'
+p543
+g2
+(g6
+S'}\xce\xd5ae\x88\xde?'
+p544
+tp545
+Rp546
+tp547
+a(S'air india regional'
+p548
+g2
+(g6
+S'\xea8\xf32@S\xde?'
+p549
+tp550
+Rp551
+tp552
+a(S'india house (colombo)'
+p553
+g2
+(g6
+S'\x15j\x1e*\xaeL\xde?'
+p554
+tp555
+Rp556
+tp557
+a(S'history of agriculture in the indian subcontinent'
+p558
+g2
+(g6
+S'\xb3\xfe9\xdewL\xde?'
+p559
+tp560
+Rp561
+tp562
+a(S'madan mohan sabharwal'
+p563
+g2
+(g6
+S'\x7f\x98X\xbat7\xde?'
+p564
+tp565
+Rp566
+tp567
+a(S'indian civil service (british india)'
+p568
+g2
+(g6
+S'\x1f\x18\x19\xafL+\xde?'
+p569
+tp570
+Rp571
+tp572
+a(S'italians in india'
+p573
+g2
+(g6
+S"\xb7F\xc9\x8f\xda'\xde?"
+p574
+tp575
+Rp576
+tp577
+a(S'tourism in india'
+p578
+g2
+(g6
+S"K'\xb5\xd8W$\xde?"
+p579
+tp580
+Rp581
+tp582
+a(S'history of science and technology in the indian subcontinent'
+p583
+g2
+(g6
+S'\x87u\x15\x1c^\x14\xde?'
+p584
+tp585
+Rp586
+tp587
+a(S'economy of india under the british raj'
+p588
+g2
+(g6
+S'\x19\xd2\xc4 \xd5\x12\xde?'
+p589
+tp590
+Rp591
+tp592
+a(S'media of india'
+p593
+g2
+(g6
+S'K\xf2%/\xa5\x11\xde?'
+p594
+tp595
+Rp596
+tp597
+a(S'sujan r. chinoy'
+p598
+g2
+(g6
+S'W\xea\xd6\x10C\x07\xde?'
+p599
+tp600
+Rp601
+tp602
+a(S'kshitish chandra neogy'
+p603
+g2
+(g6
+S'\x00\x8b\x86\xacL\xea\xdd?'
+p604
+tp605
+Rp606
+tp607
+a(S'shashi tharoor'
+p608
+g2
+(g6
+S'\x1f\xdfE<R\xe8\xdd?'
+p609
+tp610
+Rp611
+tp612
+a(S'think india'
+p613
+g2
+(g6
+S'(\x9b}C\xbf\xdd\xdd?'
+p614
+tp615
+Rp616
+tp617
+a(S'india office records'
+p618
+g2
+(g6
+S'\xe7q\x86\xc0\xe5\xdc\xdd?'
+p619
+tp620
+Rp621
+tp622
+a(S'deepak bhojwani'
+p623
+g2
+(g6
+S'YuLZ]\xd8\xdd?'
+p624
+tp625
+Rp626
+tp627
+a(S'india-west'
+p628
+g2
+(g6
+S'P\xf4\xa5Q)\xd7\xdd?'
+p629
+tp630
+Rp631
+tp632
+a(S'united states india political action committee'
+p633
+g2
+(g6
+S'\x18\xb9\x00\xc3$\xc6\xdd?'
+p634
+tp635
+Rp636
+tp637
+a(S'sam pitroda'
+p638
+g2
+(g6
+S'\xb5\xfe\xe5\xd1\x0f\xbc\xdd?'
+p639
+tp640
+Rp641
+tp642
+a(S'india\xe2\x80\x93palestine relations'
+p643
+g2
+(g6
+S'\x9aS5\xd4\xb0\xa5\xdd?'
+p644
+tp645
+Rp646
+tp647
+a(S'transport in india'
+p648
+g2
+(g6
+S'\x0e\x8d\xdd\xc2\xe9\x98\xdd?'
+p649
+tp650
+Rp651
+tp652
+a(S'purna swaraj'
+p653
+g2
+(g6
+S'\xe3\x17\xeai\x83\x93\xdd?'
+p654
+tp655
+Rp656
+tp657
+a(S'network 18'
+p658
+g2
+(g6
+S'\r\xe7\x86M{\x92\xdd?'
+p659
+tp660
+Rp661
+tp662
+a(S'list of gold medalists at 2006 south asian games'
+p663
+g2
+(g6
+S'\xb8W\xdc:\x9c\x89\xdd?'
+p664
+tp665
+Rp666
+tp667
+a(S'berland anthony'
+p668
+g2
+(g6
+S'\xee\xd1\xe3qs\x7f\xdd?'
+p669
+tp670
+Rp671
+tp672
+a(S'history of the india national football team'
+p673
+g2
+(g6
+S'#2"K\x8b}\xdd?'
+p674
+tp675
+Rp676
+tp677
+a(S'bimal jalan'
+p678
+g2
+(g6
+S'\x85\x0b\xa1\xa8\xd0p\xdd?'
+p679
+tp680
+Rp681
+tp682
+a(S'2013 in india'
+p683
+g2
+(g6
+S'Ay\x944\xcfp\xdd?'
+p684
+tp685
+Rp686
+tp687
+a(S'list of historical novels in indian languages'
+p688
+g2
+(g6
+S'\xf2 \\7*e\xdd?'
+p689
+tp690
+Rp691
+tp692
+a(S'independence day (india)'
+p693
+g2
+(g6
+S'\x82\xe9\xf5A\xb07\xdd?'
+p694
+tp695
+Rp696
+tp697
+a(S'information technology in india'
+p698
+g2
+(g6
+S';A\xec\x15\x9d.\xdd?'
+p699
+tp700
+Rp701
+tp702
+a(S'india\xe2\x80\x93taiwan relations'
+p703
+g2
+(g6
+S'\x12@\xf4\xe9}.\xdd?'
+p704
+tp705
+Rp706
+tp707
+a(S'indian institute of management (disambiguation)'
+p708
+g2
+(g6
+S']\xcd3\xb3*-\xdd?'
+p709
+tp710
+Rp711
+tp712
+a(S'chindia'
+p713
+g2
+(g6
+S'$\x8avg\xa3#\xdd?'
+p714
+tp715
+Rp716
+tp717
+a(S'republic day (india)'
+p718
+g2
+(g6
+S'|E\x92\xae-\x1e\xdd?'
+p719
+tp720
+Rp721
+tp722
+a(S'2007 in india'
+p723
+g2
+(g6
+S'Jb\xcc`(\x15\xdd?'
+p724
+tp725
+Rp726
+tp727
+a(S'india unbound'
+p728
+g2
+(g6
+S'/\xee\x9c\xc9\x1f\x0e\xdd?'
+p729
+tp730
+Rp731
+tp732
+a(S'non-resident indian and person of indian origin'
+p733
+g2
+(g6
+S'\xfbb\xc7\x84\x05\x07\xdd?'
+p734
+tp735
+Rp736
+tp737
+a(S'india\xe2\x80\x93united states civil nuclear agreement'
+p738
+g2
+(g6
+S'\x86\x83*IB\xff\xdc?'
+p739
+tp740
+Rp741
+tp742
+a(S'economy of south india'
+p743
+g2
+(g6
+S'\xad\x11L=\xcf\xf9\xdc?'
+p744
+tp745
+Rp746
+tp747
+a(S'list of world heritage sites in india'
+p748
+g2
+(g6
+S'\x7f\xcfS\xc7\x16\xd3\xdc?'
+p749
+tp750
+Rp751
+tp752
+a(S'timeline of indian history'
+p753
+g2
+(g6
+S'()\nui\xd2\xdc?'
+p754
+tp755
+Rp756
+tp757
+a(S'income in india'
+p758
+g2
+(g6
+S'\x97\x10\xa2\xb2\xc3\xcc\xdc?'
+p759
+tp760
+Rp761
+tp762
+a(S'crime in india'
+p763
+g2
+(g6
+S'1\xca\xa49!\xcb\xdc?'
+p764
+tp765
+Rp766
+tp767
+a(S'india and the non-aligned movement'
+p768
+g2
+(g6
+S'\x8d\xa2q\xba\x98\xca\xdc?'
+p769
+tp770
+Rp771
+tp772
+a(S'nabob'
+p773
+g2
+(g6
+S'\xeb\xb9\xa2\x10\xf2\xc8\xdc?'
+p774
+tp775
+Rp776
+tp777
+a(S'gunjan bagla'
+p778
+g2
+(g6
+S'\x1a\n\t\xd2\x1b\xc5\xdc?'
+p779
+tp780
+Rp781
+tp782
+a(S'sino-indian war'
+p783
+g2
+(g6
+S'Y\x98\x1b\xf3\xdd\xc4\xdc?'
+p784
+tp785
+Rp786
+tp787
+a(S'governor-general of india'
+p788
+g2
+(g6
+S'\xb7#>h\xac\xc1\xdc?'
+p789
+tp790
+Rp791
+tp792
+a(S'moturi satyanarayana'
+p793
+g2
+(g6
+S'\x1dI\xac\x83J\xc0\xdc?'
+p794
+tp795
+Rp796
+tp797
+a(S'greece\xe2\x80\x93india relations'
+p798
+g2
+(g6
+S'&\xb1\xf5\x8b\x88\xbd\xdc?'
+p799
+tp800
+Rp801
+tp802
+a(S'list of institutions of higher education in india'
+p803
+g2
+(g6
+S'\x855\x7f-]\xb8\xdc?'
+p804
+tp805
+Rp806
+tp807
+a(S'jaswant singh marwah'
+p808
+g2
+(g6
+S'\x995\xac\xd6\xa5\x98\xdc?'
+p809
+tp810
+Rp811
+tp812
+a(S'2011 in india'
+p813
+g2
+(g6
+S'\xe7\xe0(1)\x94\xdc?'
+p814
+tp815
+Rp816
+tp817
+a(S'list of disputed territories of india'
+p818
+g2
+(g6
+S'C\xc3\xdf*\x91\x92\xdc?'
+p819
+tp820
+Rp821
+tp822
+a(S'online journalism in india'
+p823
+g2
+(g6
+S'S{\x01\xdb\xad\x8f\xdc?'
+p824
+tp825
+Rp826
+tp827
+a(S'british indian'
+p828
+g2
+(g6
+S'\x83\xee\x0b\x9e\xd9\x8c\xdc?'
+p829
+tp830
+Rp831
+tp832
+a(S'list of states and union territories of india by population'
+p833
+g2
+(g6
+S'a}0\xa7\x9c\x85\xdc?'
+p834
+tp835
+Rp836
+tp837
+a(S'air india flight'
+p838
+g2
+(g6
+S"4\xc8'\xe9c\x82\xdc?"
+p839
+tp840
+Rp841
+tp842
+a(S'india national rugby union team'
+p843
+g2
+(g6
+S'(\xda\xd7\x94\xd0s\xdc?'
+p844
+tp845
+Rp846
+tp847
+a(S'india\xe2\x80\x93north korea relations'
+p848
+g2
+(g6
+S'6\x98e\n\xe2k\xdc?'
+p849
+tp850
+Rp851
+tp852
+a(S'india is'
+p853
+g2
+(g6
+S'\xeb"\xba4\x02W\xdc?'
+p854
+tp855
+Rp856
+tp857
+a(S'canadians in india'
+p858
+g2
+(g6
+S'\xfbA\x94\x89\xc4O\xdc?'
+p859
+tp860
+Rp861
+tp862
+a(S'india\xe2\x80\x93philippines relations'
+p863
+g2
+(g6
+S'TjDF\xa7F\xdc?'
+p864
+tp865
+Rp866
+tp867
+a(S'propaganda and india in world war ii'
+p868
+g2
+(g6
+S'\xeb7\x06\xa7\xc2=\xdc?'
+p869
+tp870
+Rp871
+tp872
+a(S'music of india'
+p873
+g2
+(g6
+S'\xfa\x13\x02\xab\xa0=\xdc?'
+p874
+tp875
+Rp876
+tp877
+a(S'b v keskar'
+p878
+g2
+(g6
+S'\xbf\x07c\xf6\x0e=\xdc?'
+p879
+tp880
+Rp881
+tp882
+a(S'india\xe2\x80\x93iran relations'
+p883
+g2
+(g6
+S')\x14\xac\xb6\x804\xdc?'
+p884
+tp885
+Rp886
+tp887
+a(S'cartography of india'
+p888
+g2
+(g6
+S'G\x8aa4\xe80\xdc?'
+p889
+tp890
+Rp891
+tp892
+a(S'subdivisions of british india'
+p893
+g2
+(g6
+S'\x03f\xed\xb9j)\xdc?'
+p894
+tp895
+Rp896
+tp897
+a(S'environmental issues in india'
+p898
+g2
+(g6
+S'egb\xa6\x9e%\xdc?'
+p899
+tp900
+Rp901
+tp902
+a(S'government of india act, 1935'
+p903
+g2
+(g6
+S'<I\xed\xd9\xbd\x14\xdc?'
+p904
+tp905
+Rp906
+tp907
+a(S'bibliography of india'
+p908
+g2
+(g6
+S'm\x8f\x8d^\x15\x13\xdc?'
+p909
+tp910
+Rp911
+tp912
+a(S'all india states peoples conference'
+p913
+g2
+(g6
+S'Y\xa4\xf3\x909\x12\xdc?'
+p914
+tp915
+Rp916
+tp917
+a(S'afghanistan\xe2\x80\x93india relations'
+p918
+g2
+(g6
+S';.\xcc\xc1\x1d\x12\xdc?'
+p919
+tp920
+Rp921
+tp922
+a(S'imperial bank of india'
+p923
+g2
+(g6
+S'5\xc8\x80N\x0b\x03\xdc?'
+p924
+tp925
+Rp926
+tp927
+a(S'lead india'
+p928
+g2
+(g6
+S's3M\x0ev\xe5\xdb?'
+p929
+tp930
+Rp931
+tp932
+a(S'mohammad hidayatullah'
+p933
+g2
+(g6
+S';L\xb1m\x83\xe4\xdb?'
+p934
+tp935
+Rp936
+tp937
+a(S'e. aboobacker'
+p938
+g2
+(g6
+S'Y $a\x03\xde\xdb?'
+p939
+tp940
+Rp941
+tp942
+a(S'environment of india'
+p943
+g2
+(g6
+S'\xc5F\x02\xa8>\xdc\xdb?'
+p944
+tp945
+Rp946
+tp947
+a(S'quit india movement'
+p948
+g2
+(g6
+S'!1\x93\xe1M\xdb\xdb?'
+p949
+tp950
+Rp951
+tp952
+a(S'great depression in india'
+p953
+g2
+(g6
+S'\x9d\xe0\xed\xcd\xc8\xd5\xdb?'
+p954
+tp955
+Rp956
+tp957
+a(S'beohar rammanohar sinha'
+p958
+g2
+(g6
+S'\xd6\n\xca]\xe0\xcd\xdb?'
+p959
+tp960
+Rp961
+tp962
+a(S'maharashtra legislative assembly election, 1978'
+p963
+g2
+(g6
+S'\xe9\xcfEtp\xcd\xdb?'
+p964
+tp965
+Rp966
+tp967
+a(S'talati and panthaky'
+p968
+g2
+(g6
+S'\xed\xda\xb8`y\xc3\xdb?'
+p969
+tp970
+Rp971
+tp972
+a(S'the poverty problem in india'
+p973
+g2
+(g6
+S'u\x8b\xfb8:\xba\xdb?'
+p974
+tp975
+Rp976
+tp977
+a(S'amrit kaur'
+p978
+g2
+(g6
+S'\\\xf0\x1d#\xb7\xb9\xdb?'
+p979
+tp980
+Rp981
+tp982
+a(S'indian technical and economic cooperation programme'
+p983
+g2
+(g6
+S'4T\xe9+F\xa9\xdb?'
+p984
+tp985
+Rp986
+tp987
+a(S'history of the indian cricket team'
+p988
+g2
+(g6
+S'\xad\x1a-\x93\x07\xa9\xdb?'
+p989
+tp990
+Rp991
+tp992
+a(S'partition of india'
+p993
+g2
+(g6
+S'\xb0t\xd1p\xcc\xa8\xdb?'
+p994
+tp995
+Rp996
+tp997
+a(S'balkrishna shetty'
+p998
+g2
+(g6
+S'A\x84\x0b\x95W\xa2\xdb?'
+p999
+tp1000
+Rp1001
+tp1002
+a(S'brazil\xe2\x80\x93india relations'
+p1003
+g2
+(g6
+S'"\x87>\xd4\x7f\x9f\xdb?'
+p1004
+tp1005
+Rp1006
+tp1007
+a(S'british indian army'
+p1008
+g2
+(g6
+S'Z\x83-\xe7\xa0\x95\xdb?'
+p1009
+tp1010
+Rp1011
+tp1012
+a(S'the times group'
+p1013
+g2
+(g6
+S'\xe8\xd9\x00\xeaY\x92\xdb?'
+p1014
+tp1015
+Rp1016
+tp1017
+a(S'volunteers for rural india'
+p1018
+g2
+(g6
+S'\x96}\x0b\xa9+\x92\xdb?'
+p1019
+tp1020
+Rp1021
+tp1022
+a(S'east indian people'
+p1023
+g2
+(g6
+S'\xcc\xdd\xbb\xdd\xcd\x8e\xdb?'
+p1024
+tp1025
+Rp1026
+tp1027
+a(S'7th bengaluru international film festival 2014'
+p1028
+g2
+(g6
+S'\x9b\xa3\\K\xed\x8d\xdb?'
+p1029
+tp1030
+Rp1031
+tp1032
+a(S'vijay kelkar'
+p1033
+g2
+(g6
+S'=3\xfc\xffc\x8c\xdb?'
+p1034
+tp1035
+Rp1036
+tp1037
+a(S'football in india'
+p1038
+g2
+(g6
+S'\x1b\x8c\xf1\xf7(\x8a\xdb?'
+p1039
+tp1040
+Rp1041
+tp1042
+a(S'star of india'
+p1043
+g2
+(g6
+S'\x82?\x82\xa3?\x89\xdb?'
+p1044
+tp1045
+Rp1046
+tp1047
+a(S'north indian culture'
+p1048
+g2
+(g6
+S'\xbd\xe2$\x80:u\xdb?'
+p1049
+tp1050
+Rp1051
+tp1052
+a(S'xavier institute of management and entrepreneurship'
+p1053
+g2
+(g6
+S'\xdf"\xf0Z\xd3o\xdb?'
+p1054
+tp1055
+Rp1056
+tp1057
+a(S'india longford'
+p1058
+g2
+(g6
+S'42Iv,k\xdb?'
+p1059
+tp1060
+Rp1061
+tp1062
+a(S'democracy in india'
+p1063
+g2
+(g6
+S'\xd2\x10\xdd\xbd9j\xdb?'
+p1064
+tp1065
+Rp1066
+tp1067
+a(S'sanjiv mehta'
+p1068
+g2
+(g6
+S'\x0b?\r\xc2rg\xdb?'
+p1069
+tp1070
+Rp1071
+tp1072
+a(S'saichiro misumi'
+p1073
+g2
+(g6
+S'\xb0yr\x02\xb5d\xdb?'
+p1074
+tp1075
+Rp1076
+tp1077
+a(S'british indian (disambiguation)'
+p1078
+g2
+(g6
+S'\xdd\xe3\xca\xf7C\\\xdb?'
+p1079
+tp1080
+Rp1081
+tp1082
+a(S'india\xe2\x80\x93new zealand relations'
+p1083
+g2
+(g6
+S'TU\xb9\\\xc6Y\xdb?'
+p1084
+tp1085
+Rp1086
+tp1087
+a(S'ankur warikoo'
+p1088
+g2
+(g6
+S'\xe6\xc3\xc9 \x8bU\xdb?'
+p1089
+tp1090
+Rp1091
+tp1092
+a(S'little india, ipoh'
+p1093
+g2
+(g6
+S'\xea\x1an\xa1\xecK\xdb?'
+p1094
+tp1095
+Rp1096
+tp1097
+a(S'india\xe2\x80\x93turkey relations'
+p1098
+g2
+(g6
+S'\x11z\xbc\xee\x1bH\xdb?'
+p1099
+tp1100
+Rp1101
+tp1102
+a(S'goans in football'
+p1103
+g2
+(g6
+S'\xfb\xe0\x1d,\x08<\xdb?'
+p1104
+tp1105
+Rp1106
+tp1107
+a(S'list of india national cricket captains'
+p1108
+g2
+(g6
+S'Z\xee\x05[\xce;\xdb?'
+p1109
+tp1110
+Rp1111
+tp1112
+a(S'indian road network'
+p1113
+g2
+(g6
+S'\xaa\xa2]\x03\xda4\xdb?'
+p1114
+tp1115
+Rp1116
+tp1117
+a(S'association for the study of literature and environment'
+p1118
+g2
+(g6
+S'\x1b\xe1,\xe5G4\xdb?'
+p1119
+tp1120
+Rp1121
+tp1122
+a(S'south asia'
+p1123
+g2
+(g6
+S'r\x0b%\n\x190\xdb?'
+p1124
+tp1125
+Rp1126
+tp1127
+a(S'aviation in india'
+p1128
+g2
+(g6
+S'3ZC\x80c/\xdb?'
+p1129
+tp1130
+Rp1131
+tp1132
+a(S'natural resources of india'
+p1133
+g2
+(g6
+S'}\x01b(<%\xdb?'
+p1134
+tp1135
+Rp1136
+tp1137
+a(S'm. c. setalvad'
+p1138
+g2
+(g6
+S'\x96~\xa38\x1c$\xdb?'
+p1139
+tp1140
+Rp1141
+tp1142
+a(S'christianity in india'
+p1143
+g2
+(g6
+S'\x14\x98\x9f\xd3\xad#\xdb?'
+p1144
+tp1145
+Rp1146
+tp1147
+a(S'india\xe2\x80\x93singapore relations'
+p1148
+g2
+(g6
+S'4\xff\xb4\x83}!\xdb?'
+p1149
+tp1150
+Rp1151
+tp1152
+a(S'indian americans'
+p1153
+g2
+(g6
+S'\x1a6\x02\x9a> \xdb?'
+p1154
+tp1155
+Rp1156
+tp1157
+a(S'navyug mohnot'
+p1158
+g2
+(g6
+S'\xfb\xc4z\xee\xa1\x14\xdb?'
+p1159
+tp1160
+Rp1161
+tp1162
+a(S'volleyball in india'
+p1163
+g2
+(g6
+S'\xa8\xf4\xf5RG\x13\xdb?'
+p1164
+tp1165
+Rp1166
+tp1167
+a(S'united communication service'
+p1168
+g2
+(g6
+S' \x15*{F\x10\xdb?'
+p1169
+tp1170
+Rp1171
+tp1172
+a(S'm. damodaran'
+p1173
+g2
+(g6
+S'\xd7\x12=\xa5\x87\t\xdb?'
+p1174
+tp1175
+Rp1176
+tp1177
+a(S'regulating act of 1773'
+p1178
+g2
+(g6
+S'm\xd2\xb0\xd2\xdf\x08\xdb?'
+p1179
+tp1180
+Rp1181
+tp1182
+a(S'maroof raza'
+p1183
+g2
+(g6
+S'\x06O\x98@%\x08\xdb?'
+p1184
+tp1185
+Rp1186
+tp1187
+a(S'families in british india society'
+p1188
+g2
+(g6
+S'"\xe3\x0b\x1b\x08\x08\xdb?'
+p1189
+tp1190
+Rp1191
+tp1192
+a(S'india\xe2\x80\x93ireland relations'
+p1193
+g2
+(g6
+S'\xd4z\x165\xdc\x07\xdb?'
+p1194
+tp1195
+Rp1196
+tp1197
+a(S'tourism in himachal pradesh'
+p1198
+g2
+(g6
+S'\x1egb\xe2]\x07\xdb?'
+p1199
+tp1200
+Rp1201
+tp1202
+a(S'urbanisation in india'
+p1203
+g2
+(g6
+S'\xd0\x7f\xa8\xfc\x06\x07\xdb?'
+p1204
+tp1205
+Rp1206
+tp1207
+a(S'bhaskar pramanik'
+p1208
+g2
+(g6
+S'\x8e\r,\xe8\xb1\xff\xda?'
+p1209
+tp1210
+Rp1211
+tp1212
+a(S'educare india'
+p1213
+g2
+(g6
+S'\xf4p[\x19\x1d\xf6\xda?'
+p1214
+tp1215
+Rp1216
+tp1217
+a(S'9x jalwa'
+p1218
+g2
+(g6
+S'.\xd0?\x9e\xe4\xf4\xda?'
+p1219
+tp1220
+Rp1221
+tp1222
+a(S'americans in india'
+p1223
+g2
+(g6
+S'\x9e%\xf8\xb85\xf0\xda?'
+p1224
+tp1225
+Rp1226
+tp1227
+a(S'india brand equity foundation'
+p1228
+g2
+(g6
+S'\xfd]\x8e%\xbb\xef\xda?'
+p1229
+tp1230
+Rp1231
+tp1232
+a(S'history of the indian national congress'
+p1233
+g2
+(g6
+S'{Z\xc8\x88N\xec\xda?'
+p1234
+tp1235
+Rp1236
+tp1237
+a(S'list of odi awards for sachin tendulkar'
+p1238
+g2
+(g6
+S"iS'\x0c)\xea\xda?"
+p1239
+tp1240
+Rp1241
+tp1242
+a(S'water polo in india'
+p1243
+g2
+(g6
+S'\xa6{\xcd\x91\x93\xe7\xda?'
+p1244
+tp1245
+Rp1246
+tp1247
+a(S'h. c. dasappa'
+p1248
+g2
+(g6
+S'.\xc5\xbbO\xd6\xe5\xda?'
+p1249
+tp1250
+Rp1251
+tp1252
+a(S'forestry in india'
+p1253
+g2
+(g6
+S'U\xf8a\xc8z\xe2\xda?'
+p1254
+tp1255
+Rp1256
+tp1257
+a(S'economic liberalisation in india'
+p1258
+g2
+(g6
+S'I(#\x8f\x08\xe0\xda?'
+p1259
+tp1260
+Rp1261
+tp1262
+a(S'list of indian government agencies'
+p1263
+g2
+(g6
+S'\xb0(kN]\xdc\xda?'
+p1264
+tp1265
+Rp1266
+tp1267
+a(S'dharampal'
+p1268
+g2
+(g6
+S'D\x0c"V\xe8\xd7\xda?'
+p1269
+tp1270
+Rp1271
+tp1272
+a(S'homelessness in india'
+p1273
+g2
+(g6
+S'\xa4\xd0\xb3\xd9\x1e\xc7\xda?'
+p1274
+tp1275
+Rp1276
+tp1277
+a(S'2012 in indian sports'
+p1278
+g2
+(g6
+S'\xbc\xecV\x8d\x80\xbe\xda?'
+p1279
+tp1280
+Rp1281
+tp1282
+a(S'poverty in india'
+p1283
+g2
+(g6
+S'\x99)\xc0\xa83\xbe\xda?'
+p1284
+tp1285
+Rp1286
+tp1287
+a(S'dinendra nath bhattacharya'
+p1288
+g2
+(g6
+S'\xb7\x81l\xaeT\xb4\xda?'
+p1289
+tp1290
+Rp1291
+tp1292
+a(S'ruchira kamboj'
+p1293
+g2
+(g6
+S'\xc9\xd8\xb0c\xdb\xb2\xda?'
+p1294
+tp1295
+Rp1296
+tp1297
+a(S'general motors india (disambiguation)'
+p1298
+g2
+(g6
+S'_C\xa2S\xfe\xa3\xda?'
+p1299
+tp1300
+Rp1301
+tp1302
+a(S'incredible india'
+p1303
+g2
+(g6
+S'\x8f\xf3\xb5-6\xa3\xda?'
+p1304
+tp1305
+Rp1306
+tp1307
+a(S'index of india-related articles'
+p1308
+g2
+(g6
+S'\xe52&\xe9\xff\xa2\xda?'
+p1309
+tp1310
+Rp1311
+tp1312
+a(S'2014 in india'
+p1313
+g2
+(g6
+S'$\xa0\x96\xc6\xf1\xa1\xda?'
+p1314
+tp1315
+Rp1316
+tp1317
+a(S'stanley reed (british politician)'
+p1318
+g2
+(g6
+S'B\xb4F\xb8\xe7\x9b\xda?'
+p1319
+tp1320
+Rp1321
+tp1322
+a(S'rama bijapurkar'
+p1323
+g2
+(g6
+S'\x9d\x96\x08\xe1q\x9b\xda?'
+p1324
+tp1325
+Rp1326
+tp1327
+a(S'raminder jassal'
+p1328
+g2
+(g6
+S'\x93O\xaf\xdc\xcf\x97\xda?'
+p1329
+tp1330
+Rp1331
+tp1332
+a(S'human rights in india'
+p1333
+g2
+(g6
+S'T\xe4\x81\xaf\xaf\x8f\xda?'
+p1334
+tp1335
+Rp1336
+tp1337
+a(S'india 2020'
+p1338
+g2
+(g6
+S'U\xdc\xf0\xd5\x10\x8e\xda?'
+p1339
+tp1340
+Rp1341
+tp1342
+a(S'hindu\xe2\x80\x93german conspiracy'
+p1343
+g2
+(g6
+S'\xdd\x03\xd1\xe9\xc4\x88\xda?'
+p1344
+tp1345
+Rp1346
+tp1347
+a(S'foreign trade of india'
+p1348
+g2
+(g6
+S'\xed\xd6\x07i\xa3\x88\xda?'
+p1349
+tp1350
+Rp1351
+tp1352
+a(S'india command'
+p1353
+g2
+(g6
+S')t\xfe\xc2\r\x88\xda?'
+p1354
+tp1355
+Rp1356
+tp1357
+a(S'mallika srinivasan'
+p1358
+g2
+(g6
+S'\xf9\x99\xb5$\x9b\x85\xda?'
+p1359
+tp1360
+Rp1361
+tp1362
+a(S'john charles mason'
+p1363
+g2
+(g6
+S'\xb1KL\xb3\x88\x7f\xda?'
+p1364
+tp1365
+Rp1366
+tp1367
+a(S'cuba\xe2\x80\x93india relations'
+p1368
+g2
+(g6
+S'\rs\x86\xdb\xc5u\xda?'
+p1369
+tp1370
+Rp1371
+tp1372
+a(S'indian army'
+p1373
+g2
+(g6
+S'\x02\xd3\x1e\x93Iu\xda?'
+p1374
+tp1375
+Rp1376
+tp1377
+a(S'terrorism in india'
+p1378
+g2
+(g6
+S'N\x9bU\x0f"u\xda?'
+p1379
+tp1380
+Rp1381
+tp1382
+a(S'the history of british india'
+p1383
+g2
+(g6
+S'\xa6\xfc\xf4\xc0$j\xda?'
+p1384
+tp1385
+Rp1386
+tp1387
+a(S'digital india'
+p1388
+g2
+(g6
+S'.\xa7\xeb\x7f:g\xda?'
+p1389
+tp1390
+Rp1391
+tp1392
+a(S'gargi banerji'
+p1393
+g2
+(g6
+S'\xd1\xb0\xae;\xfcf\xda?'
+p1394
+tp1395
+Rp1396
+tp1397
+a(S'little india (magazine)'
+p1398
+g2
+(g6
+S'-\x19\xc6l"]\xda?'
+p1399
+tp1400
+Rp1401
+tp1402
+a(S'central bank of india'
+p1403
+g2
+(g6
+S'\x0e\x1d8\xb8^Z\xda?'
+p1404
+tp1405
+Rp1406
+tp1407
+a(S'cry america'
+p1408
+g2
+(g6
+S'x\xa4<\xfc<Y\xda?'
+p1409
+tp1410
+Rp1411
+tp1412
+a(S'india\xe2\x80\x93south korea relations'
+p1413
+g2
+(g6
+S':\x071\x01hW\xda?'
+p1414
+tp1415
+Rp1416
+tp1417
+a(S'entertainment industry in india'
+p1418
+g2
+(g6
+S'H\x93qx\\V\xda?'
+p1419
+tp1420
+Rp1421
+tp1422
+a(S'manpreet singh (field hockey)'
+p1423
+g2
+(g6
+S'S\x997\x94\xabQ\xda?'
+p1424
+tp1425
+Rp1426
+tp1427
+a(S'india national under-17 basketball team'
+p1428
+g2
+(g6
+S'\xab\xe6\xa8/\x00Q\xda?'
+p1429
+tp1430
+Rp1431
+tp1432
+a(S'west india company'
+p1433
+g2
+(g6
+S'u/\xa3V\xdcH\xda?'
+p1434
+tp1435
+Rp1436
+tp1437
+a(S'niren de'
+p1438
+g2
+(g6
+S'r\x99\xeb\r\x83E\xda?'
+p1439
+tp1440
+Rp1441
+tp1442
+a(S'mathew john'
+p1443
+g2
+(g6
+S'\xba\x9a\xf8\xa8\xb4A\xda?'
+p1444
+tp1445
+Rp1446
+tp1447
+a(S'ranadhir sarma sarkar'
+p1448
+g2
+(g6
+S'FB$\xdc!@\xda?'
+p1449
+tp1450
+Rp1451
+tp1452
+a(S'chandpur'
+p1453
+g2
+(g6
+S'\xe7\x00"#6<\xda?'
+p1454
+tp1455
+Rp1456
+tp1457
+a(S'muslim nationalist party'
+p1458
+g2
+(g6
+S'\x86\x84\xeeW\xbc8\xda?'
+p1459
+tp1460
+Rp1461
+tp1462
+a(S'india\xe2\x80\x93myanmar relations'
+p1463
+g2
+(g6
+S'\x83\x93ju\xe1/\xda?'
+p1464
+tp1465
+Rp1466
+tp1467
+a(S'secularism in india'
+p1468
+g2
+(g6
+S'\x95r\xff\x16\xd3-\xda?'
+p1469
+tp1470
+Rp1471
+tp1472
+a(S'indo-pakistani war of 1965'
+p1473
+g2
+(g6
+S'\xb4\xe8\xadd\xbe+\xda?'
+p1474
+tp1475
+Rp1476
+tp1477
+a(S'hippasa'
+p1478
+g2
+(g6
+S'\x14\x87\xaf\xde\xf2(\xda?'
+p1479
+tp1480
+Rp1481
+tp1482
+a(S'manmohan singh'
+p1483
+g2
+(g6
+S'fU\xaa\x91\xf1%\xda?'
+p1484
+tp1485
+Rp1486
+tp1487
+a(S'separatist movements of india'
+p1488
+g2
+(g6
+S'#F\x9d\xafk\x1d\xda?'
+p1489
+tp1490
+Rp1491
+tp1492
+a(S'2016 in indian sport'
+p1493
+g2
+(g6
+S'\x8c\x19\xa6\xa31\x17\xda?'
+p1494
+tp1495
+Rp1496
+tp1497
+a(S'india\xe2\x80\x93kazakhstan relations'
+p1498
+g2
+(g6
+S'\x89=\xb9\xc7\x01\x17\xda?'
+p1499
+tp1500
+Rp1501
+tp1502
+a(S'findlater stewart'
+p1503
+g2
+(g6
+S'I6\xe2]\xb5\x16\xda?'
+p1504
+tp1505
+Rp1506
+tp1507
+a(S'india and weapons of mass destruction'
+p1508
+g2
+(g6
+S'8H\xda\xe9\x0b\x16\xda?'
+p1509
+tp1510
+Rp1511
+tp1512
+a.

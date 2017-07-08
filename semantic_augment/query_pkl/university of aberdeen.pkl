@@ -1,0 +1,2728 @@
+(lp0
+(S'university of aberdeen'
+p1
+cnumpy.core.multiarray
+scalar
+p2
+(cnumpy
+dtype
+p3
+(S'f8'
+p4
+I0
+I1
+tp5
+Rp6
+(I3
+S'<'
+p7
+NNNI-1
+I-1
+I0
+tp8
+bS'\x01\x00\x00\x00\x00\x00\xf0?'
+p9
+tp10
+Rp11
+tp12
+a(S'aberdeen'
+p13
+g2
+(g6
+S'\xdb\x91l\xe2\xc5\xb9\xe6?'
+p14
+tp15
+Rp16
+tp17
+a(S'old aberdeen'
+p18
+g2
+(g6
+S'^\x8d\xf9\xf8eV\xe5?'
+p19
+tp20
+Rp21
+tp22
+a(S'aberdeen (disambiguation)'
+p23
+g2
+(g6
+S'9\xfc\xfe\xa0Z:\xe5?'
+p24
+tp25
+Rp26
+tp27
+a(S'education in aberdeen'
+p28
+g2
+(g6
+S'`Z\x05E`\x1e\xe5?'
+p29
+tp30
+Rp31
+tp32
+a(S'aberdeen school'
+p33
+g2
+(g6
+S'\x89\xf6r\xf1d\xbc\xe4?'
+p34
+tp35
+Rp36
+tp37
+a(S'aberdeen high school'
+p38
+g2
+(g6
+S'\xd3\x14\xa6e\x99\x85\xe4?'
+p39
+tp40
+Rp41
+tp42
+a(S'aberdeen, south dakota'
+p43
+g2
+(g6
+S'D\xfeJ\xddb\x00\xe4?'
+p44
+tp45
+Rp46
+tp47
+a(S'history of aberdeen'
+p48
+g2
+(g6
+S'@\x84\xca\x0b:\xaa\xe3?'
+p49
+tp50
+Rp51
+tp52
+a(S'culture in aberdeen'
+p53
+g2
+(g6
+S'\x0c\xce\x81z<\xa7\xe3?'
+p54
+tp55
+Rp56
+tp57
+a(S"king's college, aberdeen"
+p58
+g2
+(g6
+S'\x89\xc88wa\x99\xe3?'
+p59
+tp60
+Rp61
+tp62
+a(S'north east scotland college'
+p63
+g2
+(g6
+S'%?1c\xae\x92\xe3?'
+p64
+tp65
+Rp66
+tp67
+a(S'william keith leask'
+p68
+g2
+(g6
+S'\xc8?\xb7D\x10\x88\xe3?'
+p69
+tp70
+Rp71
+tp72
+a(S'aberdeen, hong kong'
+p73
+g2
+(g6
+S'\x9d\xb6&\xa9\x05z\xe3?'
+p74
+tp75
+Rp76
+tp77
+a(S'aberdeen, ohio county, indiana'
+p78
+g2
+(g6
+S'4\x88\xa6\xda;\x07\xe3?'
+p79
+tp80
+Rp81
+tp82
+a(S'aberdeen station'
+p83
+g2
+(g6
+S's\x13\xe9\xb8\xf5\x04\xe3?'
+p84
+tp85
+Rp86
+tp87
+a(S'aberdeen college'
+p88
+g2
+(g6
+S'=\x8d\x80`\x97\xb3\xe2?'
+p89
+tp90
+Rp91
+tp92
+a(S'aberdeen, maryland'
+p93
+g2
+(g6
+S'\x9f\x18=\x13)~\xe2?'
+p94
+tp95
+Rp96
+tp97
+a(S'marischal college'
+p98
+g2
+(g6
+S'\xaa$\xc7\x13p|\xe2?'
+p99
+tp100
+Rp101
+tp102
+a(S'aberdeen, california'
+p103
+g2
+(g6
+S'C\x80\x9c\x0e\x17y\xe2?'
+p104
+tp105
+Rp106
+tp107
+a(S'aberdeen, new south wales'
+p108
+g2
+(g6
+S'\x17>\x95\xac\xcf`\xe2?'
+p109
+tp110
+Rp111
+tp112
+a(S'foresterhill'
+p113
+g2
+(g6
+S'\x93Muq\xdb+\xe2?'
+p114
+tp115
+Rp116
+tp117
+a(S'aberdeen line (disambiguation)'
+p118
+g2
+(g6
+S'\xa7\xc7\xff\xd9\xa4\x1d\xe2?'
+p119
+tp120
+Rp121
+tp122
+a(S'aberdeen school district (idaho)'
+p123
+g2
+(g6
+S':\x0bm\x81%\x1d\xe2?'
+p124
+tp125
+Rp126
+tp127
+a(S'list of listed buildings in aberdeen'
+p128
+g2
+(g6
+S'\xb8&K\x87\xff\x16\xe2?'
+p129
+tp130
+Rp131
+tp132
+a(S'aberdeen synagogue'
+p133
+g2
+(g6
+S'\xcb,E\xbc\xd5\xcd\xe1?'
+p134
+tp135
+Rp136
+tp137
+a(S'aberdeen university sports union'
+p138
+g2
+(g6
+S'%\x84\x07\xb2\x90\xbe\xe1?'
+p139
+tp140
+Rp141
+tp142
+a(S'our lady of aberdeen'
+p143
+g2
+(g6
+S'\x87\xb5\x96\xb8\xc9\xbb\xe1?'
+p144
+tp145
+Rp146
+tp147
+a(S'aberdeen cathedral'
+p148
+g2
+(g6
+S'i\x19Tk\xb0\xba\xe1?'
+p149
+tp150
+Rp151
+tp152
+a(S'aberdeen, mississippi'
+p153
+g2
+(g6
+S'\xe5\xdd\xfc}\xac\xba\xe1?'
+p154
+tp155
+Rp156
+tp157
+a(S'ishbel hamilton-gordon, marchioness of aberdeen and temair'
+p158
+g2
+(g6
+S'\xbf\\9u\xa0\xb6\xe1?'
+p159
+tp160
+Rp161
+tp162
+a(S'aberdeen centre'
+p163
+g2
+(g6
+S'0\xdf\xc5\x8d\xb0\x85\xe1?'
+p164
+tp165
+Rp166
+tp167
+a(S'willie cooper'
+p168
+g2
+(g6
+S'\x9c\\8=\xe4y\xe1?'
+p169
+tp170
+Rp171
+tp172
+a(S'william guild'
+p173
+g2
+(g6
+S'\x93\xe6\xdab6i\xe1?'
+p174
+tp175
+Rp176
+tp177
+a(S'aberdeen f.c.'
+p178
+g2
+(g6
+S'\x85\xee\xad\xd7wa\xe1?'
+p179
+tp180
+Rp181
+tp182
+a(S'robert gordon university'
+p183
+g2
+(g6
+S'\xfe\xdeG\xa6TP\xe1?'
+p184
+tp185
+Rp186
+tp187
+a(S'aberdeen central (uk parliament constituency)'
+p188
+g2
+(g6
+S'4,\xa6dQ&\xe1?'
+p189
+tp190
+Rp191
+tp192
+a(S'marischal museum'
+p193
+g2
+(g6
+S'W\xbd\x1a\xc7\xa0$\xe1?'
+p194
+tp195
+Rp196
+tp197
+a(S'sport in aberdeen'
+p198
+g2
+(g6
+S'\t\x96\xc0\xf0\xd4\xe0\xe0?'
+p199
+tp200
+Rp201
+tp202
+a(S'roy hendry thomson'
+p203
+g2
+(g6
+S'\x94\xc5\xe20\x88\xc1\xe0?'
+p204
+tp205
+Rp206
+tp207
+a(S'aberdeen citizen'
+p208
+g2
+(g6
+S'\xba\xbf\x0e\xb5s\x9d\xe0?'
+p209
+tp210
+Rp211
+tp212
+a(S'bobby hannah'
+p213
+g2
+(g6
+S'\xad\x0f\xbc\x89Z\x9c\xe0?'
+p214
+tp215
+Rp216
+tp217
+a(S'jack hather'
+p218
+g2
+(g6
+S'\x8d~\x93\x1c\x1e\x9a\xe0?'
+p219
+tp220
+Rp221
+tp222
+a(S'aberdeen historic district'
+p223
+g2
+(g6
+S'=\x04MC\xcc\x89\xe0?'
+p224
+tp225
+Rp226
+tp227
+a(S'transport in aberdeen'
+p228
+g2
+(g6
+S'w8\xd3K\x16d\xe0?'
+p229
+tp230
+Rp231
+tp232
+a(S'william elphinstone'
+p233
+g2
+(g6
+S'\xa9EJy\xb0b\xe0?'
+p234
+tp235
+Rp236
+tp237
+a(S'aberdeen, kamloops'
+p238
+g2
+(g6
+S'\x81O\x063]Q\xe0?'
+p239
+tp240
+Rp241
+tp242
+a(S'aberdeen north (uk parliament constituency)'
+p243
+g2
+(g6
+S'\xeb\x92Au_=\xe0?'
+p244
+tp245
+Rp246
+tp247
+a(S'john hamilton-gordon, 1st marquess of aberdeen and temair'
+p248
+g2
+(g6
+S']\xeb\x9e\x19\xd33\xe0?'
+p249
+tp250
+Rp251
+tp252
+a(S'tillydrone'
+p253
+g2
+(g6
+S"\x9c\xdc\xb0\x10'\x18\xe0?"
+p254
+tp255
+Rp256
+tp257
+a(S'aberdeen doctors'
+p258
+g2
+(g6
+S'\x18\xbf\xfeC\xa5\x12\xe0?'
+p259
+tp260
+Rp261
+tp262
+a(S'list of places in aberdeen'
+p263
+g2
+(g6
+S'm.\xff\x85\xa2\x08\xe0?'
+p264
+tp265
+Rp266
+tp267
+a(S'ferryhill, aberdeen'
+p268
+g2
+(g6
+S'\x1b\x12\xdbO\xca\x00\xe0?'
+p269
+tp270
+Rp271
+tp272
+a(S'aberdeen lynx'
+p273
+g2
+(g6
+S'\x9a\xab\xbdL\t\xf7\xdf?'
+p274
+tp275
+Rp276
+tp277
+a(S'ryan jack'
+p278
+g2
+(g6
+S'(\xf1\xebr\x95\xe6\xdf?'
+p279
+tp280
+Rp281
+tp282
+a(S'john webster (mp)'
+p283
+g2
+(g6
+S'\xb9\xdb\xfa\xb9X\xc9\xdf?'
+p284
+tp285
+Rp286
+tp287
+a(S'sir john marnoch'
+p288
+g2
+(g6
+S'\xa19\xbb\xa7\xec\xc7\xdf?'
+p289
+tp290
+Rp291
+tp292
+a(S'lady aberdeen'
+p293
+g2
+(g6
+S'_\xe4\xca\xccz\xad\xdf?'
+p294
+tp295
+Rp296
+tp297
+a(S'aberdeen donside (scottish parliament constituency)'
+p298
+g2
+(g6
+S'\x1e\xdf2\xf1\x8a\xa8\xdf?'
+p299
+tp300
+Rp301
+tp302
+a(S'ancient universities of scotland'
+p303
+g2
+(g6
+S'M7\x19\xc3\xcd\xa3\xdf?'
+p304
+tp305
+Rp306
+tp307
+a(S'john longmuir'
+p308
+g2
+(g6
+S'\x9c\xbbW\xd5a\x7f\xdf?'
+p309
+tp310
+Rp311
+tp312
+a(S'aberdeen south (uk parliament constituency)'
+p313
+g2
+(g6
+S' e\xa4Z\x89l\xdf?'
+p314
+tp315
+Rp316
+tp317
+a(S'drew jarvie'
+p318
+g2
+(g6
+S'B\xd0RO\\A\xdf?'
+p319
+tp320
+Rp321
+tp322
+a(S'aberdeen north (scottish parliament constituency)'
+p323
+g2
+(g6
+S'\x8cR\x9b*\x9a\x1f\xdf?'
+p324
+tp325
+Rp326
+tp327
+a(S'aberdeen historic district (aberdeen, north carolina)'
+p328
+g2
+(g6
+S"\xfb'\x13\x8b^\x15\xdf?"
+p329
+tp330
+Rp331
+tp332
+a(S'peter craigmyle'
+p333
+g2
+(g6
+S'\xbd\t\xb9u\xf6\x10\xdf?'
+p334
+tp335
+Rp336
+tp337
+a(S'the tolbooth, aberdeen'
+p338
+g2
+(g6
+S'j\xb2h]o\x02\xdf?'
+p339
+tp340
+Rp341
+tp342
+a(S'malcolm savidge'
+p343
+g2
+(g6
+S'\xa2\x9eVI\xc9\xff\xde?'
+p344
+tp345
+Rp346
+tp347
+a(S'andrew gerard'
+p348
+g2
+(g6
+S'\x9f1\xee\xda\x04\xfa\xde?'
+p349
+tp350
+Rp351
+tp352
+a(S"christ's college, aberdeen"
+p353
+g2
+(g6
+S'\xf2\x1a\x1e\xa1+\xe8\xde?'
+p354
+tp355
+Rp356
+tp357
+a(S'aberdeen aquatics centre'
+p358
+g2
+(g6
+S'\xda\xf4]\xcea\xd0\xde?'
+p359
+tp360
+Rp361
+tp362
+a(S'aberdeen city youth council'
+p363
+g2
+(g6
+S'}0\x94e\x90\xbc\xde?'
+p364
+tp365
+Rp366
+tp367
+a(S'aberdeenshire cup'
+p368
+g2
+(g6
+S'\x95\x06\x98\x907\xa9\xde?'
+p369
+tp370
+Rp371
+tp372
+a(S'university of aberdeen school of medicine and dentistry'
+p373
+g2
+(g6
+S'\xe8W\x9c\xd6\xea\x98\xde?'
+p374
+tp375
+Rp376
+tp377
+a(S'railway stations of aberdeen'
+p378
+g2
+(g6
+S';\x06\x06\xb2q\x84\xde?'
+p379
+tp380
+Rp381
+tp382
+a(S'voluntary service aberdeen'
+p383
+g2
+(g6
+S'\x95\xf4\xad\x8e\x9a~\xde?'
+p384
+tp385
+Rp386
+tp387
+a(S'william henderson (philanthropist)'
+p388
+g2
+(g6
+S'\xec^\xb5\xa6*y\xde?'
+p389
+tp390
+Rp391
+tp392
+a(S'william walker (priest)'
+p393
+g2
+(g6
+S'\x18Y\xbfp#y\xde?'
+p394
+tp395
+Rp396
+tp397
+a(S'david mitchell (philanthropist)'
+p398
+g2
+(g6
+S'\xc3\xf7\x13\xa3\xa9v\xde?'
+p399
+tp400
+Rp401
+tp402
+a(S'aberdeen f.c. (1881)'
+p403
+g2
+(g6
+S'\x95\x7fy\x97\x97p\xde?'
+p404
+tp405
+Rp406
+tp407
+a(S'aberdeen central (scottish parliament constituency)'
+p408
+g2
+(g6
+S'en8w\xca[\xde?'
+p409
+tp410
+Rp411
+tp412
+a(S'roman catholic diocese of aberdeen'
+p413
+g2
+(g6
+S'\xe9\xfbB\xec\xe4G\xde?'
+p414
+tp415
+Rp416
+tp417
+a(S"mitchell's hospital old aberdeen"
+p418
+g2
+(g6
+S'\x83\xe2aX\xd2:\xde?'
+p419
+tp420
+Rp421
+tp422
+a(S'aberdeen f.c. in european football'
+p423
+g2
+(g6
+S'\x85A\x14\x98\x1f\x1a\xde?'
+p424
+tp425
+Rp426
+tp427
+a(S'john skinner (bishop)'
+p428
+g2
+(g6
+S'\xc9\xc6%\x90\xfd\x16\xde?'
+p429
+tp430
+Rp431
+tp432
+a(S'aberdeen independent'
+p433
+g2
+(g6
+S'\xdc\xa0r\xb3\x04\xdd\xdd?'
+p434
+tp435
+Rp436
+tp437
+a(S"aberdeen university students' association"
+p438
+g2
+(g6
+S'\xd2\n\x01M^\xd6\xdd?'
+p439
+tp440
+Rp441
+tp442
+a(S'francis sheed anderson'
+p443
+g2
+(g6
+S'\x07\x8f!P\xb7\xc6\xdd?'
+p444
+tp445
+Rp446
+tp447
+a(S'nigg bay, aberdeen'
+p448
+g2
+(g6
+S'1\xa1\x06\xd0\xdb\xbf\xdd?'
+p449
+tp450
+Rp451
+tp452
+a(S'aberdeen performing arts'
+p453
+g2
+(g6
+S'\xd3\x9e\xa6\xbc\x82\xbd\xdd?'
+p454
+tp455
+Rp456
+tp457
+a(S'aberdeen south (scottish parliament constituency)'
+p458
+g2
+(g6
+S'Mpbxo\xa9\xdd?'
+p459
+tp460
+Rp461
+tp462
+a(S'george grub'
+p463
+g2
+(g6
+S'\xa4\xfa\xf6WH\x81\xdd?'
+p464
+tp465
+Rp466
+tp467
+a(S'james souttar'
+p468
+g2
+(g6
+S'v\x00\xf3&8x\xdd?'
+p469
+tp470
+Rp471
+tp472
+a(S'new aberdeen stadium'
+p473
+g2
+(g6
+S' ,<<0s\xdd?'
+p474
+tp475
+Rp476
+tp477
+a(S'king street, aberdeen'
+p478
+g2
+(g6
+S'\xe68\x99Ktg\xdd?'
+p479
+tp480
+Rp481
+tp482
+a(S'aberdeen university sport and recreation'
+p483
+g2
+(g6
+S'\xe6\xfd\xf6z\x08a\xdd?'
+p484
+tp485
+Rp486
+tp487
+a(S'aberdeen, jamaica'
+p488
+g2
+(g6
+S'\xd48\x1e\xf1\xf6^\xdd?'
+p489
+tp490
+Rp491
+tp492
+a(S'ian begg'
+p493
+g2
+(g6
+S'\r\xad\x92\xa4~X\xdd?'
+p494
+tp495
+Rp496
+tp497
+a(S'andy dornan'
+p498
+g2
+(g6
+S'(e\xa0W\x15U\xdd?'
+p499
+tp500
+Rp501
+tp502
+a(S'duffus & co.'
+p503
+g2
+(g6
+S'\xf8\x8f.\x8f\xc3O\xdd?'
+p504
+tp505
+Rp506
+tp507
+a(S'battle of aberdeen'
+p508
+g2
+(g6
+S'\xfe\xcaH%\xd7M\xdd?'
+p509
+tp510
+Rp511
+tp512
+a(S'diocese of aberdeen (disambiguation)'
+p513
+g2
+(g6
+S'\xfe\xa6\x02\x1f\xcc2\xdd?'
+p514
+tp515
+Rp516
+tp517
+a(S'aberdeen international business park'
+p518
+g2
+(g6
+S'T\xf5\xe8\x8d\xd4.\xdd?'
+p519
+tp520
+Rp521
+tp522
+a(S'robert mackay (priest)'
+p523
+g2
+(g6
+S'eu\xc9\x83b\x1a\xdd?'
+p524
+tp525
+Rp526
+tp527
+a(S'aberdeen floating village'
+p528
+g2
+(g6
+S'Uj\xd89W\x03\xdd?'
+p529
+tp530
+Rp531
+tp532
+a(S'george gordon, 2nd marquess of aberdeen and temair'
+p533
+g2
+(g6
+S'\xf1\x9b\xaf\xa0\x06\xfd\xdc?'
+p534
+tp535
+Rp536
+tp537
+a(S'aberdeen, idaho'
+p538
+g2
+(g6
+S'\xbd\x7fS\r\x1f\xf8\xdc?'
+p539
+tp540
+Rp541
+tp542
+a(S'diocese of aberdeen'
+p543
+g2
+(g6
+S'G\x9db\xbe\xf3\xf5\xdc?'
+p544
+tp545
+Rp546
+tp547
+a(S'international school of aberdeen'
+p548
+g2
+(g6
+S'\xea\x93\xeb;<\xf5\xdc?'
+p549
+tp550
+Rp551
+tp552
+a(S'economy of aberdeen'
+p553
+g2
+(g6
+S'%\xe9\xd7\x7f\xdc\xef\xdc?'
+p554
+tp555
+Rp556
+tp557
+a(S'media in aberdeen'
+p558
+g2
+(g6
+S'\xe9\xa7\xa0\xa71\xe5\xdc?'
+p559
+tp560
+Rp561
+tp562
+a(S'city of aberdeen council election, 1995'
+p563
+g2
+(g6
+S'\xa2FSi\x9f\xd5\xdc?'
+p564
+tp565
+Rp566
+tp567
+a(S'word \xe2\x80\x93 university of aberdeen writers festival'
+p568
+g2
+(g6
+S'2\xdbsF5\xa6\xdc?'
+p569
+tp570
+Rp571
+tp572
+a(S'history of aberdeen f.c.'
+p573
+g2
+(g6
+S'r\xcc\xff\xaa\xda\x9b\xdc?'
+p574
+tp575
+Rp576
+tp577
+a(S'european song'
+p578
+g2
+(g6
+S'\x855\x1d\x02\xc2\x9a\xdc?'
+p579
+tp580
+Rp581
+tp582
+a(S"king's museum"
+p583
+g2
+(g6
+S's\x05\xacy\x8a\x8d\xdc?'
+p584
+tp585
+Rp586
+tp587
+a(S'aberdeen, saskatchewan'
+p588
+g2
+(g6
+S'\xcd\x07{\xa2\x94\x85\xdc?'
+p589
+tp590
+Rp591
+tp592
+a(S'aberdeen theatres and concert halls'
+p593
+g2
+(g6
+S'\x0b\x19\x1e\xdd\xe2\x83\xdc?'
+p594
+tp595
+Rp596
+tp597
+a(S'aberdeen group'
+p598
+g2
+(g6
+S'{\x88t\x81Q\x82\xdc?'
+p599
+tp600
+Rp601
+tp602
+a(S'aberdeen high school (washington)'
+p603
+g2
+(g6
+S'\xddM\x08\x10\xbb|\xdc?'
+p604
+tp605
+Rp606
+tp607
+a(S'martin gilbert (businessman)'
+p608
+g2
+(g6
+S')\xee\xadBN|\xdc?'
+p609
+tp610
+Rp611
+tp612
+a(S'aberdeen avenue'
+p613
+g2
+(g6
+S'\xb5\n\xa1J\xb6z\xdc?'
+p614
+tp615
+Rp616
+tp617
+a(S'common good fund'
+p618
+g2
+(g6
+S'\x12)yf\x04w\xdc?'
+p619
+tp620
+Rp621
+tp622
+a(S'lewis united f.c.'
+p623
+g2
+(g6
+S'n\x97{\x1f\xd1k\xdc?'
+p624
+tp625
+Rp626
+tp627
+a(S'frank dunlop (footballer)'
+p628
+g2
+(g6
+S'\xa8\xf0Q\xd4\x95e\xdc?'
+p629
+tp630
+Rp631
+tp632
+a(S'aberdeen and kincardine central (uk parliament constituency)'
+p633
+g2
+(g6
+S'\x1c\t\x9c~b`\xdc?'
+p634
+tp635
+Rp636
+tp637
+a(S'harry yorston'
+p638
+g2
+(g6
+S'\x8a\xc6\x8a!\x9a]\xdc?'
+p639
+tp640
+Rp641
+tp642
+a(S'aberdeen sports ground'
+p643
+g2
+(g6
+S'+\xa5\xf8\xf7qS\xdc?'
+p644
+tp645
+Rp646
+tp647
+a(S'the american news'
+p648
+g2
+(g6
+S'}.b\xf8?G\xdc?'
+p649
+tp650
+Rp651
+tp652
+a(S'jamie langfield'
+p653
+g2
+(g6
+S'\xa2\xcb\xc6yvF\xdc?'
+p654
+tp655
+Rp656
+tp657
+a(S'william smith (architect)'
+p658
+g2
+(g6
+S'\xba5\xc4\x0e*9\xdc?'
+p659
+tp660
+Rp661
+tp662
+a(S'arthur ranken'
+p663
+g2
+(g6
+S'7\x1dp\xd2\x01!\xdc?'
+p664
+tp665
+Rp666
+tp667
+a(S'terry brotherstone'
+p668
+g2
+(g6
+S'l\x00\xf4\x88h\x1d\xdc?'
+p669
+tp670
+Rp671
+tp672
+a(S'aberdeen art gallery'
+p673
+g2
+(g6
+S'\t2!\xc9k\x19\xdc?'
+p674
+tp675
+Rp676
+tp677
+a(S'aberdeen district tramways'
+p678
+g2
+(g6
+S'h\xbf\xa9\xcd\xc4\x15\xdc?'
+p679
+tp680
+Rp681
+tp682
+a(S'archibald simpson'
+p683
+g2
+(g6
+S' \xc1\xd7K1\x10\xdc?'
+p684
+tp685
+Rp686
+tp687
+a(S'george thompson (shipowner)'
+p688
+g2
+(g6
+S'7\x0c\x17K6\x0b\xdc?'
+p689
+tp690
+Rp691
+tp692
+a(S'aberdeen station (translink)'
+p693
+g2
+(g6
+S'j\xa1?\xa7\xe3\x06\xdc?'
+p694
+tp695
+Rp696
+tp697
+a(S'religion in aberdeen'
+p698
+g2
+(g6
+S'\x99\xb3\xbe\x19-\xff\xdb?'
+p699
+tp700
+Rp701
+tp702
+a(S'aberdeen maritime museum'
+p703
+g2
+(g6
+S'\xfa\x13\x17\xc0\x13\xfe\xdb?'
+p704
+tp705
+Rp706
+tp707
+a(S'aberdeen student show'
+p708
+g2
+(g6
+S"p\x8a'\xbe+\xc6\xdb?"
+p709
+tp710
+Rp711
+tp712
+a(S'george hamilton-gordon, 4th earl of aberdeen'
+p713
+g2
+(g6
+S'x\xae,\xc9J\xbd\xdb?'
+p714
+tp715
+Rp716
+tp717
+a(S'aberdeen mosque and islamic centre'
+p718
+g2
+(g6
+S'x\xa5\xbch\xb1\xbc\xdb?'
+p719
+tp720
+Rp721
+tp722
+a(S'aberdeen, eastern cape'
+p723
+g2
+(g6
+S'WN\x01\xbf\x80\xb3\xdb?'
+p724
+tp725
+Rp726
+tp727
+a(S'myers danson'
+p728
+g2
+(g6
+S'\xfd\x19\x06F\xc8\xab\xdb?'
+p729
+tp730
+Rp731
+tp732
+a(S'aberdeen maternity hospital'
+p733
+g2
+(g6
+S'5Xt\xa7E\x93\xdb?'
+p734
+tp735
+Rp736
+tp737
+a(S'rachael small'
+p738
+g2
+(g6
+S'\xa2\xcap\xd7\xefc\xdb?'
+p739
+tp740
+Rp741
+tp742
+a(S'the press and journal (scotland)'
+p743
+g2
+(g6
+S'\x1d\x02\xef\xea,c\xdb?'
+p744
+tp745
+Rp746
+tp747
+a(S'tony harris (footballer)'
+p748
+g2
+(g6
+S'\xb5\xb24q\xc4H\xdb?'
+p749
+tp750
+Rp751
+tp752
+a(S'central high school (aberdeen, south dakota)'
+p753
+g2
+(g6
+S'18\xf9\x92\xcaA\xdb?'
+p754
+tp755
+Rp756
+tp757
+a(S'eddie legge'
+p758
+g2
+(g6
+S':\xe9\x9c\xe3\x14:\xdb?'
+p759
+tp760
+Rp761
+tp762
+a(S'james donaldson (classical scholar)'
+p763
+g2
+(g6
+S'\xe0\xb1\xc9\xd2<.\xdb?'
+p764
+tp765
+Rp766
+tp767
+a(S'aberdeen, porter county, indiana'
+p768
+g2
+(g6
+S"\x80g\xeb\x193'\xdb?"
+p769
+tp770
+Rp771
+tp772
+a(S'tommy mcmillan (footballer, born 1944)'
+p773
+g2
+(g6
+S'\xeemyf\x93%\xdb?'
+p774
+tp775
+Rp776
+tp777
+a(S'kirsty blackman'
+p778
+g2
+(g6
+S'q\xfc\xb26j\x1a\xdb?'
+p779
+tp780
+Rp781
+tp782
+a(S'mannofield'
+p783
+g2
+(g6
+S'e`B\x1c\xba\x0f\xdb?'
+p784
+tp785
+Rp786
+tp787
+a(S'stoneywood parkvale f.c.'
+p788
+g2
+(g6
+S'\\\xe55\x9c\x0f\x0c\xdb?'
+p789
+tp790
+Rp791
+tp792
+a(S'ab postcode area'
+p793
+g2
+(g6
+S'\x17\xe4S\x04\t\n\xdb?'
+p794
+tp795
+Rp796
+tp797
+a(S'aberdeen east end f.c.'
+p798
+g2
+(g6
+S'J7![\x18\x06\xdb?'
+p799
+tp800
+Rp801
+tp802
+a(S'bishop of aberdeen'
+p803
+g2
+(g6
+S'\x1b\xa4\xe0\xaf\xdf\xfc\xda?'
+p804
+tp805
+Rp806
+tp807
+a(S'alan main (minister)'
+p808
+g2
+(g6
+S'\xf5+b\xcf,\xfc\xda?'
+p809
+tp810
+Rp811
+tp812
+a(S'act aberdeen'
+p813
+g2
+(g6
+S'^\xe2\x98\xc8r\xe4\xda?'
+p814
+tp815
+Rp816
+tp817
+a(S'victoria united f.c.'
+p818
+g2
+(g6
+S'\xf5\xf4\xb8\xb9\x14\xe3\xda?'
+p819
+tp820
+Rp821
+tp822
+a(S'milltimber'
+p823
+g2
+(g6
+S'S\x13"{@\xc7\xda?'
+p824
+tp825
+Rp826
+tp827
+a(S'aberdeen school district (mississippi)'
+p828
+g2
+(g6
+S'%\xec\xd3U\\\xb5\xda?'
+p829
+tp830
+Rp831
+tp832
+a(S'aberdeen, washington'
+p833
+g2
+(g6
+S'\xacPf\xc1p\xaf\xda?'
+p834
+tp835
+Rp836
+tp837
+a(S'aberdeen channel'
+p838
+g2
+(g6
+S'.\x17y~\x03\xac\xda?'
+p839
+tp840
+Rp841
+tp842
+a(S'ss aberdeen (disambiguation)'
+p843
+g2
+(g6
+S'\x16\xbf$\xf2R\xa3\xda?'
+p844
+tp845
+Rp846
+tp847
+a(S'list of universities in scotland'
+p848
+g2
+(g6
+S'\x0f\xf3O\xac:x\xda?'
+p849
+tp850
+Rp851
+tp852
+a(S'brian adam'
+p853
+g2
+(g6
+S'LG\x0c\x87Cw\xda?'
+p854
+tp855
+Rp856
+tp857
+a(S'robert sivell'
+p858
+g2
+(g6
+S't\x0e_\x87vu\xda?'
+p859
+tp860
+Rp861
+tp862
+a(S'duncan rice'
+p863
+g2
+(g6
+S'\x101\xfd\xd8+s\xda?'
+p864
+tp865
+Rp866
+tp867
+a(S'davie robb'
+p868
+g2
+(g6
+S'\xc5\xfcC\xe1\xb1]\xda?'
+p869
+tp870
+Rp871
+tp872
+a(S'aberdeen (parliament of scotland constituency)'
+p873
+g2
+(g6
+S'\xb0\xa4\x19\xa9U\\\xda?'
+p874
+tp875
+Rp876
+tp877
+a(S'hillhead centre'
+p878
+g2
+(g6
+S'&\rf\t\xa0N\xda?'
+p879
+tp880
+Rp881
+tp882
+a(S'union square aberdeen'
+p883
+g2
+(g6
+S'\xa8\xcbKw:C\xda?'
+p884
+tp885
+Rp886
+tp887
+a(S'aberdeen grammar school'
+p888
+g2
+(g6
+S'\xee\xd1\xe4\nOA\xda?'
+p889
+tp890
+Rp891
+tp892
+a(S'bede house, old aberdeen'
+p893
+g2
+(g6
+S'\x12\xfe\x90\xc491\xda?'
+p894
+tp895
+Rp896
+tp897
+a(S'aberdeen university f.c.'
+p898
+g2
+(g6
+S'#\xa1\xa5\xc6\xa9,\xda?'
+p899
+tp900
+Rp901
+tp902
+a(S'aberdeen and kincardine east (uk parliament constituency)'
+p903
+g2
+(g6
+S"/l\x9a\xfd]'\xda?"
+p904
+tp905
+Rp906
+tp907
+a(S'frederick darwent'
+p908
+g2
+(g6
+S'G\xbf\xe8\x02\xcb\x1d\xda?'
+p909
+tp910
+Rp911
+tp912
+a(S'petroleum industry in aberdeen'
+p913
+g2
+(g6
+S'\xea\x84\xbfF\xc5\x17\xda?'
+p914
+tp915
+Rp916
+tp917
+a(S'william skinner (bishop)'
+p918
+g2
+(g6
+S'\xb9\x07"\xce\xad\x17\xda?'
+p919
+tp920
+Rp921
+tp922
+a(S'freedom of the city of aberdeen'
+p923
+g2
+(g6
+S'E+:K\xaa\x15\xda?'
+p924
+tp925
+Rp926
+tp927
+a(S'aberdeenshire (historic)'
+p928
+g2
+(g6
+S'\xee\xe6\xbd\xe2T\x13\xda?'
+p929
+tp930
+Rp931
+tp932
+a(S'john hewitt (footballer)'
+p933
+g2
+(g6
+S'\x9dFn\xb4"\x03\xda?'
+p934
+tp935
+Rp936
+tp937
+a(S'royal aberdeen golf club'
+p938
+g2
+(g6
+S's\xc4\xee\xe6\xa6\xfe\xd9?'
+p939
+tp940
+Rp941
+tp942
+a(S'joseph robertson (historian)'
+p943
+g2
+(g6
+S'\x143\x89\xa3\xde\xfd\xd9?'
+p944
+tp945
+Rp946
+tp947
+a(S'fraser noble'
+p948
+g2
+(g6
+S'\xebu\xc9\xe9_\xf3\xd9?'
+p949
+tp950
+Rp951
+tp952
+a(S'john gordon (aberdeen mp)'
+p953
+g2
+(g6
+S'\x04\x92\xa2S\xc1\xf2\xd9?'
+p954
+tp955
+Rp956
+tp957
+a(S'areas of aberdeen'
+p958
+g2
+(g6
+S"'\xd5C\xd1G\xf1\xd9?"
+p959
+tp960
+Rp961
+tp962
+a(S'orion f.c.'
+p963
+g2
+(g6
+S'\xad)F\x86\xbe\xe8\xd9?'
+p964
+tp965
+Rp966
+tp967
+a(S'aberdeen and briar patch railway'
+p968
+g2
+(g6
+S'\xe0\xeb\xf04F\xd0\xd9?'
+p969
+tp970
+Rp971
+tp972
+a(S'rubislaw playing fields'
+p973
+g2
+(g6
+S'\x18\x08\x169\x8e\xcb\xd9?'
+p974
+tp975
+Rp976
+tp977
+a(S'friendville (manor house)'
+p978
+g2
+(g6
+S'\xe4\xdd\xd1\x13\xbd\xa8\xd9?'
+p979
+tp980
+Rp981
+tp982
+a(S'archibald david reid'
+p983
+g2
+(g6
+S'\xfb\x0b\x7f.A\x89\xd9?'
+p984
+tp985
+Rp986
+tp987
+a(S'aberdeen typhoon shelters'
+p988
+g2
+(g6
+S'(\xe7\t\xef\xd3\x87\xd9?'
+p989
+tp990
+Rp991
+tp992
+a(S'lumsden and sachs fellowship'
+p993
+g2
+(g6
+S'\x01,$\x83\xd7\x83\xd9?'
+p994
+tp995
+Rp996
+tp997
+a(S'aberdeen railway'
+p998
+g2
+(g6
+S'_\xce-W\xe2w\xd9?'
+p999
+tp1000
+Rp1001
+tp1002
+a(S'neil cooper (footballer)'
+p1003
+g2
+(g6
+S'\x8dV\x14}Np\xd9?'
+p1004
+tp1005
+Rp1006
+tp1007
+a(S'scotland the what?'
+p1008
+g2
+(g6
+S'\xde\xd5\xe4\x9b\x19R\xd9?'
+p1009
+tp1010
+Rp1011
+tp1012
+a(S'kincorth academy'
+p1013
+g2
+(g6
+S'Xa[\x1cj2\xd9?'
+p1014
+tp1015
+Rp1016
+tp1017
+a(S'rod seib'
+p1018
+g2
+(g6
+S'l{\xb5X#.\xd9?'
+p1019
+tp1020
+Rp1021
+tp1022
+a(S'george bartlet'
+p1023
+g2
+(g6
+S'\x8b\x9b\x05\xb7\x9b,\xd9?'
+p1024
+tp1025
+Rp1026
+tp1027
+a(S'alec young'
+p1028
+g2
+(g6
+S'\xf3\x01s\xf0\x96#\xd9?'
+p1029
+tp1030
+Rp1031
+tp1032
+a(S'william duncan (philosopher)'
+p1033
+g2
+(g6
+S'\xf2@1\x9a\x85\x1c\xd9?'
+p1034
+tp1035
+Rp1036
+tp1037
+a(S'marquess of aberdeen and temair'
+p1038
+g2
+(g6
+S'\xd9&\xc1\x0fT\x19\xd9?'
+p1039
+tp1040
+Rp1041
+tp1042
+a(S'willie garner'
+p1043
+g2
+(g6
+S'\xf2\xbau\x8a\xf8\x13\xd9?'
+p1044
+tp1045
+Rp1046
+tp1047
+a(S'aberdeen lock and dam'
+p1048
+g2
+(g6
+S'\x87$\xf4\xfe\xd9\x12\xd9?'
+p1049
+tp1050
+Rp1051
+tp1052
+a(S"1983 european cup winners' cup final"
+p1053
+g2
+(g6
+S'kM\x08\x1a\xd7\x0c\xd9?'
+p1054
+tp1055
+Rp1056
+tp1057
+a(S'aberdeen city council'
+p1058
+g2
+(g6
+S'\x1c\xd7\xa0\x01\xce\n\xd9?'
+p1059
+tp1060
+Rp1061
+tp1062
+a(S'aberdeen south and north kincardine (scottish parliament constituency)'
+p1063
+g2
+(g6
+S'\xec\xc3\xe8d\x18\x00\xd9?'
+p1064
+tp1065
+Rp1066
+tp1067
+a(S'graeme catto'
+p1068
+g2
+(g6
+S'\xc0\x16\xf5\xc4u\xfc\xd8?'
+p1069
+tp1070
+Rp1071
+tp1072
+a(S'alex halkett'
+p1073
+g2
+(g6
+S'l\xce?\x06\x15\xfc\xd8?'
+p1074
+tp1075
+Rp1076
+tp1077
+a(S'woolmanhill hospital'
+p1078
+g2
+(g6
+S'\xc0V\x0c\x13j\xe9\xd8?'
+p1079
+tp1080
+Rp1081
+tp1082
+a(S'stonehaven railway station'
+p1083
+g2
+(g6
+S'-/\x8e\xcd(\xe4\xd8?'
+p1084
+tp1085
+Rp1086
+tp1087
+a(S'thomas suther'
+p1088
+g2
+(g6
+S'4:\xe4Sq\xdd\xd8?'
+p1089
+tp1090
+Rp1091
+tp1092
+a(S'aberdeen gardens (hampton, virginia)'
+p1093
+g2
+(g6
+S'\xb2\x0f\x18h\xee\xd3\xd8?'
+p1094
+tp1095
+Rp1096
+tp1097
+a(S'gilcomstoun primary school'
+p1098
+g2
+(g6
+S'K\x17\x85\x90\xd1\xc2\xd8?'
+p1099
+tp1100
+Rp1101
+tp1102
+a(S'aberdeen journals'
+p1103
+g2
+(g6
+S'+\x10p\xa7\xc8\xbc\xd8?'
+p1104
+tp1105
+Rp1106
+tp1107
+a(S'walter thom'
+p1108
+g2
+(g6
+S'\xaf\x9ad\x1f\xf4\xb7\xd8?'
+p1109
+tp1110
+Rp1111
+tp1112
+a(S"st machar's cathedral"
+p1113
+g2
+(g6
+S'\x9a8K\xd4\xb5\xb3\xd8?'
+p1114
+tp1115
+Rp1116
+tp1117
+a(S'gilbert gerard (theological writer)'
+p1118
+g2
+(g6
+S'\x1a\xbb+\x06\xcd\xab\xd8?'
+p1119
+tp1120
+Rp1121
+tp1122
+a(S"royal aberdeen children's hospital"
+p1123
+g2
+(g6
+S'\xe5\xb6\x18~\xa0\xab\xd8?'
+p1124
+tp1125
+Rp1126
+tp1127
+a(S'dudley gordon, 3rd marquess of aberdeen and temair'
+p1128
+g2
+(g6
+S'Gu\x83w\xc0\xa8\xd8?'
+p1129
+tp1130
+Rp1131
+tp1132
+a(S'cheryl paul'
+p1133
+g2
+(g6
+S'\xa8\x06\xd0M\xa2\x9f\xd8?'
+p1134
+tp1135
+Rp1136
+tp1137
+a(S'elphinstone hall'
+p1138
+g2
+(g6
+S'\x0crM\xa7\xad\x9a\xd8?'
+p1139
+tp1140
+Rp1141
+tp1142
+a(S'benny yorston'
+p1143
+g2
+(g6
+S'\xb3\\oY\xea\x96\xd8?'
+p1144
+tp1145
+Rp1146
+tp1147
+a(S'john smith (architect)'
+p1148
+g2
+(g6
+S'\x91+\x9f>\x18\x89\xd8?'
+p1149
+tp1150
+Rp1151
+tp1152
+a(S'aberdeen bach choir'
+p1153
+g2
+(g6
+S',\x85epi\x83\xd8?'
+p1154
+tp1155
+Rp1156
+tp1157
+a(S'john ogston'
+p1158
+g2
+(g6
+S'\xae\x9d\xbb\xd4w|\xd8?'
+p1159
+tp1160
+Rp1161
+tp1162
+a(S'aberdeen street'
+p1163
+g2
+(g6
+S'\r\xd8S\x15&x\xd8?'
+p1164
+tp1165
+Rp1166
+tp1167
+a(S'aberdeen l.f.c.'
+p1168
+g2
+(g6
+S'\x1a\xed\x1cgus\xd8?'
+p1169
+tp1170
+Rp1171
+tp1172
+a(S'university of aberdeen school of law'
+p1173
+g2
+(g6
+S'\xd0o\x11\xcb\xacr\xd8?'
+p1174
+tp1175
+Rp1176
+tp1177
+a(S'2008\xe2\x80\x9309 aberdeen f.c. season'
+p1178
+g2
+(g6
+S'\x111h3$p\xd8?'
+p1179
+tp1180
+Rp1181
+tp1182
+a(S'aberdeen to inverness line'
+p1183
+g2
+(g6
+S'\x1a\x1dD\xdb\xaam\xd8?'
+p1184
+tp1185
+Rp1186
+tp1187
+a(S'peter moran'
+p1188
+g2
+(g6
+S'\xde\xeeC{\x84l\xd8?'
+p1189
+tp1190
+Rp1191
+tp1192
+a(S'joyce w. cairns'
+p1193
+g2
+(g6
+S'\t\x1a\x84\xcfLk\xd8?'
+p1194
+tp1195
+Rp1196
+tp1197
+a(S'aberdeen city hall'
+p1198
+g2
+(g6
+S'\xb1\x83vZ\xb1g\xd8?'
+p1199
+tp1200
+Rp1201
+tp1202
+a(S'midstocket'
+p1203
+g2
+(g6
+S'\xaf$a\xf8]W\xd8?'
+p1204
+tp1205
+Rp1206
+tp1207
+a(S'university of aberdeen college of physical sciences'
+p1208
+g2
+(g6
+S'\x8b\xec\xc4W\xceA\xd8?'
+p1209
+tp1210
+Rp1211
+tp1212
+a(S'alfred william gibb'
+p1213
+g2
+(g6
+S'.\xad\x9a\x86\xba;\xd8?'
+p1214
+tp1215
+Rp1216
+tp1217
+a(S'westhill, aberdeenshire'
+p1218
+g2
+(g6
+S'\xb5|\x01\xa1\xf77\xd8?'
+p1219
+tp1220
+Rp1221
+tp1222
+a(S'michael watt (footballer)'
+p1223
+g2
+(g6
+S'\xc8:S6\x057\xd8?'
+p1224
+tp1225
+Rp1226
+tp1227
+a(S'hms aberdeen (l97)'
+p1228
+g2
+(g6
+S'\xfcYrW\xcc4\xd8?'
+p1229
+tp1230
+Rp1231
+tp1232
+a(S"st john's, aberdeen"
+p1233
+g2
+(g6
+S'\xb4U\xec\xbf\xb51\xd8?'
+p1234
+tp1235
+Rp1236
+tp1237
+a(S'robert gordon university - garthdee campus'
+p1238
+g2
+(g6
+S'\x00\x03\xf2*m1\xd8?'
+p1239
+tp1240
+Rp1241
+tp1242
+a(S'geography of aberdeen'
+p1243
+g2
+(g6
+S"\x98'\x901$.\xd8?"
+p1244
+tp1245
+Rp1246
+tp1247
+a(S'willie miller'
+p1248
+g2
+(g6
+S'lK\\y\xd0*\xd8?'
+p1249
+tp1250
+Rp1251
+tp1252
+a(S'suttie centre'
+p1253
+g2
+(g6
+S'$"h\x1c\xca*\xd8?'
+p1254
+tp1255
+Rp1256
+tp1257
+a(S'ss aberdeen (1881)'
+p1258
+g2
+(g6
+S"\xe5P^\x19\x08'\xd8?"
+p1259
+tp1260
+Rp1261
+tp1262
+a(S'robert dyce'
+p1263
+g2
+(g6
+S'gT~)\xa8 \xd8?'
+p1264
+tp1265
+Rp1266
+tp1267
+a(S'andy love (scottish footballer)'
+p1268
+g2
+(g6
+S'\xc6Y\xb1^a\x1b\xd8?'
+p1269
+tp1270
+Rp1271
+tp1272
+a(S'eric auld'
+p1273
+g2
+(g6
+S'fj\xee\x8f\xec\x1a\xd8?'
+p1274
+tp1275
+Rp1276
+tp1277
+a(S'henry scougal'
+p1278
+g2
+(g6
+S'xo\xa9\xf1I\x12\xd8?'
+p1279
+tp1280
+Rp1281
+tp1282
+a(S'marischal square'
+p1283
+g2
+(g6
+S'>I0\xbd1\r\xd8?'
+p1284
+tp1285
+Rp1286
+tp1287
+a(S'aberdeen western peripheral route'
+p1288
+g2
+(g6
+S'\xeeQ\x10\xef\x18\xfe\xd7?'
+p1289
+tp1290
+Rp1291
+tp1292
+a(S'francis peacock'
+p1293
+g2
+(g6
+S'\xb6\xf1\xa9\xea\xfe\xe2\xd7?'
+p1294
+tp1295
+Rp1296
+tp1297
+a(S'aberdeen trades hospitals'
+p1298
+g2
+(g6
+S'M\x9a\xd3\xd7\x08\xde\xd7?'
+p1299
+tp1300
+Rp1301
+tp1302
+a(S'seaton park'
+p1303
+g2
+(g6
+S'\x06\x8d4\x98\x17\xca\xd7?'
+p1304
+tp1305
+Rp1306
+tp1307
+a(S'archibald gordon, 5th marquess of aberdeen and temair'
+p1308
+g2
+(g6
+S'\xd2\x8aP\xc1\x8d\xc7\xd7?'
+p1309
+tp1310
+Rp1311
+tp1312
+a(S'chris anderson (footballer, born 1925)'
+p1313
+g2
+(g6
+S',\xbb\xea\r\xa5\xc3\xd7?'
+p1314
+tp1315
+Rp1316
+tp1317
+a(S'cliffwood, new jersey'
+p1318
+g2
+(g6
+S'\x1cB\x1f\xcc\xaf\xbb\xd7?'
+p1319
+tp1320
+Rp1321
+tp1322
+a(S'matawan-aberdeen regional school district'
+p1323
+g2
+(g6
+S'D\xa0\xf8\\\x7f\xaf\xd7?'
+p1324
+tp1325
+Rp1326
+tp1327
+a(S'music hall aberdeen'
+p1328
+g2
+(g6
+S'\x1f\xc2\xa0/Z\xaa\xd7?'
+p1329
+tp1330
+Rp1331
+tp1332
+a(S'nicky low'
+p1333
+g2
+(g6
+S'\xd0N\x1fbC\xa1\xd7?'
+p1334
+tp1335
+Rp1336
+tp1337
+a(S"bishop dunbar's hospital"
+p1338
+g2
+(g6
+S'?\xd1\x88\xaa\t\x9f\xd7?'
+p1339
+tp1340
+Rp1341
+tp1342
+a(S'first aberdeen'
+p1343
+g2
+(g6
+S'\xe7?\xd6\x06:\x9e\xd7?'
+p1344
+tp1345
+Rp1346
+tp1347
+a(S'jimmy black (footballer)'
+p1348
+g2
+(g6
+S'\xe2z\xa5$\xdd\x90\xd7?'
+p1349
+tp1350
+Rp1351
+tp1352
+a(S'ss aberdeen'
+p1353
+g2
+(g6
+S'\xa9\x9c\x93\xcd!\x8a\xd7?'
+p1354
+tp1355
+Rp1356
+tp1357
+a(S'dominico gibson'
+p1358
+g2
+(g6
+S'\xb5\xfb}\xdf\xdd\x89\xd7?'
+p1359
+tp1360
+Rp1361
+tp1362
+a(S'aberdeen suburban tramways'
+p1363
+g2
+(g6
+S'B2<\xbbb\x83\xd7?'
+p1364
+tp1365
+Rp1366
+tp1367
+a(S'george gordon, 3rd earl of aberdeen'
+p1368
+g2
+(g6
+S'\xbc\xc6)\xe5t|\xd7?'
+p1369
+tp1370
+Rp1371
+tp1372
+a(S'list of aberdeen f.c. records and statistics'
+p1373
+g2
+(g6
+S'z\xad\xcb`"z\xd7?'
+p1374
+tp1375
+Rp1376
+tp1377
+a(S'aberdeen crossrail'
+p1378
+g2
+(g6
+S'k4\x16\xd1\xd5u\xd7?'
+p1379
+tp1380
+Rp1381
+tp1382
+a(S'andrew considine'
+p1383
+g2
+(g6
+S'-\xd8\xb1\x89\xbfn\xd7?'
+p1384
+tp1385
+Rp1386
+tp1387
+a(S'king george vi bridge'
+p1388
+g2
+(g6
+S'\xb5\x19\x08iGa\xd7?'
+p1389
+tp1390
+Rp1391
+tp1392
+a(S'alexander gerard'
+p1393
+g2
+(g6
+S'\xcc\xe5/\x9b\xc3\\\xd7?'
+p1394
+tp1395
+Rp1396
+tp1397
+a(S'university of aberdeen college of life sciences and medicine'
+p1398
+g2
+(g6
+S'G\xf8\x82BQR\xd7?'
+p1399
+tp1400
+Rp1401
+tp1402
+a(S'dick donald'
+p1403
+g2
+(g6
+S'\x172\xe5\x9f\x1aP\xd7?'
+p1404
+tp1405
+Rp1406
+tp1407
+a(S'coat of arms of aberdeen'
+p1408
+g2
+(g6
+S'\tz\x04\x14\xc9N\xd7?'
+p1409
+tp1410
+Rp1411
+tp1412
+a(S'architecture of aberdeen'
+p1413
+g2
+(g6
+S'\x00\x070h\x14H\xd7?'
+p1414
+tp1415
+Rp1416
+tp1417
+a(S'william stewart (bishop of aberdeen)'
+p1418
+g2
+(g6
+S'a\xad\xf4\xfd\x89F\xd7?'
+p1419
+tp1420
+Rp1421
+tp1422
+a(S'nechtan of aberdeen'
+p1423
+g2
+(g6
+S'\xf7\x04\x7f\x13\x1cE\xd7?'
+p1424
+tp1425
+Rp1426
+tp1427
+a(S'jimmy philip'
+p1428
+g2
+(g6
+S'\xea\x0e\xb5\x138A\xd7?'
+p1429
+tp1430
+Rp1431
+tp1432
+a(S'union terrace gardens'
+p1433
+g2
+(g6
+S'\xc4\x0f\x1b\x05\xde9\xd7?'
+p1434
+tp1435
+Rp1436
+tp1437
+a(S'aberdeen historic district (aberdeen, south dakota)'
+p1438
+g2
+(g6
+S'E\xa6|Xm4\xd7?'
+p1439
+tp1440
+Rp1441
+tp1442
+a(S'teddy scott'
+p1443
+g2
+(g6
+S's\xdb**\x8f3\xd7?'
+p1444
+tp1445
+Rp1446
+tp1447
+a(S'list of category a listed buildings in aberdeen'
+p1448
+g2
+(g6
+S'\xb8d,A\xdd0\xd7?'
+p1449
+tp1450
+Rp1451
+tp1452
+a(S'aberdeen hall'
+p1453
+g2
+(g6
+S'j2\x0c\xea8*\xd7?'
+p1454
+tp1455
+Rp1456
+tp1457
+a(S'history of universities in scotland'
+p1458
+g2
+(g6
+S'\xfaY\xbb\x89\\\x1e\xd7?'
+p1459
+tp1460
+Rp1461
+tp1462
+a(S'ss aberdeen (1912)'
+p1463
+g2
+(g6
+S'\x8d\xbfQ\x93\xc0\x10\xd7?'
+p1464
+tp1465
+Rp1466
+tp1467
+a(S'richard gordon (broadcaster)'
+p1468
+g2
+(g6
+S'\xa8\xd9*`\xa0\x0c\xd7?'
+p1469
+tp1470
+Rp1471
+tp1472
+a(S'anne davidson'
+p1473
+g2
+(g6
+S'i\x00L\xe3\xa8\xfd\xd6?'
+p1474
+tp1475
+Rp1476
+tp1477
+a(S'aberdeen regent park greyhound stadium'
+p1478
+g2
+(g6
+S'\xd6Yx>\xef\xf8\xd6?'
+p1479
+tp1480
+Rp1481
+tp1482
+a(S"queen's park shield"
+p1483
+g2
+(g6
+S'\xd3\x8aZ\xce2\xe6\xd6?'
+p1484
+tp1485
+Rp1486
+tp1487
+a(S'jim hermiston'
+p1488
+g2
+(g6
+S'\x9d\x86\xf1\xb4\xa6\xe1\xd6?'
+p1489
+tp1490
+Rp1491
+tp1492
+a(S'diocese of aberdeen and orkney'
+p1493
+g2
+(g6
+S'\x9f\x92)G\x94\xda\xd6?'
+p1494
+tp1495
+Rp1496
+tp1497
+a(S'a roads in zone 9 of the great britain numbering scheme'
+p1498
+g2
+(g6
+S'\xb3H2\x8a\xa5\xd5\xd6?'
+p1499
+tp1500
+Rp1501
+tp1502
+a(S'david donald (footballer)'
+p1503
+g2
+(g6
+S'+\x08\xbb\x8d\xd0\xd1\xd6?'
+p1504
+tp1505
+Rp1506
+tp1507
+a(S'2010\xe2\x80\x9311 aberdeen f.c. season'
+p1508
+g2
+(g6
+S'\xe7\xfaF-\x98\xc4\xd6?'
+p1509
+tp1510
+Rp1511
+tp1512
+a.

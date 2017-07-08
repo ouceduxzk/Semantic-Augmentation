@@ -1,0 +1,2728 @@
+(lp0
+(S'sharif university of technology'
+p1
+cnumpy.core.multiarray
+scalar
+p2
+(cnumpy
+dtype
+p3
+(S'f8'
+p4
+I0
+I1
+tp5
+Rp6
+(I3
+S'<'
+p7
+NNNI-1
+I-1
+I0
+tp8
+bS'\xf5\xff\xff\xff\xff\xff\xef?'
+p9
+tp10
+Rp11
+tp12
+a(S'iran university of science and technology'
+p13
+g2
+(g6
+S'\x04\x18\xb6\x82\xe2\x8a\xe1?'
+p14
+tp15
+Rp16
+tp17
+a(S'ali mohammad ranjbar'
+p18
+g2
+(g6
+S'\x95\xb3\xe1\xeb\x9d@\xe1?'
+p19
+tp20
+Rp21
+tp22
+a(S'sharif college of engineering and technology, lahore'
+p23
+g2
+(g6
+S'\x1a\xb7\x9d\xee\xe2\xa8\xe0?'
+p24
+tp25
+Rp26
+tp27
+a(S'sahand university of technology'
+p28
+g2
+(g6
+S'\xbfEZ\x01`]\xe0?'
+p29
+tp30
+Rp31
+tp32
+a(S'list of sharif university of technology people'
+p33
+g2
+(g6
+S'\xedq"\xd3\xc2O\xe0?'
+p34
+tp35
+Rp36
+tp37
+a(S'saeed sohrabpour'
+p38
+g2
+(g6
+S'\x99J\xe5\x80,H\xe0?'
+p39
+tp40
+Rp41
+tp42
+a(S'firouz partovi'
+p43
+g2
+(g6
+S'\xb5L"\x85R\x01\xe0?'
+p44
+tp45
+Rp46
+tp47
+a(S'sharif (disambiguation)'
+p48
+g2
+(g6
+S"?S'\x97\x83\xd4\xdf?"
+p49
+tp50
+Rp51
+tp52
+a(S'ali abbaspoor tehrani fard'
+p53
+g2
+(g6
+S'C\xf8\xdb\xbd\xdc\xa9\xdf?'
+p54
+tp55
+Rp56
+tp57
+a(S'amirkabir university of technology'
+p58
+g2
+(g6
+S'\xb0\xf4\xd2\xf4\xae~\xde?'
+p59
+tp60
+Rp61
+tp62
+a(S'shenyang university of technology'
+p63
+g2
+(g6
+S'\xf4\xb8u\x83\x9c:\xde?'
+p64
+tp65
+Rp66
+tp67
+a(S'nawaz sharif'
+p68
+g2
+(g6
+S'\x18\x14\xf9\xbb\xf3\xfe\xdc?'
+p69
+tp70
+Rp71
+tp72
+a(S'malek-ashtar university of technology'
+p73
+g2
+(g6
+S'\xf1%\xbbm\x80\xfe\xdb?'
+p74
+tp75
+Rp76
+tp77
+a(S'omar sharif'
+p78
+g2
+(g6
+S'_\x92\xa0Z\xbf\xf8\xdb?'
+p79
+tp80
+Rp81
+tp82
+a(S'sayed khatiboleslam sadrnezhaad'
+p83
+g2
+(g6
+S'\xc8R\x16V\xf8\xf6\xdb?'
+p84
+tp85
+Rp86
+tp87
+a(S'majid sharif'
+p88
+g2
+(g6
+S'\xe6\x04\xcc\x08\x84\xf4\xdb?'
+p89
+tp90
+Rp91
+tp92
+a(S'sharif university of technology international campus \xe2\x80\x93 kish island'
+p93
+g2
+(g6
+S'h\xa9\x00\xe3G\xd2\xdb?'
+p94
+tp95
+Rp96
+tp97
+a(S'iranian machine design competition'
+p98
+g2
+(g6
+S'\xdd\xf3\x94\xa5#\x82\xdb?'
+p99
+tp100
+Rp101
+tp102
+a(S'isfahan university of technology'
+p103
+g2
+(g6
+S'M\xd8\xb0O\xb6l\xdb?'
+p104
+tp105
+Rp106
+tp107
+a(S'sharif group'
+p108
+g2
+(g6
+S'\xfb\xbdZF\x0bj\xdb?'
+p109
+tp110
+Rp111
+tp112
+a(S'muhammed sharif'
+p113
+g2
+(g6
+S'\x82\x1c\x95\x84\xc1A\xdb?'
+p114
+tp115
+Rp116
+tp117
+a(S'muhammad sharif (cosmologist)'
+p118
+g2
+(g6
+S'\xac\xc3\x9c\xfb\xa5<\xdb?'
+p119
+tp120
+Rp121
+tp122
+a(S'muhammad sharif'
+p123
+g2
+(g6
+S'\r2\x8f\xf5_:\xdb?'
+p124
+tp125
+Rp126
+tp127
+a(S'sharif family'
+p128
+g2
+(g6
+S'\x01\xd4&\xc5@\x1f\xdb?'
+p129
+tp130
+Rp131
+tp132
+a(S'shahrood university of technology'
+p133
+g2
+(g6
+S'\x8c\xfb\x82\xe8\x02\x17\xdb?'
+p134
+tp135
+Rp136
+tp137
+a(S'babol noshirvani university of technology'
+p138
+g2
+(g6
+S'\xff\x08\x14h\xf0\xa2\xda?'
+p139
+tp140
+Rp141
+tp142
+a(S'jafar sharif-emami'
+p143
+g2
+(g6
+S'\x9d\xd4\xbb"H\x99\xda?'
+p144
+tp145
+Rp146
+tp147
+a(S'imam khomeini international university'
+p148
+g2
+(g6
+S'I\xeb\xec\xbfWP\xda?'
+p149
+tp150
+Rp151
+tp152
+a(S'university of engineering and technology, lahore'
+p153
+g2
+(g6
+S'T\x1fqK\xfe<\xda?'
+p154
+tp155
+Rp156
+tp157
+a(S'mohra sharif'
+p158
+g2
+(g6
+S'\xb5\x0f\x15\x081$\xda?'
+p159
+tp160
+Rp161
+tp162
+a(S'hamza shahbaz sharif'
+p163
+g2
+(g6
+S'\xbdea\x8fJ\xf6\xd9?'
+p164
+tp165
+Rp166
+tp167
+a(S'national technical university of athens'
+p168
+g2
+(g6
+S'.\xb7E)\x80\xb5\xd9?'
+p169
+tp170
+Rp171
+tp172
+a(S'virginia tech college of engineering'
+p173
+g2
+(g6
+S'T1\x86\xf6nh\xd9?'
+p174
+tp175
+Rp176
+tp177
+a(S'ucsb college of engineering'
+p178
+g2
+(g6
+S'h\x1dri\xd6\x1a\xd9?'
+p179
+tp180
+Rp181
+tp182
+a(S'university of tehran'
+p183
+g2
+(g6
+S'\x05\xc3,\x1d\xee\x02\xd9?'
+p184
+tp185
+Rp186
+tp187
+a(S'university of florida college of engineering'
+p188
+g2
+(g6
+S'\xac\x80\xaa\x99o\x01\xd9?'
+p189
+tp190
+Rp191
+tp192
+a(S'tarbiat modares university'
+p193
+g2
+(g6
+S'\x8e\xf0\xbb\x9d\x1e\x00\xd9?'
+p194
+tp195
+Rp196
+tp197
+a(S'mahmud fotuhi firuzabad'
+p198
+g2
+(g6
+S'\x15\xda\x06@\x94\xff\xd8?'
+p199
+tp200
+Rp201
+tp202
+a(S'sadjad university of technology'
+p203
+g2
+(g6
+S'%X\xd8\x16\xd5\xf0\xd8?'
+p204
+tp205
+Rp206
+tp207
+a(S'rayat institute of engineering & information technology'
+p208
+g2
+(g6
+S'\xae\xc5\xa0\xba\x84\xed\xd8?'
+p209
+tp210
+Rp211
+tp212
+a(S'farhang sharif'
+p213
+g2
+(g6
+S'\xc7\x94\x1e\xd5z\xed\xd8?'
+p214
+tp215
+Rp216
+tp217
+a(S'power and water university of technology'
+p218
+g2
+(g6
+S'n\xf8\x07\xaa\xe8\xec\xd8?'
+p219
+tp220
+Rp221
+tp222
+a(S'omar sharif (disambiguation)'
+p223
+g2
+(g6
+S'\t\x18\xd8\x1e\xa2\xeb\xd8?'
+p224
+tp225
+Rp226
+tp227
+a(S'visvesvaraya technological university'
+p228
+g2
+(g6
+S'\x11\xcdd\x02:\xe1\xd8?'
+p229
+tp230
+Rp231
+tp232
+a(S'university at buffalo school of engineering and applied sciences'
+p233
+g2
+(g6
+S'\xb9C\xca-\x8d\xd3\xd8?'
+p234
+tp235
+Rp236
+tp237
+a(S'university of technology, iraq'
+p238
+g2
+(g6
+S'\x8a\x85L[\xfb\xce\xd8?'
+p239
+tp240
+Rp241
+tp242
+a(S'jand sharif'
+p243
+g2
+(g6
+S'\xef\xa8-\x87G\xcb\xd8?'
+p244
+tp245
+Rp246
+tp247
+a(S'university of bonab'
+p248
+g2
+(g6
+S'$\xfb$\x0c\xf1\xb4\xd8?'
+p249
+tp250
+Rp251
+tp252
+a(S'hatef higher education institute'
+p253
+g2
+(g6
+S'\xbf dLT\xb2\xd8?'
+p254
+tp255
+Rp256
+tp257
+a(S'university of pennsylvania school of engineering and applied science'
+p258
+g2
+(g6
+S'\xfc\x9bFh<\x99\xd8?'
+p259
+tp260
+Rp261
+tp262
+a(S'henry samueli school of engineering'
+p263
+g2
+(g6
+S'1!8\x9bx\x91\xd8?'
+p264
+tp265
+Rp266
+tp267
+a(S'institute of engineering'
+p268
+g2
+(g6
+S'!j\x10:\xfa\x84\xd8?'
+p269
+tp270
+Rp271
+tp272
+a(S'list of engineering colleges in tamil nadu'
+p273
+g2
+(g6
+S'\xfe\xef\x9c\x90@\x80\xd8?'
+p274
+tp275
+Rp276
+tp277
+a(S'wayne state university college of engineering'
+p278
+g2
+(g6
+S',\xe8\x10\xc8\xbc~\xd8?'
+p279
+tp280
+Rp281
+tp282
+a(S'columbia school of engineering and applied science'
+p283
+g2
+(g6
+S'\r\\8C\xa1}\xd8?'
+p284
+tp285
+Rp286
+tp287
+a(S'k. n. toosi university of technology'
+p288
+g2
+(g6
+S'W\x89\xe2V\x10^\xd8?'
+p289
+tp290
+Rp291
+tp292
+a(S'sirjan university of technology'
+p293
+g2
+(g6
+S'\xc2\x97\x94\x9axY\xd8?'
+p294
+tp295
+Rp296
+tp297
+a(S'university of texas at san antonio college of engineering'
+p298
+g2
+(g6
+S'\xb7-\xaca\xedL\xd8?'
+p299
+tp300
+Rp301
+tp302
+a(S'list of engineering schools'
+p303
+g2
+(g6
+S'\xac\xdf\xbd<\xbe \xd8?'
+p304
+tp305
+Rp306
+tp307
+a(S'uet ksk campus'
+p308
+g2
+(g6
+S'?\xb1\xde\xe5x\x1c\xd8?'
+p309
+tp310
+Rp311
+tp312
+a(S'cockrell school of engineering'
+p313
+g2
+(g6
+S'\xc6/\xd7a\x17\x1b\xd8?'
+p314
+tp315
+Rp316
+tp317
+a(S'arshad sharif'
+p318
+g2
+(g6
+S'\xfa\x1a\x8e\xe4\xf1\x11\xd8?'
+p319
+tp320
+Rp321
+tp322
+a(S'mohiyedine sharif'
+p323
+g2
+(g6
+S'\xce=\xfc\xb2\xe3\r\xd8?'
+p324
+tp325
+Rp326
+tp327
+a(S'mehran university of engineering and technology'
+p328
+g2
+(g6
+S'!\x11\xdd\xb7\xc6\xff\xd7?'
+p329
+tp330
+Rp331
+tp332
+a(S'uc berkeley college of engineering'
+p333
+g2
+(g6
+S' \xecc!\xe0\xfc\xd7?'
+p334
+tp335
+Rp336
+tp337
+a(S'fazlollah reza'
+p338
+g2
+(g6
+S'\x1c\xcdf6\xdc\xf8\xd7?'
+p339
+tp340
+Rp341
+tp342
+a(S'gujarat technological university'
+p343
+g2
+(g6
+S'&\x8bq\xa5\xf7\xf7\xd7?'
+p344
+tp345
+Rp346
+tp347
+a(S'university of the philippines college of engineering'
+p348
+g2
+(g6
+S'N\xf2*I\xb6\xf5\xd7?'
+p349
+tp350
+Rp351
+tp352
+a(S'university of massachusetts amherst college of engineering'
+p353
+g2
+(g6
+S'\xc8\xa5\xfd\x1d\n\xdf\xd7?'
+p354
+tp355
+Rp356
+tp357
+a(S'uiuc college of engineering'
+p358
+g2
+(g6
+S'\xcc\xf8g\x0fI\xd2\xd7?'
+p359
+tp360
+Rp361
+tp362
+a(S'pulchok campus'
+p363
+g2
+(g6
+S'\xe20}E\x83\xd0\xd7?'
+p364
+tp365
+Rp366
+tp367
+a(S'rahmat shoureshi'
+p368
+g2
+(g6
+S'[E\xf0\xaf\xa7\xca\xd7?'
+p369
+tp370
+Rp371
+tp372
+a(S'national university of sciences and technology (pakistan)'
+p373
+g2
+(g6
+S'\xb0S\x91\xa4]\xc4\xd7?'
+p374
+tp375
+Rp376
+tp377
+a(S'bina sharif'
+p378
+g2
+(g6
+S'\xe4d\xc1\xa1&\xb3\xd7?'
+p379
+tp380
+Rp381
+tp382
+a(S'bourns college of engineering'
+p383
+g2
+(g6
+S'W6\xa7\xdc\x87\xb2\xd7?'
+p384
+tp385
+Rp386
+tp387
+a(S'bachelor of engineering'
+p388
+g2
+(g6
+S'\xa7ic\x1e\xe9\xb1\xd7?'
+p389
+tp390
+Rp391
+tp392
+a(S'tafresh university'
+p393
+g2
+(g6
+S'X[V\xac\xae\x9f\xd7?'
+p394
+tp395
+Rp396
+tp397
+a(S'solmaz sharif'
+p398
+g2
+(g6
+S'\xbe\x0ej[f\x9b\xd7?'
+p399
+tp400
+Rp401
+tp402
+a(S'ucla henry samueli school of engineering and applied science'
+p403
+g2
+(g6
+S'\xe0y+2w\x8e\xd7?'
+p404
+tp405
+Rp406
+tp407
+a(S'university of illinois at chicago college of engineering'
+p408
+g2
+(g6
+S'.\xc2\xc5c\xa9\x8d\xd7?'
+p409
+tp410
+Rp411
+tp412
+a(S'university of alberta faculty of engineering'
+p413
+g2
+(g6
+S'\x12\xa9\xe6F\x04\x8d\xd7?'
+p414
+tp415
+Rp416
+tp417
+a(S'ali jadbabaie'
+p418
+g2
+(g6
+S'\xa6\x8a\x00D\xbd\x87\xd7?'
+p419
+tp420
+Rp421
+tp422
+a(S'catholic university school of engineering'
+p423
+g2
+(g6
+S'\x0b\xb6%0\xf5|\xd7?'
+p424
+tp425
+Rp426
+tp427
+a(S'list of engineering colleges affiliated to osmania university'
+p428
+g2
+(g6
+S'3t\x10Gjx\xd7?'
+p429
+tp430
+Rp431
+tp432
+a(S'university of science and technology beijing'
+p433
+g2
+(g6
+S'\xee1\x1b\x04uv\xd7?'
+p434
+tp435
+Rp436
+tp437
+a(S'schulich school of engineering'
+p438
+g2
+(g6
+S'\x83\x0c\xcdo\x01t\xd7?'
+p439
+tp440
+Rp441
+tp442
+a(S'george washington university school of engineering and applied science'
+p443
+g2
+(g6
+S'\x84l\xff`Ud\xd7?'
+p444
+tp445
+Rp446
+tp447
+a(S'university of utah college of engineering'
+p448
+g2
+(g6
+S'\xb1\xffl3\x92_\xd7?'
+p449
+tp450
+Rp451
+tp452
+a(S'list of the bachelor and master programmes at delft university of technology'
+p453
+g2
+(g6
+S'U4\x1ea\n_\xd7?'
+p454
+tp455
+Rp456
+tp457
+a(S'the institute of technology at link\xc3\xb6ping university'
+p458
+g2
+(g6
+S'"\x1a\xd0\xe2\xbdY\xd7?'
+p459
+tp460
+Rp461
+tp462
+a(S'penn state college of engineering'
+p463
+g2
+(g6
+S'\x92\r\x90\xd0tY\xd7?'
+p464
+tp465
+Rp466
+tp467
+a(S"king mongkut's university of technology north bangkok"
+p468
+g2
+(g6
+S'\x18I~N\xdfX\xd7?'
+p469
+tp470
+Rp471
+tp472
+a(S'institute of technology, nirma university'
+p473
+g2
+(g6
+S'I\xa2\x98\xe2{W\xd7?'
+p474
+tp475
+Rp476
+tp477
+a(S'university of oklahoma college of engineering'
+p478
+g2
+(g6
+S'`\xbf\xf78\xc0V\xd7?'
+p479
+tp480
+Rp481
+tp482
+a(S'tufts university school of engineering'
+p483
+g2
+(g6
+S'\xb8\xca\xf2\xd2\xb9D\xd7?'
+p484
+tp485
+Rp486
+tp487
+a(S'ohio state university college of engineering'
+p488
+g2
+(g6
+S'\xfc\x05\x0c\xb9\x9d7\xd7?'
+p489
+tp490
+Rp491
+tp492
+a(S'milwaukee school of engineering'
+p493
+g2
+(g6
+S'\xd5#\xe7o\x9d5\xd7?'
+p494
+tp495
+Rp496
+tp497
+a(S'indian institute of engineering science and technology, shibpur'
+p498
+g2
+(g6
+S'\x05\xeaZ}!.\xd7?'
+p499
+tp500
+Rp501
+tp502
+a(S'university of cincinnati college of engineering and applied science'
+p503
+g2
+(g6
+S'\xf1\xb4>6\xaa-\xd7?'
+p504
+tp505
+Rp506
+tp507
+a(S'list of contemporary iranian scientists, scholars, and engineers'
+p508
+g2
+(g6
+S'\xa4\xd9\x04\x13r\x1b\xd7?'
+p509
+tp510
+Rp511
+tp512
+a(S'university of waterloo faculty of engineering'
+p513
+g2
+(g6
+S'$\xb5V\x1a8\x1b\xd7?'
+p514
+tp515
+Rp516
+tp517
+a(S'faculty of engineering (lth), lund university'
+p518
+g2
+(g6
+S'\xe9\x13\x8au\x99\x19\xd7?'
+p519
+tp520
+Rp521
+tp522
+a(S'resignation of jehangir karamat'
+p523
+g2
+(g6
+S'\xc2\x91\xb68\xf2\xfb\xd6?'
+p524
+tp525
+Rp526
+tp527
+a(S'ali abbaspour'
+p528
+g2
+(g6
+S'\xc5N\xa9]\xd2\xf8\xd6?'
+p529
+tp530
+Rp531
+tp532
+a(S'robert r. mccormick school of engineering and applied science'
+p533
+g2
+(g6
+S'\xa7\x14?\x8cR\xed\xd6?'
+p534
+tp535
+Rp536
+tp537
+a(S'dayananda sagar college of engineering'
+p538
+g2
+(g6
+S'\xd2\xd4Dw\xa5\xe6\xd6?'
+p539
+tp540
+Rp541
+tp542
+a(S"king mongkut's institute of technology ladkrabang"
+p543
+g2
+(g6
+S'\xef\xd0\x10!w\xd6\xd6?'
+p544
+tp545
+Rp546
+tp547
+a(S'le quy don technical university'
+p548
+g2
+(g6
+S'L\xa9\x0b\xb0H\xd1\xd6?'
+p549
+tp550
+Rp551
+tp552
+a(S'osaka institute of technology'
+p553
+g2
+(g6
+S'\x1b%\x86\xe44\xd0\xd6?'
+p554
+tp555
+Rp556
+tp557
+a(S'saidu sharif'
+p558
+g2
+(g6
+S'\xe2\xaa_\x05\x10\xcf\xd6?'
+p559
+tp560
+Rp561
+tp562
+a(S'higher education in iran'
+p563
+g2
+(g6
+S'\x87\xe6p\x18\xdf\xcc\xd6?'
+p564
+tp565
+Rp566
+tp567
+a(S'manal al-sharif'
+p568
+g2
+(g6
+S'\x8a\x14_\xc9`\xc8\xd6?'
+p569
+tp570
+Rp571
+tp572
+a(S'raheel sharif'
+p573
+g2
+(g6
+S'\x93\xfdT\xadS\xc5\xd6?'
+p574
+tp575
+Rp576
+tp577
+a(S'cal poly san luis obispo college of engineering'
+p578
+g2
+(g6
+S'\xf7\xb5\xf8\xd1\x1c\xc5\xd6?'
+p579
+tp580
+Rp581
+tp582
+a(S'zhejiang university of science and technology'
+p583
+g2
+(g6
+S'\xc7IR\xf5\xa5\xbf\xd6?'
+p584
+tp585
+Rp586
+tp587
+a(S'national chiao tung university'
+p588
+g2
+(g6
+S'\xd3\xab\xe5!\xf9\xbb\xd6?'
+p589
+tp590
+Rp591
+tp592
+a(S'zohour (novels)'
+p593
+g2
+(g6
+S'-\x08\x84\xf8\x94\xb9\xd6?'
+p594
+tp595
+Rp596
+tp597
+a(S'washington university school of engineering and applied science'
+p598
+g2
+(g6
+S'\x86\x10\x81\xdc\xce\xb5\xd6?'
+p599
+tp600
+Rp601
+tp602
+a(S'quaid-e-awam university of engineering, science and technology'
+p603
+g2
+(g6
+S'\xb1\x9d\xde\x18\xf7\xab\xd6?'
+p604
+tp605
+Rp606
+tp607
+a(S'college of engineering, ewha womans university'
+p608
+g2
+(g6
+S'0\x00\x8f}\x1c\xa5\xd6?'
+p609
+tp610
+Rp611
+tp612
+a(S'engineering education'
+p613
+g2
+(g6
+S'\x97\xc3\x02<K\x9d\xd6?'
+p614
+tp615
+Rp616
+tp617
+a(S'csulb college of engineering'
+p618
+g2
+(g6
+S'\n\xf8@]z\x98\xd6?'
+p619
+tp620
+Rp621
+tp622
+a(S'rajshahi university of engineering & technology'
+p623
+g2
+(g6
+S'\x1d=i#\xa9\x94\xd6?'
+p624
+tp625
+Rp626
+tp627
+a(S'jafar towfighi'
+p628
+g2
+(g6
+S'\xa0F\xeaf{\x90\xd6?'
+p629
+tp630
+Rp631
+tp632
+a(S'walchand college of engineering, sangli'
+p633
+g2
+(g6
+S'\xe4`\x16\xad\x10\x90\xd6?'
+p634
+tp635
+Rp636
+tp637
+a(S'university of sydney faculty of engineering and information technologies'
+p638
+g2
+(g6
+S'\xa5\x12\x03\x9a\x92\x8d\xd6?'
+p639
+tp640
+Rp641
+tp642
+a(S'school of engineering, unam'
+p643
+g2
+(g6
+S'o\xa2~\xd9\xba\x83\xd6?'
+p644
+tp645
+Rp646
+tp647
+a(S'jacobs school of engineering'
+p648
+g2
+(g6
+S"H$P\xf0'\x81\xd6?"
+p649
+tp650
+Rp651
+tp652
+a(S'national university of engineering'
+p653
+g2
+(g6
+S'\x81S\x9e\xeb\xf2\x80\xd6?'
+p654
+tp655
+Rp656
+tp657
+a(S'american society for engineering education'
+p658
+g2
+(g6
+S'.\x91=\xc0\xe6y\xd6?'
+p659
+tp660
+Rp661
+tp662
+a(S'mcmaster faculty of engineering'
+p663
+g2
+(g6
+S'\xa6\x80\x1e\x9abx\xd6?'
+p664
+tp665
+Rp666
+tp667
+a(S'northwestern polytechnical university'
+p668
+g2
+(g6
+S'\xf1\xfa\x08\x95\xedw\xd6?'
+p669
+tp670
+Rp671
+tp672
+a(S'east china university of science and technology'
+p673
+g2
+(g6
+S'g\x01\xea\xd6\xb7t\xd6?'
+p674
+tp675
+Rp676
+tp677
+a(S'engineering'
+p678
+g2
+(g6
+S't\xe9\xcf\xb7Op\xd6?'
+p679
+tp680
+Rp681
+tp682
+a(S'college of engineering (knust)'
+p683
+g2
+(g6
+S'\xfb\xe1\xd9\xa6\xd7n\xd6?'
+p684
+tp685
+Rp686
+tp687
+a(S'gokongwei college of engineering'
+p688
+g2
+(g6
+S'\xcf\n\xd6qCl\xd6?'
+p689
+tp690
+Rp691
+tp692
+a(S'karlsruhe university of applied sciences'
+p693
+g2
+(g6
+S'\xf4\x97\x18v\x95c\xd6?'
+p694
+tp695
+Rp696
+tp697
+a(S'faculdade de engenharia da universidade do porto'
+p698
+g2
+(g6
+S'\x1c\x1c~>\xb7[\xd6?'
+p699
+tp700
+Rp701
+tp702
+a(S'jiet (jodhpur)'
+p703
+g2
+(g6
+S'W"\x93\xb3!Z\xd6?'
+p704
+tp705
+Rp706
+tp707
+a(S'jawaharlal nehru national college of engineering'
+p708
+g2
+(g6
+S'\n\xdd\x86>\xe5U\xd6?'
+p709
+tp710
+Rp711
+tp712
+a(S'graduate university of advanced technology'
+p713
+g2
+(g6
+S'@\xf7\xb6#\x81D\xd6?'
+p714
+tp715
+Rp716
+tp717
+a(S'sirindhorn international institute of technology'
+p718
+g2
+(g6
+S'\x16{\x18\xb2z@\xd6?'
+p719
+tp720
+Rp721
+tp722
+a(S'uttaranchal institute of technology'
+p723
+g2
+(g6
+S'=\xfc\x93BS=\xd6?'
+p724
+tp725
+Rp726
+tp727
+a(S'society for underwater technology'
+p728
+g2
+(g6
+S'jYi\xa3\x8f<\xd6?'
+p729
+tp730
+Rp731
+tp732
+a(S'imam hossein university'
+p733
+g2
+(g6
+S'\xccc\xca\xa6l;\xd6?'
+p734
+tp735
+Rp736
+tp737
+a(S'mookambigai college of engineering'
+p738
+g2
+(g6
+S'\x807\xb6\xe6\xf08\xd6?'
+p739
+tp740
+Rp741
+tp742
+a(S'volgenau school of engineering'
+p743
+g2
+(g6
+S'\xf7\x891\xec\xdf8\xd6?'
+p744
+tp745
+Rp746
+tp747
+a(S'list of iranian research centers'
+p748
+g2
+(g6
+S'6\x1e\x0f(*7\xd6?'
+p749
+tp750
+Rp751
+tp752
+a(S'outline of engineering'
+p753
+g2
+(g6
+S'\xa5/\xec\xcc\x870\xd6?'
+p754
+tp755
+Rp756
+tp757
+a(S'islamic azad university central tehran branch'
+p758
+g2
+(g6
+S"~\x02\xcb\xfc'/\xd6?"
+p759
+tp760
+Rp761
+tp762
+a(S'george r. brown school of engineering'
+p763
+g2
+(g6
+S'_\x8e\x99\xd3{-\xd6?'
+p764
+tp765
+Rp766
+tp767
+a(S'engineering education research'
+p768
+g2
+(g6
+S'\x1c#\x85,\x84%\xd6?'
+p769
+tp770
+Rp771
+tp772
+a(S'golpayegan university of engineering'
+p773
+g2
+(g6
+S'\xda\xd8\x06\xc5K%\xd6?'
+p774
+tp775
+Rp776
+tp777
+a(S'sarvajanik college of engineering and technology'
+p778
+g2
+(g6
+S'\x90.\xc3\x8d5 \xd6?'
+p779
+tp780
+Rp781
+tp782
+a(S'harcourt butler technical university'
+p783
+g2
+(g6
+S'\xc8\xbd\t\xbb\xf7\x1e\xd6?'
+p784
+tp785
+Rp786
+tp787
+a(S'umbc college of engineering and information technology'
+p788
+g2
+(g6
+S'\xb2\x91<\xd8R\x16\xd6?'
+p789
+tp790
+Rp791
+tp792
+a(S'shivnagar vidya prasarak mandal'
+p793
+g2
+(g6
+S'\x96E\x81\xd23\x11\xd6?'
+p794
+tp795
+Rp796
+tp797
+a(S'mohammad ali mojtahedi'
+p798
+g2
+(g6
+S'\x0e\xdfkK\xad\x10\xd6?'
+p799
+tp800
+Rp801
+tp802
+a(S'school of engineering and technology - jain university'
+p803
+g2
+(g6
+S'z\xeeN\x88d\x0e\xd6?'
+p804
+tp805
+Rp806
+tp807
+a(S'north carolina state university college of engineering'
+p808
+g2
+(g6
+S'\xb0n\xc91\xdd\r\xd6?'
+p809
+tp810
+Rp811
+tp812
+a(S'f\xc4\xb1rat university'
+p813
+g2
+(g6
+S'`V\x88\xa9\x19\xff\xd5?'
+p814
+tp815
+Rp816
+tp817
+a(S'university of texas at arlington college of engineering'
+p818
+g2
+(g6
+S'\xf7\x90\x99q\xd2\xfc\xd5?'
+p819
+tp820
+Rp821
+tp822
+a(S'list of engineering branches'
+p823
+g2
+(g6
+S'\xee\xae\xce\xd2\xb9\xfb\xd5?'
+p824
+tp825
+Rp826
+tp827
+a(S'shiraz university of technology'
+p828
+g2
+(g6
+S'Z\x0e\x089t\xf7\xd5?'
+p829
+tp830
+Rp831
+tp832
+a(S'university of minnesota college of science and engineering'
+p833
+g2
+(g6
+S'\x84[\x1b\x0b\xbc\xf1\xd5?'
+p834
+tp835
+Rp836
+tp837
+a(S'university of auckland faculty of engineering'
+p838
+g2
+(g6
+S'\xbb\x9dL\x0cd\xed\xd5?'
+p839
+tp840
+Rp841
+tp842
+a(S'k l university'
+p843
+g2
+(g6
+S'\xaa\xbb}\xfb \xe8\xd5?'
+p844
+tp845
+Rp846
+tp847
+a(S'kamaraj college of engineering and technology'
+p848
+g2
+(g6
+S'\xcf\xb37\xc5\x1e\xe7\xd5?'
+p849
+tp850
+Rp851
+tp852
+a(S'adiban institute of higher education'
+p853
+g2
+(g6
+S'\xf9\x85\xa5yO\xde\xd5?'
+p854
+tp855
+Rp856
+tp857
+a(S'georgia institute of technology college of engineering'
+p858
+g2
+(g6
+S'V,z\x9a\xcc\xd5\xd5?'
+p859
+tp860
+Rp861
+tp862
+a(S'b.m.s. institute of technology'
+p863
+g2
+(g6
+S'V\x89\x07\xcb&\xd5\xd5?'
+p864
+tp865
+Rp866
+tp867
+a(S'h\xc3\xb6here technische lehranstalt'
+p868
+g2
+(g6
+S'm*[\x80\xc2\xd4\xd5?'
+p869
+tp870
+Rp871
+tp872
+a(S'gaziantep university'
+p873
+g2
+(g6
+S'\xf5\xf1\xf4p\xa7\xd0\xd5?'
+p874
+tp875
+Rp876
+tp877
+a(S'purdue university college of engineering'
+p878
+g2
+(g6
+S'\x06\xd3\xd0\xf3n\xd0\xd5?'
+p879
+tp880
+Rp881
+tp882
+a(S'mbm engineering college'
+p883
+g2
+(g6
+S'S\xa3\xb5\x1f\xdc\xcd\xd5?'
+p884
+tp885
+Rp886
+tp887
+a(S'laqshya institute of technology sciences'
+p888
+g2
+(g6
+S'\xbd\xd81\x1a\xd8\xcc\xd5?'
+p889
+tp890
+Rp891
+tp892
+a(S'university of engineering and technology'
+p893
+g2
+(g6
+S'\x0f9~\x03\xa8\xc9\xd5?'
+p894
+tp895
+Rp896
+tp897
+a(S'marathwada institute of technology'
+p898
+g2
+(g6
+S'\xe1\x10\x90i\xe6\xc8\xd5?'
+p899
+tp900
+Rp901
+tp902
+a(S'whitacre college of engineering'
+p903
+g2
+(g6
+S'O=\x08e\xfa\xc7\xd5?'
+p904
+tp905
+Rp906
+tp907
+a(S'shomal university'
+p908
+g2
+(g6
+S'Jf[b[\xc7\xd5?'
+p909
+tp910
+Rp911
+tp912
+a(S'university of virginia school of engineering and applied science'
+p913
+g2
+(g6
+S'\x07r\xa6\x96\xcd\xc2\xd5?'
+p914
+tp915
+Rp916
+tp917
+a(S'persian gulf university'
+p918
+g2
+(g6
+S'\xe5\x0b\xd8\xcc1\xbe\xd5?'
+p919
+tp920
+Rp921
+tp922
+a(S'sut'
+p923
+g2
+(g6
+S'\x00l\x9ay\xc7\xb8\xd5?'
+p924
+tp925
+Rp926
+tp927
+a(S'university of science and culture'
+p928
+g2
+(g6
+S'vWY\x88F\xb8\xd5?'
+p929
+tp930
+Rp931
+tp932
+a(S'bannari amman institute of technology'
+p933
+g2
+(g6
+S'\xc0KV\x92:\xb6\xd5?'
+p934
+tp935
+Rp936
+tp937
+a(S'map\xc3\xbaa institute of technology'
+p938
+g2
+(g6
+S'\x15\xfd\x94\x82\xd2\xaf\xd5?'
+p939
+tp940
+Rp941
+tp942
+a(S'fairfield university school of engineering'
+p943
+g2
+(g6
+S'_\xe2\\\xc7\x0b\xac\xd5?'
+p944
+tp945
+Rp946
+tp947
+a(S'jawad salehi'
+p948
+g2
+(g6
+S'z\xb2\xcd\x9aY\xa7\xd5?'
+p949
+tp950
+Rp951
+tp952
+a(S'swanson school of engineering'
+p953
+g2
+(g6
+S'\xe9\x1d\xd2\xe3\xac\xa5\xd5?'
+p954
+tp955
+Rp956
+tp957
+a(S'yeshwantrao chavan college of engineering'
+p958
+g2
+(g6
+S'\x95\xa0\x98\xfc\x9e\xa0\xd5?'
+p959
+tp960
+Rp961
+tp962
+a(S'university of toronto faculty of applied science and engineering'
+p963
+g2
+(g6
+S'\xd5bRFa\xa0\xd5?'
+p964
+tp965
+Rp966
+tp967
+a(S'whiting school of engineering'
+p968
+g2
+(g6
+S'bZ\x16\xabu\x9d\xd5?'
+p969
+tp970
+Rp971
+tp972
+a(S'talal al-sharif'
+p973
+g2
+(g6
+S'{_\xa2\x8f$\x9d\xd5?'
+p974
+tp975
+Rp976
+tp977
+a(S'priyadarshini college of engineering'
+p978
+g2
+(g6
+S'\x04\xd8\x90d\xca\x96\xd5?'
+p979
+tp980
+Rp981
+tp982
+a(S'safyaan sharif'
+p983
+g2
+(g6
+S'b\xfdi\xe8\xd1\x95\xd5?'
+p984
+tp985
+Rp986
+tp987
+a(S'sut academy of medical sciences'
+p988
+g2
+(g6
+S'\xa6\xe4p\xc8C\x93\xd5?'
+p989
+tp990
+Rp991
+tp992
+a(S'snd college of engineering & research centre, yeola'
+p993
+g2
+(g6
+S'\r\x88\x06cy\x90\xd5?'
+p994
+tp995
+Rp996
+tp997
+a(S'tsuyama national college of technology'
+p998
+g2
+(g6
+S'\x9a#\xa5\xa37\x8f\xd5?'
+p999
+tp1000
+Rp1001
+tp1002
+a(S'university of novi sad faculty of technical sciences'
+p1003
+g2
+(g6
+S'I\xbf810\x8f\xd5?'
+p1004
+tp1005
+Rp1006
+tp1007
+a(S'asia-oceania top university league on engineering'
+p1008
+g2
+(g6
+S'b\xa9G5~\x8b\xd5?'
+p1009
+tp1010
+Rp1011
+tp1012
+a(S'jss science and technology university'
+p1013
+g2
+(g6
+S'\xc4\xc1x\xdc\xc8\x87\xd5?'
+p1014
+tp1015
+Rp1016
+tp1017
+a(S'university of technology, yadanabon cyber city'
+p1018
+g2
+(g6
+S'\n\r\xe3\x98\xbf\x86\xd5?'
+p1019
+tp1020
+Rp1021
+tp1022
+a(S'feng chia university'
+p1023
+g2
+(g6
+S'N\xadQ\x15\xe7\x83\xd5?'
+p1024
+tp1025
+Rp1026
+tp1027
+a(S'university of arkansas college of engineering'
+p1028
+g2
+(g6
+S'\xfb\xfd\xd26\xee\x81\xd5?'
+p1029
+tp1030
+Rp1031
+tp1032
+a(S'university of wisconsin\xe2\x80\x93madison college of engineering'
+p1033
+g2
+(g6
+S'7L\xbb\xec\xe6v\xd5?'
+p1034
+tp1035
+Rp1036
+tp1037
+a(S'lamar university college of engineering'
+p1038
+g2
+(g6
+S'\x93$j\x1e\xb2v\xd5?'
+p1039
+tp1040
+Rp1041
+tp1042
+a(S'priydarshini institute of engineering and technology'
+p1043
+g2
+(g6
+S'n\xf4\x05\x19\x90v\xd5?'
+p1044
+tp1045
+Rp1046
+tp1047
+a(S'savannah state university college of sciences and technology'
+p1048
+g2
+(g6
+S'_u(m\x80t\xd5?'
+p1049
+tp1050
+Rp1051
+tp1052
+a(S'university of michigan college of engineering'
+p1053
+g2
+(g6
+S'\x1c\x0f\x08v\xdar\xd5?'
+p1054
+tp1055
+Rp1056
+tp1057
+a(S'bapuji institute of engineering & technology'
+p1058
+g2
+(g6
+S'?\xe8\x977\x97p\xd5?'
+p1059
+tp1060
+Rp1061
+tp1062
+a(S'mandalay technological university'
+p1063
+g2
+(g6
+S'\xc8\xc1V\x16lk\xd5?'
+p1064
+tp1065
+Rp1066
+tp1067
+a(S'engineering physics'
+p1068
+g2
+(g6
+S'ptBI\x07i\xd5?'
+p1069
+tp1070
+Rp1071
+tp1072
+a(S'university of birjand'
+p1073
+g2
+(g6
+S'3B\x9c>Cg\xd5?'
+p1074
+tp1075
+Rp1076
+tp1077
+a(S'university of santo tomas faculty of engineering'
+p1078
+g2
+(g6
+S'\x07\xe6\x02D\xb3f\xd5?'
+p1079
+tp1080
+Rp1081
+tp1082
+a(S'university of tabriz'
+p1083
+g2
+(g6
+S'l\xd6\xf1M\x11`\xd5?'
+p1084
+tp1085
+Rp1086
+tp1087
+a(S'case school of engineering'
+p1088
+g2
+(g6
+S'\xbe\xefr{\xa6^\xd5?'
+p1089
+tp1090
+Rp1091
+tp1092
+a(S'chongqing university'
+p1093
+g2
+(g6
+S'\x02P(\xb8\x11]\xd5?'
+p1094
+tp1095
+Rp1096
+tp1097
+a(S'boston university college of engineering'
+p1098
+g2
+(g6
+S'\xa1\x8f\x86\xb3\x1bZ\xd5?'
+p1099
+tp1100
+Rp1101
+tp1102
+a(S'saveetha engineering college'
+p1103
+g2
+(g6
+S'\xe2^\xa3&\xa2Y\xd5?'
+p1104
+tp1105
+Rp1106
+tp1107
+a(S'university of strathclyde faculty of engineering'
+p1108
+g2
+(g6
+S'6\xacw0\xf6X\xd5?'
+p1109
+tp1110
+Rp1111
+tp1112
+a(S'shahid rajaee teacher training university'
+p1113
+g2
+(g6
+S'xR`\xef\xa0W\xd5?'
+p1114
+tp1115
+Rp1116
+tp1117
+a(S'kiit school of technology'
+p1118
+g2
+(g6
+S'2\xd8\xbda\xd1V\xd5?'
+p1119
+tp1120
+Rp1121
+tp1122
+a(S'university of wisconsin\xe2\x80\x93milwaukee college of engineering and applied science'
+p1123
+g2
+(g6
+S'\x0c\x8c\xbbT\x08Q\xd5?'
+p1124
+tp1125
+Rp1126
+tp1127
+a(S'university of connecticut school of engineering'
+p1128
+g2
+(g6
+S'\xd3I-\xa0\xf0H\xd5?'
+p1129
+tp1130
+Rp1131
+tp1132
+a(S'national kaohsiung university of applied sciences'
+p1133
+g2
+(g6
+S'z\x7f\xd6\x9f\xc3F\xd5?'
+p1134
+tp1135
+Rp1136
+tp1137
+a(S'nagaoka university of technology'
+p1138
+g2
+(g6
+S"'\x86@&aE\xd5?"
+p1139
+tp1140
+Rp1141
+tp1142
+a(S'b.m.s. college of engineering'
+p1143
+g2
+(g6
+S'\xb0\xc1\xc4\xd2cD\xd5?'
+p1144
+tp1145
+Rp1146
+tp1147
+a(S'faculty of engineering, jamia millia islamia'
+p1148
+g2
+(g6
+S'N%8_\x8d@\xd5?'
+p1149
+tp1150
+Rp1151
+tp1152
+a(S'sanjay memorial institute of technology'
+p1153
+g2
+(g6
+S'\x92d\x93\x87w?\xd5?'
+p1154
+tp1155
+Rp1156
+tp1157
+a(S'anna university chennai - regional office, coimbatore'
+p1158
+g2
+(g6
+S'\xbf<^&\xaf5\xd5?'
+p1159
+tp1160
+Rp1161
+tp1162
+a(S'university visvesvaraya college of engineering'
+p1163
+g2
+(g6
+S'\xf7\x06\xed\xe0\xc94\xd5?'
+p1164
+tp1165
+Rp1166
+tp1167
+a(S'sharif ali'
+p1168
+g2
+(g6
+S'\xd8\xf9D\x1e\xb34\xd5?'
+p1169
+tp1170
+Rp1171
+tp1172
+a(S'center for advanced studies in engineering'
+p1173
+g2
+(g6
+S"\xdc\xf2u\x9a'4\xd5?"
+p1174
+tp1175
+Rp1176
+tp1177
+a(S'list of the professional student societies at delft university of technology'
+p1178
+g2
+(g6
+S'+bA"\x0f2\xd5?'
+p1179
+tp1180
+Rp1181
+tp1182
+a(S'maharshi dayanand university'
+p1183
+g2
+(g6
+S',(1M\x8b+\xd5?'
+p1184
+tp1185
+Rp1186
+tp1187
+a(S'cal poly pomona college of engineering'
+p1188
+g2
+(g6
+S'a\xf7\xd9\x8b\xf6%\xd5?'
+p1189
+tp1190
+Rp1191
+tp1192
+a(S'\xc3\x96zye\xc4\x9fin university'
+p1193
+g2
+(g6
+S'\xf3\xe08:%#\xd5?'
+p1194
+tp1195
+Rp1196
+tp1197
+a(S'university college of engineering, osmania university'
+p1198
+g2
+(g6
+S'~\xfd\x19\xd2\x99\x1f\xd5?'
+p1199
+tp1200
+Rp1201
+tp1202
+a(S'elliott cresson medal'
+p1203
+g2
+(g6
+S'\xb1\n\xc9\xa2\x1e\x1e\xd5?'
+p1204
+tp1205
+Rp1206
+tp1207
+a(S'yangon technological university'
+p1208
+g2
+(g6
+S'\xef\x0e;`\xc4\x1b\xd5?'
+p1209
+tp1210
+Rp1211
+tp1212
+a(S'yeungnam university'
+p1213
+g2
+(g6
+S'\xd6jkV\xe3\x19\xd5?'
+p1214
+tp1215
+Rp1216
+tp1217
+a(S'zenon j. pudlowski'
+p1218
+g2
+(g6
+S'\xc6b\xc8\x9cT\x17\xd5?'
+p1219
+tp1220
+Rp1221
+tp1222
+a(S'massachusetts institute of technology school of engineering'
+p1223
+g2
+(g6
+S'\x8a\x15\xbd6\xdf\x15\xd5?'
+p1224
+tp1225
+Rp1226
+tp1227
+a(S'lodz university of technology'
+p1228
+g2
+(g6
+S'\xfe\x8fv>\xca\x12\xd5?'
+p1229
+tp1230
+Rp1231
+tp1232
+a(S'government engineering college'
+p1233
+g2
+(g6
+S'+\x92`SR\x10\xd5?'
+p1234
+tp1235
+Rp1236
+tp1237
+a(S'jawaharlal nehru technological university, kakinada'
+p1238
+g2
+(g6
+S'\xd0\xddj\x88\x11\r\xd5?'
+p1239
+tp1240
+Rp1241
+tp1242
+a(S'bangladesh university of engineering and technology'
+p1243
+g2
+(g6
+S'\xb6\xf2l\x17^\x08\xd5?'
+p1244
+tp1245
+Rp1246
+tp1247
+a(S'oklahoma state university college of engineering, architecture, and technology'
+p1248
+g2
+(g6
+S'\x05\xb9\xb2%\x8a\x06\xd5?'
+p1249
+tp1250
+Rp1251
+tp1252
+a(S'ira a. fulton schools of engineering'
+p1253
+g2
+(g6
+S'o\xcd\xce\x08\x7f\x06\xd5?'
+p1254
+tp1255
+Rp1256
+tp1257
+a(S'andhra university college of engineering'
+p1258
+g2
+(g6
+S'\x00 \xba\x1f\xfa\x05\xd5?'
+p1259
+tp1260
+Rp1261
+tp1262
+a(S'college of engineering, trivandrum'
+p1263
+g2
+(g6
+S'}\xee\r\x99u\x04\xd5?'
+p1264
+tp1265
+Rp1266
+tp1267
+a(S'k. k. wagh institute of engineering education & research'
+p1268
+g2
+(g6
+S'\x1fY_\x8e\xe1\x02\xd5?'
+p1269
+tp1270
+Rp1271
+tp1272
+a(S'j. b. speed school of engineering'
+p1273
+g2
+(g6
+S'2\xca\xed\x9f\xbd\x02\xd5?'
+p1274
+tp1275
+Rp1276
+tp1277
+a(S'islamic university of technology'
+p1278
+g2
+(g6
+S'\x90\x17\xc6\xbe\xbe\xfd\xd4?'
+p1279
+tp1280
+Rp1281
+tp1282
+a(S'islamic azad university, science and research branch, tehran'
+p1283
+g2
+(g6
+S'\x1d7\xea\xee\xfd\xfb\xd4?'
+p1284
+tp1285
+Rp1286
+tp1287
+a(S'chonbuk national university'
+p1288
+g2
+(g6
+S'\xc0\xb9\x8a\xa7\t\xf4\xd4?'
+p1289
+tp1290
+Rp1291
+tp1292
+a(S'panimalar engineering college'
+p1293
+g2
+(g6
+S'\xa2^\xfa\x8a)\xf3\xd4?'
+p1294
+tp1295
+Rp1296
+tp1297
+a(S'shibaura institute of technology'
+p1298
+g2
+(g6
+S'\xdd+6\xbe\xeb\xf1\xd4?'
+p1299
+tp1300
+Rp1301
+tp1302
+a(S'beijing institute of technology'
+p1303
+g2
+(g6
+S'\x9f\x04\xbf\xdci\xf0\xd4?'
+p1304
+tp1305
+Rp1306
+tp1307
+a(S'afeka college of engineering'
+p1308
+g2
+(g6
+S'\xa3\x14w\xa7\xef\xee\xd4?'
+p1309
+tp1310
+Rp1311
+tp1312
+a(S'changchun university of science and technology'
+p1313
+g2
+(g6
+S'$\xb8Iv\xde\xed\xd4?'
+p1314
+tp1315
+Rp1316
+tp1317
+a(S'madhav institute of technology and science'
+p1318
+g2
+(g6
+S'$\xe8\xf6\x0eH\xea\xd4?'
+p1319
+tp1320
+Rp1321
+tp1322
+a(S't john institute of technology'
+p1323
+g2
+(g6
+S'\xdf\xe1I\xa7\xba\xe5\xd4?'
+p1324
+tp1325
+Rp1326
+tp1327
+a(S'asharaf'
+p1328
+g2
+(g6
+S'\x17W\x827\xe3\xe4\xd4?'
+p1329
+tp1330
+Rp1331
+tp1332
+a(S'faculty of engineering, aristotle university of thessaloniki'
+p1333
+g2
+(g6
+S'\xc0\xaa\xe9X\xf0\xe3\xd4?'
+p1334
+tp1335
+Rp1336
+tp1337
+a(S'vanderbilt university school of engineering'
+p1338
+g2
+(g6
+S'\xcc\xfb\x87\xcbS\xe3\xd4?'
+p1339
+tp1340
+Rp1341
+tp1342
+a(S'tkm institute of technology'
+p1343
+g2
+(g6
+S'\t\xba\xbe\x0b\x0c\xe3\xd4?'
+p1344
+tp1345
+Rp1346
+tp1347
+a(S'dawood university of engineering and technology'
+p1348
+g2
+(g6
+S'H\xa7\xec\xda\xbd\xdd\xd4?'
+p1349
+tp1350
+Rp1351
+tp1352
+a(S'ldrp institute of technology and research'
+p1353
+g2
+(g6
+S'\xed[\xb2:\xf8\xdb\xd4?'
+p1354
+tp1355
+Rp1356
+tp1357
+a(S'ferdowsi university of mashhad'
+p1358
+g2
+(g6
+S'&\xa5+Y\xf8\xd9\xd4?'
+p1359
+tp1360
+Rp1361
+tp1362
+a(S'list of systems engineering universities'
+p1363
+g2
+(g6
+S'\x9d\xd7a\xcd\x83\xd4\xd4?'
+p1364
+tp1365
+Rp1366
+tp1367
+a(S'thapathali campus'
+p1368
+g2
+(g6
+S'f\xa7\xa8u8\xd2\xd4?'
+p1369
+tp1370
+Rp1371
+tp1372
+a(S'cullen college of engineering'
+p1373
+g2
+(g6
+S'\xa2\xe6\xa20/\xd1\xd4?'
+p1374
+tp1375
+Rp1376
+tp1377
+a(S'nanjing university of aeronautics and astronautics'
+p1378
+g2
+(g6
+S'\xe9\x9c\x15\xfcd\xd0\xd4?'
+p1379
+tp1380
+Rp1381
+tp1382
+a(S'hmfa memorial institute of engineering and technology'
+p1383
+g2
+(g6
+S'\x85\xe3\xb8\xc2\xff\xce\xd4?'
+p1384
+tp1385
+Rp1386
+tp1387
+a(S'brown university school of engineering'
+p1388
+g2
+(g6
+S'\xa5VB\x92\xe8\xce\xd4?'
+p1389
+tp1390
+Rp1391
+tp1392
+a(S'government college of engineering, karad'
+p1393
+g2
+(g6
+S'?\x8fey\x95\xce\xd4?'
+p1394
+tp1395
+Rp1396
+tp1397
+a(S'colleges and schools of north carolina agricultural and technical state university'
+p1398
+g2
+(g6
+S'\x8b\x9f\xc3i\xec\xcd\xd4?'
+p1399
+tp1400
+Rp1401
+tp1402
+a(S'kongju national university'
+p1403
+g2
+(g6
+S'\xac\xac\xc7\x83\xc5\xcc\xd4?'
+p1404
+tp1405
+Rp1406
+tp1407
+a(S'faculty of engineering, university of peradeniya'
+p1408
+g2
+(g6
+S'\xce"e\xa5=\xca\xd4?'
+p1409
+tp1410
+Rp1411
+tp1412
+a(S'spencer engineering building'
+p1413
+g2
+(g6
+S'Cs\xb9\xc1\xe0\xc4\xd4?'
+p1414
+tp1415
+Rp1416
+tp1417
+a(S'payame noor university'
+p1418
+g2
+(g6
+S'&\x05\x04\x08-\xc2\xd4?'
+p1419
+tp1420
+Rp1421
+tp1422
+a(S'dr. sivanthi aditanar college of engineering'
+p1423
+g2
+(g6
+S'\x9eb\xe7?\xa3\xbe\xd4?'
+p1424
+tp1425
+Rp1426
+tp1427
+a(S'scientia iranica'
+p1428
+g2
+(g6
+S'Cb\x1e\xca\xba\xbb\xd4?'
+p1429
+tp1430
+Rp1431
+tp1432
+a(S'gyan ganga college of technology'
+p1433
+g2
+(g6
+S'\x9c\xc4F\n\x17\xbb\xd4?'
+p1434
+tp1435
+Rp1436
+tp1437
+a(S'federico santa mar\xc3\xada technical university'
+p1438
+g2
+(g6
+S'(RF\x85n\xba\xd4?'
+p1439
+tp1440
+Rp1441
+tp1442
+a(S'rmk engineering college'
+p1443
+g2
+(g6
+S'A\x83CuQ\xb8\xd4?'
+p1444
+tp1445
+Rp1446
+tp1447
+a(S'university b.d.t. college of engineering'
+p1448
+g2
+(g6
+S'\xc8\xbb\xbe\xe9\x9e\xb7\xd4?'
+p1449
+tp1450
+Rp1451
+tp1452
+a(S'middle east technical university'
+p1453
+g2
+(g6
+S'\xc2Vp\x97\xe1\xb2\xd4?'
+p1454
+tp1455
+Rp1456
+tp1457
+a(S'sri shakthi institute of engineering and technology'
+p1458
+g2
+(g6
+S'\x08\x1e\x97\xfb\x99\xb1\xd4?'
+p1459
+tp1460
+Rp1461
+tp1462
+a(S'wroc\xc5\x82aw university of science and technology'
+p1463
+g2
+(g6
+S'\x8f\x80\xbc[\xfc\xaf\xd4?'
+p1464
+tp1465
+Rp1466
+tp1467
+a(S'coppe'
+p1468
+g2
+(g6
+S'7\x10Y\xc1e\xab\xd4?'
+p1469
+tp1470
+Rp1471
+tp1472
+a(S'reza olfati-saber'
+p1473
+g2
+(g6
+S'\xd4\xe1\xde\x84\x9b\xaa\xd4?'
+p1474
+tp1475
+Rp1476
+tp1477
+a(S'melbourne school of engineering'
+p1478
+g2
+(g6
+S'\xc3\xff\xf8\xce\xf3\xa9\xd4?'
+p1479
+tp1480
+Rp1481
+tp1482
+a(S'tokyo university of agriculture and technology'
+p1483
+g2
+(g6
+S'\x9b\x10Z\x0e\xd9\xa9\xd4?'
+p1484
+tp1485
+Rp1486
+tp1487
+a(S'chhotubhai gopalbhai patel institute of technology'
+p1488
+g2
+(g6
+S'\xd8\xe7\xc7\xc5\x0f\xa4\xd4?'
+p1489
+tp1490
+Rp1491
+tp1492
+a(S'arulmigu meenakshi amman college of engineering'
+p1493
+g2
+(g6
+S'\xd2\xea@\x0e\xe5\xa1\xd4?'
+p1494
+tp1495
+Rp1496
+tp1497
+a(S'university of technology and life sciences in bydgoszcz'
+p1498
+g2
+(g6
+S'-\x1af\x86;\x9f\xd4?'
+p1499
+tp1500
+Rp1501
+tp1502
+a(S'engineering management'
+p1503
+g2
+(g6
+S'U<\xd0\x87\xce\x9e\xd4?'
+p1504
+tp1505
+Rp1506
+tp1507
+a(S'oregon state university college of engineering'
+p1508
+g2
+(g6
+S'n_\xe7/?\x9d\xd4?'
+p1509
+tp1510
+Rp1511
+tp1512
+a.

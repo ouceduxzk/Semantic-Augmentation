@@ -1,0 +1,2728 @@
+(lp0
+(S'terrier search engine'
+p1
+cnumpy.core.multiarray
+scalar
+p2
+(cnumpy
+dtype
+p3
+(S'f8'
+p4
+I0
+I1
+tp5
+Rp6
+(I3
+S'<'
+p7
+NNNI-1
+I-1
+I0
+tp8
+bS'\x00\x00\x00\x00\x00\x00\xf0?'
+p9
+tp10
+Rp11
+tp12
+a(S'terrier group'
+p13
+g2
+(g6
+S'g\x1c\x14\x83!\xcd\xe2?'
+p14
+tp15
+Rp16
+tp17
+a(S'hunt terrier'
+p18
+g2
+(g6
+S'r>U\x9f\x86\xa7\xe1?'
+p19
+tp20
+Rp21
+tp22
+a(S'fci terrier group'
+p23
+g2
+(g6
+S'iV\xf9\x88\xbf,\xe1?'
+p24
+tp25
+Rp26
+tp27
+a(S'working terrier'
+p28
+g2
+(g6
+S'\xbchJDb}\xe0?'
+p29
+tp30
+Rp31
+tp32
+a(S'sporting lucas terrier'
+p33
+g2
+(g6
+S'\x80e\xac\xdc\xf3\xf6\xdf?'
+p34
+tp35
+Rp36
+tp37
+a(S'old english terrier'
+p38
+g2
+(g6
+S'\x10rS\xa6>\xcc\xdf?'
+p39
+tp40
+Rp41
+tp42
+a(S'fox terrier'
+p43
+g2
+(g6
+S'\xb4\x95\x02\xd9\xccv\xdf?'
+p44
+tp45
+Rp46
+tp47
+a(S'list of dog breeds with little to no shedding'
+p48
+g2
+(g6
+S',\xac\xc5\x9eKf\xdf?'
+p49
+tp50
+Rp51
+tp52
+a(S'vulnerable native breeds'
+p53
+g2
+(g6
+S'T8n\\TB\xdf?'
+p54
+tp55
+Rp56
+tp57
+a(S'earthdog trial'
+p58
+g2
+(g6
+S'\xdef1\x04m\xed\xde?'
+p59
+tp60
+Rp61
+tp62
+a(S'teddy roosevelt terrier'
+p63
+g2
+(g6
+S'\x8e\x1e\x0e*\xdf\x9b\xde?'
+p64
+tp65
+Rp66
+tp67
+a(S'ratter (dog)'
+p68
+g2
+(g6
+S'4\x9b\x04\x06WA\xde?'
+p69
+tp70
+Rp71
+tp72
+a(S'manchester terrier'
+p73
+g2
+(g6
+S'\xad\xefG\xf3\xfd>\xde?'
+p74
+tp75
+Rp76
+tp77
+a(S'american staffordshire terrier'
+p78
+g2
+(g6
+S'\x96\xb0\x89\x89\xa0\xeb\xdd?'
+p79
+tp80
+Rp81
+tp82
+a(S'paisley terrier'
+p83
+g2
+(g6
+S'c\xef\xbf\xc4"\xd6\xdd?'
+p84
+tp85
+Rp86
+tp87
+a(S'toy manchester terrier'
+p88
+g2
+(g6
+S'\x0fZ\x94\xaf\xc6\xb3\xdd?'
+p89
+tp90
+Rp91
+tp92
+a(S'uss terrier (sp-960)'
+p93
+g2
+(g6
+S"'\x1f\xe8\x82q\xad\xdd?"
+p94
+tp95
+Rp96
+tp97
+a(S'russell terrier'
+p98
+g2
+(g6
+S',\x19\xde\xe5\x039\xdd?'
+p99
+tp100
+Rp101
+tp102
+a(S'terrier (disambiguation)'
+p103
+g2
+(g6
+S'\x89q_\x82\x1b&\xdd?'
+p104
+tp105
+Rp106
+tp107
+a(S'terrier'
+p108
+g2
+(g6
+S'|P$\xd4\xe7\x03\xdd?'
+p109
+tp110
+Rp111
+tp112
+a(S'beagle terrier'
+p113
+g2
+(g6
+S'\x93E\x8b\x0b\x95\xfb\xdc?'
+p114
+tp115
+Rp116
+tp117
+a(S'terrier malemute'
+p118
+g2
+(g6
+S'\xf8\x84\xae\xae\x95\xf2\xdc?'
+p119
+tp120
+Rp121
+tp122
+a(S'lucas terrier'
+p123
+g2
+(g6
+S'\xe9%\xf4\xc1G\xf0\xdc?'
+p124
+tp125
+Rp126
+tp127
+a(S'information retrieval applications'
+p128
+g2
+(g6
+S'.\x92\xfb\xd5q\xdf\xdc?'
+p129
+tp130
+Rp131
+tp132
+a(S'list of dog breeds recognized by the american kennel club'
+p133
+g2
+(g6
+S'\xd0\xf6\xaf2\x08\xdb\xdc?'
+p134
+tp135
+Rp136
+tp137
+a(S'dogs 101'
+p138
+g2
+(g6
+S'\x83\x8f\xfd\x99"\xc6\xdc?'
+p139
+tp140
+Rp141
+tp142
+a(S'australian terrier'
+p143
+g2
+(g6
+S'\xed\x8f\x82\xf8js\xdc?'
+p144
+tp145
+Rp146
+tp147
+a(S'japanese terrier'
+p148
+g2
+(g6
+S'\x8f\x84\x99b\x93j\xdc?'
+p149
+tp150
+Rp151
+tp152
+a(S'bull and terrier'
+p153
+g2
+(g6
+S'$\xc4\xec\xea\xfcD\xdc?'
+p154
+tp155
+Rp156
+tp157
+a(S'patterdale terrier'
+p158
+g2
+(g6
+S'\xc4\xf7/]67\xdc?'
+p159
+tp160
+Rp161
+tp162
+a(S'list of best in show winners of the westminster kennel club dog show'
+p163
+g2
+(g6
+S'\x9e*]\x88\x8f\x1b\xdc?'
+p164
+tp165
+Rp166
+tp167
+a(S'english white terrier'
+p168
+g2
+(g6
+S'q\xd6Z\xa4\x9a\x1a\xdc?'
+p169
+tp170
+Rp171
+tp172
+a(S'jack russell terrier'
+p173
+g2
+(g6
+S'XR\x98\x8d\xe3\xc2\xdb?'
+p174
+tp175
+Rp176
+tp177
+a(S'english toy terrier (black & tan)'
+p178
+g2
+(g6
+S'\xa05C\x13\xe0\x98\xdb?'
+p179
+tp180
+Rp181
+tp182
+a(S'american russell terrier club'
+p183
+g2
+(g6
+S'e\xa1\x82\x1a=\x94\xdb?'
+p184
+tp185
+Rp186
+tp187
+a(S'fell terrier'
+p188
+g2
+(g6
+S'\xce\xa2\xc1\r-\x8e\xdb?'
+p189
+tp190
+Rp191
+tp192
+a(S'border terrier'
+p193
+g2
+(g6
+S'r\xcc\xc3\x8b\xbd}\xdb?'
+p194
+tp195
+Rp196
+tp197
+a(S'rim-2 terrier'
+p198
+g2
+(g6
+S'z\xae\x92\xaa\xc9[\xdb?'
+p199
+tp200
+Rp201
+tp202
+a(S'c. j. van rijsbergen'
+p203
+g2
+(g6
+S'5r\xc9\xd4PV\xdb?'
+p204
+tp205
+Rp206
+tp207
+a(S'plummer terrier'
+p208
+g2
+(g6
+S's\x03\x81`\x87F\xdb?'
+p209
+tp210
+Rp211
+tp212
+a(S'boston terrier'
+p213
+g2
+(g6
+S'p6\x12x\xf2.\xdb?'
+p214
+tp215
+Rp216
+tp217
+a(S'australian silky terrier'
+p218
+g2
+(g6
+S'\x004\xd4"\xa1,\xdb?'
+p219
+tp220
+Rp221
+tp222
+a(S'cesky terrier'
+p223
+g2
+(g6
+S'"p\x82\xd5i\xde\xda?'
+p224
+tp225
+Rp226
+tp227
+a(S'welsh terrier'
+p228
+g2
+(g6
+S'\xcf?\x8d\x12x\x99\xda?'
+p229
+tp230
+Rp231
+tp232
+a(S'scottish terrier'
+p233
+g2
+(g6
+S'\xca*\xc1b\x98\x8e\xda?'
+p234
+tp235
+Rp236
+tp237
+a(S'parson russell terrier'
+p238
+g2
+(g6
+S'v)[\xc8dn\xda?'
+p239
+tp240
+Rp241
+tp242
+a(S'bull terrier'
+p243
+g2
+(g6
+S'?\xff\xa6\xdcyW\xda?'
+p244
+tp245
+Rp246
+tp247
+a(S'gerard salton award'
+p248
+g2
+(g6
+S'\x9f\x9a\x02\x80K8\xda?'
+p249
+tp250
+Rp251
+tp252
+a(S'uss terrier (1822)'
+p253
+g2
+(g6
+S'$\x14\x96[g+\xda?'
+p254
+tp255
+Rp256
+tp257
+a(S'foxcon aviation'
+p258
+g2
+(g6
+S'bv2\xec8\x11\xda?'
+p259
+tp260
+Rp261
+tp262
+a(S'smooth fox terrier'
+p263
+g2
+(g6
+S'\x95\x168\x93~\x9b\xd9?'
+p264
+tp265
+Rp266
+tp267
+a(S'national rat terrier association'
+p268
+g2
+(g6
+S'\xcf\x18\xf5;\xe6%\xd9?'
+p269
+tp270
+Rp271
+tp272
+a(S'miniature fox terrier'
+p273
+g2
+(g6
+S'\xf8/*j)#\xd9?'
+p274
+tp275
+Rp276
+tp277
+a(S'terrier oriole'
+p278
+g2
+(g6
+S'\xab\xdf\xbac\x90\xd5\xd8?'
+p279
+tp280
+Rp281
+tp282
+a(S'information retrieval specialist group'
+p283
+g2
+(g6
+S'\x08\xf1E\xdfa\xab\xd8?'
+p284
+tp285
+Rp286
+tp287
+a(S'calvin mooers'
+p288
+g2
+(g6
+S'\xce\xee)\xba\xcf\xa9\xd8?'
+p289
+tp290
+Rp291
+tp292
+a(S'teastas mor'
+p293
+g2
+(g6
+S'N\x93\xd5\xa0w\xa3\xd8?'
+p294
+tp295
+Rp296
+tp297
+a(S'rat terrier'
+p298
+g2
+(g6
+S"\xdd'\xdaL\x9a\x88\xd8?"
+p299
+tp300
+Rp301
+tp302
+a(S'special interest group on information retrieval'
+p303
+g2
+(g6
+S'\xae\xb5\xf3\x89\xdcm\xd8?'
+p304
+tp305
+Rp306
+tp307
+a(S'list of best in show winners of crufts'
+p308
+g2
+(g6
+S'\xbe\xccd\xbfpm\xd8?'
+p309
+tp310
+Rp311
+tp312
+a(S'wire fox terrier'
+p313
+g2
+(g6
+S'\xf0\xf9\xa4.}:\xd8?'
+p314
+tp315
+Rp316
+tp317
+a(S'knowledge retrieval'
+p318
+g2
+(g6
+S'\xf4j[\\r/\xd8?'
+p319
+tp320
+Rp321
+tp322
+a(S'norfolk terrier'
+p323
+g2
+(g6
+S'\x92Vp\x08!\x15\xd8?'
+p324
+tp325
+Rp326
+tp327
+a(S'jack russell terrier club of america'
+p328
+g2
+(g6
+S'\xc4\x935_\xae\xce\xd7?'
+p329
+tp330
+Rp331
+tp332
+a(S'black russian terrier'
+p333
+g2
+(g6
+S'\x1d\xc8dn\xad\xcd\xd7?'
+p334
+tp335
+Rp336
+tp337
+a(S'toy fox terrier'
+p338
+g2
+(g6
+S'\xa6\xdc\x96D/\xaa\xd7?'
+p339
+tp340
+Rp341
+tp342
+a(S'list of information retrieval libraries'
+p343
+g2
+(g6
+S'n\x81\x1c\xda\x93\x92\xd7?'
+p344
+tp345
+Rp346
+tp347
+a(S'chilean terrier'
+p348
+g2
+(g6
+S'Zo\xc6\xf9\x97\x91\xd7?'
+p349
+tp350
+Rp351
+tp352
+a(S'american hairless terrier'
+p353
+g2
+(g6
+S'(\xcc\xfc\xc7\x1cF\xd7?'
+p354
+tp355
+Rp356
+tp357
+a(S'foxcon terrier 200'
+p358
+g2
+(g6
+S'\x0f\x86R\xdb\x06\x1f\xd7?'
+p359
+tp360
+Rp361
+tp362
+a(S'david blair (information technologist)'
+p363
+g2
+(g6
+S'L\x85sLk\x04\xd7?'
+p364
+tp365
+Rp366
+tp367
+a(S'the gunman (film)'
+p368
+g2
+(g6
+S'\x04g\x16\x9en\x02\xd7?'
+p369
+tp370
+Rp371
+tp372
+a(S'information retrieval'
+p373
+g2
+(g6
+S'\x84\xfd\xfafU\xd6\xd6?'
+p374
+tp375
+Rp376
+tp377
+a(S'cranfield experiments'
+p378
+g2
+(g6
+S'\xe9;U\x8f\tq\xd6?'
+p379
+tp380
+Rp381
+tp382
+a(S'irish terrier'
+p383
+g2
+(g6
+S'8\x11\r@\x05Y\xd6?'
+p384
+tp385
+Rp386
+tp387
+a(S'black and tan terrier'
+p388
+g2
+(g6
+S'|l<\xafvQ\xd6?'
+p389
+tp390
+Rp391
+tp392
+a(S'ratonero bodeguero andaluz'
+p393
+g2
+(g6
+S'$\xeer\xd5}:\xd6?'
+p394
+tp395
+Rp396
+tp397
+a(S'document retrieval'
+p398
+g2
+(g6
+S'\xc6\x03\xf3+\xbb3\xd6?'
+p399
+tp400
+Rp401
+tp402
+a(S'cairn terrier'
+p403
+g2
+(g6
+S'\xd3\xa3hY\x12-\xd6?'
+p404
+tp405
+Rp406
+tp407
+a(S'spaced retrieval'
+p408
+g2
+(g6
+S'T?\x02\xd1\xfb \xd6?'
+p409
+tp410
+Rp411
+tp412
+a(S'yorkshire terrier'
+p413
+g2
+(g6
+S'+\xf6x\x0f$ \xd6?'
+p414
+tp415
+Rp416
+tp417
+a(S'brazilian terrier'
+p418
+g2
+(g6
+S'\x0c\xdb\x81\xc5\xf8\x0c\xd6?'
+p419
+tp420
+Rp421
+tp422
+a(S'cross-language information retrieval'
+p423
+g2
+(g6
+S'\xd8e\xa6\x86E\x06\xd6?'
+p424
+tp425
+Rp426
+tp427
+a(S'irish staffordshire bull terrier'
+p428
+g2
+(g6
+S'FC\x07k\xbb\xf7\xd5?'
+p429
+tp430
+Rp431
+tp432
+a(S'tenterfield terrier'
+p433
+g2
+(g6
+S'g\x11\xed\x87K\xb1\xd5?'
+p434
+tp435
+Rp436
+tp437
+a(S'information retrieval facility'
+p438
+g2
+(g6
+S'\xfc\xff\xc62\xc9p\xd5?'
+p439
+tp440
+Rp441
+tp442
+a(S'dandie dinmont terrier'
+p443
+g2
+(g6
+S'2)\x0c\xed\x05`\xd5?'
+p444
+tp445
+Rp446
+tp447
+a(S'terrier armoured digger'
+p448
+g2
+(g6
+S'\xbd\xd3\xa1\xd5\x08Y\xd5?'
+p449
+tp450
+Rp451
+tp452
+a(S'huddersfield ben'
+p453
+g2
+(g6
+S'\x7f[\x7f\xcc\x8aJ\xd5?'
+p454
+tp455
+Rp456
+tp457
+a(S'lakeland terrier'
+p458
+g2
+(g6
+S'\xb0\xc5\x14\xa3\xccB\xd5?'
+p459
+tp460
+Rp461
+tp462
+a(S'tibetan terrier'
+p463
+g2
+(g6
+S'\xd1M\xd9\xffY\x04\xd5?'
+p464
+tp465
+Rp466
+tp467
+a(S'swimbridge'
+p468
+g2
+(g6
+S'\x92\x1c\xcd8\xb2\xe2\xd4?'
+p469
+tp470
+Rp471
+tp472
+a(S'james hinks'
+p473
+g2
+(g6
+S'\x81\xb8o\xb9\xdb\xe1\xd4?'
+p474
+tp475
+Rp476
+tp477
+a(S'sealyham terrier'
+p478
+g2
+(g6
+S'L\xfc\xb74\x92\xd4\xd4?'
+p479
+tp480
+Rp481
+tp482
+a(S'ratcatcher (attire)'
+p483
+g2
+(g6
+S'\xf8\x8f\xd3\xbf\x1e\xc6\xd4?'
+p484
+tp485
+Rp486
+tp487
+a(S'international society for music information retrieval'
+p488
+g2
+(g6
+S'\xbd\x9b\xce(\xcc\xad\xd4?'
+p489
+tp490
+Rp491
+tp492
+a(S'terrier orion'
+p493
+g2
+(g6
+S'\xfb\xe2\xd4\xb7Q\x91\xd4?'
+p494
+tp495
+Rp496
+tp497
+a(S'akc/eukanuba national championship'
+p498
+g2
+(g6
+S' \x82\x8dn\xd8\x7f\xd4?'
+p499
+tp500
+Rp501
+tp502
+a(S"mcvan's to russia with love"
+p503
+g2
+(g6
+S'\xdf.\xafM\xf7i\xd4?'
+p504
+tp505
+Rp506
+tp507
+a(S'list of dog breeds recognized by the fci'
+p508
+g2
+(g6
+S'\t0pK\x13b\xd4?'
+p509
+tp510
+Rp511
+tp512
+a(S"efbe's hidalgo at goodspice"
+p513
+g2
+(g6
+S'f\xa5\xbc\x11\xe9P\xd4?'
+p514
+tp515
+Rp516
+tp517
+a(S'making good'
+p518
+g2
+(g6
+S'&|\x926\xac\x1b\xd4?'
+p519
+tp520
+Rp521
+tp522
+a(S's\xc3\xa1ndor dominich'
+p523
+g2
+(g6
+S'\xd8\x8a\x17\x0fs\x05\xd4?'
+p524
+tp525
+Rp526
+tp527
+a(S'w. bruce croft'
+p528
+g2
+(g6
+S'\xbba-1\x16\xb1\xd3?'
+p529
+tp530
+Rp531
+tp532
+a(S'michael lew'
+p533
+g2
+(g6
+S'[v\xc1\x18\xfb\xa5\xd3?'
+p534
+tp535
+Rp536
+tp537
+a(S'concept-based image indexing'
+p538
+g2
+(g6
+S'\xe0,\x036\x12\x95\xd3?'
+p539
+tp540
+Rp541
+tp542
+a(S"rocky top's sundance kid"
+p543
+g2
+(g6
+S'\x12\xf64^\xa6\x8d\xd3?'
+p544
+tp545
+Rp546
+tp547
+a(S'kerry blue terrier'
+p548
+g2
+(g6
+S"\x15\xdc\xf7'o|\xd3?"
+p549
+tp550
+Rp551
+tp552
+a(S'antigen retrieval'
+p553
+g2
+(g6
+S'E"4s\xcdw\xd3?'
+p554
+tp555
+Rp556
+tp557
+a(S'xml retrieval'
+p558
+g2
+(g6
+S'\x9c@\xe6\x14/r\xd3?'
+p559
+tp560
+Rp561
+tp562
+a(S'cyril cleverdon'
+p563
+g2
+(g6
+S'~T\x90\xd31a\xd3?'
+p564
+tp565
+Rp566
+tp567
+a(S'lead retrieval'
+p568
+g2
+(g6
+S'\xdf\xd8\x91\x1c\xcfP\xd3?'
+p569
+tp570
+Rp571
+tp572
+a(S'cognitive models of information retrieval'
+p573
+g2
+(g6
+S'o\xdf\xd3\xcf\xa9I\xd3?'
+p574
+tp575
+Rp576
+tp577
+a(S'signal circuit of halleston'
+p578
+g2
+(g6
+S'\xf7:"\x13g\xcf\xd2?'
+p579
+tp580
+Rp581
+tp582
+a(S'networked environment for music analysis'
+p583
+g2
+(g6
+S'P9@\x87\xc1\xb9\xd2?'
+p584
+tp585
+Rp586
+tp587
+a(S'tickle em jock'
+p588
+g2
+(g6
+S'\x92_\x1d\x05D\xb0\xd2?'
+p589
+tp590
+Rp591
+tp592
+a(S'glen of imaal terrier'
+p593
+g2
+(g6
+S'\xb10h\xe4\xac\xa4\xd2?'
+p594
+tp595
+Rp596
+tp597
+a(S'burneze geordie girl'
+p598
+g2
+(g6
+S':O\x91\x81\xc8\x83\xd2?'
+p599
+tp600
+Rp601
+tp602
+a(S'european conference on information retrieval'
+p603
+g2
+(g6
+S'\x1b\xc5m\xc0\x87|\xd2?'
+p604
+tp605
+Rp606
+tp607
+a(S'human\xe2\x80\x93computer information retrieval'
+p608
+g2
+(g6
+S'\xb1-.\xca-a\xd2?'
+p609
+tp610
+Rp611
+tp612
+a(S'bull terrier (miniature)'
+p613
+g2
+(g6
+S'\xeb\xe7c\x08p]\xd2?'
+p614
+tp615
+Rp616
+tp617
+a(S'old jock'
+p618
+g2
+(g6
+S'S\xf1\x87\xfe\xe7W\xd2?'
+p619
+tp620
+Rp621
+tp622
+a(S'west highland white terrier'
+p623
+g2
+(g6
+S'|]\xb3\xd3sH\xd2?'
+p624
+tp625
+Rp626
+tp627
+a(S'rothbury (disambiguation)'
+p628
+g2
+(g6
+S'\xca\xf9 \xa5Z:\xd2?'
+p629
+tp630
+Rp631
+tp632
+a(S'blue paul terrier'
+p633
+g2
+(g6
+S'M2\xfb\x99\xe82\xd2?'
+p634
+tp635
+Rp636
+tp637
+a(S'breed all about it'
+p638
+g2
+(g6
+S'Ds\x88"~\xef\xd1?'
+p639
+tp640
+Rp641
+tp642
+a(S'game (dog)'
+p643
+g2
+(g6
+S'k\x94\xae\xbed\xe4\xd1?'
+p644
+tp645
+Rp646
+tp647
+a(S'music information retrieval'
+p648
+g2
+(g6
+S'A$\x9f\xafv\xdc\xd1?'
+p649
+tp650
+Rp651
+tp652
+a(S'fleet hargate'
+p653
+g2
+(g6
+S'P@\x1a\xa1\xbe\xda\xd1?'
+p654
+tp655
+Rp656
+tp657
+a(S'dutch smoushond'
+p658
+g2
+(g6
+S'\xa4\xdf\xbez4s\xd1?'
+p659
+tp660
+Rp661
+tp662
+a(S'nivio ziviani'
+p663
+g2
+(g6
+S'\x93\xb3\xc0+\xefq\xd1?'
+p664
+tp665
+Rp666
+tp667
+a(S'jack russell (priest)'
+p668
+g2
+(g6
+S'r[x\xa9n]\xd1?'
+p669
+tp670
+Rp671
+tp672
+a(S'list of most popular dog breeds'
+p673
+g2
+(g6
+S';\xaf\x0er{I\xd1?'
+p674
+tp675
+Rp676
+tp677
+a(S'content-based image retrieval'
+p678
+g2
+(g6
+S'\xe1\xc6\x81\x8byE\xd1?'
+p679
+tp680
+Rp681
+tp682
+a(S'staffordshire bull terrier'
+p683
+g2
+(g6
+S'\x05\xc1qr 2\xd1?'
+p684
+tp685
+Rp686
+tp687
+a(S'list of dog breeds recognized by the canadian kennel club'
+p688
+g2
+(g6
+S'q\x02)\xdcR/\xd1?'
+p689
+tp690
+Rp691
+tp692
+a(S'3d content retrieval'
+p693
+g2
+(g6
+S'\xce\xf8L\xd4\xe2\xe1\xd0?'
+p694
+tp695
+Rp696
+tp697
+a(S'visual word'
+p698
+g2
+(g6
+S'H/mn5\xe1\xd0?'
+p699
+tp700
+Rp701
+tp702
+a(S'brian plummer'
+p703
+g2
+(g6
+S'$i\x9b)\x06\xd6\xd0?'
+p704
+tp705
+Rp706
+tp707
+a(S'gerard salton'
+p708
+g2
+(g6
+S'*2q\xf3\xc7\xcc\xd0?'
+p709
+tp710
+Rp711
+tp712
+a(S'lgte'
+p713
+g2
+(g6
+S'\xdfW\xaf\x84\xcf\xca\xd0?'
+p714
+tp715
+Rp716
+tp717
+a(S'conference and labs of the evaluation forum'
+p718
+g2
+(g6
+S'\xa9\xed\xea(\xa0\xc9\xd0?'
+p719
+tp720
+Rp721
+tp722
+a(S'cephalic index'
+p723
+g2
+(g6
+S'\xae\xca"*\x1d\xc2\xd0?'
+p724
+tp725
+Rp726
+tp727
+a(S'tony kent strix award'
+p728
+g2
+(g6
+S'\x8b\xff\x16p_\x9b\xd0?'
+p729
+tp730
+Rp731
+tp732
+a(S"mooers' law"
+p733
+g2
+(g6
+S'\x04\xee\xeb\x8c\xba\x9a\xd0?'
+p734
+tp735
+Rp736
+tp737
+a(S'susan dumais'
+p738
+g2
+(g6
+S'\xa8o\x85_\xc9\x98\xd0?'
+p739
+tp740
+Rp741
+tp742
+a(S'trecvid'
+p743
+g2
+(g6
+S'\x94\x0c\xd3\xd9\xe6\x82\xd0?'
+p744
+tp745
+Rp746
+tp747
+a(S'trec genomics'
+p748
+g2
+(g6
+S'\x89r\xed\xc2Xq\xd0?'
+p749
+tp750
+Rp751
+tp752
+a(S'clearinghouse for networked information discovery and retrieval'
+p753
+g2
+(g6
+S'k~h\x07\xa0j\xd0?'
+p754
+tp755
+Rp756
+tp757
+a(S'matford vic'
+p758
+g2
+(g6
+S'\x81\xcb\x17(\x13T\xd0?'
+p759
+tp760
+Rp761
+tp762
+a(S'martin terrier'
+p763
+g2
+(g6
+S'\xfe@\x94@lS\xd0?'
+p764
+tp765
+Rp766
+tp767
+a(S'national dog show'
+p768
+g2
+(g6
+S'\x1dM\xd9\xd2\xd2N\xd0?'
+p769
+tp770
+Rp771
+tp772
+a(S'natural bobtail'
+p773
+g2
+(g6
+S'\x9b\xd4\xb7\x1d&G\xd0?'
+p774
+tp775
+Rp776
+tp777
+a(S'text retrieval conference'
+p778
+g2
+(g6
+S'\xd4a/\xc4\n\x1c\xd0?'
+p779
+tp780
+Rp781
+tp782
+a(S'suomen kennelliitto'
+p783
+g2
+(g6
+S'5\x11\x9f\x83\x05\x17\xd0?'
+p784
+tp785
+Rp786
+tp787
+a(S'companion dog'
+p788
+g2
+(g6
+S'$\xdd\x0c\xbd\x9b\x0b\xd0?'
+p789
+tp790
+Rp791
+tp792
+a(S'informedia digital library'
+p793
+g2
+(g6
+S'\xae]\x9f\xf8x\xf7\xcf?'
+p794
+tp795
+Rp796
+tp797
+a(S'jason farradane'
+p798
+g2
+(g6
+S'\xf3X\xa0\xdf\x94\xeb\xcf?'
+p799
+tp800
+Rp801
+tp802
+a(S'active recall'
+p803
+g2
+(g6
+S'p\x1b\x9c\x9eU\xb5\xcf?'
+p804
+tp805
+Rp806
+tp807
+a(S'list of dog breeds'
+p808
+g2
+(g6
+S'\xc0\x97\xad3\xa3\xad\xcf?'
+p809
+tp810
+Rp811
+tp812
+a(S'jagdterrier'
+p813
+g2
+(g6
+S't\xc9U\xf4\xdb\xa9\xcf?'
+p814
+tp815
+Rp816
+tp817
+a(S'bedlington terrier'
+p818
+g2
+(g6
+S'\x92<\xb9->\x9e\xcf?'
+p819
+tp820
+Rp821
+tp822
+a(S'kathleen pelham-clinton, duchess of newcastle'
+p823
+g2
+(g6
+S'\x91\x9b\x87\x1d?y\xcf?'
+p824
+tp825
+Rp826
+tp827
+a(S'united states presidential pets'
+p828
+g2
+(g6
+S'\xf9\x84\x0f&\x92B\xcf?'
+p829
+tp830
+Rp831
+tp832
+a(S'darpa tipster program'
+p833
+g2
+(g6
+S'h\x17\xcf\xa12;\xcf?'
+p834
+tp835
+Rp836
+tp837
+a(S'scotstar'
+p838
+g2
+(g6
+S'fI\xb3\xd9\xf2\xec\xce?'
+p839
+tp840
+Rp841
+tp842
+a(S'brazilian dogo'
+p843
+g2
+(g6
+S'\xcchE\x96\r\xa7\xce?'
+p844
+tp845
+Rp846
+tp847
+a(S'skye terrier'
+p848
+g2
+(g6
+S'\xaccg{5\x9e\xce?'
+p849
+tp850
+Rp851
+tp852
+a(S'list of search engine software'
+p853
+g2
+(g6
+S'S1W\x1f\xaf\x96\xce?'
+p854
+tp855
+Rp856
+tp857
+a(S'an/spg-55'
+p858
+g2
+(g6
+S'\xcd\xdf6L_{\xce?'
+p859
+tp860
+Rp861
+tp862
+a(S'temporal information retrieval'
+p863
+g2
+(g6
+S'\xf7\xb6\xb5c\na\xce?'
+p864
+tp865
+Rp866
+tp867
+a(S'breed-specific legislation'
+p868
+g2
+(g6
+S'\xadGVNs=\xce?'
+p869
+tp870
+Rp871
+tp872
+a(S'strathtay prince albert'
+p873
+g2
+(g6
+S'\x1d\xea:tn\xc9\xcd?'
+p874
+tp875
+Rp876
+tp877
+a(S'roseneath'
+p878
+g2
+(g6
+S'\n\x07?w,\xba\xcd?'
+p879
+tp880
+Rp881
+tp882
+a(S'land terrier'
+p883
+g2
+(g6
+S'\t;\x088a\x93\xcd?'
+p884
+tp885
+Rp886
+tp887
+a(S'mike lesk'
+p888
+g2
+(g6
+S",\xe2t\xd1O'\xcd?"
+p889
+tp890
+Rp891
+tp892
+a(S'baleix'
+p893
+g2
+(g6
+S't\x19\x87\x05\x88$\xcd?'
+p894
+tp895
+Rp896
+tp897
+a(S'craniomandibular osteopathy'
+p898
+g2
+(g6
+S'\xfd\x1a~][\x1c\xcd?'
+p899
+tp900
+Rp901
+tp902
+a(S'terrier-rouge'
+p903
+g2
+(g6
+S's\x1fS w\xfb\xcc?'
+p904
+tp905
+Rp906
+tp907
+a(S'nassib nassar'
+p908
+g2
+(g6
+S'\n\xaaW\xde\xbe\xee\xcc?'
+p909
+tp910
+Rp911
+tp912
+a(S'american dog breeders association'
+p913
+g2
+(g6
+S'\x0b\x19\xdd\xcb\x99\xb2\xcc?'
+p914
+tp915
+Rp916
+tp917
+a(S'the intelligence of dogs'
+p918
+g2
+(g6
+S')\xb9\xcem\x1es\xcc?'
+p919
+tp920
+Rp921
+tp922
+a(S'concept search'
+p923
+g2
+(g6
+S'\x06Vq\xc64r\xcc?'
+p924
+tp925
+Rp926
+tp927
+a(S'concept searching limited'
+p928
+g2
+(g6
+S'\xf8\xdd{\xa9[]\xcc?'
+p929
+tp930
+Rp931
+tp932
+a(S"moselle's 1st constituency"
+p933
+g2
+(g6
+S'\x0b\xc14\x80\x886\xcc?'
+p934
+tp935
+Rp936
+tp937
+a(S'robert r. korfhage'
+p938
+g2
+(g6
+S'\xa0\xd2n\xf6\x16(\xcc?'
+p939
+tp940
+Rp941
+tp942
+a(S'irsg'
+p943
+g2
+(g6
+S'\xea\xc0\xa7\x87r\xc5\xcb?'
+p944
+tp945
+Rp946
+tp947
+a(S'soft-coated wheaten terrier'
+p948
+g2
+(g6
+S'*uG=\xbc\xb8\xcb?'
+p949
+tp950
+Rp951
+tp952
+a(S'le choc'
+p953
+g2
+(g6
+S'o+:\x8a\xb6\xb8\xcb?'
+p954
+tp955
+Rp956
+tp957
+a(S'european summer school in information retrieval'
+p958
+g2
+(g6
+S')=\x90\xc4X\xb5\xcb?'
+p959
+tp960
+Rp961
+tp962
+a(S'norwich terrier'
+p963
+g2
+(g6
+S'\x87\xb9\xa0)s\xa3\xcb?'
+p964
+tp965
+Rp966
+tp967
+a(S'image retrieval'
+p968
+g2
+(g6
+S'\x85\x1226\xf4\x97\xcb?'
+p969
+tp970
+Rp971
+tp972
+a(S'eohippus'
+p973
+g2
+(g6
+S'\xfa\xbcq\xec\x19s\xcb?'
+p974
+tp975
+Rp976
+tp977
+a(S'the miracle (1987 film)'
+p978
+g2
+(g6
+S'\x81\x8d\n\x0f\xabW\xcb?'
+p979
+tp980
+Rp981
+tp982
+a(S'airedale terrier'
+p983
+g2
+(g6
+S'\x15\xbfH:\xac!\xcb?'
+p984
+tp985
+Rp986
+tp987
+a(S'terasca'
+p988
+g2
+(g6
+S'\xe9\x9dOC\xfa\x1e\xcb?'
+p989
+tp990
+Rp991
+tp992
+a(S'relevance (information retrieval)'
+p993
+g2
+(g6
+S'\x1c\x14\x9d\xc7\xf5\x1b\xcb?'
+p994
+tp995
+Rp996
+tp997
+a(S'list of oldest dogs'
+p998
+g2
+(g6
+S'\xa9?\xcb\x06\xf8\xfc\xca?'
+p999
+tp1000
+Rp1001
+tp1002
+a(S'doggles'
+p1003
+g2
+(g6
+S'\xb7f\x08$\xf0\xb9\xca?'
+p1004
+tp1005
+Rp1006
+tp1007
+a(S'toby terrier'
+p1008
+g2
+(g6
+S'lo\x1a\x14\x01\xb0\xca?'
+p1009
+tp1010
+Rp1011
+tp1012
+a(S'american rare breed association'
+p1013
+g2
+(g6
+S'\x85B_l\x08@\xca?'
+p1014
+tp1015
+Rp1016
+tp1017
+a(S'guatemalan dogo'
+p1018
+g2
+(g6
+S'\xf6 \xc7\xc6\x1b7\xca?'
+p1019
+tp1020
+Rp1021
+tp1022
+a(S'aging in dogs'
+p1023
+g2
+(g6
+S'\xc9\xa8\xb9\xd5\xe74\xca?'
+p1024
+tp1025
+Rp1026
+tp1027
+a(S'legal information retrieval'
+p1028
+g2
+(g6
+S'Q\xdf\x16\xd29\xfb\xc9?'
+p1029
+tp1030
+Rp1031
+tp1032
+a(S'hippocampal memory encoding and retrieval'
+p1033
+g2
+(g6
+S'\xd70n\xa6\xb5\xf1\xc9?'
+p1034
+tp1035
+Rp1036
+tp1037
+a(S'the whispering statue'
+p1038
+g2
+(g6
+S'o\xab\xd1\xb8\xeb\xe9\xc9?'
+p1039
+tp1040
+Rp1041
+tp1042
+a(S'pirs'
+p1043
+g2
+(g6
+S'\xee\x03j?{\xe2\xc9?'
+p1044
+tp1045
+Rp1046
+tp1047
+a(S'retrieval-induced forgetting'
+p1048
+g2
+(g6
+S'\xd7\xac>s\xb2\xd3\xc9?'
+p1049
+tp1050
+Rp1051
+tp1052
+a(S'isearch'
+p1053
+g2
+(g6
+S'\xa6\x0eI\xb0\xcd\xc7\xc9?'
+p1054
+tp1055
+Rp1056
+tp1057
+a(S"1998\xe2\x80\x9399 st. francis terriers men's basketball team"
+p1058
+g2
+(g6
+S'?\x8eh\xff\xdf\xbd\xc9?'
+p1059
+tp1060
+Rp1061
+tp1062
+a(S'toy group'
+p1063
+g2
+(g6
+S'\xd9\x86Kha\xb0\xc9?'
+p1064
+tp1065
+Rp1066
+tp1067
+a(S'multimedia information retrieval'
+p1068
+g2
+(g6
+S'\x05\xbf\x83\x81%\xa7\xc9?'
+p1069
+tp1070
+Rp1071
+tp1072
+a(S'thomas william hogarth'
+p1073
+g2
+(g6
+S'\xc9\xe2\xa3{\xb7\x96\xc9?'
+p1074
+tp1075
+Rp1076
+tp1077
+a(S'david terrier'
+p1078
+g2
+(g6
+S'\xf7t[\xe1:j\xc9?'
+p1079
+tp1080
+Rp1081
+tp1082
+a(S'glebe terrier'
+p1083
+g2
+(g6
+S'\x1b\xf9\xca\xe3[f\xc9?'
+p1084
+tp1085
+Rp1086
+tp1087
+a(S'retrievability'
+p1088
+g2
+(g6
+S'\xb3\xc8\xc7N)_\xc9?'
+p1089
+tp1090
+Rp1091
+tp1092
+a(S'information science'
+p1093
+g2
+(g6
+S'\xc0\xd7\xb07\x7fQ\xc9?'
+p1094
+tp1095
+Rp1096
+tp1097
+a(S'extremes (novel)'
+p1098
+g2
+(g6
+S'\xd5pa\xbf[9\xc9?'
+p1099
+tp1100
+Rp1101
+tp1102
+a(S'silky'
+p1103
+g2
+(g6
+S'BKW:\x8b6\xc9?'
+p1104
+tp1105
+Rp1106
+tp1107
+a(S'araki fabulous willy'
+p1108
+g2
+(g6
+S'?C\x93\xdc\xea-\xc9?'
+p1109
+tp1110
+Rp1111
+tp1112
+a(S'rat-baiting'
+p1113
+g2
+(g6
+S'\x9e\xe8\xb9%\xa7\r\xc9?'
+p1114
+tp1115
+Rp1116
+tp1117
+a(S'canine epileptoid cramping syndrome'
+p1118
+g2
+(g6
+S'i\xd5\xd8\xdb\xff\xfb\xc8?'
+p1119
+tp1120
+Rp1121
+tp1122
+a(S'vocabulary mismatch'
+p1123
+g2
+(g6
+S'^$d\x03e\xe4\xc8?'
+p1124
+tp1125
+Rp1126
+tp1127
+a(S'miss beazley (dog)'
+p1128
+g2
+(g6
+S'D\xe9J\xee\xce\xd8\xc8?'
+p1129
+tp1130
+Rp1131
+tp1132
+a(S'boston-class cruiser'
+p1133
+g2
+(g6
+S'VA\xfd\xe6\x8f\xc5\xc8?'
+p1134
+tp1135
+Rp1136
+tp1137
+a(S'alan smeaton'
+p1138
+g2
+(g6
+S'P\xf1z\x8c\xcb\xb7\xc8?'
+p1139
+tp1140
+Rp1141
+tp1142
+a(S'american pit bull terrier'
+p1143
+g2
+(g6
+S'\x9b\xf7l\xb2-r\xc8?'
+p1144
+tp1145
+Rp1146
+tp1147
+a(S'conference on information and knowledge management'
+p1148
+g2
+(g6
+S'\xebu\x96\xe6\xcd5\xc8?'
+p1149
+tp1150
+Rp1151
+tp1152
+a(S'mark a. mcdaniel'
+p1153
+g2
+(g6
+S'\xb42oa\n\x12\xc8?'
+p1154
+tp1155
+Rp1156
+tp1157
+a(S'acm multimedia'
+p1158
+g2
+(g6
+S'\xa8\xa7|2\x94\x0b\xc8?'
+p1159
+tp1160
+Rp1161
+tp1162
+a(S'averbis'
+p1163
+g2
+(g6
+S'\xcc\xdb\x9c\x10\xe2\xde\xc7?'
+p1164
+tp1165
+Rp1166
+tp1167
+a(S'information retrieval query language'
+p1168
+g2
+(g6
+S'\x81\xc9:\xcdW\xdc\xc7?'
+p1169
+tp1170
+Rp1171
+tp1172
+a(S"p'tit quinquin (film)"
+p1173
+g2
+(g6
+S'\xa9\xec}S\xd0\xd3\xc7?'
+p1174
+tp1175
+Rp1176
+tp1177
+a(S'parliamentary information management system'
+p1178
+g2
+(g6
+S'g\x01\xa9\xec\xea\x92\xc7?'
+p1179
+tp1180
+Rp1181
+tp1182
+a(S'term indexing'
+p1183
+g2
+(g6
+S'\xbb\xf72\x00\x17\x8b\xc7?'
+p1184
+tp1185
+Rp1186
+tp1187
+a(S'mike lynch (information scientist)'
+p1188
+g2
+(g6
+S'O\x96\xf2?Ex\xc7?'
+p1189
+tp1190
+Rp1191
+tp1192
+a(S'john paul (artist)'
+p1193
+g2
+(g6
+S'\xf1\xcd\x97)\x97E\xc7?'
+p1194
+tp1195
+Rp1196
+tp1197
+a(S'equatorial vortex experiment'
+p1198
+g2
+(g6
+S'[s%\xa7\xe3D\xc7?'
+p1199
+tp1200
+Rp1201
+tp1202
+a(S'henry l. roediger iii'
+p1203
+g2
+(g6
+S'\x96\xd5\xbb*\xba\xef\xc6?'
+p1204
+tp1205
+Rp1206
+tp1207
+a(S'vassilis kavvadas'
+p1208
+g2
+(g6
+S'\xf9\x1c \xb2H\xe6\xc6?'
+p1209
+tp1210
+Rp1211
+tp1212
+a(S'pet pals: animal doctor'
+p1213
+g2
+(g6
+S'U\x9d6>C\xe1\xc6?'
+p1214
+tp1215
+Rp1216
+tp1217
+a(S'testing effect'
+p1218
+g2
+(g6
+S'\x9e.\xa1\xba5\xc9\xc6?'
+p1219
+tp1220
+Rp1221
+tp1222
+a(S'ro\xc4\x8de'
+p1223
+g2
+(g6
+S'\x0b\x17E\xb0\xae\x9b\xc6?'
+p1224
+tp1225
+Rp1226
+tp1227
+a(S'jaime teevan'
+p1228
+g2
+(g6
+S'#Ex\xd0\x01\x90\xc6?'
+p1229
+tp1230
+Rp1231
+tp1232
+a(S'torums scarf michael'
+p1233
+g2
+(g6
+S'\x1f\xe1\xbaTe\x86\xc6?'
+p1234
+tp1235
+Rp1236
+tp1237
+a(S'smart information retrieval system'
+p1238
+g2
+(g6
+S'5\x1eR\xbc\xf2h\xc6?'
+p1239
+tp1240
+Rp1241
+tp1242
+a(S'allen kent'
+p1243
+g2
+(g6
+S'Ix\xbdi\xe7g\xc6?'
+p1244
+tp1245
+Rp1246
+tp1247
+a(S'list of dog fighting breeds'
+p1248
+g2
+(g6
+S'\xd4\xdd\x80\xb3\xb0[\xc6?'
+p1249
+tp1250
+Rp1251
+tp1252
+a(S'gaithersburg, maryland'
+p1253
+g2
+(g6
+S'\x10?\xf0LdL\xc6?'
+p1254
+tp1255
+Rp1256
+tp1257
+a(S'michael witbrock'
+p1258
+g2
+(g6
+S'NF\\`\x9c>\xc6?'
+p1259
+tp1260
+Rp1261
+tp1262
+a(S'guincourt'
+p1263
+g2
+(g6
+S'U\xd0\xce\ta\x0c\xc6?'
+p1264
+tp1265
+Rp1266
+tp1267
+a(S'sealyham house'
+p1268
+g2
+(g6
+S'\xf61\x9c\x18g\x01\xc6?'
+p1269
+tp1270
+Rp1271
+tp1272
+a(S'vassilios'
+p1273
+g2
+(g6
+S'\xb7E\x99\xeb\x92\xe3\xc5?'
+p1274
+tp1275
+Rp1276
+tp1277
+a(S'cluster hypothesis'
+p1278
+g2
+(g6
+S'\x8e\xa4^\x99\xe5\xbe\xc5?'
+p1279
+tp1280
+Rp1281
+tp1282
+a(S'information seeking'
+p1283
+g2
+(g6
+S'\x13AT\xafMy\xc5?'
+p1284
+tp1285
+Rp1286
+tp1287
+a(S'list of sounding rockets'
+p1288
+g2
+(g6
+S'\xb2\xf6K\xc8\xbfk\xc5?'
+p1289
+tp1290
+Rp1291
+tp1292
+a(S'archival informatics'
+p1293
+g2
+(g6
+S'\x88q\xe8z\xeai\xc5?'
+p1294
+tp1295
+Rp1296
+tp1297
+a(S'mewf heavyweight championship'
+p1298
+g2
+(g6
+S"\xb4'\xcc\xb6&_\xc5?"
+p1299
+tp1300
+Rp1301
+tp1302
+a(S'paul labonte'
+p1303
+g2
+(g6
+S'\xe3\x0b\x99\x8dES\xc5?'
+p1304
+tp1305
+Rp1306
+tp1307
+a(S'history trek'
+p1308
+g2
+(g6
+S'\xa26\nt\xabH\xc5?'
+p1309
+tp1310
+Rp1311
+tp1312
+a(S'mooers'
+p1313
+g2
+(g6
+S'-\x17\xe8\x84\xd2B\xc5?'
+p1314
+tp1315
+Rp1316
+tp1317
+a(S'paul a. d. de maine'
+p1318
+g2
+(g6
+S'\xe5[\xb5\xdf\x8f@\xc5?'
+p1319
+tp1320
+Rp1321
+tp1322
+a(S'mobberley'
+p1323
+g2
+(g6
+S'\xcc\xd1\x05\xe4p0\xc5?'
+p1324
+tp1325
+Rp1326
+tp1327
+a(S'jim egan'
+p1328
+g2
+(g6
+S'\xf1\xf9\xe6\x93$\x00\xc5?'
+p1329
+tp1330
+Rp1331
+tp1332
+a(S'sound and music computing'
+p1333
+g2
+(g6
+S'a\x1f\xb0\x1dC\xe2\xc4?'
+p1334
+tp1335
+Rp1336
+tp1337
+a(S'outline of information science'
+p1338
+g2
+(g6
+S"\x04\xd2D'\xe6\xdd\xc4?"
+p1339
+tp1340
+Rp1341
+tp1342
+a(S'demodicosis'
+p1343
+g2
+(g6
+S'\xfa\x02e\x03D\xc0\xc4?'
+p1344
+tp1345
+Rp1346
+tp1347
+a(S'peter willett'
+p1348
+g2
+(g6
+S'\xee\xces\xfc\xc1\xbf\xc4?'
+p1349
+tp1350
+Rp1351
+tp1352
+a(S'automated storage and retrieval system'
+p1353
+g2
+(g6
+S'\xf2\x1a^\x83\xbc\xbe\xc4?'
+p1354
+tp1355
+Rp1356
+tp1357
+a(S'zettair'
+p1358
+g2
+(g6
+S"'\xc6\x9aku\xbc\xc4?"
+p1359
+tp1360
+Rp1361
+tp1362
+a(S'helen george'
+p1363
+g2
+(g6
+S'=\x06d\xc7/\xb9\xc4?'
+p1364
+tp1365
+Rp1366
+tp1367
+a(S'dtsearch'
+p1368
+g2
+(g6
+S'\xafS\xd6j~\xae\xc4?'
+p1369
+tp1370
+Rp1371
+tp1372
+a(S'vassilis mouratos'
+p1373
+g2
+(g6
+S'7\x1d\xf6\xda+\xa3\xc4?'
+p1374
+tp1375
+Rp1376
+tp1377
+a(S'lemur project'
+p1378
+g2
+(g6
+S't(t|\xa4\x8e\xc4?'
+p1379
+tp1380
+Rp1381
+tp1382
+a(S'autindex'
+p1383
+g2
+(g6
+S'\x8e\x9b_~\x97}\xc4?'
+p1384
+tp1385
+Rp1386
+tp1387
+a(S'gary chevsky'
+p1388
+g2
+(g6
+S'!\xbf\xfeM\\h\xc4?'
+p1389
+tp1390
+Rp1391
+tp1392
+a(S'private information retrieval'
+p1393
+g2
+(g6
+S'\xba)\xc5M\xa2f\xc4?'
+p1394
+tp1395
+Rp1396
+tp1397
+a(S'da kommt kalle'
+p1398
+g2
+(g6
+S'a\x15\xf6-\x16b\xc4?'
+p1399
+tp1400
+Rp1401
+tp1402
+a(S'glimpse'
+p1403
+g2
+(g6
+S'\x12\xb96\xad\x1eZ\xc4?'
+p1404
+tp1405
+Rp1406
+tp1407
+a(S'maarten de rijke'
+p1408
+g2
+(g6
+S'\x05z/\xb4\xc7W\xc4?'
+p1409
+tp1410
+Rp1411
+tp1412
+a(S'the totteridge xi'
+p1413
+g2
+(g6
+S'\x0e\xef\xdco\xe6T\xc4?'
+p1414
+tp1415
+Rp1416
+tp1417
+a(S'aboutness'
+p1418
+g2
+(g6
+S'\xea^/\xfd\x91T\xc4?'
+p1419
+tp1420
+Rp1421
+tp1422
+a(S'ilya segalovich'
+p1423
+g2
+(g6
+S'\xa9\xb6\xa0\xb4\x8b"\xc4?'
+p1424
+tp1425
+Rp1426
+tp1427
+a(S'geographic information retrieval'
+p1428
+g2
+(g6
+S'&\x18\xef\xeay \xc4?'
+p1429
+tp1430
+Rp1431
+tp1432
+a(S'itext'
+p1433
+g2
+(g6
+S'L/ep\xf4\x0e\xc4?'
+p1434
+tp1435
+Rp1436
+tp1437
+a(S'haymarket faultless'
+p1438
+g2
+(g6
+S'l\xf7\xc3\xb6\xda\x08\xc4?'
+p1439
+tp1440
+Rp1441
+tp1442
+a(S'my dog skip'
+p1443
+g2
+(g6
+S'\t\x94MJ\xb4\xf7\xc3?'
+p1444
+tp1445
+Rp1446
+tp1447
+a(S'vassilis c. constantakopoulos'
+p1448
+g2
+(g6
+S'k\xa6\x1d{\xb1\xf0\xc3?'
+p1449
+tp1450
+Rp1451
+tp1452
+a(S'list of individual dogs'
+p1453
+g2
+(g6
+S'S\xddA\x7f\xc2\xee\xc3?'
+p1454
+tp1455
+Rp1456
+tp1457
+a(S'marec'
+p1458
+g2
+(g6
+S'|\xd0\xe5\x9f\xa6\xec\xc3?'
+p1459
+tp1460
+Rp1461
+tp1462
+a(S'database storage structures'
+p1463
+g2
+(g6
+S'\xad\x98\x03\x18\xb6\xe4\xc3?'
+p1464
+tp1465
+Rp1466
+tp1467
+a(S'brs/search'
+p1468
+g2
+(g6
+S'\xb3-\xdeo\t\xdf\xc3?'
+p1469
+tp1470
+Rp1471
+tp1472
+a(S"2007\xe2\x80\x9308 st. francis terriers men's basketball team"
+p1473
+g2
+(g6
+S'\xc5\x1cj\xacK\xda\xc3?'
+p1474
+tp1475
+Rp1476
+tp1477
+a(S'phase retrieval'
+p1478
+g2
+(g6
+S'F\x8a\x14\x8dj\xce\xc3?'
+p1479
+tp1480
+Rp1481
+tp1482
+a(S'isoline retrieval'
+p1483
+g2
+(g6
+S'l\xa3=\xf4\x97\xc9\xc3?'
+p1484
+tp1485
+Rp1486
+tp1487
+a(S'namazu (search engine)'
+p1488
+g2
+(g6
+S'\xca*\x96Q\xdb\xba\xc3?'
+p1489
+tp1490
+Rp1491
+tp1492
+a(S'guard dog'
+p1493
+g2
+(g6
+S'\xfd\x08\x03\x97,\xb8\xc3?'
+p1494
+tp1495
+Rp1496
+tp1497
+a(S'ett'
+p1498
+g2
+(g6
+S'ii\x18X\x19\xb6\xc3?'
+p1499
+tp1500
+Rp1501
+tp1502
+a(S'amazon glacier'
+p1503
+g2
+(g6
+S'\xe7\xae-\xad\xef\xb4\xc3?'
+p1504
+tp1505
+Rp1506
+tp1507
+a(S'emergency medical retrieval service'
+p1508
+g2
+(g6
+S'\xdf\xf5 \xf7\x7f\x9c\xc3?'
+p1509
+tp1510
+Rp1511
+tp1512
+a.

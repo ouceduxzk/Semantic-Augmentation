@@ -1,0 +1,2728 @@
+(lp0
+(S'university of washington'
+p1
+cnumpy.core.multiarray
+scalar
+p2
+(cnumpy
+dtype
+p3
+(S'f8'
+p4
+I0
+I1
+tp5
+Rp6
+(I3
+S'<'
+p7
+NNNI-1
+I-1
+I0
+tp8
+bS'\x03\x00\x00\x00\x00\x00\xf0?'
+p9
+tp10
+Rp11
+tp12
+a(S'university of washington educational outreach'
+p13
+g2
+(g6
+S'\xfd\xe6\x9e\xce\xb2\xa5\xe2?'
+p14
+tp15
+Rp16
+tp17
+a(S'university of washington bothell'
+p18
+g2
+(g6
+S'\x86\x85\x03\xe8\x99J\xe2?'
+p19
+tp20
+Rp21
+tp22
+a(S'university of wisconsin\xe2\x80\x93la crosse'
+p23
+g2
+(g6
+S'\xdb]\x80{\x80\xd3\xe0?'
+p24
+tp25
+Rp26
+tp27
+a(S'david szatmary'
+p28
+g2
+(g6
+S'\x1dvHCN[\xe0?'
+p29
+tp30
+Rp31
+tp32
+a(S'university of washington school of medicine'
+p33
+g2
+(g6
+S'zb8\x9de-\xe0?'
+p34
+tp35
+Rp36
+tp37
+a(S'university of wisconsin\xe2\x80\x93barron county'
+p38
+g2
+(g6
+S'0\xc7\xd3\xb2 \x0f\xe0?'
+p39
+tp40
+Rp41
+tp42
+a(S'university of wisconsin\xe2\x80\x93madison'
+p43
+g2
+(g6
+S'n\xe5\x9c\xff\xf6n\xdf?'
+p44
+tp45
+Rp46
+tp47
+a(S'washington university in st. louis'
+p48
+g2
+(g6
+S'\x112\xebjd\xff\xde?'
+p49
+tp50
+Rp51
+tp52
+a(S'mark emmert'
+p53
+g2
+(g6
+S'lRQ\x96\x06\xa5\xdd?'
+p54
+tp55
+Rp56
+tp57
+a(S'campus of the university of washington'
+p58
+g2
+(g6
+S'\xeb\xb2\x1bq\xb2m\xdd?'
+p59
+tp60
+Rp61
+tp62
+a(S'university of wisconsin\xe2\x80\x93rock county'
+p63
+g2
+(g6
+S'dENxo&\xdd?'
+p64
+tp65
+Rp66
+tp67
+a(S'uw bioengineering'
+p68
+g2
+(g6
+S'\xac\x83d\xd1`\xed\xdc?'
+p69
+tp70
+Rp71
+tp72
+a(S'university of washington tacoma'
+p73
+g2
+(g6
+S'\x87b\xa8^\x7f\xdf\xdc?'
+p74
+tp75
+Rp76
+tp77
+a(S'timeline of the university of wisconsin\xe2\x80\x93parkside'
+p78
+g2
+(g6
+S'<l0\xd8\x9e\x8b\xdc?'
+p79
+tp80
+Rp81
+tp82
+a(S'chuck carroll'
+p83
+g2
+(g6
+S'\x0ecV\\\xa0{\xdc?'
+p84
+tp85
+Rp86
+tp87
+a(S'kevin p. reilly'
+p88
+g2
+(g6
+S'\xef?\xbcc\xd1m\xdc?'
+p89
+tp90
+Rp91
+tp92
+a(S'university of washington television'
+p93
+g2
+(g6
+S'w\xc1\xac\xc5]=\xdc?'
+p94
+tp95
+Rp96
+tp97
+a(S'wisconsin intercollegiate athletic conference'
+p98
+g2
+(g6
+S'\xd5\xcd\xa2\x00\xad\x0f\xdc?'
+p99
+tp100
+Rp101
+tp102
+a(S'university of wisconsin\xe2\x80\x93extension'
+p103
+g2
+(g6
+S'fx|\xc3n\xdb\xdb?'
+p104
+tp105
+Rp106
+tp107
+a(S'uw'
+p108
+g2
+(g6
+S'c\xbdE\xed+\xcc\xdb?'
+p109
+tp110
+Rp111
+tp112
+a(S'wisconsin collegiate conference'
+p113
+g2
+(g6
+S'\xae\xf6%d\xea\xe7\xda?'
+p114
+tp115
+Rp116
+tp117
+a(S'university of mary washington'
+p118
+g2
+(g6
+S'\xe3\xee\xebd\x9b\x84\xda?'
+p119
+tp120
+Rp121
+tp122
+a(S'northern collegiate hockey association'
+p123
+g2
+(g6
+S'`?q1hE\xda?'
+p124
+tp125
+Rp126
+tp127
+a(S'washington & jefferson college'
+p128
+g2
+(g6
+S'x\xe2\xba\x12\xdb+\xda?'
+p129
+tp130
+Rp131
+tp132
+a(S'university of wisconsin\xe2\x80\x93fond du lac'
+p133
+g2
+(g6
+S'\xef\x1b\x12\xb7\xa5*\xda?'
+p134
+tp135
+Rp136
+tp137
+a(S'university of wisconsin sustainable management'
+p138
+g2
+(g6
+S'{\xecm&\xc4#\xda?'
+p139
+tp140
+Rp141
+tp142
+a(S'wisconsin rugby football union'
+p143
+g2
+(g6
+S'>ej\xa0$\xcc\xd9?'
+p144
+tp145
+Rp146
+tp147
+a(S'arthur peabody'
+p148
+g2
+(g6
+S'\x00\xe6Y\xb8v\x8d\xd9?'
+p149
+tp150
+Rp151
+tp152
+a(S'union bay natural area'
+p153
+g2
+(g6
+S'_\x15W\x9c\x8a_\xd9?'
+p154
+tp155
+Rp156
+tp157
+a(S'iron cross (secret society)'
+p158
+g2
+(g6
+S'Y\xd9\xc2m.B\xd9?'
+p159
+tp160
+Rp161
+tp162
+a(S'don and nona williams stadium'
+p163
+g2
+(g6
+S'\xd2\xe1]\xba\x02\x13\xd9?'
+p164
+tp165
+Rp166
+tp167
+a(S'university of wisconsin\xe2\x80\x93richland'
+p168
+g2
+(g6
+S'/\xe1\xd5\xc2\xc0\x0c\xd9?'
+p169
+tp170
+Rp171
+tp172
+a(S'university of wisconsin system'
+p173
+g2
+(g6
+S'$\x98h6\xb8Y\xd8?'
+p174
+tp175
+Rp176
+tp177
+a(S'william h. gates hall (seattle)'
+p178
+g2
+(g6
+S'\xd2\x95\xe8\xb1\x8eS\xd8?'
+p179
+tp180
+Rp181
+tp182
+a(S"st. john's university (new york city)"
+p183
+g2
+(g6
+S'\xd0\x85b\xd4#L\xd8?'
+p184
+tp185
+Rp186
+tp187
+a(S'bowling green state university'
+p188
+g2
+(g6
+S'5\x1f\xe0\x89\xc1>\xd8?'
+p189
+tp190
+Rp191
+tp192
+a(S'kentlake high school'
+p193
+g2
+(g6
+S'\xf5\xd7\xd0\xee:\x0f\xd8?'
+p194
+tp195
+Rp196
+tp197
+a(S'university of wisconsin colleges online'
+p198
+g2
+(g6
+S'\x0c\xf9\xa2\\\x85\r\xd8?'
+p199
+tp200
+Rp201
+tp202
+a(S'university of wisconsin\xe2\x80\x93parkside'
+p203
+g2
+(g6
+S'\x0c\xa6d}f\xb6\xd7?'
+p204
+tp205
+Rp206
+tp207
+a(S'university of wisconsin\xe2\x80\x93fox valley'
+p208
+g2
+(g6
+S'B\xf5"\x94\xbf\xb1\xd7?'
+p209
+tp210
+Rp211
+tp212
+a(S'american university'
+p213
+g2
+(g6
+S'E\x00L\xf0\xe9\x9b\xd7?'
+p214
+tp215
+Rp216
+tp217
+a(S'outline of washington (state)'
+p218
+g2
+(g6
+S'`\xc9\xb5\xce+t\xd7?'
+p219
+tp220
+Rp221
+tp222
+a(S'san jose state university'
+p223
+g2
+(g6
+S'\x90\x92\xc7\x12&r\xd7?'
+p224
+tp225
+Rp226
+tp227
+a(S'400 building'
+p228
+g2
+(g6
+S'\xdeg\x97\xda\xe8e\xd7?'
+p229
+tp230
+Rp231
+tp232
+a(S'washington (state)'
+p233
+g2
+(g6
+S'=\xc6x\xdd\xfaP\xd7?'
+p234
+tp235
+Rp236
+tp237
+a(S'kiis 106.5'
+p238
+g2
+(g6
+S'<\x1c^\riO\xd7?'
+p239
+tp240
+Rp241
+tp242
+a(S'university of wisconsin\xe2\x80\x93green bay'
+p243
+g2
+(g6
+S'\x10pkECL\xd7?'
+p244
+tp245
+Rp246
+tp247
+a(S'list of washington locations by per capita income'
+p248
+g2
+(g6
+S'c\xac\xdb\x127?\xd7?'
+p249
+tp250
+Rp251
+tp252
+a(S'index of washington-related articles'
+p253
+g2
+(g6
+S'}\xe7\xb6\x07a9\xd7?'
+p254
+tp255
+Rp256
+tp257
+a(S'university of wisconsin\xe2\x80\x93manitowoc'
+p258
+g2
+(g6
+S'\xe2c\xaa\x8a\x089\xd7?'
+p259
+tp260
+Rp261
+tp262
+a(S'foster school of business'
+p263
+g2
+(g6
+S'\xc3\t&\x91\xc44\xd7?'
+p264
+tp265
+Rp266
+tp267
+a(S'john cherberg'
+p268
+g2
+(g6
+S'+\xf7.fe1\xd7?'
+p269
+tp270
+Rp271
+tp272
+a(S'balsillie school of international affairs'
+p273
+g2
+(g6
+S'\x10\x0eS\x98\xed\x1f\xd7?'
+p274
+tp275
+Rp276
+tp277
+a(S'washington huskies'
+p278
+g2
+(g6
+S'Xl\xbc\x18\xe4\x1f\xd7?'
+p279
+tp280
+Rp281
+tp282
+a(S'york college of pennsylvania'
+p283
+g2
+(g6
+S'Y\xb1Y43\x0e\xd7?'
+p284
+tp285
+Rp286
+tp287
+a(S'uw academy for young scholars'
+p288
+g2
+(g6
+S'\xe0}(\xfaB\xf2\xd6?'
+p289
+tp290
+Rp291
+tp292
+a(S'washington college'
+p293
+g2
+(g6
+S'W\xa9\x0f\x83\x14\xf2\xd6?'
+p294
+tp295
+Rp296
+tp297
+a(S'unconventional warfare (united states department of defense doctrine)'
+p298
+g2
+(g6
+S'\x17\x0c\x1c\xe2U\xce\xd6?'
+p299
+tp300
+Rp301
+tp302
+a(S'university of wisconsin\xe2\x80\x93waukesha'
+p303
+g2
+(g6
+S'h\x08\x92\xc9c\xcc\xd6?'
+p304
+tp305
+Rp306
+tp307
+a(S"washington\xe2\x80\x93washington state men's basketball rivalry"
+p308
+g2
+(g6
+S'\x9feu\xa8\xc4\xc2\xd6?'
+p309
+tp310
+Rp311
+tp312
+a(S'university of wisconsin\xe2\x80\x93marinette'
+p313
+g2
+(g6
+S'\xc6\x90.Q\x9c\xbd\xd6?'
+p314
+tp315
+Rp316
+tp317
+a(S'seattle pacific university'
+p318
+g2
+(g6
+S'\xae\xe5@\xe4Q\xb9\xd6?'
+p319
+tp320
+Rp321
+tp322
+a(S'eastern washington university'
+p323
+g2
+(g6
+S'\x9e\x87~D\x08\xb3\xd6?'
+p324
+tp325
+Rp326
+tp327
+a(S'university of minnesota'
+p328
+g2
+(g6
+S'\xc0\x8a\xe8\xb0\xce\xaf\xd6?'
+p329
+tp330
+Rp331
+tp332
+a(S'ned nelson'
+p333
+g2
+(g6
+S'\xcf\xd3o1(\xa4\xd6?'
+p334
+tp335
+Rp336
+tp337
+a(S'southern illinois university edwardsville'
+p338
+g2
+(g6
+S'6}\xa6Q\xbe\x98\xd6?'
+p339
+tp340
+Rp341
+tp342
+a(S"washington huskies women's volleyball"
+p343
+g2
+(g6
+S'w\xbfG\xa5\x99\x93\xd6?'
+p344
+tp345
+Rp346
+tp347
+a(S'washington'
+p348
+g2
+(g6
+S'n\x16\xe4\xc0\xd1\x8f\xd6?'
+p349
+tp350
+Rp351
+tp352
+a(S'university of washington plaza'
+p353
+g2
+(g6
+S'/\xbf\x853\xd4|\xd6?'
+p354
+tp355
+Rp356
+tp357
+a(S'university of wisconsin\xe2\x80\x93washington county'
+p358
+g2
+(g6
+S'*\xc7"<\xb0c\xd6?'
+p359
+tp360
+Rp361
+tp362
+a(S'george washington (taft)'
+p363
+g2
+(g6
+S'yV+D{Z\xd6?'
+p364
+tp365
+Rp366
+tp367
+a(S'new york institute of technology'
+p368
+g2
+(g6
+S'\x90\x08\xcaF\x10Q\xd6?'
+p369
+tp370
+Rp371
+tp372
+a(S'california state university, northridge'
+p373
+g2
+(g6
+S'\x0c\x1f\xf8\xdbZJ\xd6?'
+p374
+tp375
+Rp376
+tp377
+a(S'calvin jones (cornerback)'
+p378
+g2
+(g6
+S'\x0f\xdf\xda\x87)C\xd6?'
+p379
+tp380
+Rp381
+tp382
+a(S'university of wisconsin\xe2\x80\x93milwaukee'
+p383
+g2
+(g6
+S'b@\x9cw\xc4;\xd6?'
+p384
+tp385
+Rp386
+tp387
+a(S'asian american intervarsity christian fellowship \xe2\x80\x93 university of washington'
+p388
+g2
+(g6
+S'#\x04\xd5\x05\x0f,\xd6?'
+p389
+tp390
+Rp391
+tp392
+a(S'university at albany, suny'
+p393
+g2
+(g6
+S'K\x83$\x06\xfb(\xd6?'
+p394
+tp395
+Rp396
+tp397
+a(S'university of washington school of law'
+p398
+g2
+(g6
+S'q\xcf\xdd\xa37(\xd6?'
+p399
+tp400
+Rp401
+tp402
+a(S'mary maxwell gates'
+p403
+g2
+(g6
+S'\xaf\xd5\x8c\xbe\xec\x1e\xd6?'
+p404
+tp405
+Rp406
+tp407
+a(S'north carolina agricultural and technical state university'
+p408
+g2
+(g6
+S'\xa8-\xd6\x88\xd4\n\xd6?'
+p409
+tp410
+Rp411
+tp412
+a(S'list of places named for george washington'
+p413
+g2
+(g6
+S'\xb5\xc1ET\x95\x06\xd6?'
+p414
+tp415
+Rp416
+tp417
+a(S'washington county'
+p418
+g2
+(g6
+S'\xbb\xb9\n%\xba\xf7\xd5?'
+p419
+tp420
+Rp421
+tp422
+a(S'university of illinois at urbana\xe2\x80\x93champaign'
+p423
+g2
+(g6
+S'\x96!(\x94Y\xef\xd5?'
+p424
+tp425
+Rp426
+tp427
+a(S'western washington university'
+p428
+g2
+(g6
+S'\xbcK\xfe3\xf2\xc1\xd5?'
+p429
+tp430
+Rp431
+tp432
+a(S'university of wisconsin\xe2\x80\x93whitewater'
+p433
+g2
+(g6
+S'\x92S\xb0\x0c\xe4\xb7\xd5?'
+p434
+tp435
+Rp436
+tp437
+a(S'husky stadium'
+p438
+g2
+(g6
+S'\x96H\xb5\xf9\x99\xab\xd5?'
+p439
+tp440
+Rp441
+tp442
+a(S'great lakes lacrosse league'
+p443
+g2
+(g6
+S'\xd6\xbf\xd5y\xe4\x8e\xd5?'
+p444
+tp445
+Rp446
+tp447
+a(S'university of michigan'
+p448
+g2
+(g6
+S'\x05\xa0 \xafR\x8c\xd5?'
+p449
+tp450
+Rp451
+tp452
+a(S"washington's 43rd legislative district"
+p453
+g2
+(g6
+S'\x16\x93\x87u6\x84\xd5?'
+p454
+tp455
+Rp456
+tp457
+a(S'washington and lee university'
+p458
+g2
+(g6
+S'\xae\xc4/\xc5\x84}\xd5?'
+p459
+tp460
+Rp461
+tp462
+a(S'the long journey home'
+p463
+g2
+(g6
+S'\x1c\x80\x92(\x95f\xd5?'
+p464
+tp465
+Rp466
+tp467
+a(S'chuck nelson'
+p468
+g2
+(g6
+S'\xaeA\x91j\x87Z\xd5?'
+p469
+tp470
+Rp471
+tp472
+a(S'campus of the university of massachusetts amherst'
+p473
+g2
+(g6
+S'\xb4\x1e\xf7\xf1\xe3X\xd5?'
+p474
+tp475
+Rp476
+tp477
+a(S'university of wisconsin\xe2\x80\x93stout'
+p478
+g2
+(g6
+S'=7\x7f\xb8^R\xd5?'
+p479
+tp480
+Rp481
+tp482
+a(S'nelson mandela metropolitan university'
+p483
+g2
+(g6
+S'\xff\xa9\xd0!8H\xd5?'
+p484
+tp485
+Rp486
+tp487
+a(S'kunjen language'
+p488
+g2
+(g6
+S'\xbc5\x80\xbf\x1b;\xd5?'
+p489
+tp490
+Rp491
+tp492
+a(S'washington high school'
+p493
+g2
+(g6
+S'k)5\xfd2:\xd5?'
+p494
+tp495
+Rp496
+tp497
+a(S'apple cup'
+p498
+g2
+(g6
+S'g6\x83L\xd78\xd5?'
+p499
+tp500
+Rp501
+tp502
+a(S'university of puget sound'
+p503
+g2
+(g6
+S'\xc1W\xa2G\xfe \xd5?'
+p504
+tp505
+Rp506
+tp507
+a(S'university of wisconsin\xe2\x80\x93stevens point'
+p508
+g2
+(g6
+S'h\x1cX\xfd7\x0b\xd5?'
+p509
+tp510
+Rp511
+tp512
+a(S'university of wisconsin hospital and clinics'
+p513
+g2
+(g6
+S' GP9\xd6\t\xd5?'
+p514
+tp515
+Rp516
+tp517
+a(S'university district, seattle'
+p518
+g2
+(g6
+S'\xdd~F\x1cs\xfe\xd4?'
+p519
+tp520
+Rp521
+tp522
+a(S'university of wisconsin\xe2\x80\x93marshfield/wood county'
+p523
+g2
+(g6
+S'}\xf9\xca\x147\xf9\xd4?'
+p524
+tp525
+Rp526
+tp527
+a(S'washington (name)'
+p528
+g2
+(g6
+S'\xaaB\x11]C\xec\xd4?'
+p529
+tp530
+Rp531
+tp532
+a(S'pacific lutheran university'
+p533
+g2
+(g6
+S'\t\x88\x16v\x88\xd6\xd4?'
+p534
+tp535
+Rp536
+tp537
+a(S'harold washington'
+p538
+g2
+(g6
+S'Q\xb7\x85T\x17\xd2\xd4?'
+p539
+tp540
+Rp541
+tp542
+a(S'university of south carolina'
+p543
+g2
+(g6
+S'sf&\x94\x8f\xd1\xd4?'
+p544
+tp545
+Rp546
+tp547
+a(S'the washington campus'
+p548
+g2
+(g6
+S'\x05}a\x1b\xf3\xcd\xd4?'
+p549
+tp550
+Rp551
+tp552
+a(S'florida gulf coast university'
+p553
+g2
+(g6
+S'\x12iFRN\xab\xd4?'
+p554
+tp555
+Rp556
+tp557
+a(S'benson hall'
+p558
+g2
+(g6
+S't\x86\xefK\xda\xa3\xd4?'
+p559
+tp560
+Rp561
+tp562
+a(S'george washington'
+p563
+g2
+(g6
+S'v\x98\x07\xc6\x18y\xd4?'
+p564
+tp565
+Rp566
+tp567
+a(S'washington state'
+p568
+g2
+(g6
+S'\xe6\x15\x14\xec\xf3u\xd4?'
+p569
+tp570
+Rp571
+tp572
+a(S'george washington university'
+p573
+g2
+(g6
+S'\xa1\xe0\x1aoUs\xd4?'
+p574
+tp575
+Rp576
+tp577
+a(S'university of campinas'
+p578
+g2
+(g6
+S'T<H\xe1\x83_\xd4?'
+p579
+tp580
+Rp581
+tp582
+a(S'university of york'
+p583
+g2
+(g6
+S'\xb1r`\x84\xb6X\xd4?'
+p584
+tp585
+Rp586
+tp587
+a(S'brett newlin'
+p588
+g2
+(g6
+S'Eb\xc9@}J\xd4?'
+p589
+tp590
+Rp591
+tp592
+a(S'the washington center'
+p593
+g2
+(g6
+S'\x8d"7\xbd\xa0B\xd4?'
+p594
+tp595
+Rp596
+tp597
+a(S'campus life at washington university in st. louis'
+p598
+g2
+(g6
+S'\xd1\x03N@\x80A\xd4?'
+p599
+tp600
+Rp601
+tp602
+a(S'university of wisconsin\xe2\x80\x93baraboo/sauk county'
+p603
+g2
+(g6
+S'\x89\xea\nM\x03A\xd4?'
+p604
+tp605
+Rp606
+tp607
+a(S'legacy of george washington'
+p608
+g2
+(g6
+S'u\xd4\x043\x88<\xd4?'
+p609
+tp610
+Rp611
+tp612
+a(S'the college of new jersey'
+p613
+g2
+(g6
+S'V\xad\xbd\x88\xae \xd4?'
+p614
+tp615
+Rp616
+tp617
+a(S'student governments in the united states'
+p618
+g2
+(g6
+S'N\x12_-\x97\x1a\xd4?'
+p619
+tp620
+Rp621
+tp622
+a(S"saint joseph's university"
+p623
+g2
+(g6
+S'LJ\\\x11\xfa\x0e\xd4?'
+p624
+tp625
+Rp626
+tp627
+a(S'campus of minnesota state university'
+p628
+g2
+(g6
+S'\x16\xf0\x93\xf0\x03\xfd\xd3?'
+p629
+tp630
+Rp631
+tp632
+a(S'campus of texas a&m university'
+p633
+g2
+(g6
+S"'\xd5\xa1b5\xf9\xd3?"
+p634
+tp635
+Rp636
+tp637
+a(S'university of wisconsin\xe2\x80\x93platteville'
+p638
+g2
+(g6
+S'gt\x80[\x05\xeb\xd3?'
+p639
+tp640
+Rp641
+tp642
+a(S'university of cape town'
+p643
+g2
+(g6
+S'1,\xcd\x01P\xe9\xd3?'
+p644
+tp645
+Rp646
+tp647
+a(S'college tour'
+p648
+g2
+(g6
+S'\xf2\x9c\xa4Fl\xe0\xd3?'
+p649
+tp650
+Rp651
+tp652
+a(S'st. lawrence university'
+p653
+g2
+(g6
+S'\xa0:\no\xec\xdb\xd3?'
+p654
+tp655
+Rp656
+tp657
+a(S'university of wisconsin\xe2\x80\x93marathon county'
+p658
+g2
+(g6
+S'\x88\x1c4\x83\x9b\xce\xd3?'
+p659
+tp660
+Rp661
+tp662
+a(S"ncaa women's division iii cross country championship"
+p663
+g2
+(g6
+S'y\xee\xd1\x82\x98\xc4\xd3?'
+p664
+tp665
+Rp666
+tp667
+a(S'graduate and professional student senate'
+p668
+g2
+(g6
+S'+H\xceIS\xc4\xd3?'
+p669
+tp670
+Rp671
+tp672
+a(S'rockhurst university'
+p673
+g2
+(g6
+S'p\xe3\x98h\xd1\xc1\xd3?'
+p674
+tp675
+Rp676
+tp677
+a(S'associated students of the university of washington'
+p678
+g2
+(g6
+S'\x1ek\x16\xcd`\xc1\xd3?'
+p679
+tp680
+Rp681
+tp682
+a(S'aldo santaga stadium'
+p683
+g2
+(g6
+S'7\x95G\xc9\x85\xbf\xd3?'
+p684
+tp685
+Rp686
+tp687
+a(S'uw credit union'
+p688
+g2
+(g6
+S'b\x82\xd9\xa4\xe7\xbb\xd3?'
+p689
+tp690
+Rp691
+tp692
+a(S'university of ottawa'
+p693
+g2
+(g6
+S'\x8e\x9a\xf8\xa5\x84\xb4\xd3?'
+p694
+tp695
+Rp696
+tp697
+a(S'university of rochester'
+p698
+g2
+(g6
+S'\x1cN\r\xdeD\xaa\xd3?'
+p699
+tp700
+Rp701
+tp702
+a(S'mount washington college'
+p703
+g2
+(g6
+S"d\x92\x07'\xd9\x98\xd3?"
+p704
+tp705
+Rp706
+tp707
+a(S'university of cincinnati'
+p708
+g2
+(g6
+S'\xde\x91>\xc8\xf8\x93\xd3?'
+p709
+tp710
+Rp711
+tp712
+a(S'weinert center'
+p713
+g2
+(g6
+S'\x18\x03\xb0a\xcer\xd3?'
+p714
+tp715
+Rp716
+tp717
+a(S'hendrix the husky'
+p718
+g2
+(g6
+S'\xda%\x8c&\xean\xd3?'
+p719
+tp720
+Rp721
+tp722
+a(S'new college of florida'
+p723
+g2
+(g6
+S'v\x9e-IWm\xd3?'
+p724
+tp725
+Rp726
+tp727
+a(S'tenley campus'
+p728
+g2
+(g6
+S'Ih%c}i\xd3?'
+p729
+tp730
+Rp731
+tp732
+a(S'christine babcock'
+p733
+g2
+(g6
+S'\xc1u\xa0\xa7\xd9c\xd3?'
+p734
+tp735
+Rp736
+tp737
+a(S'ben taskar'
+p738
+g2
+(g6
+S'\x85C\xf5M\x99a\xd3?'
+p739
+tp740
+Rp741
+tp742
+a(S'north carolina state university'
+p743
+g2
+(g6
+S'\xcd\x13,4`a\xd3?'
+p744
+tp745
+Rp746
+tp747
+a(S'college of saint rose'
+p748
+g2
+(g6
+S'\x00q\xe0\x14\xbd_\xd3?'
+p749
+tp750
+Rp751
+tp752
+a(S'fort lewis college'
+p753
+g2
+(g6
+S'h\x81\xedS/\\\xd3?'
+p754
+tp755
+Rp756
+tp757
+a(S'california state university, fullerton'
+p758
+g2
+(g6
+S'tQb\x06\xee[\xd3?'
+p759
+tp760
+Rp761
+tp762
+a(S'university of north florida'
+p763
+g2
+(g6
+S'\xb6\xf0:{b[\xd3?'
+p764
+tp765
+Rp766
+tp767
+a(S'university of waterloo'
+p768
+g2
+(g6
+S'\xd1u\x8fj\x88W\xd3?'
+p769
+tp770
+Rp771
+tp772
+a(S'w. l. zorn arena'
+p773
+g2
+(g6
+S'Ewi\x94\xf5F\xd3?'
+p774
+tp775
+Rp776
+tp777
+a(S'eugenia washington'
+p778
+g2
+(g6
+S'\xe9\xbc\xde\xaaRB\xd3?'
+p779
+tp780
+Rp781
+tp782
+a(S'washington, d.c.'
+p783
+g2
+(g6
+S'\x8f\x15\xd5\xd3\x05B\xd3?'
+p784
+tp785
+Rp786
+tp787
+a(S'university of wisconsin colleges'
+p788
+g2
+(g6
+S'wRF\xfa\xb5A\xd3?'
+p789
+tp790
+Rp791
+tp792
+a(S'university of washington school of social work'
+p793
+g2
+(g6
+S'\x9a\xec(\xe3\xcf8\xd3?'
+p794
+tp795
+Rp796
+tp797
+a(S'student affairs'
+p798
+g2
+(g6
+S'\xa3\xa4\x7f\xb0\xaa1\xd3?'
+p799
+tp800
+Rp801
+tp802
+a(S"2008 horizon league men's basketball tournament"
+p803
+g2
+(g6
+S'\x0b?\xec\xf0\xc7#\xd3?'
+p804
+tp805
+Rp806
+tp807
+a(S'california state university, long beach'
+p808
+g2
+(g6
+S'\x94\xe5\x91\x98\xc1"\xd3?'
+p809
+tp810
+Rp811
+tp812
+a(S'university of west alabama'
+p813
+g2
+(g6
+S'\xab\xcfA`j"\xd3?'
+p814
+tp815
+Rp816
+tp817
+a(S'campus'
+p818
+g2
+(g6
+S'\xa9\x87{X8\x17\xd3?'
+p819
+tp820
+Rp821
+tp822
+a(S'washington, pennsylvania'
+p823
+g2
+(g6
+S'~A\x84\xadV\x13\xd3?'
+p824
+tp825
+Rp826
+tp827
+a(S'university of maryland, college park'
+p828
+g2
+(g6
+S'\x17h$\xbb\x17\x0e\xd3?'
+p829
+tp830
+Rp831
+tp832
+a(S'washington huskies softball'
+p833
+g2
+(g6
+S'\xb9\x97\xa6\x00\xc1\xfb\xd2?'
+p834
+tp835
+Rp836
+tp837
+a(S'san francisco state university'
+p838
+g2
+(g6
+S',\xda\xae\xf1B\xfa\xd2?'
+p839
+tp840
+Rp841
+tp842
+a(S'franklin high school (seattle)'
+p843
+g2
+(g6
+S'\xfe\x80\xd6$\xd7\xf9\xd2?'
+p844
+tp845
+Rp846
+tp847
+a(S'university of alabama'
+p848
+g2
+(g6
+S"\x03'\x08\x0f\xd0\xf4\xd2?"
+p849
+tp850
+Rp851
+tp852
+a(S"students' union"
+p853
+g2
+(g6
+S'\x8d\x8bj\xdb\xb0\xef\xd2?'
+p854
+tp855
+Rp856
+tp857
+a(S'outline of washington, d.c.'
+p858
+g2
+(g6
+S'\xf8\xb2\xc0\xaa\xb6\xec\xd2?'
+p859
+tp860
+Rp861
+tp862
+a(S'list of monuments dedicated to george washington'
+p863
+g2
+(g6
+S'\xbd\xf9x\xc81\xe7\xd2?'
+p864
+tp865
+Rp866
+tp867
+a(S'history of the university of wisconsin\xe2\x80\x93milwaukee'
+p868
+g2
+(g6
+S'o\xc7\xc0\xb2\xba\xe5\xd2?'
+p869
+tp870
+Rp871
+tp872
+a(S'university of wisconsin\xe2\x80\x93sheboygan'
+p873
+g2
+(g6
+S'`\x9bn8\x97\xe2\xd2?'
+p874
+tp875
+Rp876
+tp877
+a(S'campuses of the university of the witwatersrand'
+p878
+g2
+(g6
+S'\xb7\xc6\x91T\x95\xdb\xd2?'
+p879
+tp880
+Rp881
+tp882
+a(S"saint michael's college"
+p883
+g2
+(g6
+S'\x95\xecK\x86\x9f\xbd\xd2?'
+p884
+tp885
+Rp886
+tp887
+a(S'university of north carolina at greensboro'
+p888
+g2
+(g6
+S'\xbc\xa8\xcf\xf8A\xb5\xd2?'
+p889
+tp890
+Rp891
+tp892
+a(S'university of washington medical center'
+p893
+g2
+(g6
+S"1'e\x01\xc9\xb4\xd2?"
+p894
+tp895
+Rp896
+tp897
+a(S'conibear shellhouse'
+p898
+g2
+(g6
+S'h\xe3\x0e\x97\x7f\xb3\xd2?'
+p899
+tp900
+Rp901
+tp902
+a(S'prithivi narayan campus'
+p903
+g2
+(g6
+S'\xe2T\x84N\xe3\xab\xd2?'
+p904
+tp905
+Rp906
+tp907
+a(S'washington high school (sioux falls, south dakota)'
+p908
+g2
+(g6
+S'\xc5\xf0\xe1\xbe/\xaa\xd2?'
+p909
+tp910
+Rp911
+tp912
+a(S'western michigan university'
+p913
+g2
+(g6
+S'e\x96G\xbe>\xa9\xd2?'
+p914
+tp915
+Rp916
+tp917
+a(S'john washington (disambiguation)'
+p918
+g2
+(g6
+S'MG\xfd\xb6$\xa9\xd2?'
+p919
+tp920
+Rp921
+tp922
+a(S'western connecticut state university'
+p923
+g2
+(g6
+S'\xc1\xa6\xfb\t\xef\xa2\xd2?'
+p924
+tp925
+Rp926
+tp927
+a(S'student activism'
+p928
+g2
+(g6
+S'\x0b\x80-\x05+\xa0\xd2?'
+p929
+tp930
+Rp931
+tp932
+a(S'university of missouri\xe2\x80\x93st. louis'
+p933
+g2
+(g6
+S'\xee\x82\xc3\xb5\xd4\x9f\xd2?'
+p934
+tp935
+Rp936
+tp937
+a(S'saint louis university'
+p938
+g2
+(g6
+S'$10\xcd1\x9e\xd2?'
+p939
+tp940
+Rp941
+tp942
+a(S'texas a&m university\xe2\x80\x93commerce'
+p943
+g2
+(g6
+S'\x1d\xbd)Yz\x97\xd2?'
+p944
+tp945
+Rp946
+tp947
+a(S"university of victoria students' society"
+p948
+g2
+(g6
+S'a\xe2\x98\x12f\x97\xd2?'
+p949
+tp950
+Rp951
+tp952
+a(S'monterrey institute of technology and higher education, mexico city'
+p953
+g2
+(g6
+S'\x85\x8e/94\x96\xd2?'
+p954
+tp955
+Rp956
+tp957
+a(S'morgridge institute for research'
+p958
+g2
+(g6
+S'D\xe5\xcd\xb7)\x8a\xd2?'
+p959
+tp960
+Rp961
+tp962
+a(S'dodge city community college'
+p963
+g2
+(g6
+S'\x12\xf5\xff\xe1\xef\x80\xd2?'
+p964
+tp965
+Rp966
+tp967
+a(S'associated students of washington state university'
+p968
+g2
+(g6
+S'\xda\xd8c\xb3\xdd~\xd2?'
+p969
+tp970
+Rp971
+tp972
+a(S'washington state board of education'
+p973
+g2
+(g6
+S'\xcf0\xaa:\x81y\xd2?'
+p974
+tp975
+Rp976
+tp977
+a(S'seattle university'
+p978
+g2
+(g6
+S'bi\xa2z`s\xd2?'
+p979
+tp980
+Rp981
+tp982
+a(S'university of wisconsin\xe2\x80\x93milwaukee academics'
+p983
+g2
+(g6
+S'2\x1e\x9b?Ym\xd2?'
+p984
+tp985
+Rp986
+tp987
+a(S'florida atlantic university'
+p988
+g2
+(g6
+S'\x08\x0c\xbb\xa9Om\xd2?'
+p989
+tp990
+Rp991
+tp992
+a(S'central piedmont community college'
+p993
+g2
+(g6
+S'\x9c\x8a\x8e\xe8uj\xd2?'
+p994
+tp995
+Rp996
+tp997
+a(S'education in seattle'
+p998
+g2
+(g6
+S'\xb9\xba\xd1\x08/j\xd2?'
+p999
+tp1000
+Rp1001
+tp1002
+a(S'central washington university'
+p1003
+g2
+(g6
+S'v\x0cn\xa2\x15f\xd2?'
+p1004
+tp1005
+Rp1006
+tp1007
+a(S'the daily of the university of washington'
+p1008
+g2
+(g6
+S'\x90j2,8b\xd2?'
+p1009
+tp1010
+Rp1011
+tp1012
+a(S'bow down to washington'
+p1013
+g2
+(g6
+S'\xd6\xd5\x14\xde#\\\xd2?'
+p1014
+tp1015
+Rp1016
+tp1017
+a(S'washington middle school'
+p1018
+g2
+(g6
+S'}H\xbf\x13\xb5Y\xd2?'
+p1019
+tp1020
+Rp1021
+tp1022
+a(S'university of wisconsin\xe2\x80\x93madison college of letters and science'
+p1023
+g2
+(g6
+S'~\xd3\xcd\xdb\xbcW\xd2?'
+p1024
+tp1025
+Rp1026
+tp1027
+a(S'duke university'
+p1028
+g2
+(g6
+S'\xd2\x9b4y\xdbP\xd2?'
+p1029
+tp1030
+Rp1031
+tp1032
+a(S'william b. langsdorf'
+p1033
+g2
+(g6
+S'qE\xe0\xff\x98P\xd2?'
+p1034
+tp1035
+Rp1036
+tp1037
+a(S'student activities and traditions at uc irvine'
+p1038
+g2
+(g6
+S'\xa30\xf0\x06\tL\xd2?'
+p1039
+tp1040
+Rp1041
+tp1042
+a(S'university of utah'
+p1043
+g2
+(g6
+S'\xcf\xbd\xe7\x9agJ\xd2?'
+p1044
+tp1045
+Rp1046
+tp1047
+a(S'york university'
+p1048
+g2
+(g6
+S'\x8a4\xbb\xd8\x80=\xd2?'
+p1049
+tp1050
+Rp1051
+tp1052
+a(S'elson s. floyd college of medicine'
+p1053
+g2
+(g6
+S'\xf8\xe4\xe5\t\xf7<\xd2?'
+p1054
+tp1055
+Rp1056
+tp1057
+a(S'college of the university of chicago'
+p1058
+g2
+(g6
+S'\xa9w`\xce\xb0:\xd2?'
+p1059
+tp1060
+Rp1061
+tp1062
+a(S'wayne state university student center'
+p1063
+g2
+(g6
+S'\x9f\xcd\x8d\x8c\x9e:\xd2?'
+p1064
+tp1065
+Rp1066
+tp1067
+a(S'wisconsin alumni research foundation'
+p1068
+g2
+(g6
+S'\x95\x83t\x91+6\xd2?'
+p1069
+tp1070
+Rp1071
+tp1072
+a(S'university of dayton'
+p1073
+g2
+(g6
+S'\xcc\x9c\x1c\xa3\xcb3\xd2?'
+p1074
+tp1075
+Rp1076
+tp1077
+a(S'student unionism in australia'
+p1078
+g2
+(g6
+S'd\xeb\x7f\x98\xa72\xd2?'
+p1079
+tp1080
+Rp1081
+tp1082
+a(S'history of the new york institute of technology'
+p1083
+g2
+(g6
+S'\x07\x9e\xcaG(1\xd2?'
+p1084
+tp1085
+Rp1086
+tp1087
+a(S'union county college'
+p1088
+g2
+(g6
+S'\xe9+\xb5\x86\xc90\xd2?'
+p1089
+tp1090
+Rp1091
+tp1092
+a(S'ohio university'
+p1093
+g2
+(g6
+S'^^\x8a\xc5\xc60\xd2?'
+p1094
+tp1095
+Rp1096
+tp1097
+a(S'mt. san jacinto college'
+p1098
+g2
+(g6
+S"\x86'\x85Nq.\xd2?"
+p1099
+tp1100
+Rp1101
+tp1102
+a(S'kermit washington'
+p1103
+g2
+(g6
+S'c\xf6p\x9c\xeb,\xd2?'
+p1104
+tp1105
+Rp1106
+tp1107
+a(S'walter washington'
+p1108
+g2
+(g6
+S'\xa6\xcb\x15\x97**\xd2?'
+p1109
+tp1110
+Rp1111
+tp1112
+a(S'university of oklahoma'
+p1113
+g2
+(g6
+S'\xce\xaagIm(\xd2?'
+p1114
+tp1115
+Rp1116
+tp1117
+a(S'history of washington & jefferson college'
+p1118
+g2
+(g6
+S'\xf1\xcf?\x17l#\xd2?'
+p1119
+tp1120
+Rp1121
+tp1122
+a(S'university of toronto scarborough'
+p1123
+g2
+(g6
+S'V\x7fDP\x12\x1e\xd2?'
+p1124
+tp1125
+Rp1126
+tp1127
+a(S'boston university'
+p1128
+g2
+(g6
+S'\xf9\xc5\x8c\x90C\x19\xd2?'
+p1129
+tp1130
+Rp1131
+tp1132
+a(S'harry the husky'
+p1133
+g2
+(g6
+S'](\xde\xfa\xb3\x16\xd2?'
+p1134
+tp1135
+Rp1136
+tp1137
+a(S'lawrence berry washington'
+p1138
+g2
+(g6
+S'\x86A\xf5\xc3\x86\x13\xd2?'
+p1139
+tp1140
+Rp1141
+tp1142
+a(S'youngstown state university'
+p1143
+g2
+(g6
+S'5xdv\x14\x13\xd2?'
+p1144
+tp1145
+Rp1146
+tp1147
+a(S'salem state university'
+p1148
+g2
+(g6
+S'\x8fTD8\x9f\x11\xd2?'
+p1149
+tp1150
+Rp1151
+tp1152
+a(S'eugene allen wright'
+p1153
+g2
+(g6
+S'\xcc\xb9i\xaf\xf9\r\xd2?'
+p1154
+tp1155
+Rp1156
+tp1157
+a(S'campus university'
+p1158
+g2
+(g6
+S'\xe1n*T.\r\xd2?'
+p1159
+tp1160
+Rp1161
+tp1162
+a(S'charles odegaard'
+p1163
+g2
+(g6
+S'\xc9K.\xbfj\x08\xd2?'
+p1164
+tp1165
+Rp1166
+tp1167
+a(S'new jersey institute of technology'
+p1168
+g2
+(g6
+S'\x8e\xea\x1e\x9f\x1a\x08\xd2?'
+p1169
+tp1170
+Rp1171
+tp1172
+a(S'1990 washington huskies football team'
+p1173
+g2
+(g6
+S'S\xc7\x17\x16G\x05\xd2?'
+p1174
+tp1175
+Rp1176
+tp1177
+a(S'davenport university'
+p1178
+g2
+(g6
+S'\x80\xfd\x8e\x82\x97\x04\xd2?'
+p1179
+tp1180
+Rp1181
+tp1182
+a(S'california state university channel islands'
+p1183
+g2
+(g6
+S'\x83\x13a\xe2*\x03\xd2?'
+p1184
+tp1185
+Rp1186
+tp1187
+a(S'yeungnam university'
+p1188
+g2
+(g6
+S'\xad\xc1\n\x1a\xe2\xff\xd1?'
+p1189
+tp1190
+Rp1191
+tp1192
+a(S'university of louisville'
+p1193
+g2
+(g6
+S'\xd3\xfa"\x9b\xc3\xfb\xd1?'
+p1194
+tp1195
+Rp1196
+tp1197
+a(S'davidson county community college'
+p1198
+g2
+(g6
+S'\xcb[\x96\r>\xfb\xd1?'
+p1199
+tp1200
+Rp1201
+tp1202
+a(S'list of washington & jefferson college buildings'
+p1203
+g2
+(g6
+S'C\xd2\xec\xfb\xca\xf6\xd1?'
+p1204
+tp1205
+Rp1206
+tp1207
+a(S'california state university, monterey bay'
+p1208
+g2
+(g6
+S'#5\xd4\xf5\x82\xf3\xd1?'
+p1209
+tp1210
+Rp1211
+tp1212
+a(S'american university in bulgaria'
+p1213
+g2
+(g6
+S'\xb9V\x80W\xf2\xf2\xd1?'
+p1214
+tp1215
+Rp1216
+tp1217
+a(S'texas a&m university'
+p1218
+g2
+(g6
+S'\xf6}\x15\xe8\x94\xef\xd1?'
+p1219
+tp1220
+Rp1221
+tp1222
+a(S'arizona state university west campus'
+p1223
+g2
+(g6
+S'um\xcbvk\xee\xd1?'
+p1224
+tp1225
+Rp1226
+tp1227
+a(S'law of washington'
+p1228
+g2
+(g6
+S'\xcdw\x86\xf7\x13\xea\xd1?'
+p1229
+tp1230
+Rp1231
+tp1232
+a(S'james madison university'
+p1233
+g2
+(g6
+S'T\xebR\x0b\xb4\xe9\xd1?'
+p1234
+tp1235
+Rp1236
+tp1237
+a(S'university college utrecht'
+p1238
+g2
+(g6
+S'\xff`+\xfd=\xe4\xd1?'
+p1239
+tp1240
+Rp1241
+tp1242
+a(S'university of victoria'
+p1243
+g2
+(g6
+S'\x05v~\x10 \xe4\xd1?'
+p1244
+tp1245
+Rp1246
+tp1247
+a(S'main campus of north carolina state university'
+p1248
+g2
+(g6
+S'\xe3\xfd\x0f\xfd\x00\xe3\xd1?'
+p1249
+tp1250
+Rp1251
+tp1252
+a(S'dtu campus village'
+p1253
+g2
+(g6
+S'\x94R\x1b\x06g\xdf\xd1?'
+p1254
+tp1255
+Rp1256
+tp1257
+a(S'kirk pearson (politician)'
+p1258
+g2
+(g6
+S'Pp\xb6\x04\xd7\xde\xd1?'
+p1259
+tp1260
+Rp1261
+tp1262
+a(S'university of wisconsin\xe2\x80\x93oshkosh'
+p1263
+g2
+(g6
+S',\xbf\xa1Pe\xda\xd1?'
+p1264
+tp1265
+Rp1266
+tp1267
+a(S'campus (disambiguation)'
+p1268
+g2
+(g6
+S'\xa8\x95\xa2\x96:\xd8\xd1?'
+p1269
+tp1270
+Rp1271
+tp1272
+a(S'northwest hospital & medical center'
+p1273
+g2
+(g6
+S'9\x1d\x82\xf7\xae\xd6\xd1?'
+p1274
+tp1275
+Rp1276
+tp1277
+a(S'university of idaho'
+p1278
+g2
+(g6
+S'\xe0\xac~0,\xd5\xd1?'
+p1279
+tp1280
+Rp1281
+tp1282
+a(S'camosun college'
+p1283
+g2
+(g6
+S'<j}]\xe2\xd4\xd1?'
+p1284
+tp1285
+Rp1286
+tp1287
+a(S'northern virginia community college'
+p1288
+g2
+(g6
+S'\x8fW\xaa\x8c<\xd4\xd1?'
+p1289
+tp1290
+Rp1291
+tp1292
+a(S'1889 washington football team'
+p1293
+g2
+(g6
+S'0y\xc1\xe4\xf7\xd1\xd1?'
+p1294
+tp1295
+Rp1296
+tp1297
+a(S'british columbia institute of technology'
+p1298
+g2
+(g6
+S'\xd2(\xcf\x13)\xd1\xd1?'
+p1299
+tp1300
+Rp1301
+tp1302
+a(S'university of north dakota'
+p1303
+g2
+(g6
+S"=\xf9\xec'\x8f\xcb\xd1?"
+p1304
+tp1305
+Rp1306
+tp1307
+a(S'military career of george washington'
+p1308
+g2
+(g6
+S'F>\xc4\x83\x92\xc7\xd1?'
+p1309
+tp1310
+Rp1311
+tp1312
+a(S'university of nottingham malaysia campus'
+p1313
+g2
+(g6
+S'\x05\xbdD\x8e\xf2\xc4\xd1?'
+p1314
+tp1315
+Rp1316
+tp1317
+a(S'john thornton augustine washington'
+p1318
+g2
+(g6
+S'\xb7\xf0euX\xc4\xd1?'
+p1319
+tp1320
+Rp1321
+tp1322
+a(S'john w. maloney'
+p1323
+g2
+(g6
+S'\xecF\xac\xb0&\xc2\xd1?'
+p1324
+tp1325
+Rp1326
+tp1327
+a(S'1890 washington football team'
+p1328
+g2
+(g6
+S'm\x89\xc1\x7f\xb6\xc1\xd1?'
+p1329
+tp1330
+Rp1331
+tp1332
+a(S'california state university, sacramento'
+p1333
+g2
+(g6
+S'}u\xfd\xac\xe4\xbf\xd1?'
+p1334
+tp1335
+Rp1336
+tp1337
+a(S'delaware state university'
+p1338
+g2
+(g6
+S'\xcf\x1c\xab\xe1\x8c\xbc\xd1?'
+p1339
+tp1340
+Rp1341
+tp1342
+a(S'northern michigan university'
+p1343
+g2
+(g6
+S'<tkC\x8d\xba\xd1?'
+p1344
+tp1345
+Rp1346
+tp1347
+a(S'2006\xe2\x80\x9307 washington capitals season'
+p1348
+g2
+(g6
+S'\x8c\xa6\x8c#5\xba\xd1?'
+p1349
+tp1350
+Rp1351
+tp1352
+a(S'washington, illinois'
+p1353
+g2
+(g6
+S'"#\x15\xf0\x1e\xb9\xd1?'
+p1354
+tp1355
+Rp1356
+tp1357
+a(S'union college (kentucky)'
+p1358
+g2
+(g6
+S'\xf0\xd8\r\xe4P\xb5\xd1?'
+p1359
+tp1360
+Rp1361
+tp1362
+a(S'san francisco university high school'
+p1363
+g2
+(g6
+S'\xa63\x96\xc4\x14\xae\xd1?'
+p1364
+tp1365
+Rp1366
+tp1367
+a(S'university student retention'
+p1368
+g2
+(g6
+S'\x0b\x12\x11\xa2W\xad\xd1?'
+p1369
+tp1370
+Rp1371
+tp1372
+a(S'college of st. joseph'
+p1373
+g2
+(g6
+S'\x84;\xc8,&\xa5\xd1?'
+p1374
+tp1375
+Rp1376
+tp1377
+a(S'college of william & mary'
+p1378
+g2
+(g6
+S'\xdb\x98o\x18\x1f\xa5\xd1?'
+p1379
+tp1380
+Rp1381
+tp1382
+a(S'william d. washington'
+p1383
+g2
+(g6
+S'B\xed;\x91\x8a\xa4\xd1?'
+p1384
+tp1385
+Rp1386
+tp1387
+a(S'university center of north puget sound'
+p1388
+g2
+(g6
+S'\x83\xf8\xe9}A\xa0\xd1?'
+p1389
+tp1390
+Rp1391
+tp1392
+a(S"kristen o'neill"
+p1393
+g2
+(g6
+S"':\xf3j{\x9f\xd1?"
+p1394
+tp1395
+Rp1396
+tp1397
+a(S'the new school'
+p1398
+g2
+(g6
+S'B\xecR\x15m\x9e\xd1?'
+p1399
+tp1400
+Rp1401
+tp1402
+a(S'pacific university health professions campus'
+p1403
+g2
+(g6
+S'\xe8a\xfd\xfce\x9a\xd1?'
+p1404
+tp1405
+Rp1406
+tp1407
+a(S'women who rock: making scenes, building communities oral history archive'
+p1408
+g2
+(g6
+S'\x13\xff%|$\x93\xd1?'
+p1409
+tp1410
+Rp1411
+tp1412
+a(S'george washington (disambiguation)'
+p1413
+g2
+(g6
+S'J\x85#\x8e\xef\x92\xd1?'
+p1414
+tp1415
+Rp1416
+tp1417
+a(S'connecticut college'
+p1418
+g2
+(g6
+S'J \xab\xf1\x0c\x8f\xd1?'
+p1419
+tp1420
+Rp1421
+tp1422
+a(S'washington, tyne and wear'
+p1423
+g2
+(g6
+S'Do\x85\x0e\x16\x8d\xd1?'
+p1424
+tp1425
+Rp1426
+tp1427
+a(S'university of memphis'
+p1428
+g2
+(g6
+S'\x02\xaf\x80\xc0\xc5\x88\xd1?'
+p1429
+tp1430
+Rp1431
+tp1432
+a(S'ancestry of george washington'
+p1433
+g2
+(g6
+S'U-\x9f\xaf\xee\x86\xd1?'
+p1434
+tp1435
+Rp1436
+tp1437
+a(S'suffolk county community college'
+p1438
+g2
+(g6
+S'\xc5\x82\x91D\x85\x86\xd1?'
+p1439
+tp1440
+Rp1441
+tp1442
+a(S'university of wisconsin\xe2\x80\x93eau claire'
+p1443
+g2
+(g6
+S"K$ '~\x84\xd1?"
+p1444
+tp1445
+Rp1446
+tp1447
+a(S'university of alaska anchorage'
+p1448
+g2
+(g6
+S'\x89\x7f\xeaO\x13\x84\xd1?'
+p1449
+tp1450
+Rp1451
+tp1452
+a(S'long beach city college'
+p1453
+g2
+(g6
+S'=\xb5\xf1\x1b\x00\x7f\xd1?'
+p1454
+tp1455
+Rp1456
+tp1457
+a(S'wayne state university'
+p1458
+g2
+(g6
+S'\x1e\xeej"z~\xd1?'
+p1459
+tp1460
+Rp1461
+tp1462
+a(S'pakanha language'
+p1463
+g2
+(g6
+S'\xc44!\x98,~\xd1?'
+p1464
+tp1465
+Rp1466
+tp1467
+a(S'denny field (washington)'
+p1468
+g2
+(g6
+S'g\xdcw8\x83|\xd1?'
+p1469
+tp1470
+Rp1471
+tp1472
+a(S'university of north carolina at chapel hill'
+p1473
+g2
+(g6
+S'\n\x12\xe9\xae\xb1w\xd1?'
+p1474
+tp1475
+Rp1476
+tp1477
+a(S'washington state university college of pharmacy'
+p1478
+g2
+(g6
+S't\x8es\xd6Ls\xd1?'
+p1479
+tp1480
+Rp1481
+tp1482
+a(S'kingsway campus auckland park'
+p1483
+g2
+(g6
+S'y\xff\x8ce\xa4r\xd1?'
+p1484
+tp1485
+Rp1486
+tp1487
+a(S'list of mountain ranges in washington'
+p1488
+g2
+(g6
+S'\xb7\xdd\xdflYq\xd1?'
+p1489
+tp1490
+Rp1491
+tp1492
+a(S'badger bus'
+p1493
+g2
+(g6
+S'=\xc7\x8e\xaabp\xd1?'
+p1494
+tp1495
+Rp1496
+tp1497
+a(S'university of alabama in huntsville'
+p1498
+g2
+(g6
+S'\xd2N]\x88\x15m\xd1?'
+p1499
+tp1500
+Rp1501
+tp1502
+a(S'community college of allegheny county'
+p1503
+g2
+(g6
+S'K\x10=C\x9dj\xd1?'
+p1504
+tp1505
+Rp1506
+tp1507
+a(S'university of wyoming'
+p1508
+g2
+(g6
+S'\xf6\xbc\xfa\xa4uh\xd1?'
+p1509
+tp1510
+Rp1511
+tp1512
+a.

@@ -1,0 +1,2728 @@
+(lp0
+(S'covariance and contravariance of vectors'
+p1
+cnumpy.core.multiarray
+scalar
+p2
+(cnumpy
+dtype
+p3
+(S'f8'
+p4
+I0
+I1
+tp5
+Rp6
+(I3
+S'<'
+p7
+NNNI-1
+I-1
+I0
+tp8
+bS'\xfc\xff\xff\xff\xff\xff\xef?'
+p9
+tp10
+Rp11
+tp12
+a(S'covariant transformation'
+p13
+g2
+(g6
+S'\\\xb0\x7f\xaa\xa4\xcb\xe8?'
+p14
+tp15
+Rp16
+tp17
+a(S'euclidean vector'
+p18
+g2
+(g6
+S'q\xb7\xfd\x84\x81\xd2\xe5?'
+p19
+tp20
+Rp21
+tp22
+a(S'four-vector'
+p23
+g2
+(g6
+S'\x94\x1e\x15\xa5\xc3\xbf\xe5?'
+p24
+tp25
+Rp26
+tp27
+a(S'skew coordinates'
+p28
+g2
+(g6
+S'\x11\xfa\x0e\xc8#L\xe5?'
+p29
+tp30
+Rp31
+tp32
+a(S'covariant derivative'
+p33
+g2
+(g6
+S'\x9bT\x01\x183\xc1\xe4?'
+p34
+tp35
+Rp36
+tp37
+a(S'cartesian tensor'
+p38
+g2
+(g6
+S'\xdf\xf9&\x0b\xc5\xde\xe3?'
+p39
+tp40
+Rp41
+tp42
+a(S'two-vector'
+p43
+g2
+(g6
+S'E\t\xb6\xcdd\xa3\xe2?'
+p44
+tp45
+Rp46
+tp47
+a(S'orthogonal coordinates'
+p48
+g2
+(g6
+S'\x04A\xd5\xba\x1fk\xe2?'
+p49
+tp50
+Rp51
+tp52
+a(S'curvilinear coordinates'
+p53
+g2
+(g6
+S'\x9dP\xf3\xad\xbaK\xe2?'
+p54
+tp55
+Rp56
+tp57
+a(S'tensors in curvilinear coordinates'
+p58
+g2
+(g6
+S"\xb7\x82*\xf6_'\xe2?"
+p59
+tp60
+Rp61
+tp62
+a(S'coordinate vector'
+p63
+g2
+(g6
+S'\xa5\xd2!N\xea\x00\xe2?'
+p64
+tp65
+Rp66
+tp67
+a(S'antivector'
+p68
+g2
+(g6
+S'\xe3A#\x0ei\xc7\xe1?'
+p69
+tp70
+Rp71
+tp72
+a(S'einstein notation'
+p73
+g2
+(g6
+S'eB\x83\xc8~\xb5\xe1?'
+p74
+tp75
+Rp76
+tp77
+a(S'pseudovector'
+p78
+g2
+(g6
+S'8\xbf\xbb\xe4\xba\x8b\xe1?'
+p79
+tp80
+Rp81
+tp82
+a(S'vector (mathematics and physics)'
+p83
+g2
+(g6
+S'S\x99X\xd6\xe1z\xe1?'
+p84
+tp85
+Rp86
+tp87
+a(S'unit vector'
+p88
+g2
+(g6
+S'\x98D\xf6\xceQJ\xe1?'
+p89
+tp90
+Rp91
+tp92
+a(S'vector space'
+p93
+g2
+(g6
+S'\xb2\x0by\xb4=G\xe1?'
+p94
+tp95
+Rp96
+tp97
+a(S'position (vector)'
+p98
+g2
+(g6
+S'm\x9e\x1bI\xd1%\xe1?'
+p99
+tp100
+Rp101
+tp102
+a(S'basis (linear algebra)'
+p103
+g2
+(g6
+S'i\x9e\x99\xc6[\t\xe1?'
+p104
+tp105
+Rp106
+tp107
+a(S'change of basis'
+p108
+g2
+(g6
+S'\xea+SMb\xfe\xe0?'
+p109
+tp110
+Rp111
+tp112
+a(S'standard basis'
+p113
+g2
+(g6
+S'!\xc6pE7\xe3\xe0?'
+p114
+tp115
+Rp116
+tp117
+a(S'multivector'
+p118
+g2
+(g6
+S'+\xf56\xe2]\xde\xe0?'
+p119
+tp120
+Rp121
+tp122
+a(S'vector notation'
+p123
+g2
+(g6
+S'\xc7\x86_\xe5\x99\xbf\xe0?'
+p124
+tp125
+Rp126
+tp127
+a(S'vector field'
+p128
+g2
+(g6
+S'\xe6?&\xc3\x0b\xbc\xe0?'
+p129
+tp130
+Rp131
+tp132
+a(S'second covariant derivative'
+p133
+g2
+(g6
+S'\x8cJe\xd2\r\xa1\xe0?'
+p134
+tp135
+Rp136
+tp137
+a(S'metric tensor'
+p138
+g2
+(g6
+S'\xbaH^\xf3\xf6^\xe0?'
+p139
+tp140
+Rp141
+tp142
+a(S'introduction to the mathematics of general relativity'
+p143
+g2
+(g6
+S'\xfe\xf6V\x8b\xf1\x1b\xe0?'
+p144
+tp145
+Rp146
+tp147
+a(S'versor (physics)'
+p148
+g2
+(g6
+S'\xe5\x94Q\xde\xf2\xfb\xdf?'
+p149
+tp150
+Rp151
+tp152
+a(S'vector'
+p153
+g2
+(g6
+S'\x07\x1a1X\x87x\xdf?'
+p154
+tp155
+Rp156
+tp157
+a(S'acceleration (differential geometry)'
+p158
+g2
+(g6
+S'\x7f\xb8J>\xcf&\xdf?'
+p159
+tp160
+Rp161
+tp162
+a(S'general covariant transformations'
+p163
+g2
+(g6
+S'>\xad\xd5\xdbw\x90\xde?'
+p164
+tp165
+Rp166
+tp167
+a(S'vector algebra'
+p168
+g2
+(g6
+S'K3\x895\xb3s\xde?'
+p169
+tp170
+Rp171
+tp172
+a(S'multiplication of vectors'
+p173
+g2
+(g6
+S'\xfb\xaf\x86~xR\xde?'
+p174
+tp175
+Rp176
+tp177
+a(S'vector calculus'
+p178
+g2
+(g6
+S'\xe8\x8bB\xe7O9\xde?'
+p179
+tp180
+Rp181
+tp182
+a(S'comparison of vector algebra and geometric algebra'
+p183
+g2
+(g6
+S'\x992yc\xbc.\xde?'
+p184
+tp185
+Rp186
+tp187
+a(S'ricci calculus'
+p188
+g2
+(g6
+S'\x8eF\x9e\xeaN\x08\xde?'
+p189
+tp190
+Rp191
+tp192
+a(S'direct-quadrature-zero transformation'
+p193
+g2
+(g6
+S's\x1d\xfbx\x00\xfc\xdd?'
+p194
+tp195
+Rp196
+tp197
+a(S'state vector (geographical)'
+p198
+g2
+(g6
+S'\xe1W?\xebN\xed\xdd?'
+p199
+tp200
+Rp201
+tp202
+a(S'minkowski space'
+p203
+g2
+(g6
+S'\xcf\xaaMM;\xdf\xdd?'
+p204
+tp205
+Rp206
+tp207
+a(S'primordial element (algebra)'
+p208
+g2
+(g6
+S'7\x00zQU\x82\xdd?'
+p209
+tp210
+Rp211
+tp212
+a(S'row and column vectors'
+p213
+g2
+(g6
+S'2\x97\xb8\r\x89o\xdd?'
+p214
+tp215
+Rp216
+tp217
+a(S'direction cosine'
+p218
+g2
+(g6
+S'E\x90\x0eBtV\xdd?'
+p219
+tp220
+Rp221
+tp222
+a(S'probability vector'
+p223
+g2
+(g6
+S"\xc1W4'b\x1f\xdd?"
+p224
+tp225
+Rp226
+tp227
+a(S'four-gradient'
+p228
+g2
+(g6
+S'\x7fQ\x1aT)\r\xdd?'
+p229
+tp230
+Rp231
+tp232
+a(S'vector algebra relations'
+p233
+g2
+(g6
+S'\x022u\xeck\xc1\xdc?'
+p234
+tp235
+Rp236
+tp237
+a(S'examples of vector spaces'
+p238
+g2
+(g6
+S'm`\x17o\x12\xb1\xdc?'
+p239
+tp240
+Rp241
+tp242
+a(S'cross product'
+p243
+g2
+(g6
+S'\xd6\xf9"\xea\xb5\xb0\xdc?'
+p244
+tp245
+Rp246
+tp247
+a(S'universal geometric algebra'
+p248
+g2
+(g6
+S'\x07\xb6\xaf\xc9\x98\x00\xdc?'
+p249
+tp250
+Rp251
+tp252
+a(S'active and passive transformation'
+p253
+g2
+(g6
+S'\xc9\x1cF7\xce\xde\xdb?'
+p254
+tp255
+Rp256
+tp257
+a(S'state vector'
+p258
+g2
+(g6
+S'b\xac\xad\x8d~\xc2\xdb?'
+p259
+tp260
+Rp261
+tp262
+a(S'vector control'
+p263
+g2
+(g6
+S'he\xe3\xbf)F\xdb?'
+p264
+tp265
+Rp266
+tp267
+a(S'vector potential'
+p268
+g2
+(g6
+S"'\xe4\x12\x8c\x8f\x10\xdb?"
+p269
+tp270
+Rp271
+tp272
+a(S'vector laplacian'
+p273
+g2
+(g6
+S'7@\x1d\xa0\xd4\r\xdb?'
+p274
+tp275
+Rp276
+tp277
+a(S'vectors in three-dimensional space'
+p278
+g2
+(g6
+S'8\xebw9\xb2\xff\xda?'
+p279
+tp280
+Rp281
+tp282
+a(S'linear independence'
+p283
+g2
+(g6
+S'\xcfH(\x02\x7f\xe2\xda?'
+p284
+tp285
+Rp286
+tp287
+a(S'killing vector field'
+p288
+g2
+(g6
+S'z\x1b\x7f\x82\xab\xe0\xda?'
+p289
+tp290
+Rp291
+tp292
+a(S'vector-valued function'
+p293
+g2
+(g6
+S'\x04\x0cS\xb3\xdd\xbd\xda?'
+p294
+tp295
+Rp296
+tp297
+a(S'laplace\xe2\x80\x93runge\xe2\x80\x93lenz vector'
+p298
+g2
+(g6
+S'q\xb8l\x87\xb8\x90\xda?'
+p299
+tp300
+Rp301
+tp302
+a(S'riemannian connection on a surface'
+p303
+g2
+(g6
+S'\xf0\xdc}\x0b\xea\x84\xda?'
+p304
+tp305
+Rp306
+tp307
+a(S'linear algebra'
+p308
+g2
+(g6
+S'e\xe8\xde7(i\xda?'
+p309
+tp310
+Rp311
+tp312
+a(S'frame fields in general relativity'
+p313
+g2
+(g6
+S'y\x9c\xc4!\xf1\\\xda?'
+p314
+tp315
+Rp316
+tp317
+a(S'connection (mathematics)'
+p318
+g2
+(g6
+S'\x04F\xde\xbf\x82N\xda?'
+p319
+tp320
+Rp321
+tp322
+a(S'vectorial mechanics'
+p323
+g2
+(g6
+S'\x02\xaf\x98\xf1 M\xda?'
+p324
+tp325
+Rp326
+tp327
+a(S'two-point tensor'
+p328
+g2
+(g6
+S'\xcd6\x90\x16;C\xda?'
+p329
+tp330
+Rp331
+tp332
+a(S'vector decomposition'
+p333
+g2
+(g6
+S'\x92\xe7\x18J\x05 \xda?'
+p334
+tp335
+Rp336
+tp337
+a(S'curl (mathematics)'
+p338
+g2
+(g6
+S'\x8a\xe3\xa7\xf9\xa3\x0f\xda?'
+p339
+tp340
+Rp341
+tp342
+a(S'scalar-vector-tensor decomposition'
+p343
+g2
+(g6
+S'$\x1f\xd3\xbd\x88\xf2\xd9?'
+p344
+tp345
+Rp346
+tp347
+a(S'vector informatik'
+p348
+g2
+(g6
+S'\xde\x96\x029\xb7\xed\xd9?'
+p349
+tp350
+Rp351
+tp352
+a(S'real coordinate space'
+p353
+g2
+(g6
+S'\xc8\xfe\x15\xecn\xed\xd9?'
+p354
+tp355
+Rp356
+tp357
+a(S'exterior covariant derivative'
+p358
+g2
+(g6
+S'\xc5\xad/\x06t\xdd\xd9?'
+p359
+tp360
+Rp361
+tp362
+a(S'perifocal coordinate system'
+p363
+g2
+(g6
+S'\x9a\xa9\xd3\x0e\xe6\xc7\xd9?'
+p364
+tp365
+Rp366
+tp367
+a(S'super vector space'
+p368
+g2
+(g6
+S'\r\xd5d4\x0f\x94\xd9?'
+p369
+tp370
+Rp371
+tp372
+a(S'divergence'
+p373
+g2
+(g6
+S"(\xb4'P\\\x93\xd9?"
+p374
+tp375
+Rp376
+tp377
+a(S'del'
+p378
+g2
+(g6
+S'\x12h\x95\x10;\x8b\xd9?'
+p379
+tp380
+Rp381
+tp382
+a(S'h-vector'
+p383
+g2
+(g6
+S'\xa4l|\xe0\xb7\x87\xd9?'
+p384
+tp385
+Rp386
+tp387
+a(S'n-vector'
+p388
+g2
+(g6
+S'\x8e\xca\x80\xf4\xb5\x82\xd9?'
+p389
+tp390
+Rp391
+tp392
+a(S'retinal gene therapy using lentiviral vectors'
+p393
+g2
+(g6
+S')T$\x87\x9b\x82\xd9?'
+p394
+tp395
+Rp396
+tp397
+a(S'tensor'
+p398
+g2
+(g6
+S'[f~\xc8\x02y\xd9?'
+p399
+tp400
+Rp401
+tp402
+a(S'dual basis'
+p403
+g2
+(g6
+S'\x93\xf0`\xc7kv\xd9?'
+p404
+tp405
+Rp406
+tp407
+a(S'secondary vector bundle structure'
+p408
+g2
+(g6
+S'\xa4\x0bC\xcd!b\xd9?'
+p409
+tp410
+Rp411
+tp412
+a(S'two-form'
+p413
+g2
+(g6
+S'\xb28\xf8\x81\x847\xd9?'
+p414
+tp415
+Rp416
+tp417
+a(S'geometric algebra'
+p418
+g2
+(g6
+S'XG\x10\xa2\x126\xd9?'
+p419
+tp420
+Rp421
+tp422
+a(S'darboux vector'
+p423
+g2
+(g6
+S'\xde\xba\x00o\xbd2\xd9?'
+p424
+tp425
+Rp426
+tp427
+a(S'vector motors'
+p428
+g2
+(g6
+S'\x0e\x05\xa61\x17\x1d\xd9?'
+p429
+tp430
+Rp431
+tp432
+a(S'holonomic basis'
+p433
+g2
+(g6
+S'o\xf5\t\x12\x1e\x05\xd9?'
+p434
+tp435
+Rp436
+tp437
+a(S'projective vector field'
+p438
+g2
+(g6
+S'\xfe\xcf\xffV\xe0\xfd\xd8?'
+p439
+tp440
+Rp441
+tp442
+a(S'manifest covariance'
+p443
+g2
+(g6
+S'\xd1S\xe2\xdbl\xc8\xd8?'
+p444
+tp445
+Rp446
+tp447
+a(S'hodge dual'
+p448
+g2
+(g6
+S'\xa9\xe3\xe7\xe7\xf4\xc3\xd8?'
+p449
+tp450
+Rp451
+tp452
+a(S'spherical basis'
+p453
+g2
+(g6
+S'\xa1\x1c!\xe8\xbd\xaa\xd8?'
+p454
+tp455
+Rp456
+tp457
+a(S'pseudotensor'
+p458
+g2
+(g6
+S'"\xc6\xc6\xa8B\xa2\xd8?'
+p459
+tp460
+Rp461
+tp462
+a(S'matter collineation'
+p463
+g2
+(g6
+S'z\xa2w\xe6\x87\x97\xd8?'
+p464
+tp465
+Rp466
+tp467
+a(S'ordered vector space'
+p468
+g2
+(g6
+S'\x8c\xadx\xf3\xa2\x95\xd8?'
+p469
+tp470
+Rp471
+tp472
+a(S'solenoidal vector field'
+p473
+g2
+(g6
+S'\x85\xea=WE\x93\xd8?'
+p474
+tp475
+Rp476
+tp477
+a(S'multivariate random variable'
+p478
+g2
+(g6
+S'\x15~\x8d\xec\x01\x8f\xd8?'
+p479
+tp480
+Rp481
+tp482
+a(S'orbital state vectors'
+p483
+g2
+(g6
+S"\x9f\x10'\xbd%\x8c\xd8?"
+p484
+tp485
+Rp486
+tp487
+a(S'mathematics of general relativity'
+p488
+g2
+(g6
+S'\xd0\xd0q \x9b\x89\xd8?'
+p489
+tp490
+Rp491
+tp492
+a(S'poynting vector'
+p493
+g2
+(g6
+S'^\xb5&\xb1\xa7\x84\xd8?'
+p494
+tp495
+Rp496
+tp497
+a(S'tetrad formalism'
+p498
+g2
+(g6
+S'\xac]\xb9nU\x82\xd8?'
+p499
+tp500
+Rp501
+tp502
+a(S'vector architect'
+p503
+g2
+(g6
+S'\x1753\xd1\xd4m\xd8?'
+p504
+tp505
+Rp506
+tp507
+a(S'indicator vector'
+p508
+g2
+(g6
+S'\xc96,\xd6\xe0D\xd8?'
+p509
+tp510
+Rp511
+tp512
+a(S'dot product'
+p513
+g2
+(g6
+S'\xdd\xfe\xce\x10\xf0A\xd8?'
+p514
+tp515
+Rp516
+tp517
+a(S'vector operator'
+p518
+g2
+(g6
+S'-\xfe\xca\xcch%\xd8?'
+p519
+tp520
+Rp521
+tp522
+a(S'vector space model'
+p523
+g2
+(g6
+S'\xea1J[\xe1\x07\xd8?'
+p524
+tp525
+Rp526
+tp527
+a(S'bivector'
+p528
+g2
+(g6
+S'\x8d\xac\x86DT\xff\xd7?'
+p529
+tp530
+Rp531
+tp532
+a(S'tangent vector'
+p533
+g2
+(g6
+S'\n?\xa0\x05\\\xf3\xd7?'
+p534
+tp535
+Rp536
+tp537
+a(S'principle of covariance'
+p538
+g2
+(g6
+S'\xf9\x9cf\xdb\r\xcf\xd7?'
+p539
+tp540
+Rp541
+tp542
+a(S'vector bundle'
+p543
+g2
+(g6
+S'\x870\xb1\xc4\xfd\xca\xd7?'
+p544
+tp545
+Rp546
+tp547
+a(S'vector (molecular biology)'
+p548
+g2
+(g6
+S'\xecl\x9d\xaaV\xca\xd7?'
+p549
+tp550
+Rp551
+tp552
+a(S'end-to-end vector'
+p553
+g2
+(g6
+S'\xc7Y\x9e\xdf\xb3\xbb\xd7?'
+p554
+tp555
+Rp556
+tp557
+a(S'vector (magazine)'
+p558
+g2
+(g6
+S'\x08\xf3\xcf\xdaR\xb4\xd7?'
+p559
+tp560
+Rp561
+tp562
+a(S'time dependent vector field'
+p563
+g2
+(g6
+S'd@\xc1\xfc\x07\xaf\xd7?'
+p564
+tp565
+Rp566
+tp567
+a(S'vector area'
+p568
+g2
+(g6
+S'\x87\xec\x04\xd5\xcd\x9b\xd7?'
+p569
+tp570
+Rp571
+tp572
+a(S'vector marketing'
+p573
+g2
+(g6
+S'b!\x8fs\xb5\x93\xd7?'
+p574
+tp575
+Rp576
+tp577
+a(S'complexification'
+p578
+g2
+(g6
+S't\x95.\x0c^x\xd7?'
+p579
+tp580
+Rp581
+tp582
+a(S'normed vector space'
+p583
+g2
+(g6
+S'n\xee\x1b\x9b9m\xd7?'
+p584
+tp585
+Rp586
+tp587
+a(S'tensor contraction'
+p588
+g2
+(g6
+S'Fg\x94\x9a\xb9j\xd7?'
+p589
+tp590
+Rp591
+tp592
+a(S'space vector modulation'
+p593
+g2
+(g6
+S'Y\xf3\x1c.\xe9M\xd7?'
+p594
+tp595
+Rp596
+tp597
+a(S'four-velocity'
+p598
+g2
+(g6
+S'\xd5Db"\xfaD\xd7?'
+p599
+tp600
+Rp601
+tp602
+a(S'version vector'
+p603
+g2
+(g6
+S'\xd5\x11\xa1\xba!D\xd7?'
+p604
+tp605
+Rp606
+tp607
+a(S'connection (vector bundle)'
+p608
+g2
+(g6
+S'\xaenI+\xd2=\xd7?'
+p609
+tp610
+Rp611
+tp612
+a(S'conservative vector field'
+p613
+g2
+(g6
+S'\x18\x8f\x92\xceO=\xd7?'
+p614
+tp615
+Rp616
+tp617
+a(S'vector graphics'
+p618
+g2
+(g6
+S'\xe2\xe5\x14S\x122\xd7?'
+p619
+tp620
+Rp621
+tp622
+a(S'list of formulas in riemannian geometry'
+p623
+g2
+(g6
+S'\xbd\x9f\xb6\x987\x1d\xd7?'
+p624
+tp625
+Rp626
+tp627
+a(S'vexel'
+p628
+g2
+(g6
+S'@E\x9c\xdc\xac\x11\xd7?'
+p629
+tp630
+Rp631
+tp632
+a(S'christoffel symbols'
+p633
+g2
+(g6
+S'\xfb\xcd\x00<\xa9\x07\xd7?'
+p634
+tp635
+Rp636
+tp637
+a(S'topic-based vector space model'
+p638
+g2
+(g6
+S'\xcb+W\xe1C\x07\xd7?'
+p639
+tp640
+Rp641
+tp642
+a(S'brinkmann coordinates'
+p643
+g2
+(g6
+S'Ne{\x86>\x02\xd7?'
+p644
+tp645
+Rp646
+tp647
+a(S'homothetic vector field'
+p648
+g2
+(g6
+S'\xc9\xc5\x1b\x0b\xca\xee\xd6?'
+p649
+tp650
+Rp651
+tp652
+a(S'fundamental vector field'
+p653
+g2
+(g6
+S'\x16\x91\xc9T\x9e\xea\xd6?'
+p654
+tp655
+Rp656
+tp657
+a(S'subbundle'
+p658
+g2
+(g6
+S'\x136\xa1$k\xe8\xd6?'
+p659
+tp660
+Rp661
+tp662
+a(S'scalar (mathematics)'
+p663
+g2
+(g6
+S'\xf5qC\x85\xe8\xdb\xd6?'
+p664
+tp665
+Rp666
+tp667
+a(S'lie derivative'
+p668
+g2
+(g6
+S'\x1eY\xc1\xa9\xa7\xcc\xd6?'
+p669
+tp670
+Rp671
+tp672
+a(S'spinors in three dimensions'
+p673
+g2
+(g6
+S' i\xac@-\xc1\xd6?'
+p674
+tp675
+Rp676
+tp677
+a(S'pushforward (differential)'
+p678
+g2
+(g6
+S'\xb9\xac\xfe\xd0\x87\xb3\xd6?'
+p679
+tp680
+Rp681
+tp682
+a(S'tensor product'
+p683
+g2
+(g6
+S'\xc4L^\xd8\xd7\x93\xd6?'
+p684
+tp685
+Rp686
+tp687
+a(S'coordinate conditions'
+p688
+g2
+(g6
+S'r\xb9\x81^V\x88\xd6?'
+p689
+tp690
+Rp691
+tp692
+a(S'superspace'
+p693
+g2
+(g6
+S'\x9eE\xc7||r\xd6?'
+p694
+tp695
+Rp696
+tp697
+a(S'test vector'
+p698
+g2
+(g6
+S'\xa9\x10^1\xc7j\xd6?'
+p699
+tp700
+Rp701
+tp702
+a(S'mixed tensor'
+p703
+g2
+(g6
+S'\x88D\xd2\xdc/_\xd6?'
+p704
+tp705
+Rp706
+tp707
+a(S'lattice problem'
+p708
+g2
+(g6
+S'|\x15\xd5\x90\x9fX\xd6?'
+p709
+tp710
+Rp711
+tp712
+a(S'gluon field'
+p713
+g2
+(g6
+S'\xf8xg\xeebE\xd6?'
+p714
+tp715
+Rp716
+tp717
+a(S'geometric calculus'
+p718
+g2
+(g6
+S'}1F\x04\xd4=\xd6?'
+p719
+tp720
+Rp721
+tp722
+a(S'operator (mathematics)'
+p723
+g2
+(g6
+S'\xfa\xb8\xa9\xf8u4\xd6?'
+p724
+tp725
+Rp726
+tp727
+a(S'complex lamellar vector field'
+p728
+g2
+(g6
+S'\x7fC\x19\x9f(1\xd6?'
+p729
+tp730
+Rp731
+tp732
+a(S'vector clock'
+p733
+g2
+(g6
+S'\x93C\xe0\x1dE+\xd6?'
+p734
+tp735
+Rp736
+tp737
+a(S'three-dimensional space'
+p738
+g2
+(g6
+S'\x17\x02\x80\xceX\x1b\xd6?'
+p739
+tp740
+Rp741
+tp742
+a(S'musical isomorphism'
+p743
+g2
+(g6
+S'\xe9\x80\xab\x97\xbe\x1a\xd6?'
+p744
+tp745
+Rp746
+tp747
+a(S'parker vector'
+p748
+g2
+(g6
+S'\xd2\x84\xf58\\\x1a\xd6?'
+p749
+tp750
+Rp751
+tp752
+a(S'cyclic subspace'
+p753
+g2
+(g6
+S"w\x18\xc6q'\r\xd6?"
+p754
+tp755
+Rp756
+tp757
+a(S'gerald wiegert'
+p758
+g2
+(g6
+S'Z(9tT\x00\xd6?'
+p759
+tp760
+Rp761
+tp762
+a(S'gradient'
+p763
+g2
+(g6
+S'\xfd\xe3\x19<\x9c\xf8\xd5?'
+p764
+tp765
+Rp766
+tp767
+a(S"rodrigues' rotation formula"
+p768
+g2
+(g6
+S'\xc4\xc6\xf7\xdb\x10\xef\xd5?'
+p769
+tp770
+Rp771
+tp772
+a(S'tangential and normal components'
+p773
+g2
+(g6
+S'\x0e\x0c\x98A\xf5\xed\xd5?'
+p774
+tp775
+Rp776
+tp777
+a(S'4d vector'
+p778
+g2
+(g6
+S'A\xf3747\xe8\xd5?'
+p779
+tp780
+Rp781
+tp782
+a(S'raising and lowering indices'
+p783
+g2
+(g6
+S'\x04\xa0\x80\xe8\x13\xde\xd5?'
+p784
+tp785
+Rp786
+tp787
+a(S'helmholtz decomposition'
+p788
+g2
+(g6
+S'\xc7\x99W\xbbt\xd6\xd5?'
+p789
+tp790
+Rp791
+tp792
+a(S'vector soliton'
+p793
+g2
+(g6
+S'\x80\xfcKW\x90\xd2\xd5?'
+p794
+tp795
+Rp796
+tp797
+a(S'weingarten equations'
+p798
+g2
+(g6
+S'\x15\xd7\xefX\xff\xc8\xd5?'
+p799
+tp800
+Rp801
+tp802
+a(S'kinematics'
+p803
+g2
+(g6
+S'p!H/\xc4\xbb\xd5?'
+p804
+tp805
+Rp806
+tp807
+a(S'double tangent bundle'
+p808
+g2
+(g6
+S'vEE\xea\x1e\xb1\xd5?'
+p809
+tp810
+Rp811
+tp812
+a(S'coordinate space'
+p813
+g2
+(g6
+S'\xc2\xbf 5\xf9\xac\xd5?'
+p814
+tp815
+Rp816
+tp817
+a(S'outer product'
+p818
+g2
+(g6
+S'gi\xc3@"\xa7\xd5?'
+p819
+tp820
+Rp821
+tp822
+a(S'vector fields in cylindrical and spherical coordinates'
+p823
+g2
+(g6
+S'\x83E\x8d\xb9+\x9b\xd5?'
+p824
+tp825
+Rp826
+tp827
+a(S'vector (company)'
+p828
+g2
+(g6
+S'\xe8d\x88\xe3\xcd\x99\xd5?'
+p829
+tp830
+Rp831
+tp832
+a(S'spacetime symmetries'
+p833
+g2
+(g6
+S'8F\x1f\x8c\xa9\x8d\xd5?'
+p834
+tp835
+Rp836
+tp837
+a(S'vector field reconstruction'
+p838
+g2
+(g6
+S'n4\xebp\xcb\x82\xd5?'
+p839
+tp840
+Rp841
+tp842
+a(S'real structure'
+p843
+g2
+(g6
+S'\x9a\n\x89\xcaW}\xd5?'
+p844
+tp845
+Rp846
+tp847
+a(S'four-frequency'
+p848
+g2
+(g6
+S'7:3\x1d\xa7w\xd5?'
+p849
+tp850
+Rp851
+tp852
+a(S'conformal vector field'
+p853
+g2
+(g6
+S'v:A\xeb\xcen\xd5?'
+p854
+tp855
+Rp856
+tp857
+a(S'orthonormality'
+p858
+g2
+(g6
+S'\xea\x05\x8c\xdd\xc2k\xd5?'
+p859
+tp860
+Rp861
+tp862
+a(S'exterior algebra'
+p863
+g2
+(g6
+S'\xa8vV\xcf\x1a^\xd5?'
+p864
+tp865
+Rp866
+tp867
+a(S'beltrami vector field'
+p868
+g2
+(g6
+S'\x03S\xc0\xe3\xe2Z\xd5?'
+p869
+tp870
+Rp871
+tp872
+a(S'classical electromagnetism and special relativity'
+p873
+g2
+(g6
+S'Kyl\x94\xa4T\xd5?'
+p874
+tp875
+Rp876
+tp877
+a(S'total set'
+p878
+g2
+(g6
+S'>\x1c\x19J[H\xd5?'
+p879
+tp880
+Rp881
+tp882
+a(S'vector addition system'
+p883
+g2
+(g6
+S'\xe1\xab\xc9OCG\xd5?'
+p884
+tp885
+Rp886
+tp887
+a(S'graded vector space'
+p888
+g2
+(g6
+S'BR\x8d[\xabD\xd5?'
+p889
+tp890
+Rp891
+tp892
+a(S'iliffe vector'
+p893
+g2
+(g6
+S'u\xdf\xa1\xc9\xb1#\xd5?'
+p894
+tp895
+Rp896
+tp897
+a(S'direction (geometry)'
+p898
+g2
+(g6
+S'\xdb\xc56J\xc8\x1c\xd5?'
+p899
+tp900
+Rp901
+tp902
+a(S'linear form'
+p903
+g2
+(g6
+S'fHd\x93\xa7\x18\xd5?'
+p904
+tp905
+Rp906
+tp907
+a(S'tensor field'
+p908
+g2
+(g6
+S'\x16}\xf4\xd2r\x17\xd5?'
+p909
+tp910
+Rp911
+tp912
+a(S'metric connection'
+p913
+g2
+(g6
+S'\xca\xa9\xb6i\xaf\x02\xd5?'
+p914
+tp915
+Rp916
+tp917
+a(S'vector projection'
+p918
+g2
+(g6
+S'\xe2\xeb\x1d\x93\xf4\xfa\xd4?'
+p919
+tp920
+Rp921
+tp922
+a(S'block wiedemann algorithm'
+p923
+g2
+(g6
+S'\x13\xce\xc1\xea\xea\xfa\xd4?'
+p924
+tp925
+Rp926
+tp927
+a(S'row and column spaces'
+p928
+g2
+(g6
+S'\xceG7\x0e-\xfa\xd4?'
+p929
+tp930
+Rp931
+tp932
+a(S'vector-06c'
+p933
+g2
+(g6
+S'\xc8g\xc0\xeb/\xee\xd4?'
+p934
+tp935
+Rp936
+tp937
+a(S'directional derivative'
+p938
+g2
+(g6
+S'-\xca\x0b\xdfy\xe3\xd4?'
+p939
+tp940
+Rp941
+tp942
+a(S'direction vector'
+p943
+g2
+(g6
+S'#r\xbe8\xc9\xd9\xd4?'
+p944
+tp945
+Rp946
+tp947
+a(S'fermi\xe2\x80\x93walker transport'
+p948
+g2
+(g6
+S'\xbcc\xf9\x9d\x8b\xcf\xd4?'
+p949
+tp950
+Rp951
+tp952
+a(S'majorization'
+p953
+g2
+(g6
+S'\x93\xb4V):\xc0\xd4?'
+p954
+tp955
+Rp956
+tp957
+a(S'smooth functor'
+p958
+g2
+(g6
+S"\xbc'j>\xae\xbb\xd4?"
+p959
+tp960
+Rp961
+tp962
+a(S'calculus of moving surfaces'
+p963
+g2
+(g6
+S'2h\x03(\x99\xba\xd4?'
+p964
+tp965
+Rp966
+tp967
+a(S'vector graphic'
+p968
+g2
+(g6
+S'\xe8 {\x06\x81\xba\xd4?'
+p969
+tp970
+Rp971
+tp972
+a(S'vector calculus identities'
+p973
+g2
+(g6
+S'\xa8}\x8e\xea\xcb\xb8\xd4?'
+p974
+tp975
+Rp976
+tp977
+a(S'canberra distance'
+p978
+g2
+(g6
+S'\xcc0\xb7J`\xb8\xd4?'
+p979
+tp980
+Rp981
+tp982
+a(S'canonizant'
+p983
+g2
+(g6
+S'\xce\x80#\xef\xab\xb2\xd4?'
+p984
+tp985
+Rp986
+tp987
+a(S"powell's method"
+p988
+g2
+(g6
+S'\xa2\xae\xbc\xad\xf1\xac\xd4?'
+p989
+tp990
+Rp991
+tp992
+a(S'sinusoidal plane-wave solutions of the electromagnetic wave equation'
+p993
+g2
+(g6
+S'\xc9\xdd\xb5\xc15\xac\xd4?'
+p994
+tp995
+Rp996
+tp997
+a(S'medical entomology'
+p998
+g2
+(g6
+S'q\xd4\\\xca\x12\xab\xd4?'
+p999
+tp1000
+Rp1001
+tp1002
+a(S'paratransgenesis'
+p1003
+g2
+(g6
+S'\x06\x853\x14\xd4\x95\xd4?'
+p1004
+tp1005
+Rp1006
+tp1007
+a(S'multidimensional system'
+p1008
+g2
+(g6
+S'/\xe9\x17^\x14\x92\xd4?'
+p1009
+tp1010
+Rp1011
+tp1012
+a(S'orthogonalization'
+p1013
+g2
+(g6
+S'\xca\xe1\x86Kr\x8f\xd4?'
+p1014
+tp1015
+Rp1016
+tp1017
+a(S'vector logic'
+p1018
+g2
+(g6
+S'p\xb3\xfc\xcd\xbez\xd4?'
+p1019
+tp1020
+Rp1021
+tp1022
+a(S'vector w2'
+p1023
+g2
+(g6
+S'Z\x84&\xaf6x\xd4?'
+p1024
+tp1025
+Rp1026
+tp1027
+a(S'vector tiles'
+p1028
+g2
+(g6
+S'\xef\x1a\xfco\xa4r\xd4?'
+p1029
+tp1030
+Rp1031
+tp1032
+a(S'linear subspace'
+p1033
+g2
+(g6
+S'\xf44\x99ZXr\xd4?'
+p1034
+tp1035
+Rp1036
+tp1037
+a(S'spinor'
+p1038
+g2
+(g6
+S'd\xc1p\x00gj\xd4?'
+p1039
+tp1040
+Rp1041
+tp1042
+a(S'newtonian dynamics'
+p1043
+g2
+(g6
+S'\xbbx.\x199Y\xd4?'
+p1044
+tp1045
+Rp1046
+tp1047
+a(S'levinson recursion'
+p1048
+g2
+(g6
+S'0|\xaa5KT\xd4?'
+p1049
+tp1050
+Rp1051
+tp1052
+a(S'vector (epidemiology)'
+p1053
+g2
+(g6
+S'\x87L\xa0K.S\xd4?'
+p1054
+tp1055
+Rp1056
+tp1057
+a(S'vector radiative transfer'
+p1058
+g2
+(g6
+S'\x93\xd4\xe3\x7f\x8eQ\xd4?'
+p1059
+tp1060
+Rp1061
+tp1062
+a(S'bra\xe2\x80\x93ket notation'
+p1063
+g2
+(g6
+S'\x80"$,|O\xd4?'
+p1064
+tp1065
+Rp1066
+tp1067
+a(S'lie bracket of vector fields'
+p1068
+g2
+(g6
+S'Q\xd2\xad\x16XO\xd4?'
+p1069
+tp1070
+Rp1071
+tp1072
+a(S'cartan formalism (physics)'
+p1073
+g2
+(g6
+S'iO!\xb3\x14O\xd4?'
+p1074
+tp1075
+Rp1076
+tp1077
+a(S'kosmann lift'
+p1078
+g2
+(g6
+S'\x82\xf9\xd1^zF\xd4?'
+p1079
+tp1080
+Rp1081
+tp1082
+a(S'vector prime (transformers)'
+p1083
+g2
+(g6
+S'\x1a\x95vnQ<\xd4?'
+p1084
+tp1085
+Rp1086
+tp1087
+a(S'seven-dimensional cross product'
+p1088
+g2
+(g6
+S'HlF\xa6\xa58\xd4?'
+p1089
+tp1090
+Rp1091
+tp1092
+a(S'lorentz transformation'
+p1093
+g2
+(g6
+S'\x16\xec\x07\x0fn8\xd4?'
+p1094
+tp1095
+Rp1096
+tp1097
+a(S'matrix calculus'
+p1098
+g2
+(g6
+S'\\\x1b\xa8\xff\xc74\xd4?'
+p1099
+tp1100
+Rp1101
+tp1102
+a(S'classical hamiltonian quaternions'
+p1103
+g2
+(g6
+S'\xec\x97\x8b&|1\xd4?'
+p1104
+tp1105
+Rp1106
+tp1107
+a(S'dual space'
+p1108
+g2
+(g6
+S'\x8b\xa1g\x849&\xd4?'
+p1109
+tp1110
+Rp1111
+tp1112
+a(S'tensor derivative (continuum mechanics)'
+p1113
+g2
+(g6
+S'G\xee\xf7k\xcb \xd4?'
+p1114
+tp1115
+Rp1116
+tp1117
+a(S'null vector'
+p1118
+g2
+(g6
+S'6\xda\xf7C*\x1c\xd4?'
+p1119
+tp1120
+Rp1121
+tp1122
+a(S'curvature collineation'
+p1123
+g2
+(g6
+S'\xf4a\x186\xbe\x14\xd4?'
+p1124
+tp1125
+Rp1126
+tp1127
+a(S"gauss' method"
+p1128
+g2
+(g6
+S'\xe8\xa0\xe8\x19\x00\x11\xd4?'
+p1129
+tp1130
+Rp1131
+tp1132
+a(S'vector processor'
+p1133
+g2
+(g6
+S'\xe2u\x1e\xf5L\x0e\xd4?'
+p1134
+tp1135
+Rp1136
+tp1137
+a(S'complex conjugate vector space'
+p1138
+g2
+(g6
+S'Si\x98\x01C\x0e\xd4?'
+p1139
+tp1140
+Rp1141
+tp1142
+a(S'complex vector bundle'
+p1143
+g2
+(g6
+S'\xc8\xbd\xd3\xb57\x02\xd4?'
+p1144
+tp1145
+Rp1146
+tp1147
+a(S'pseudo-euclidean space'
+p1148
+g2
+(g6
+S';`\xbc\xf0\xcd\xfc\xd3?'
+p1149
+tp1150
+Rp1151
+tp1152
+a(S'vector nti'
+p1153
+g2
+(g6
+S'\x19\xa6\x8d7\xe4\xf9\xd3?'
+p1154
+tp1155
+Rp1156
+tp1157
+a(S'linear complex structure'
+p1158
+g2
+(g6
+S'+\xb4_\x93I\xf2\xd3?'
+p1159
+tp1160
+Rp1161
+tp1162
+a(S'fastica'
+p1163
+g2
+(g6
+S'GQ6\xbb\xf9\xe9\xd3?'
+p1164
+tp1165
+Rp1166
+tp1167
+a(S'gauge covariant derivative'
+p1168
+g2
+(g6
+S'\xca}\xea\xc0\x9d\xe8\xd3?'
+p1169
+tp1170
+Rp1171
+tp1172
+a(S'vector srv8'
+p1173
+g2
+(g6
+S'\xf07\xa6\x18\xdb\xe4\xd3?'
+p1174
+tp1175
+Rp1176
+tp1177
+a(S'tensor (intrinsic definition)'
+p1178
+g2
+(g6
+S'\x81\xf2)j\xe5\xe3\xd3?'
+p1179
+tp1180
+Rp1181
+tp1182
+a(S'euler sequence'
+p1183
+g2
+(g6
+S'\xa2\xe0l\xc1<\xd8\xd3?'
+p1184
+tp1185
+Rp1186
+tp1187
+a(S'linear combination'
+p1188
+g2
+(g6
+S'_\x10\xfd\xe1\x07\xd1\xd3?'
+p1189
+tp1190
+Rp1191
+tp1192
+a(S"chou's invariance theorem"
+p1193
+g2
+(g6
+S"\xad' Y\xb2\xcb\xd3?"
+p1194
+tp1195
+Rp1196
+tp1197
+a(S'sequence container (c++)'
+p1198
+g2
+(g6
+S'0\xd550\xfb\xca\xd3?'
+p1199
+tp1200
+Rp1201
+tp1202
+a(S'curvature form'
+p1203
+g2
+(g6
+S'\xe9d\xd2\x000\xc1\xd3?'
+p1204
+tp1205
+Rp1206
+tp1207
+a(S'riemann\xe2\x80\x93silberstein vector'
+p1208
+g2
+(g6
+S',Y\x12\x87\xec\xc0\xd3?'
+p1209
+tp1210
+Rp1211
+tp1212
+a(S'multilinear map'
+p1213
+g2
+(g6
+S'\x9d\xb0Y\xe9c\xc0\xd3?'
+p1214
+tp1215
+Rp1216
+tp1217
+a(S'standard array'
+p1218
+g2
+(g6
+S'\xb0\xf7\x93,\x86\xb9\xd3?'
+p1219
+tp1220
+Rp1221
+tp1222
+a(S'two-state quantum system'
+p1223
+g2
+(g6
+S'\xdd\xac5\xd3\xfd\xb8\xd3?'
+p1224
+tp1225
+Rp1226
+tp1227
+a(S'sanctuary woods'
+p1228
+g2
+(g6
+S'\xcb\xcd\\\x0b\xa3\xb6\xd3?'
+p1229
+tp1230
+Rp1231
+tp1232
+a(S'null hypersurface'
+p1233
+g2
+(g6
+S'\x96\x18\xb8D9\xae\xd3?'
+p1234
+tp1235
+Rp1236
+tp1237
+a(S'normal (geometry)'
+p1238
+g2
+(g6
+S'\xbbO\xbd\x9d\xdb\xac\xd3?'
+p1239
+tp1240
+Rp1241
+tp1242
+a(S'congruence (general relativity)'
+p1243
+g2
+(g6
+S'W7\x08k\xb5\xa8\xd3?'
+p1244
+tp1245
+Rp1246
+tp1247
+a(S'pseudoscalar'
+p1248
+g2
+(g6
+S'\x96\xfegHB\xa4\xd3?'
+p1249
+tp1250
+Rp1251
+tp1252
+a(S'triple product'
+p1253
+g2
+(g6
+S'\xcd\x0f\x0c|\xc6\x9f\xd3?'
+p1254
+tp1255
+Rp1256
+tp1257
+a(S'vector graphics editor'
+p1258
+g2
+(g6
+S'\x1a\xe2\xbc\xf7\x8d\x9c\xd3?'
+p1259
+tp1260
+Rp1261
+tp1262
+a(S'magnitude (mathematics)'
+p1263
+g2
+(g6
+S'\x8e@\xdagF\x9c\xd3?'
+p1264
+tp1265
+Rp1266
+tp1267
+a(S'triad method'
+p1268
+g2
+(g6
+S'\x81P\xfc)b\x9b\xd3?'
+p1269
+tp1270
+Rp1271
+tp1272
+a(S'space vector corporation'
+p1273
+g2
+(g6
+S'\x1f\x1fdK\xdd\x97\xd3?'
+p1274
+tp1275
+Rp1276
+tp1277
+a(S'lattice reduction'
+p1278
+g2
+(g6
+S'Uo\xbav1\x97\xd3?'
+p1279
+tp1280
+Rp1281
+tp1282
+a(S'stationary spacetime'
+p1283
+g2
+(g6
+S'\xc7U\xec\xfc\n|\xd3?'
+p1284
+tp1285
+Rp1286
+tp1287
+a(S'centering matrix'
+p1288
+g2
+(g6
+S',\xd6]\x96\x14{\xd3?'
+p1289
+tp1290
+Rp1291
+tp1292
+a(S'hesse normal form'
+p1293
+g2
+(g6
+S'\xd6\xb6T\xf2Ho\xd3?'
+p1294
+tp1295
+Rp1296
+tp1297
+a(S'gauge theory gravity'
+p1298
+g2
+(g6
+S'7\xc7C\x9eTj\xd3?'
+p1299
+tp1300
+Rp1301
+tp1302
+a(S'electromagnetic four-potential'
+p1303
+g2
+(g6
+S'\xb2\xdc\x95\xa3\x89g\xd3?'
+p1304
+tp1305
+Rp1306
+tp1307
+a(S'proofs involving covariant derivatives'
+p1308
+g2
+(g6
+S'\xd9\xcc\x92\x9a,e\xd3?'
+p1309
+tp1310
+Rp1311
+tp1312
+a(S'swizzling (computer graphics)'
+p1313
+g2
+(g6
+S'#\r\x19\x11\xd9S\xd3?'
+p1314
+tp1315
+Rp1316
+tp1317
+a(S'abstract index notation'
+p1318
+g2
+(g6
+S'\xe9b^\xab\x85S\xd3?'
+p1319
+tp1320
+Rp1321
+tp1322
+a(S'three-dimensional rotation operator'
+p1323
+g2
+(g6
+S'y\xe8\xdf\xcf\xdaJ\xd3?'
+p1324
+tp1325
+Rp1326
+tp1327
+a(S'applications of multiple coordinate systems'
+p1328
+g2
+(g6
+S'\xae\xeaO@\x81F\xd3?'
+p1329
+tp1330
+Rp1331
+tp1332
+a(S"farkas' lemma"
+p1333
+g2
+(g6
+S'$\xb4\xdf\xcf.>\xd3?'
+p1334
+tp1335
+Rp1336
+tp1337
+a(S'cloning vector'
+p1338
+g2
+(g6
+S'j\xf2\x85\xb0\x8c9\xd3?'
+p1339
+tp1340
+Rp1341
+tp1342
+a(S'altivec'
+p1343
+g2
+(g6
+S'\x12\x1a\xa1r\xc87\xd3?'
+p1344
+tp1345
+Rp1346
+tp1347
+a(S'tangent space'
+p1348
+g2
+(g6
+S'\r\x94H\xdf\x982\xd3?'
+p1349
+tp1350
+Rp1351
+tp1352
+a(S'schauder basis'
+p1353
+g2
+(g6
+S"\x19\xf6\xe3i\x8c'\xd3?"
+p1354
+tp1355
+Rp1356
+tp1357
+a(S"h\xc3\xb6rmander's condition"
+p1358
+g2
+(g6
+S'\x88\xc9\x9a\x8c\xc3&\xd3?'
+p1359
+tp1360
+Rp1361
+tp1362
+a(S'vector packs'
+p1363
+g2
+(g6
+S'v\xd7\xf6\xd9f\x1d\xd3?'
+p1364
+tp1365
+Rp1366
+tp1367
+a(S'eutactic star'
+p1368
+g2
+(g6
+S'\x15\xd9\xbb\x04\xa9\x17\xd3?'
+p1369
+tp1370
+Rp1371
+tp1372
+a(S'zassenhaus algorithm'
+p1373
+g2
+(g6
+S' f80#\x01\xd3?'
+p1374
+tp1375
+Rp1376
+tp1377
+a(S'dimension (vector space)'
+p1378
+g2
+(g6
+S'F\xe9\x88(\x1c\xfb\xd2?'
+p1379
+tp1380
+Rp1381
+tp1382
+a(S'aerodyne systems vector'
+p1383
+g2
+(g6
+S'\xf7\xdbQ*\x10\xf9\xd2?'
+p1384
+tp1385
+Rp1386
+tp1387
+a(S'harmonic coordinate condition'
+p1388
+g2
+(g6
+S'\x9d\xc2\xa4V\xb9\xef\xd2?'
+p1389
+tp1390
+Rp1391
+tp1392
+a(S'motion vector'
+p1393
+g2
+(g6
+S'p\xe9\x86E\xa7\xee\xd2?'
+p1394
+tp1395
+Rp1396
+tp1397
+a(S'vector product format'
+p1398
+g2
+(g6
+S'M\x15\xb3\x89\xfb\xec\xd2?'
+p1399
+tp1400
+Rp1401
+tp1402
+a(S'relativistic angular momentum'
+p1403
+g2
+(g6
+S'\x99r\xc1#\x12\xe4\xd2?'
+p1404
+tp1405
+Rp1406
+tp1407
+a(S'eccentricity vector'
+p1408
+g2
+(g6
+S'}\xbe\x1f\xa8\xf3\xe3\xd2?'
+p1409
+tp1410
+Rp1411
+tp1412
+a(S'self-organizing map'
+p1413
+g2
+(g6
+S'\xd9\xe2\x98i\x8c\xdf\xd2?'
+p1414
+tp1415
+Rp1416
+tp1417
+a(S'gated recurrent unit'
+p1418
+g2
+(g6
+S'\xa4\xca\xf4\xdb\x96\xcb\xd2?'
+p1419
+tp1420
+Rp1421
+tp1422
+a(S'vector control (motor)'
+p1423
+g2
+(g6
+S'\xe7\x9a\xe0\x92\n\xc1\xd2?'
+p1424
+tp1425
+Rp1426
+tp1427
+a(S'integral curve'
+p1428
+g2
+(g6
+S'd\xafm\xb2\xfd\xb9\xd2?'
+p1429
+tp1430
+Rp1431
+tp1432
+a(S'tensor product bundle'
+p1433
+g2
+(g6
+S'\x06\x94\xd2rv\xab\xd2?'
+p1434
+tp1435
+Rp1436
+tp1437
+a(S'second fundamental form'
+p1438
+g2
+(g6
+S'\xa5DP\x92\x06\xa5\xd2?'
+p1439
+tp1440
+Rp1441
+tp1442
+a(S'p. k. rajagopalan'
+p1443
+g2
+(g6
+S'g\xd9\x9f\xdd\xa1\x98\xd2?'
+p1444
+tp1445
+Rp1446
+tp1447
+a(S'translation (geometry)'
+p1448
+g2
+(g6
+S'\xaf\x0e\x13\xe3a\x92\xd2?'
+p1449
+tp1450
+Rp1451
+tp1452
+a(S'flat vector bundle'
+p1453
+g2
+(g6
+S'\x02\x1c\xee\x88\x1c\x8c\xd2?'
+p1454
+tp1455
+Rp1456
+tp1457
+a(S'covariance and contravariance (computer science)'
+p1458
+g2
+(g6
+S'E\x1eR\x99\xd8\x8a\xd2?'
+p1459
+tp1460
+Rp1461
+tp1462
+a(S'automatic vectorization'
+p1463
+g2
+(g6
+S'\xa0u\xdb\x04\xb5\x85\xd2?'
+p1464
+tp1465
+Rp1466
+tp1467
+a(S'ehresmann connection'
+p1468
+g2
+(g6
+S'\xffLrui\x83\xd2?'
+p1469
+tp1470
+Rp1471
+tp1472
+a(S'riemann curvature tensor'
+p1473
+g2
+(g6
+S"O'\xd6\xb1\xfc\x80\xd2?"
+p1474
+tp1475
+Rp1476
+tp1477
+a(S'four-tensor'
+p1478
+g2
+(g6
+S'\xf1\xc7@v\xd2\x7f\xd2?'
+p1479
+tp1480
+Rp1481
+tp1482
+a(S'dope vector'
+p1483
+g2
+(g6
+S'\xd5\xdaL\xa5l}\xd2?'
+p1484
+tp1485
+Rp1486
+tp1487
+a(S'comonotonicity'
+p1488
+g2
+(g6
+S'a\x1c|\x15,m\xd2?'
+p1489
+tp1490
+Rp1491
+tp1492
+a(S'compositional data'
+p1493
+g2
+(g6
+S'\xc3T\x12\xb5\x8a_\xd2?'
+p1494
+tp1495
+Rp1496
+tp1497
+a(S"siacci's theorem"
+p1498
+g2
+(g6
+S'\xdf]\xbe\x05nX\xd2?'
+p1499
+tp1500
+Rp1501
+tp1502
+a(S'cauchy stress tensor'
+p1503
+g2
+(g6
+S'\x10\x8a\xfc\x14\xe7L\xd2?'
+p1504
+tp1505
+Rp1506
+tp1507
+a(S"green's identities"
+p1508
+g2
+(g6
+S'\xe2\x0b,iCH\xd2?'
+p1509
+tp1510
+Rp1511
+tp1512
+a.

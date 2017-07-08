@@ -1,0 +1,2728 @@
+(lp0
+(S'stochastic optimization'
+p1
+cnumpy.core.multiarray
+scalar
+p2
+(cnumpy
+dtype
+p3
+(S'f8'
+p4
+I0
+I1
+tp5
+Rp6
+(I3
+S'<'
+p7
+NNNI-1
+I-1
+I0
+tp8
+bS'\x02\x00\x00\x00\x00\x00\xf0?'
+p9
+tp10
+Rp11
+tp12
+a(S'global optimization'
+p13
+g2
+(g6
+S'i;\xd1\x1e\xa8Y\xe4?'
+p14
+tp15
+Rp16
+tp17
+a(S'stochastic'
+p18
+g2
+(g6
+S'\x93C\xe7,C=\xe2?'
+p19
+tp20
+Rp21
+tp22
+a(S'mathematical optimization'
+p23
+g2
+(g6
+S'\x98Z\xed\xeb8\xb5\xe0?'
+p24
+tp25
+Rp26
+tp27
+a(S'metaheuristic'
+p28
+g2
+(g6
+S'\r?\xc5:\xddg\xe0?'
+p29
+tp30
+Rp31
+tp32
+a(S'stochastic ordering'
+p33
+g2
+(g6
+S'\xb1\xd6\xd2\xaa\xece\xe0?'
+p34
+tp35
+Rp36
+tp37
+a(S'online optimization'
+p38
+g2
+(g6
+S'\x85\xaa\x14\x81\xfdH\xe0?'
+p39
+tp40
+Rp41
+tp42
+a(S'stochastic programming'
+p43
+g2
+(g6
+S'x\x7f)P\x7f9\xe0?'
+p44
+tp45
+Rp46
+tp47
+a(S'stochastic process'
+p48
+g2
+(g6
+S'\x1d\xa3j\xddg\x0e\xe0?'
+p49
+tp50
+Rp51
+tp52
+a(S'derivative-free optimization'
+p53
+g2
+(g6
+S'\xc9\xb1\xe1ill\xdf?'
+p54
+tp55
+Rp56
+tp57
+a(S'stochastic modelling (insurance)'
+p58
+g2
+(g6
+S'\xe0t\xea\xe5\xea8\xdf?'
+p59
+tp60
+Rp61
+tp62
+a(S'stochastic computing'
+p63
+g2
+(g6
+S'\xa0km\x14K.\xdf?'
+p64
+tp65
+Rp66
+tp67
+a(S'darinka dentcheva'
+p68
+g2
+(g6
+S'\x14\x03\x1a\x16\xe6\xe0\xde?'
+p69
+tp70
+Rp71
+tp72
+a(S'ioso'
+p73
+g2
+(g6
+S's\x97\x92\xdf\x83\xbd\xde?'
+p74
+tp75
+Rp76
+tp77
+a(S'simulation-based optimization'
+p78
+g2
+(g6
+S'\xd5\xc6\x9br\x82"\xde?'
+p79
+tp80
+Rp81
+tp82
+a(S'simultaneous perturbation stochastic approximation'
+p83
+g2
+(g6
+S'`\x8bf\x8e\xfb\xe8\xdd?'
+p84
+tp85
+Rp86
+tp87
+a(S'multidisciplinary design optimization'
+p88
+g2
+(g6
+S'\xfe\xb6G9\x15\xe6\xdd?'
+p89
+tp90
+Rp91
+tp92
+a(S'andrzej piotr ruszczy\xc5\x84ski'
+p93
+g2
+(g6
+S'\xa3\x06\xe2\xe3\x05\x8b\xdd?'
+p94
+tp95
+Rp96
+tp97
+a(S'stochastic neural network'
+p98
+g2
+(g6
+S'\xa1\x8f@H\xe6A\xdd?'
+p99
+tp100
+Rp101
+tp102
+a(S'dimitri bertsekas'
+p103
+g2
+(g6
+S'/\x13O\x06\t\xa0\xdc?'
+p104
+tp105
+Rp106
+tp107
+a(S'stochastic resonance (book)'
+p108
+g2
+(g6
+S'\xae \x13\xdb9X\xdc?'
+p109
+tp110
+Rp111
+tp112
+a(S'markov chain approximation method'
+p113
+g2
+(g6
+S' \xe4\xf5\x11\xf8E\xdc?'
+p114
+tp115
+Rp116
+tp117
+a(S'engineering optimization'
+p118
+g2
+(g6
+S'6W\xea\x8e^\x1b\xdc?'
+p119
+tp120
+Rp121
+tp122
+a(S'hyperparameter optimization'
+p123
+g2
+(g6
+S'\x82\xe4@\xb5\xf1\xd3\xdb?'
+p124
+tp125
+Rp126
+tp127
+a(S'list of optimization software'
+p128
+g2
+(g6
+S'J\x8eo\x81\xe2w\xdb?'
+p129
+tp130
+Rp131
+tp132
+a(S'optislang'
+p133
+g2
+(g6
+S'\xcfB\x9d\x9eN`\xdb?'
+p134
+tp135
+Rp136
+tp137
+a(S'albert shiryaev'
+p138
+g2
+(g6
+S'\x0f\xf1R\xba\xe6R\xdb?'
+p139
+tp140
+Rp141
+tp142
+a(S'stochastic thinking'
+p143
+g2
+(g6
+S'\xc6y\x82Q}&\xdb?'
+p144
+tp145
+Rp146
+tp147
+a(S'graduated optimization'
+p148
+g2
+(g6
+S'\x02\xd1\x9e\x06\xa4\xc0\xda?'
+p149
+tp150
+Rp151
+tp152
+a(S'stochastic approximation'
+p153
+g2
+(g6
+S'H\xcbnv\xe5\xbf\xda?'
+p154
+tp155
+Rp156
+tp157
+a(S'deterministic global optimization'
+p158
+g2
+(g6
+S'v\xab\x84Dso\xda?'
+p159
+tp160
+Rp161
+tp162
+a(S'smartdo'
+p163
+g2
+(g6
+S'B\xbdS92\x10\xda?'
+p164
+tp165
+Rp166
+tp167
+a(S'evolutionary multimodal optimization'
+p168
+g2
+(g6
+S'\xb3\xc8#\xcd\x96\xf9\xd9?'
+p169
+tp170
+Rp171
+tp172
+a(S'roger j-b wets'
+p173
+g2
+(g6
+S'\xcb\x87\xb0q\xcb\xc7\xd9?'
+p174
+tp175
+Rp176
+tp177
+a(S'stochastic dynamic programming'
+p178
+g2
+(g6
+S'-U\xca\xee@\xbb\xd9?'
+p179
+tp180
+Rp181
+tp182
+a(S'topology optimization'
+p183
+g2
+(g6
+S'\x07\x8d\xdcLh\x8e\xd9?'
+p184
+tp185
+Rp186
+tp187
+a(S'bilevel optimization'
+p188
+g2
+(g6
+S'\xf4\x86\xd9\x0e\xa6o\xd9?'
+p189
+tp190
+Rp191
+tp192
+a(S'international society for structural and multidisciplinary optimization'
+p193
+g2
+(g6
+S'\x8e\xdf"\xce\xcf]\xd9?'
+p194
+tp195
+Rp196
+tp197
+a(S'random optimization'
+p198
+g2
+(g6
+S'&V\x9c\xe1h3\xd9?'
+p199
+tp200
+Rp201
+tp202
+a(S'doubly stochastic model'
+p203
+g2
+(g6
+S'#\x92>}=\xd5\xd8?'
+p204
+tp205
+Rp206
+tp207
+a(S'killed process'
+p208
+g2
+(g6
+S'X%\xb6\xc9\xa0\xcb\xd8?'
+p209
+tp210
+Rp211
+tp212
+a(S'europt, continuous optimization working group of euro'
+p213
+g2
+(g6
+S'\x0e\xff\xf5A\x11\xa9\xd8?'
+p214
+tp215
+Rp216
+tp217
+a(S'optimization toolbox'
+p218
+g2
+(g6
+S'\xbe\xde@\x9fn\x8f\xd8?'
+p219
+tp220
+Rp221
+tp222
+a(S'trajectory optimization'
+p223
+g2
+(g6
+S'd\xc2J\x14\x94\x87\xd8?'
+p224
+tp225
+Rp226
+tp227
+a(S'augmented lagrangian method'
+p228
+g2
+(g6
+S'a\tc\xfe\xa5y\xd8?'
+p229
+tp230
+Rp231
+tp232
+a(S'continuous optimization'
+p233
+g2
+(g6
+S'\x8cv\xdd\xdf\xbfS\xd8?'
+p234
+tp235
+Rp236
+tp237
+a(S'stochastic resonance'
+p238
+g2
+(g6
+S'\xce\xf3\x1dX\xcf\x02\xd8?'
+p239
+tp240
+Rp241
+tp242
+a(S'combinatorial optimization'
+p243
+g2
+(g6
+S'\x92:\x02j\xdd\xc8\xd7?'
+p244
+tp245
+Rp246
+tp247
+a(S'mark h. a. davis'
+p248
+g2
+(g6
+S'\xa3\x17\x90l\xa9\xb0\xd7?'
+p249
+tp250
+Rp251
+tp252
+a(S'anatoly zhigljavsky'
+p253
+g2
+(g6
+S'\x9c+\x7f\xd0t\xa3\xd7?'
+p254
+tp255
+Rp256
+tp257
+a(S'istv\xc3\xa1n gy\xc3\xb6ngy'
+p258
+g2
+(g6
+S'\xb3S\x89\xfeQ\x97\xd7?'
+p259
+tp260
+Rp261
+tp262
+a(S'grapheur'
+p263
+g2
+(g6
+S'%\x9e\x0b\xbe\xfd\x8a\xd7?'
+p264
+tp265
+Rp266
+tp267
+a(S'stochastic simulation'
+p268
+g2
+(g6
+S'\xe23x\xf2\xf3\x88\xd7?'
+p269
+tp270
+Rp271
+tp272
+a(S'extremal optimization'
+p273
+g2
+(g6
+S'\x1a\xb5\x84N\x1a[\xd7?'
+p274
+tp275
+Rp276
+tp277
+a(S'lionsolver'
+p278
+g2
+(g6
+S'\xeb\xc5D\xe8\xeeK\xd7?'
+p279
+tp280
+Rp281
+tp282
+a(S'stochastic dominance'
+p283
+g2
+(g6
+S'\xe3\xc9z\x85\x19=\xd7?'
+p284
+tp285
+Rp286
+tp287
+a(S'anatoliy skorokhod'
+p288
+g2
+(g6
+S'\x184\xbd\x0f\xf69\xd7?'
+p289
+tp290
+Rp291
+tp292
+a(S'reuven rubinstein'
+p293
+g2
+(g6
+S'h\x8aA\xfd\x891\xd7?'
+p294
+tp295
+Rp296
+tp297
+a(S'probability distribution of extreme points of a wiener stochastic process'
+p298
+g2
+(g6
+S'\x02\xeeDYM-\xd7?'
+p299
+tp300
+Rp301
+tp302
+a(S'stochastic calculus'
+p303
+g2
+(g6
+S'\x92{K\xf9\xf0$\xd7?'
+p304
+tp305
+Rp306
+tp307
+a(S'stochastic drift'
+p308
+g2
+(g6
+S'\xc6\xb8\xe1\x99A\x1c\xd7?'
+p309
+tp310
+Rp311
+tp312
+a(S'optimus platform'
+p313
+g2
+(g6
+S'wA\xaa\xb0V\x08\xd7?'
+p314
+tp315
+Rp316
+tp317
+a(S'artelys knitro'
+p318
+g2
+(g6
+S'\xd3\x19+.\xf0\x01\xd7?'
+p319
+tp320
+Rp321
+tp322
+a(S'product optimization'
+p323
+g2
+(g6
+S't\x9d\x99\xee\xb5\xf8\xd6?'
+p324
+tp325
+Rp326
+tp327
+a(S'second-order cone programming'
+p328
+g2
+(g6
+S'\xba\xcf\x0f\xf0T\xea\xd6?'
+p329
+tp330
+Rp331
+tp332
+a(S'stochastic models'
+p333
+g2
+(g6
+S'\x8dP\xa7\xd3Y\xe3\xd6?'
+p334
+tp335
+Rp336
+tp337
+a(S'program optimization'
+p338
+g2
+(g6
+S'\xec\x85S\xa2T\xe1\xd6?'
+p339
+tp340
+Rp341
+tp342
+a(S'shape optimization'
+p343
+g2
+(g6
+S'\xefdViJ\xe0\xd6?'
+p344
+tp345
+Rp346
+tp347
+a(S'vector optimization'
+p348
+g2
+(g6
+S"'\xd8\x94\xda\x83\xc8\xd6?"
+p349
+tp350
+Rp351
+tp352
+a(S'collective tuning initiative'
+p353
+g2
+(g6
+S'\xc1\xa3_7I\xa5\xd6?'
+p354
+tp355
+Rp356
+tp357
+a(S'peter richtarik'
+p358
+g2
+(g6
+S'\xe0^\xf3\x99;\xa5\xd6?'
+p359
+tp360
+Rp361
+tp362
+a(S'journal of industrial and management optimization'
+p363
+g2
+(g6
+S'o\xf9\x95\xf0\xcb\x86\xd6?'
+p364
+tp365
+Rp366
+tp367
+a(S'optimization (disambiguation)'
+p368
+g2
+(g6
+S'\xcd\xf3\xdc\xe6\xe1m\xd6?'
+p369
+tp370
+Rp371
+tp372
+a(S'pseven'
+p373
+g2
+(g6
+S'g{/\xcc/a\xd6?'
+p374
+tp375
+Rp376
+tp377
+a(S'dietrich stoyan'
+p378
+g2
+(g6
+S'0\x93\xdc/\x8f\x0f\xd6?'
+p379
+tp380
+Rp381
+tp382
+a(S'cross-entropy method'
+p383
+g2
+(g6
+S't7<\xefX\x08\xd6?'
+p384
+tp385
+Rp386
+tp387
+a(S'comparison of optimization software'
+p388
+g2
+(g6
+S'\x94\xce\x84+D\xf1\xd5?'
+p389
+tp390
+Rp391
+tp392
+a(S'tomview'
+p393
+g2
+(g6
+S'\x8b\x99RQ\x91\xe6\xd5?'
+p394
+tp395
+Rp396
+tp397
+a(S'bernoulli stochastics'
+p398
+g2
+(g6
+S'|\xe9\xa9\xcf\x85\xe6\xd5?'
+p399
+tp400
+Rp401
+tp402
+a(S'hydrological optimization'
+p403
+g2
+(g6
+S'/\xe4\x015a\xdf\xd5?'
+p404
+tp405
+Rp406
+tp407
+a(S'list of stochastic processes topics'
+p408
+g2
+(g6
+S'2\xff\x86\x9f2\xdc\xd5?'
+p409
+tp410
+Rp411
+tp412
+a(S'mathematical optimization society'
+p413
+g2
+(g6
+S'\xde\x97\xfe^\xee\xc2\xd5?'
+p414
+tp415
+Rp416
+tp417
+a(S'evolutionary algorithm'
+p418
+g2
+(g6
+S'\xd5\x01\x0f}\x8c\xbb\xd5?'
+p419
+tp420
+Rp421
+tp422
+a(S'lajos tak\xc3\xa1cs'
+p423
+g2
+(g6
+S'^\xd6\t\x06\xd9\x9b\xd5?'
+p424
+tp425
+Rp426
+tp427
+a(S'stochastic matrix'
+p428
+g2
+(g6
+S'5\xcfC\xdd\xb2|\xd5?'
+p429
+tp430
+Rp431
+tp432
+a(S'kimeme'
+p433
+g2
+(g6
+S'\xd1R\x1f\x8c2o\xd5?'
+p434
+tp435
+Rp436
+tp437
+a(S'stochastic forensics'
+p438
+g2
+(g6
+S'*[+\xf3\x00c\xd5?'
+p439
+tp440
+Rp441
+tp442
+a(S'stochastic gradient descent'
+p443
+g2
+(g6
+S'\x98\x8d\xa4\xc8\xf8P\xd5?'
+p444
+tp445
+Rp446
+tp447
+a(S'stochastic diffusion search'
+p448
+g2
+(g6
+S'<\x10N\xbd\x9eD\xd5?'
+p449
+tp450
+Rp451
+tp452
+a(S'local search (optimization)'
+p453
+g2
+(g6
+S'\xaf\xdc\x92?\x92=\xd5?'
+p454
+tp455
+Rp456
+tp457
+a(S'random field'
+p458
+g2
+(g6
+S'\xc2\xe1]E\xab1\xd5?'
+p459
+tp460
+Rp461
+tp462
+a(S'meta-optimization'
+p463
+g2
+(g6
+S'\xc9\x1bR\xeb\xf7,\xd5?'
+p464
+tp465
+Rp466
+tp467
+a(S'rastrigin function'
+p468
+g2
+(g6
+S'\xef\xeb\x18\x9a\x1f!\xd5?'
+p469
+tp470
+Rp471
+tp472
+a(S'couenne'
+p473
+g2
+(g6
+S'#\n\xd2\x16S \xd5?'
+p474
+tp475
+Rp476
+tp477
+a(S'stochastic hill climbing'
+p478
+g2
+(g6
+S'\x8e\xebm\xf7\xf2\x19\xd5?'
+p479
+tp480
+Rp481
+tp482
+a(S'capacity optimization'
+p483
+g2
+(g6
+S'\xa9\n\x0c\x15\xad\t\xd5?'
+p484
+tp485
+Rp486
+tp487
+a(S'steve sashihara'
+p488
+g2
+(g6
+S'\x145\x94\x8ef\x08\xd5?'
+p489
+tp490
+Rp491
+tp492
+a(S'probabilistic automaton'
+p493
+g2
+(g6
+S'\xee\x10\xdaJ\xd3\x02\xd5?'
+p494
+tp495
+Rp496
+tp497
+a(S'differential evolution'
+p498
+g2
+(g6
+S'0a\x0b\x05\xae\x01\xd5?'
+p499
+tp500
+Rp501
+tp502
+a(S'enrique alba'
+p503
+g2
+(g6
+S'\xceT\xdb\xd0\xe3\xec\xd4?'
+p504
+tp505
+Rp506
+tp507
+a(S'kaisa miettinen'
+p508
+g2
+(g6
+S'\x19\x95sE\xa8\xe1\xd4?'
+p509
+tp510
+Rp511
+tp512
+a(S'robust optimization'
+p513
+g2
+(g6
+S'\xa3B\x11\x1a^\xcc\xd4?'
+p514
+tp515
+Rp516
+tp517
+a(S'stochastics and dynamics'
+p518
+g2
+(g6
+S'\xeb\xb6\x0f$n\xcb\xd4?'
+p519
+tp520
+Rp521
+tp522
+a(S'spsa'
+p523
+g2
+(g6
+S'9m&\x8f\x1f\xc7\xd4?'
+p524
+tp525
+Rp526
+tp527
+a(S'pattern search (optimization)'
+p528
+g2
+(g6
+S'\x84\xb2\xa8\x8c\n\xc5\xd4?'
+p529
+tp530
+Rp531
+tp532
+a(S'social optimization'
+p533
+g2
+(g6
+S'\xf6c\xf0\xb3\xf7\xbd\xd4?'
+p534
+tp535
+Rp536
+tp537
+a(S'price optimization'
+p538
+g2
+(g6
+S"'\xc8\xa2\xf8\xf7\xb6\xd4?"
+p539
+tp540
+Rp541
+tp542
+a(S'demand optimization'
+p543
+g2
+(g6
+S'\xb2\xc3B`\x98\x9e\xd4?'
+p544
+tp545
+Rp546
+tp547
+a(S'bayesian optimization'
+p548
+g2
+(g6
+S'>\x93\xc9L\xfa\x8c\xd4?'
+p549
+tp550
+Rp551
+tp552
+a(S'dimitris bertsimas'
+p553
+g2
+(g6
+S'}\x80\x9dK]\x8b\xd4?'
+p554
+tp555
+Rp556
+tp557
+a(S'applications of randomness'
+p558
+g2
+(g6
+S'+\xaf;\xd8\xbcz\xd4?'
+p559
+tp560
+Rp561
+tp562
+a(S'random number generation'
+p563
+g2
+(g6
+S'|\xae\x1a4@_\xd4?'
+p564
+tp565
+Rp566
+tp567
+a(S'self-optimization'
+p568
+g2
+(g6
+S'\x9eA|\t)T\xd4?'
+p569
+tp570
+Rp571
+tp572
+a(S'random search'
+p573
+g2
+(g6
+S'\x95\x9f\xb3`.J\xd4?'
+p574
+tp575
+Rp576
+tp577
+a(S'network traffic simulation'
+p578
+g2
+(g6
+S'0ed!\x9c@\xd4?'
+p579
+tp580
+Rp581
+tp582
+a(S'genetic algorithm'
+p583
+g2
+(g6
+S'\xf8\r\xfa!\xc1;\xd4?'
+p584
+tp585
+Rp586
+tp587
+a(S'energy minimization'
+p588
+g2
+(g6
+S'\xed\xf5L;\xed8\xd4?'
+p589
+tp590
+Rp591
+tp592
+a(S'naum z. shor'
+p593
+g2
+(g6
+S'M\x1a5$01\xd4?'
+p594
+tp595
+Rp596
+tp597
+a(S'comet (programming language)'
+p598
+g2
+(g6
+S'\xad,"\x13_\x19\xd4?'
+p599
+tp600
+Rp601
+tp602
+a(S'multi-objective optimization'
+p603
+g2
+(g6
+S'\x87h\xe2\x84\xaf\x18\xd4?'
+p604
+tp605
+Rp606
+tp607
+a(S'enterprise optimization'
+p608
+g2
+(g6
+S'\xe3V\x0f\xfe\xe0\x10\xd4?'
+p609
+tp610
+Rp611
+tp612
+a(S'optimization (role-playing games)'
+p613
+g2
+(g6
+S'x\xbfl\x84\x07\x10\xd4?'
+p614
+tp615
+Rp616
+tp617
+a(S'rosenbrock methods'
+p618
+g2
+(g6
+S'\x9e\x9d:\xef8\xfc\xd3?'
+p619
+tp620
+Rp621
+tp622
+a(S'roberto battiti'
+p623
+g2
+(g6
+S'f\x1c\x16\xa3r\xf6\xd3?'
+p624
+tp625
+Rp626
+tp627
+a(S'entropy rate'
+p628
+g2
+(g6
+S'\xdf&\xecr=\xf1\xd3?'
+p629
+tp630
+Rp631
+tp632
+a(S'mathematics of operations research'
+p633
+g2
+(g6
+S'\xac\xf4i\x82\x92\xe4\xd3?'
+p634
+tp635
+Rp636
+tp637
+a(S'infinite-dimensional optimization'
+p638
+g2
+(g6
+S'=\xb8\xdftZ\xe4\xd3?'
+p639
+tp640
+Rp641
+tp642
+a(S'alexander schrijver'
+p643
+g2
+(g6
+S'v\xa9\x7f\xdd[\xe3\xd3?'
+p644
+tp645
+Rp646
+tp647
+a(S'stochastic frontier analysis'
+p648
+g2
+(g6
+S'~l\xb3\xc7v\xd7\xd3?'
+p649
+tp650
+Rp651
+tp652
+a(S'stochastic partial differential equation'
+p653
+g2
+(g6
+S'+\xb1\x1c"\xe6\xcc\xd3?'
+p654
+tp655
+Rp656
+tp657
+a(S'\xc3\x89tienne pardoux'
+p658
+g2
+(g6
+S'|\x86\x03\x93\\\xcb\xd3?'
+p659
+tp660
+Rp661
+tp662
+a(S'lindo'
+p663
+g2
+(g6
+S'|\xec\xa6\x94H\xc5\xd3?'
+p664
+tp665
+Rp666
+tp667
+a(S'kiyosi it\xc3\xb4'
+p668
+g2
+(g6
+S'U\xf6\xf6\x9d\xaa\xc2\xd3?'
+p669
+tp670
+Rp671
+tp672
+a(S'john von neumann theory prize'
+p673
+g2
+(g6
+S'J\xb1\xd1kR\xa8\xd3?'
+p674
+tp675
+Rp676
+tp677
+a(S'randomness'
+p678
+g2
+(g6
+S"I\x86\x1a'\x12\x9e\xd3?"
+p679
+tp680
+Rp681
+tp682
+a(S'ofer dekel (researcher)'
+p683
+g2
+(g6
+S'\xd7\tY\xf2\x08\x94\xd3?'
+p684
+tp685
+Rp686
+tp687
+a(S'brst algorithm'
+p688
+g2
+(g6
+S'\xeb\x8fe\xc9\x06\x8e\xd3?'
+p689
+tp690
+Rp691
+tp692
+a(S'sampl'
+p693
+g2
+(g6
+S'\x8dI\xea\xc70\x88\xd3?'
+p694
+tp695
+Rp696
+tp697
+a(S"himmelblau's function"
+p698
+g2
+(g6
+S'>\\\xd3\xdb\xaa\x83\xd3?'
+p699
+tp700
+Rp701
+tp702
+a(S'stochastic differential equation'
+p703
+g2
+(g6
+S'\x8d\x02\xbb?\x1f~\xd3?'
+p704
+tp705
+Rp706
+tp707
+a(S'continuous-time stochastic process'
+p708
+g2
+(g6
+S'\xd9\xed\xb2\xed\x9ct\xd3?'
+p709
+tp710
+Rp711
+tp712
+a(S'dynamic creative optimization'
+p713
+g2
+(g6
+S'O\xe3b\x96\xb1o\xd3?'
+p714
+tp715
+Rp716
+tp717
+a(S'discrete optimization'
+p718
+g2
+(g6
+S'\x1f\xeeL\x1e)m\xd3?'
+p719
+tp720
+Rp721
+tp722
+a(S'mark d. mcdonnell'
+p723
+g2
+(g6
+S'-\x08\xea\xcc\x88e\xd3?'
+p724
+tp725
+Rp726
+tp727
+a(S'l\xc3\xa9on bottou'
+p728
+g2
+(g6
+S'A0\xa44\xd6b\xd3?'
+p729
+tp730
+Rp731
+tp732
+a(S'jon lee (mathematician)'
+p733
+g2
+(g6
+S'\xab\xb2\x81\xcfQ`\xd3?'
+p734
+tp735
+Rp736
+tp737
+a(S'optimization problem'
+p738
+g2
+(g6
+S'\xf9e\xd6\xa9\xa0\\\xd3?'
+p739
+tp740
+Rp741
+tp742
+a(S'algebraic modeling language'
+p743
+g2
+(g6
+S'\x19s \x8a\xa6:\xd3?'
+p744
+tp745
+Rp746
+tp747
+a(S'variational monte carlo'
+p748
+g2
+(g6
+S'\x87/u\x1c"\x1e\xd3?'
+p749
+tp750
+Rp751
+tp752
+a(S'stochastic geometry'
+p753
+g2
+(g6
+S'\xea\x0e\xc3\xca\x03\x0e\xd3?'
+p754
+tp755
+Rp756
+tp757
+a(S'arkadi nemirovski'
+p758
+g2
+(g6
+S'\xdd\xa9\xb2\x0ff\xfd\xd2?'
+p759
+tp760
+Rp761
+tp762
+a(S'aimms'
+p763
+g2
+(g6
+S'\x0c\xba\xa2\xef1\xec\xd2?'
+p764
+tp765
+Rp766
+tp767
+a(S'conversion rate optimization'
+p768
+g2
+(g6
+S']:\x80+\xad\xe5\xd2?'
+p769
+tp770
+Rp771
+tp772
+a(S'random element'
+p773
+g2
+(g6
+S'\x89\xf2\xbf\xae\x13\xd4\xd2?'
+p774
+tp775
+Rp776
+tp777
+a(S'parallel metaheuristic'
+p778
+g2
+(g6
+S'iT\xc4\xd0\x91\xca\xd2?'
+p779
+tp780
+Rp781
+tp782
+a(S'tomlab'
+p783
+g2
+(g6
+S'\x89\xe5\xb8\x05\xbb\xbc\xd2?'
+p784
+tp785
+Rp786
+tp787
+a(S'bernt \xc3\x98ksendal'
+p788
+g2
+(g6
+S'\x9b6\x93m\xd1\xb7\xd2?'
+p789
+tp790
+Rp791
+tp792
+a(S'list of numerical analysis topics'
+p793
+g2
+(g6
+S'\x17\xf5)\xe0\x19\xb4\xd2?'
+p794
+tp795
+Rp796
+tp797
+a(S'michael j. d. powell'
+p798
+g2
+(g6
+S'$\x052\x9a\xdd\xa9\xd2?'
+p799
+tp800
+Rp801
+tp802
+a(S'subordinator (mathematics)'
+p803
+g2
+(g6
+S'\xa0-+\xb4\x1f\xa0\xd2?'
+p804
+tp805
+Rp806
+tp807
+a(S'rbo'
+p808
+g2
+(g6
+S'6\xf5K\xe0\xf2\x9d\xd2?'
+p809
+tp810
+Rp811
+tp812
+a(S'scenario optimization'
+p813
+g2
+(g6
+S'"]\x1f\x93I\x90\xd2?'
+p814
+tp815
+Rp816
+tp817
+a(S'stochastic control'
+p818
+g2
+(g6
+S'~D\x8f\xe0\xc6\x8a\xd2?'
+p819
+tp820
+Rp821
+tp822
+a(S'evolutionary computation'
+p823
+g2
+(g6
+S'\x1e\x12\xc55\xd1\x88\xd2?'
+p824
+tp825
+Rp826
+tp827
+a(S'modelcenter'
+p828
+g2
+(g6
+S'}\x15\xb4\xde\x8f{\xd2?'
+p829
+tp830
+Rp831
+tp832
+a(S'location search optimization'
+p833
+g2
+(g6
+S'x\xb8Y\xe4Hw\xd2?'
+p834
+tp835
+Rp836
+tp837
+a(S'cox process'
+p838
+g2
+(g6
+S'\xb9\x88\x8705q\xd2?'
+p839
+tp840
+Rp841
+tp842
+a(S'newuoa'
+p843
+g2
+(g6
+S'\xf7\x0e\xd0\x17\xdbN\xd2?'
+p844
+tp845
+Rp846
+tp847
+a(S'conic optimization'
+p848
+g2
+(g6
+S'\x02\xd1\x1b\x8aMF\xd2?'
+p849
+tp850
+Rp851
+tp852
+a(S'simulated annealing'
+p853
+g2
+(g6
+S'\x02\x11\xcd\xb2\xa0C\xd2?'
+p854
+tp855
+Rp856
+tp857
+a(S'process optimization'
+p858
+g2
+(g6
+S'\x0bD\x04ED?\xd2?'
+p859
+tp860
+Rp861
+tp862
+a(S'red cedar technology'
+p863
+g2
+(g6
+S'\x82ggQ\x17/\xd2?'
+p864
+tp865
+Rp866
+tp867
+a(S'harold j. kushner'
+p868
+g2
+(g6
+S'^\x83!\x81\xc0&\xd2?'
+p869
+tp870
+Rp871
+tp872
+a(S'random variate'
+p873
+g2
+(g6
+S'\xb3\xda\xdc\xe5\x0c\x1e\xd2?'
+p874
+tp875
+Rp876
+tp877
+a(S'stochastic game'
+p878
+g2
+(g6
+S'\n\x9c\x1c\xfd\x06\x15\xd2?'
+p879
+tp880
+Rp881
+tp882
+a(S'ant colony optimization algorithms'
+p883
+g2
+(g6
+S'\x80e\x1b#Y\x11\xd2?'
+p884
+tp885
+Rp886
+tp887
+a(S'guess value'
+p888
+g2
+(g6
+S'<\tc\xc0s\xf0\xd1?'
+p889
+tp890
+Rp891
+tp892
+a(S'indexed search'
+p893
+g2
+(g6
+S'\xfe\xad\x1e\xa5\n\xed\xd1?'
+p894
+tp895
+Rp896
+tp897
+a(S'adaptive dimensional search'
+p898
+g2
+(g6
+S'\xd2\xe8\xb4\x1de\xea\xd1?'
+p899
+tp900
+Rp901
+tp902
+a(S'jmodelica.org'
+p903
+g2
+(g6
+S'\x89\xd4"qj\xe0\xd1?'
+p904
+tp905
+Rp906
+tp907
+a(S'search algorithm'
+p908
+g2
+(g6
+S'p\x8f\xf5s"\xde\xd1?'
+p909
+tp910
+Rp911
+tp912
+a(S'j. michael harrison'
+p913
+g2
+(g6
+S'\x8f9\x94\x98\xa2\xdb\xd1?'
+p914
+tp915
+Rp916
+tp917
+a(S'skorokhod problem'
+p918
+g2
+(g6
+S'\xdc\xb9\xac\xa6\x9a\xce\xd1?'
+p919
+tp920
+Rp921
+tp922
+a(S'immanuel bomze'
+p923
+g2
+(g6
+S'\x81Ji\xe1\x16\xcd\xd1?'
+p924
+tp925
+Rp926
+tp927
+a(S'stochastic oscillator'
+p928
+g2
+(g6
+S'\x81{_f%\xca\xd1?'
+p929
+tp930
+Rp931
+tp932
+a(S'runge\xe2\x80\x93kutta method (sde)'
+p933
+g2
+(g6
+S'\x1eU\xc5HS\xc4\xd1?'
+p934
+tp935
+Rp936
+tp937
+a(S'k. david elworthy'
+p938
+g2
+(g6
+S'\x7fF\xa70c\xaf\xd1?'
+p939
+tp940
+Rp941
+tp942
+a(S'search engine optimization, inc.'
+p943
+g2
+(g6
+S'\xbd\xe2\xbc\xf2\r\xae\xd1?'
+p944
+tp945
+Rp946
+tp947
+a(S'semi-infinite programming'
+p948
+g2
+(g6
+S'\xedr\xcdt#\xaa\xd1?'
+p949
+tp950
+Rp951
+tp952
+a(S'signomial'
+p953
+g2
+(g6
+S'V\xfdi{\xd8\xa6\xd1?'
+p954
+tp955
+Rp956
+tp957
+a(S'list of metaphor-based metaheuristics'
+p958
+g2
+(g6
+S'\x94T[\xa7\xe8\x95\xd1?'
+p959
+tp960
+Rp961
+tp962
+a(S'random (disambiguation)'
+p963
+g2
+(g6
+S'\x17\xa0\xec\x19-y\xd1?'
+p964
+tp965
+Rp966
+tp967
+a(S'stochastic quantization'
+p968
+g2
+(g6
+S'\x1e\xdc6\xd6Lv\xd1?'
+p969
+tp970
+Rp971
+tp972
+a(S'european institute for statistics, probability, stochastic operations research and its applications'
+p973
+g2
+(g6
+S'\x1c\x95%P\x16t\xd1?'
+p974
+tp975
+Rp976
+tp977
+a(S'portfolio optimization'
+p978
+g2
+(g6
+S'h\xbd\x07\x81\xcef\xd1?'
+p979
+tp980
+Rp981
+tp982
+a(S'euler\xe2\x80\x93maruyama method'
+p983
+g2
+(g6
+S'(q0\xc83Z\xd1?'
+p984
+tp985
+Rp986
+tp987
+a(S'humant (humanoid ant) algorithm'
+p988
+g2
+(g6
+S'\xae\xd1\x00R\xd2V\xd1?'
+p989
+tp990
+Rp991
+tp992
+a(S'stratonovich integral'
+p993
+g2
+(g6
+S'8\xb9f:OR\xd1?'
+p994
+tp995
+Rp996
+tp997
+a(S'venkat chandrasekaran'
+p998
+g2
+(g6
+S'\x88\x9b|\x03a=\xd1?'
+p999
+tp1000
+Rp1001
+tp1002
+a(S'extended mathematical programming (emp)'
+p1003
+g2
+(g6
+S'\x859\x16\x84F/\xd1?'
+p1004
+tp1005
+Rp1006
+tp1007
+a(S'pyomo'
+p1008
+g2
+(g6
+S'\x12|\x1d\tD*\xd1?'
+p1009
+tp1010
+Rp1011
+tp1012
+a(S'doubly stochastic matrix'
+p1013
+g2
+(g6
+S'\xbb\x02\xac\xd0@!\xd1?'
+p1014
+tp1015
+Rp1016
+tp1017
+a(S'nigel g. stocks'
+p1018
+g2
+(g6
+S'\x85m\x18\x80\xcc \xd1?'
+p1019
+tp1020
+Rp1021
+tp1022
+a(S'searchmetrics'
+p1023
+g2
+(g6
+S'\xbcRfI\xbf\x1c\xd1?'
+p1024
+tp1025
+Rp1026
+tp1027
+a(S'random walk'
+p1028
+g2
+(g6
+S'\xf9\xfbc\x07\xef\x13\xd1?'
+p1029
+tp1030
+Rp1031
+tp1032
+a(S'g\xc3\xa9rard cornu\xc3\xa9jols'
+p1033
+g2
+(g6
+S'\xe5\xe7.\xc2\xd8\x13\xd1?'
+p1034
+tp1035
+Rp1036
+tp1037
+a(S'quantum optimization algorithms'
+p1038
+g2
+(g6
+S'z\xb3l*\x97\x0c\xd1?'
+p1039
+tp1040
+Rp1041
+tp1042
+a(S'onsager\xe2\x80\x93machlup function'
+p1043
+g2
+(g6
+S'k\xb9\xabaH\x06\xd1?'
+p1044
+tp1045
+Rp1046
+tp1047
+a(S'variable neighborhood search'
+p1048
+g2
+(g6
+S'\xbc\xd6\xfd\xfa\x0c\x03\xd1?'
+p1049
+tp1050
+Rp1051
+tp1052
+a(S'boris rozovsky'
+p1053
+g2
+(g6
+S'/x\xe7\xe8\xbf\xf2\xd0?'
+p1054
+tp1055
+Rp1056
+tp1057
+a(S'profile-guided optimization'
+p1058
+g2
+(g6
+S'\xa2 :\xddu\xe5\xd0?'
+p1059
+tp1060
+Rp1061
+tp1062
+a(S'monte carlo method'
+p1063
+g2
+(g6
+S'\x00\xba)\xdc\xc1\xdc\xd0?'
+p1064
+tp1065
+Rp1066
+tp1067
+a(S'3-opt'
+p1068
+g2
+(g6
+S'\x82\x19x\x02\x92\xd9\xd0?'
+p1069
+tp1070
+Rp1071
+tp1072
+a(S'stochastic equicontinuity'
+p1073
+g2
+(g6
+S'C*_\x90:\xd8\xd0?'
+p1074
+tp1075
+Rp1076
+tp1077
+a(S'random sequence'
+p1078
+g2
+(g6
+S'\x7f\xe9@&\xee\xc8\xd0?'
+p1079
+tp1080
+Rp1081
+tp1082
+a(S'design for additive manufacturing'
+p1083
+g2
+(g6
+S'\xfe\x9b\xd5\xda\x89\xbf\xd0?'
+p1084
+tp1085
+Rp1086
+tp1087
+a(S'ambit field'
+p1088
+g2
+(g6
+S'.}\xed_\x11\xbb\xd0?'
+p1089
+tp1090
+Rp1091
+tp1092
+a(S'malliavin calculus'
+p1093
+g2
+(g6
+S'B\x1b\xe1\x98\x08\xb7\xd0?'
+p1094
+tp1095
+Rp1096
+tp1097
+a(S'george adomian'
+p1098
+g2
+(g6
+S':k\xd0\xfa\xa8\xb6\xd0?'
+p1099
+tp1100
+Rp1101
+tp1102
+a(S'line search'
+p1103
+g2
+(g6
+S'\n\xc3\xc78\x8f\xb5\xd0?'
+p1104
+tp1105
+Rp1106
+tp1107
+a(S'no free lunch in search and optimization'
+p1108
+g2
+(g6
+S'\xffy\x9c\xb6:\xb5\xd0?'
+p1109
+tp1110
+Rp1111
+tp1112
+a(S'finite element updating'
+p1113
+g2
+(g6
+S'\xe7\x14}\x1d\x8c\xb4\xd0?'
+p1114
+tp1115
+Rp1116
+tp1117
+a(S'truncated newton method'
+p1118
+g2
+(g6
+S'\xcfc~\xaec\xaf\xd0?'
+p1119
+tp1120
+Rp1121
+tp1122
+a(S'jan h. van schuppen'
+p1123
+g2
+(g6
+S'\x80G\xa3\xf3\xf5\xab\xd0?'
+p1124
+tp1125
+Rp1126
+tp1127
+a(S'quantum stochastic calculus'
+p1128
+g2
+(g6
+S'\x18\xbd\xca\x14\x97\xa9\xd0?'
+p1129
+tp1130
+Rp1131
+tp1132
+a(S'luca maria gambardella'
+p1133
+g2
+(g6
+S'\xdb\x81\x0e\x94\xd8\xa4\xd0?'
+p1134
+tp1135
+Rp1136
+tp1137
+a(S'belavkin equation'
+p1138
+g2
+(g6
+S'\xbc7&S\xe7\xa2\xd0?'
+p1139
+tp1140
+Rp1141
+tp1142
+a(S'random variable'
+p1143
+g2
+(g6
+S'P%_\xb5\xd5\xa0\xd0?'
+p1144
+tp1145
+Rp1146
+tp1147
+a(S'it\xc3\xb4 calculus'
+p1148
+g2
+(g6
+S'}G\xac+\x13\x90\xd0?'
+p1149
+tp1150
+Rp1151
+tp1152
+a(S'inventory optimization'
+p1153
+g2
+(g6
+S'\xdf\x81\x84\x82=\x8d\xd0?'
+p1154
+tp1155
+Rp1156
+tp1157
+a(S'stochastic resonance (sensory neurobiology)'
+p1158
+g2
+(g6
+S' a\xea\x97\xc6~\xd0?'
+p1159
+tp1160
+Rp1161
+tp1162
+a(S'random tree'
+p1163
+g2
+(g6
+S'\x9a\x120Us}\xd0?'
+p1164
+tp1165
+Rp1166
+tp1167
+a(S'george nemhauser'
+p1168
+g2
+(g6
+S"(E'\xe3L{\xd0?"
+p1169
+tp1170
+Rp1171
+tp1172
+a(S'space mapping'
+p1173
+g2
+(g6
+S'c\xcf\xa0\xf6\xf1y\xd0?'
+p1174
+tp1175
+Rp1176
+tp1177
+a(S'online machine learning'
+p1178
+g2
+(g6
+S'\xf8\xeb[\xe0\xc6y\xd0?'
+p1179
+tp1180
+Rp1181
+tp1182
+a(S'website overseer'
+p1183
+g2
+(g6
+S'r\xd1F\xb4\x9cp\xd0?'
+p1184
+tp1185
+Rp1186
+tp1187
+a(S'highly optimized tolerance'
+p1188
+g2
+(g6
+S'\x98\x97\xa73\xf2o\xd0?'
+p1189
+tp1190
+Rp1191
+tp1192
+a(S'cobyla'
+p1193
+g2
+(g6
+S'p\xfb>\xfa%o\xd0?'
+p1194
+tp1195
+Rp1196
+tp1197
+a(S'process flowsheeting'
+p1198
+g2
+(g6
+S'\x0c\xed&\x0e{k\xd0?'
+p1199
+tp1200
+Rp1201
+tp1202
+a(S'statistical randomness'
+p1203
+g2
+(g6
+S'\xc6R\x9a\xab\x17k\xd0?'
+p1204
+tp1205
+Rp1206
+tp1207
+a(S'hans-paul schwefel'
+p1208
+g2
+(g6
+S'\xc1\xf7\xe1d\xd1\\\xd0?'
+p1209
+tp1210
+Rp1211
+tp1212
+a(S'polynomial chaos'
+p1213
+g2
+(g6
+S'\xd8\xcf\xf9\xde<\\\xd0?'
+p1214
+tp1215
+Rp1216
+tp1217
+a(S'logic optimization'
+p1218
+g2
+(g6
+S't\xc9;\xe9\x05\\\xd0?'
+p1219
+tp1220
+Rp1221
+tp1222
+a(S'supply chain optimization'
+p1223
+g2
+(g6
+S'LfLW\xafT\xd0?'
+p1224
+tp1225
+Rp1226
+tp1227
+a(S'first-hitting-time model'
+p1228
+g2
+(g6
+S'\xfc\xa1\x9c8CL\xd0?'
+p1229
+tp1230
+Rp1231
+tp1232
+a(S'optiy'
+p1233
+g2
+(g6
+S'\x1f:&\x8c\x86=\xd0?'
+p1234
+tp1235
+Rp1236
+tp1237
+a(S'branching random walk'
+p1238
+g2
+(g6
+S'\xc6\x8a\xe86\xa15\xd0?'
+p1239
+tp1240
+Rp1241
+tp1242
+a(S'hardware random number generator'
+p1243
+g2
+(g6
+S'\x9d\xb1\xaew\xeb\x1d\xd0?'
+p1244
+tp1245
+Rp1246
+tp1247
+a(S'telegraph process'
+p1248
+g2
+(g6
+S'\xc1N\x03_\x82\x19\xd0?'
+p1249
+tp1250
+Rp1251
+tp1252
+a(S'service chain optimization'
+p1253
+g2
+(g6
+S'\x9dJ:\xef\x0f\x19\xd0?'
+p1254
+tp1255
+Rp1256
+tp1257
+a(S'nonlinear programming'
+p1258
+g2
+(g6
+S'1\xac\x19\xe7\xfb\x18\xd0?'
+p1259
+tp1260
+Rp1261
+tp1262
+a(S'law (stochastic processes)'
+p1263
+g2
+(g6
+S'\xa8\x06\x14\x95V\x11\xd0?'
+p1264
+tp1265
+Rp1266
+tp1267
+a(S'ji-feng zhang'
+p1268
+g2
+(g6
+S'\xed\x8e3\xa7\xe8\x0f\xd0?'
+p1269
+tp1270
+Rp1271
+tp1272
+a(S'stochastic prediction procedure'
+p1273
+g2
+(g6
+S'le\xaer6\x05\xd0?'
+p1274
+tp1275
+Rp1276
+tp1277
+a(S'pseudo-random number sampling'
+p1278
+g2
+(g6
+S'\xa8\xd0\x10\x19G\xf6\xcf?'
+p1279
+tp1280
+Rp1281
+tp1282
+a(S'imperialist competitive algorithm'
+p1283
+g2
+(g6
+S'\x99X\xb15\xa7\xf1\xcf?'
+p1284
+tp1285
+Rp1286
+tp1287
+a(S'steven e. shreve'
+p1288
+g2
+(g6
+S'\xfa\xaa\x8e\xbe\x97\xed\xcf?'
+p1289
+tp1290
+Rp1291
+tp1292
+a(S'stochastic petri net'
+p1293
+g2
+(g6
+S'\\897\xd0\xdf\xcf?'
+p1294
+tp1295
+Rp1296
+tp1297
+a(S'howard harry rosenbrock'
+p1298
+g2
+(g6
+S'\xf6\x08&Q\xd0\xd6\xcf?'
+p1299
+tp1300
+Rp1301
+tp1302
+a(S'utku k\xc3\xb6se'
+p1303
+g2
+(g6
+S'\x07h\xd7\x1eA\xd3\xcf?'
+p1304
+tp1305
+Rp1306
+tp1307
+a(S'proximal gradient method'
+p1308
+g2
+(g6
+S'\x0f\xbd\xc2w\x16\xc5\xcf?'
+p1309
+tp1310
+Rp1311
+tp1312
+a(S'luca gammaitoni'
+p1313
+g2
+(g6
+S'\xec\xcb\xeck%\xc4\xcf?'
+p1314
+tp1315
+Rp1316
+tp1317
+a(S'moshe shaked'
+p1318
+g2
+(g6
+S'^N\x94\x0b\x8f\xbf\xcf?'
+p1319
+tp1320
+Rp1321
+tp1322
+a(S'quadratic programming'
+p1323
+g2
+(g6
+S'3\x90E*\xbe\x9f\xcf?'
+p1324
+tp1325
+Rp1326
+tp1327
+a(S'daniel ocone'
+p1328
+g2
+(g6
+S'\x85h\xc6{\x01\x92\xcf?'
+p1329
+tp1330
+Rp1331
+tp1332
+a(S'parametric programming'
+p1333
+g2
+(g6
+S'YY\xfd$\xd0\x8f\xcf?'
+p1334
+tp1335
+Rp1336
+tp1337
+a(S'sangfor technologies'
+p1338
+g2
+(g6
+S'(\xa2[?\xa2\x89\xcf?'
+p1339
+tp1340
+Rp1341
+tp1342
+a(S'penalty method'
+p1343
+g2
+(g6
+S'G\x84\xd7R?\x84\xcf?'
+p1344
+tp1345
+Rp1346
+tp1347
+a(S'correlation gap'
+p1348
+g2
+(g6
+S'\x03\x0f2\x1eL\x83\xcf?'
+p1349
+tp1350
+Rp1351
+tp1352
+a(S'transition function'
+p1353
+g2
+(g6
+S'\xc6\xe1Vv~\x7f\xcf?'
+p1354
+tp1355
+Rp1356
+tp1357
+a(S'computationally bounded adversary'
+p1358
+g2
+(g6
+S'Xd/\xebmz\xcf?'
+p1359
+tp1360
+Rp1361
+tp1362
+a(S'robert j. elliott'
+p1363
+g2
+(g6
+S'\x99\xe1\xaa7\xdbr\xcf?'
+p1364
+tp1365
+Rp1366
+tp1367
+a(S'transyt-7f'
+p1368
+g2
+(g6
+S'\x917\xd4g\x17r\xcf?'
+p1369
+tp1370
+Rp1371
+tp1372
+a(S'iterated local search'
+p1373
+g2
+(g6
+S'\xbe\xe9Bd\xccc\xcf?'
+p1374
+tp1375
+Rp1376
+tp1377
+a(S'invex function'
+p1378
+g2
+(g6
+S'\xe5\x0f>\xef\x16`\xcf?'
+p1379
+tp1380
+Rp1381
+tp1382
+a(S'peter e. caines'
+p1383
+g2
+(g6
+S'9\xd2\x18\xe2k8\xcf?'
+p1384
+tp1385
+Rp1386
+tp1387
+a(S'workforce optimization'
+p1388
+g2
+(g6
+S'\xed\xb2)r^0\xcf?'
+p1389
+tp1390
+Rp1391
+tp1392
+a(S'random structure function'
+p1393
+g2
+(g6
+S'\x9cA\x14p\x1e&\xcf?'
+p1394
+tp1395
+Rp1396
+tp1397
+a(S'stochastic volatility'
+p1398
+g2
+(g6
+S'\x15(\xdd\xb2Z \xcf?'
+p1399
+tp1400
+Rp1401
+tp1402
+a(S'memetic algorithm'
+p1403
+g2
+(g6
+S'\xb6\xa4\xf7w\x8a\x1d\xcf?'
+p1404
+tp1405
+Rp1406
+tp1407
+a(S'copy elision'
+p1408
+g2
+(g6
+S'BI\x07~}\x1a\xcf?'
+p1409
+tp1410
+Rp1411
+tp1412
+a(S'packeteer'
+p1413
+g2
+(g6
+S']\x8f\x846\r\x0b\xcf?'
+p1414
+tp1415
+Rp1416
+tp1417
+a(S'passer program suite'
+p1418
+g2
+(g6
+S'\x11^B\xb7n\n\xcf?'
+p1419
+tp1420
+Rp1421
+tp1422
+a(S'quality control and genetic algorithms'
+p1423
+g2
+(g6
+S'\x80\xbb\xb5L\x11\n\xcf?'
+p1424
+tp1425
+Rp1426
+tp1427
+a(S'european chapter on combinatorial optimization'
+p1428
+g2
+(g6
+S'\xcc(@ip\xfa\xce?'
+p1429
+tp1430
+Rp1431
+tp1432
+a(S'predictable process'
+p1433
+g2
+(g6
+S'HEdx\xab\xe9\xce?'
+p1434
+tp1435
+Rp1436
+tp1437
+a(S'stochastic tunneling'
+p1438
+g2
+(g6
+S'L\xd1\x15f/\xe3\xce?'
+p1439
+tp1440
+Rp1441
+tp1442
+a(S'v\xc3\xa1clav e. bene\xc5\xa1'
+p1443
+g2
+(g6
+S'\x0cS\xfc\x8c]\xd8\xce?'
+p1444
+tp1445
+Rp1446
+tp1447
+a(S'structural and multidisciplinary optimization'
+p1448
+g2
+(g6
+S'O\xe2\x83M\xa2\xd3\xce?'
+p1449
+tp1450
+Rp1451
+tp1452
+a(S'deterministic simulation'
+p1453
+g2
+(g6
+S'\xf5\xfe\x94m\xba\xcd\xce?'
+p1454
+tp1455
+Rp1456
+tp1457
+a(S"it\xc3\xb4's lemma"
+p1458
+g2
+(g6
+S'\xae\x9b:\xe1I\xc1\xce?'
+p1459
+tp1460
+Rp1461
+tp1462
+a(S'sample-continuous process'
+p1463
+g2
+(g6
+S'\xf2\xb8\xa9\x9c4\xac\xce?'
+p1464
+tp1465
+Rp1466
+tp1467
+a(S'fitness approximation'
+p1468
+g2
+(g6
+S'\x8f\x1e\x8c\x89y\xab\xce?'
+p1469
+tp1470
+Rp1471
+tp1472
+a(S'alopex'
+p1473
+g2
+(g6
+S'\x0b\xab3d\xc3\xa9\xce?'
+p1474
+tp1475
+Rp1476
+tp1477
+a(S'swarm intelligence'
+p1478
+g2
+(g6
+S'3\x12\xadS\xc2\x9d\xce?'
+p1479
+tp1480
+Rp1481
+tp1482
+a(S'stochastic processes and their applications'
+p1483
+g2
+(g6
+S'\xd0p\xb0{\x8b\x9a\xce?'
+p1484
+tp1485
+Rp1486
+tp1487
+a(S'fred w. glover'
+p1488
+g2
+(g6
+S'a\x06m\xecx\x87\xce?'
+p1489
+tp1490
+Rp1491
+tp1492
+a(S'kriging'
+p1493
+g2
+(g6
+S'\x9e\x192\xcb\xecn\xce?'
+p1494
+tp1495
+Rp1496
+tp1497
+a(S'peter h\xc3\xa4nggi'
+p1498
+g2
+(g6
+S'\xa3B-\x08Sn\xce?'
+p1499
+tp1500
+Rp1501
+tp1502
+a(S'random dynamical system'
+p1503
+g2
+(g6
+S'\xd2\xda<|tA\xce?'
+p1504
+tp1505
+Rp1506
+tp1507
+a(S'outstanding claims reserves'
+p1508
+g2
+(g6
+S'\xc4{&\xdb\x17-\xce?'
+p1509
+tp1510
+Rp1511
+tp1512
+a.

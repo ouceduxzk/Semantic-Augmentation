@@ -1,0 +1,2728 @@
+(lp0
+(S'informatics'
+p1
+cnumpy.core.multiarray
+scalar
+p2
+(cnumpy
+dtype
+p3
+(S'f8'
+p4
+I0
+I1
+tp5
+Rp6
+(I3
+S'<'
+p7
+NNNI-1
+I-1
+I0
+tp8
+bS'\xfe\xff\xff\xff\xff\xff\xef?'
+p9
+tp10
+Rp11
+tp12
+a(S'informatics (disambiguation)'
+p13
+g2
+(g6
+S'\xe2\x86SA\xcb\x13\xec?'
+p14
+tp15
+Rp16
+tp17
+a(S'informatics philippines'
+p18
+g2
+(g6
+S'\xe6FQ\xc2\x8c\x11\xea?'
+p19
+tp20
+Rp21
+tp22
+a(S'informatics europe'
+p23
+g2
+(g6
+S'O,G\x97\xf8\xd8\xe9?'
+p24
+tp25
+Rp26
+tp27
+a(S'museum informatics'
+p28
+g2
+(g6
+S'cH\x1c/\xd3\x04\xe9?'
+p29
+tp30
+Rp31
+tp32
+a(S'international medical informatics association'
+p33
+g2
+(g6
+S'\x0e\xf0\x0fH\x84\xa4\xe8?'
+p34
+tp35
+Rp36
+tp37
+a(S'education informatics'
+p38
+g2
+(g6
+S'l\x9aM3x\xa0\xe8?'
+p39
+tp40
+Rp41
+tp42
+a(S'european federation for medical informatics'
+p43
+g2
+(g6
+S'\x94`\tg\x80\x8d\xe8?'
+p44
+tp45
+Rp46
+tp47
+a(S'american medical informatics association'
+p48
+g2
+(g6
+S'\xb4\xb8\xd0\x85\xe5o\xe8?'
+p49
+tp50
+Rp51
+tp52
+a(S'social informatics'
+p53
+g2
+(g6
+S'9\x1f\xf9V\xd1>\xe8?'
+p54
+tp55
+Rp56
+tp57
+a(S'health informatics'
+p58
+g2
+(g6
+S'\xcf\xc2\x9c"\x11\xa2\xe7?'
+p59
+tp60
+Rp61
+tp62
+a(S'archives and museum informatics'
+p63
+g2
+(g6
+S'~T\rl{v\xe7?'
+p64
+tp65
+Rp66
+tp67
+a(S'australasian college of health informatics'
+p68
+g2
+(g6
+S'J\xe4 d.\xdc\xe6?'
+p69
+tp70
+Rp71
+tp72
+a(S'michael gurstein'
+p73
+g2
+(g6
+S'\xe3\xed\xfb\\\xed\xa0\xe6?'
+p74
+tp75
+Rp76
+tp77
+a(S'master of science in health informatics'
+p78
+g2
+(g6
+S'k\x7fN\xde\xedm\xe6?'
+p79
+tp80
+Rp81
+tp82
+a(S'consumer health informatics'
+p83
+g2
+(g6
+S'u\x9e\xe8@\x94\x06\xe6?'
+p84
+tp85
+Rp86
+tp87
+a(S'music informatics'
+p88
+g2
+(g6
+S'\x18o\xd9\xa7\x97\xae\xe5?'
+p89
+tp90
+Rp91
+tp92
+a(S'irrigation informatics'
+p93
+g2
+(g6
+S'\xf0\xcb\xec\x9c\x0e\x8b\xe5?'
+p94
+tp95
+Rp96
+tp97
+a(S'indiana university school of informatics'
+p98
+g2
+(g6
+S'\xa4rz\xe3Q\x80\xe5?'
+p99
+tp100
+Rp101
+tp102
+a(S'environmental informatics'
+p103
+g2
+(g6
+S'\xa3\x89\xcb\x18\x8e"\xe5?'
+p104
+tp105
+Rp106
+tp107
+a(S'heimar de f\xc3\xa1tima marin'
+p108
+g2
+(g6
+S'\x0cn\x0c\xfcu\xe8\xe4?'
+p109
+tp110
+Rp111
+tp112
+a(S'engineering informatics'
+p113
+g2
+(g6
+S'@\xa7\x01WN\xe4\xe4?'
+p114
+tp115
+Rp116
+tp117
+a(S'informatics.nic.in'
+p118
+g2
+(g6
+S'5\xc6J\x0c\x89\xd8\xe4?'
+p119
+tp120
+Rp121
+tp122
+a(S'health informatics society of australia'
+p123
+g2
+(g6
+S'|k\xb5\xeb\xe5\xd4\xe4?'
+p124
+tp125
+Rp126
+tp127
+a(S'hong kong society of medical informatics'
+p128
+g2
+(g6
+S'[\xb7\xf6]\x1b\xcc\xe4?'
+p129
+tp130
+Rp131
+tp132
+a(S'technical informatics'
+p133
+g2
+(g6
+S'X\xa6\x11h{\xca\xe4?'
+p134
+tp135
+Rp136
+tp137
+a(S'umberto tachinardi'
+p138
+g2
+(g6
+S"\xcd\xfd\xa1x'\xc1\xe4?"
+p139
+tp140
+Rp141
+tp142
+a(S'list of medical and health informatics journals'
+p143
+g2
+(g6
+S'\tx=D\xf7y\xe4?'
+p144
+tp145
+Rp146
+tp147
+a(S'australian health informatics education council'
+p148
+g2
+(g6
+S'H\xcbK\x10\x9fy\xe4?'
+p149
+tp150
+Rp151
+tp152
+a(S'business informatics'
+p153
+g2
+(g6
+S'M\x7fQ\xa7\xc0X\xe4?'
+p154
+tp155
+Rp156
+tp157
+a(S'kyoto university school of informatics'
+p158
+g2
+(g6
+S'\xc6\xd5=*\xd9Q\xe4?'
+p159
+tp160
+Rp161
+tp162
+a(S'national olympiad in informatics'
+p163
+g2
+(g6
+S'\x95\x92\x13\x83\x82O\xe4?'
+p164
+tp165
+Rp166
+tp167
+a(S'brazilian society of health informatics'
+p168
+g2
+(g6
+S'\x9f\xb6a\xef>(\xe4?'
+p169
+tp170
+Rp171
+tp172
+a(S'american association for medical systems and informatics'
+p173
+g2
+(g6
+S"\xc6'\xab\x7f\x88\x1f\xe4?"
+p174
+tp175
+Rp176
+tp177
+a(S'disaster informatics'
+p178
+g2
+(g6
+S'\x1bh\xb5;\xac\xba\xe3?'
+p179
+tp180
+Rp181
+tp182
+a(S'imaging informatics'
+p183
+g2
+(g6
+S'\x12\xde\xf2O\x93\x9c\xe3?'
+p184
+tp185
+Rp186
+tp187
+a(S'urban informatics'
+p188
+g2
+(g6
+S'\xf0\x864)\xb5\x8d\xe3?'
+p189
+tp190
+Rp191
+tp192
+a(S'evolutionary informatics'
+p193
+g2
+(g6
+S'\xac\xcb\xb7X:\x81\xe3?'
+p194
+tp195
+Rp196
+tp197
+a(S'edward h. shortliffe'
+p198
+g2
+(g6
+S'\x1d\x9c\xb4\xbe(j\xe3?'
+p199
+tp200
+Rp201
+tp202
+a(S'university of michigan school of information'
+p203
+g2
+(g6
+S'\xc0\xbe\xdc(\xb8f\xe3?'
+p204
+tp205
+Rp206
+tp207
+a(S'journal of the american medical informatics association'
+p208
+g2
+(g6
+S'\xe0\x99\xa1\xe5\xa5C\xe3?'
+p209
+tp210
+Rp211
+tp212
+a(S'archival informatics'
+p213
+g2
+(g6
+S'\x0e\x8ago $\xe3?'
+p214
+tp215
+Rp216
+tp217
+a(S'helmuth orthner'
+p218
+g2
+(g6
+S'\xc2\xa3\x1b\x98\xe3\xc7\xe2?'
+p219
+tp220
+Rp221
+tp222
+a(S'christopher g. chute'
+p223
+g2
+(g6
+S'?<\x88\x92$\xbf\xe2?'
+p224
+tp225
+Rp226
+tp227
+a(S'development informatics'
+p228
+g2
+(g6
+S'\xd1h\xfa\xab\xe8\xb2\xe2?'
+p229
+tp230
+Rp231
+tp232
+a(S'health administration informatics'
+p233
+g2
+(g6
+S')lO\xae"\xb0\xe2?'
+p234
+tp235
+Rp236
+tp237
+a(S'iso/tc 215'
+p238
+g2
+(g6
+S'S#\xe5\xd4\xe2\x8b\xe2?'
+p239
+tp240
+Rp241
+tp242
+a(S'computational informatics'
+p243
+g2
+(g6
+S'P\x148,\xf8}\xe2?'
+p244
+tp245
+Rp246
+tp247
+a(S'department of biomedical informatics at arizona state university'
+p248
+g2
+(g6
+S'$(\xa0\x13\xbeq\xe2?'
+p249
+tp250
+Rp251
+tp252
+a(S'per arne godejord'
+p253
+g2
+(g6
+S'#\x17\x8c%\xd9l\xe2?'
+p254
+tp255
+Rp256
+tp257
+a(S'informatics forum'
+p258
+g2
+(g6
+S'@*4\x0c\xe7U\xe2?'
+p259
+tp260
+Rp261
+tp262
+a(S'community informatics'
+p263
+g2
+(g6
+S'\xf8\xde\xf8\x12\xb2 \xe2?'
+p264
+tp265
+Rp266
+tp267
+a(S'indian association for medical informatics'
+p268
+g2
+(g6
+S'N\x87UP\xd6\x1e\xe2?'
+p269
+tp270
+Rp271
+tp272
+a(S'methods of information in medicine'
+p273
+g2
+(g6
+S'I\x03\xae\xdfT\xc7\xe1?'
+p274
+tp275
+Rp276
+tp277
+a(S'medinfo'
+p278
+g2
+(g6
+S'\xc1\x84\xbe\x8d\xdb\xc5\xe1?'
+p279
+tp280
+Rp281
+tp282
+a(S'population informatics'
+p283
+g2
+(g6
+S't\xec\x1cHB\xb4\xe1?'
+p284
+tp285
+Rp286
+tp287
+a(S'hsinchun chen'
+p288
+g2
+(g6
+S'\x16\xc7\xe8\x87\x9e\xa3\xe1?'
+p289
+tp290
+Rp291
+tp292
+a(S'faculty of informatics and information technologies'
+p293
+g2
+(g6
+S'l\xf6v\xce\x8f\x99\xe1?'
+p294
+tp295
+Rp296
+tp297
+a(S'master of business informatics'
+p298
+g2
+(g6
+S'\x8a\x94\xab\x15~m\xe1?'
+p299
+tp300
+Rp301
+tp302
+a(S'gesellschaft f\xc3\xbcr informatik'
+p303
+g2
+(g6
+S'M\x8d\xb0\xe0\xc7h\xe1?'
+p304
+tp305
+Rp306
+tp307
+a(S'commission on accreditation for health informatics and information management education'
+p308
+g2
+(g6
+S'}\xcd\xe4/uC\xe1?'
+p309
+tp310
+Rp311
+tp312
+a(S'pharmacoinformatics'
+p313
+g2
+(g6
+S'V&\x0f;\xdeA\xe1?'
+p314
+tp315
+Rp316
+tp317
+a(S'directorate-general for informatics'
+p318
+g2
+(g6
+S'i\xee\xc8\xae\xdd\t\xe1?'
+p319
+tp320
+Rp321
+tp322
+a(S'university of edinburgh school of informatics'
+p323
+g2
+(g6
+S'\x12P\xa5\x8f;\x02\xe1?'
+p324
+tp325
+Rp326
+tp327
+a(S'archives & museum informatics'
+p328
+g2
+(g6
+S'\xcf\x19]\xe8;\xff\xe0?'
+p329
+tp330
+Rp331
+tp332
+a(S'informatics engineering'
+p333
+g2
+(g6
+S'\xa4\x18X\xbc\x86\xe0\xe0?'
+p334
+tp335
+Rp336
+tp337
+a(S'predictive informatics'
+p338
+g2
+(g6
+S'\x7f^;\xaa\xee\xde\xe0?'
+p339
+tp340
+Rp341
+tp342
+a(S'acimed'
+p343
+g2
+(g6
+S'\xaf\xd6>L\xe7\xdd\xe0?'
+p344
+tp345
+Rp346
+tp347
+a(S'ministry of communication and informatics (indonesia)'
+p348
+g2
+(g6
+S'(\x82\xcdvE\xd8\xe0?'
+p349
+tp350
+Rp351
+tp352
+a(S'yves a. lussier'
+p353
+g2
+(g6
+S'\xba\x02\x10\xdej\xcb\xe0?'
+p354
+tp355
+Rp356
+tp357
+a(S'alan rector'
+p358
+g2
+(g6
+S'\xc9b\xe0\x07y\xab\xe0?'
+p359
+tp360
+Rp361
+tp362
+a(S'r. erdem erkul'
+p363
+g2
+(g6
+S'\xc4\x1e\x0e\xb6\x86\x97\xe0?'
+p364
+tp365
+Rp366
+tp367
+a(S'national regulatory agency for electronic communications and information technology of the republic of moldova'
+p368
+g2
+(g6
+S'\xfe\x8aNfF\x87\xe0?'
+p369
+tp370
+Rp371
+tp372
+a(S'australian informatics olympiad'
+p373
+g2
+(g6
+S'\xfd;\xf2WHt\xe0?'
+p374
+tp375
+Rp376
+tp377
+a(S'translational research informatics'
+p378
+g2
+(g6
+S'T\xaeHv8o\xe0?'
+p379
+tp380
+Rp381
+tp382
+a(S'university of rijeka'
+p383
+g2
+(g6
+S'\xfd\x908\x99\x99G\xe0?'
+p384
+tp385
+Rp386
+tp387
+a(S'ecoinformatics'
+p388
+g2
+(g6
+S"\x94\xccp\x1b'C\xe0?"
+p389
+tp390
+Rp391
+tp392
+a(S'scottish informatics and computer science alliance'
+p393
+g2
+(g6
+S'\xa4\x8d\x0e\x11E\x1c\xe0?'
+p394
+tp395
+Rp396
+tp397
+a(S'homer r. warner'
+p398
+g2
+(g6
+S'(\x86V\x1f\xef\xbf\xdf?'
+p399
+tp400
+Rp401
+tp402
+a(S'comenius university faculty of mathematics, physics and informatics'
+p403
+g2
+(g6
+S'\r\x8e\xbb\x8d\x9c\x90\xdf?'
+p404
+tp405
+Rp406
+tp407
+a(S'forest informatics'
+p408
+g2
+(g6
+S'\x1ct\xfd\x19\xb3\x1a\xdf?'
+p409
+tp410
+Rp411
+tp412
+a(S'virtual global university'
+p413
+g2
+(g6
+S'5\x11\xaadA\xff\xde?'
+p414
+tp415
+Rp416
+tp417
+a(S'jan van bemmel'
+p418
+g2
+(g6
+S'Y\x12\x894\x84\xa2\xde?'
+p419
+tp420
+Rp421
+tp422
+a(S'materials informatics'
+p423
+g2
+(g6
+S'\x9c\xa2\xbd\xad\xd2\x88\xde?'
+p424
+tp425
+Rp426
+tp427
+a(S'journal of innovation in health informatics'
+p428
+g2
+(g6
+S'\xd6\xd7:\xa2\x92\x86\xde?'
+p429
+tp430
+Rp431
+tp432
+a(S'biodiversity informatics'
+p433
+g2
+(g6
+S'\x95\x8c\x13\x8f\x80P\xde?'
+p434
+tp435
+Rp436
+tp437
+a(S'vimla l. patel'
+p438
+g2
+(g6
+S'\x18J\xf0\xc1\xf7M\xde?'
+p439
+tp440
+Rp441
+tp442
+a(S'kecheng liu'
+p443
+g2
+(g6
+S'\xf9\x9e\x04\xd0\xcb>\xde?'
+p444
+tp445
+Rp446
+tp447
+a(S'narasimhiah seshagiri'
+p448
+g2
+(g6
+S'\xca\xae^n+\x08\xde?'
+p449
+tp450
+Rp451
+tp452
+a(S'national informatics centre'
+p453
+g2
+(g6
+S'\x0f[x\xd0\xac\xf8\xdd?'
+p454
+tp455
+Rp456
+tp457
+a(S'public health informatics'
+p458
+g2
+(g6
+S'\x1d\xe7\xc2\xe5D\xe5\xdd?'
+p459
+tp460
+Rp461
+tp462
+a(S'university of washington information school'
+p463
+g2
+(g6
+S'Vj\x06\xc6\x91\xd0\xdd?'
+p464
+tp465
+Rp466
+tp467
+a(S'wataru hasegawa'
+p468
+g2
+(g6
+S'v\xd6#\xfa3\xc9\xdd?'
+p469
+tp470
+Rp471
+tp472
+a(S'information science'
+p473
+g2
+(g6
+S' <aO\xc7c\xdd?'
+p474
+tp475
+Rp476
+tp477
+a(S'mannheim school of computer science and mathematics'
+p478
+g2
+(g6
+S'(\xd5\xbfGj\x1c\xdd?'
+p479
+tp480
+Rp481
+tp482
+a(S'joan s. ash'
+p483
+g2
+(g6
+S'3\xabZ|\xbd\xfd\xdc?'
+p484
+tp485
+Rp486
+tp487
+a(S'jason h. moore'
+p488
+g2
+(g6
+S'\x82z\x05\xe7l\xfb\xdc?'
+p489
+tp490
+Rp491
+tp492
+a(S'health information systems programme'
+p493
+g2
+(g6
+S'\xffUu:n\xb5\xdc?'
+p494
+tp495
+Rp496
+tp497
+a(S'healthcare information and management systems society'
+p498
+g2
+(g6
+S'\x0e\xad*\xc8\x89,\xdc?'
+p499
+tp500
+Rp501
+tp502
+a(S'marco ramoni'
+p503
+g2
+(g6
+S'\xe8\x82(c\x0c\x1b\xdc?'
+p504
+tp505
+Rp506
+tp507
+a(S'international journal of software and informatics'
+p508
+g2
+(g6
+S'\x96[xl\x96\xd4\xdb?'
+p509
+tp510
+Rp511
+tp512
+a(S'indian computing olympiad'
+p513
+g2
+(g6
+S'Hg\xfe\xf4j\xc7\xdb?'
+p514
+tp515
+Rp516
+tp517
+a(S'outline of information science'
+p518
+g2
+(g6
+S'\x04u\x92\xd4I\xba\xdb?'
+p519
+tp520
+Rp521
+tp522
+a(S'swiss informatics society'
+p523
+g2
+(g6
+S'g\x1ec\xe9\xd0\xaf\xdb?'
+p524
+tp525
+Rp526
+tp527
+a(S'northeastern university college of computer and information science'
+p528
+g2
+(g6
+S'\x8a4\xfe,\xac\xa6\xdb?'
+p529
+tp530
+Rp531
+tp532
+a(S'informatics for consumer health'
+p533
+g2
+(g6
+S'\xcf\xf6Y\xee\xf2\xa4\xdb?'
+p534
+tp535
+Rp536
+tp537
+a(S'mikhail p. batura'
+p538
+g2
+(g6
+S'\xf4\x7f\xe7\x82\xfb\x9b\xdb?'
+p539
+tp540
+Rp541
+tp542
+a(S'birger m\xc3\xb8ller-pedersen'
+p543
+g2
+(g6
+S'\xda\x83\x01\xa1kw\xdb?'
+p544
+tp545
+Rp546
+tp547
+a(S'lablynx, inc.'
+p548
+g2
+(g6
+S'\x97}\x91i\xebk\xdb?'
+p549
+tp550
+Rp551
+tp552
+a(S'geoffrey c. fox'
+p553
+g2
+(g6
+S"\xf9\x0f'\xa6nj\xdb?"
+p554
+tp555
+Rp556
+tp557
+a(S'milan ft\xc3\xa1\xc4\x8dnik'
+p558
+g2
+(g6
+S'\xfb\xa1\x02\x95Qb\xdb?'
+p559
+tp560
+Rp561
+tp562
+a(S'university of central greece'
+p563
+g2
+(g6
+S'f\xc1\x96Xw\x1e\xdb?'
+p564
+tp565
+Rp566
+tp567
+a(S'ingar roggen'
+p568
+g2
+(g6
+S'6\x86\x90\xf5)\x1a\xdb?'
+p569
+tp570
+Rp571
+tp572
+a(S'informatics corporation of america'
+p573
+g2
+(g6
+S'&\xfc\xfc\xf8\xb5\x04\xdb?'
+p574
+tp575
+Rp576
+tp577
+a(S'moscow state university of economics, statistics, and informatics'
+p578
+g2
+(g6
+S'\xa6\x1c\xf1\xf1j\xf8\xda?'
+p579
+tp580
+Rp581
+tp582
+a(S'american college of medical informatics'
+p583
+g2
+(g6
+S'\x08\xe6\xaf7\x02\xef\xda?'
+p584
+tp585
+Rp586
+tp587
+a(S'mark iv (software)'
+p588
+g2
+(g6
+S'\x10\x1aL\xbb\xa7\x9a\xda?'
+p589
+tp590
+Rp591
+tp592
+a(S'donald bren school of information and computer sciences'
+p593
+g2
+(g6
+S'e\x11\xd4\xca\x1b|\xda?'
+p594
+tp595
+Rp596
+tp597
+a(S'health information technology'
+p598
+g2
+(g6
+S'y\x10\xd1\r\xc6s\xda?'
+p599
+tp600
+Rp601
+tp602
+a(S'biomax informatics ag'
+p603
+g2
+(g6
+S'\xe1:\xd8\xc4\x10_\xda?'
+p604
+tp605
+Rp606
+tp607
+a(S'faculty of informatics and statistics, university of economics in prague'
+p608
+g2
+(g6
+S'\xc9\xcd\xee<\x13:\xda?'
+p609
+tp610
+Rp611
+tp612
+a(S'army school, agra'
+p613
+g2
+(g6
+S'\xa2\x80\x13\xf7\xda4\xda?'
+p614
+tp615
+Rp616
+tp617
+a(S'informatics institute of technology'
+p618
+g2
+(g6
+S'\xa1\x82\xf1\\<%\xda?'
+p619
+tp620
+Rp621
+tp622
+a(S'certified health informatics systems professional'
+p623
+g2
+(g6
+S'\xed\x86\t\xb1\x0c\x1f\xda?'
+p624
+tp625
+Rp626
+tp627
+a(S'michael fourman'
+p628
+g2
+(g6
+S'U\xbf}\x9bu\r\xda?'
+p629
+tp630
+Rp631
+tp632
+a(S'chief medical informatics officer'
+p633
+g2
+(g6
+S'4g9S\x17\x07\xda?'
+p634
+tp635
+Rp636
+tp637
+a(S'madhu reddy'
+p638
+g2
+(g6
+S'K-\xc9\x95\xe3\xf6\xd9?'
+p639
+tp640
+Rp641
+tp642
+a(S'drexel university college of computing and informatics'
+p643
+g2
+(g6
+S'\x88\x16\x0eb \xe2\xd9?'
+p644
+tp645
+Rp646
+tp647
+a(S'athanasios tsakalidis'
+p648
+g2
+(g6
+S'x\xff\x82\x0b\xf5\xe1\xd9?'
+p649
+tp650
+Rp651
+tp652
+a(S'bill tomlinson'
+p653
+g2
+(g6
+S'\x15\x87\xcf\x03\x97\xb3\xd9?'
+p654
+tp655
+Rp656
+tp657
+a(S'eucip'
+p658
+g2
+(g6
+S'l\xd4S\x1c\xb6\xb2\xd9?'
+p659
+tp660
+Rp661
+tp662
+a(S'pushpa kumarapeli'
+p663
+g2
+(g6
+S'<\xdb\xb1Y\x7f\xa3\xd9?'
+p664
+tp665
+Rp666
+tp667
+a(S'health informatics in china'
+p668
+g2
+(g6
+S'\xab\xda\x9c\xca\xf9\x97\xd9?'
+p669
+tp670
+Rp671
+tp672
+a(S'health informatics journal'
+p673
+g2
+(g6
+S'9\xa9,\xe8\xe0\x90\xd9?'
+p674
+tp675
+Rp676
+tp677
+a(S'gunther eysenbach'
+p678
+g2
+(g6
+S'\xfc+\x0bg\xc4\x8c\xd9?'
+p679
+tp680
+Rp681
+tp682
+a(S'institute of mathematics and informatics (bulgarian academy of sciences)'
+p683
+g2
+(g6
+S'\x91\xcdf:\x92\x85\xd9?'
+p684
+tp685
+Rp686
+tp687
+a(S'information system'
+p688
+g2
+(g6
+S'*\x12\x02\xdf.|\xd9?'
+p689
+tp690
+Rp691
+tp692
+a(S'list of information schools'
+p693
+g2
+(g6
+S'"\xb6<\x18\xf6[\xd9?'
+p694
+tp695
+Rp696
+tp697
+a(S'laboratory informatics'
+p698
+g2
+(g6
+S'\xe7\xe2G\x1a\x93<\xd9?'
+p699
+tp700
+Rp701
+tp702
+a(S'juraj hromkovi\xc4\x8d'
+p703
+g2
+(g6
+S'\x049!\x0c^7\xd9?'
+p704
+tp705
+Rp706
+tp707
+a(S'dataproducts'
+p708
+g2
+(g6
+S'\xa2P\xbe"\xac5\xd9?'
+p709
+tp710
+Rp711
+tp712
+a(S'institute of informatics and communication'
+p713
+g2
+(g6
+S'\xf3\xd3\x12n0)\xd9?'
+p714
+tp715
+Rp716
+tp717
+a(S'centre for research and development on information technology and telecommunication (albania)'
+p718
+g2
+(g6
+S'X8C\x8e\xaa\x10\xd9?'
+p719
+tp720
+Rp721
+tp722
+a(S'university of dodoma'
+p723
+g2
+(g6
+S'\x06E\xe3\x01%\r\xd9?'
+p724
+tp725
+Rp726
+tp727
+a(S'national institute of informatics'
+p728
+g2
+(g6
+S'\xbc\xb2k[\x92\x06\xd9?'
+p729
+tp730
+Rp731
+tp732
+a(S'said hadjerrouit'
+p733
+g2
+(g6
+S'\x8a\xe8\xed\x17\xbf\xe9\xd8?'
+p734
+tp735
+Rp736
+tp737
+a(S'georges de moor'
+p738
+g2
+(g6
+S'\x88\xea\x12\x96\xb8\x84\xd8?'
+p739
+tp740
+Rp741
+tp742
+a(S'information school'
+p743
+g2
+(g6
+S'f\x81{?jn\xd8?'
+p744
+tp745
+Rp746
+tp747
+a(S'paul dourish'
+p748
+g2
+(g6
+S'\x00\x9aN\xe2\x94l\xd8?'
+p749
+tp750
+Rp751
+tp752
+a(S'rob kling'
+p753
+g2
+(g6
+S'f\xd3\x17\x1c\xfae\xd8?'
+p754
+tp755
+Rp756
+tp757
+a(S'information and computer science'
+p758
+g2
+(g6
+S'\xacU\xf9\x0e\xf7R\xd8?'
+p759
+tp760
+Rp761
+tp762
+a(S'theo bemelmans'
+p763
+g2
+(g6
+S'B\xe6\x95\x12\xb4O\xd8?'
+p764
+tp765
+Rp766
+tp767
+a(S'barcelona school of informatics'
+p768
+g2
+(g6
+S'0\x89\xfb.\xb4K\xd8?'
+p769
+tp770
+Rp771
+tp772
+a(S'igor jurisica'
+p773
+g2
+(g6
+S'\xf2J\xe8\xf0\xff1\xd8?'
+p774
+tp775
+Rp776
+tp777
+a(S'kristo ivanov'
+p778
+g2
+(g6
+S'&1\xae\xc4\xd7#\xd8?'
+p779
+tp780
+Rp781
+tp782
+a(S'michael f smith'
+p783
+g2
+(g6
+S'\x0b\xf9\x1ae0"\xd8?'
+p784
+tp785
+Rp786
+tp787
+a(S'university of texas health science center at houston'
+p788
+g2
+(g6
+S"'\x02\x7f\xfe\xbb\x08\xd8?"
+p789
+tp790
+Rp791
+tp792
+a(S'peter fox (professor)'
+p793
+g2
+(g6
+S'[L}\xac\\\xfd\xd7?'
+p794
+tp795
+Rp796
+tp797
+a(S'deggendorf institute of technology'
+p798
+g2
+(g6
+S'\tu\x0b\xb5\x8e\xcc\xd7?'
+p799
+tp800
+Rp801
+tp802
+a(S"\xc3\x89cole nationale sup\xc3\xa9rieure d'informatique et de math\xc3\xa9matiques appliqu\xc3\xa9es de grenoble"
+p803
+g2
+(g6
+S'\xcf\xeb^Q\x8c\xaf\xd7?'
+p804
+tp805
+Rp806
+tp807
+a(S'kjell samuelson'
+p808
+g2
+(g6
+S'\xaa\x05W\x8dV\x9c\xd7?'
+p809
+tp810
+Rp811
+tp812
+a(S'danny sands'
+p813
+g2
+(g6
+S':\x13\xac\xd6C\x8e\xd7?'
+p814
+tp815
+Rp816
+tp817
+a(S'penn state college of information sciences and technology'
+p818
+g2
+(g6
+S'\x83\xccG5\xe9\x87\xd7?'
+p819
+tp820
+Rp821
+tp822
+a(S'thomas lengauer'
+p823
+g2
+(g6
+S'\x9dD\x97\x81\xb2n\xd7?'
+p824
+tp825
+Rp826
+tp827
+a(S'legal informatics'
+p828
+g2
+(g6
+S'\x8c+\xc8z\xb4G\xd7?'
+p829
+tp830
+Rp831
+tp832
+a(S'mhi'
+p833
+g2
+(g6
+S'\x1f#.1\xceA\xd7?'
+p834
+tp835
+Rp836
+tp837
+a(S'schin'
+p838
+g2
+(g6
+S'\x95\x07\x0c(\xe9=\xd7?'
+p839
+tp840
+Rp841
+tp842
+a(S'joel dudley'
+p843
+g2
+(g6
+S'#\xbfJ6P<\xd7?'
+p844
+tp845
+Rp846
+tp847
+a(S'symposium on theoretical aspects of computer science'
+p848
+g2
+(g6
+S'b\x1a\x97\x17\xd6\x19\xd7?'
+p849
+tp850
+Rp851
+tp852
+a(S'intergovernmental bureau for informatics'
+p853
+g2
+(g6
+S'\x99Fq9q\x13\xd7?'
+p854
+tp855
+Rp856
+tp857
+a(S'sethuraman panchanathan'
+p858
+g2
+(g6
+S'\xf6\xc4/)\xff\xe1\xd6?'
+p859
+tp860
+Rp861
+tp862
+a(S'nguy\xe1\xbb\x85n ng\xe1\xbb\x8dc b\xc3\xacnh'
+p863
+g2
+(g6
+S'\x12\x9e\x01\xa2\xc3\xd3\xd6?'
+p864
+tp865
+Rp866
+tp867
+a(S'acmi (disambiguation)'
+p868
+g2
+(g6
+S't\xa0\xc1\xac>\xb9\xd6?'
+p869
+tp870
+Rp871
+tp872
+a(S'pervasive informatics'
+p873
+g2
+(g6
+S'X\xa4\xd7a$\xb8\xd6?'
+p874
+tp875
+Rp876
+tp877
+a(S'ministry of electronics and information technology'
+p878
+g2
+(g6
+S'\xfe\xbez)\xc8\xb7\xd6?'
+p879
+tp880
+Rp881
+tp882
+a(S'british informatics olympiad'
+p883
+g2
+(g6
+S'O\xa4|\x16\xd4\xa9\xd6?'
+p884
+tp885
+Rp886
+tp887
+a(S'stmik kharisma'
+p888
+g2
+(g6
+S'i\xd5C)\xdc\x99\xd6?'
+p889
+tp890
+Rp891
+tp892
+a(S'uiuc school of information sciences'
+p893
+g2
+(g6
+S'\x81\x868\x16\x18\x86\xd6?'
+p894
+tp895
+Rp896
+tp897
+a(S'kapali eswaran'
+p898
+g2
+(g6
+S'\xd4v\xd7N\xc4t\xd6?'
+p899
+tp900
+Rp901
+tp902
+a(S'health information management'
+p903
+g2
+(g6
+S';\x08Dc\xe8r\xd6?'
+p904
+tp905
+Rp906
+tp907
+a(S'american society of health informatics managers'
+p908
+g2
+(g6
+S'\xd4H\xfa\x12\xf5X\xd6?'
+p909
+tp910
+Rp911
+tp912
+a(S'imagine cup sri lanka'
+p913
+g2
+(g6
+S'\xf8\x02\xf6\xf4\x06;\xd6?'
+p914
+tp915
+Rp916
+tp917
+a(S'sheffield ischool'
+p918
+g2
+(g6
+S'\x95Rj\xd0\x149\xd6?'
+p919
+tp920
+Rp921
+tp922
+a(S'university of electro-communications'
+p923
+g2
+(g6
+S'\x9e0tX\xc44\xd6?'
+p924
+tp925
+Rp926
+tp927
+a(S'institutet f\xc3\xb6r r\xc3\xa4ttsinformatik'
+p928
+g2
+(g6
+S'89\xb4\xac\x0e \xd6?'
+p929
+tp930
+Rp931
+tp932
+a(S'n\xc3\xbacleo de inform\xc3\xa1tica biom\xc3\xa9dica'
+p933
+g2
+(g6
+S'\x81"\xa1\xd4R\x1a\xd6?'
+p934
+tp935
+Rp936
+tp937
+a(S'list of mesh codes (l01)'
+p938
+g2
+(g6
+S'T\x82\x98\xb6\xbc\x15\xd6?'
+p939
+tp940
+Rp941
+tp942
+a(S'don e. detmer'
+p943
+g2
+(g6
+S"T'\xfebk\x0c\xd6?"
+p944
+tp945
+Rp946
+tp947
+a(S'universiteti pavar\xc3\xabsia vlor\xc3\xab'
+p948
+g2
+(g6
+S'uR\x1bSri\xd5?'
+p949
+tp950
+Rp951
+tp952
+a(S'university of pittsburgh school of information sciences'
+p953
+g2
+(g6
+S'\xd1\xf8\xb9\xe2?f\xd5?'
+p954
+tp955
+Rp956
+tp957
+a(S'information history'
+p958
+g2
+(g6
+S'\x99h\x9d\xa5+a\xd5?'
+p959
+tp960
+Rp961
+tp962
+a(S'energy informatics'
+p963
+g2
+(g6
+S'N\xb6\x84\x0c\xaf\\\xd5?'
+p964
+tp965
+Rp966
+tp967
+a(S'information'
+p968
+g2
+(g6
+S'7[73rO\xd5?'
+p969
+tp970
+Rp971
+tp972
+a(S'gilberto calvillo vives'
+p973
+g2
+(g6
+S'GnYo|A\xd5?'
+p974
+tp975
+Rp976
+tp977
+a(S'alpen-adria-universit\xc3\xa4t klagenfurt'
+p978
+g2
+(g6
+S'\xcd(T\xa8\xe7\x0c\xd5?'
+p979
+tp980
+Rp981
+tp982
+a(S'list of universities in nicaragua'
+p983
+g2
+(g6
+S'\x8f\x812{\xd0\x0b\xd5?'
+p984
+tp985
+Rp986
+tp987
+a(S'wireless informatics'
+p988
+g2
+(g6
+S'i.6{\xe1\xe0\xd4?'
+p989
+tp990
+Rp991
+tp992
+a(S'alexander ivanovich mikhailov'
+p993
+g2
+(g6
+S'\tf\xb5\xa5\x86\xe0\xd4?'
+p994
+tp995
+Rp996
+tp997
+a(S'johannes sch\xc3\xb6ning'
+p998
+g2
+(g6
+S'1\x06\x13\xfc\x13\xb4\xd4?'
+p999
+tp1000
+Rp1001
+tp1002
+a(S'mike pringle (doctor)'
+p1003
+g2
+(g6
+S'\t\x08M\xc0?\xad\xd4?'
+p1004
+tp1005
+Rp1006
+tp1007
+a(S'sjaak brinkkemper'
+p1008
+g2
+(g6
+S'+w\xc0\x9d\xdd\xaa\xd4?'
+p1009
+tp1010
+Rp1011
+tp1012
+a(S'university of applied sciences technikum wien'
+p1013
+g2
+(g6
+S'\xd3\xcd\x19\x1e\xb9\xa6\xd4?'
+p1014
+tp1015
+Rp1016
+tp1017
+a(S'st peters school, kadayiruppu'
+p1018
+g2
+(g6
+S'$8\xc6n7\x95\xd4?'
+p1019
+tp1020
+Rp1021
+tp1022
+a(S'computer science'
+p1023
+g2
+(g6
+S'\xc2\xa6\xba\xddQ\x88\xd4?'
+p1024
+tp1025
+Rp1026
+tp1027
+a(S'philosophy of information'
+p1028
+g2
+(g6
+S'\xf98N\xd3.\x7f\xd4?'
+p1029
+tp1030
+Rp1031
+tp1032
+a(S'telecentre'
+p1033
+g2
+(g6
+S'\xfa\xc1N\xb1\xc1Q\xd4?'
+p1034
+tp1035
+Rp1036
+tp1037
+a(S'kainan university'
+p1038
+g2
+(g6
+S'\xdc\x7fu\xd7+Q\xd4?'
+p1039
+tp1040
+Rp1041
+tp1042
+a(S'wenfei fan'
+p1043
+g2
+(g6
+S'\x8d\xd3\x9d\xdaJJ\xd4?'
+p1044
+tp1045
+Rp1046
+tp1047
+a(S'don sannella'
+p1048
+g2
+(g6
+S'\xeb\x8e\xbbsf1\xd4?'
+p1049
+tp1050
+Rp1051
+tp1052
+a(S'medindia'
+p1053
+g2
+(g6
+S"\xef\x84?\x0bB'\xd4?"
+p1054
+tp1055
+Rp1056
+tp1057
+a(S'philip bourne'
+p1058
+g2
+(g6
+S'A\xe8=\xba\xd5\x16\xd4?'
+p1059
+tp1060
+Rp1061
+tp1062
+a(S'peter ru\xc5\xbei\xc4\x8dka'
+p1063
+g2
+(g6
+S'\x04\xef\x17U\x9e\x0e\xd4?'
+p1064
+tp1065
+Rp1066
+tp1067
+a(S'rao machiraju'
+p1068
+g2
+(g6
+S'l\xe2`\xeb\xdb\x00\xd4?'
+p1069
+tp1070
+Rp1071
+tp1072
+a(S'de la salle university college of computer studies'
+p1073
+g2
+(g6
+S'\xdb\xfb\xdfb\xf0\xff\xd3?'
+p1074
+tp1075
+Rp1076
+tp1077
+a(S'karen duncan'
+p1078
+g2
+(g6
+S'\xb1C?=v\xfd\xd3?'
+p1079
+tp1080
+Rp1081
+tp1082
+a(S'colette rolland'
+p1083
+g2
+(g6
+S'\x0c\x86\x90\xaa\x87\xe0\xd3?'
+p1084
+tp1085
+Rp1086
+tp1087
+a(S'evolutionary informatics lab'
+p1088
+g2
+(g6
+S'a\xeb\x03\xb2\xf0\xcb\xd3?'
+p1089
+tp1090
+Rp1091
+tp1092
+a(S'information policy'
+p1093
+g2
+(g6
+S'l\x81\xb2\xec\xf7\xc1\xd3?'
+p1094
+tp1095
+Rp1096
+tp1097
+a(S'european research center for information systems'
+p1098
+g2
+(g6
+S'\x90(8\x98Q\xb1\xd3?'
+p1099
+tp1100
+Rp1101
+tp1102
+a(S'humanistic informatics'
+p1103
+g2
+(g6
+S'\x13[\x94f8\xb0\xd3?'
+p1104
+tp1105
+Rp1106
+tp1107
+a(S'bachelor of science in information technology'
+p1108
+g2
+(g6
+S'dHw\x86\xe9\xaa\xd3?'
+p1109
+tp1110
+Rp1111
+tp1112
+a(S'master of science in information technology'
+p1113
+g2
+(g6
+S'\xd7n\x94+z\x8c\xd3?'
+p1114
+tp1115
+Rp1116
+tp1117
+a(S'artificial intelligence applications institute'
+p1118
+g2
+(g6
+S'\xe0A\xf4\xf6\xa7\x8a\xd3?'
+p1119
+tp1120
+Rp1121
+tp1122
+a(S'informing healthcare'
+p1123
+g2
+(g6
+S'\xcb\xc3)\xf4\xce\x82\xd3?'
+p1124
+tp1125
+Rp1126
+tp1127
+a(S'department of computer science, fmpi, comenius university'
+p1128
+g2
+(g6
+S'\x02 \x9cb]y\xd3?'
+p1129
+tp1130
+Rp1131
+tp1132
+a(S'eoi'
+p1133
+g2
+(g6
+S'e\x102\x01wt\xd3?'
+p1134
+tp1135
+Rp1136
+tp1137
+a(S'university of arizona school of information'
+p1138
+g2
+(g6
+S'\xb0Tl%\x0cq\xd3?'
+p1139
+tp1140
+Rp1141
+tp1142
+a(S'richard heeks'
+p1143
+g2
+(g6
+S'\xf7}eF\xc5p\xd3?'
+p1144
+tp1145
+Rp1146
+tp1147
+a(S'international journal of information technology & decision making'
+p1148
+g2
+(g6
+S'\x86\x8e_\x1b\x0bj\xd3?'
+p1149
+tp1150
+Rp1151
+tp1152
+a(S'filippo menczer'
+p1153
+g2
+(g6
+S'\x10\xe127\xa4c\xd3?'
+p1154
+tp1155
+Rp1156
+tp1157
+a(S'university of santo tomas institute of information and computing sciences'
+p1158
+g2
+(g6
+S'jp\xc8D\xe0b\xd3?'
+p1159
+tp1160
+Rp1161
+tp1162
+a(S'cabig'
+p1163
+g2
+(g6
+S'\x81\x9c}\xeazM\xd3?'
+p1164
+tp1165
+Rp1166
+tp1167
+a(S'segun toyin dawodu'
+p1168
+g2
+(g6
+S'Ue\x90J\x17J\xd3?'
+p1169
+tp1170
+Rp1171
+tp1172
+a(S'rutgers school of communication and information'
+p1173
+g2
+(g6
+S'\x15%\x07\x9azI\xd3?'
+p1174
+tp1175
+Rp1176
+tp1177
+a(S'j. donald r. de raadt'
+p1178
+g2
+(g6
+S'^\xb2\xa9\x80n7\xd3?'
+p1179
+tp1180
+Rp1181
+tp1182
+a(S'takming university of science and technology'
+p1183
+g2
+(g6
+S'\xde\x14\x15\xb0\x153\xd3?'
+p1184
+tp1185
+Rp1186
+tp1187
+a(S'b\xc3\xb6rje langefors best doctoral dissertation award'
+p1188
+g2
+(g6
+S'\x03\xf1"\x1b\x19\x1b\xd3?'
+p1189
+tp1190
+Rp1191
+tp1192
+a(S'list of abbreviations used in health informatics'
+p1193
+g2
+(g6
+S'\xfc\x0co_U\x17\xd3?'
+p1194
+tp1195
+Rp1196
+tp1197
+a(S'university of lugano'
+p1198
+g2
+(g6
+S'\xfd\xb6L\x91m\x0f\xd3?'
+p1199
+tp1200
+Rp1201
+tp1202
+a(S'euro aquae'
+p1203
+g2
+(g6
+S'\x03T\xf1j\xcc\xf9\xd2?'
+p1204
+tp1205
+Rp1206
+tp1207
+a(S'translational bioinformatics'
+p1208
+g2
+(g6
+S'\xa8\x15@\xae\x92\xec\xd2?'
+p1209
+tp1210
+Rp1211
+tp1212
+a(S'international olympiad in informatics'
+p1213
+g2
+(g6
+S'\xb3\xb4\xed\x98W\xe7\xd2?'
+p1214
+tp1215
+Rp1216
+tp1217
+a(S'tom sawyer software'
+p1218
+g2
+(g6
+S'\xf6\x98Dm\xeb\xe0\xd2?'
+p1219
+tp1220
+Rp1221
+tp1222
+a(S'redcap (research electronic data capture)'
+p1223
+g2
+(g6
+S'\x85"diu\xe0\xd2?'
+p1224
+tp1225
+Rp1226
+tp1227
+a(S'information management'
+p1228
+g2
+(g6
+S'\x02 \xa2@\xd7\xcb\xd2?'
+p1229
+tp1230
+Rp1231
+tp1232
+a(S'r\xc3\xbcdiger valk'
+p1233
+g2
+(g6
+S'`\xca]H\x0f\xc9\xd2?'
+p1234
+tp1235
+Rp1236
+tp1237
+a(S'sterling software'
+p1238
+g2
+(g6
+S'I\xddJ\xe5N\xc8\xd2?'
+p1239
+tp1240
+Rp1241
+tp1242
+a(S'american health information management association'
+p1243
+g2
+(g6
+S'%\xf0\x80\x18\xe8\x9a\xd2?'
+p1244
+tp1245
+Rp1246
+tp1247
+a(S'rahul sharma (businessman)'
+p1248
+g2
+(g6
+S'\x06\xf8\xcb\xba\xbe\x9a\xd2?'
+p1249
+tp1250
+Rp1251
+tp1252
+a(S'list of lis journals in india'
+p1253
+g2
+(g6
+S'\xe2\\\xba\xe9\xa7\x8b\xd2?'
+p1254
+tp1255
+Rp1256
+tp1257
+a(S'regent university college of science and technology'
+p1258
+g2
+(g6
+S'L\x82=}\x0e\x86\xd2?'
+p1259
+tp1260
+Rp1261
+tp1262
+a(S'information access'
+p1263
+g2
+(g6
+S'\xee\x14\xce\x8d4\x85\xd2?'
+p1264
+tp1265
+Rp1266
+tp1267
+a(S'university of illinois at chicago college of applied health sciences'
+p1268
+g2
+(g6
+S'\x11\x83\x1d\xaa\xdex\xd2?'
+p1269
+tp1270
+Rp1271
+tp1272
+a(S'pharmacocybernetics'
+p1273
+g2
+(g6
+S'\xbdO\x8a\x8a\x8eu\xd2?'
+p1274
+tp1275
+Rp1276
+tp1277
+a(S'classification markup language'
+p1278
+g2
+(g6
+S',(\x8e\x82\xc4o\xd2?'
+p1279
+tp1280
+Rp1281
+tp1282
+a(S'meisei university'
+p1283
+g2
+(g6
+S'\x86\xb7\xb2\xe0\xcaj\xd2?'
+p1284
+tp1285
+Rp1286
+tp1287
+a(S'bachelor of information technology'
+p1288
+g2
+(g6
+S'\x86\x18t\x19\xecd\xd2?'
+p1289
+tp1290
+Rp1291
+tp1292
+a(S'daido university'
+p1293
+g2
+(g6
+S'\xfam\x8dBt^\xd2?'
+p1294
+tp1295
+Rp1296
+tp1297
+a(S'syracuse university school of information studies'
+p1298
+g2
+(g6
+S'\xeec\x13\x03\xb7W\xd2?'
+p1299
+tp1300
+Rp1301
+tp1302
+a(S'ukrainian olympiad in informatics'
+p1303
+g2
+(g6
+S'\x1cq[\xc4\xd7P\xd2?'
+p1304
+tp1305
+Rp1306
+tp1307
+a(S'shizuoka institute of science and technology'
+p1308
+g2
+(g6
+S'_,\xa4\x1c\x14E\xd2?'
+p1309
+tp1310
+Rp1311
+tp1312
+a(S'czech institute of informatics, robotics and cybernetics'
+p1313
+g2
+(g6
+S'^\xb1\xcb\xfb\xc0<\xd2?'
+p1314
+tp1315
+Rp1316
+tp1317
+a(S'andrew targowski'
+p1318
+g2
+(g6
+S'\xc6\xf7t\x8a+8\xd2?'
+p1319
+tp1320
+Rp1321
+tp1322
+a(S'cisa'
+p1323
+g2
+(g6
+S'\xf02*\x0b\xfa1\xd2?'
+p1324
+tp1325
+Rp1326
+tp1327
+a(S'ministry of planning (bangladesh)'
+p1328
+g2
+(g6
+S'<\xa6\x1d\xe1\xdf\x1c\xd2?'
+p1329
+tp1330
+Rp1331
+tp1332
+a(S'rasim alguliyev'
+p1333
+g2
+(g6
+S'\r\xf6O\xdav\x16\xd2?'
+p1334
+tp1335
+Rp1336
+tp1337
+a(S'scosta'
+p1338
+g2
+(g6
+S'\xd7\xa8\x90A\x7f\x02\xd2?'
+p1339
+tp1340
+Rp1341
+tp1342
+a(S'nara institute of science and technology'
+p1343
+g2
+(g6
+S'Q\xefE\xc2u\xf8\xd1?'
+p1344
+tp1345
+Rp1346
+tp1347
+a(S'dagstuhl'
+p1348
+g2
+(g6
+S'\xe6\xc5\xb29u\xf5\xd1?'
+p1349
+tp1350
+Rp1351
+tp1352
+a(S"o'moore medal"
+p1353
+g2
+(g6
+S'\xe2\xf11M\xf6\xf2\xd1?'
+p1354
+tp1355
+Rp1356
+tp1357
+a(S'palestine polytechnic university'
+p1358
+g2
+(g6
+S'\x98^}\xdb\x92\xe4\xd1?'
+p1359
+tp1360
+Rp1361
+tp1362
+a(S'nikolaos bourbakis'
+p1363
+g2
+(g6
+S'\x00\xfd@\xa4 \xe0\xd1?'
+p1364
+tp1365
+Rp1366
+tp1367
+a(S'noi'
+p1368
+g2
+(g6
+S'\xb9v\xd9\xff\xb1\xd2\xd1?'
+p1369
+tp1370
+Rp1371
+tp1372
+a(S'jannis kallinikos'
+p1373
+g2
+(g6
+S'\xf5\xef{}\xf9\xcf\xd1?'
+p1374
+tp1375
+Rp1376
+tp1377
+a(S'naomi c. broering'
+p1378
+g2
+(g6
+S'\xcf\xc4S\\\x1a\xc3\xd1?'
+p1379
+tp1380
+Rp1381
+tp1382
+a(S'devconf.cz'
+p1383
+g2
+(g6
+S'\xab\x8a\x80\xff\xae\xb8\xd1?'
+p1384
+tp1385
+Rp1386
+tp1387
+a(S'organisational semiotics'
+p1388
+g2
+(g6
+S'\x15\xca\x05W\xdf\xb7\xd1?'
+p1389
+tp1390
+Rp1391
+tp1392
+a(S'master of science in information systems'
+p1393
+g2
+(g6
+S'\x9b\xc3ZK|\xb7\xd1?'
+p1394
+tp1395
+Rp1396
+tp1397
+a(S'faculdade de inform\xc3\xa1tica e administra\xc3\xa7\xc3\xa3o paulista'
+p1398
+g2
+(g6
+S'T\xeb\xd8{j\xb4\xd1?'
+p1399
+tp1400
+Rp1401
+tp1402
+a(S'list of american library association accredited library schools'
+p1403
+g2
+(g6
+S'\tZ\xdd\xea2\xb4\xd1?'
+p1404
+tp1405
+Rp1406
+tp1407
+a(S'information (disambiguation)'
+p1408
+g2
+(g6
+S'L\x02Z\xfd|\xac\xd1?'
+p1409
+tp1410
+Rp1411
+tp1412
+a(S'alcidion corp.'
+p1413
+g2
+(g6
+S'\xd2\xc1\xd7\xb8*\xa5\xd1?'
+p1414
+tp1415
+Rp1416
+tp1417
+a(S'vladimir gorodetski'
+p1418
+g2
+(g6
+S'\x8b\x13\x94\r5\xa1\xd1?'
+p1419
+tp1420
+Rp1421
+tp1422
+a(S'sasan adibi'
+p1423
+g2
+(g6
+S'\x12k\x05\xba\xd5\x9a\xd1?'
+p1424
+tp1425
+Rp1426
+tp1427
+a(S'turkish national research institute of electronics and cryptology'
+p1428
+g2
+(g6
+S'\r~~\xa3\x13\x90\xd1?'
+p1429
+tp1430
+Rp1431
+tp1432
+a(S'brian loader'
+p1433
+g2
+(g6
+S'\x08g:\xdbi\x8e\xd1?'
+p1434
+tp1435
+Rp1436
+tp1437
+a(S'master of business systems'
+p1438
+g2
+(g6
+S'b\x03 W\xe0\x8c\xd1?'
+p1439
+tp1440
+Rp1441
+tp1442
+a(S'national knowledge network'
+p1443
+g2
+(g6
+S'\xd4\xfdK\x83Z\x82\xd1?'
+p1444
+tp1445
+Rp1446
+tp1447
+a(S'very large business applications'
+p1448
+g2
+(g6
+S'\x1a}c\xf7Yx\xd1?'
+p1449
+tp1450
+Rp1451
+tp1452
+a(S'daniel e. atkins'
+p1453
+g2
+(g6
+S'\xfe\xa8\xdd|\xc2m\xd1?'
+p1454
+tp1455
+Rp1456
+tp1457
+a(S'information culture'
+p1458
+g2
+(g6
+S'\xb1\xd1\x93\x8bgh\xd1?'
+p1459
+tp1460
+Rp1461
+tp1462
+a(S'business & information systems engineering'
+p1463
+g2
+(g6
+S'\xa6\xd3\x92\x8e\xf9g\xd1?'
+p1464
+tp1465
+Rp1466
+tp1467
+a(S'university of wisconsin\xe2\x80\x93milwaukee school of information studies'
+p1468
+g2
+(g6
+S'\xd3\r\x1a{\xa6c\xd1?'
+p1469
+tp1470
+Rp1471
+tp1472
+a(S'department of mathematical logic (bulgarian academy of sciences)'
+p1473
+g2
+(g6
+S'\x80\xd3\xd8U\xeab\xd1?'
+p1474
+tp1475
+Rp1476
+tp1477
+a(S'library and information science'
+p1478
+g2
+(g6
+S'\xb3\xa9K$ua\xd1?'
+p1479
+tp1480
+Rp1481
+tp1482
+a(S'management information system'
+p1483
+g2
+(g6
+S'\xd1\xf7\xcf\x83\xf9_\xd1?'
+p1484
+tp1485
+Rp1486
+tp1487
+a(S'chrisanthi avgerou'
+p1488
+g2
+(g6
+S'\xc5\xad\xc7\xc0BY\xd1?'
+p1489
+tp1490
+Rp1491
+tp1492
+a(S'philippe dreyfus'
+p1493
+g2
+(g6
+S'a\xcc\\4xX\xd1?'
+p1494
+tp1495
+Rp1496
+tp1497
+a(S'information architecture'
+p1498
+g2
+(g6
+S'\xb8\xbb\x84P\xf3S\xd1?'
+p1499
+tp1500
+Rp1501
+tp1502
+a(S'international school of information management'
+p1503
+g2
+(g6
+S'M>\xbc&\xa3N\xd1?'
+p1504
+tp1505
+Rp1506
+tp1507
+a(S'jay nunamaker'
+p1508
+g2
+(g6
+S'@,\x07\xb3\x11J\xd1?'
+p1509
+tp1510
+Rp1511
+tp1512
+a.

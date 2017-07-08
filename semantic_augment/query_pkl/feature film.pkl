@@ -1,0 +1,2728 @@
+(lp0
+(S'feature film'
+p1
+cnumpy.core.multiarray
+scalar
+p2
+(cnumpy
+dtype
+p3
+(S'f8'
+p4
+I0
+I1
+tp5
+Rp6
+(I3
+S'<'
+p7
+NNNI-1
+I-1
+I0
+tp8
+bS'\x00\x00\x00\x00\x00\x00\xf0?'
+p9
+tp10
+Rp11
+tp12
+a(S'oliver stapleton'
+p13
+g2
+(g6
+S'\xa9N\xbb\xcaD\xcf\xde?'
+p14
+tp15
+Rp16
+tp17
+a(S'feature length'
+p18
+g2
+(g6
+S'\n|}5\x8dp\xde?'
+p19
+tp20
+Rp21
+tp22
+a(S'poul bang'
+p23
+g2
+(g6
+S'u\x0e\xf3\xef\x82T\xdd?'
+p24
+tp25
+Rp26
+tp27
+a(S'zentropa'
+p28
+g2
+(g6
+S'\xa2\xfcl\xe2\xd3\xb4\xdb?'
+p29
+tp30
+Rp31
+tp32
+a(S'national film awards'
+p33
+g2
+(g6
+S'X|\xf6\x89F|\xdb?'
+p34
+tp35
+Rp36
+tp37
+a(S'geoffrey orme'
+p38
+g2
+(g6
+S'aX\x0b\xac\xb3\x7f\xda?'
+p39
+tp40
+Rp41
+tp42
+a(S'list of animated feature films of the 1990s'
+p43
+g2
+(g6
+S'\xf6\n\xac\xfd\xaa\x01\xda?'
+p44
+tp45
+Rp46
+tp47
+a(S'list of animated feature films of the 1980s'
+p48
+g2
+(g6
+S'\xf6\n\xac\xfd\xaa\x01\xda?'
+p49
+tp50
+Rp51
+tp52
+a(S'list of animated feature films of the 1970s'
+p53
+g2
+(g6
+S'\xf6\n\xac\xfd\xaa\x01\xda?'
+p54
+tp55
+Rp56
+tp57
+a(S'feature model'
+p58
+g2
+(g6
+S'\x80\xbc\x7f\xe50\xd8\xd8?'
+p59
+tp60
+Rp61
+tp62
+a(S'goran paskaljevi\xc4\x87'
+p63
+g2
+(g6
+S'\xce\r8\x9a\xbc>\xd8?'
+p64
+tp65
+Rp66
+tp67
+a(S'14th national film awards'
+p68
+g2
+(g6
+S'\x19\xads#P\xf5\xd7?'
+p69
+tp70
+Rp71
+tp72
+a(S'list of cinematic firsts'
+p73
+g2
+(g6
+S'#\xb4\x12su\xce\xd7?'
+p74
+tp75
+Rp76
+tp77
+a(S'feature'
+p78
+g2
+(g6
+S'N8\x01\xe9\x8d\xc6\xd7?'
+p79
+tp80
+Rp81
+tp82
+a(S'double feature'
+p83
+g2
+(g6
+S'\x93\r\xfe{\xd2\x81\xd7?'
+p84
+tp85
+Rp86
+tp87
+a(S'lara jo regan'
+p88
+g2
+(g6
+S'4\\\xf5\x84\x02\x7f\xd7?'
+p89
+tp90
+Rp91
+tp92
+a(S'jay duplass'
+p93
+g2
+(g6
+S'\x86i\xcf\xae\xb8\x14\xd7?'
+p94
+tp95
+Rp96
+tp97
+a(S'shriekfest'
+p98
+g2
+(g6
+S'\xcf\xb7\x04t_\xe2\xd6?'
+p99
+tp100
+Rp101
+tp102
+a(S'erik balling'
+p103
+g2
+(g6
+S'\xcb\xa8\xafo[\xd9\xd6?'
+p104
+tp105
+Rp106
+tp107
+a(S'feature engineering'
+p108
+g2
+(g6
+S'\n]|\xab\xfe\xd8\xd6?'
+p109
+tp110
+Rp111
+tp112
+a(S'erik clausen'
+p113
+g2
+(g6
+S'\x04 \x95\xa7GU\xd6?'
+p114
+tp115
+Rp116
+tp117
+a(S'\xc3\x85ke sandgren'
+p118
+g2
+(g6
+S'\x82\xd6\xe9P\xbaB\xd6?'
+p119
+tp120
+Rp121
+tp122
+a(S'barbara cupisti'
+p123
+g2
+(g6
+S'u\xbb\xb5\x0f\xbe1\xd6?'
+p124
+tp125
+Rp126
+tp127
+a(S'history of film'
+p128
+g2
+(g6
+S'\xa9\x9c\x11\xcf\x9b\x01\xd6?'
+p129
+tp130
+Rp131
+tp132
+a(S'short film'
+p133
+g2
+(g6
+S'y\xe9\xcb\xd8*\xe2\xd5?'
+p134
+tp135
+Rp136
+tp137
+a(S'film'
+p138
+g2
+(g6
+S'N\x1a\xacC5\xdf\xd5?'
+p139
+tp140
+Rp141
+tp142
+a(S'12th national film awards'
+p143
+g2
+(g6
+S'\xcb\xbc\x82\xdf\xf3\xae\xd5?'
+p144
+tp145
+Rp146
+tp147
+a(S'feature toggle'
+p148
+g2
+(g6
+S'\\\xdc\xd54C\x8d\xd5?'
+p149
+tp150
+Rp151
+tp152
+a(S'striped entertainment'
+p153
+g2
+(g6
+S'\xfc\xfb\xa7?\xfa%\xd5?'
+p154
+tp155
+Rp156
+tp157
+a(S'boris svetlov'
+p158
+g2
+(g6
+S'\xc0(\x8d\xef\xcf\xfc\xd4?'
+p159
+tp160
+Rp161
+tp162
+a(S'eero milonoff'
+p163
+g2
+(g6
+S'\xb0 \xb1\x83\x08\xfb\xd4?'
+p164
+tp165
+Rp166
+tp167
+a(S'hella joof'
+p168
+g2
+(g6
+S'\x00\xc7\xc5\x1a0\xa5\xd4?'
+p169
+tp170
+Rp171
+tp172
+a(S'10th national film awards'
+p173
+g2
+(g6
+S'l\xb0IV8\x9f\xd4?'
+p174
+tp175
+Rp176
+tp177
+a(S'ivan gekoff'
+p178
+g2
+(g6
+S'\x8c\x95\xa3\x10\xf0j\xd4?'
+p179
+tp180
+Rp181
+tp182
+a(S'lists of animated feature films'
+p183
+g2
+(g6
+S'{\x85G\x14\x1c0\xd4?'
+p184
+tp185
+Rp186
+tp187
+a(S'kristina reed'
+p188
+g2
+(g6
+S'\x86d\x82\xe7\x1a,\xd4?'
+p189
+tp190
+Rp191
+tp192
+a(S'13th national film awards'
+p193
+g2
+(g6
+S'\xb9\xc1D\x0e\xe3+\xd4?'
+p194
+tp195
+Rp196
+tp197
+a(S'national film registry'
+p198
+g2
+(g6
+S'\x11\xfb\x98\x15\x9f\x06\xd4?'
+p199
+tp200
+Rp201
+tp202
+a(S'5th national film awards'
+p203
+g2
+(g6
+S'\x1f\xe0?m:\x00\xd4?'
+p204
+tp205
+Rp206
+tp207
+a(S'afi catalog of feature films'
+p208
+g2
+(g6
+S'\xe4\xe2\xb0\x8f~\xf0\xd3?'
+p209
+tp210
+Rp211
+tp212
+a(S'11th national film awards'
+p213
+g2
+(g6
+S'\xde\x96\x9a\xfc \xe0\xd3?'
+p214
+tp215
+Rp216
+tp217
+a(S'3rd national film awards'
+p218
+g2
+(g6
+S'o=\x03H\x14\xdc\xd3?'
+p219
+tp220
+Rp221
+tp222
+a(S'feature (computer vision)'
+p223
+g2
+(g6
+S'\x07\xadN\xe0\xf7\xc8\xd3?'
+p224
+tp225
+Rp226
+tp227
+a(S'list of three-strip technicolor films'
+p228
+g2
+(g6
+S'\x98HL\xf2-\xc4\xd3?'
+p229
+tp230
+Rp231
+tp232
+a(S'feature recognition'
+p233
+g2
+(g6
+S'\x88\xcd\xfb\xb8\xcc\xb0\xd3?'
+p234
+tp235
+Rp236
+tp237
+a(S'4th national film awards'
+p238
+g2
+(g6
+S'i\xbc\x16\xf6P\xa3\xd3?'
+p239
+tp240
+Rp241
+tp242
+a(S'7th national film awards'
+p243
+g2
+(g6
+S'V4Ub\xf0\x9e\xd3?'
+p244
+tp245
+Rp246
+tp247
+a(S'joe swanberg'
+p248
+g2
+(g6
+S'\xdf\\\xbf\x14\xb3\x9c\xd3?'
+p249
+tp250
+Rp251
+tp252
+a(S'grain media'
+p253
+g2
+(g6
+S'\xc8M$\xe6[\x9c\xd3?'
+p254
+tp255
+Rp256
+tp257
+a(S'aacta award for best young actor'
+p258
+g2
+(g6
+S'LS\x1b\x1f\xb3\\\xd3?'
+p259
+tp260
+Rp261
+tp262
+a(S'marwan kenzari'
+p263
+g2
+(g6
+S' \x19M\xbetS\xd3?'
+p264
+tp265
+Rp266
+tp267
+a(S'matthew w. allen'
+p268
+g2
+(g6
+S'\xe5\xa6I\xeb\x07R\xd3?'
+p269
+tp270
+Rp271
+tp272
+a(S'15th national film awards'
+p273
+g2
+(g6
+S'\xe8_\xb7\xb5BF\xd3?'
+p274
+tp275
+Rp276
+tp277
+a(S'laika (company)'
+p278
+g2
+(g6
+S'M_\xa2\x80\xecE\xd3?'
+p279
+tp280
+Rp281
+tp282
+a(S'list of animated feature films of the 2000s'
+p283
+g2
+(g6
+S'OC\x11\x0c\xef?\xd3?'
+p284
+tp285
+Rp286
+tp287
+a(S'feature story'
+p288
+g2
+(g6
+S'\xc2\xda\x03\x90>;\xd3?'
+p289
+tp290
+Rp291
+tp292
+a(S'2nd national film awards'
+p293
+g2
+(g6
+S'd\xdc\xe2r\xbd9\xd3?'
+p294
+tp295
+Rp296
+tp297
+a(S'anders refn'
+p298
+g2
+(g6
+S'8\xf0$K\xa8\x1e\xd3?'
+p299
+tp300
+Rp301
+tp302
+a(S'kristian eidnes andersen'
+p303
+g2
+(g6
+S';\xed\xc3q\xed\x1b\xd3?'
+p304
+tp305
+Rp306
+tp307
+a(S'9th national film awards'
+p308
+g2
+(g6
+S'\xd1\x8a\xa5\xda \x16\xd3?'
+p309
+tp310
+Rp311
+tp312
+a(S'companhia cinematogr\xc3\xa1fica vera cruz'
+p313
+g2
+(g6
+S'\x0b\xa2o\xb2\x88\xf7\xd2?'
+p314
+tp315
+Rp316
+tp317
+a(S'6th national film awards'
+p318
+g2
+(g6
+S'\xd8o\x127\x96\xe7\xd2?'
+p319
+tp320
+Rp321
+tp322
+a(S'aribam syam sharma'
+p323
+g2
+(g6
+S'\x8b\x14\xbaVv\xe7\xd2?'
+p324
+tp325
+Rp326
+tp327
+a(S'memfis film'
+p328
+g2
+(g6
+S'\xf6\xa5\xb2b\xf6\xde\xd2?'
+p329
+tp330
+Rp331
+tp332
+a(S'can togay'
+p333
+g2
+(g6
+S'\xc0.R8>\xd1\xd2?'
+p334
+tp335
+Rp336
+tp337
+a(S'nikolai m\xc3\xbcllersch\xc3\xb6n'
+p338
+g2
+(g6
+S'a\xca\xec\xbb\x80\xbc\xd2?'
+p339
+tp340
+Rp341
+tp342
+a(S'ajax films'
+p343
+g2
+(g6
+S'\xb0_\x80\xbb\xb6v\xd2?'
+p344
+tp345
+Rp346
+tp347
+a(S'eshraghanimation co'
+p348
+g2
+(g6
+S'\xda\xf7\xee\xf2\xf4p\xd2?'
+p349
+tp350
+Rp351
+tp352
+a(S'ken erics'
+p353
+g2
+(g6
+S'\x173\xf2\x9b|/\xd2?'
+p354
+tp355
+Rp356
+tp357
+a(S'feature vector'
+p358
+g2
+(g6
+S'\xe6p\x99GW-\xd2?'
+p359
+tp360
+Rp361
+tp362
+a(S'austin stark'
+p363
+g2
+(g6
+S'c\x14\x00\xba\xe2\x1b\xd2?'
+p364
+tp365
+Rp366
+tp367
+a(S'one night in one city'
+p368
+g2
+(g6
+S'\xd6\xb1\xb9X#\r\xd2?'
+p369
+tp370
+Rp371
+tp372
+a(S'cinema of the united kingdom'
+p373
+g2
+(g6
+S'g\xfbQ\xac0\n\xd2?'
+p374
+tp375
+Rp376
+tp377
+a(S'film industry'
+p378
+g2
+(g6
+S'\xe3\\oJ2\xdc\xd1?'
+p379
+tp380
+Rp381
+tp382
+a(S'samuel ajibola'
+p383
+g2
+(g6
+S'+\x90[M\xd7\xdb\xd1?'
+p384
+tp385
+Rp386
+tp387
+a(S'christian harting'
+p388
+g2
+(g6
+S'\x17\x82\xcc\x1bQ\xc4\xd1?'
+p389
+tp390
+Rp391
+tp392
+a(S'19th national film awards'
+p393
+g2
+(g6
+S"\x07\xc3'\x03\xb9\xb3\xd1?"
+p394
+tp395
+Rp396
+tp397
+a(S'blossom chukwujekwu'
+p398
+g2
+(g6
+S'\xcc\xcf\x0c\xc5\xca\xb2\xd1?'
+p399
+tp400
+Rp401
+tp402
+a(S'outline of film'
+p403
+g2
+(g6
+S'5\xcd\x1c\xf7\x1a\xb2\xd1?'
+p404
+tp405
+Rp406
+tp407
+a(S's\xc3\xb8ren kragh-jacobsen'
+p408
+g2
+(g6
+S'g\x14\xc4\xfc\xb7\x95\xd1?'
+p409
+tp410
+Rp411
+tp412
+a(S'martyn park'
+p413
+g2
+(g6
+S'\xbc\xd1^{%\x93\xd1?'
+p414
+tp415
+Rp416
+tp417
+a(S'tim morton'
+p418
+g2
+(g6
+S'^>_/\xa8\x88\xd1?'
+p419
+tp420
+Rp421
+tp422
+a(S'fraser film release and photographic company'
+p423
+g2
+(g6
+S'\xf1_g\xc0Gx\xd1?'
+p424
+tp425
+Rp426
+tp427
+a(S'jim sweeney (actor)'
+p428
+g2
+(g6
+S'\xe6u\x8eK\xfaj\xd1?'
+p429
+tp430
+Rp431
+tp432
+a(S'max nivelli'
+p433
+g2
+(g6
+S'\xa6\xcb\xe3{\x17f\xd1?'
+p434
+tp435
+Rp436
+tp437
+a(S'20th national film awards'
+p438
+g2
+(g6
+S'\xb8\xd4k\xd7\x1ab\xd1?'
+p439
+tp440
+Rp441
+tp442
+a(S'deyemi okanlawon'
+p443
+g2
+(g6
+S'|\xd8\x05^cU\xd1?'
+p444
+tp445
+Rp446
+tp447
+a(S'shannon mccormick'
+p448
+g2
+(g6
+S'Q\x83=\xb8*T\xd1?'
+p449
+tp450
+Rp451
+tp452
+a(S'leda serene films'
+p453
+g2
+(g6
+S'\x7f5\xecYn>\xd1?'
+p454
+tp455
+Rp456
+tp457
+a(S'b movies (hollywood golden age)'
+p458
+g2
+(g6
+S'\xb7Yi\xf61:\xd1?'
+p459
+tp460
+Rp461
+tp462
+a(S'predrag bambi\xc4\x87'
+p463
+g2
+(g6
+S'\xd8K!\xb1\xec)\xd1?'
+p464
+tp465
+Rp466
+tp467
+a(S'feature structure'
+p468
+g2
+(g6
+S' \xb2^I\xf8\x1b\xd1?'
+p469
+tp470
+Rp471
+tp472
+a(S'feature-driven development'
+p473
+g2
+(g6
+S'\xf3\xe54\xa3\x9d\xfa\xd0?'
+p474
+tp475
+Rp476
+tp477
+a(S'r\xc3\xbanar r\xc3\xbanarsson'
+p478
+g2
+(g6
+S'd\xa9w@\xa6\xed\xd0?'
+p479
+tp480
+Rp481
+tp482
+a(S'digital intermediate'
+p483
+g2
+(g6
+S'\x91\xe3\xf4\x8f\xe6\xdc\xd0?'
+p484
+tp485
+Rp486
+tp487
+a(S'majid majidi'
+p488
+g2
+(g6
+S'\xcc\xa8\xf5@\xb4\xcb\xd0?'
+p489
+tp490
+Rp491
+tp492
+a(S'8th national film awards'
+p493
+g2
+(g6
+S'\xcc-\xd3\xea\xc5\xc9\xd0?'
+p494
+tp495
+Rp496
+tp497
+a(S'lost film'
+p498
+g2
+(g6
+S'3E\x04j\x00\xbf\xd0?'
+p499
+tp500
+Rp501
+tp502
+a(S'18th national film awards'
+p503
+g2
+(g6
+S'\x04\xc6\x12~\x89\xb8\xd0?'
+p504
+tp505
+Rp506
+tp507
+a(S'bill bennett (director)'
+p508
+g2
+(g6
+S'\xb9}\x93\xc10\xb2\xd0?'
+p509
+tp510
+Rp511
+tp512
+a(S'lists of films'
+p513
+g2
+(g6
+S'"4\xb2\xf5\x8d\xa5\xd0?'
+p514
+tp515
+Rp516
+tp517
+a(S'17th national film awards'
+p518
+g2
+(g6
+S'\x18\xc9f/\xfd\x9c\xd0?'
+p519
+tp520
+Rp521
+tp522
+a(S'christian volckman'
+p523
+g2
+(g6
+S'\xa7\x8a\x19\x06\x93\x93\xd0?'
+p524
+tp525
+Rp526
+tp527
+a(S'trish lake'
+p528
+g2
+(g6
+S'\x1a\x8d@\x81\xd4\x90\xd0?'
+p529
+tp530
+Rp531
+tp532
+a(S'janez burger'
+p533
+g2
+(g6
+S'0\x19SF\xb0\x90\xd0?'
+p534
+tp535
+Rp536
+tp537
+a(S'lists of animated films'
+p538
+g2
+(g6
+S'\xdf^J\xe3}\x8d\xd0?'
+p539
+tp540
+Rp541
+tp542
+a(S'3d film'
+p543
+g2
+(g6
+S'\x1c\xf6\xfc\x08fZ\xd0?'
+p544
+tp545
+Rp546
+tp547
+a(S'momotar\xc5\x8d no umiwashi'
+p548
+g2
+(g6
+S'\x85{bY\xd7P\xd0?'
+p549
+tp550
+Rp551
+tp552
+a(S'terrence scammell (canadian actor)'
+p553
+g2
+(g6
+S'\x9cy\xf4\x81EN\xd0?'
+p554
+tp555
+Rp556
+tp557
+a(S'shaheed woods'
+p558
+g2
+(g6
+S'\xe8!!)\xb7<\xd0?'
+p559
+tp560
+Rp561
+tp562
+a(S'valdivia international film festival'
+p563
+g2
+(g6
+S'\xeeq\xd9\x8a\xad6\xd0?'
+p564
+tp565
+Rp566
+tp567
+a(S'b movie'
+p568
+g2
+(g6
+S"'yH\xd1S$\xd0?"
+p569
+tp570
+Rp571
+tp572
+a(S'16th national film awards'
+p573
+g2
+(g6
+S'2\x00\x08\xce]\x18\xd0?'
+p574
+tp575
+Rp576
+tp577
+a(S'tim burstall'
+p578
+g2
+(g6
+S'\xaf|\xbe\xa2\x8b\x16\xd0?'
+p579
+tp580
+Rp581
+tp582
+a(S'a. r. harwood'
+p583
+g2
+(g6
+S'$\xfe&\x10\xcb\x13\xd0?'
+p584
+tp585
+Rp586
+tp587
+a(S'young critics circle award for best first feature'
+p588
+g2
+(g6
+S'\x83\x02\xf4\xb6\xd0\x10\xd0?'
+p589
+tp590
+Rp591
+tp592
+a(S'manon rasmussen'
+p593
+g2
+(g6
+S'\r\xb8_E\x9b\x01\xd0?'
+p594
+tp595
+Rp596
+tp597
+a(S'1st national film awards'
+p598
+g2
+(g6
+S'\x83\x00E?\x85\xf9\xcf?'
+p599
+tp600
+Rp601
+tp602
+a(S'featurette'
+p603
+g2
+(g6
+S'G\xaa\xf0\x93\xb6\xd8\xcf?'
+p604
+tp605
+Rp606
+tp607
+a(S'feature selection'
+p608
+g2
+(g6
+S'\xb1=\x9aM\xcf\xc9\xcf?'
+p609
+tp610
+Rp611
+tp612
+a(S'madhureeta anand'
+p613
+g2
+(g6
+S'9\xa6\xa8\x1d=\xc6\xcf?'
+p614
+tp615
+Rp616
+tp617
+a(S'manhattan film festival'
+p618
+g2
+(g6
+S'\xf96\x1b[h\xbf\xcf?'
+p619
+tp620
+Rp621
+tp622
+a(S'natural color'
+p623
+g2
+(g6
+S'\rU\xdd\xa0\x0c\xae\xcf?'
+p624
+tp625
+Rp626
+tp627
+a(S'kalthoum bornaz'
+p628
+g2
+(g6
+S'\x7f$\x8a\x90\x9e\x8b\xcf?'
+p629
+tp630
+Rp631
+tp632
+a(S'ernest riffe'
+p633
+g2
+(g6
+S'\n\xbc3/\xc0\x89\xcf?'
+p634
+tp635
+Rp636
+tp637
+a(S'steve balderson'
+p638
+g2
+(g6
+S'Sg3 X\x82\xcf?'
+p639
+tp640
+Rp641
+tp642
+a(S'feature scaling'
+p643
+g2
+(g6
+S'\rU\x85O\xd1u\xcf?'
+p644
+tp645
+Rp646
+tp647
+a(S'bryan poyser'
+p648
+g2
+(g6
+S'W\x04\x1d\xfa\x9e`\xcf?'
+p649
+tp650
+Rp651
+tp652
+a(S'list of animated feature films of the 2010s'
+p653
+g2
+(g6
+S'\xfbaj)\xbb]\xcf?'
+p654
+tp655
+Rp656
+tp657
+a(S'burbank international film festival'
+p658
+g2
+(g6
+S'\x97\xaf\x0c\xf0\xa7Z\xcf?'
+p659
+tp660
+Rp661
+tp662
+a(S'cinema of north korea'
+p663
+g2
+(g6
+S'j\x8d.\xc1QO\xcf?'
+p664
+tp665
+Rp666
+tp667
+a(S'cherie roberts'
+p668
+g2
+(g6
+S'P\x16\x1eZ ?\xcf?'
+p669
+tp670
+Rp671
+tp672
+a(S'flemming quist m\xc3\xb8ller'
+p673
+g2
+(g6
+S'7\x92\xa7.\x96:\xcf?'
+p674
+tp675
+Rp676
+tp677
+a(S'the world of goopi and bagha'
+p678
+g2
+(g6
+S'l\xc2\xc3\x15\xc53\xcf?'
+p679
+tp680
+Rp681
+tp682
+a(S'feature detection'
+p683
+g2
+(g6
+S'J\xfdS\xa6<,\xcf?'
+p684
+tp685
+Rp686
+tp687
+a(S'jayant maru'
+p688
+g2
+(g6
+S'6\x91\xe5\x84\xc2*\xcf?'
+p689
+tp690
+Rp691
+tp692
+a(S'cinesound productions'
+p693
+g2
+(g6
+S'\x05\xf3\xff\x8d{\x1a\xcf?'
+p694
+tp695
+Rp696
+tp697
+a(S'history of film technology'
+p698
+g2
+(g6
+S'\x88\xcd\xbd\x91\x86\x18\xcf?'
+p699
+tp700
+Rp701
+tp702
+a(S'cinema in sneakers (film festival)'
+p703
+g2
+(g6
+S'L3\x89\xfa\xbe\x05\xcf?'
+p704
+tp705
+Rp706
+tp707
+a(S'listapad'
+p708
+g2
+(g6
+S'\x15\xea\xd9%\x97\xf6\xce?'
+p709
+tp710
+Rp711
+tp712
+a(S'anne wheeler'
+p713
+g2
+(g6
+S'\xdb\x96\x08\xd6J\xf0\xce?'
+p714
+tp715
+Rp716
+tp717
+a(S'list of the man from u.n.c.l.e. episodes'
+p718
+g2
+(g6
+S'b \xffg\x1b\xf0\xce?'
+p719
+tp720
+Rp721
+tp722
+a(S'feature interaction problem'
+p723
+g2
+(g6
+S'\xb5\\}\xc4\xb1\xe9\xce?'
+p724
+tp725
+Rp726
+tp727
+a(S'59th national film awards'
+p728
+g2
+(g6
+S"\xffL\t\xad'\xe6\xce?"
+p729
+tp730
+Rp731
+tp732
+a(S'horacio priani'
+p733
+g2
+(g6
+S'\x8a\xe0\xea\xfa\xcd\xdc\xce?'
+p734
+tp735
+Rp736
+tp737
+a(S'sound film'
+p738
+g2
+(g6
+S'\x0f\xb2\xfc\x97\xaf\xdb\xce?'
+p739
+tp740
+Rp741
+tp742
+a(S'infinifilm'
+p743
+g2
+(g6
+S'k\xd52\xb0\xd9\xd5\xce?'
+p744
+tp745
+Rp746
+tp747
+a(S'australian independent film'
+p748
+g2
+(g6
+S';\x91%\xf2o\xc0\xce?'
+p749
+tp750
+Rp751
+tp752
+a(S'jean-fran\xc3\xa7ois laguionie'
+p753
+g2
+(g6
+S'\xdbb\x13\x1c\x84\xb3\xce?'
+p754
+tp755
+Rp756
+tp757
+a(S'digital 3d'
+p758
+g2
+(g6
+S'*\x9af\x96\xca\xae\xce?'
+p759
+tp760
+Rp761
+tp762
+a(S'ralph smart'
+p763
+g2
+(g6
+S'u:s\x02\x91\xa0\xce?'
+p764
+tp765
+Rp766
+tp767
+a(S'feature data'
+p768
+g2
+(g6
+S'_\xe0YjW\xa0\xce?'
+p769
+tp770
+Rp771
+tp772
+a(S'danijel sraka'
+p773
+g2
+(g6
+S'M\x83\x80,\xde\x91\xce?'
+p774
+tp775
+Rp776
+tp777
+a(S'104 films'
+p778
+g2
+(g6
+S'\x0eq\xcf\xef\xeem\xce?'
+p779
+tp780
+Rp781
+tp782
+a(S'list of open-source films'
+p783
+g2
+(g6
+S'D\xd2\xf3\x93\x81h\xce?'
+p784
+tp785
+Rp786
+tp787
+a(S'john korty'
+p788
+g2
+(g6
+S'\x8f\x00v\xa8=`\xce?'
+p789
+tp790
+Rp791
+tp792
+a(S'independent film'
+p793
+g2
+(g6
+S'?\xfc\xd0\xf9\x05U\xce?'
+p794
+tp795
+Rp796
+tp797
+a(S'digital cinema'
+p798
+g2
+(g6
+S'\x85\xaa\x0f\xabLG\xce?'
+p799
+tp800
+Rp801
+tp802
+a(S'porcelain film'
+p803
+g2
+(g6
+S'\xae.\xb5\x85\x9f:\xce?'
+p804
+tp805
+Rp806
+tp807
+a(S'twin films'
+p808
+g2
+(g6
+S'c\x9c\xaa\xe1;\x18\xce?'
+p809
+tp810
+Rp811
+tp812
+a(S'cinema of hungary'
+p813
+g2
+(g6
+S'\x9fm|\xde\xf0\r\xce?'
+p814
+tp815
+Rp816
+tp817
+a(S'arizona international film festival'
+p818
+g2
+(g6
+S'\x8c\x17\x9a|\x10\x07\xce?'
+p819
+tp820
+Rp821
+tp822
+a(S'san diego film festival'
+p823
+g2
+(g6
+S'\xf2W\x03y\x02\x06\xce?'
+p824
+tp825
+Rp826
+tp827
+a(S'harrisburg in film and television'
+p828
+g2
+(g6
+S'\xcd\x97\xdc\xb9\xcc\xfc\xcd?'
+p829
+tp830
+Rp831
+tp832
+a(S'kevin allen (actor)'
+p833
+g2
+(g6
+S'\x7f%<\xec\x0c\xdd\xcd?'
+p834
+tp835
+Rp836
+tp837
+a(S'andrew david'
+p838
+g2
+(g6
+S'\x12{(9m\xd7\xcd?'
+p839
+tp840
+Rp841
+tp842
+a(S'chip gubera'
+p843
+g2
+(g6
+S'%0\x8f\xdc\xc7\xd2\xcd?'
+p844
+tp845
+Rp846
+tp847
+a(S'oil valley film festival'
+p848
+g2
+(g6
+S'lD\x12\xcb\x88\xc1\xcd?'
+p849
+tp850
+Rp851
+tp852
+a(S'digital cinematography'
+p853
+g2
+(g6
+S'\xef\x90\x87\xdf`\xb6\xcd?'
+p854
+tp855
+Rp856
+tp857
+a(S'steve james (producer)'
+p858
+g2
+(g6
+S'5 \xfd\xc7\x9c\xa4\xcd?'
+p859
+tp860
+Rp861
+tp862
+a(S'best actor award (vietnam film festival)'
+p863
+g2
+(g6
+S'Y\xd4"P\xca\x99\xcd?'
+p864
+tp865
+Rp866
+tp867
+a(S'alain maiki'
+p868
+g2
+(g6
+S'\x85\xe2\x13S6\x98\xcd?'
+p869
+tp870
+Rp871
+tp872
+a(S'laurel and hardy filmography'
+p873
+g2
+(g6
+S'\xc8K\xb1*\xc4\x90\xcd?'
+p874
+tp875
+Rp876
+tp877
+a(S'cinema of the united states'
+p878
+g2
+(g6
+S'\x90\xecz\xb9m~\xcd?'
+p879
+tp880
+Rp881
+tp882
+a(S'lists of american films'
+p883
+g2
+(g6
+S'\x0f\x9f\x96\x83ct\xcd?'
+p884
+tp885
+Rp886
+tp887
+a(S'signal fire films'
+p888
+g2
+(g6
+S'\x1b\xa8\x85\x85\x9c]\xcd?'
+p889
+tp890
+Rp891
+tp892
+a(S'joshua butler'
+p893
+g2
+(g6
+S'N\xbc\xfe\xa6\x9aM\xcd?'
+p894
+tp895
+Rp896
+tp897
+a(S'adventures in africa'
+p898
+g2
+(g6
+S'\xaa\xb6H\xf9vL\xcd?'
+p899
+tp900
+Rp901
+tp902
+a(S'lists of science fiction films'
+p903
+g2
+(g6
+S'xj\xf8\x89\r@\xcd?'
+p904
+tp905
+Rp906
+tp907
+a(S'graham robertson'
+p908
+g2
+(g6
+S'\x12\xd0n2p+\xcd?'
+p909
+tp910
+Rp911
+tp912
+a(S'21st national film awards'
+p913
+g2
+(g6
+S'\x99\x92\xaeR\xd9\x1f\xcd?'
+p914
+tp915
+Rp916
+tp917
+a(S'fencesitter films'
+p918
+g2
+(g6
+S'>\x11/mO\x1c\xcd?'
+p919
+tp920
+Rp921
+tp922
+a(S'pentamedia graphics'
+p923
+g2
+(g6
+S'X\x87lD\xd1\x16\xcd?'
+p924
+tp925
+Rp926
+tp927
+a(S'war film'
+p928
+g2
+(g6
+S'(E\x81\xd4^\x0b\xcd?'
+p929
+tp930
+Rp931
+tp932
+a(S'sehsuechte'
+p933
+g2
+(g6
+S'\xc8\x82\x94 \xa2\n\xcd?'
+p934
+tp935
+Rp936
+tp937
+a(S'david schurmann'
+p938
+g2
+(g6
+S'?W\xf0\r\xca\xfe\xcc?'
+p939
+tp940
+Rp941
+tp942
+a(S'ten minutes'
+p943
+g2
+(g6
+S'\xe7\xf0\xdc\x80L\xf7\xcc?'
+p944
+tp945
+Rp946
+tp947
+a(S"international critics' week"
+p948
+g2
+(g6
+S'b\xdez \x93\xf6\xcc?'
+p949
+tp950
+Rp951
+tp952
+a(S'andr\xc3\xa9s baiz'
+p953
+g2
+(g6
+S'\x99\xd2\x10\x17\xcc\xf1\xcc?'
+p954
+tp955
+Rp956
+tp957
+a(S'list of lost or unfinished animated films'
+p958
+g2
+(g6
+S'WM\x9bf\x92\xf0\xcc?'
+p959
+tp960
+Rp961
+tp962
+a(S'prince bagdasarian'
+p963
+g2
+(g6
+S'\x0fw\x98\x02\xd5\xef\xcc?'
+p964
+tp965
+Rp966
+tp967
+a(S'list of pixar awards and nominations (feature films)'
+p968
+g2
+(g6
+S'\xacbL\xf3\xb0\xeb\xcc?'
+p969
+tp970
+Rp971
+tp972
+a(S"rupert's land (film)"
+p973
+g2
+(g6
+S'\x90;\x1a\xba\x94\xe4\xcc?'
+p974
+tp975
+Rp976
+tp977
+a(S'brian herzlinger'
+p978
+g2
+(g6
+S'\xefrU-=\xd5\xcc?'
+p979
+tp980
+Rp981
+tp982
+a(S'jim finn (filmmaker)'
+p983
+g2
+(g6
+S'L\xe9\xfatu\xd2\xcc?'
+p984
+tp985
+Rp986
+tp987
+a(S'boston international film festival'
+p988
+g2
+(g6
+S'\xf2\xb7m\xcf\xec\xd1\xcc?'
+p989
+tp990
+Rp991
+tp992
+a(S'national film development corporation of india'
+p993
+g2
+(g6
+S'm\x03r\xac\xa8\xc4\xcc?'
+p994
+tp995
+Rp996
+tp997
+a(S'rupesh paul'
+p998
+g2
+(g6
+S'u\xcc\x00\x00\xa9\xc1\xcc?'
+p999
+tp1000
+Rp1001
+tp1002
+a(S'champs-\xc3\x89lys\xc3\xa9es film festival'
+p1003
+g2
+(g6
+S'\x1a\xa3\x84\xbdY\xbf\xcc?'
+p1004
+tp1005
+Rp1006
+tp1007
+a(S'fridthjof film'
+p1008
+g2
+(g6
+S'D\xbe\x861\xf3\xbc\xcc?'
+p1009
+tp1010
+Rp1011
+tp1012
+a(S'adrienne king'
+p1013
+g2
+(g6
+S'\x85\x96\xb1&\x13\xb3\xcc?'
+p1014
+tp1015
+Rp1016
+tp1017
+a(S'high chicago'
+p1018
+g2
+(g6
+S'1\xf9\x95\xb9\x0e\xb1\xcc?'
+p1019
+tp1020
+Rp1021
+tp1022
+a(S'the best damn fiddler from calabogie to kaladar'
+p1023
+g2
+(g6
+S'=\x99,p\xe0\x9a\xcc?'
+p1024
+tp1025
+Rp1026
+tp1027
+a(S'lists of western films'
+p1028
+g2
+(g6
+S'E\xddf\xd8G\x93\xcc?'
+p1029
+tp1030
+Rp1031
+tp1032
+a(S't. j. martin'
+p1033
+g2
+(g6
+S'\x83u&9\xa6\x91\xcc?'
+p1034
+tp1035
+Rp1036
+tp1037
+a(S'gordon mcghie'
+p1038
+g2
+(g6
+S'\xc2\xa8\x02f\x11\x8f\xcc?'
+p1039
+tp1040
+Rp1041
+tp1042
+a(S'lists of fiction works made into feature films'
+p1043
+g2
+(g6
+S'[\xa4Td\xda}\xcc?'
+p1044
+tp1045
+Rp1046
+tp1047
+a(S'daniel mulloy'
+p1048
+g2
+(g6
+S'b\x9e\x0ff\xc0o\xcc?'
+p1049
+tp1050
+Rp1051
+tp1052
+a(S'feature comics'
+p1053
+g2
+(g6
+S'\x9d\xa2\x99\xa0\xb0Y\xcc?'
+p1054
+tp1055
+Rp1056
+tp1057
+a(S'bruce sweeney'
+p1058
+g2
+(g6
+S'\xae\x04\x99V[W\xcc?'
+p1059
+tp1060
+Rp1061
+tp1062
+a(S'per holst'
+p1063
+g2
+(g6
+S'\x8c\xbe\x88\xcb\xae;\xcc?'
+p1064
+tp1065
+Rp1066
+tp1067
+a(S'cinema of japan'
+p1068
+g2
+(g6
+S']5\xcf\x06a0\xcc?'
+p1069
+tp1070
+Rp1071
+tp1072
+a(S'abbas kiarostami filmography'
+p1073
+g2
+(g6
+S'\xd8\xb3:\x7f\x82&\xcc?'
+p1074
+tp1075
+Rp1076
+tp1077
+a(S'best actress award (vietnam film festival)'
+p1078
+g2
+(g6
+S'\xbcm\x0b\xf6\x9d%\xcc?'
+p1079
+tp1080
+Rp1081
+tp1082
+a(S'world wide adventures'
+p1083
+g2
+(g6
+S'&\xf7\xde\x89k \xcc?'
+p1084
+tp1085
+Rp1086
+tp1087
+a(S'scott patterson (director)'
+p1088
+g2
+(g6
+S'\x80\xb04\x9fi\x1f\xcc?'
+p1089
+tp1090
+Rp1091
+tp1092
+a(S'caitlin stokes'
+p1093
+g2
+(g6
+S'\x94}g\xb1:\t\xcc?'
+p1094
+tp1095
+Rp1096
+tp1097
+a(S'exploitation film'
+p1098
+g2
+(g6
+S'\x168 ^\x1e\x06\xcc?'
+p1099
+tp1100
+Rp1101
+tp1102
+a(S'feature selection toolbox'
+p1103
+g2
+(g6
+S"\xe1(6\xca'\xff\xcb?"
+p1104
+tp1105
+Rp1106
+tp1107
+a(S'kantana group'
+p1108
+g2
+(g6
+S'\xd3\xfb\x93\x15\x07\xfd\xcb?'
+p1109
+tp1110
+Rp1111
+tp1112
+a(S"children's film"
+p1113
+g2
+(g6
+S'\x7fq\xa4N\xd1\xfb\xcb?'
+p1114
+tp1115
+Rp1116
+tp1117
+a(S'list of early color feature films'
+p1118
+g2
+(g6
+S'\x80z\x15G0\xfb\xcb?'
+p1119
+tp1120
+Rp1121
+tp1122
+a(S'anthony simmons (writer)'
+p1123
+g2
+(g6
+S'~\x15\xba^\xbe\xfa\xcb?'
+p1124
+tp1125
+Rp1126
+tp1127
+a(S'61st national film awards'
+p1128
+g2
+(g6
+S'6\x94r\x19\xae\xf9\xcb?'
+p1129
+tp1130
+Rp1131
+tp1132
+a(S'feature geometry'
+p1133
+g2
+(g6
+S'*\xac\x81\x91\xc2\xe5\xcb?'
+p1134
+tp1135
+Rp1136
+tp1137
+a(S'ren\xc3\xa9e lippin'
+p1138
+g2
+(g6
+S'\x17o\xc7\xcb\x90\xd8\xcb?'
+p1139
+tp1140
+Rp1141
+tp1142
+a(S'eli rarey'
+p1143
+g2
+(g6
+S'\x1e]?m#\xd1\xcb?'
+p1144
+tp1145
+Rp1146
+tp1147
+a(S'cinema of the philippines'
+p1148
+g2
+(g6
+S'\x03\xfc\xff\x08\x0b\xcb\xcb?'
+p1149
+tp1150
+Rp1151
+tp1152
+a(S'muneesh sappel'
+p1153
+g2
+(g6
+S'\xb5`\x98\xaf\x1f\xca\xcb?'
+p1154
+tp1155
+Rp1156
+tp1157
+a(S'duhok international film festival'
+p1158
+g2
+(g6
+S'\xd9\x08\x1b\xa8\xc7\xc8\xcb?'
+p1159
+tp1160
+Rp1161
+tp1162
+a(S'list of films split into multiple parts'
+p1163
+g2
+(g6
+S't\xd9&\xd4\xa5\xc2\xcb?'
+p1164
+tp1165
+Rp1166
+tp1167
+a(S'l\xc3\xa9andre-alain baker'
+p1168
+g2
+(g6
+S'"a\x04!\xf0\xbc\xcb?'
+p1169
+tp1170
+Rp1171
+tp1172
+a(S'nickelodeon (movie theater)'
+p1173
+g2
+(g6
+S'\x8d\x9e\x82Q\xcd\xbb\xcb?'
+p1174
+tp1175
+Rp1176
+tp1177
+a(S'film north \xe2\x80\x93 huntsville international film festival'
+p1178
+g2
+(g6
+S'Hm$%\x92\xba\xcb?'
+p1179
+tp1180
+Rp1181
+tp1182
+a(S'documentary film'
+p1183
+g2
+(g6
+S'\xc8Pq\x00\xf2\xb4\xcb?'
+p1184
+tp1185
+Rp1186
+tp1187
+a(S'list of accolades received by frozen (2013 film)'
+p1188
+g2
+(g6
+S'Ci\xec\xfc\x99\xb2\xcb?'
+p1189
+tp1190
+Rp1191
+tp1192
+a(S'buenos aires rojo sangre'
+p1193
+g2
+(g6
+S'b8\xaby\xe7\xaa\xcb?'
+p1194
+tp1195
+Rp1196
+tp1197
+a(S'the corbett-fitzsimmons fight'
+p1198
+g2
+(g6
+S'0f\xdd_\x05\xa5\xcb?'
+p1199
+tp1200
+Rp1201
+tp1202
+a(S'australian screen online'
+p1203
+g2
+(g6
+S'\x0c\xc7\x04N\xb9\x93\xcb?'
+p1204
+tp1205
+Rp1206
+tp1207
+a(S'david nykl'
+p1208
+g2
+(g6
+S'Z;j\xef\x81\x93\xcb?'
+p1209
+tp1210
+Rp1211
+tp1212
+a(S'kaviyoor sivaprasad'
+p1213
+g2
+(g6
+S'\x16\x9b\x1c\xab\xc0\x82\xcb?'
+p1214
+tp1215
+Rp1216
+tp1217
+a(S'cinema asia releasing'
+p1218
+g2
+(g6
+S'\xbd\xf3\xe3\xc8\x97z\xcb?'
+p1219
+tp1220
+Rp1221
+tp1222
+a(S'vie et passion du christ'
+p1223
+g2
+(g6
+S'a\x8f\xbe\x11Av\xcb?'
+p1224
+tp1225
+Rp1226
+tp1227
+a(S'b movies (transition in the 1950s)'
+p1228
+g2
+(g6
+S'\x06\x00\xe6\xc2\xcbu\xcb?'
+p1229
+tp1230
+Rp1231
+tp1232
+a(S'cinequest film festival'
+p1233
+g2
+(g6
+S'\xce\xa9\x1d\x16~n\xcb?'
+p1234
+tp1235
+Rp1236
+tp1237
+a(S'feature films for families'
+p1238
+g2
+(g6
+S'\xb9\x891\xa3\xd1_\xcb?'
+p1239
+tp1240
+Rp1241
+tp1242
+a(S'geometric feature learning'
+p1243
+g2
+(g6
+S'i3\xc5\xaeFW\xcb?'
+p1244
+tp1245
+Rp1246
+tp1247
+a(S'robert o. peters'
+p1248
+g2
+(g6
+S"\xa0\x11\t\x9e'Q\xcb?"
+p1249
+tp1250
+Rp1251
+tp1252
+a(S'list of indian film series'
+p1253
+g2
+(g6
+S'\x02\xa4l\n\xd4J\xcb?'
+p1254
+tp1255
+Rp1256
+tp1257
+a(S'fubar films'
+p1258
+g2
+(g6
+S'WWs\xd7\xa4D\xcb?'
+p1259
+tp1260
+Rp1261
+tp1262
+a(S'les mis\xc3\xa9rables (1909 film)'
+p1263
+g2
+(g6
+S'vL\xfe\xfah:\xcb?'
+p1264
+tp1265
+Rp1266
+tp1267
+a(S'guy maddin'
+p1268
+g2
+(g6
+S'T&\x92\xefv1\xcb?'
+p1269
+tp1270
+Rp1271
+tp1272
+a(S'cinema of germany'
+p1273
+g2
+(g6
+S'\xf0\x9d\xe0\x07\xb7\x1d\xcb?'
+p1274
+tp1275
+Rp1276
+tp1277
+a(S'high falls film festival'
+p1278
+g2
+(g6
+S'$\xffg\xad\x9d\x12\xcb?'
+p1279
+tp1280
+Rp1281
+tp1282
+a(S'frances-anne solomon'
+p1283
+g2
+(g6
+S'X\x9f\x8e\xaei\x0f\xcb?'
+p1284
+tp1285
+Rp1286
+tp1287
+a(S'shyam benegal filmography'
+p1288
+g2
+(g6
+S'\xb5E\xbf\x06\xae\x08\xcb?'
+p1289
+tp1290
+Rp1291
+tp1292
+a(S'long take'
+p1293
+g2
+(g6
+S'\xf4\xbdz\x0b\x01\x08\xcb?'
+p1294
+tp1295
+Rp1296
+tp1297
+a(S'cinema16'
+p1298
+g2
+(g6
+S'\xd49\xed\nH\x07\xcb?'
+p1299
+tp1300
+Rp1301
+tp1302
+a(S'veriscope'
+p1303
+g2
+(g6
+S'd#\no\x0e\x06\xcb?'
+p1304
+tp1305
+Rp1306
+tp1307
+a(S'gillian armstrong'
+p1308
+g2
+(g6
+S'\xda\xa1B\xd3\x94\xff\xca?'
+p1309
+tp1310
+Rp1311
+tp1312
+a(S'aaron woolfolk'
+p1313
+g2
+(g6
+S'0\x0fq/\x90\xfc\xca?'
+p1314
+tp1315
+Rp1316
+tp1317
+a(S'silent film'
+p1318
+g2
+(g6
+S'K\x0c\xbb\x01\x0c\xfb\xca?'
+p1319
+tp1320
+Rp1321
+tp1322
+a(S'63rd national film awards'
+p1323
+g2
+(g6
+S'\x02`\xb7 \x15\xf9\xca?'
+p1324
+tp1325
+Rp1326
+tp1327
+a(S'comic animations'
+p1328
+g2
+(g6
+S',w\x8c\xbd\xd6\xf8\xca?'
+p1329
+tp1330
+Rp1331
+tp1332
+a(S'feature (linguistics)'
+p1333
+g2
+(g6
+S'\xcc\x9fh\xb0\xdb\xf2\xca?'
+p1334
+tp1335
+Rp1336
+tp1337
+a(S'bol\xc3\xadvar films'
+p1338
+g2
+(g6
+S'tS\xd4J\xea\xed\xca?'
+p1339
+tp1340
+Rp1341
+tp1342
+a(S'annie award for best animated feature \xe2\x80\x94 independent'
+p1343
+g2
+(g6
+S'\x8e\x06\n\xc3\xa0\xeb\xca?'
+p1344
+tp1345
+Rp1346
+tp1347
+a(S'art film'
+p1348
+g2
+(g6
+S'\xffd\x83\xbe!\xe4\xca?'
+p1349
+tp1350
+Rp1351
+tp1352
+a(S'62nd national film awards'
+p1353
+g2
+(g6
+S'\xc5y\xf5e\xf2\xdf\xca?'
+p1354
+tp1355
+Rp1356
+tp1357
+a(S'ajla hod\xc5\xbei\xc4\x87'
+p1358
+g2
+(g6
+S'\xce\xf7\xb7\xc7<\xda\xca?'
+p1359
+tp1360
+Rp1361
+tp1362
+a(S'color motion picture film'
+p1363
+g2
+(g6
+S'\xb8\xfa\xd5\xfc)\xda\xca?'
+p1364
+tp1365
+Rp1366
+tp1367
+a(S'nila madhab panda'
+p1368
+g2
+(g6
+S'\x00\x89\xe7k\x87\xcc\xca?'
+p1369
+tp1370
+Rp1371
+tp1372
+a(S'tom george kolath'
+p1373
+g2
+(g6
+S'\xd5\xefp\rd\xca\xca?'
+p1374
+tp1375
+Rp1376
+tp1377
+a(S'alison bruce'
+p1378
+g2
+(g6
+S'cs\xa3\xe2\x87\xc3\xca?'
+p1379
+tp1380
+Rp1381
+tp1382
+a(S'cinema of india'
+p1383
+g2
+(g6
+S'\xea\x11\x02\xcb\\\xc0\xca?'
+p1384
+tp1385
+Rp1386
+tp1387
+a(S'cinema of vietnam'
+p1388
+g2
+(g6
+S'\x18\x82n\x95_\xbc\xca?'
+p1389
+tp1390
+Rp1391
+tp1392
+a(S'cinecolor'
+p1393
+g2
+(g6
+S'\x18\xf3\x01J\xc0\xba\xca?'
+p1394
+tp1395
+Rp1396
+tp1397
+a(S'the face of a genius'
+p1398
+g2
+(g6
+S'\xbce\xc1\x1ea\xb8\xca?'
+p1399
+tp1400
+Rp1401
+tp1402
+a(S'john ford stock company'
+p1403
+g2
+(g6
+S'\xb4\xe4\xb4\x8cj\xb5\xca?'
+p1404
+tp1405
+Rp1406
+tp1407
+a(S'uk film council'
+p1408
+g2
+(g6
+S'E_\x8aj\xba\xab\xca?'
+p1409
+tp1410
+Rp1411
+tp1412
+a(S'stella adams'
+p1413
+g2
+(g6
+S'\xa0 \x9dP\xfb\xa6\xca?'
+p1414
+tp1415
+Rp1416
+tp1417
+a(S'khush singh'
+p1418
+g2
+(g6
+S'\\\xe7\xf8\xc5\xaa\x9f\xca?'
+p1419
+tp1420
+Rp1421
+tp1422
+a(S'lost episode festival toronto'
+p1423
+g2
+(g6
+S'\xd5\xdes\x9d|\x95\xca?'
+p1424
+tp1425
+Rp1426
+tp1427
+a(S'colin brunton'
+p1428
+g2
+(g6
+S'u\x95\xd1\x8a\xce\x89\xca?'
+p1429
+tp1430
+Rp1431
+tp1432
+a(S'cinema of the soviet union'
+p1433
+g2
+(g6
+S'\xf4\xd4\xa2\xd0h\x86\xca?'
+p1434
+tp1435
+Rp1436
+tp1437
+a(S'tucson film & music festival'
+p1438
+g2
+(g6
+S'rn\x04\x88\xa9\x83\xca?'
+p1439
+tp1440
+Rp1441
+tp1442
+a(S'solar films'
+p1443
+g2
+(g6
+S'U\xb1\x14!\x92\x81\xca?'
+p1444
+tp1445
+Rp1446
+tp1447
+a(S'feature analyst'
+p1448
+g2
+(g6
+S'v+!P\xb7z\xca?'
+p1449
+tp1450
+Rp1451
+tp1452
+a(S'deborah chow'
+p1453
+g2
+(g6
+S'\x1d!\xd7\xb0\x7fw\xca?'
+p1454
+tp1455
+Rp1456
+tp1457
+a(S'artio films'
+p1458
+g2
+(g6
+S'\x04v\x1eu\xd7v\xca?'
+p1459
+tp1460
+Rp1461
+tp1462
+a(S'tomm moore'
+p1463
+g2
+(g6
+S'\xf8\xf6\xd0`Uo\xca?'
+p1464
+tp1465
+Rp1466
+tp1467
+a(S'dviant films'
+p1468
+g2
+(g6
+S'\x8d\xb5\xa6\xbad]\xca?'
+p1469
+tp1470
+Rp1471
+tp1472
+a(S'uzbekfilm'
+p1473
+g2
+(g6
+S'\xa6.=\xa4\xd9\\\xca?'
+p1474
+tp1475
+Rp1476
+tp1477
+a(S'indie memphis'
+p1478
+g2
+(g6
+S'y\xa5\x82a\xacW\xca?'
+p1479
+tp1480
+Rp1481
+tp1482
+a(S'kofic location incentive'
+p1483
+g2
+(g6
+S'yQ\x1d\x9eOL\xca?'
+p1484
+tp1485
+Rp1486
+tp1487
+a(S'history of animation'
+p1488
+g2
+(g6
+S'Jc\xc8\xde\xb3J\xca?'
+p1489
+tp1490
+Rp1491
+tp1492
+a(S'matt brookens'
+p1493
+g2
+(g6
+S'Wv$\x02\xd3E\xca?'
+p1494
+tp1495
+Rp1496
+tp1497
+a(S'list of stop motion artists'
+p1498
+g2
+(g6
+S'\xaf\xa3\xc0\xc2$9\xca?'
+p1499
+tp1500
+Rp1501
+tp1502
+a(S'tom vaughan (director)'
+p1503
+g2
+(g6
+S'\xac\xffF\xe9\x877\xca?'
+p1504
+tp1505
+Rp1506
+tp1507
+a(S'life is my movie entertainment'
+p1508
+g2
+(g6
+S'{\xd8`\xb8\x8c.\xca?'
+p1509
+tp1510
+Rp1511
+tp1512
+a.

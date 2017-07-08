@@ -1,0 +1,2728 @@
+(lp0
+(S'natural language'
+p1
+cnumpy.core.multiarray
+scalar
+p2
+(cnumpy
+dtype
+p3
+(S'f8'
+p4
+I0
+I1
+tp5
+Rp6
+(I3
+S'<'
+p7
+NNNI-1
+I-1
+I0
+tp8
+bS'\xf9\xff\xff\xff\xff\xff\xef?'
+p9
+tp10
+Rp11
+tp12
+a(S'constructed language'
+p13
+g2
+(g6
+S'\xd8\xfc\xf2\x1d\x9do\xe6?'
+p14
+tp15
+Rp16
+tp17
+a(S'artistic language'
+p18
+g2
+(g6
+S'\xb6\xcc.\x11\x97\x86\xe3?'
+p19
+tp20
+Rp21
+tp22
+a(S'list of constructed languages'
+p23
+g2
+(g6
+S'\xd7\x89\x8b\xe2\xe0/\xe3?'
+p24
+tp25
+Rp26
+tp27
+a(S'international auxiliary language'
+p28
+g2
+(g6
+S'\x0f\xffX\x88\xed\xa5\xe2?'
+p29
+tp30
+Rp31
+tp32
+a(S'language'
+p33
+g2
+(g6
+S'\x1e\xb2\x99\xdf\xe6\x94\xe2?'
+p34
+tp35
+Rp36
+tp37
+a(S'controlled natural language'
+p38
+g2
+(g6
+S'\xfe\xc9I$\\\x11\xe2?'
+p39
+tp40
+Rp41
+tp42
+a(S'yirram languages'
+p43
+g2
+(g6
+S'\xd36\x1b\xe3_\xff\xe1?'
+p44
+tp45
+Rp46
+tp47
+a(S'national language'
+p48
+g2
+(g6
+S'\xc6\xdaJ\t\xf8\xe2\xe1?'
+p49
+tp50
+Rp51
+tp52
+a(S'school of languages'
+p53
+g2
+(g6
+S'\xbc\x85\x9ce9\xc9\xe1?'
+p54
+tp55
+Rp56
+tp57
+a(S'historical language'
+p58
+g2
+(g6
+S'\xb3\xf8\x08\x1cn\xb4\xe1?'
+p59
+tp60
+Rp61
+tp62
+a(S'languages of the african union'
+p63
+g2
+(g6
+S'4I\xce.\x91\x84\xe1?'
+p64
+tp65
+Rp66
+tp67
+a(S'interlinguistics'
+p68
+g2
+(g6
+S'_\x83,\x8biv\xe1?'
+p69
+tp70
+Rp71
+tp72
+a(S'endangered language'
+p73
+g2
+(g6
+S'd\x1d\xc6\xf5Y]\xe1?'
+p74
+tp75
+Rp76
+tp77
+a(S'lists of languages'
+p78
+g2
+(g6
+S'\x17\x95\x91\xcd2S\xe1?'
+p79
+tp80
+Rp81
+tp82
+a(S'list of multilingual countries and regions'
+p83
+g2
+(g6
+S'\xda\xf9Z\xfc\x11H\xe1?'
+p84
+tp85
+Rp86
+tp87
+a(S'engineered language'
+p88
+g2
+(g6
+S'P\xf9\xe3F\xc2,\xe1?'
+p89
+tp90
+Rp91
+tp92
+a(S'multilingualism'
+p93
+g2
+(g6
+S'\x82\xc6KA\xa9\xe2\xe0?'
+p94
+tp95
+Rp96
+tp97
+a(S'languages of the united states'
+p98
+g2
+(g6
+S'MW\xc1J1\xcb\xe0?'
+p99
+tp100
+Rp101
+tp102
+a(S'language family'
+p103
+g2
+(g6
+S'\x00\x14\x05\x93\xef\xc1\xe0?'
+p104
+tp105
+Rp106
+tp107
+a(S'indigenous language'
+p108
+g2
+(g6
+S'\r\xb5\xdbl\x93z\xe0?'
+p109
+tp110
+Rp111
+tp112
+a(S'kiriri'
+p113
+g2
+(g6
+S'n\xd4\xe5\xda\xe4l\xe0?'
+p114
+tp115
+Rp116
+tp117
+a(S'official language'
+p118
+g2
+(g6
+S'\x89>\xef\xd4\xcfE\xe0?'
+p119
+tp120
+Rp121
+tp122
+a(S'artificial language'
+p123
+g2
+(g6
+S'I3z\xc8\xbcD\xe0?'
+p124
+tp125
+Rp126
+tp127
+a(S'languages in censuses'
+p128
+g2
+(g6
+S'f\x9c\xc3|\x128\xe0?'
+p129
+tp130
+Rp131
+tp132
+a(S'global language system'
+p133
+g2
+(g6
+S'H\xb3ZB\x05&\xe0?'
+p134
+tp135
+Rp136
+tp137
+a(S'languages of south asia'
+p138
+g2
+(g6
+S'\xb6\x87\x8blL\x1b\xe0?'
+p139
+tp140
+Rp141
+tp142
+a(S'genus (linguistics)'
+p143
+g2
+(g6
+S'_aI\xa7\xd2\x10\xe0?'
+p144
+tp145
+Rp146
+tp147
+a(S'library of congress classification:class p, subclass pm -- hyperborean, indian and artificial languages'
+p148
+g2
+(g6
+S'ry1N\x1f\x0b\xe0?'
+p149
+tp150
+Rp151
+tp152
+a(S'language contact'
+p153
+g2
+(g6
+S'\xe9@E\xe7\x85\x01\xe0?'
+p154
+tp155
+Rp156
+tp157
+a(S'programming language'
+p158
+g2
+(g6
+S'\xcb\x12BX\xba\xf0\xdf?'
+p159
+tp160
+Rp161
+tp162
+a(S'list of language families'
+p163
+g2
+(g6
+S'\x9b\xbc\xff\xc2\x06\xe9\xdf?'
+p164
+tp165
+Rp166
+tp167
+a(S'language death'
+p168
+g2
+(g6
+S'\x86`y\x96i\xb4\xdf?'
+p169
+tp170
+Rp171
+tp172
+a(S'urheimat'
+p173
+g2
+(g6
+S'\xbe\xdbH\xb6E\x80\xdf?'
+p174
+tp175
+Rp176
+tp177
+a(S'polysynthetic language'
+p178
+g2
+(g6
+S'\x98\xba\x9d\xa4\xc6z\xdf?'
+p179
+tp180
+Rp181
+tp182
+a(S'languages of ethiopia'
+p183
+g2
+(g6
+S'\xa6v\xf0\\\xeay\xdf?'
+p184
+tp185
+Rp186
+tp187
+a(S'extinct language'
+p188
+g2
+(g6
+S'o\x96\x8d\xbblL\xdf?'
+p189
+tp190
+Rp191
+tp192
+a(S'languages of poland'
+p193
+g2
+(g6
+S'\x05"7\x8b\xd08\xdf?'
+p194
+tp195
+Rp196
+tp197
+a(S'zonal constructed language'
+p198
+g2
+(g6
+S'\x8d\xc6\xae\xdb\xc0"\xdf?'
+p199
+tp200
+Rp201
+tp202
+a(S'language revitalization'
+p203
+g2
+(g6
+S'\x99)\xb0C\xd1\xd3\xde?'
+p204
+tp205
+Rp206
+tp207
+a(S'genetic relationship (linguistics)'
+p208
+g2
+(g6
+S"\x95\x10,'\xb6\xce\xde?"
+p209
+tp210
+Rp211
+tp212
+a(S'list of linguists'
+p213
+g2
+(g6
+S'\xbe$W\xf8J\x85\xde?'
+p214
+tp215
+Rp216
+tp217
+a(S'languages of colombia'
+p218
+g2
+(g6
+S'v\xaal\xd1{~\xde?'
+p219
+tp220
+Rp221
+tp222
+a(S'indigenous languages of the americas'
+p223
+g2
+(g6
+S'W\x1a\x02\x9fP~\xde?'
+p224
+tp225
+Rp226
+tp227
+a(S'languages of the european union'
+p228
+g2
+(g6
+S'\xb7X\xf8\x14\xbbM\xde?'
+p229
+tp230
+Rp231
+tp232
+a(S'languages of mexico'
+p233
+g2
+(g6
+S'g\x9d\xe02\xb03\xde?'
+p234
+tp235
+Rp236
+tp237
+a(S'popolocan languages'
+p238
+g2
+(g6
+S'Vm?\xce\xfe0\xde?'
+p239
+tp240
+Rp241
+tp242
+a(S'philosophical language'
+p243
+g2
+(g6
+S'\x97\x06\xea,)\x05\xde?'
+p244
+tp245
+Rp246
+tp247
+a(S'punan language'
+p248
+g2
+(g6
+S'\x10\x8b\xcb\xbd \xbb\xdd?'
+p249
+tp250
+Rp251
+tp252
+a(S'language preservation'
+p253
+g2
+(g6
+S'1\x10\xcaQS\xb5\xdd?'
+p254
+tp255
+Rp256
+tp257
+a(S'third-generation programming language'
+p258
+g2
+(g6
+S'\x1a\xff\xd2>\x04\xa9\xdd?'
+p259
+tp260
+Rp261
+tp262
+a(S'world language'
+p263
+g2
+(g6
+S'\x9e\x01\x0f\xb3_\xa6\xdd?'
+p264
+tp265
+Rp266
+tp267
+a(S'lists of endangered languages'
+p268
+g2
+(g6
+S's\n\x04\xca\x8f\x7f\xdd?'
+p269
+tp270
+Rp271
+tp272
+a(S'eastern grassfields languages'
+p273
+g2
+(g6
+S'~%\x07\x14\x01=\xdd?'
+p274
+tp275
+Rp276
+tp277
+a(S'mirndi languages'
+p278
+g2
+(g6
+S'\xc9\x12\x0ei;0\xdd?'
+p279
+tp280
+Rp281
+tp282
+a(S'american language'
+p283
+g2
+(g6
+S'\x89f\x00\xfa\xd8\x1e\xdd?'
+p284
+tp285
+Rp286
+tp287
+a(S'working language'
+p288
+g2
+(g6
+S'\xe9!\xbeQ\xaf\xfd\xdc?'
+p289
+tp290
+Rp291
+tp292
+a(S'list of iso 639-5 codes'
+p293
+g2
+(g6
+S'\xb7d:\rz\xef\xdc?'
+p294
+tp295
+Rp296
+tp297
+a(S'ancient language'
+p298
+g2
+(g6
+S'\xb7q\xf8\xe6i\xef\xdc?'
+p299
+tp300
+Rp301
+tp302
+a(S'official languages of the united nations'
+p303
+g2
+(g6
+S'\xca0\xa9_\xa5\xea\xdc?'
+p304
+tp305
+Rp306
+tp307
+a(S'languages of africa'
+p308
+g2
+(g6
+S'g\x99\xb3\xe5\xe9\xe7\xdc?'
+p309
+tp310
+Rp311
+tp312
+a(S'stratum (linguistics)'
+p313
+g2
+(g6
+S'\x8a\x9dBeJ\xaf\xdc?'
+p314
+tp315
+Rp316
+tp317
+a(S'fictional language'
+p318
+g2
+(g6
+S'e\xf4\x87\te\x8f\xdc?'
+p319
+tp320
+Rp321
+tp322
+a(S'lists of extinct languages'
+p323
+g2
+(g6
+S'\x96\xc5k\xee\x8c\x8b\xdc?'
+p324
+tp325
+Rp326
+tp327
+a(S'borneo\xe2\x80\x93philippine languages'
+p328
+g2
+(g6
+S'\xc0\x1a\xce\x13\xa0w\xdc?'
+p329
+tp330
+Rp331
+tp332
+a(S'language border'
+p333
+g2
+(g6
+S'\xe79\xdbM\x8ch\xdc?'
+p334
+tp335
+Rp336
+tp337
+a(S'regional language'
+p338
+g2
+(g6
+S'\xd9\xe9\xafNSV\xdc?'
+p339
+tp340
+Rp341
+tp342
+a(S'language festival'
+p343
+g2
+(g6
+S'\x12\xfb\xb7\x83\xb3P\xdc?'
+p344
+tp345
+Rp346
+tp347
+a(S'language spoken at home in the united states of america'
+p348
+g2
+(g6
+S'\\\xda\xbb\x07\x1dH\xdc?'
+p349
+tp350
+Rp351
+tp352
+a(S'list of languages by number of native speakers'
+p353
+g2
+(g6
+S'\x98\xfb\x9b@\x8e:\xdc?'
+p354
+tp355
+Rp356
+tp357
+a(S"people's linguistic survey of india"
+p358
+g2
+(g6
+S'\xcd\xc6TL\\\x18\xdc?'
+p359
+tp360
+Rp361
+tp362
+a(S'languages of canada'
+p363
+g2
+(g6
+S'4\x0b\xca\x10\xa0\x11\xdc?'
+p364
+tp365
+Rp366
+tp367
+a(S'outline of natural language processing'
+p368
+g2
+(g6
+S'\xfd\x0c\x8d\x03\xa5\x10\xdc?'
+p369
+tp370
+Rp371
+tp372
+a(S'language barrier'
+p373
+g2
+(g6
+S'\xa2\x9a\x8ao\x81\xfd\xdb?'
+p374
+tp375
+Rp376
+tp377
+a(S'iso 639-2'
+p378
+g2
+(g6
+S'\xd5zL\x9bJ\xfd\xdb?'
+p379
+tp380
+Rp381
+tp382
+a(S'languages of russia'
+p383
+g2
+(g6
+S'\xf2Q\xbc\x81\x9c\xea\xdb?'
+p384
+tp385
+Rp386
+tp387
+a(S'languages of north america'
+p388
+g2
+(g6
+S'\xb6\xb4\xeb$\x15\xe0\xdb?'
+p389
+tp390
+Rp391
+tp392
+a(S'languages of france'
+p393
+g2
+(g6
+S'V4;\xc0\xfa\xcf\xdb?'
+p394
+tp395
+Rp396
+tp397
+a(S'economics of language'
+p398
+g2
+(g6
+S'\xc3(k\x13\xaa\xcb\xdb?'
+p399
+tp400
+Rp401
+tp402
+a(S'experimental language'
+p403
+g2
+(g6
+S'\x91\xb5\xc2o\xfe\xc0\xdb?'
+p404
+tp405
+Rp406
+tp407
+a(S'universal language'
+p408
+g2
+(g6
+S'L\xc8\x12\x18\x90\xb6\xdb?'
+p409
+tp410
+Rp411
+tp412
+a(S'tsezic languages'
+p413
+g2
+(g6
+S'G\x14\x93R\xfb\x8a\xdb?'
+p414
+tp415
+Rp416
+tp417
+a(S'linguistic demography'
+p418
+g2
+(g6
+S'd\xd0\xb5[\x83\x88\xdb?'
+p419
+tp420
+Rp421
+tp422
+a(S'list of languages by number of native speakers in indonesia'
+p423
+g2
+(g6
+S'\x9d5\xa9"\xfar\xdb?'
+p424
+tp425
+Rp426
+tp427
+a(S'list of languages of russia'
+p428
+g2
+(g6
+S'\x7f\xdc8\xc4K>\xdb?'
+p429
+tp430
+Rp431
+tp432
+a(S'takic languages'
+p433
+g2
+(g6
+S'\xf9\xd6\xbf\xe5\x8a!\xdb?'
+p434
+tp435
+Rp436
+tp437
+a(S'interlingua'
+p438
+g2
+(g6
+S'k`)\x00\xad\x1c\xdb?'
+p439
+tp440
+Rp441
+tp442
+a(S'language education by region'
+p443
+g2
+(g6
+S'Bd:\x8c\xcd\x18\xdb?'
+p444
+tp445
+Rp446
+tp447
+a(S'languages of india'
+p448
+g2
+(g6
+S'[m o\xeb\x0c\xdb?'
+p449
+tp450
+Rp451
+tp452
+a(S'list of extinct languages of europe'
+p453
+g2
+(g6
+S'B\xee\xfd\x99\x89\xea\xda?'
+p454
+tp455
+Rp456
+tp457
+a(S'modern language'
+p458
+g2
+(g6
+S'\xfdx\xca}i\xe8\xda?'
+p459
+tp460
+Rp461
+tp462
+a(S'languages of japan'
+p463
+g2
+(g6
+S'\xac\xaf\x11S\xe9\xd6\xda?'
+p464
+tp465
+Rp466
+tp467
+a(S'matlatzinca languages'
+p468
+g2
+(g6
+S'%\x91\x8b\xaf\xdc\xd4\xda?'
+p469
+tp470
+Rp471
+tp472
+a(S'glossophilia'
+p473
+g2
+(g6
+S'H\xae\xf9\xcb&\xd3\xda?'
+p474
+tp475
+Rp476
+tp477
+a(S'list of language regulators'
+p478
+g2
+(g6
+S'@\xa3\x8b\xb3\x1e\xc2\xda?'
+p479
+tp480
+Rp481
+tp482
+a(S'european day of languages'
+p483
+g2
+(g6
+S'\xc8\xda\xfc\x9ee\xc0\xda?'
+p484
+tp485
+Rp486
+tp487
+a(S'mixed language'
+p488
+g2
+(g6
+S'\xe7\x0f\xad2\xc9\xb5\xda?'
+p489
+tp490
+Rp491
+tp492
+a(S'linguistic bibliography'
+p493
+g2
+(g6
+S'\xb7 \x81B\x1c\xb4\xda?'
+p494
+tp495
+Rp496
+tp497
+a(S'official multilingualism'
+p498
+g2
+(g6
+S'\xefjX\xb5\xff\x92\xda?'
+p499
+tp500
+Rp501
+tp502
+a(S'sister language'
+p503
+g2
+(g6
+S'\xe3%qT\x0f\x91\xda?'
+p504
+tp505
+Rp506
+tp507
+a(S'translingualism'
+p508
+g2
+(g6
+S'\xfe\x1f]\x05\xd2t\xda?'
+p509
+tp510
+Rp511
+tp512
+a(S'malayo-polynesian languages'
+p513
+g2
+(g6
+S'x\x8b@\xce\xdfo\xda?'
+p514
+tp515
+Rp516
+tp517
+a(S'language isolates and independent language families in arunachal'
+p518
+g2
+(g6
+S'f\x820\xdcTe\xda?'
+p519
+tp520
+Rp521
+tp522
+a(S'agglutinative language'
+p523
+g2
+(g6
+S'\xa1\\V\xa8kZ\xda?'
+p524
+tp525
+Rp526
+tp527
+a(S'ogoni languages'
+p528
+g2
+(g6
+S' L\xc1^\x95X\xda?'
+p529
+tp530
+Rp531
+tp532
+a(S'popoluca'
+p533
+g2
+(g6
+S'\x1a\xcaG\xce>U\xda?'
+p534
+tp535
+Rp536
+tp537
+a(S'hill nubian languages'
+p538
+g2
+(g6
+S'6\xa5k\xc0\xa0T\xda?'
+p539
+tp540
+Rp541
+tp542
+a(S'suppire\xe2\x80\x93mamara languages'
+p543
+g2
+(g6
+S'\x85\xdb\x97\xaa\xbfC\xda?'
+p544
+tp545
+Rp546
+tp547
+a(S'list of language self-study programs'
+p548
+g2
+(g6
+S'HJw\xc2m5\xda?'
+p549
+tp550
+Rp551
+tp552
+a(S'palawano language'
+p553
+g2
+(g6
+S'\x12\xf9\xcdQF1\xda?'
+p554
+tp555
+Rp556
+tp557
+a(S'language management'
+p558
+g2
+(g6
+S'\x00\xe6\x1a\rO\x19\xda?'
+p559
+tp560
+Rp561
+tp562
+a(S'eurolinguistics'
+p563
+g2
+(g6
+S'\xe6\x97u\x92\x1c\x19\xda?'
+p564
+tp565
+Rp566
+tp567
+a(S'garawan languages'
+p568
+g2
+(g6
+S'\xd8+\xaf\xebf\x14\xda?'
+p569
+tp570
+Rp571
+tp572
+a(S'chimuan languages'
+p573
+g2
+(g6
+S'\x16.D\xe5v\x12\xda?'
+p574
+tp575
+Rp576
+tp577
+a(S'less commonly taught languages'
+p578
+g2
+(g6
+S'o\x87\xdeK\xd4\x0c\xda?'
+p579
+tp580
+Rp581
+tp582
+a(S'endangered languages project'
+p583
+g2
+(g6
+S'g\xb3\xdf\x81\xee\xfd\xd9?'
+p584
+tp585
+Rp586
+tp587
+a(S'languages of europe'
+p588
+g2
+(g6
+S'\xeb\xcf\x15\xe4!\xf2\xd9?'
+p589
+tp590
+Rp591
+tp592
+a(S'language policy'
+p593
+g2
+(g6
+S'\x15x\xb7\xdd\xe7\xf1\xd9?'
+p594
+tp595
+Rp596
+tp597
+a(S'national language services'
+p598
+g2
+(g6
+S'\xa8\xb9\t\xa8\xd9\xf0\xd9?'
+p599
+tp600
+Rp601
+tp602
+a(S'software language'
+p603
+g2
+(g6
+S'\x15n_\xd0E\xe9\xd9?'
+p604
+tp605
+Rp606
+tp607
+a(S'computer language'
+p608
+g2
+(g6
+S'\x00\xd0\xe0]T\xe6\xd9?'
+p609
+tp610
+Rp611
+tp612
+a(S'andamanese languages'
+p613
+g2
+(g6
+S'\x9f\x8e\x9b\xf8\xa8\xe4\xd9?'
+p614
+tp615
+Rp616
+tp617
+a(S'latinisation in the soviet union'
+p618
+g2
+(g6
+S'\xf7z\xf8\xd5\xf5\xe3\xd9?'
+p619
+tp620
+Rp621
+tp622
+a(S'polyglotism'
+p623
+g2
+(g6
+S'\xac\xdfH\xdb;\xe1\xd9?'
+p624
+tp625
+Rp626
+tp627
+a(S'coahuiltecan languages'
+p628
+g2
+(g6
+S'\xa0\x8e\x85\xe8*\xd8\xd9?'
+p629
+tp630
+Rp631
+tp632
+a(S'nupbi language'
+p633
+g2
+(g6
+S'\x87\xbb0\xceV\xc3\xd9?'
+p634
+tp635
+Rp636
+tp637
+a(S'languages of the central african republic'
+p638
+g2
+(g6
+S'\x05\x9e#$\xe8\xc1\xd9?'
+p639
+tp640
+Rp641
+tp642
+a(S'ngarrkic languages'
+p643
+g2
+(g6
+S'\xd5\x9e\xf0\x8a\xbd\xbd\xd9?'
+p644
+tp645
+Rp646
+tp647
+a(S'morphological typology'
+p648
+g2
+(g6
+S'\x81\x8d\xd2\x861\xb8\xd9?'
+p649
+tp650
+Rp651
+tp652
+a(S'kat\xc3\xb3 lomb'
+p653
+g2
+(g6
+S'q\xd9\x1d=\xe1\xb7\xd9?'
+p654
+tp655
+Rp656
+tp657
+a(S'avar\xe2\x80\x93andic languages'
+p658
+g2
+(g6
+S'\xe5\xa93\x08\n\xb7\xd9?'
+p659
+tp660
+Rp661
+tp662
+a(S'atlas of pidgin and creole language structures'
+p663
+g2
+(g6
+S'\xedYm\x1b\xde\xa4\xd9?'
+p664
+tp665
+Rp666
+tp667
+a(S'languages of oceania'
+p668
+g2
+(g6
+S'\x90\x11\x98\xd1\xce\x96\xd9?'
+p669
+tp670
+Rp671
+tp672
+a(S'languages of new caledonia'
+p673
+g2
+(g6
+S'\xba&\xab\xcf\xc4\x8a\xd9?'
+p674
+tp675
+Rp676
+tp677
+a(S'pre-indo-european languages'
+p678
+g2
+(g6
+S'\xcaI\x8d\xbb\\\x87\xd9?'
+p679
+tp680
+Rp681
+tp682
+a(S'comparison between esperanto and interlingua'
+p683
+g2
+(g6
+S'M\xd5`\xcf\x1cy\xd9?'
+p684
+tp685
+Rp686
+tp687
+a(S'eligibility of international words in interlingua'
+p688
+g2
+(g6
+S'\xdb\xe5\xae\xf2\xfcx\xd9?'
+p689
+tp690
+Rp691
+tp692
+a(S'papuan languages'
+p693
+g2
+(g6
+S'\xe0\x13\x11\x14~v\xd9?'
+p694
+tp695
+Rp696
+tp697
+a(S'tomini\xe2\x80\x93tolitoli languages'
+p698
+g2
+(g6
+S'\xd7f\xc7\x01\xb4j\xd9?'
+p699
+tp700
+Rp701
+tp702
+a(S'sprachbund'
+p703
+g2
+(g6
+S'%\xc8C,\xc4e\xd9?'
+p704
+tp705
+Rp706
+tp707
+a(S'esther martinez native american languages preservation act'
+p708
+g2
+(g6
+S'b\xf8\r"F`\xd9?'
+p709
+tp710
+Rp711
+tp712
+a(S'pauna language'
+p713
+g2
+(g6
+S'aMk6\x00`\xd9?'
+p714
+tp715
+Rp716
+tp717
+a(S'totonac languages'
+p718
+g2
+(g6
+S'\x86\xbdh\xb8X_\xd9?'
+p719
+tp720
+Rp721
+tp722
+a(S'sign language'
+p723
+g2
+(g6
+S'\xdb\x06e(4^\xd9?'
+p724
+tp725
+Rp726
+tp727
+a(S'durubalic languages'
+p728
+g2
+(g6
+S'\xe7J\xe2\x93wT\xd9?'
+p729
+tp730
+Rp731
+tp732
+a(S'maxakal\xc3\xadan languages'
+p733
+g2
+(g6
+S'\xd7\xbc0\xd3\x90S\xd9?'
+p734
+tp735
+Rp736
+tp737
+a(S'list of programming languages'
+p738
+g2
+(g6
+S'\xa5\xff\xdc\xcd\x04S\xd9?'
+p739
+tp740
+Rp741
+tp742
+a(S'efik language'
+p743
+g2
+(g6
+S"\xa8'\xcc\xe1SQ\xd9?"
+p744
+tp745
+Rp746
+tp747
+a(S'lojban'
+p748
+g2
+(g6
+S'\xe85\x02<\x03O\xd9?'
+p749
+tp750
+Rp751
+tp752
+a(S'temein languages'
+p753
+g2
+(g6
+S'\xc8/\xa2\x86hI\xd9?'
+p754
+tp755
+Rp756
+tp757
+a(S'languages of chad'
+p758
+g2
+(g6
+S"\x08'\xcef\x08H\xd9?"
+p759
+tp760
+Rp761
+tp762
+a(S'unclassified language'
+p763
+g2
+(g6
+S'Y\xe30i\xad9\xd9?'
+p764
+tp765
+Rp766
+tp767
+a(S'minority language'
+p768
+g2
+(g6
+S'\xa1\x7f\x05\xf0\x8a7\xd9?'
+p769
+tp770
+Rp771
+tp772
+a(S'australian aboriginal languages'
+p773
+g2
+(g6
+S'^4\xe1\x91\x107\xd9?'
+p774
+tp775
+Rp776
+tp777
+a(S'central institute of indian languages'
+p778
+g2
+(g6
+S'\xdaF\xabc\xdd4\xd9?'
+p779
+tp780
+Rp781
+tp782
+a(S'history of programming languages'
+p783
+g2
+(g6
+S'\xa7\xb3\x06\x04w.\xd9?'
+p784
+tp785
+Rp786
+tp787
+a(S'malekula interior languages'
+p788
+g2
+(g6
+S'\xeaE\xff\xe9\xf3)\xd9?'
+p789
+tp790
+Rp791
+tp792
+a(S'mongol\xe2\x80\x93langam languages'
+p793
+g2
+(g6
+S'\xab\x89\x90\x02""\xd9?'
+p794
+tp795
+Rp796
+tp797
+a(S'list of unsolved problems in linguistics'
+p798
+g2
+(g6
+S'K\x94\x1dd\x1f\x1d\xd9?'
+p799
+tp800
+Rp801
+tp802
+a(S'list of programming languages by type'
+p803
+g2
+(g6
+S'\x8f\xf8\xe9S\xe1\x19\xd9?'
+p804
+tp805
+Rp806
+tp807
+a(S'shropshire languages society'
+p808
+g2
+(g6
+S'aGj\x9eb\x15\xd9?'
+p809
+tp810
+Rp811
+tp812
+a(S'written language'
+p813
+g2
+(g6
+S'M\x00,\xfb\xc1\xdb\xd8?'
+p814
+tp815
+Rp816
+tp817
+a(S'spoken language'
+p818
+g2
+(g6
+S'D\x03\xd0\xf0i\xda\xd8?'
+p819
+tp820
+Rp821
+tp822
+a(S'musical language'
+p823
+g2
+(g6
+S'\xeaO\x81Wo\xd9\xd8?'
+p824
+tp825
+Rp826
+tp827
+a(S'urhobo-isoko'
+p828
+g2
+(g6
+S'\x18\xe1\x8a\xeb*\xd8\xd8?'
+p829
+tp830
+Rp831
+tp832
+a(S'prague manifesto (esperanto)'
+p833
+g2
+(g6
+S'\x16ZJ\xc8\xd5\xcf\xd8?'
+p834
+tp835
+Rp836
+tp837
+a(S'formal language'
+p838
+g2
+(g6
+S'2\xadY\x07x\xcb\xd8?'
+p839
+tp840
+Rp841
+tp842
+a(S'languages of the soviet union'
+p843
+g2
+(g6
+S'\xfbg\xe0\xfb\x9f\xc6\xd8?'
+p844
+tp845
+Rp846
+tp847
+a(S'linguistics'
+p848
+g2
+(g6
+S'Z\xb1\x1b}\xf4\xbf\xd8?'
+p849
+tp850
+Rp851
+tp852
+a(S'fuegian languages'
+p853
+g2
+(g6
+S'\x1b\xd8\x7f\xcb\xd7\xbc\xd8?'
+p854
+tp855
+Rp856
+tp857
+a(S"first peoples' cultural council"
+p858
+g2
+(g6
+S'\xae\x95\x9e\x9a\xcd\xba\xd8?'
+p859
+tp860
+Rp861
+tp862
+a(S'interlanguage (disambiguation)'
+p863
+g2
+(g6
+S'\x94\xda\xe4\xb2\xce\xaf\xd8?'
+p864
+tp865
+Rp866
+tp867
+a(S'list of extinct languages of south america'
+p868
+g2
+(g6
+S'\xd0;\xbaF \xad\xd8?'
+p869
+tp870
+Rp871
+tp872
+a(S'bunuban languages'
+p873
+g2
+(g6
+S',p\x07et\xaa\xd8?'
+p874
+tp875
+Rp876
+tp877
+a(S'languages of uttar pradesh'
+p878
+g2
+(g6
+S'\xf5+<\x8a1\xa5\xd8?'
+p879
+tp880
+Rp881
+tp882
+a(S'list of colorado natural areas'
+p883
+g2
+(g6
+S'\xbf+\x95\xf6d\xa3\xd8?'
+p884
+tp885
+Rp886
+tp887
+a(S'language education'
+p888
+g2
+(g6
+S'\xc9\x13\x0b\xc6]\x97\xd8?'
+p889
+tp890
+Rp891
+tp892
+a(S'languages of guyana'
+p893
+g2
+(g6
+S'\xa6-\xac<\x81\x95\xd8?'
+p894
+tp895
+Rp896
+tp897
+a(S'languages of nigeria'
+p898
+g2
+(g6
+S'\x13\xcb\x98,\xef\x93\xd8?'
+p899
+tp900
+Rp901
+tp902
+a(S'hanoish languages'
+p903
+g2
+(g6
+S'P\x89B>U\x8a\xd8?'
+p904
+tp905
+Rp906
+tp907
+a(S'jarrakan languages'
+p908
+g2
+(g6
+S'\x0b\x0b\xee\x8d\x1b\x81\xd8?'
+p909
+tp910
+Rp911
+tp912
+a(S'wiradhuric languages'
+p913
+g2
+(g6
+S'\xb3\xd5"\xb5\xad~\xd8?'
+p914
+tp915
+Rp916
+tp917
+a(S'language policy in france'
+p918
+g2
+(g6
+S'\xad\xe4\x94c1z\xd8?'
+p919
+tp920
+Rp921
+tp922
+a(S'natural (disambiguation)'
+p923
+g2
+(g6
+S'\x1a\xfe\x1a\xcc\xbbs\xd8?'
+p924
+tp925
+Rp926
+tp927
+a(S'languages of peru'
+p928
+g2
+(g6
+S'J\x0c\xbe\x95Gm\xd8?'
+p929
+tp930
+Rp931
+tp932
+a(S'yeni language'
+p933
+g2
+(g6
+S'\xc9\x0f$]\xc3h\xd8?'
+p934
+tp935
+Rp936
+tp937
+a(S'language planning'
+p938
+g2
+(g6
+S'q\x81z\x94\xe4d\xd8?'
+p939
+tp940
+Rp941
+tp942
+a(S'north cape york paman languages'
+p943
+g2
+(g6
+S'd\x1c\xd17\xffb\xd8?'
+p944
+tp945
+Rp946
+tp947
+a(S'list of endangered languages with mobile apps'
+p948
+g2
+(g6
+S'\xdak\xdfhyZ\xd8?'
+p949
+tp950
+Rp951
+tp952
+a(S'tangkic languages'
+p953
+g2
+(g6
+S'/t=\x08\xb0C\xd8?'
+p954
+tp955
+Rp956
+tp957
+a(S'relexification'
+p958
+g2
+(g6
+S'[SW5\x93C\xd8?'
+p959
+tp960
+Rp961
+tp962
+a(S"langues d'o\xc3\xafl"
+p963
+g2
+(g6
+S')\xef\x12L\xb1:\xd8?'
+p964
+tp965
+Rp966
+tp967
+a(S'bumthang language'
+p968
+g2
+(g6
+S'\x02W8\xe3d7\xd8?'
+p969
+tp970
+Rp971
+tp972
+a(S'abstract family of languages'
+p973
+g2
+(g6
+S'\xb7\xe4\xf1\xe8\x914\xd8?'
+p974
+tp975
+Rp976
+tp977
+a(S'second language'
+p978
+g2
+(g6
+S'\xf2!\x11\x06\x812\xd8?'
+p979
+tp980
+Rp981
+tp982
+a(S'commissioner of official languages'
+p983
+g2
+(g6
+S'.Z\xf4\xe4\xee%\xd8?'
+p984
+tp985
+Rp986
+tp987
+a(S'language shift'
+p988
+g2
+(g6
+S'\x0f\x95\xee\xa8\xdd\x1b\xd8?'
+p989
+tp990
+Rp991
+tp992
+a(S'pseudoscientific language comparison'
+p993
+g2
+(g6
+S'n\x13\xc5\xa2g\x17\xd8?'
+p994
+tp995
+Rp996
+tp997
+a(S'comparative linguistics'
+p998
+g2
+(g6
+S'vg1\x90_\x17\xd8?'
+p999
+tp1000
+Rp1001
+tp1002
+a(S'languages of south africa'
+p1003
+g2
+(g6
+S'\x9bu3IV\x14\xd8?'
+p1004
+tp1005
+Rp1006
+tp1007
+a(S'first language'
+p1008
+g2
+(g6
+S'&\x18\xec\x1eZ\t\xd8?'
+p1009
+tp1010
+Rp1011
+tp1012
+a(S'list of unclassified languages according to the ethnologue'
+p1013
+g2
+(g6
+S'\x07(\xee\xf5\x8e\x05\xd8?'
+p1014
+tp1015
+Rp1016
+tp1017
+a(S'paleosiberian languages'
+p1018
+g2
+(g6
+S'\x15\x04\xca\x88\x1f\xfd\xd7?'
+p1019
+tp1020
+Rp1021
+tp1022
+a(S'linguistic purism'
+p1023
+g2
+(g6
+S'\xc3\xfc4\xe1\xe5\xfb\xd7?'
+p1024
+tp1025
+Rp1026
+tp1027
+a(S'catalogue of endangered languages'
+p1028
+g2
+(g6
+S"c\x93'<Y\xf9\xd7?"
+p1029
+tp1030
+Rp1031
+tp1032
+a(S'philippine languages'
+p1033
+g2
+(g6
+S'[\xbb\xa5\xec9\xf8\xd7?'
+p1034
+tp1035
+Rp1036
+tp1037
+a(S'gurage languages'
+p1038
+g2
+(g6
+S'}\xedO\xd9\x89\xf4\xd7?'
+p1039
+tp1040
+Rp1041
+tp1042
+a(S'paleo-european languages'
+p1043
+g2
+(g6
+S'3\x1f\x87*\xb2\xf2\xd7?'
+p1044
+tp1045
+Rp1046
+tp1047
+a(S'powell janulus'
+p1048
+g2
+(g6
+S'9\xe4\x1f\xc0\xe8\xee\xd7?'
+p1049
+tp1050
+Rp1051
+tp1052
+a(S'multilingualism in india'
+p1053
+g2
+(g6
+S'[\xcb\xa8K\x94\xe7\xd7?'
+p1054
+tp1055
+Rp1056
+tp1057
+a(S'mvanip language'
+p1058
+g2
+(g6
+S'\xf9\xfdw\xce\xe3\xe0\xd7?'
+p1059
+tp1060
+Rp1061
+tp1062
+a(S'languages of australia'
+p1063
+g2
+(g6
+S'\xda\xb1\x06JE\xce\xd7?'
+p1064
+tp1065
+Rp1066
+tp1067
+a(S'very high-level programming language'
+p1068
+g2
+(g6
+S'\x9f\x9e\xdd\xeb\xd0\xcc\xd7?'
+p1069
+tp1070
+Rp1071
+tp1072
+a(S'languages of spain'
+p1073
+g2
+(g6
+S'\xab\x83\x1b{T\xcb\xd7?'
+p1074
+tp1075
+Rp1076
+tp1077
+a(S'gbaya languages'
+p1078
+g2
+(g6
+S'\xeb8O\xbe`\xca\xd7?'
+p1079
+tp1080
+Rp1081
+tp1082
+a(S'languages of iberia'
+p1083
+g2
+(g6
+S'E\xe3\x9b\x8c\xcb\xb7\xd7?'
+p1084
+tp1085
+Rp1086
+tp1087
+a(S'languages of botswana'
+p1088
+g2
+(g6
+S'\x02\x98\xb8\xbci\xb5\xd7?'
+p1089
+tp1090
+Rp1091
+tp1092
+a(S'maric languages'
+p1093
+g2
+(g6
+S'tv\xe2!\xf4\xb3\xd7?'
+p1094
+tp1095
+Rp1096
+tp1097
+a(S'dobes'
+p1098
+g2
+(g6
+S'=\xfd\xc5:%\xa7\xd7?'
+p1099
+tp1100
+Rp1101
+tp1102
+a(S'language legislation in belgium'
+p1103
+g2
+(g6
+S'a\x92S@+\xa4\xd7?'
+p1104
+tp1105
+Rp1106
+tp1107
+a(S'nethalp language'
+p1108
+g2
+(g6
+S'\x01\x08\xfa\xc5\xad\x9f\xd7?'
+p1109
+tp1110
+Rp1111
+tp1112
+a(S'domain-specific language'
+p1113
+g2
+(g6
+S'\xfd\x1bu\t\xe1\x96\xd7?'
+p1114
+tp1115
+Rp1116
+tp1117
+a(S'language-agnostic'
+p1118
+g2
+(g6
+S'm\x1b\xcf\xear\x92\xd7?'
+p1119
+tp1120
+Rp1121
+tp1122
+a(S'languages of sudan'
+p1123
+g2
+(g6
+S'\xc2\xf9\xae\x18O\x92\xd7?'
+p1124
+tp1125
+Rp1126
+tp1127
+a(S'kartu languages'
+p1128
+g2
+(g6
+S'\xfe\x96\xc6_\x06\x8f\xd7?'
+p1129
+tp1130
+Rp1131
+tp1132
+a(S'minister responsible for official languages (canada)'
+p1133
+g2
+(g6
+S'\x86&\x83\xc5\x8e\x8d\xd7?'
+p1134
+tp1135
+Rp1136
+tp1137
+a(S'zoque languages'
+p1138
+g2
+(g6
+S'\x9b\xcd\xd6\xb3\x86\x8b\xd7?'
+p1139
+tp1140
+Rp1141
+tp1142
+a(S'mindanao languages'
+p1143
+g2
+(g6
+S'\xe9\xc0\xda\x8d\xd0\x86\xd7?'
+p1144
+tp1145
+Rp1146
+tp1147
+a(S'jawe language'
+p1148
+g2
+(g6
+S')\xf8\x0c%\x87\x83\xd7?'
+p1149
+tp1150
+Rp1151
+tp1152
+a(S'subject centre for languages linguistics and area studies'
+p1153
+g2
+(g6
+S'\xe5d\x94\x13Q\x81\xd7?'
+p1154
+tp1155
+Rp1156
+tp1157
+a(S'chamicuro language'
+p1158
+g2
+(g6
+S'\x18O\xc8\xf78\x81\xd7?'
+p1159
+tp1160
+Rp1161
+tp1162
+a(S'scripting language'
+p1163
+g2
+(g6
+S'\xb6W\xcd\xd7(|\xd7?'
+p1164
+tp1165
+Rp1166
+tp1167
+a(S'languages of portugal'
+p1168
+g2
+(g6
+S'G:O\x15\x9ft\xd7?'
+p1169
+tp1170
+Rp1171
+tp1172
+a(S'natural language user interface'
+p1173
+g2
+(g6
+S'\x10\x01\xcc\xe8\x80s\xd7?'
+p1174
+tp1175
+Rp1176
+tp1177
+a(S'linguistic rights'
+p1178
+g2
+(g6
+S'\x086si\xf1r\xd7?'
+p1179
+tp1180
+Rp1181
+tp1182
+a(S'remote oceanic languages'
+p1183
+g2
+(g6
+S'&B\xc8jqp\xd7?'
+p1184
+tp1185
+Rp1186
+tp1187
+a(S'a mouthful of air'
+p1188
+g2
+(g6
+S'\x89-\xa4\xe2\x9ak\xd7?'
+p1189
+tp1190
+Rp1191
+tp1192
+a(S'language exchange'
+p1193
+g2
+(g6
+S'S*\xbd\xab\x1cj\xd7?'
+p1194
+tp1195
+Rp1196
+tp1197
+a(S'tucano people'
+p1198
+g2
+(g6
+S'Zp\xad\x11ei\xd7?'
+p1199
+tp1200
+Rp1201
+tp1202
+a(S'intercomprehension'
+p1203
+g2
+(g6
+S'.R\x0c=>h\xd7?'
+p1204
+tp1205
+Rp1206
+tp1207
+a(S'abstand and ausbau languages'
+p1208
+g2
+(g6
+S'\x1a\x02\xfe\x1a\x14h\xd7?'
+p1209
+tp1210
+Rp1211
+tp1212
+a(S'tree model'
+p1213
+g2
+(g6
+S'\xbe9\x04\x19\xe9a\xd7?'
+p1214
+tp1215
+Rp1216
+tp1217
+a(S'dogon languages'
+p1218
+g2
+(g6
+S'\x95\xf6/\xb39a\xd7?'
+p1219
+tp1220
+Rp1221
+tp1222
+a(S'language education in the united states'
+p1223
+g2
+(g6
+S'W\xc2w[\x7fZ\xd7?'
+p1224
+tp1225
+Rp1226
+tp1227
+a(S'jukun language'
+p1228
+g2
+(g6
+S'\xb1#)\x00\xf4W\xd7?'
+p1229
+tp1230
+Rp1231
+tp1232
+a(S'john lynch (linguist)'
+p1233
+g2
+(g6
+S'\x0e9<\x1e\x08R\xd7?'
+p1234
+tp1235
+Rp1236
+tp1237
+a(S'dyangadi languages'
+p1238
+g2
+(g6
+S';S\xc4[IP\xd7?'
+p1239
+tp1240
+Rp1241
+tp1242
+a(S'pama\xe2\x80\x93nyungan languages'
+p1243
+g2
+(g6
+S'\x15\x8c\xd6*\x01L\xd7?'
+p1244
+tp1245
+Rp1246
+tp1247
+a(S'dusunic languages'
+p1248
+g2
+(g6
+S':\xc0V\xfeuK\xd7?'
+p1249
+tp1250
+Rp1251
+tp1252
+a(S'left may languages'
+p1253
+g2
+(g6
+S'\x88:P\xc3\x1bH\xd7?'
+p1254
+tp1255
+Rp1256
+tp1257
+a(S'paramaccan people'
+p1258
+g2
+(g6
+S'\xaa\xcbC\x8e\xc0F\xd7?'
+p1259
+tp1260
+Rp1261
+tp1262
+a(S'auxiliary language'
+p1263
+g2
+(g6
+S"'\xe0\xbc\xa2uD\xd7?"
+p1264
+tp1265
+Rp1266
+tp1267
+a(S'foreign language'
+p1268
+g2
+(g6
+S'\x9c\t\x8a\xa3\x8dB\xd7?'
+p1269
+tp1270
+Rp1271
+tp1272
+a(S'international language'
+p1273
+g2
+(g6
+S'4\xc21ohA\xd7?'
+p1274
+tp1275
+Rp1276
+tp1277
+a(S'languages of togo'
+p1278
+g2
+(g6
+S'\xd7\xc4\x07\x80\xce@\xd7?'
+p1279
+tp1280
+Rp1281
+tp1282
+a(S'kurt\xc3\xb6p language'
+p1283
+g2
+(g6
+S'm\xc3m\xdd\xa1?\xd7?'
+p1284
+tp1285
+Rp1286
+tp1287
+a(S'language survey'
+p1288
+g2
+(g6
+S'\xfc\xb8`\xa8j<\xd7?'
+p1289
+tp1290
+Rp1291
+tp1292
+a(S'languages constructed by j. r. r. tolkien'
+p1293
+g2
+(g6
+S'\xf2Jy{--\xd7?'
+p1294
+tp1295
+Rp1296
+tp1297
+a(S'list of indo-european languages'
+p1298
+g2
+(g6
+S'\xffu$8\x8c*\xd7?'
+p1299
+tp1300
+Rp1301
+tp1302
+a(S'the languages of the peoples of the ussr'
+p1303
+g2
+(g6
+S'\xb8\xd2\xdf\x8ca(\xd7?'
+p1304
+tp1305
+Rp1306
+tp1307
+a(S'orom\xc3\xaban'
+p1308
+g2
+(g6
+S'\xf4\xba\xb3\x81\xbd%\xd7?'
+p1309
+tp1310
+Rp1311
+tp1312
+a(S'historical linguistics'
+p1313
+g2
+(g6
+S'U\x8e\xddW\xec"\xd7?'
+p1314
+tp1315
+Rp1316
+tp1317
+a(S'immigrant language'
+p1318
+g2
+(g6
+S'\x8dG.\x93\xc0\x1c\xd7?'
+p1319
+tp1320
+Rp1321
+tp1322
+a(S'zapotecan languages'
+p1323
+g2
+(g6
+S'?\xcf\xad\xce\xe9\x16\xd7?'
+p1324
+tp1325
+Rp1326
+tp1327
+a(S'linguistic relativity'
+p1328
+g2
+(g6
+S'\xe4\xeb7V\xa4\x13\xd7?'
+p1329
+tp1330
+Rp1331
+tp1332
+a(S'amazonian languages'
+p1333
+g2
+(g6
+S'\xb0\x16:\x9e\t\x11\xd7?'
+p1334
+tp1335
+Rp1336
+tp1337
+a(S'languages of the united kingdom'
+p1338
+g2
+(g6
+S'?\x00\xa0\\\xb4\x0f\xd7?'
+p1339
+tp1340
+Rp1341
+tp1342
+a(S'mangue'
+p1343
+g2
+(g6
+S'3\x95\xe26\xe2\xfe\xd6?'
+p1344
+tp1345
+Rp1346
+tp1347
+a(S'maria polinsky'
+p1348
+g2
+(g6
+S'\x9f\x0b\xf8t\xc0\xf9\xd6?'
+p1349
+tp1350
+Rp1351
+tp1352
+a(S'minority languages of kosovo'
+p1353
+g2
+(g6
+S'U+\xf5oU\xf7\xd6?'
+p1354
+tp1355
+Rp1356
+tp1357
+a(S'calamian languages'
+p1358
+g2
+(g6
+S'\x9a\xa4 \xfa\xe9\xef\xd6?'
+p1359
+tp1360
+Rp1361
+tp1362
+a(S'mesoamerican languages'
+p1363
+g2
+(g6
+S'e\xa8!\xcf\xb0\xed\xd6?'
+p1364
+tp1365
+Rp1366
+tp1367
+a(S'lendu languages'
+p1368
+g2
+(g6
+S'e\x10\xd0/\xf1\xeb\xd6?'
+p1369
+tp1370
+Rp1371
+tp1372
+a(S'europanto'
+p1373
+g2
+(g6
+S'yuM\xb8[\xe9\xd6?'
+p1374
+tp1375
+Rp1376
+tp1377
+a(S'comecrudan languages'
+p1378
+g2
+(g6
+S'\x90\xa2m\xe55\xe5\xd6?'
+p1379
+tp1380
+Rp1381
+tp1382
+a(S'touo language'
+p1383
+g2
+(g6
+S'\xc4\xe4\xf5\x12\x1f\xe2\xd6?'
+p1384
+tp1385
+Rp1386
+tp1387
+a(S'programming language theory'
+p1388
+g2
+(g6
+S'\xdf~\xf6\xf4\xb6\xdc\xd6?'
+p1389
+tp1390
+Rp1391
+tp1392
+a(S'yokutsan languages'
+p1393
+g2
+(g6
+S'\xb4Z\xef\x9a\xfa\xd7\xd6?'
+p1394
+tp1395
+Rp1396
+tp1397
+a(S'official languages commission'
+p1398
+g2
+(g6
+S'\xd1\xda\xc4\x87\xed\xd5\xd6?'
+p1399
+tp1400
+Rp1401
+tp1402
+a(S'languages of the balkans'
+p1403
+g2
+(g6
+S'\x0b=eK\x15\xd5\xd6?'
+p1404
+tp1405
+Rp1406
+tp1407
+a(S'languages of new zealand'
+p1408
+g2
+(g6
+S'\xbf\xda\xc4`\xa5\xcd\xd6?'
+p1409
+tp1410
+Rp1411
+tp1412
+a(S'spurious languages'
+p1413
+g2
+(g6
+S'e\x81Cd\xf3\xc9\xd6?'
+p1414
+tp1415
+Rp1416
+tp1417
+a(S'languages of the philippines'
+p1418
+g2
+(g6
+S'\x9e\x1b\xee\xaf\xb9\xc0\xd6?'
+p1419
+tp1420
+Rp1421
+tp1422
+a(S'outline of second-language acquisition'
+p1423
+g2
+(g6
+S'\xf3\x15\x93\xb6\x93\xbe\xd6?'
+p1424
+tp1425
+Rp1426
+tp1427
+a(S'alien language in science fiction'
+p1428
+g2
+(g6
+S'I\xceI\xe9\xbc\xbc\xd6?'
+p1429
+tp1430
+Rp1431
+tp1432
+a(S'oldest language'
+p1433
+g2
+(g6
+S'\xa8l\x1av\xfe\xb9\xd6?'
+p1434
+tp1435
+Rp1436
+tp1437
+a(S'mixean languages'
+p1438
+g2
+(g6
+S'\x8c\x13\xf9 E\xb6\xd6?'
+p1439
+tp1440
+Rp1441
+tp1442
+a(S'paleohispanic languages'
+p1443
+g2
+(g6
+S'\x08Ab\xf0h\xa1\xd6?'
+p1444
+tp1445
+Rp1446
+tp1447
+a(S'languages of uganda'
+p1448
+g2
+(g6
+S'\xee\xe3\x9c1q\x9f\xd6?'
+p1449
+tp1450
+Rp1451
+tp1452
+a(S'rutul language'
+p1453
+g2
+(g6
+S'\xd9ii\x9em\x9c\xd6?'
+p1454
+tp1455
+Rp1456
+tp1457
+a(S'simultaneous bilingualism'
+p1458
+g2
+(g6
+S'\xe0\x949\x96R\x9a\xd6?'
+p1459
+tp1460
+Rp1461
+tp1462
+a(S'waka\xe2\x80\x93kabic languages'
+p1463
+g2
+(g6
+S'){\xc1\x9a\x86\x95\xd6?'
+p1464
+tp1465
+Rp1466
+tp1467
+a(S'dialect'
+p1468
+g2
+(g6
+S'Z\x8d>\x12U\x94\xd6?'
+p1469
+tp1470
+Rp1471
+tp1472
+a(S'kanyara languages'
+p1473
+g2
+(g6
+S'{\t\x7f\xf9\xcc\x92\xd6?'
+p1474
+tp1475
+Rp1476
+tp1477
+a(S'language isolate'
+p1478
+g2
+(g6
+S'\xb7C\xec\\/\x92\xd6?'
+p1479
+tp1480
+Rp1481
+tp1482
+a(S'command language'
+p1483
+g2
+(g6
+S'\xac\x8e\xaa\xab\x0b\x90\xd6?'
+p1484
+tp1485
+Rp1486
+tp1487
+a(S'southern nilotic languages'
+p1488
+g2
+(g6
+S'\xad\x1d\xf0\xb6\xdd\x88\xd6?'
+p1489
+tp1490
+Rp1491
+tp1492
+a(S'sawabantu languages'
+p1493
+g2
+(g6
+S'a\x1fK\xd6$\x86\xd6?'
+p1494
+tp1495
+Rp1496
+tp1497
+a(S'programming language generations'
+p1498
+g2
+(g6
+S'\xb4\xc9\x12\xb7f~\xd6?'
+p1499
+tp1500
+Rp1501
+tp1502
+a(S'list of polyglots'
+p1503
+g2
+(g6
+S'\xc2\xe7\xf4\xc2||\xd6?'
+p1504
+tp1505
+Rp1506
+tp1507
+a(S'karuk language'
+p1508
+g2
+(g6
+S'\xbfu\xe8@Zy\xd6?'
+p1509
+tp1510
+Rp1511
+tp1512
+a.

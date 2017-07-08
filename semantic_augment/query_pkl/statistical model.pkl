@@ -1,0 +1,2728 @@
+(lp0
+(S'statistical model'
+p1
+cnumpy.core.multiarray
+scalar
+p2
+(cnumpy
+dtype
+p3
+(S'f8'
+p4
+I0
+I1
+tp5
+Rp6
+(I3
+S'<'
+p7
+NNNI-1
+I-1
+I0
+tp8
+bS'\xff\xff\xff\xff\xff\xff\xef?'
+p9
+tp10
+Rp11
+tp12
+a(S'mathematical model'
+p13
+g2
+(g6
+S'[V\xfd=\xc4\x1e\xe1?'
+p14
+tp15
+Rp16
+tp17
+a(S'model selection'
+p18
+g2
+(g6
+S'.\x94T\xb1\xee\xc7\xe0?'
+p19
+tp20
+Rp21
+tp22
+a(S'statistical theory'
+p23
+g2
+(g6
+S",\x10\xb9\x1di'\xdf?"
+p24
+tp25
+Rp26
+tp27
+a(S'statistical assumption'
+p28
+g2
+(g6
+S'\x18}\xdc\x06\xfa\xef\xde?'
+p29
+tp30
+Rp31
+tp32
+a(S'statistical inference'
+p33
+g2
+(g6
+S'3\xa4\x894E\x82\xdd?'
+p34
+tp35
+Rp36
+tp37
+a(S'verification and validation of computer simulation models'
+p38
+g2
+(g6
+S'.\x96\xcf\x9b=\xce\xdc?'
+p39
+tp40
+Rp41
+tp42
+a(S'model'
+p43
+g2
+(g6
+S'\xaf\xfc4\x9e\x97o\xdc?'
+p44
+tp45
+Rp46
+tp47
+a(S'stochastic investment model'
+p48
+g2
+(g6
+S'\x1e`v\xde8C\xdc?'
+p49
+tp50
+Rp51
+tp52
+a(S'economic model'
+p53
+g2
+(g6
+S':\xd6\xec\xa2\xe0!\xdc?'
+p54
+tp55
+Rp56
+tp57
+a(S'accelerated failure time model'
+p58
+g2
+(g6
+S'\x8a\xa9\x1e\t\xf7g\xdb?'
+p59
+tp60
+Rp61
+tp62
+a(S'mathematical statistics'
+p63
+g2
+(g6
+S'\x12\xb4\x88Y\x8f)\xdb?'
+p64
+tp65
+Rp66
+tp67
+a(S'mixture model'
+p68
+g2
+(g6
+S'W\xf0\xcb\x91\xb6\x10\xdb?'
+p69
+tp70
+Rp71
+tp72
+a(S'model building'
+p73
+g2
+(g6
+S'8\x9bo>\x96\x0c\xdb?'
+p74
+tp75
+Rp76
+tp77
+a(S'list of rickenbacker products'
+p78
+g2
+(g6
+S'\x18\xdb\xaaS\x00\x0c\xdb?'
+p79
+tp80
+Rp81
+tp82
+a(S'data model'
+p83
+g2
+(g6
+S'\xa9\xd1T3!\xb4\xda?'
+p84
+tp85
+Rp86
+tp87
+a(S'focused information criterion'
+p88
+g2
+(g6
+S'\x0es\xb0{\x98\x88\xda?'
+p89
+tp90
+Rp91
+tp92
+a(S'identifiability'
+p93
+g2
+(g6
+S'f*\x0f)\xf4^\xda?'
+p94
+tp95
+Rp96
+tp97
+a(S'list of metropolitan statistical areas'
+p98
+g2
+(g6
+S'Q\x92\xa6)\x84Q\xda?'
+p99
+tp100
+Rp101
+tp102
+a(S'list of united states counties and county equivalents'
+p103
+g2
+(g6
+S'\xa6\x16t>\x87\x13\xda?'
+p104
+tp105
+Rp106
+tp107
+a(S'list of academic statistical associations'
+p108
+g2
+(g6
+S'W\x96\xbc\x03-\xb6\xd9?'
+p109
+tp110
+Rp111
+tp112
+a(S'physical model'
+p113
+g2
+(g6
+S'\xa3\x88\x00\t\xfa\x91\xd9?'
+p114
+tp115
+Rp116
+tp117
+a(S'list of core-based statistical areas'
+p118
+g2
+(g6
+S'\xd6D!\x08\xbax\xd9?'
+p119
+tp120
+Rp121
+tp122
+a(S'combined statistical area'
+p123
+g2
+(g6
+S'\xd63/Fv_\xd9?'
+p124
+tp125
+Rp126
+tp127
+a(S'statistics'
+p128
+g2
+(g6
+S'\x17\xf1\x8a\xd4\xd6[\xd9?'
+p129
+tp130
+Rp131
+tp132
+a(S'statistical proof'
+p133
+g2
+(g6
+S'\xd6\x93\n\x9f\xbbU\xd9?'
+p134
+tp135
+Rp136
+tp137
+a(S'list of fields of application of statistics'
+p138
+g2
+(g6
+S'\x95\x16\x82\x80\r8\xd9?'
+p139
+tp140
+Rp141
+tp142
+a(S'generalized linear model'
+p143
+g2
+(g6
+S'qz\x1b\x82\x08\x86\xd8?'
+p144
+tp145
+Rp146
+tp147
+a(S'approximate bayesian computation'
+p148
+g2
+(g6
+S'h\x890\x02=l\xd8?'
+p149
+tp150
+Rp151
+tp152
+a(S'atmospheric model'
+p153
+g2
+(g6
+S'{\xda\xb1<ea\xd8?'
+p154
+tp155
+Rp156
+tp157
+a(S'statistical literacy'
+p158
+g2
+(g6
+S"'\xd8\xb5x]=\xd8?"
+p159
+tp160
+Rp161
+tp162
+a(S'history of numerical weather prediction'
+p163
+g2
+(g6
+S'\xac\x88r\xdf\xc06\xd8?'
+p164
+tp165
+Rp166
+tp167
+a(S'ibm alignment models'
+p168
+g2
+(g6
+S'?_\xe7\xc5\x02\x10\xd8?'
+p169
+tp170
+Rp171
+tp172
+a(S'gaussian process emulator'
+p173
+g2
+(g6
+S'\xc4Kz\xac*\xfc\xd7?'
+p174
+tp175
+Rp176
+tp177
+a(S'nlogit'
+p178
+g2
+(g6
+S'Yl\xc2\xe4\x9b\xf5\xd7?'
+p179
+tp180
+Rp181
+tp182
+a(S'mixed model'
+p183
+g2
+(g6
+S'\xfc\xbe\xfc[\xda\xea\xd7?'
+p184
+tp185
+Rp186
+tp187
+a(S'list of primary statistical areas of the united states'
+p188
+g2
+(g6
+S'\xe7\xcbhFw\xe7\xd7?'
+p189
+tp190
+Rp191
+tp192
+a(S'econometric model'
+p193
+g2
+(g6
+S'G\x14\xcb[\xcf\xdf\xd7?'
+p194
+tp195
+Rp196
+tp197
+a(S'overdispersion'
+p198
+g2
+(g6
+S'km\xbc:\x81\xc1\xd7?'
+p199
+tp200
+Rp201
+tp202
+a(S'statistical parameter'
+p203
+g2
+(g6
+S'u\x02\t\xeeo\xbd\xd7?'
+p204
+tp205
+Rp206
+tp207
+a(S'inner model'
+p208
+g2
+(g6
+S'8P\xa7^\xdd\xb2\xd7?'
+p209
+tp210
+Rp211
+tp212
+a(S'kjartansson constant q model'
+p213
+g2
+(g6
+S'H\x8b *\xb2\xae\xd7?'
+p214
+tp215
+Rp216
+tp217
+a(S'statistical assembly'
+p218
+g2
+(g6
+S'hu\xc1\x9b\x84\xac\xd7?'
+p219
+tp220
+Rp221
+tp222
+a(S'list of statistics articles'
+p223
+g2
+(g6
+S'LF\xa31\xb7\xab\xd7?'
+p224
+tp225
+Rp226
+tp227
+a(S'generalized additive model for location, scale and shape'
+p228
+g2
+(g6
+S'\x80\xed\xa8Z7\xa8\xd7?'
+p229
+tp230
+Rp231
+tp232
+a(S'colorado statistical areas'
+p233
+g2
+(g6
+S'\xcbE":\xc7\x9c\xd7?'
+p234
+tp235
+Rp236
+tp237
+a(S'united states primary statistical area'
+p238
+g2
+(g6
+S'\xe39)n\xb8\x9b\xd7?'
+p239
+tp240
+Rp241
+tp242
+a(S'autoregressive conditional heteroskedasticity'
+p243
+g2
+(g6
+S'\xed\xd1:F\xc1\x88\xd7?'
+p244
+tp245
+Rp246
+tp247
+a(S'ecosystem model'
+p248
+g2
+(g6
+S'\xbeun]i}\xd7?'
+p249
+tp250
+Rp251
+tp252
+a(S'generative model'
+p253
+g2
+(g6
+S'\xb0/v\xa6Cl\xd7?'
+p254
+tp255
+Rp256
+tp257
+a(S'large-scale macroeconometric model'
+p258
+g2
+(g6
+S']G\xa0\xa4\xb4T\xd7?'
+p259
+tp260
+Rp261
+tp262
+a(S'grey box model'
+p263
+g2
+(g6
+S'u|<)\x9aQ\xd7?'
+p264
+tp265
+Rp266
+tp267
+a(S'log-linear analysis'
+p268
+g2
+(g6
+S'\x17\xeb\x9c\xe7\x8b<\xd7?'
+p269
+tp270
+Rp271
+tp272
+a(S'ship model'
+p273
+g2
+(g6
+S'\xae\xa9\x10\x9a\xb2\x15\xd7?'
+p274
+tp275
+Rp276
+tp277
+a(S'potterswheel'
+p278
+g2
+(g6
+S'f\x14\xf5\t}\x0f\xd7?'
+p279
+tp280
+Rp281
+tp282
+a(S'language model'
+p283
+g2
+(g6
+S'U3d\xe0\xfe\x0b\xd7?'
+p284
+tp285
+Rp286
+tp287
+a(S'exponential random graph models'
+p288
+g2
+(g6
+S'\xc7\x9f\xe81k\x08\xd7?'
+p289
+tp290
+Rp291
+tp292
+a(S'conceptual model'
+p293
+g2
+(g6
+S';u-2\x93\x04\xd7?'
+p294
+tp295
+Rp296
+tp297
+a(S'vector generalized linear model'
+p298
+g2
+(g6
+S'[\x95\xee\x82\xef\xfd\xd6?'
+p299
+tp300
+Rp301
+tp302
+a(S'short-rate model'
+p303
+g2
+(g6
+S'0\xdd\xc3ax\xe3\xd6?'
+p304
+tp305
+Rp306
+tp307
+a(S'hellenic statistical authority'
+p308
+g2
+(g6
+S'\x8e\x97\xf8j\x8d\xd7\xd6?'
+p309
+tp310
+Rp311
+tp312
+a(S'time series'
+p313
+g2
+(g6
+S'\xb4\xd01\x1cF\xd1\xd6?'
+p314
+tp315
+Rp316
+tp317
+a(S'model building (particle physics)'
+p318
+g2
+(g6
+S'\xa5\xadw\xa8c\xc3\xd6?'
+p319
+tp320
+Rp321
+tp322
+a(S'model engineering'
+p323
+g2
+(g6
+S'\x1b\x0bu\xb9"\xbe\xd6?'
+p324
+tp325
+Rp326
+tp327
+a(S'statistical database'
+p328
+g2
+(g6
+S'v\x9f\xe48\xb7\xb5\xd6?'
+p329
+tp330
+Rp331
+tp332
+a(S'semiparametric model'
+p333
+g2
+(g6
+S'A\xbc\xda\xb4w\xb4\xd6?'
+p334
+tp335
+Rp336
+tp337
+a(S'climateprediction.net'
+p338
+g2
+(g6
+S'\xa2\x96w,r\xb1\xd6?'
+p339
+tp340
+Rp341
+tp342
+a(S'hydrological transport model'
+p343
+g2
+(g6
+S'`\xa5\xfc\xa1\xb6\xab\xd6?'
+p344
+tp345
+Rp346
+tp347
+a(S'online model'
+p348
+g2
+(g6
+S'\rg\xae=:\xa1\xd6?'
+p349
+tp350
+Rp351
+tp352
+a(S'united nations statistics division'
+p353
+g2
+(g6
+S'h\xfc\x03\xc3\xbf\x8a\xd6?'
+p354
+tp355
+Rp356
+tp357
+a(S'regression validation'
+p358
+g2
+(g6
+S'\xa7\xacf\xf6\x97\x83\xd6?'
+p359
+tp360
+Rp361
+tp362
+a(S'opentms'
+p363
+g2
+(g6
+S'\xc1K\x05\xa8Aj\xd6?'
+p364
+tp365
+Rp366
+tp367
+a(S'marginal model'
+p368
+g2
+(g6
+S'/\xb2\xdf\xf4\x0f_\xd6?'
+p369
+tp370
+Rp371
+tp372
+a(S'multilevel model'
+p373
+g2
+(g6
+S'\x96\xa6\x13*&X\xd6?'
+p374
+tp375
+Rp376
+tp377
+a(S'z n model'
+p378
+g2
+(g6
+S't\x9b\xc4k\xdaM\xd6?'
+p379
+tp380
+Rp381
+tp382
+a(S'silverthorne micropolitan statistical area'
+p383
+g2
+(g6
+S'\x8c\xe2\xd1\xab\xa1D\xd6?'
+p384
+tp385
+Rp386
+tp387
+a(S'analysis of variance'
+p388
+g2
+(g6
+S'p\xd3\xa1\xd4\xd1C\xd6?'
+p389
+tp390
+Rp391
+tp392
+a(S'kinetic exchange models of markets'
+p393
+g2
+(g6
+S"r\xb6\rh'?\xd6?"
+p394
+tp395
+Rp396
+tp397
+a(S'statistical methods for research workers'
+p398
+g2
+(g6
+S'\xc8\x19\x19\xc2\x06:\xd6?'
+p399
+tp400
+Rp401
+tp402
+a(S'gauss moutinho cordeiro'
+p403
+g2
+(g6
+S'\xef\x18\xf8\x1558\xd6?'
+p404
+tp405
+Rp406
+tp407
+a(S'model transformation'
+p408
+g2
+(g6
+S'\xd6\xd9\x0b7\xed6\xd6?'
+p409
+tp410
+Rp411
+tp412
+a(S'statistical stability'
+p413
+g2
+(g6
+S'\xd1b\xbf\x7f\x11,\xd6?'
+p414
+tp415
+Rp416
+tp417
+a(S'model risk'
+p418
+g2
+(g6
+S'\xa1\xb9\xa2\x08\xd4*\xd6?'
+p419
+tp420
+Rp421
+tp422
+a(S'model year'
+p423
+g2
+(g6
+S"\x82V[E\xae'\xd6?"
+p424
+tp425
+Rp426
+tp427
+a(S'statistical office of the republic of serbia'
+p428
+g2
+(g6
+S'\x979xd\xfa\x02\xd6?'
+p429
+tp430
+Rp431
+tp432
+a(S'grand junction metropolitan statistical area'
+p433
+g2
+(g6
+S'E\\\xe5qI\x01\xd6?'
+p434
+tp435
+Rp436
+tp437
+a(S'unified model'
+p438
+g2
+(g6
+S'<\xc1\x86G\n\xff\xd5?'
+p439
+tp440
+Rp441
+tp442
+a(S'model (person)'
+p443
+g2
+(g6
+S'R\x12k\x88\xd2\xf5\xd5?'
+p444
+tp445
+Rp446
+tp447
+a(S'tropical cyclone forecast model'
+p448
+g2
+(g6
+S'\xf9VN\xee\xc1\xe2\xd5?'
+p449
+tp450
+Rp451
+tp452
+a(S'f-test'
+p453
+g2
+(g6
+S'\x14\xef\x13\x15\xb7\xe2\xd5?'
+p454
+tp455
+Rp456
+tp457
+a(S'computable general equilibrium'
+p458
+g2
+(g6
+S'!W"S\xba\xd5\xd5?'
+p459
+tp460
+Rp461
+tp462
+a(S'statistical physics'
+p463
+g2
+(g6
+S'\xaeMh\x06\x0f\xd3\xd5?'
+p464
+tp465
+Rp466
+tp467
+a(S'overfitting'
+p468
+g2
+(g6
+S'\xbf\xa2\x14\xa1\x12\xd1\xd5?'
+p469
+tp470
+Rp471
+tp472
+a(S'katherine wallman'
+p473
+g2
+(g6
+S'\xb5Zy\x8e\xd5\xc3\xd5?'
+p474
+tp475
+Rp476
+tp477
+a(S'variational bayesian methods'
+p478
+g2
+(g6
+S'A`\xe1V\x06\xbb\xd5?'
+p479
+tp480
+Rp481
+tp482
+a(S'edwards, co micropolitan statistical area'
+p483
+g2
+(g6
+S'&\x8d\xe3\x88\xc5\xb5\xd5?'
+p484
+tp485
+Rp486
+tp487
+a(S'box\xe2\x80\x93jenkins method'
+p488
+g2
+(g6
+S'\t\xdc\x87\x98\xaa\xb2\xd5?'
+p489
+tp490
+Rp491
+tp492
+a(S'linear probability model'
+p493
+g2
+(g6
+S'\xa5\xd4-\x0f\x83\xaf\xd5?'
+p494
+tp495
+Rp496
+tp497
+a(S'general circulation model'
+p498
+g2
+(g6
+S'\xcfk\\L}\xa9\xd5?'
+p499
+tp500
+Rp501
+tp502
+a(S'yauco metropolitan area'
+p503
+g2
+(g6
+S'\x95\x16\xd0\xd2\x8a\xa4\xd5?'
+p504
+tp505
+Rp506
+tp507
+a(S'n-vector model'
+p508
+g2
+(g6
+S'\xee\xdf[(\x9f\xa3\xd5?'
+p509
+tp510
+Rp511
+tp512
+a(S'sterling micropolitan statistical area'
+p513
+g2
+(g6
+S'\x1cnS\xde\x13\x8a\xd5?'
+p514
+tp515
+Rp516
+tp517
+a(S'keidy moreno'
+p518
+g2
+(g6
+S'2\x1d\xf3\x10\xe0\x89\xd5?'
+p519
+tp520
+Rp521
+tp522
+a(S'data modeling'
+p523
+g2
+(g6
+S'\xaa\xff\x97\xe9\xcc\x86\xd5?'
+p524
+tp525
+Rp526
+tp527
+a(S'akaike information criterion'
+p528
+g2
+(g6
+S'\x86\xe9\xdaX\x85|\xd5?'
+p529
+tp530
+Rp531
+tp532
+a(S'3d city models'
+p533
+g2
+(g6
+S'\xf9z\xbf\x8eCy\xd5?'
+p534
+tp535
+Rp536
+tp537
+a(S'dynamic microsimulation pension model'
+p538
+g2
+(g6
+S'\xf8\r\x0b\xd4/t\xd5?'
+p539
+tp540
+Rp541
+tp542
+a(S'bugmobile company'
+p543
+g2
+(g6
+S'\xee\x99\xdc\xb5\xeen\xd5?'
+p544
+tp545
+Rp546
+tp547
+a(S'fort morgan micropolitan statistical area'
+p548
+g2
+(g6
+S'>e~6`l\xd5?'
+p549
+tp550
+Rp551
+tp552
+a(S'vaxserver'
+p553
+g2
+(g6
+S'IX$\xb4\xa0g\xd5?'
+p554
+tp555
+Rp556
+tp557
+a(S'statistical graphics'
+p558
+g2
+(g6
+S'm\xb6=n\xe0Y\xd5?'
+p559
+tp560
+Rp561
+tp562
+a(S'microscale and macroscale models'
+p563
+g2
+(g6
+S'\xca\xf6X\xc9\xccV\xd5?'
+p564
+tp565
+Rp566
+tp567
+a(S'official statistics'
+p568
+g2
+(g6
+S'0\xfa\xa4\x05WK\xd5?'
+p569
+tp570
+Rp571
+tp572
+a(S'david spiegelhalter'
+p573
+g2
+(g6
+S'\xd2 \xa8\x81,D\xd5?'
+p574
+tp575
+Rp576
+tp577
+a(S'misuse of statistics'
+p578
+g2
+(g6
+S'&\xea\xc0I\x1b6\xd5?'
+p579
+tp580
+Rp581
+tp582
+a(S'random sample consensus'
+p583
+g2
+(g6
+S'\x01s\xcf\x05k#\xd5?'
+p584
+tp585
+Rp586
+tp587
+a(S'azimi q models'
+p588
+g2
+(g6
+S't\xae\xc2\x92i#\xd5?'
+p589
+tp590
+Rp591
+tp592
+a(S'hirotugu akaike'
+p593
+g2
+(g6
+S'\xa8rjY\x91\x13\xd5?'
+p594
+tp595
+Rp596
+tp597
+a(S'probit model'
+p598
+g2
+(g6
+S'\xb3?\xd1\xbe9\xfe\xd4?'
+p599
+tp600
+Rp601
+tp602
+a(S'comparison of statistics journals'
+p603
+g2
+(g6
+S'v\xe9\xd3L\xff\xfa\xd4?'
+p604
+tp605
+Rp606
+tp607
+a(S'moving-average model'
+p608
+g2
+(g6
+S'\x91\xc1\x93\xa8d\xfa\xd4?'
+p609
+tp610
+Rp611
+tp612
+a(S'dubai statistics center'
+p613
+g2
+(g6
+S'dP\xc3\x16I\xf9\xd4?'
+p614
+tp615
+Rp616
+tp617
+a(S'list of micropolitan statistical areas'
+p618
+g2
+(g6
+S'\x95\xfc\x94p\xa4\xf4\xd4?'
+p619
+tp620
+Rp621
+tp622
+a(S'multimodal distribution'
+p623
+g2
+(g6
+S'W\x8d\xe4\xcc\xab\xe2\xd4?'
+p624
+tp625
+Rp626
+tp627
+a(S'business model'
+p628
+g2
+(g6
+S'\xa6\xa0\xcdIg\xdf\xd4?'
+p629
+tp630
+Rp631
+tp632
+a(S'stepwise regression'
+p633
+g2
+(g6
+S'\x8d\xbb\xf5\x19\xfa\xd4\xd4?'
+p634
+tp635
+Rp636
+tp637
+a(S'business model pattern'
+p638
+g2
+(g6
+S'+\xb0\xde\xbc=\xd4\xd4?'
+p639
+tp640
+Rp641
+tp642
+a(S'autoregressive\xe2\x80\x93moving-average model'
+p643
+g2
+(g6
+S'\x9e\xb6\xd4B\xb2\xcf\xd4?'
+p644
+tp645
+Rp646
+tp647
+a(S'southeastern united states'
+p648
+g2
+(g6
+S'\xcf$\xc6\x9bj\xcb\xd4?'
+p649
+tp650
+Rp651
+tp652
+a(S'anil kumar bhattacharya'
+p653
+g2
+(g6
+S']4\xe39J\xca\xd4?'
+p654
+tp655
+Rp656
+tp657
+a(S'urban traffic modeling and analysis'
+p658
+g2
+(g6
+S'\xf4\xfd\x01\xc6-\xc6\xd4?'
+p659
+tp660
+Rp661
+tp662
+a(S'list of integrable models'
+p663
+g2
+(g6
+S'CV\xe7\xc5\x13\xc3\xd4?'
+p664
+tp665
+Rp666
+tp667
+a(S'history of network traffic models'
+p668
+g2
+(g6
+S"'6\x9d\x81\xe8\xb9\xd4?"
+p669
+tp670
+Rp671
+tp672
+a(S'structural equation modeling'
+p673
+g2
+(g6
+S'\x1e\xb9\xac\x92\x90\xb7\xd4?'
+p674
+tp675
+Rp676
+tp677
+a(S'national statistical institute (bulgaria)'
+p678
+g2
+(g6
+S'\xbe\xbc\xbc\xed2\xb6\xd4?'
+p679
+tp680
+Rp681
+tp682
+a(S'human performance modeling'
+p683
+g2
+(g6
+S'\xea:\x9ai\x0b\xa0\xd4?'
+p684
+tp685
+Rp686
+tp687
+a(S'architectural model'
+p688
+g2
+(g6
+S'\xfb\xa5\xa5\xbf\xb4\x9e\xd4?'
+p689
+tp690
+Rp691
+tp692
+a(S'linear model'
+p693
+g2
+(g6
+S'\r\x86m\x13\x07\x9e\xd4?'
+p694
+tp695
+Rp696
+tp697
+a(S'constellation model'
+p698
+g2
+(g6
+S'\xee+Hy\x8f\x99\xd4?'
+p699
+tp700
+Rp701
+tp702
+a(S'statistical lab'
+p703
+g2
+(g6
+S'\x1b\x1b_a\xe2\x89\xd4?'
+p704
+tp705
+Rp706
+tp707
+a(S'information model'
+p708
+g2
+(g6
+S'Hb\xb9\x01D\x82\xd4?'
+p709
+tp710
+Rp711
+tp712
+a(S'location testing for gaussian scale mixture distributions'
+p713
+g2
+(g6
+S'\xc4\xc9#\x7f\xb4|\xd4?'
+p714
+tp715
+Rp716
+tp717
+a(S'k-distribution'
+p718
+g2
+(g6
+S'%&p\xb3\x0eh\xd4?'
+p719
+tp720
+Rp721
+tp722
+a(S'list of important publications in statistics'
+p723
+g2
+(g6
+S'\x0b\xd65\x83\x80f\xd4?'
+p724
+tp725
+Rp726
+tp727
+a(S'model year (computer modeling)'
+p728
+g2
+(g6
+S'\tH\xddKrZ\xd4?'
+p729
+tp730
+Rp731
+tp732
+a(S'statistical weight'
+p733
+g2
+(g6
+S'\xbc[\xa9\x96?Y\xd4?'
+p734
+tp735
+Rp736
+tp737
+a(S'minichamps'
+p738
+g2
+(g6
+S'\xe6\xf0\xd5\x9a\x9eW\xd4?'
+p739
+tp740
+Rp741
+tp742
+a(S'model audit'
+p743
+g2
+(g6
+S'j\xb18\xb8\xd9U\xd4?'
+p744
+tp745
+Rp746
+tp747
+a(S'prime model'
+p748
+g2
+(g6
+S'\xe4b%\x95\xdcQ\xd4?'
+p749
+tp750
+Rp751
+tp752
+a(S'non-standard model'
+p753
+g2
+(g6
+S'\x1e\xbeHR\x8bL\xd4?'
+p754
+tp755
+Rp756
+tp757
+a(S"vuong's closeness test"
+p758
+g2
+(g6
+S'\x10U^\xd6nF\xd4?'
+p759
+tp760
+Rp761
+tp762
+a(S'outline of statistics'
+p763
+g2
+(g6
+S's\xc8CB\xe8C\xd4?'
+p764
+tp765
+Rp766
+tp767
+a(S'mixture (probability)'
+p768
+g2
+(g6
+S'\xb3~L\x03\x87=\xd4?'
+p769
+tp770
+Rp771
+tp772
+a(S'logical data model'
+p773
+g2
+(g6
+S'F/\xe8,H=\xd4?'
+p774
+tp775
+Rp776
+tp777
+a(S'genstat'
+p778
+g2
+(g6
+S'>\xce{\x83\x12;\xd4?'
+p779
+tp780
+Rp781
+tp782
+a(S'history of statistics'
+p783
+g2
+(g6
+S'\xb4\x0b\x9e\xa2\xeb5\xd4?'
+p784
+tp785
+Rp786
+tp787
+a(S'model b'
+p788
+g2
+(g6
+S'\xa9\x8a\xceD\x945\xd4?'
+p789
+tp790
+Rp791
+tp792
+a(S'binomial regression'
+p793
+g2
+(g6
+S'~\x89\xc5\xcf\xc4(\xd4?'
+p794
+tp795
+Rp796
+tp797
+a(S'model high school (disambiguation)'
+p798
+g2
+(g6
+S'\x1b\t\xdf\x19\x80$\xd4?'
+p799
+tp800
+Rp801
+tp802
+a(S'panel analysis'
+p803
+g2
+(g6
+S'\xdd\x892\xb5\xb5"\xd4?'
+p804
+tp805
+Rp806
+tp807
+a(S'the price is right models'
+p808
+g2
+(g6
+S'\x0fs\x18P)!\xd4?'
+p809
+tp810
+Rp811
+tp812
+a(S'ncss (statistical software)'
+p813
+g2
+(g6
+S'\x87\x9a}\xda\x0e\x1d\xd4?'
+p814
+tp815
+Rp816
+tp817
+a(S'walter a. shewhart'
+p818
+g2
+(g6
+S'v\x89f\xb1\xa4\x1c\xd4?'
+p819
+tp820
+Rp821
+tp822
+a(S'deviance (statistics)'
+p823
+g2
+(g6
+S'\xa7\xf1\x97\xf8E\x1a\xd4?'
+p824
+tp825
+Rp826
+tp827
+a(S'active shape model'
+p828
+g2
+(g6
+S'*{\x7f\xa2\xc7\x19\xd4?'
+p829
+tp830
+Rp831
+tp832
+a(S'ca\xc3\xb1on city, co micropolitan statistical area'
+p833
+g2
+(g6
+S'\xd1anun\x19\xd4?'
+p834
+tp835
+Rp836
+tp837
+a(S'central statistical directorate'
+p838
+g2
+(g6
+S'j\xac\x03B/\x13\xd4?'
+p839
+tp840
+Rp841
+tp842
+a(S'john boreham'
+p843
+g2
+(g6
+S'\x10\x1b\xf2i\xb4\x11\xd4?'
+p844
+tp845
+Rp846
+tp847
+a(S'bayesian hierarchical modeling'
+p848
+g2
+(g6
+S'\xab\x13By\x19\x10\xd4?'
+p849
+tp850
+Rp851
+tp852
+a(S'data dredging'
+p853
+g2
+(g6
+S'b,s\x13\xae\x0b\xd4?'
+p854
+tp855
+Rp856
+tp857
+a(S'cadillac model d'
+p858
+g2
+(g6
+S'6\xeb\xb4#K\x0b\xd4?'
+p859
+tp860
+Rp861
+tp862
+a(S'minimum message length'
+p863
+g2
+(g6
+S'LX\xbf\xe3\xf9\x07\xd4?'
+p864
+tp865
+Rp866
+tp867
+a(S'spike-and-slab variable selection'
+p868
+g2
+(g6
+S'<\xa0\xdbr3\x06\xd4?'
+p869
+tp870
+Rp871
+tp872
+a(S'house model'
+p873
+g2
+(g6
+S'\xf9\x9f\xc5\x00\x16\xfa\xd3?'
+p874
+tp875
+Rp876
+tp877
+a(S'model-dependent realism'
+p878
+g2
+(g6
+S'nI)\x91\xd4\xef\xd3?'
+p879
+tp880
+Rp881
+tp882
+a(S'marginal likelihood'
+p883
+g2
+(g6
+S'\xb9(\xb4|\x00\xeb\xd3?'
+p884
+tp885
+Rp886
+tp887
+a(S'group family'
+p888
+g2
+(g6
+S'\x10\x00\xd6[\x94\xe9\xd3?'
+p889
+tp890
+Rp891
+tp892
+a(S'federal statistical system of the united states'
+p893
+g2
+(g6
+S'\x90@;\x8c\x80\xe9\xd3?'
+p894
+tp895
+Rp896
+tp897
+a(S'mobility model'
+p898
+g2
+(g6
+S'\xdc\x9f\xc6N\xcc\xe7\xd3?'
+p899
+tp900
+Rp901
+tp902
+a(S'john nelder'
+p903
+g2
+(g6
+S'?i[op\xe6\xd3?'
+p904
+tp905
+Rp906
+tp907
+a(S'paper model'
+p908
+g2
+(g6
+S'\x8aF\xd4}\x0e\xdf\xd3?'
+p909
+tp910
+Rp911
+tp912
+a(S'identifiability analysis'
+p913
+g2
+(g6
+S'7\x9c\xc4\xfd\xe3\xd7\xd3?'
+p914
+tp915
+Rp916
+tp917
+a(S'model a'
+p918
+g2
+(g6
+S'j\x8b\xd7\x83>\xd1\xd3?'
+p919
+tp920
+Rp921
+tp922
+a(S'all models are wrong'
+p923
+g2
+(g6
+S'\xe66M"\x08\xce\xd3?'
+p924
+tp925
+Rp926
+tp927
+a(S'statistical syllogism'
+p928
+g2
+(g6
+S'\xdf\x0e:\xd3\xf3\xcb\xd3?'
+p929
+tp930
+Rp931
+tp932
+a(S'exploratory data analysis'
+p933
+g2
+(g6
+S'\xb6\\Sp\xd5\xcb\xd3?'
+p934
+tp935
+Rp936
+tp937
+a(S'trip distribution'
+p938
+g2
+(g6
+S'\x1a\xaf\x14\xeb\xef\xc9\xd3?'
+p939
+tp940
+Rp941
+tp942
+a(S'deterministic simulation'
+p943
+g2
+(g6
+S'/\r\xba\xc0\x81\xc6\xd3?'
+p944
+tp945
+Rp946
+tp947
+a(S'gempack'
+p948
+g2
+(g6
+S'^J\r2-\xc4\xd3?'
+p949
+tp950
+Rp951
+tp952
+a(S'bayesian statistics'
+p953
+g2
+(g6
+S'J\x05y\xa67\xc1\xd3?'
+p954
+tp955
+Rp956
+tp957
+a(S'noncentrality parameter'
+p958
+g2
+(g6
+S'\xa5&J\xbf\x8a\xbe\xd3?'
+p959
+tp960
+Rp961
+tp962
+a(S'spin model'
+p963
+g2
+(g6
+S'O\x94\x9b\xe7<\xbe\xd3?'
+p964
+tp965
+Rp966
+tp967
+a(S'world3'
+p968
+g2
+(g6
+S'\x84\xb3\xb2\xb3\xc8\xae\xd3?'
+p969
+tp970
+Rp971
+tp972
+a(S'vasicek model'
+p973
+g2
+(g6
+S'D\\\xbd\x0f\xf4\xac\xd3?'
+p974
+tp975
+Rp976
+tp977
+a(S'hawaii statistical areas'
+p978
+g2
+(g6
+S'\xa7\xa8O\x8fC\xac\xd3?'
+p979
+tp980
+Rp981
+tp982
+a(S'statistical society of australia'
+p983
+g2
+(g6
+S'\xde\xd7\xd6\x0f|\xab\xd3?'
+p984
+tp985
+Rp986
+tp987
+a(S'confirmatory factor analysis'
+p988
+g2
+(g6
+S'\xaf\xb3\x94\xc1\xcc\xa8\xd3?'
+p989
+tp990
+Rp991
+tp992
+a(S'water model'
+p993
+g2
+(g6
+S'\x7fy\x9c\x18\xb6\xa7\xd3?'
+p994
+tp995
+Rp996
+tp997
+a(S'jamie gunns'
+p998
+g2
+(g6
+S'\xbc\x92\xcf\xa9\xa2\xa6\xd3?'
+p999
+tp1000
+Rp1001
+tp1002
+a(S'model school'
+p1003
+g2
+(g6
+S"\xc0\x94>\xbb'\xa4\xd3?"
+p1004
+tp1005
+Rp1006
+tp1007
+a(S'numerical weather prediction'
+p1008
+g2
+(g6
+S'\xc6yb\xd7\x03\xa2\xd3?'
+p1009
+tp1010
+Rp1011
+tp1012
+a(S'community climate system model'
+p1013
+g2
+(g6
+S'\xd7Z4\xe0y\xa0\xd3?'
+p1014
+tp1015
+Rp1016
+tp1017
+a(S'generalized additive model'
+p1018
+g2
+(g6
+S'\xbd\x9b\x9fC\x80\x9f\xd3?'
+p1019
+tp1020
+Rp1021
+tp1022
+a(S'ford model c'
+p1023
+g2
+(g6
+S'\xf0"Q\x1a\xef\x9e\xd3?'
+p1024
+tp1025
+Rp1026
+tp1027
+a(S'climate model'
+p1028
+g2
+(g6
+S'\\\x84k\x01\x87\x9b\xd3?'
+p1029
+tp1030
+Rp1031
+tp1032
+a(S'gaussian process'
+p1033
+g2
+(g6
+S'TN\xe2\xd8\xa8\x90\xd3?'
+p1034
+tp1035
+Rp1036
+tp1037
+a(S'cheyenne metropolitan area'
+p1038
+g2
+(g6
+S'\xf9T\xd7\xfe\xb6\x8e\xd3?'
+p1039
+tp1040
+Rp1041
+tp1042
+a(S'predictive model markup language'
+p1043
+g2
+(g6
+S'\xdb\xfe}\x8b\xab\x8a\xd3?'
+p1044
+tp1045
+Rp1046
+tp1047
+a(S'data point'
+p1048
+g2
+(g6
+S'\xf9\xfd\x16z\x8c\x88\xd3?'
+p1049
+tp1050
+Rp1051
+tp1052
+a(S'cadillac runabout and tonneau'
+p1053
+g2
+(g6
+S'kL\x8ev\n\x86\xd3?'
+p1054
+tp1055
+Rp1056
+tp1057
+a(S'energy distance'
+p1058
+g2
+(g6
+S'\xbfgHF\x8f\x83\xd3?'
+p1059
+tp1060
+Rp1061
+tp1062
+a(S'predictive analytics'
+p1063
+g2
+(g6
+S'\x0b8f\x9d\xc2x\xd3?'
+p1064
+tp1065
+Rp1066
+tp1067
+a(S'montrose micropolitan statistical area'
+p1068
+g2
+(g6
+S'\x9d\x7f]\xaf\xcfv\xd3?'
+p1069
+tp1070
+Rp1071
+tp1072
+a(S'generalized maxwell model'
+p1073
+g2
+(g6
+S'W}-\x8c\xfcr\xd3?'
+p1074
+tp1075
+Rp1076
+tp1077
+a(S'trs-80 model ii'
+p1078
+g2
+(g6
+S'\xf3\xcb\n\x0fsm\xd3?'
+p1079
+tp1080
+Rp1081
+tp1082
+a(S'parametric model'
+p1083
+g2
+(g6
+S'\xef\x12X\xd0h_\xd3?'
+p1084
+tp1085
+Rp1086
+tp1087
+a(S'minimal model (set theory)'
+p1088
+g2
+(g6
+S'84\x04\xca\x7f]\xd3?'
+p1089
+tp1090
+Rp1091
+tp1092
+a(S'standard model (disambiguation)'
+p1093
+g2
+(g6
+S'+x|a\x1f\\\xd3?'
+p1094
+tp1095
+Rp1096
+tp1097
+a(S'john tukey'
+p1098
+g2
+(g6
+S'\xe5\x84}~{Z\xd3?'
+p1099
+tp1100
+Rp1101
+tp1102
+a(S'standard model (cryptography)'
+p1103
+g2
+(g6
+S'kzH\xe9bX\xd3?'
+p1104
+tp1105
+Rp1106
+tp1107
+a(S'joseph hilbe'
+p1108
+g2
+(g6
+S'\xce\x17\xd0*:V\xd3?'
+p1109
+tp1110
+Rp1111
+tp1112
+a(S'list of black fashion models'
+p1113
+g2
+(g6
+S'\x95g\xd2\x87\x83S\xd3?'
+p1114
+tp1115
+Rp1116
+tp1117
+a(S'radio propagation model'
+p1118
+g2
+(g6
+S'\xd5\xbf\x97\x84\xe3R\xd3?'
+p1119
+tp1120
+Rp1121
+tp1122
+a(S'scale model'
+p1123
+g2
+(g6
+S'\xcd\xff\xd04\xd9L\xd3?'
+p1124
+tp1125
+Rp1126
+tp1127
+a(S'remington model 511 scoremaster'
+p1128
+g2
+(g6
+S'\xc7_\x87\xc7\x04L\xd3?'
+p1129
+tp1130
+Rp1131
+tp1132
+a(S'stochastic modelling (insurance)'
+p1133
+g2
+(g6
+S'y\xe3\xa6\x10pH\xd3?'
+p1134
+tp1135
+Rp1136
+tp1137
+a(S'stochastic grammar'
+p1138
+g2
+(g6
+S'\xf3\xc1.\xcfbH\xd3?'
+p1139
+tp1140
+Rp1141
+tp1142
+a(S'quasi-likelihood'
+p1143
+g2
+(g6
+S'\xc2k\x036\xfcE\xd3?'
+p1144
+tp1145
+Rp1146
+tp1147
+a(S'exponential dispersion model'
+p1148
+g2
+(g6
+S'v\xd8@\x91j=\xd3?'
+p1149
+tp1150
+Rp1151
+tp1152
+a(S'ford model n'
+p1153
+g2
+(g6
+S'=9\xd8\r\x157\xd3?'
+p1154
+tp1155
+Rp1156
+tp1157
+a(S'nonlinear system identification'
+p1158
+g2
+(g6
+S'\xaa.Lq\xd4.\xd3?'
+p1159
+tp1160
+Rp1161
+tp1162
+a(S'foundations of statistics'
+p1163
+g2
+(g6
+S'O\xf7\xb2\xd9\xe5+\xd3?'
+p1164
+tp1165
+Rp1166
+tp1167
+a(S'continuous modelling'
+p1168
+g2
+(g6
+S'\xd9hH\x9e\x87*\xd3?'
+p1169
+tp1170
+Rp1171
+tp1172
+a(S'lambretta model b'
+p1173
+g2
+(g6
+S"tc\xce.\xc8'\xd3?"
+p1174
+tp1175
+Rp1176
+tp1177
+a(S'high-dimensional statistics'
+p1178
+g2
+(g6
+S'\xeb\x91\xac(@&\xd3?'
+p1179
+tp1180
+Rp1181
+tp1182
+a(S'statistical interference'
+p1183
+g2
+(g6
+S'=\x9d\xcaV\x8c!\xd3?'
+p1184
+tp1185
+Rp1186
+tp1187
+a(S'mathematical finance'
+p1188
+g2
+(g6
+S'o~\x95\xaa_\x1e\xd3?'
+p1189
+tp1190
+Rp1191
+tp1192
+a(S'macroeconomic model'
+p1193
+g2
+(g6
+S'\xcax\x95z\xd0\x1b\xd3?'
+p1194
+tp1195
+Rp1196
+tp1197
+a(S'transistor model'
+p1198
+g2
+(g6
+S'\xd4\xf1\xa4\x87\xd0\t\xd3?'
+p1199
+tp1200
+Rp1201
+tp1202
+a(S'(a,b,0) class of distributions'
+p1203
+g2
+(g6
+S'\xfa8[\xd58\t\xd3?'
+p1204
+tp1205
+Rp1206
+tp1207
+a(S'metropolitan statistical area'
+p1208
+g2
+(g6
+S'\xa3\xfbwB\x03\x08\xd3?'
+p1209
+tp1210
+Rp1211
+tp1212
+a(S'asta advances in statistical analysis'
+p1213
+g2
+(g6
+S'?\xb2eb\xf4\x07\xd3?'
+p1214
+tp1215
+Rp1216
+tp1217
+a(S'ibm system/360 model 22'
+p1218
+g2
+(g6
+S'\r(>}\xaf\x07\xd3?'
+p1219
+tp1220
+Rp1221
+tp1222
+a(S'vulnerability discovery model'
+p1223
+g2
+(g6
+S'\xcf\xd3w\x89F\x07\xd3?'
+p1224
+tp1225
+Rp1226
+tp1227
+a(S'data analysis'
+p1228
+g2
+(g6
+S'\x87U\xba\x17-\x04\xd3?'
+p1229
+tp1230
+Rp1231
+tp1232
+a(S'multi-model database'
+p1233
+g2
+(g6
+S'"\xfb{\xd2\xae\x00\xd3?'
+p1234
+tp1235
+Rp1236
+tp1237
+a(S'denver\xe2\x80\x93aurora combined statistical area'
+p1238
+g2
+(g6
+S'7O\xfa\xca\xef\xfd\xd2?'
+p1239
+tp1240
+Rp1241
+tp1242
+a(S'econophysics'
+p1243
+g2
+(g6
+S'\xea\x1f\xa1\x06n\xfb\xd2?'
+p1244
+tp1245
+Rp1246
+tp1247
+a(S'scientific modelling'
+p1248
+g2
+(g6
+S'X\xb5\xe0\xaed\xfa\xd2?'
+p1249
+tp1250
+Rp1251
+tp1252
+a(S'gee bee sportster'
+p1253
+g2
+(g6
+S'j\t/\x9a\xd7\xf8\xd2?'
+p1254
+tp1255
+Rp1256
+tp1257
+a(S'probonto'
+p1258
+g2
+(g6
+S'\xb5Y\x8ee\x8f\xf3\xd2?'
+p1259
+tp1260
+Rp1261
+tp1262
+a(S'q-gaussian distribution'
+p1263
+g2
+(g6
+S'\x94\x99\x9f\\m\xef\xd2?'
+p1264
+tp1265
+Rp1266
+tp1267
+a(S'direct election republican model (australia)'
+p1268
+g2
+(g6
+S'\xe6\x0b<|\xb5\xeb\xd2?'
+p1269
+tp1270
+Rp1271
+tp1272
+a(S'monocoupe model 22'
+p1273
+g2
+(g6
+S'pka\x03\xae\xeb\xd2?'
+p1274
+tp1275
+Rp1276
+tp1277
+a(S'model (art)'
+p1278
+g2
+(g6
+S'k]\xa6\xf4}\xea\xd2?'
+p1279
+tp1280
+Rp1281
+tp1282
+a(S'system model'
+p1283
+g2
+(g6
+S'\xe1\x94\xc9\x1f\x1d\xe2\xd2?'
+p1284
+tp1285
+Rp1286
+tp1287
+a(S'delaware statistical areas'
+p1288
+g2
+(g6
+S'3\xa1\xb27%\xe1\xd2?'
+p1289
+tp1290
+Rp1291
+tp1292
+a(S'list of statistical packages'
+p1293
+g2
+(g6
+S'\xe9J-\x98\xe7\xdb\xd2?'
+p1294
+tp1295
+Rp1296
+tp1297
+a(S'kati nescher'
+p1298
+g2
+(g6
+S'S\xcd\xa6N\xf3\xd3\xd2?'
+p1299
+tp1300
+Rp1301
+tp1302
+a(S'statistical distance'
+p1303
+g2
+(g6
+S'L\xa35\x04\x1d\xd2\xd2?'
+p1304
+tp1305
+Rp1306
+tp1307
+a(S'ibm 2365 processor storage'
+p1308
+g2
+(g6
+S'\xbb\xf2\x183\x16\xc7\xd2?'
+p1309
+tp1310
+Rp1311
+tp1312
+a(S'hidden markov model'
+p1313
+g2
+(g6
+S'\xe2\xea\x1a\x8d\xb5\xbe\xd2?'
+p1314
+tp1315
+Rp1316
+tp1317
+a(S'potts model'
+p1318
+g2
+(g6
+S'Z\x99\x97\xf5\x0e\xbe\xd2?'
+p1319
+tp1320
+Rp1321
+tp1322
+a(S'process reference models'
+p1323
+g2
+(g6
+S'\x94bQ{\x84\xbd\xd2?'
+p1324
+tp1325
+Rp1326
+tp1327
+a(S'data generating process'
+p1328
+g2
+(g6
+S'\x8d\x87\x8b\x8e$\xad\xd2?'
+p1329
+tp1330
+Rp1331
+tp1332
+a(S'ford model a (1927\xe2\x80\x9331)'
+p1333
+g2
+(g6
+S'\xe5\x9eR\x07y\xa8\xd2?'
+p1334
+tp1335
+Rp1336
+tp1337
+a(S'q\xe2\x80\x93q plot'
+p1338
+g2
+(g6
+S'\x94Ui\xa6N\xa8\xd2?'
+p1339
+tp1340
+Rp1341
+tp1342
+a(S'adamsoft'
+p1343
+g2
+(g6
+S'\\\x8e\x12M\xcd\xa7\xd2?'
+p1344
+tp1345
+Rp1346
+tp1347
+a(S'doubly stochastic model'
+p1348
+g2
+(g6
+S'\x96pI\xbf^\xa7\xd2?'
+p1349
+tp1350
+Rp1351
+tp1352
+a(S'v-model'
+p1353
+g2
+(g6
+S'M\xc7\xaf\xde\xd6\x9f\xd2?'
+p1354
+tp1355
+Rp1356
+tp1357
+a(S'statistical signal processing'
+p1358
+g2
+(g6
+S'P\x00\x8cA\xa0\x9f\xd2?'
+p1359
+tp1360
+Rp1361
+tp1362
+a(S'meta model (disambiguation)'
+p1363
+g2
+(g6
+S"\x03|\x1d'R\x9d\xd2?"
+p1364
+tp1365
+Rp1366
+tp1367
+a(S'mixture distribution'
+p1368
+g2
+(g6
+S'\xcb5J/\xb4\x9c\xd2?'
+p1369
+tp1370
+Rp1371
+tp1372
+a(S'traffic generation model'
+p1373
+g2
+(g6
+S'&\xbe\xd0*b\x9b\xd2?'
+p1374
+tp1375
+Rp1376
+tp1377
+a(S'sbml'
+p1378
+g2
+(g6
+S'\x8b\xb2\xf4\x85I\x9b\xd2?'
+p1379
+tp1380
+Rp1381
+tp1382
+a(S'sensitivity analysis'
+p1383
+g2
+(g6
+S'1\xbd\xd2\xe4\xe2\x9a\xd2?'
+p1384
+tp1385
+Rp1386
+tp1387
+a(S'phenomenological model'
+p1388
+g2
+(g6
+S'\xc2\xafh\\\xca\x97\xd2?'
+p1389
+tp1390
+Rp1391
+tp1392
+a(S'durango micropolitan statistical area'
+p1393
+g2
+(g6
+S'FQ\xe7X\xee\x8d\xd2?'
+p1394
+tp1395
+Rp1396
+tp1397
+a(S'model alliance'
+p1398
+g2
+(g6
+S'\x94K\xac\x1ch\x8c\xd2?'
+p1399
+tp1400
+Rp1401
+tp1402
+a(S'hierarchical generalized linear model'
+p1403
+g2
+(g6
+S')(\xad\xda\x0b\x8c\xd2?'
+p1404
+tp1405
+Rp1406
+tp1407
+a(S'journal of the american statistical association'
+p1408
+g2
+(g6
+S'\x1c\xc0*\xef\x05\x8c\xd2?'
+p1409
+tp1410
+Rp1411
+tp1412
+a(S'informal inferential reasoning'
+p1413
+g2
+(g6
+S'p2h\x84\x82~\xd2?'
+p1414
+tp1415
+Rp1416
+tp1417
+a(S'harrisburg-york-lebanon, pa combined statistical area'
+p1418
+g2
+(g6
+S'\x17\x82\x8eY\xe4z\xd2?'
+p1419
+tp1420
+Rp1421
+tp1422
+a(S'fiducial inference'
+p1423
+g2
+(g6
+S'{\x9d\x97\xbd\xefx\xd2?'
+p1424
+tp1425
+Rp1426
+tp1427
+a(S'dynamic stochastic general equilibrium'
+p1428
+g2
+(g6
+S'g{K=nw\xd2?'
+p1429
+tp1430
+Rp1431
+tp1432
+a(S'1:50 scale'
+p1433
+g2
+(g6
+S'"Yx\x8c\xfev\xd2?'
+p1434
+tp1435
+Rp1436
+tp1437
+a(S'teradata warehouse miner'
+p1438
+g2
+(g6
+S'F#=\x11]u\xd2?'
+p1439
+tp1440
+Rp1441
+tp1442
+a(S'brass model'
+p1443
+g2
+(g6
+S'\x81\xa8\xd5\x82\x91s\xd2?'
+p1444
+tp1445
+Rp1446
+tp1447
+a(S'role model (disambiguation)'
+p1448
+g2
+(g6
+S'\x82l\xbb\xbb\xbaj\xd2?'
+p1449
+tp1450
+Rp1451
+tp1452
+a(S'davis distribution'
+p1453
+g2
+(g6
+S'G\x92Lv\xcc]\xd2?'
+p1454
+tp1455
+Rp1456
+tp1457
+a(S'model driven interoperability'
+p1458
+g2
+(g6
+S'\x90Fj\x96\rY\xd2?'
+p1459
+tp1460
+Rp1461
+tp1462
+a(S'r-factor (crystallography)'
+p1463
+g2
+(g6
+S'\xb6\\\xac=(W\xd2?'
+p1464
+tp1465
+Rp1466
+tp1467
+a(S'state statistics committee (azerbaijan)'
+p1468
+g2
+(g6
+S';\xc9\xae"\tU\xd2?'
+p1469
+tp1470
+Rp1471
+tp1472
+a(S'stochastic block model'
+p1473
+g2
+(g6
+S'~\x97O\xfd\xf8R\xd2?'
+p1474
+tp1475
+Rp1476
+tp1477
+a(S'angellika morton'
+p1478
+g2
+(g6
+S'^FsM\x14Q\xd2?'
+p1479
+tp1480
+Rp1481
+tp1482
+a(S'errors-in-variables models'
+p1483
+g2
+(g6
+S'\t\x84\x1f\xea2K\xd2?'
+p1484
+tp1485
+Rp1486
+tp1487
+a(S'remington model 878'
+p1488
+g2
+(g6
+S'Y\xbca\x97 F\xd2?'
+p1489
+tp1490
+Rp1491
+tp1492
+a(S'national statistical office of thailand'
+p1493
+g2
+(g6
+S'\xe2\x81\xd9\x8a\xa3=\xd2?'
+p1494
+tp1495
+Rp1496
+tp1497
+a(S'neural modeling fields'
+p1498
+g2
+(g6
+S'\xc5ATL\xc48\xd2?'
+p1499
+tp1500
+Rp1501
+tp1502
+a(S'aamito lagum'
+p1503
+g2
+(g6
+S'\xe9\xbae\xcd\xf07\xd2?'
+p1504
+tp1505
+Rp1506
+tp1507
+a(S'lagos bureau of statistics'
+p1508
+g2
+(g6
+S'K\xd6\x8c\xc4\x915\xd2?'
+p1509
+tp1510
+Rp1511
+tp1512
+a.

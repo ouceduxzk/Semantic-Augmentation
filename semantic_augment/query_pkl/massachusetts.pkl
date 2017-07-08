@@ -1,0 +1,2728 @@
+(lp0
+(S'massachusetts'
+p1
+cnumpy.core.multiarray
+scalar
+p2
+(cnumpy
+dtype
+p3
+(S'f8'
+p4
+I0
+I1
+tp5
+Rp6
+(I3
+S'<'
+p7
+NNNI-1
+I-1
+I0
+tp8
+bS'\xfe\xff\xff\xff\xff\xff\xef?'
+p9
+tp10
+Rp11
+tp12
+a(S'outline of massachusetts'
+p13
+g2
+(g6
+S'\xb3\xb8\x95\xa7\x9c\x1c\xec?'
+p14
+tp15
+Rp16
+tp17
+a(S'university of massachusetts (disambiguation)'
+p18
+g2
+(g6
+S'H\xb1Vm\xe2H\xea?'
+p19
+tp20
+Rp21
+tp22
+a(S'history of massachusetts'
+p23
+g2
+(g6
+S'\xa6\x80\x98\xc6k<\xea?'
+p24
+tp25
+Rp26
+tp27
+a(S'index of massachusetts-related articles'
+p28
+g2
+(g6
+S'H\x94I\x94V\x83\xe9?'
+p29
+tp30
+Rp31
+tp32
+a(S'massachusetts (disambiguation)'
+p33
+g2
+(g6
+S'\xd9F\xaf\xab)M\xe8?'
+p34
+tp35
+Rp36
+tp37
+a(S'law of massachusetts'
+p38
+g2
+(g6
+S'\x06\x9c\xc4\xdc\xfc\x06\xe8?'
+p39
+tp40
+Rp41
+tp42
+a(S'courts of massachusetts'
+p43
+g2
+(g6
+S"A\xf6s'\x16\xc6\xe7?"
+p44
+tp45
+Rp46
+tp47
+a(S'geography of massachusetts'
+p48
+g2
+(g6
+S'\xe9nd\xa3\x94+\xe6?'
+p49
+tp50
+Rp51
+tp52
+a(S'daniel tyler, jr.'
+p53
+g2
+(g6
+S'@kr\x03\x13\xe7\xe5?'
+p54
+tp55
+Rp56
+tp57
+a(S'demographics of massachusetts'
+p58
+g2
+(g6
+S'o^\x1b\r\x96}\xe5?'
+p59
+tp60
+Rp61
+tp62
+a(S'robert r. bishop'
+p63
+g2
+(g6
+S'\xf6\x06\xb0\xbf\xe6/\xe5?'
+p64
+tp65
+Rp66
+tp67
+a(S'list of elections in massachusetts'
+p68
+g2
+(g6
+S'\xdcD\x05M9-\xe5?'
+p69
+tp70
+Rp71
+tp72
+a(S'henry b. lovering'
+p73
+g2
+(g6
+S'E|S[6(\xe5?'
+p74
+tp75
+Rp76
+tp77
+a(S'usrc massachusetts ii (1793)'
+p78
+g2
+(g6
+S']Vy\r\xd6\xc9\xe4?'
+p79
+tp80
+Rp81
+tp82
+a(S'david sutherland nelson'
+p83
+g2
+(g6
+S'\x7fhj\xa7%\xbb\xe4?'
+p84
+tp85
+Rp86
+tp87
+a(S'elmer a. stevens'
+p88
+g2
+(g6
+S'H\x85F\xaa\x97\xba\xe4?'
+p89
+tp90
+Rp91
+tp92
+a(S'rotaries in massachusetts'
+p93
+g2
+(g6
+S'\x9e\x19\xe3d\x13\xba\xe4?'
+p94
+tp95
+Rp96
+tp97
+a(S'jethro mitchell'
+p98
+g2
+(g6
+S'\xdb\xa3\xb7\x059\xa4\xe4?'
+p99
+tp100
+Rp101
+tp102
+a(S'william h. dolben'
+p103
+g2
+(g6
+S'\x06\xf0\x8e\t\x1a\x9c\xe4?'
+p104
+tp105
+Rp106
+tp107
+a(S'benjamin t. pickman'
+p108
+g2
+(g6
+S'\xe6%\xbbm\x14\x9c\xe4?'
+p109
+tp110
+Rp111
+tp112
+a(S'1930 massachusetts aggies football team'
+p113
+g2
+(g6
+S'\xab\xfd-\xd1\xdc\x98\xe4?'
+p114
+tp115
+Rp116
+tp117
+a(S'james arnold lowell'
+p118
+g2
+(g6
+S'\xa016\x10\x18\x88\xe4?'
+p119
+tp120
+Rp121
+tp122
+a(S'frank jerome murray'
+p123
+g2
+(g6
+S'\xcd\r&a\x0e\x81\xe4?'
+p124
+tp125
+Rp126
+tp127
+a(S'edward m. lambert, jr.'
+p128
+g2
+(g6
+S'G\xbc.\xe1PF\xe4?'
+p129
+tp130
+Rp131
+tp132
+a(S'massachusetts in the american civil war'
+p133
+g2
+(g6
+S'$\xaa\xbd\x11\x9cE\xe4?'
+p134
+tp135
+Rp136
+tp137
+a(S'john mills (massachusetts politician)'
+p138
+g2
+(g6
+S'\xc0a\x96\xeb\xab\x11\xe4?'
+p139
+tp140
+Rp141
+tp142
+a(S'charles jenney'
+p143
+g2
+(g6
+S'O\xd1\xbb\xe2\x04\xeb\xe3?'
+p144
+tp145
+Rp146
+tp147
+a(S'boston university (disambiguation)'
+p148
+g2
+(g6
+S'\x9ej\xf6\xd2t\xe0\xe3?'
+p149
+tp150
+Rp151
+tp152
+a(S'frank b. fay'
+p153
+g2
+(g6
+S':&\xa0\xee\xae\xd5\xe3?'
+p154
+tp155
+Rp156
+tp157
+a(S'guy glodis'
+p158
+g2
+(g6
+S'\xa7\x840\x80\xea\xcf\xe3?'
+p159
+tp160
+Rp161
+tp162
+a(S'list of films set in new england'
+p163
+g2
+(g6
+S'\x12\xed\xa85\x87\xc5\xe3?'
+p164
+tp165
+Rp166
+tp167
+a(S'uss massachusetts (bb-59)'
+p168
+g2
+(g6
+S'J\x1b\xabZ\x0f\xc2\xe3?'
+p169
+tp170
+Rp171
+tp172
+a(S'massachusetts general election, 2012'
+p173
+g2
+(g6
+S'Z}\xee\x19\\\xad\xe3?'
+p174
+tp175
+Rp176
+tp177
+a(S'patrick w. ford'
+p178
+g2
+(g6
+S'\xe9p\x97\xd2y\x9c\xe3?'
+p179
+tp180
+Rp181
+tp182
+a(S'angier goodwin'
+p183
+g2
+(g6
+S'\x02\xd7DY[\x98\xe3?'
+p184
+tp185
+Rp186
+tp187
+a(S'politics of massachusetts'
+p188
+g2
+(g6
+S'3r\xb6+\x12\x90\xe3?'
+p189
+tp190
+Rp191
+tp192
+a(S'thaddeus m. buczko'
+p193
+g2
+(g6
+S'M3\x14\xfb1\x8c\xe3?'
+p194
+tp195
+Rp196
+tp197
+a(S'list of the oldest buildings in massachusetts'
+p198
+g2
+(g6
+S'\x0eJ\x8e\x8a\xa7\x88\xe3?'
+p199
+tp200
+Rp201
+tp202
+a(S'marc draisen'
+p203
+g2
+(g6
+S'.\x94\xa8W\x01\x82\xe3?'
+p204
+tp205
+Rp206
+tp207
+a(S'massachusetts bay trading company'
+p208
+g2
+(g6
+S'\xf2\x94)X\xd8}\xe3?'
+p209
+tp210
+Rp211
+tp212
+a(S'robert e. mccarthy'
+p213
+g2
+(g6
+S'\xb43I0\x90`\xe3?'
+p214
+tp215
+Rp216
+tp217
+a(S'william e. carney'
+p218
+g2
+(g6
+S'6a\x89\n\xc0S\xe3?'
+p219
+tp220
+Rp221
+tp222
+a(S'wachusett'
+p223
+g2
+(g6
+S'\xe40-\x8c\x9aI\xe3?'
+p224
+tp225
+Rp226
+tp227
+a(S'massachusetts avenue'
+p228
+g2
+(g6
+S'mp8L=I\xe3?'
+p229
+tp230
+Rp231
+tp232
+a(S'united states senate election in massachusetts, 1942'
+p233
+g2
+(g6
+S'\xad\xe4k[\x18G\xe3?'
+p234
+tp235
+Rp236
+tp237
+a(S'massachusetts state defense force'
+p238
+g2
+(g6
+S'{\x94^\xfa:D\xe3?'
+p239
+tp240
+Rp241
+tp242
+a(S'lewis evangelidis'
+p243
+g2
+(g6
+S'\xebX\xf0\x82C?\xe3?'
+p244
+tp245
+Rp246
+tp247
+a(S'charles r. greco'
+p248
+g2
+(g6
+S'\x7f\xec\xb1>e(\xe3?'
+p249
+tp250
+Rp251
+tp252
+a(S'south coast (massachusetts)'
+p253
+g2
+(g6
+S'\xfd\x9f\xbe\x87\xbf\x1b\xe3?'
+p254
+tp255
+Rp256
+tp257
+a(S'andrea f. nuciforo, jr.'
+p258
+g2
+(g6
+S'\xf7 1.\x17\x07\xe3?'
+p259
+tp260
+Rp261
+tp262
+a(S'cambridge seven associates'
+p263
+g2
+(g6
+S'\x1a\x1a-\x9a\x9a\xf8\xe2?'
+p264
+tp265
+Rp266
+tp267
+a(S'leon lombardi'
+p268
+g2
+(g6
+S'\xfc\xc8\x14\xcb\xdc\xe1\xe2?'
+p269
+tp270
+Rp271
+tp272
+a(S'province of massachusetts bay'
+p273
+g2
+(g6
+S'\t\x0b?\x8b\xcc\xc8\xe2?'
+p274
+tp275
+Rp276
+tp277
+a(S'massachusetts department of elementary and secondary education'
+p278
+g2
+(g6
+S'\x92V)A\xc1\xc0\xe2?'
+p279
+tp280
+Rp281
+tp282
+a(S'george washington warren'
+p283
+g2
+(g6
+S'\x8aNag\xfa\xb9\xe2?'
+p284
+tp285
+Rp286
+tp287
+a(S'scouting in massachusetts'
+p288
+g2
+(g6
+S'T\xad\xed.\xb1\xb3\xe2?'
+p289
+tp290
+Rp291
+tp292
+a(S'necw triple crown heavyweight championship'
+p293
+g2
+(g6
+S'K\xa9\x9e^\x01\x9d\xe2?'
+p294
+tp295
+Rp296
+tp297
+a(S"shannon o'brien"
+p298
+g2
+(g6
+S'\xe8\x88\x8c\xf0 ~\xe2?'
+p299
+tp300
+Rp301
+tp302
+a(S'asahel stearns'
+p303
+g2
+(g6
+S'>\x02_\xb4Rn\xe2?'
+p304
+tp305
+Rp306
+tp307
+a(S'massachusetts state collegiate athletic conference'
+p308
+g2
+(g6
+S'\x04\x90\xa4\x9c\xb6g\xe2?'
+p309
+tp310
+Rp311
+tp312
+a(S'list of the oldest public high schools in the united states'
+p313
+g2
+(g6
+S'\xcbv\xe3wmS\xe2?'
+p314
+tp315
+Rp316
+tp317
+a(S'first regiment massachusetts volunteer infantry'
+p318
+g2
+(g6
+S'\xbb\x16h\xcf\xd8Q\xe2?'
+p319
+tp320
+Rp321
+tp322
+a(S'frederick simpson deitrick'
+p323
+g2
+(g6
+S';\x8d\xe7\xeb\xebN\xe2?'
+p324
+tp325
+Rp326
+tp327
+a(S'john k. tarbox'
+p328
+g2
+(g6
+S'tJ\xd8\xc3\x80)\xe2?'
+p329
+tp330
+Rp331
+tp332
+a(S'massachusetts academy'
+p333
+g2
+(g6
+S'C\xd9\xe3\xf9\xb3&\xe2?'
+p334
+tp335
+Rp336
+tp337
+a(S'selwyn z. bowman'
+p338
+g2
+(g6
+S'\xdc\x03r\x95}#\xe2?'
+p339
+tp340
+Rp341
+tp342
+a(S'acushnet'
+p343
+g2
+(g6
+S';\xf7U\xef\x0b\x1f\xe2?'
+p344
+tp345
+Rp346
+tp347
+a(S'robert o. harris'
+p348
+g2
+(g6
+S'e\xca\x8f\x13s\x1e\xe2?'
+p349
+tp350
+Rp351
+tp352
+a(S'massachusetts center for the book'
+p353
+g2
+(g6
+S'\xa4\x9e\x92zQ\x1e\xe2?'
+p354
+tp355
+Rp356
+tp357
+a(S'western massachusetts'
+p358
+g2
+(g6
+S"T)\xa4\xe2'\x1e\xe2?"
+p359
+tp360
+Rp361
+tp362
+a(S'george meacham'
+p363
+g2
+(g6
+S'\xc9\xeb\x91\x91L\x19\xe2?'
+p364
+tp365
+Rp366
+tp367
+a(S'united states senate election in massachusetts, 1928'
+p368
+g2
+(g6
+S'\t\xd6\xae\xf0O\x05\xe2?'
+p369
+tp370
+Rp371
+tp372
+a(S'stephen buoniconti'
+p373
+g2
+(g6
+S'O\xb2\xe7\x1eG\xf1\xe1?'
+p374
+tp375
+Rp376
+tp377
+a(S'douglas p. woodlock'
+p378
+g2
+(g6
+S'\xe2Q\xf7\x9b\xc2\xf0\xe1?'
+p379
+tp380
+Rp381
+tp382
+a(S'ebenezer bradbury'
+p383
+g2
+(g6
+S'\xb2|\x93\xc6C\xed\xe1?'
+p384
+tp385
+Rp386
+tp387
+a(S'leonard b. chandler'
+p388
+g2
+(g6
+S'\xb9\xaa\x8e\xd0^\xe7\xe1?'
+p389
+tp390
+Rp391
+tp392
+a(S'george fingold'
+p393
+g2
+(g6
+S"\x1fG\xa7'\x98\xca\xe1?"
+p394
+tp395
+Rp396
+tp397
+a(S'necw tag team championship'
+p398
+g2
+(g6
+S'F\xddI\xc8\r\xc4\xe1?'
+p399
+tp400
+Rp401
+tp402
+a(S'alexander rice esty'
+p403
+g2
+(g6
+S'\x1a\x9b(\xb8E\xb9\xe1?'
+p404
+tp405
+Rp406
+tp407
+a(S'polish-american roman catholic parishes in new england'
+p408
+g2
+(g6
+S'\xc7\xcaD\xfa\xa7\xac\xe1?'
+p409
+tp410
+Rp411
+tp412
+a(S'ralph s. bauer'
+p413
+g2
+(g6
+S'\xee\xcc\x16\xc1t\xac\xe1?'
+p414
+tp415
+Rp416
+tp417
+a(S'united states senate election in massachusetts, 1940'
+p418
+g2
+(g6
+S'T\xa2\x9eP\xbb\xa5\xe1?'
+p419
+tp420
+Rp421
+tp422
+a(S'boston college (disambiguation)'
+p423
+g2
+(g6
+S'p>33\xdd\x99\xe1?'
+p424
+tp425
+Rp426
+tp427
+a(S'united states senate election in massachusetts, 1984'
+p428
+g2
+(g6
+S'y\xdfe\x0c\x91\x98\xe1?'
+p429
+tp430
+Rp431
+tp432
+a(S'united states senate election in massachusetts, 1948'
+p433
+g2
+(g6
+S'TG\x9a\xcf\x7f\x93\xe1?'
+p434
+tp435
+Rp436
+tp437
+a(S'martin lomasney'
+p438
+g2
+(g6
+S'\xf3&\x9d\x800\x8b\xe1?'
+p439
+tp440
+Rp441
+tp442
+a(S'united states senate election in massachusetts, 1930'
+p443
+g2
+(g6
+S'\x13k\xe9}Ou\xe1?'
+p444
+tp445
+Rp446
+tp447
+a(S'john andrew sullivan'
+p448
+g2
+(g6
+S'\x81\x91\xfc\x7f`n\xe1?'
+p449
+tp450
+Rp451
+tp452
+a(S'adams family political line'
+p453
+g2
+(g6
+S'\xfd\xcc\x9b\xbd\xa2m\xe1?'
+p454
+tp455
+Rp456
+tp457
+a(S'paul j. gannon'
+p458
+g2
+(g6
+S'\x00\n:F7l\xe1?'
+p459
+tp460
+Rp461
+tp462
+a(S'susan tracy'
+p463
+g2
+(g6
+S'*V\xc5\xe9@k\xe1?'
+p464
+tp465
+Rp466
+tp467
+a(S'george ashmun'
+p468
+g2
+(g6
+S'X\xb3`sxf\xe1?'
+p469
+tp470
+Rp471
+tp472
+a(S'government of massachusetts'
+p473
+g2
+(g6
+S'\x98\xe4\x0b\xc8h^\xe1?'
+p474
+tp475
+Rp476
+tp477
+a(S'massachusetts general election, 2008'
+p478
+g2
+(g6
+S'zfA\xdfjR\xe1?'
+p479
+tp480
+Rp481
+tp482
+a(S'john r. buckley'
+p483
+g2
+(g6
+S'\x04\xe7\xd6 \x0eO\xe1?'
+p484
+tp485
+Rp486
+tp487
+a(S'israel t. almy'
+p488
+g2
+(g6
+S'\xfb\x03\x8d\x88\xb4H\xe1?'
+p489
+tp490
+Rp491
+tp492
+a(S'myron lawrence'
+p493
+g2
+(g6
+S'\x17\x7fC"\x94G\xe1?'
+p494
+tp495
+Rp496
+tp497
+a(S'massachusetts statistical areas'
+p498
+g2
+(g6
+S'E\xdd\x18q\x86>\xe1?'
+p499
+tp500
+Rp501
+tp502
+a(S'hartwell and richardson'
+p503
+g2
+(g6
+S'~K\x827\xe5;\xe1?'
+p504
+tp505
+Rp506
+tp507
+a(S'united states senate election in massachusetts, 1934'
+p508
+g2
+(g6
+S'\xd8\xd7\x85o\x8a&\xe1?'
+p509
+tp510
+Rp511
+tp512
+a(S'asher benjamin'
+p513
+g2
+(g6
+S'A\xa6\xae\x7f\xb6\x19\xe1?'
+p514
+tp515
+Rp516
+tp517
+a(S'michael j. mcettrick'
+p518
+g2
+(g6
+S'\x8eu\xaa\xdac\x0c\xe1?'
+p519
+tp520
+Rp521
+tp522
+a(S'samuel walker (massachusetts politician)'
+p523
+g2
+(g6
+S'i$:\xc7`\x0b\xe1?'
+p524
+tp525
+Rp526
+tp527
+a(S'marjorie decker'
+p528
+g2
+(g6
+S'\x14\x1bg\x7f2\x00\xe1?'
+p529
+tp530
+Rp531
+tp532
+a(S'anthony julian'
+p533
+g2
+(g6
+S'2=V\x93\x94\xfc\xe0?'
+p534
+tp535
+Rp536
+tp537
+a(S'massachusetts school of art'
+p538
+g2
+(g6
+S'\xdd\x9e\xe2\x12[\xe9\xe0?'
+p539
+tp540
+Rp541
+tp542
+a(S'william g. young'
+p543
+g2
+(g6
+S'\x15\xf8\xc7\xebv\xe3\xe0?'
+p544
+tp545
+Rp546
+tp547
+a(S'state library of massachusetts'
+p548
+g2
+(g6
+S'\xdf\xad)\xa8\x1a\xe3\xe0?'
+p549
+tp550
+Rp551
+tp552
+a(S'peter g. torkildsen'
+p553
+g2
+(g6
+S'D]U\n\xaf\xd1\xe0?'
+p554
+tp555
+Rp556
+tp557
+a(S'james a. burke (massachusetts politician)'
+p558
+g2
+(g6
+S's?0\xb61\xbc\xe0?'
+p559
+tp560
+Rp561
+tp562
+a(S'gabriel piemonte'
+p563
+g2
+(g6
+S'\x94J\xffg,\xb9\xe0?'
+p564
+tp565
+Rp566
+tp567
+a(S'ziba cary keith'
+p568
+g2
+(g6
+S'\x9b\x9ex\xfc\x87\xb8\xe0?'
+p569
+tp570
+Rp571
+tp572
+a(S'frank g. allen'
+p573
+g2
+(g6
+S'C\xdc\xfd\x89\x92\xb4\xe0?'
+p574
+tp575
+Rp576
+tp577
+a(S'artemas hale'
+p578
+g2
+(g6
+S'\x8b&\xa4\xe7\xd4\xa4\xe0?'
+p579
+tp580
+Rp581
+tp582
+a(S'david cobb (massachusetts)'
+p583
+g2
+(g6
+S'\xdaC\xbfs\x18\xa3\xe0?'
+p584
+tp585
+Rp586
+tp587
+a(S'shearjashub bourne'
+p588
+g2
+(g6
+S'=}\x92\x08\xe2\xa0\xe0?'
+p589
+tp590
+Rp591
+tp592
+a(S'list of us cities that have used stv'
+p593
+g2
+(g6
+S'aK\xc5\x9c"\x9a\xe0?'
+p594
+tp595
+Rp596
+tp597
+a(S'charles r. train'
+p598
+g2
+(g6
+S'\xed6\x96\x1a{\x95\xe0?'
+p599
+tp600
+Rp601
+tp602
+a(S'peter i. blute'
+p603
+g2
+(g6
+S'X\x13\xe5\x9a\x06\x86\xe0?'
+p604
+tp605
+Rp606
+tp607
+a(S'joseph allen (congressman)'
+p608
+g2
+(g6
+S'\x1fN\x91\x8a-\x83\xe0?'
+p609
+tp610
+Rp611
+tp612
+a(S'mary z. connaughton'
+p613
+g2
+(g6
+S'&\xc3\xeeb\xbf\x82\xe0?'
+p614
+tp615
+Rp616
+tp617
+a(S'united states senate special election in massachusetts, 1944'
+p618
+g2
+(g6
+S'\x04\x1e\xc3\x01\xb3\x81\xe0?'
+p619
+tp620
+Rp621
+tp622
+a(S'john w. haigis'
+p623
+g2
+(g6
+S'\r\x10\xab\x1c{\x81\xe0?'
+p624
+tp625
+Rp626
+tp627
+a(S'cutting, carleton & cutting'
+p628
+g2
+(g6
+S'`\xc93X\xdfs\xe0?'
+p629
+tp630
+Rp631
+tp632
+a(S'capital punishment in massachusetts'
+p633
+g2
+(g6
+S'|\\y\xcbAm\xe0?'
+p634
+tp635
+Rp636
+tp637
+a(S'angelo puppolo'
+p638
+g2
+(g6
+S'\x81N\xe7\xea8k\xe0?'
+p639
+tp640
+Rp641
+tp642
+a(S'wellfleet'
+p643
+g2
+(g6
+S'\xbaO\xb4\x8c\x06]\xe0?'
+p644
+tp645
+Rp646
+tp647
+a(S'the church of jesus christ of latter-day saints in massachusetts'
+p648
+g2
+(g6
+S'\xe7\xe2\xd9\x93\x89W\xe0?'
+p649
+tp650
+Rp651
+tp652
+a(S'maginnis & walsh'
+p653
+g2
+(g6
+S'\x89\xb0\x15~]U\xe0?'
+p654
+tp655
+Rp656
+tp657
+a(S'list of massachusetts area codes'
+p658
+g2
+(g6
+S'\x8b\x8a\xb9\xac\x83J\xe0?'
+p659
+tp660
+Rp661
+tp662
+a(S'northeastern conference'
+p663
+g2
+(g6
+S"'\xee\xc6!\xb3F\xe0?"
+p664
+tp665
+Rp666
+tp667
+a(S'william emerson barrett'
+p668
+g2
+(g6
+S'\x80\xe5$\xedeB\xe0?'
+p669
+tp670
+Rp671
+tp672
+a(S'thomas walsh (massachusetts politician)'
+p673
+g2
+(g6
+S'\xa82\xb7\x89f5\xe0?'
+p674
+tp675
+Rp676
+tp677
+a(S'william f. sullivan'
+p678
+g2
+(g6
+S'\xe1\xb3\x1a\xe4\xf23\xe0?'
+p679
+tp680
+Rp681
+tp682
+a(S'caleb stetson'
+p683
+g2
+(g6
+S'Z\xca^\n\x8d3\xe0?'
+p684
+tp685
+Rp686
+tp687
+a(S'john j. buckley'
+p688
+g2
+(g6
+S'0\xbbe\xe5\xcd0\xe0?'
+p689
+tp690
+Rp691
+tp692
+a(S'ebeneezer thayer'
+p693
+g2
+(g6
+S'\xfc\x91\xeaQ\xaa-\xe0?'
+p694
+tp695
+Rp696
+tp697
+a(S'martha b. sosman'
+p698
+g2
+(g6
+S"\xce\xf1\xb5.\x12'\xe0?"
+p699
+tp700
+Rp701
+tp702
+a(S'herbert tuckerman'
+p703
+g2
+(g6
+S'z\x08W\x9dM \xe0?'
+p704
+tp705
+Rp706
+tp707
+a(S'josiah quincy (1859\xe2\x80\x931919)'
+p708
+g2
+(g6
+S'K\x9e-\xfdw\x1f\xe0?'
+p709
+tp710
+Rp711
+tp712
+a(S's. wesley haynes'
+p713
+g2
+(g6
+S'\xa6-\xd4\x81\xcf\x1c\xe0?'
+p714
+tp715
+Rp716
+tp717
+a(S'jennifer nassour'
+p718
+g2
+(g6
+S'\xb1\xe8=\x06d\x1c\xe0?'
+p719
+tp720
+Rp721
+tp722
+a(S'philip bellino and edward gertson'
+p723
+g2
+(g6
+S'R\n\xd8\xbd\x13\x1b\xe0?'
+p724
+tp725
+Rp726
+tp727
+a(S'1928 massachusetts aggies football team'
+p728
+g2
+(g6
+S'e1i\x04\x1a\x1a\xe0?'
+p729
+tp730
+Rp731
+tp732
+a(S'larry frisoli'
+p733
+g2
+(g6
+S'\xe3^\x1d\xe2_\x13\xe0?'
+p734
+tp735
+Rp736
+tp737
+a(S'william h. kent'
+p738
+g2
+(g6
+S'\x99\r\xb9\x9eB\x11\xe0?'
+p739
+tp740
+Rp741
+tp742
+a(S'iris holland'
+p743
+g2
+(g6
+S'~\x81v0R\x10\xe0?'
+p744
+tp745
+Rp746
+tp747
+a(S'marjorie clapprood'
+p748
+g2
+(g6
+S'\xbdp\xa2\xdac\x0e\xe0?'
+p749
+tp750
+Rp751
+tp752
+a(S'massachusetts highway department'
+p753
+g2
+(g6
+S'\x1eo\x86}m\x0c\xe0?'
+p754
+tp755
+Rp756
+tp757
+a(S'thomas a. flaherty'
+p758
+g2
+(g6
+S'\x08:t}\xe2\x02\xe0?'
+p759
+tp760
+Rp761
+tp762
+a(S'ancient and honorable artillery company of massachusetts'
+p763
+g2
+(g6
+S'\x1ao\xc4@!\x01\xe0?'
+p764
+tp765
+Rp766
+tp767
+a(S'julius ansel'
+p768
+g2
+(g6
+S'\xe4[XQ\xbd\xff\xdf?'
+p769
+tp770
+Rp771
+tp772
+a(S'pasquale caggiano'
+p773
+g2
+(g6
+S'\x1e\x19\xd2\xc7{\xfe\xdf?'
+p774
+tp775
+Rp776
+tp777
+a(S'william parmenter'
+p778
+g2
+(g6
+S'\x91\xe5\xa8V\x1e\xfe\xdf?'
+p779
+tp780
+Rp781
+tp782
+a(S'benjamin w. harris'
+p783
+g2
+(g6
+S'\xb6\t5y\xb5\xfb\xdf?'
+p784
+tp785
+Rp786
+tp787
+a(S'nahum mitchell'
+p788
+g2
+(g6
+S'\x857\x04C;\xf5\xdf?'
+p789
+tp790
+Rp791
+tp792
+a(S'jonathan l. austin'
+p793
+g2
+(g6
+S'8\x9c\xc4xh\xf3\xdf?'
+p794
+tp795
+Rp796
+tp797
+a(S'charles brigham'
+p798
+g2
+(g6
+S'\xe7\xd07h\xc2\xe7\xdf?'
+p799
+tp800
+Rp801
+tp802
+a(S'henry e. bothfeld'
+p803
+g2
+(g6
+S'\x04l\x8aNe\xe7\xdf?'
+p804
+tp805
+Rp806
+tp807
+a(S'peter thacher'
+p808
+g2
+(g6
+S'\x00(\x88L\xe0\xe2\xdf?'
+p809
+tp810
+Rp811
+tp812
+a(S'united states senate election in massachusetts, 1960'
+p813
+g2
+(g6
+S'\xc1\x9e\x84\xb5\xf5\xe1\xdf?'
+p814
+tp815
+Rp816
+tp817
+a(S'james w. hennigan, jr.'
+p818
+g2
+(g6
+S'\x8eD\xa8\x1fm\xe0\xdf?'
+p819
+tp820
+Rp821
+tp822
+a(S'james aloisi'
+p823
+g2
+(g6
+S'\xf4\x82\xb2\xba9\xd6\xdf?'
+p824
+tp825
+Rp826
+tp827
+a(S'john e. russell'
+p828
+g2
+(g6
+S'\xaa\xf2\xa3\r\xf0\xd5\xdf?'
+p829
+tp830
+Rp831
+tp832
+a(S'daniel dewey'
+p833
+g2
+(g6
+S'uO\x96\x8aH\xd2\xdf?'
+p834
+tp835
+Rp836
+tp837
+a(S'new england'
+p838
+g2
+(g6
+S'\xce\x12\x03.\x8f\xc7\xdf?'
+p839
+tp840
+Rp841
+tp842
+a(S'list of people from saugus, massachusetts'
+p843
+g2
+(g6
+S'\x1a^\xd2\xcc\t\xbd\xdf?'
+p844
+tp845
+Rp846
+tp847
+a(S'john a. keliher'
+p848
+g2
+(g6
+S'J\x10\x10I]\xb4\xdf?'
+p849
+tp850
+Rp851
+tp852
+a(S'robert travaglini'
+p853
+g2
+(g6
+S'\xc4\x8f\xa6\x1a\x03\xb3\xdf?'
+p854
+tp855
+Rp856
+tp857
+a(S'george keverian'
+p858
+g2
+(g6
+S'\xe7\x9fV7\x05\xa4\xdf?'
+p859
+tp860
+Rp861
+tp862
+a(S'william schouler'
+p863
+g2
+(g6
+S'\xfd\xdd\xdb\x80\xbe\xa3\xdf?'
+p864
+tp865
+Rp866
+tp867
+a(S'massachusetts general election, 2010'
+p868
+g2
+(g6
+S';<\xe7x\x19\x87\xdf?'
+p869
+tp870
+Rp871
+tp872
+a(S'daniel j. gallagher'
+p873
+g2
+(g6
+S'\xc0\xf3\xbe\x81\x85\x83\xdf?'
+p874
+tp875
+Rp876
+tp877
+a(S'united states senate election in massachusetts, 1958'
+p878
+g2
+(g6
+S'\x0c\x0f\x143\x05\x82\xdf?'
+p879
+tp880
+Rp881
+tp882
+a(S'francis b. fay'
+p883
+g2
+(g6
+S'\x8bJ\xfb\xb6*}\xdf?'
+p884
+tp885
+Rp886
+tp887
+a(S'judiciary of massachusetts'
+p888
+g2
+(g6
+S'\xa70t\xb4\x05|\xdf?'
+p889
+tp890
+Rp891
+tp892
+a(S'daniel leonard'
+p893
+g2
+(g6
+S'O\xeec6Tz\xdf?'
+p894
+tp895
+Rp896
+tp897
+a(S'list of people from taunton, massachusetts'
+p898
+g2
+(g6
+S'D\xfa<C+y\xdf?'
+p899
+tp900
+Rp901
+tp902
+a(S'walter h. creamer'
+p903
+g2
+(g6
+S'z2rW\x1di\xdf?'
+p904
+tp905
+Rp906
+tp907
+a(S'oliver warner (massachusetts)'
+p908
+g2
+(g6
+S'/\xbaX\xd2\x00X\xdf?'
+p909
+tp910
+Rp911
+tp912
+a(S'massachusetts archives'
+p913
+g2
+(g6
+S'p\x12\xc2WMT\xdf?'
+p914
+tp915
+Rp916
+tp917
+a(S'waban (disambiguation)'
+p918
+g2
+(g6
+S'\xa4\xa3"\xef\xf2P\xdf?'
+p919
+tp920
+Rp921
+tp922
+a(S'frederick h. tarr'
+p923
+g2
+(g6
+S'\xa1\xb4S\x1cBG\xdf?'
+p924
+tp925
+Rp926
+tp927
+a(S'vinny demacedo'
+p928
+g2
+(g6
+S'B\xf5W\x825A\xdf?'
+p929
+tp930
+Rp931
+tp932
+a(S'dual county league'
+p933
+g2
+(g6
+S'\x89\x1f\x06\xe8^.\xdf?'
+p934
+tp935
+Rp936
+tp937
+a(S'tom mcneeley'
+p938
+g2
+(g6
+S']\xeb\x03\x0e\x1c\x1f\xdf?'
+p939
+tp940
+Rp941
+tp942
+a(S'charles edward parker'
+p943
+g2
+(g6
+S'\xf9\xdb\xf6\x02:\x0f\xdf?'
+p944
+tp945
+Rp946
+tp947
+a(S'thomas sherwin (educator)'
+p948
+g2
+(g6
+S'Y5.\xefo\x0c\xdf?'
+p949
+tp950
+Rp951
+tp952
+a(S'william t. mccarthy'
+p953
+g2
+(g6
+S'g\xf1\xcf,:\x07\xdf?'
+p954
+tp955
+Rp956
+tp957
+a(S'massachusetts bay'
+p958
+g2
+(g6
+S'\x0c\xe4\xac)\xdd\x04\xdf?'
+p959
+tp960
+Rp961
+tp962
+a(S'list of college athletic programs in massachusetts'
+p963
+g2
+(g6
+S'pB\xed\xb9z\x03\xdf?'
+p964
+tp965
+Rp966
+tp967
+a(S'cynthia stone creem'
+p968
+g2
+(g6
+S'y\x01\xc2\xb2`\xfd\xde?'
+p969
+tp970
+Rp971
+tp972
+a(S'james murphy (architect)'
+p973
+g2
+(g6
+S'F\xefV\xd3\x06\xf7\xde?'
+p974
+tp975
+Rp976
+tp977
+a(S'say hello to someone from massachusetts'
+p978
+g2
+(g6
+S'&\x0f\xe9\x8f\x87\xf2\xde?'
+p979
+tp980
+Rp981
+tp982
+a(S'list of massachusetts civil war units'
+p983
+g2
+(g6
+S'\xc4\xdeY\xa4\xf4\xe7\xde?'
+p984
+tp985
+Rp986
+tp987
+a(S'united states presidential election in massachusetts, 1960'
+p988
+g2
+(g6
+S'.\xa5\xfd\xe1t\xde\xde?'
+p989
+tp990
+Rp991
+tp992
+a(S'massachusetts hall (harvard university)'
+p993
+g2
+(g6
+S'\x07\x1e\x95\xeay\xda\xde?'
+p994
+tp995
+Rp996
+tp997
+a(S'route 286 (massachusetts \xe2\x80\x93 new hampshire)'
+p998
+g2
+(g6
+S'\xa4g|L\x1b\xd6\xde?'
+p999
+tp1000
+Rp1001
+tp1002
+a(S'awa world heavyweight championship (boston version)'
+p1003
+g2
+(g6
+S'\xef\r]\x8fk\xc9\xde?'
+p1004
+tp1005
+Rp1006
+tp1007
+a(S'pocomtuc'
+p1008
+g2
+(g6
+S'\x98\xf1c\x81\x0c\xc1\xde?'
+p1009
+tp1010
+Rp1011
+tp1012
+a(S'mary l. padula'
+p1013
+g2
+(g6
+S'\x99\x18\xf5\x02\x98\xbd\xde?'
+p1014
+tp1015
+Rp1016
+tp1017
+a(S'cwa tag team championship (new england)'
+p1018
+g2
+(g6
+S'df\x91k\xb8\xba\xde?'
+p1019
+tp1020
+Rp1021
+tp1022
+a(S'jonathan mason (massachusetts politician)'
+p1023
+g2
+(g6
+S'Q\xb7^\x96\xfd\xb4\xde?'
+p1024
+tp1025
+Rp1026
+tp1027
+a(S'portuguese-american neighborhoods'
+p1028
+g2
+(g6
+S'5\x03\xfd!\xb4\xb4\xde?'
+p1029
+tp1030
+Rp1031
+tp1032
+a(S'philip w. johnston'
+p1033
+g2
+(g6
+S'E\xf1\xd5\x9fD\xb4\xde?'
+p1034
+tp1035
+Rp1036
+tp1037
+a(S'massachusetts library system'
+p1038
+g2
+(g6
+S'9W\xa5Q\xf2\xaa\xde?'
+p1039
+tp1040
+Rp1041
+tp1042
+a(S'the boston associates'
+p1043
+g2
+(g6
+S'\xc1\xef\xc3\x99\x94\xa7\xde?'
+p1044
+tp1045
+Rp1046
+tp1047
+a(S'the fallon company'
+p1048
+g2
+(g6
+S'L\x19\x96\x07\x02\xa6\xde?'
+p1049
+tp1050
+Rp1051
+tp1052
+a(S'uss massachusetts (ssn-798)'
+p1053
+g2
+(g6
+S'\xd8\xcc\x84~\xa4\x95\xde?'
+p1054
+tp1055
+Rp1056
+tp1057
+a(S'charles f. mccarthy'
+p1058
+g2
+(g6
+S'\xeb\x13$\xf5Z\x95\xde?'
+p1059
+tp1060
+Rp1061
+tp1062
+a(S'list of libraries in 18th-century massachusetts'
+p1063
+g2
+(g6
+S'|\xb2\x82~L\x92\xde?'
+p1064
+tp1065
+Rp1066
+tp1067
+a(S'david b. sullivan'
+p1068
+g2
+(g6
+S'\xe8\xf4\x1fr\xec\x8e\xde?'
+p1069
+tp1070
+Rp1071
+tp1072
+a(S'10th regiment massachusetts volunteer infantry'
+p1073
+g2
+(g6
+S'\x03\xf8\xd9I4\x8d\xde?'
+p1074
+tp1075
+Rp1076
+tp1077
+a(S'j. williams beal, sons'
+p1078
+g2
+(g6
+S'\x1c\xcbHS\x0b\x85\xde?'
+p1079
+tp1080
+Rp1081
+tp1082
+a(S'new boston'
+p1083
+g2
+(g6
+S'26\x07\xda \x82\xde?'
+p1084
+tp1085
+Rp1086
+tp1087
+a(S'southern new england ice storm of 1973'
+p1088
+g2
+(g6
+S'\xedX\x84=u\x80\xde?'
+p1089
+tp1090
+Rp1091
+tp1092
+a(S'5th massachusetts regiment'
+p1093
+g2
+(g6
+S'n\xa6\xe3E\xd7u\xde?'
+p1094
+tp1095
+Rp1096
+tp1097
+a(S'frederick robinson (massachusetts)'
+p1098
+g2
+(g6
+S"S=\xf7'\xe2q\xde?"
+p1099
+tp1100
+Rp1101
+tp1102
+a(S'united states district court for the district of massachusetts'
+p1103
+g2
+(g6
+S'3\xf5M\xf7\xc7q\xde?'
+p1104
+tp1105
+Rp1106
+tp1107
+a(S'richard tisei'
+p1108
+g2
+(g6
+S'\xb0\xf9p\xc9\x07q\xde?'
+p1109
+tp1110
+Rp1111
+tp1112
+a(S'charles m. mcgowan'
+p1113
+g2
+(g6
+S'\x96\xd8\xfa\xfb\x8af\xde?'
+p1114
+tp1115
+Rp1116
+tp1117
+a(S'troy and greenfield railroad'
+p1118
+g2
+(g6
+S'n\x15\xa4\xda&d\xde?'
+p1119
+tp1120
+Rp1121
+tp1122
+a(S'urban rowhouse'
+p1123
+g2
+(g6
+S'\xc2?\xf3e\x92X\xde?'
+p1124
+tp1125
+Rp1126
+tp1127
+a(S'salem cadets'
+p1128
+g2
+(g6
+S"'\xc0\xb5T\xaaR\xde?"
+p1129
+tp1130
+Rp1131
+tp1132
+a(S'james f. carey'
+p1133
+g2
+(g6
+S'B2\xb6\xff\x97M\xde?'
+p1134
+tp1135
+Rp1136
+tp1137
+a(S'seal of massachusetts'
+p1138
+g2
+(g6
+S'\xaf\xa7\xb6\x9d\xdfH\xde?'
+p1139
+tp1140
+Rp1141
+tp1142
+a(S'marian walsh'
+p1143
+g2
+(g6
+S'\xd80M\xbb\x08A\xde?'
+p1144
+tp1145
+Rp1146
+tp1147
+a(S'national register of historic places listings in fall river, massachusetts'
+p1148
+g2
+(g6
+S'\xe5V\x037P@\xde?'
+p1149
+tp1150
+Rp1151
+tp1152
+a(S'jim marzilli'
+p1153
+g2
+(g6
+S'\x13\xab\xf3\x95\x1d.\xde?'
+p1154
+tp1155
+Rp1156
+tp1157
+a(S'denise provost'
+p1158
+g2
+(g6
+S'?\x0c1\xccC\x0c\xde?'
+p1159
+tp1160
+Rp1161
+tp1162
+a(S'commonwealth athletic conference'
+p1163
+g2
+(g6
+S'\xc9\xc0\x8bzW\xfc\xdd?'
+p1164
+tp1165
+Rp1166
+tp1167
+a(S'frost, briggs & chamberlain'
+p1168
+g2
+(g6
+S'}\xea\xb6\x00`\xfa\xdd?'
+p1169
+tp1170
+Rp1171
+tp1172
+a(S'massachusetts public records law'
+p1173
+g2
+(g6
+S'\xc3e\xe2%!\xfa\xdd?'
+p1174
+tp1175
+Rp1176
+tp1177
+a(S'massachusetts republican party'
+p1178
+g2
+(g6
+S'\xe1\x05\xba\xfa3\xf8\xdd?'
+p1179
+tp1180
+Rp1181
+tp1182
+a(S'1900 massachusetts aggies football team'
+p1183
+g2
+(g6
+S"\x9d'\xaa\xc1\xd6\xf5\xdd?"
+p1184
+tp1185
+Rp1186
+tp1187
+a(S'1899 massachusetts aggies football team'
+p1188
+g2
+(g6
+S"\x9d'\xaa\xc1\xd6\xf5\xdd?"
+p1189
+tp1190
+Rp1191
+tp1192
+a(S'crime in massachusetts'
+p1193
+g2
+(g6
+S'\x10b\xd3\xe2\x83\xf4\xdd?'
+p1194
+tp1195
+Rp1196
+tp1197
+a(S'robert cowdin'
+p1198
+g2
+(g6
+S'\xaf\x12\xfa\x0f\x8e\xf2\xdd?'
+p1199
+tp1200
+Rp1201
+tp1202
+a(S'john greaney'
+p1203
+g2
+(g6
+S'\x84QX\xb8\x08\xf1\xdd?'
+p1204
+tp1205
+Rp1206
+tp1207
+a(S'climate of massachusetts'
+p1208
+g2
+(g6
+S'\xc3S\x9a\x88\x96\xef\xdd?'
+p1209
+tp1210
+Rp1211
+tp1212
+a(S'united states senate election in massachusetts, 1946'
+p1213
+g2
+(g6
+S'\x1c]:\x05b\xeb\xdd?'
+p1214
+tp1215
+Rp1216
+tp1217
+a(S'steven walsh'
+p1218
+g2
+(g6
+S"4'\x91>+\xe9\xdd?"
+p1219
+tp1220
+Rp1221
+tp1222
+a(S'john humphreys house'
+p1223
+g2
+(g6
+S'3N\x08\xa5\xa8\xe8\xdd?'
+p1224
+tp1225
+Rp1226
+tp1227
+a(S'1916 massachusetts aggies football team'
+p1228
+g2
+(g6
+S'\xd1\xdf\xda\xb1B\xe5\xdd?'
+p1229
+tp1230
+Rp1231
+tp1232
+a(S'stephen h. rhodes'
+p1233
+g2
+(g6
+S'C%\xc2F\xc6\xdf\xdd?'
+p1234
+tp1235
+Rp1236
+tp1237
+a(S'merrimack valley conference'
+p1238
+g2
+(g6
+S'\xa9g96\xf3\xd9\xdd?'
+p1239
+tp1240
+Rp1241
+tp1242
+a(S'necw television championship'
+p1243
+g2
+(g6
+S'"\xd1\xf1\xbd\xd4\xd8\xdd?'
+p1244
+tp1245
+Rp1246
+tp1247
+a(S'lemessurier consultants'
+p1248
+g2
+(g6
+S'\xf0\x98\xc0)\x13\xd7\xdd?'
+p1249
+tp1250
+Rp1251
+tp1252
+a(S'samuel wilde'
+p1253
+g2
+(g6
+S'\x1d(\xa1D\xe5\xd5\xdd?'
+p1254
+tp1255
+Rp1256
+tp1257
+a(S'stephen davenport'
+p1258
+g2
+(g6
+S'r\xd6\rS\xa0\xd5\xdd?'
+p1259
+tp1260
+Rp1261
+tp1262
+a(S'phinehas ball'
+p1263
+g2
+(g6
+S'a\xd15\xf6!\xd2\xdd?'
+p1264
+tp1265
+Rp1266
+tp1267
+a(S'barry finegold'
+p1268
+g2
+(g6
+S'\x99\x98\x89\xfe\x1c\xce\xdd?'
+p1269
+tp1270
+Rp1271
+tp1272
+a(S'phineas j. stone'
+p1273
+g2
+(g6
+S'5\xa5\xab^\xfc\xcc\xdd?'
+p1274
+tp1275
+Rp1276
+tp1277
+a(S'james ritchie (massachusetts politician)'
+p1278
+g2
+(g6
+S'!\xbb]s\x93\xcb\xdd?'
+p1279
+tp1280
+Rp1281
+tp1282
+a(S'robert durand'
+p1283
+g2
+(g6
+S'4@\xdeO\xef\xca\xdd?'
+p1284
+tp1285
+Rp1286
+tp1287
+a(S'charles f. sullivan'
+p1288
+g2
+(g6
+S'\x8e\xe5G\xb3_\xc4\xdd?'
+p1289
+tp1290
+Rp1291
+tp1292
+a(S'john reed sr.'
+p1293
+g2
+(g6
+S'\x9b{\xce\xe1g\xc3\xdd?'
+p1294
+tp1295
+Rp1296
+tp1297
+a(S'carlos dorrien'
+p1298
+g2
+(g6
+S'MY:\x1ar\xbc\xdd?'
+p1299
+tp1300
+Rp1301
+tp1302
+a(S'boston museum'
+p1303
+g2
+(g6
+S'\xfc\x00b\xee\xc0\xb8\xdd?'
+p1304
+tp1305
+Rp1306
+tp1307
+a(S'samuel clesson allen'
+p1308
+g2
+(g6
+S'1\x99)KC\xb6\xdd?'
+p1309
+tp1310
+Rp1311
+tp1312
+a(S'boston mayoral election, 1955'
+p1313
+g2
+(g6
+S'\xf0\x99eG\xee\xb3\xdd?'
+p1314
+tp1315
+Rp1316
+tp1317
+a(S'james m. murphy'
+p1318
+g2
+(g6
+S'\xdd\xf3f=!\xb1\xdd?'
+p1319
+tp1320
+Rp1321
+tp1322
+a(S'elijah b. stoddard'
+p1323
+g2
+(g6
+S'5\t\x93\xd2\x88\xac\xdd?'
+p1324
+tp1325
+Rp1326
+tp1327
+a(S'edward d. hayden'
+p1328
+g2
+(g6
+S'F\x8c\x83\xa5\xb4\xa6\xdd?'
+p1329
+tp1330
+Rp1331
+tp1332
+a(S'pauline revere thayer'
+p1333
+g2
+(g6
+S'9\xb9j\x96t\xa2\xdd?'
+p1334
+tp1335
+Rp1336
+tp1337
+a(S'benjamin thomas (congressman)'
+p1338
+g2
+(g6
+S'\xe7\x97\xe8.\xa6\xa0\xdd?'
+p1339
+tp1340
+Rp1341
+tp1342
+a(S'guy carbone'
+p1343
+g2
+(g6
+S'.-S#k\x9e\xdd?'
+p1344
+tp1345
+Rp1346
+tp1347
+a(S'ense petit placidam sub libertate quietem'
+p1348
+g2
+(g6
+S'\xd12t\x15\xe9\x97\xdd?'
+p1349
+tp1350
+Rp1351
+tp1352
+a(S'steven c. panagiotakos'
+p1353
+g2
+(g6
+S'1"C\xf9V\x96\xdd?'
+p1354
+tp1355
+Rp1356
+tp1357
+a(S'janis m. berry'
+p1358
+g2
+(g6
+S'\x98L\x9a\x8a\xb3\x95\xdd?'
+p1359
+tp1360
+Rp1361
+tp1362
+a(S'linus b. comins'
+p1363
+g2
+(g6
+S'\xd8Q\x99\xac.\x94\xdd?'
+p1364
+tp1365
+Rp1366
+tp1367
+a(S'sweetser house'
+p1368
+g2
+(g6
+S'\x1d6\xaf\xa83\x8a\xdd?'
+p1369
+tp1370
+Rp1371
+tp1372
+a(S'1942 massachusetts state aggies football team'
+p1373
+g2
+(g6
+S'\x0e\xa7\xfa\xe1\xcc~\xdd?'
+p1374
+tp1375
+Rp1376
+tp1377
+a(S'george r. stobbs'
+p1378
+g2
+(g6
+S'\x12\xc0\xb8Y\xa4l\xdd?'
+p1379
+tp1380
+Rp1381
+tp1382
+a(S'acushnet cedar swamp'
+p1383
+g2
+(g6
+S'\x01\xd2\xb4\x95\x12i\xdd?'
+p1384
+tp1385
+Rp1386
+tp1387
+a(S'central square historic district'
+p1388
+g2
+(g6
+S'\x19\xd5\x82\xdf\x8ae\xdd?'
+p1389
+tp1390
+Rp1391
+tp1392
+a(S'walter timilty'
+p1393
+g2
+(g6
+S'\xc1w\x16\x19\xc2a\xdd?'
+p1394
+tp1395
+Rp1396
+tp1397
+a(S'massachusetts historical commission'
+p1398
+g2
+(g6
+S'\xd37.c\x0ea\xdd?'
+p1399
+tp1400
+Rp1401
+tp1402
+a(S'john jones clarke'
+p1403
+g2
+(g6
+S'\xcfo\xc4Z\x96U\xdd?'
+p1404
+tp1405
+Rp1406
+tp1407
+a(S'thomas trimarco'
+p1408
+g2
+(g6
+S'O\xd9a\x1e=O\xdd?'
+p1409
+tp1410
+Rp1411
+tp1412
+a(S'rachel kaprielian'
+p1413
+g2
+(g6
+S'\x19c\xc4\xa9\x1aO\xdd?'
+p1414
+tp1415
+Rp1416
+tp1417
+a(S'james t. welch'
+p1418
+g2
+(g6
+S'\xad\xf5\xaa&\x02K\xdd?'
+p1419
+tp1420
+Rp1421
+tp1422
+a(S'frank cousins (american politician)'
+p1423
+g2
+(g6
+S'\xb6\xa9\x15O\xc6E\xdd?'
+p1424
+tp1425
+Rp1426
+tp1427
+a(S'fernande r.v. duffly'
+p1428
+g2
+(g6
+S'\x1a\xa3\xda`/A\xdd?'
+p1429
+tp1430
+Rp1431
+tp1432
+a(S'1898 massachusetts aggies football team'
+p1433
+g2
+(g6
+S'\x053W6-=\xdd?'
+p1434
+tp1435
+Rp1436
+tp1437
+a(S'nathaniel cannon smith'
+p1438
+g2
+(g6
+S'!\x087\x8d\x8c7\xdd?'
+p1439
+tp1440
+Rp1441
+tp1442
+a(S'1905 massachusetts aggies football team'
+p1443
+g2
+(g6
+S'\xf1\xbe\xf9\xbe}0\xdd?'
+p1444
+tp1445
+Rp1446
+tp1447
+a(S'joseph d. ward'
+p1448
+g2
+(g6
+S'\xd4\x08\x9dr\x80+\xdd?'
+p1449
+tp1450
+Rp1451
+tp1452
+a(S'11th regiment massachusetts volunteer infantry'
+p1453
+g2
+(g6
+S'\xe6\x91\xf3\xe7\x11+\xdd?'
+p1454
+tp1455
+Rp1456
+tp1457
+a(S'massachusetts corporation for educational telecommunications'
+p1458
+g2
+(g6
+S'\x05\x19v\xe5\xd1\x1d\xdd?'
+p1459
+tp1460
+Rp1461
+tp1462
+a(S'eben f. stone'
+p1463
+g2
+(g6
+S'\xb9\x89\xd3\xce\x17\x1a\xdd?'
+p1464
+tp1465
+Rp1466
+tp1467
+a(S'thomas j. boynton (politician)'
+p1468
+g2
+(g6
+S'u-\xa4\x9a\x1c\x13\xdd?'
+p1469
+tp1470
+Rp1471
+tp1472
+a(S'daniel gookin (sheriff)'
+p1473
+g2
+(g6
+S"'\x16\xf0\x8b?\x0f\xdd?"
+p1474
+tp1475
+Rp1476
+tp1477
+a(S'colonial society of massachusetts'
+p1478
+g2
+(g6
+S'g\xf4\x0f\x8b}\x0b\xdd?'
+p1479
+tp1480
+Rp1481
+tp1482
+a(S'edward p. kirby'
+p1483
+g2
+(g6
+S'~\xfe$\xc0?\x0b\xdd?'
+p1484
+tp1485
+Rp1486
+tp1487
+a(S'albion m. marble'
+p1488
+g2
+(g6
+S'\xdd\xf0\x9f)\xac\x08\xdd?'
+p1489
+tp1490
+Rp1491
+tp1492
+a(S'central massachusetts regional library system'
+p1493
+g2
+(g6
+S'\x91\x93H\x06\xe9\x03\xdd?'
+p1494
+tp1495
+Rp1496
+tp1497
+a(S'charles t. rathbun'
+p1498
+g2
+(g6
+S'\xc97G:\xd3\x02\xdd?'
+p1499
+tp1500
+Rp1501
+tp1502
+a(S'steve dignan'
+p1503
+g2
+(g6
+S'\xac@m\xb7v\x02\xdd?'
+p1504
+tp1505
+Rp1506
+tp1507
+a(S'arthur brides'
+p1508
+g2
+(g6
+S'MpJ\xcf\x01\x02\xdd?'
+p1509
+tp1510
+Rp1511
+tp1512
+a.

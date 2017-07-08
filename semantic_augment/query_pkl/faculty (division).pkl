@@ -1,0 +1,2728 @@
+(lp0
+(S'faculty (division)'
+p1
+cnumpy.core.multiarray
+scalar
+p2
+(cnumpy
+dtype
+p3
+(S'f8'
+p4
+I0
+I1
+tp5
+Rp6
+(I3
+S'<'
+p7
+NNNI-1
+I-1
+I0
+tp8
+bS'\xfe\xff\xff\xff\xff\xff\xef?'
+p9
+tp10
+Rp11
+tp12
+a(S'faculty of arts'
+p13
+g2
+(g6
+S'\xcb3\xa3\xcf\xcf4\xe3?'
+p14
+tp15
+Rp16
+tp17
+a(S'helwan university'
+p18
+g2
+(g6
+S'A\xb2\xed\x90\x18:\xe2?'
+p19
+tp20
+Rp21
+tp22
+a(S'university of kaposv\xc3\xa1r'
+p23
+g2
+(g6
+S'\xfe5\n\xccO\xb2\xe1?'
+p24
+tp25
+Rp26
+tp27
+a(S'faculty of arts (disambiguation)'
+p28
+g2
+(g6
+S'}\xe9\xb4\x0e\xe3\t\xe1?'
+p29
+tp30
+Rp31
+tp32
+a(S'valahia university of t\xc3\xa2rgovi\xc8\x99te'
+p33
+g2
+(g6
+S'A"\xbe\xcc\xfb\xa3\xe0?'
+p34
+tp35
+Rp36
+tp37
+a(S'state university of tetova'
+p38
+g2
+(g6
+S'\xe6_\x1ep\x05_\xe0?'
+p39
+tp40
+Rp41
+tp42
+a(S'port said university'
+p43
+g2
+(g6
+S'z\xfc\xd1\x02\xe7\x1f\xe0?'
+p44
+tp45
+Rp46
+tp47
+a(S'sohag university'
+p48
+g2
+(g6
+S'\xe1\x1a5\xa9\xe3\x14\xe0?'
+p49
+tp50
+Rp51
+tp52
+a(S'minya university'
+p53
+g2
+(g6
+S'\xf1\xd1+\xd0~\x10\xe0?'
+p54
+tp55
+Rp56
+tp57
+a(S'tapee college'
+p58
+g2
+(g6
+S'\xea\xea\xad\x0bp\xe2\xdf?'
+p59
+tp60
+Rp61
+tp62
+a(S'assiut university'
+p63
+g2
+(g6
+S'\x81q3\xf9n\xcc\xdf?'
+p64
+tp65
+Rp66
+tp67
+a(S'university of montenegro'
+p68
+g2
+(g6
+S'4q\x92T\xd5\xc7\xdf?'
+p69
+tp70
+Rp71
+tp72
+a(S'university of arts in belgrade'
+p73
+g2
+(g6
+S'z\x89\x8d\xba6\xa8\xdf?'
+p74
+tp75
+Rp76
+tp77
+a(S'benadir university'
+p78
+g2
+(g6
+S'\x04\x85\xf8ll\x9e\xdf?'
+p79
+tp80
+Rp81
+tp82
+a(S'university of ni\xc5\xa1'
+p83
+g2
+(g6
+S'<g\xc6\xd38{\xdf?'
+p84
+tp85
+Rp86
+tp87
+a(S'luigj gurakuqi university'
+p88
+g2
+(g6
+S":\x05\xd4\x07\xe6'\xdf?"
+p89
+tp90
+Rp91
+tp92
+a(S'universit\xc3\xa9 cara\xc3\xafbe'
+p93
+g2
+(g6
+S"\xc6\x00'\xfa\n\x1e\xdf?"
+p94
+tp95
+Rp96
+tp97
+a(S'hasanuddin university'
+p98
+g2
+(g6
+S'\xa4\x05\x9e\xd6\xcd\x03\xdf?'
+p99
+tp100
+Rp101
+tp102
+a(S'art academy of szczecin'
+p103
+g2
+(g6
+S'r\xd8#i\x0e\xf3\xde?'
+p104
+tp105
+Rp106
+tp107
+a(S'istanbul ayd\xc4\xb1n university'
+p108
+g2
+(g6
+S'\xb9\x1f\xdd\xd4e\xda\xde?'
+p109
+tp110
+Rp111
+tp112
+a(S"sana'a university"
+p113
+g2
+(g6
+S'D\x1d?5\x99\xd2\xde?'
+p114
+tp115
+Rp116
+tp117
+a(S'university of tuzla'
+p118
+g2
+(g6
+S'\xb0ve\xa3\xe9\xaa\xde?'
+p119
+tp120
+Rp121
+tp122
+a(S'misr university for science and technology'
+p123
+g2
+(g6
+S'a\xcd\xe5\x8cf\xa7\xde?'
+p124
+tp125
+Rp126
+tp127
+a(S'tuscia university'
+p128
+g2
+(g6
+S'\x98\xa7\x04\x13\x94\x98\xde?'
+p129
+tp130
+Rp131
+tp132
+a(S'university of pattimura'
+p133
+g2
+(g6
+S'\xd6\xc0\x9c\x13\x83\x88\xde?'
+p134
+tp135
+Rp136
+tp137
+a(S'art and design university of cluj-napoca'
+p138
+g2
+(g6
+S'f\x1f\xb8\xfe/R\xde?'
+p139
+tp140
+Rp141
+tp142
+a(S'rangsit university'
+p143
+g2
+(g6
+S'\x06\xf9\xeb\xc0\x1dI\xde?'
+p144
+tp145
+Rp146
+tp147
+a(S'university of palangka raya'
+p148
+g2
+(g6
+S'\xa7\x14\xce\x90=D\xde?'
+p149
+tp150
+Rp151
+tp152
+a(S'university of szczecin'
+p153
+g2
+(g6
+S'\xe8X\xc8\xd6i\x1a\xde?'
+p154
+tp155
+Rp156
+tp157
+a(S'jordan university of science and technology'
+p158
+g2
+(g6
+S'z\xbc\x85\xbe\x9a\x19\xde?'
+p159
+tp160
+Rp161
+tp162
+a(S'colleges of the university of santo tomas'
+p163
+g2
+(g6
+S'\x12\x9d\xebs\xe9\x18\xde?'
+p164
+tp165
+Rp166
+tp167
+a(S'union university (serbia)'
+p168
+g2
+(g6
+S'\xf7\xe9F\x93\xac\x11\xde?'
+p169
+tp170
+Rp171
+tp172
+a(S'ion creang\xc4\x83 pedagogical state university'
+p173
+g2
+(g6
+S'L\xe9\xc8\xc1\x86\x00\xde?'
+p174
+tp175
+Rp176
+tp177
+a(S'south-west state university'
+p178
+g2
+(g6
+S'$H\x02\xdf\xc9\xfe\xdd?'
+p179
+tp180
+Rp181
+tp182
+a(S'karab\xc3\xbck university'
+p183
+g2
+(g6
+S'\xb5\x8d\xdcbI\xf9\xdd?'
+p184
+tp185
+Rp186
+tp187
+a(S'dokuz eyl\xc3\xbcl university'
+p188
+g2
+(g6
+S'v\x7fP\xcd\xf7\xeb\xdd?'
+p189
+tp190
+Rp191
+tp192
+a(S'fayoum university'
+p193
+g2
+(g6
+S'H\x98h\xfd\xac\xe1\xdd?'
+p194
+tp195
+Rp196
+tp197
+a(S'university of mostaganem'
+p198
+g2
+(g6
+S'(\x12G\x93\xf9\xe0\xdd?'
+p199
+tp200
+Rp201
+tp202
+a(S'university of eastern piedmont'
+p203
+g2
+(g6
+S'\x0b\xc9\x03Hv\xc1\xdd?'
+p204
+tp205
+Rp206
+tp207
+a(S'zabol university'
+p208
+g2
+(g6
+S'\xf1_\x92\x16\xb5\xb6\xdd?'
+p209
+tp210
+Rp211
+tp212
+a(S'sam ratulangi university'
+p213
+g2
+(g6
+S'-\x8aF\x84\xbb\xb3\xdd?'
+p214
+tp215
+Rp216
+tp217
+a(S'avinashilingam university'
+p218
+g2
+(g6
+S'\xe0P `<\x98\xdd?'
+p219
+tp220
+Rp221
+tp222
+a(S'state university of gorontalo'
+p223
+g2
+(g6
+S'\x1d1\xcf\xbf\xb5f\xdd?'
+p224
+tp225
+Rp226
+tp227
+a(S'state university of padang'
+p228
+g2
+(g6
+S'n\xdf#\xfbVZ\xdd?'
+p229
+tp230
+Rp231
+tp232
+a(S'lambung mangkurat university'
+p233
+g2
+(g6
+S'|\xbc\x10X\xb7\x07\xdd?'
+p234
+tp235
+Rp236
+tp237
+a(S'thamar university'
+p238
+g2
+(g6
+S'\x06\x04IDJ\x07\xdd?'
+p239
+tp240
+Rp241
+tp242
+a(S'slobomir university'
+p243
+g2
+(g6
+S'l(\xcd;p\xff\xdc?'
+p244
+tp245
+Rp246
+tp247
+a(S'an-najah national university'
+p248
+g2
+(g6
+S'\x9e\x1b\x9dhM\xe7\xdc?'
+p249
+tp250
+Rp251
+tp252
+a(S'yerevan state university'
+p253
+g2
+(g6
+S'B\xdb\xf6c\xc1\xdf\xdc?'
+p254
+tp255
+Rp256
+tp257
+a(S'comenius university'
+p258
+g2
+(g6
+S'>\x1dqw\x92\xcb\xdc?'
+p259
+tp260
+Rp261
+tp262
+a(S'shatt al-arab university college'
+p263
+g2
+(g6
+S'^\r\xa8\xbc\xa8\xbf\xdc?'
+p264
+tp265
+Rp266
+tp267
+a(S'university of santo tomas faculties of ecclesiastical studies'
+p268
+g2
+(g6
+S'\xa8\xfd_b/\xb0\xdc?'
+p269
+tp270
+Rp271
+tp272
+a(S'amoud university'
+p273
+g2
+(g6
+S'\x9e\nq\x90A\x8e\xdc?'
+p274
+tp275
+Rp276
+tp277
+a(S'sanaag university of science and technology'
+p278
+g2
+(g6
+S'JnZ%G\x84\xdc?'
+p279
+tp280
+Rp281
+tp282
+a(S'istanbul k\xc3\xbclt\xc3\xbcr university'
+p283
+g2
+(g6
+S'W\x9f?\xa7\xf6h\xdc?'
+p284
+tp285
+Rp286
+tp287
+a(S'erciyes university'
+p288
+g2
+(g6
+S'\xd9\xc6\xdcjYg\xdc?'
+p289
+tp290
+Rp291
+tp292
+a(S'brno university of technology'
+p293
+g2
+(g6
+S'\x05n\xccZKX\xdc?'
+p294
+tp295
+Rp296
+tp297
+a(S'university of guilan'
+p298
+g2
+(g6
+S'\x1d"<\xacR4\xdc?'
+p299
+tp300
+Rp301
+tp302
+a(S'lumnamping college'
+p303
+g2
+(g6
+S'q\xe2\xb4\xa1\xd7!\xdc?'
+p304
+tp305
+Rp306
+tp307
+a(S'al-isra university'
+p308
+g2
+(g6
+S'`}\x91\xd4\xbd\x17\xdc?'
+p309
+tp310
+Rp311
+tp312
+a(S'technical university, sofia'
+p313
+g2
+(g6
+S'\xa4\xdd\x92\xa8\x80\x0e\xdc?'
+p314
+tp315
+Rp316
+tp317
+a(S'university of skikda'
+p318
+g2
+(g6
+S'~3\x9f\x87l\x07\xdc?'
+p319
+tp320
+Rp321
+tp322
+a(S'first faculty of medicine, charles university in prague'
+p323
+g2
+(g6
+S'W\x9b7\x8f#\xf5\xdb?'
+p324
+tp325
+Rp326
+tp327
+a(S'pushkin leningrad state university'
+p328
+g2
+(g6
+S'\xc2\x83\xf5\xdem\xe5\xdb?'
+p329
+tp330
+Rp331
+tp332
+a(S'pan-european university'
+p333
+g2
+(g6
+S'u\x8d\xb8\x19\xc6\xd4\xdb?'
+p334
+tp335
+Rp336
+tp337
+a(S'universidad de falc\xc3\xb3n'
+p338
+g2
+(g6
+S'\xf0=y\x88r\xd3\xdb?'
+p339
+tp340
+Rp341
+tp342
+a(S'singaperbangsa university'
+p343
+g2
+(g6
+S'\xa3\xcfK\x92\x19\xd3\xdb?'
+p344
+tp345
+Rp346
+tp347
+a(S'saint petersburg state university'
+p348
+g2
+(g6
+S'L\xb5\x1486\xca\xdb?'
+p349
+tp350
+Rp351
+tp352
+a(S'al-aqsa university'
+p353
+g2
+(g6
+S'\xcav8\x83\x9d\xbe\xdb?'
+p354
+tp355
+Rp356
+tp357
+a(S'al-beroni university'
+p358
+g2
+(g6
+S'\x18\xb5\x96\xd5\xaf\xbd\xdb?'
+p359
+tp360
+Rp361
+tp362
+a(S'faculty of law, university of tirana'
+p363
+g2
+(g6
+S'3t\x86\xda\xe0\x84\xdb?'
+p364
+tp365
+Rp366
+tp367
+a(S'university of west bohemia'
+p368
+g2
+(g6
+S'\xbe*b\xbc\xb8\x80\xdb?'
+p369
+tp370
+Rp371
+tp372
+a(S'faculty of law'
+p373
+g2
+(g6
+S'd0\x89q\xc7u\xdb?'
+p374
+tp375
+Rp376
+tp377
+a(S'university of maribor'
+p378
+g2
+(g6
+S'\x01\xe6\xa2\xb1Ou\xdb?'
+p379
+tp380
+Rp381
+tp382
+a(S'paris law faculty'
+p383
+g2
+(g6
+S'\x8d\x1dE\x99\x9am\xdb?'
+p384
+tp385
+Rp386
+tp387
+a(S'riau university'
+p388
+g2
+(g6
+S'\x84\xb0q\xec\x01e\xdb?'
+p389
+tp390
+Rp391
+tp392
+a(S'sofia university'
+p393
+g2
+(g6
+S'\xc9s;\xe5\\^\xdb?'
+p394
+tp395
+Rp396
+tp397
+a(S'pavol jozef \xc5\xa0af\xc3\xa1rik university'
+p398
+g2
+(g6
+S'\x92\xea\xd8\xfdYU\xdb?'
+p399
+tp400
+Rp401
+tp402
+a(S'university of zagreb'
+p403
+g2
+(g6
+S'D\x83\xb7\x8bhO\xdb?'
+p404
+tp405
+Rp406
+tp407
+a(S'delta state university, abraka'
+p408
+g2
+(g6
+S'\xdf\r\xff\xdenC\xdb?'
+p409
+tp410
+Rp411
+tp412
+a(S'university of camag\xc3\xbcey'
+p413
+g2
+(g6
+S'\xc4\xca\xa2I\xad)\xdb?'
+p414
+tp415
+Rp416
+tp417
+a(S'kyoto prefectural university'
+p418
+g2
+(g6
+S'\x1ex \x97\xdd&\xdb?'
+p419
+tp420
+Rp421
+tp422
+a(S'state academic university for humanities'
+p423
+g2
+(g6
+S'\x93cF\xcfH\x1b\xdb?'
+p424
+tp425
+Rp426
+tp427
+a(S'fukushima university'
+p428
+g2
+(g6
+S'\xa6Y\x99\n\x1c\x1a\xdb?'
+p429
+tp430
+Rp431
+tp432
+a(S'moscow state university'
+p433
+g2
+(g6
+S'\xd49\x15\xf7\x9f\x0b\xdb?'
+p434
+tp435
+Rp436
+tp437
+a(S'faculty of education'
+p438
+g2
+(g6
+S'(\x0c\x8ci\xf2\t\xdb?'
+p439
+tp440
+Rp441
+tp442
+a(S'dicle university'
+p443
+g2
+(g6
+S'#\xc5*\xd8\xaa\x03\xdb?'
+p444
+tp445
+Rp446
+tp447
+a(S'acquisitiveness (phrenology)'
+p448
+g2
+(g6
+S'\xbao\\\x94\xa7\xe3\xda?'
+p449
+tp450
+Rp451
+tp452
+a(S'university of bucharest'
+p453
+g2
+(g6
+S'X*7+z\xb3\xda?'
+p454
+tp455
+Rp456
+tp457
+a(S'university of mediterranean karpasia'
+p458
+g2
+(g6
+S'p\xc5\x96\x19\xfe\xb1\xda?'
+p459
+tp460
+Rp461
+tp462
+a(S'omdurman islamic university'
+p463
+g2
+(g6
+S'\xbeA\x16T\xfb\xae\xda?'
+p464
+tp465
+Rp466
+tp467
+a(S'islamic azad university of karaj'
+p468
+g2
+(g6
+S'X\xcet\xf8\x94\xa9\xda?'
+p469
+tp470
+Rp471
+tp472
+a(S'bing\xc3\xb6l university'
+p473
+g2
+(g6
+S'6\xc8\xbf\xf7X\xa6\xda?'
+p474
+tp475
+Rp476
+tp477
+a(S'eastern university, sri lanka'
+p478
+g2
+(g6
+S',\xd0A\x88\xe8\x95\xda?'
+p479
+tp480
+Rp481
+tp482
+a(S'al-azhar university \xe2\x80\x93 gaza'
+p483
+g2
+(g6
+S'\xbd\x9e\x06\xbd\x04\x95\xda?'
+p484
+tp485
+Rp486
+tp487
+a(S'university of jaffna'
+p488
+g2
+(g6
+S'\x14V\xe1\x085\x94\xda?'
+p489
+tp490
+Rp491
+tp492
+a(S'beni suef university'
+p493
+g2
+(g6
+S'VBs\x071\x87\xda?'
+p494
+tp495
+Rp496
+tp497
+a(S'ovidius university'
+p498
+g2
+(g6
+S'\x07\x9b\xfd\r\x8d~\xda?'
+p499
+tp500
+Rp501
+tp502
+a(S'university of sydney faculty of arts and social sciences'
+p503
+g2
+(g6
+S'<2<\xf4\x9dw\xda?'
+p504
+tp505
+Rp506
+tp507
+a(S'okayama prefectural university'
+p508
+g2
+(g6
+S'\x92\x93\x9f\xa3\x11v\xda?'
+p509
+tp510
+Rp511
+tp512
+a(S'universit\xc3\xa0 degli studi pegaso'
+p513
+g2
+(g6
+S'\x15\x07\x80q\xe7p\xda?'
+p514
+tp515
+Rp516
+tp517
+a(S'university of warmia and mazury in olsztyn'
+p518
+g2
+(g6
+S'Q\xae\x95\x8c\xb9d\xda?'
+p519
+tp520
+Rp521
+tp522
+a(S'moscow finance and economics university'
+p523
+g2
+(g6
+S'\xca\xaa\x96\x8a `\xda?'
+p524
+tp525
+Rp526
+tp527
+a(S'iraqi university'
+p528
+g2
+(g6
+S'\xda\x01y1\x08X\xda?'
+p529
+tp530
+Rp531
+tp532
+a(S'somaliland university of technology'
+p533
+g2
+(g6
+S'\xb4\xff\xe5A/M\xda?'
+p534
+tp535
+Rp536
+tp537
+a(S'atat\xc3\xbcrk university'
+p538
+g2
+(g6
+S'\xd1l\xea\x17\rL\xda?'
+p539
+tp540
+Rp541
+tp542
+a(S'yeditepe university'
+p543
+g2
+(g6
+S'DWgd/K\xda?'
+p544
+tp545
+Rp546
+tp547
+a(S'erzincan university'
+p548
+g2
+(g6
+S'\xe2\x92\xa0\xb6\nJ\xda?'
+p549
+tp550
+Rp551
+tp552
+a(S'university of santiago de cuba'
+p553
+g2
+(g6
+S'\xfdTAj\xd9H\xda?'
+p554
+tp555
+Rp556
+tp557
+a(S'alexandria university'
+p558
+g2
+(g6
+S'Ka=\x82\x08H\xda?'
+p559
+tp560
+Rp561
+tp562
+a(S'prince of songkla university'
+p563
+g2
+(g6
+S'*.q\x1a`G\xda?'
+p564
+tp565
+Rp566
+tp567
+a(S'university of birjand'
+p568
+g2
+(g6
+S'W\xa6u\xaf\x18F\xda?'
+p569
+tp570
+Rp571
+tp572
+a(S'british university in egypt'
+p573
+g2
+(g6
+S'\xe8P8\xe5\xbcA\xda?'
+p574
+tp575
+Rp576
+tp577
+a(S'afyon kocatepe university'
+p578
+g2
+(g6
+S'\x9c\x9cS\xbf\xc0?\xda?'
+p579
+tp580
+Rp581
+tp582
+a(S'salaam university'
+p583
+g2
+(g6
+S'\x9a\xa8>\xaaT?\xda?'
+p584
+tp585
+Rp586
+tp587
+a(S'national postgraduate medical college of nigeria'
+p588
+g2
+(g6
+S'$\xbb\x11\xa856\xda?'
+p589
+tp590
+Rp591
+tp592
+a(S'yarmouk university'
+p593
+g2
+(g6
+S'\x8dW/\nm2\xda?'
+p594
+tp595
+Rp596
+tp597
+a(S'departments of the itmo university'
+p598
+g2
+(g6
+S'y\x92U\xa2\xcf$\xda?'
+p599
+tp600
+Rp601
+tp602
+a(S'islamic azad university, science and research branch, tehran'
+p603
+g2
+(g6
+S'y\x1f\xeb]\xc1#\xda?'
+p604
+tp605
+Rp606
+tp607
+a(S'university of calgary faculty of arts'
+p608
+g2
+(g6
+S'\xaey\xc4\x04\xed\x18\xda?'
+p609
+tp610
+Rp611
+tp612
+a(S'national university of cajamarca'
+p613
+g2
+(g6
+S' \xebl\x84\xea\x15\xda?'
+p614
+tp615
+Rp616
+tp617
+a(S'y\xc3\xbcz\xc3\xbcnc\xc3\xbc y\xc4\xb1l university'
+p618
+g2
+(g6
+S'\xba\x8e"\xb0\xb6\x12\xda?'
+p619
+tp620
+Rp621
+tp622
+a(S'jatiya kabi kazi nazrul islam university'
+p623
+g2
+(g6
+S'\xb0\x18\xa9Z\xad\x11\xda?'
+p624
+tp625
+Rp626
+tp627
+a(S'soran university'
+p628
+g2
+(g6
+S'\x14\xcc\\\x8f\xbe\x0c\xda?'
+p629
+tp630
+Rp631
+tp632
+a(S'jan evangelista purkyn\xc4\x9b university in \xc3\x9ast\xc3\xad nad labem'
+p633
+g2
+(g6
+S'Q\xc1\x88\x18\\\xfb\xd9?'
+p634
+tp635
+Rp636
+tp637
+a(S'universit\xc3\xa0 degli studi di bari aldo moro'
+p638
+g2
+(g6
+S'\xa2\xa8d\x94\x9f\xf9\xd9?'
+p639
+tp640
+Rp641
+tp642
+a(S'philadelphia university (jordan)'
+p643
+g2
+(g6
+S'\xed)\xe0\xd04\xe7\xd9?'
+p644
+tp645
+Rp646
+tp647
+a(S'faculty of arts, chulalongkorn university'
+p648
+g2
+(g6
+S'\xb9\xa1\x03\xff\xc2\xe3\xd9?'
+p649
+tp650
+Rp651
+tp652
+a(S'university of science and technology of benin'
+p653
+g2
+(g6
+S'"\xccz\xd2\\\xe1\xd9?'
+p654
+tp655
+Rp656
+tp657
+a(S'indriya'
+p658
+g2
+(g6
+S'Sn\xd9\xcf;\xe1\xd9?'
+p659
+tp660
+Rp661
+tp662
+a(S'al-balqa` applied university'
+p663
+g2
+(g6
+S'$\\X"8\xdd\xd9?'
+p664
+tp665
+Rp666
+tp667
+a(S'antenor orrego private university'
+p668
+g2
+(g6
+S'\x02\xde\xc6\xb0Q\xdc\xd9?'
+p669
+tp670
+Rp671
+tp672
+a(S'\xc3\x87ukurova university'
+p673
+g2
+(g6
+S'\x7f\x16-jx\xca\xd9?'
+p674
+tp675
+Rp676
+tp677
+a(S'erzurum technical university'
+p678
+g2
+(g6
+S'NUo\xa6\x8b\xc2\xd9?'
+p679
+tp680
+Rp681
+tp682
+a(S'zhaoqing university'
+p683
+g2
+(g6
+S'\x9a\xda\xac\x0e0\xb8\xd9?'
+p684
+tp685
+Rp686
+tp687
+a(S'university of brawijaya'
+p688
+g2
+(g6
+S'8\xd2\xf3\x96\x81\xb1\xd9?'
+p689
+tp690
+Rp691
+tp692
+a(S'\xc4\xb0zmir democracy university'
+p693
+g2
+(g6
+S'\xe3kf\x9d{\xad\xd9?'
+p694
+tp695
+Rp696
+tp697
+a(S'arturo michelena university'
+p698
+g2
+(g6
+S'\xaaG\xe5,W\xa7\xd9?'
+p699
+tp700
+Rp701
+tp702
+a(S'university of ljubljana'
+p703
+g2
+(g6
+S'\x90\x10\xf8\x86j\x99\xd9?'
+p704
+tp705
+Rp706
+tp707
+a(S'tadulako university'
+p708
+g2
+(g6
+S'P\rB\x88-\x87\xd9?'
+p709
+tp710
+Rp711
+tp712
+a(S'european university-republic of macedonia'
+p713
+g2
+(g6
+S'\xd44\xcdW\x03\x85\xd9?'
+p714
+tp715
+Rp716
+tp717
+a(S'south eastern university of sri lanka'
+p718
+g2
+(g6
+S'\xa7\x88,\x86\x15~\xd9?'
+p719
+tp720
+Rp721
+tp722
+a(S'zirve university'
+p723
+g2
+(g6
+S'\xdeEW\xa9\x81u\xd9?'
+p724
+tp725
+Rp726
+tp727
+a(S'shinshu junior college'
+p728
+g2
+(g6
+S'=\xa4\xaf\xcf\xf7o\xd9?'
+p729
+tp730
+Rp731
+tp732
+a(S'university "marta abreu" of las villas'
+p733
+g2
+(g6
+S'\xdfK\x95\x04\xa9S\xd9?'
+p734
+tp735
+Rp736
+tp737
+a(S'catholic university of cordoba'
+p738
+g2
+(g6
+S',\x1fz\xf5\x91R\xd9?'
+p739
+tp740
+Rp741
+tp742
+a(S'hodeidah university'
+p743
+g2
+(g6
+S'4=\xd6lxP\xd9?'
+p744
+tp745
+Rp746
+tp747
+a(S'wakayama university'
+p748
+g2
+(g6
+S'^}b\xbc\xbaO\xd9?'
+p749
+tp750
+Rp751
+tp752
+a(S'agricultural university of havana'
+p753
+g2
+(g6
+S'S\xea m\xdfG\xd9?'
+p754
+tp755
+Rp756
+tp757
+a(S'harran university'
+p758
+g2
+(g6
+S'\x04~j\x82\x087\xd9?'
+p759
+tp760
+Rp761
+tp762
+a(S'university of maragheh'
+p763
+g2
+(g6
+S'*\x93\xaa]+4\xd9?'
+p764
+tp765
+Rp766
+tp767
+a(S'gorno-altaisk state university'
+p768
+g2
+(g6
+S'\xd9V\xf7)*4\xd9?'
+p769
+tp770
+Rp771
+tp772
+a(S'faculty'
+p773
+g2
+(g6
+S'`\xf6x\xca -\xd9?'
+p774
+tp775
+Rp776
+tp777
+a(S'silesian university of technology'
+p778
+g2
+(g6
+S'A\xbdQ\x92_,\xd9?'
+p779
+tp780
+Rp781
+tp782
+a(S'taiz university'
+p783
+g2
+(g6
+S"I\x99\xfd '+\xd9?"
+p784
+tp785
+Rp786
+tp787
+a(S'al-zaytoonah university of jordan'
+p788
+g2
+(g6
+S'\xc1#\xca=\x01*\xd9?'
+p789
+tp790
+Rp791
+tp792
+a(S'federal university, otuoke'
+p793
+g2
+(g6
+S'\xe9*\xf3!\xfc$\xd9?'
+p794
+tp795
+Rp796
+tp797
+a(S'bart\xc4\xb1n university'
+p798
+g2
+(g6
+S'\x07\xc7G\n@ \xd9?'
+p799
+tp800
+Rp801
+tp802
+a(S'university of split'
+p803
+g2
+(g6
+S'?\xf9i\xbc\x18\x1c\xd9?'
+p804
+tp805
+Rp806
+tp807
+a(S'yogyakarta state university'
+p808
+g2
+(g6
+S'\x8cX\xffj\x83\x1a\xd9?'
+p809
+tp810
+Rp811
+tp812
+a(S'medical university of warsaw'
+p813
+g2
+(g6
+S'f\xaa\xc9\xc0;\x18\xd9?'
+p814
+tp815
+Rp816
+tp817
+a(S'the islamia university of bahawalpur pakistan'
+p818
+g2
+(g6
+S'\xa0l\xde\xa9\xb2\xf2\xd8?'
+p819
+tp820
+Rp821
+tp822
+a(S'rajarata university of sri lanka'
+p823
+g2
+(g6
+S'\x14\xf03\x1a\xaa\xf0\xd8?'
+p824
+tp825
+Rp826
+tp827
+a(S'university of port harcourt'
+p828
+g2
+(g6
+S'l\x18\x17\xca\x19\xef\xd8?'
+p829
+tp830
+Rp831
+tp832
+a(S'slovak university of agriculture'
+p833
+g2
+(g6
+S'\x01\xb7D\x86q\xea\xd8?'
+p834
+tp835
+Rp836
+tp837
+a(S'catholic university in ru\xc5\xbeomberok'
+p838
+g2
+(g6
+S'\xa6\xad\x8b\xcdC\xe4\xd8?'
+p839
+tp840
+Rp841
+tp842
+a(S'v\xc4\x83n lang university'
+p843
+g2
+(g6
+S'+\xe7l~\xc5\xdf\xd8?'
+p844
+tp845
+Rp846
+tp847
+a(S'faculty of arts, university of colombo'
+p848
+g2
+(g6
+S'\xb2\r \x80[\xde\xd8?'
+p849
+tp850
+Rp851
+tp852
+a(S'guangdong ocean university'
+p853
+g2
+(g6
+S']\xe2,}\xbc\xcd\xd8?'
+p854
+tp855
+Rp856
+tp857
+a(S'sinai university'
+p858
+g2
+(g6
+S'pW\xb7\x85\xba\xca\xd8?'
+p859
+tp860
+Rp861
+tp862
+a(S'school of sciences, unam'
+p863
+g2
+(g6
+S'\x192J\x14&\xc3\xd8?'
+p864
+tp865
+Rp866
+tp867
+a(S'belarusian state economic university'
+p868
+g2
+(g6
+S'^\xb5j\xe90\xc0\xd8?'
+p869
+tp870
+Rp871
+tp872
+a(S'technical university of moldova'
+p873
+g2
+(g6
+S'\x97O\xdf\x99\xb9\xb2\xd8?'
+p874
+tp875
+Rp876
+tp877
+a(S'list of law schools in turkey'
+p878
+g2
+(g6
+S'Y\xd2\xfc\x99c\xae\xd8?'
+p879
+tp880
+Rp881
+tp882
+a(S'faculty of arts, aligarh muslim university'
+p883
+g2
+(g6
+S'\xd4i\xaf3O\xae\xd8?'
+p884
+tp885
+Rp886
+tp887
+a(S'ain shams university'
+p888
+g2
+(g6
+S'\xaf\xa1\xc6\x90\xde\x98\xd8?'
+p889
+tp890
+Rp891
+tp892
+a(S'imperial college faculty of natural sciences'
+p893
+g2
+(g6
+S',m\x9a\xd2\xb2\x88\xd8?'
+p894
+tp895
+Rp896
+tp897
+a(S'university of zakho'
+p898
+g2
+(g6
+S'\xd8\x1e\x10R\x92y\xd8?'
+p899
+tp900
+Rp901
+tp902
+a(S'silpakorn university'
+p903
+g2
+(g6
+S'\x80\xb8\x1a\x90{v\xd8?'
+p904
+tp905
+Rp906
+tp907
+a(S'university of kurdistan (iran)'
+p908
+g2
+(g6
+S'\xcc:\x16=\xc7q\xd8?'
+p909
+tp910
+Rp911
+tp912
+a(S'utsunomiya university'
+p913
+g2
+(g6
+S'\xe1<K\xd2\x9be\xd8?'
+p914
+tp915
+Rp916
+tp917
+a(S'university of manchester faculty biology, medicine and health'
+p918
+g2
+(g6
+S'J\xd7\xd2\xa7\x95b\xd8?'
+p919
+tp920
+Rp921
+tp922
+a(S'karadeniz technical university'
+p923
+g2
+(g6
+S'\xf0y\xf9i[S\xd8?'
+p924
+tp925
+Rp926
+tp927
+a(S'university of monastir'
+p928
+g2
+(g6
+S'V\xf7No!K\xd8?'
+p929
+tp930
+Rp931
+tp932
+a(S'mahasarakham university'
+p933
+g2
+(g6
+S'?\xed\xf9\xdb\xfd;\xd8?'
+p934
+tp935
+Rp936
+tp937
+a(S'misr international university'
+p938
+g2
+(g6
+S'\xfc\x16\x1c0\xb28\xd8?'
+p939
+tp940
+Rp941
+tp942
+a(S'vasile goldi\xc8\x99 western university of arad'
+p943
+g2
+(g6
+S'\xb4\x0f\xd1\xb3\xdd.\xd8?'
+p944
+tp945
+Rp946
+tp947
+a(S'ishik university'
+p948
+g2
+(g6
+S'\x11kJU\xdf)\xd8?'
+p949
+tp950
+Rp951
+tp952
+a(S'zarqa university'
+p953
+g2
+(g6
+S'\xb0\xea)\xd5\xa2\x1d\xd8?'
+p954
+tp955
+Rp956
+tp957
+a(S'forum for south asia studies'
+p958
+g2
+(g6
+S'\xe5Z\xa0\xaa\xa8\x1c\xd8?'
+p959
+tp960
+Rp961
+tp962
+a(S'faculties and institutions of university of peradeniya'
+p963
+g2
+(g6
+S'\xd1${_\xba\x1b\xd8?'
+p964
+tp965
+Rp966
+tp967
+a(S'mansoura university'
+p968
+g2
+(g6
+S"'\x10\xd7H\x96\x1a\xd8?"
+p969
+tp970
+Rp971
+tp972
+a(S'udayana university'
+p973
+g2
+(g6
+S']\x807\x14\n\x19\xd8?'
+p974
+tp975
+Rp976
+tp977
+a(S'baresan university'
+p978
+g2
+(g6
+S'\xac\x16\x9a"\xc8\x12\xd8?'
+p979
+tp980
+Rp981
+tp982
+a(S'university of iceland'
+p983
+g2
+(g6
+S'-\x19\xcb>9\x0e\xd8?'
+p984
+tp985
+Rp986
+tp987
+a(S'list of rectors of university of rostock'
+p988
+g2
+(g6
+S'Y\x96\xfc\xde*\x04\xd8?'
+p989
+tp990
+Rp991
+tp992
+a(S'divisions of lancaster university'
+p993
+g2
+(g6
+S'\x02\xf9\x16fD\xff\xd7?'
+p994
+tp995
+Rp996
+tp997
+a(S'national university of the northeast'
+p998
+g2
+(g6
+S'\xc4\x95C\x8e\x1e\xfa\xd7?'
+p999
+tp1000
+Rp1001
+tp1002
+a(S'\xc4\xb0zmir bak\xc4\xb1r\xc3\xa7ay university'
+p1003
+g2
+(g6
+S"\x19\xcf='K\xf7\xd7?"
+p1004
+tp1005
+Rp1006
+tp1007
+a(S'near east university'
+p1008
+g2
+(g6
+S'\xc5\x8e%y\xc4\xf1\xd7?'
+p1009
+tp1010
+Rp1011
+tp1012
+a(S'arab american university'
+p1013
+g2
+(g6
+S'\x00\x9dr\xb8\x11\xec\xd7?'
+p1014
+tp1015
+Rp1016
+tp1017
+a(S'universite des sciences appliqu\xc3\xa9e et management'
+p1018
+g2
+(g6
+S'\x9e\x9a\xd1\xeb3\xe8\xd7?'
+p1019
+tp1020
+Rp1021
+tp1022
+a(S'belarusian national technical university'
+p1023
+g2
+(g6
+S'\xb6l\xfef\xbe\xe7\xd7?'
+p1024
+tp1025
+Rp1026
+tp1027
+a(S'agricultural university of krak\xc3\xb3w'
+p1028
+g2
+(g6
+S'\xef;\xe6\xa4D\xe3\xd7?'
+p1029
+tp1030
+Rp1031
+tp1032
+a(S'lesgaft national state university of physical education, sport and health'
+p1033
+g2
+(g6
+S'\xf5\xd3;\n\xb6\xe1\xd7?'
+p1034
+tp1035
+Rp1036
+tp1037
+a(S'dit faculty of science'
+p1038
+g2
+(g6
+S'\xa0\xe6\x87\xe2]\xd9\xd7?'
+p1039
+tp1040
+Rp1041
+tp1042
+a(S'n. i. lobachevsky state university of nizhny novgorod'
+p1043
+g2
+(g6
+S'\x8d\xc8~\xc0\xf8\xd5\xd7?'
+p1044
+tp1045
+Rp1046
+tp1047
+a(S'city university of science and information technology'
+p1048
+g2
+(g6
+S'Pi\xff\x06\x1e\xd3\xd7?'
+p1049
+tp1050
+Rp1051
+tp1052
+a(S'tarbiat modares university'
+p1053
+g2
+(g6
+S'$\xc2\xa4\x8a*\xd2\xd7?'
+p1054
+tp1055
+Rp1056
+tp1057
+a(S'university of trnava'
+p1058
+g2
+(g6
+S'\xf6\xce\x87O\xb9\xcb\xd7?'
+p1059
+tp1060
+Rp1061
+tp1062
+a(S'latvia university of agriculture'
+p1063
+g2
+(g6
+S'\x17e\xb7\xa0\xae\xbb\xd7?'
+p1064
+tp1065
+Rp1066
+tp1067
+a(S'ho chi minh city university of agriculture and forestry'
+p1068
+g2
+(g6
+S'\x02\rP\xd0\xc0\xb8\xd7?'
+p1069
+tp1070
+Rp1071
+tp1072
+a(S'islamic azad university kurdistan province'
+p1073
+g2
+(g6
+S'\x0e\xd2\x1ato\xb2\xd7?'
+p1074
+tp1075
+Rp1076
+tp1077
+a(S'ad\xc4\xb1yaman university'
+p1078
+g2
+(g6
+S'\xb6Z\xb2GW\xb1\xd7?'
+p1079
+tp1080
+Rp1081
+tp1082
+a(S'\xc4\xb0zmir k\xc3\xa2tip \xc3\x87elebi university'
+p1083
+g2
+(g6
+S'n\xf37\xe0<\xaa\xd7?'
+p1084
+tp1085
+Rp1086
+tp1087
+a(S'university of pannonia'
+p1088
+g2
+(g6
+S'\x12\x1f\x01\xb7\x90\x9e\xd7?'
+p1089
+tp1090
+Rp1091
+tp1092
+a(S'faculty of arts, university of peradeniya'
+p1093
+g2
+(g6
+S'\xb9\xa2m\xfe\xa1\x9a\xd7?'
+p1094
+tp1095
+Rp1096
+tp1097
+a(S'k\xc3\xbctahya dumlup\xc4\xb1nar university'
+p1098
+g2
+(g6
+S'C\x02eq\xd3\x99\xd7?'
+p1099
+tp1100
+Rp1101
+tp1102
+a(S'university of abuja'
+p1103
+g2
+(g6
+S'B,\xe6E\x9c\x96\xd7?'
+p1104
+tp1105
+Rp1106
+tp1107
+a(S'bu-ali sina university'
+p1108
+g2
+(g6
+S'\xf5\x10\xa9\xcfd\x95\xd7?'
+p1109
+tp1110
+Rp1111
+tp1112
+a(S'university d\xc5\xbeemal bijedi\xc4\x87 of mostar'
+p1113
+g2
+(g6
+S'0\xbc8\xd8]\x92\xd7?'
+p1114
+tp1115
+Rp1116
+tp1117
+a(S'national university of civil engineering'
+p1118
+g2
+(g6
+S'\xde\x8f\xfc \xdd\x8f\xd7?'
+p1119
+tp1120
+Rp1121
+tp1122
+a(S'eski\xc5\x9fehir osmangazi university'
+p1123
+g2
+(g6
+S'\xc8\xfe\xa4\x9d\xfd\x8e\xd7?'
+p1124
+tp1125
+Rp1126
+tp1127
+a(S'parwan university'
+p1128
+g2
+(g6
+S'\x0f/E\xe2\xb0\x8d\xd7?'
+p1129
+tp1130
+Rp1131
+tp1132
+a(S'k\xc4\xb1rklareli university'
+p1133
+g2
+(g6
+S'\x98\xc2\xdd\x0c0\x7f\xd7?'
+p1134
+tp1135
+Rp1136
+tp1137
+a(S'veer bahadur singh purvanchal university'
+p1138
+g2
+(g6
+S'\xce\xe6\x0c(\xab}\xd7?'
+p1139
+tp1140
+Rp1141
+tp1142
+a(S'university of granada'
+p1143
+g2
+(g6
+S'\\nm\x99M|\xd7?'
+p1144
+tp1145
+Rp1146
+tp1147
+a(S'university of florence'
+p1148
+g2
+(g6
+S'\x051,b\xd6w\xd7?'
+p1149
+tp1150
+Rp1151
+tp1152
+a(S'al-farabi kazakh national university'
+p1153
+g2
+(g6
+S'\xd3\x0b\x01\xa5\x8cu\xd7?'
+p1154
+tp1155
+Rp1156
+tp1157
+a(S'rzesz\xc3\xb3w university'
+p1158
+g2
+(g6
+S'H\x0cao\x88u\xd7?'
+p1159
+tp1160
+Rp1161
+tp1162
+a(S'university of south bohemia in \xc4\x8cesk\xc3\xa9 bud\xc4\x9bjovice'
+p1163
+g2
+(g6
+S'\xf9\x95\n\xdf\xd3t\xd7?'
+p1164
+tp1165
+Rp1166
+tp1167
+a(S'kyoto sangyo university'
+p1168
+g2
+(g6
+S'\xf2\xc7^"\x1eh\xd7?'
+p1169
+tp1170
+Rp1171
+tp1172
+a(S'university of mazandaran'
+p1173
+g2
+(g6
+S'e\xd5.\xd3\xd1d\xd7?'
+p1174
+tp1175
+Rp1176
+tp1177
+a(S'haluoleo university'
+p1178
+g2
+(g6
+S'\xd0cz_*d\xd7?'
+p1179
+tp1180
+Rp1181
+tp1182
+a(S'faculty (instrument)'
+p1183
+g2
+(g6
+S'% \x05V\xd8a\xd7?'
+p1184
+tp1185
+Rp1186
+tp1187
+a(S'national and kapodistrian university of athens'
+p1188
+g2
+(g6
+S'\x9b\x16spS\\\xd7?'
+p1189
+tp1190
+Rp1191
+tp1192
+a(S'faculty of visual arts, banaras hindu university'
+p1193
+g2
+(g6
+S'\x08\xd6bx\x03\\\xd7?'
+p1194
+tp1195
+Rp1196
+tp1197
+a(S'technological university of pereira'
+p1198
+g2
+(g6
+S'Tt\xf5\x0c\xd6U\xd7?'
+p1199
+tp1200
+Rp1201
+tp1202
+a(S'universidad rafael belloso chac\xc3\xadn'
+p1203
+g2
+(g6
+S'\x00\xe3Q\xa6\xcfO\xd7?'
+p1204
+tp1205
+Rp1206
+tp1207
+a(S'fon university'
+p1208
+g2
+(g6
+S'\xf0\xe0v\xa86O\xd7?'
+p1209
+tp1210
+Rp1211
+tp1212
+a(S'university of manchester faculty of humanities'
+p1213
+g2
+(g6
+S'u+%?\x8dM\xd7?'
+p1214
+tp1215
+Rp1216
+tp1217
+a(S'university of p\xc3\xa9cs'
+p1218
+g2
+(g6
+S'\x0f\x1b\x85\xaenM\xd7?'
+p1219
+tp1220
+Rp1221
+tp1222
+a(S'ondokuz may\xc4\xb1s university'
+p1223
+g2
+(g6
+S'\\"\xda\xf0jM\xd7?'
+p1224
+tp1225
+Rp1226
+tp1227
+a(S'haybusak university of yerevan'
+p1228
+g2
+(g6
+S"\xca\xd8m8'E\xd7?"
+p1229
+tp1230
+Rp1231
+tp1232
+a(S'university of kalemie'
+p1233
+g2
+(g6
+S'\xd0\xe8q\xd4\xd1A\xd7?'
+p1234
+tp1235
+Rp1236
+tp1237
+a(S'technical college, basrah'
+p1238
+g2
+(g6
+S'\xaeT\x18\x02\x85:\xd7?'
+p1239
+tp1240
+Rp1241
+tp1242
+a(S'tomsk state university of control systems and radio-electronics'
+p1243
+g2
+(g6
+S'/k\x180\xc1.\xd7?'
+p1244
+tp1245
+Rp1246
+tp1247
+a(S'unsw faculty of arts and social sciences'
+p1248
+g2
+(g6
+S':nY0j,\xd7?'
+p1249
+tp1250
+Rp1251
+tp1252
+a(S'university of macerata'
+p1253
+g2
+(g6
+S'Z\xd3?\x8e\xe7+\xd7?'
+p1254
+tp1255
+Rp1256
+tp1257
+a(S'pontifical faculty of theology of sardinia'
+p1258
+g2
+(g6
+S'\x80Yi\xed\xc0"\xd7?'
+p1259
+tp1260
+Rp1261
+tp1262
+a(S"universit\xc3\xa9 notre dame d'ha\xc3\xafti"
+p1263
+g2
+(g6
+S'0\xae0\xc7\x07 \xd7?'
+p1264
+tp1265
+Rp1266
+tp1267
+a(S'istanbul sabahattin zaim university'
+p1268
+g2
+(g6
+S'-\x891\xa6)\x1c\xd7?'
+p1269
+tp1270
+Rp1271
+tp1272
+a(S'nilai university'
+p1273
+g2
+(g6
+S'x\xee\xd4\x1cz\x1a\xd7?'
+p1274
+tp1275
+Rp1276
+tp1277
+a(S'academy of fine arts in warsaw'
+p1278
+g2
+(g6
+S'\xcb,\x06Y\xa5\x19\xd7?'
+p1279
+tp1280
+Rp1281
+tp1282
+a(S"peoples' friendship university of russia"
+p1283
+g2
+(g6
+S'SI\x0c\x1cO\x17\xd7?'
+p1284
+tp1285
+Rp1286
+tp1287
+a(S'\xc3\x87anakkale onsekiz mart university'
+p1288
+g2
+(g6
+S'\x078\x1bw\x9e\x15\xd7?'
+p1289
+tp1290
+Rp1291
+tp1292
+a(S'open university of china'
+p1293
+g2
+(g6
+S'\td*5v\x12\xd7?'
+p1294
+tp1295
+Rp1296
+tp1297
+a(S'faculties and institutions of university of colombo'
+p1298
+g2
+(g6
+S'7\xabhn\xcd\n\xd7?'
+p1299
+tp1300
+Rp1301
+tp1302
+a(S'university of barcelona'
+p1303
+g2
+(g6
+S'\x85H9!\xae\n\xd7?'
+p1304
+tp1305
+Rp1306
+tp1307
+a(S'university of le\xc3\xb3n'
+p1308
+g2
+(g6
+S'\x18\x7f\xa7Ud\x01\xd7?'
+p1309
+tp1310
+Rp1311
+tp1312
+a(S'palack\xc3\xbd university, olomouc'
+p1313
+g2
+(g6
+S'\xbd\x9b\xd0N4\xfc\xd6?'
+p1314
+tp1315
+Rp1316
+tp1317
+a(S'warsaw university of technology'
+p1318
+g2
+(g6
+S's\xd7O\xe0\x00\xf8\xd6?'
+p1319
+tp1320
+Rp1321
+tp1322
+a(S'catholic university of central africa'
+p1323
+g2
+(g6
+S'\xd6\x06=\x9c\xab\xef\xd6?'
+p1324
+tp1325
+Rp1326
+tp1327
+a(S'avrasya university'
+p1328
+g2
+(g6
+S'\x17_\xa9c\xb0\xee\xd6?'
+p1329
+tp1330
+Rp1331
+tp1332
+a(S'aarhus university faculty of arts'
+p1333
+g2
+(g6
+S'w\xc2"jO\xeb\xd6?'
+p1334
+tp1335
+Rp1336
+tp1337
+a(S'lampung university'
+p1338
+g2
+(g6
+S'\x1cf\x88]v\xe4\xd6?'
+p1339
+tp1340
+Rp1341
+tp1342
+a(S'tavrida national v.i. vernadsky university'
+p1343
+g2
+(g6
+S'\x9a\xe8.s\x02\xe4\xd6?'
+p1344
+tp1345
+Rp1346
+tp1347
+a(S'jahrom university'
+p1348
+g2
+(g6
+S'\x0ej\x90M\x98\xe0\xd6?'
+p1349
+tp1350
+Rp1351
+tp1352
+a(S'faculty award'
+p1353
+g2
+(g6
+S'\x18\x97\x17\x85\x13\xda\xd6?'
+p1354
+tp1355
+Rp1356
+tp1357
+a(S'faculty of medical leadership and management'
+p1358
+g2
+(g6
+S'\x07\xd0<\r\xa0\xd3\xd6?'
+p1359
+tp1360
+Rp1361
+tp1362
+a(S'lucian blaga university of sibiu'
+p1363
+g2
+(g6
+S'\x0f\x9c\xe8%\xe0\xc5\xd6?'
+p1364
+tp1365
+Rp1366
+tp1367
+a(S'university of bamenda'
+p1368
+g2
+(g6
+S'\xb3\xce\r\xb7\xf8\xc4\xd6?'
+p1369
+tp1370
+Rp1371
+tp1372
+a(S'arts, sciences and technology university in lebanon'
+p1373
+g2
+(g6
+S'%\xe0c\xa0\xbf\xc3\xd6?'
+p1374
+tp1375
+Rp1376
+tp1377
+a(S'tishreen university'
+p1378
+g2
+(g6
+S'\xc37)>\xa3\xbd\xd6?'
+p1379
+tp1380
+Rp1381
+tp1382
+a(S'akershus university college'
+p1383
+g2
+(g6
+S'r\xeb\x12n\xf0\xad\xd6?'
+p1384
+tp1385
+Rp1386
+tp1387
+a(S'university of oradea'
+p1388
+g2
+(g6
+S'\xa4`9\x8e\xfc\xa4\xd6?'
+p1389
+tp1390
+Rp1391
+tp1392
+a(S'jerash university'
+p1393
+g2
+(g6
+S'F\x91\x1dJ\xad\xa3\xd6?'
+p1394
+tp1395
+Rp1396
+tp1397
+a(S'middle east university (jordan)'
+p1398
+g2
+(g6
+S'\xc4\xf0\x0f\xe0\x85\xa0\xd6?'
+p1399
+tp1400
+Rp1401
+tp1402
+a(S'rwth aachen faculty of arts and humanities'
+p1403
+g2
+(g6
+S'f\x9eq\xf2^\x9e\xd6?'
+p1404
+tp1405
+Rp1406
+tp1407
+a(S'faculty of performing arts, banaras hindu university'
+p1408
+g2
+(g6
+S'?6\x0b}V\x9e\xd6?'
+p1409
+tp1410
+Rp1411
+tp1412
+a(S'university of kochi'
+p1413
+g2
+(g6
+S'\xce2\xf74\xe4\x80\xd6?'
+p1414
+tp1415
+Rp1416
+tp1417
+a(S'pakuan university'
+p1418
+g2
+(g6
+S'\xf4\xb2@\xdd\xa6~\xd6?'
+p1419
+tp1420
+Rp1421
+tp1422
+a(S'burapha university'
+p1423
+g2
+(g6
+S"%\xeaP'\\v\xd6?"
+p1424
+tp1425
+Rp1426
+tp1427
+a(S'russian state hydrometeorological university'
+p1428
+g2
+(g6
+S'@\xe1\xc5\x99\x91t\xd6?'
+p1429
+tp1430
+Rp1431
+tp1432
+a(S'national institute of technology (indonesia)'
+p1433
+g2
+(g6
+S"\x18'!\x03\x13m\xd6?"
+p1434
+tp1435
+Rp1436
+tp1437
+a(S'faculties of the soul'
+p1438
+g2
+(g6
+S'k\x82\x0c\x99\x19e\xd6?'
+p1439
+tp1440
+Rp1441
+tp1442
+a(S'tufts university school of arts and sciences'
+p1443
+g2
+(g6
+S'L\xa8\xe2\x9dSd\xd6?'
+p1444
+tp1445
+Rp1446
+tp1447
+a(S'transilvania university of bra\xc8\x99ov'
+p1448
+g2
+(g6
+S'\xa2\x9c\x15\xab\xe7b\xd6?'
+p1449
+tp1450
+Rp1451
+tp1452
+a(S'tabriz islamic arts university'
+p1453
+g2
+(g6
+S'L\xf1\xad\x1c\xaca\xd6?'
+p1454
+tp1455
+Rp1456
+tp1457
+a(S'university of freiburg faculty of theology'
+p1458
+g2
+(g6
+S'\xe8\xac\x95i\xef[\xd6?'
+p1459
+tp1460
+Rp1461
+tp1462
+a(S'university of deusto'
+p1463
+g2
+(g6
+S'\xf0f%\xe3\xb7O\xd6?'
+p1464
+tp1465
+Rp1466
+tp1467
+a(S'kazakh national medical university'
+p1468
+g2
+(g6
+S'h\x8aL\xce\xe8N\xd6?'
+p1469
+tp1470
+Rp1471
+tp1472
+a(S'faculty (academic staff)'
+p1473
+g2
+(g6
+S'Wnkm\xb5M\xd6?'
+p1474
+tp1475
+Rp1476
+tp1477
+a(S'bogdan petriceicu hasdeu state university'
+p1478
+g2
+(g6
+S'\nT\xcb\xd3\xd3J\xd6?'
+p1479
+tp1480
+Rp1481
+tp1482
+a(S'agh university of science and technology'
+p1483
+g2
+(g6
+S'\xa8\x0f\x01`gD\xd6?'
+p1484
+tp1485
+Rp1486
+tp1487
+a(S'hacettepe university'
+p1488
+g2
+(g6
+S'\xf9\x8b\x83z\x03B\xd6?'
+p1489
+tp1490
+Rp1491
+tp1492
+a(S'university of herzegovina'
+p1493
+g2
+(g6
+S'\x15\x89\x9d\xe4\xda?\xd6?'
+p1494
+tp1495
+Rp1496
+tp1497
+a(S'bangladesh university of professionals'
+p1498
+g2
+(g6
+S'\xd4&e\x80|>\xd6?'
+p1499
+tp1500
+Rp1501
+tp1502
+a(S'new college of interdisciplinary arts and sciences'
+p1503
+g2
+(g6
+S'\xaa\x9f-!t8\xd6?'
+p1504
+tp1505
+Rp1506
+tp1507
+a(S'university of fukui'
+p1508
+g2
+(g6
+S'\xf1G\xcf]\x99/\xd6?'
+p1509
+tp1510
+Rp1511
+tp1512
+a.

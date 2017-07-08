@@ -1,0 +1,2728 @@
+(lp0
+(S'technologies in 2001: a space odyssey'
+p1
+cnumpy.core.multiarray
+scalar
+p2
+(cnumpy
+dtype
+p3
+(S'f8'
+p4
+I0
+I1
+tp5
+Rp6
+(I3
+S'<'
+p7
+NNNI-1
+I-1
+I0
+tp8
+bS'\x04\x00\x00\x00\x00\x00\xf0?'
+p9
+tp10
+Rp11
+tp12
+a(S'2001: a space odyssey (film)'
+p13
+g2
+(g6
+S'$\xff\x98\xe7h\x89\xe1?'
+p14
+tp15
+Rp16
+tp17
+a(S'interpretations of 2001: a space odyssey'
+p18
+g2
+(g6
+S'ds\xfcg\xbe\xf4\xdc?'
+p19
+tp20
+Rp21
+tp22
+a(S'stanley kubrick'
+p23
+g2
+(g6
+S'\x8d_K\xfcW\xa5\xd9?'
+p24
+tp25
+Rp26
+tp27
+a(S'influence of stanley kubrick'
+p28
+g2
+(g6
+S'\x12\x9f\xad\xf4\xa8\xec\xd7?'
+p29
+tp30
+Rp31
+tp32
+a(S"list of stanley kubrick's unrealized projects"
+p33
+g2
+(g6
+S'M\xba\xf2\xf7\xc8\xcb\xd7?'
+p34
+tp35
+Rp36
+tp37
+a(S'space architecture'
+p38
+g2
+(g6
+S'Mw$\xab\xa5m\xd7?'
+p39
+tp40
+Rp41
+tp42
+a(S'list of spacecraft from the space odyssey series'
+p43
+g2
+(g6
+S'\x1f\xf8c6\x99C\xd7?'
+p44
+tp45
+Rp46
+tp47
+a(S'political and religious beliefs of stanley kubrick'
+p48
+g2
+(g6
+S'\xba\xa2\x9a\xc4\xeb6\xd7?'
+p49
+tp50
+Rp51
+tp52
+a(S'discovery one'
+p53
+g2
+(g6
+S'\xc4\xb2\x1c\xa00"\xd7?'
+p54
+tp55
+Rp56
+tp57
+a(S'2001: a space odyssey (novel)'
+p58
+g2
+(g6
+S'\x87\x1e\x884\xa8\x11\xd7?'
+p59
+tp60
+Rp61
+tp62
+a(S'2010 (film)'
+p63
+g2
+(g6
+S'\xdf\x0bw\x81"\x86\xd6?'
+p64
+tp65
+Rp66
+tp67
+a(S'dark side of the moon (film)'
+p68
+g2
+(g6
+S'\x82\xc6\xab\xd2m\x85\xd6?'
+p69
+tp70
+Rp71
+tp72
+a(S'men into space'
+p73
+g2
+(g6
+S'P8 \xf3\x85\x81\xd6?'
+p74
+tp75
+Rp76
+tp77
+a(S'kubrick (disambiguation)'
+p78
+g2
+(g6
+S'\x7f\x17\xe2\xb3#<\xd6?'
+p79
+tp80
+Rp81
+tp82
+a(S'personal life of stanley kubrick'
+p83
+g2
+(g6
+S'\xc5\xe4f\xd9J\xe2\xd5?'
+p84
+tp85
+Rp86
+tp87
+a(S'2001: a space odyssey'
+p88
+g2
+(g6
+S'\xf0\xa0\x0c\xaeD\xb2\xd5?'
+p89
+tp90
+Rp91
+tp92
+a(S'space exploration'
+p93
+g2
+(g6
+S'&nv\xa5\xa6\x0e\xd5?'
+p94
+tp95
+Rp96
+tp97
+a(S'road to the stars'
+p98
+g2
+(g6
+S'&}\x03\x0eg\xf1\xd4?'
+p99
+tp100
+Rp101
+tp102
+a(S'artificial gravity'
+p103
+g2
+(g6
+S'\xc1\xc4J\xd3\xf3\xd9\xd4?'
+p104
+tp105
+Rp106
+tp107
+a(S'human spaceflight'
+p108
+g2
+(g6
+S'\xbc`\xca0\x06\xcf\xd4?'
+p109
+tp110
+Rp111
+tp112
+a(S'stanley kubrick archive'
+p113
+g2
+(g6
+S'\xb1\x06\xb8C\xb7\xb2\xd4?'
+p114
+tp115
+Rp116
+tp117
+a(S'stanley kubrick: a life in pictures'
+p118
+g2
+(g6
+S'\xa43\xc2\x91\xa4\x93\xd4?'
+p119
+tp120
+Rp121
+tp122
+a(S'moon landing conspiracy theories'
+p123
+g2
+(g6
+S';\x19\xd4\xf2\xeem\xd4?'
+p124
+tp125
+Rp126
+tp127
+a(S'fear and desire'
+p128
+g2
+(g6
+S'\xafN\xa4{\xa2I\xd4?'
+p129
+tp130
+Rp131
+tp132
+a(S'colonization of the moon'
+p133
+g2
+(g6
+S'\x97\x86\xda\xb6A*\xd4?'
+p134
+tp135
+Rp136
+tp137
+a(S'moon'
+p138
+g2
+(g6
+S'H:\x19\x81:\x16\xd4?'
+p139
+tp140
+Rp141
+tp142
+a(S'eyes wide shut'
+p143
+g2
+(g6
+S'\xf8f\x8b\x14\xf5\x04\xd4?'
+p144
+tp145
+Rp146
+tp147
+a(S'effect of spaceflight on the human body'
+p148
+g2
+(g6
+S'4\xaa\xc8J\x15\xd2\xd3?'
+p149
+tp150
+Rp151
+tp152
+a(S'space colonization'
+p153
+g2
+(g6
+S'\x01\x07\xb8$\x0e\xc5\xd3?'
+p154
+tp155
+Rp156
+tp157
+a(S'christiane kubrick'
+p158
+g2
+(g6
+S"'\xf3Hf\x1b\xbc\xd3?"
+p159
+tp160
+Rp161
+tp162
+a(S'nasa'
+p163
+g2
+(g6
+S'\t\xf4\x81\xfb\xd8\xae\xd3?'
+p164
+tp165
+Rp166
+tp167
+a(S'spaceflight'
+p168
+g2
+(g6
+S'8fk\x04,\xa9\xd3?'
+p169
+tp170
+Rp171
+tp172
+a(S'vivian kubrick'
+p173
+g2
+(g6
+S'\x06T\x91\x11\x8c\xa3\xd3?'
+p174
+tp175
+Rp176
+tp177
+a(S'the shining (film)'
+p178
+g2
+(g6
+S'\xc3[\xe6\x17\x86b\xd3?'
+p179
+tp180
+Rp181
+tp182
+a(S'anthony frewin'
+p183
+g2
+(g6
+S'\xb44\xdb\xdb\xb2a\xd3?'
+p184
+tp185
+Rp186
+tp187
+a(S'space race'
+p188
+g2
+(g6
+S'C\xf8\x9a\xeb4[\xd3?'
+p189
+tp190
+Rp191
+tp192
+a(S'dr. strangelove'
+p193
+g2
+(g6
+S'JF\x84\xbe\xfe9\xd3?'
+p194
+tp195
+Rp196
+tp197
+a(S'full metal jacket'
+p198
+g2
+(g6
+S'\xd5/\x0e\n\x91\x1d\xd3?'
+p199
+tp200
+Rp201
+tp202
+a(S'outer space'
+p203
+g2
+(g6
+S'\xa7\\\x13a!\x18\xd3?'
+p204
+tp205
+Rp206
+tp207
+a(S'space habitat'
+p208
+g2
+(g6
+S'\xe6K\xb9%\xee\xf8\xd2?'
+p209
+tp210
+Rp211
+tp212
+a(S'newspace'
+p213
+g2
+(g6
+S'\x08\x87\x08\xe4\xbd\xcb\xd2?'
+p214
+tp215
+Rp216
+tp217
+a(S'spacecraft'
+p218
+g2
+(g6
+S';N\xe8\xdc/\xc9\xd2?'
+p219
+tp220
+Rp221
+tp222
+a(S'world assembly of youth (film)'
+p223
+g2
+(g6
+S'\\@\x00p\xfd\x88\xd2?'
+p224
+tp225
+Rp226
+tp227
+a(S'astronaut'
+p228
+g2
+(g6
+S'9~W1s}\xd2?'
+p229
+tp230
+Rp231
+tp232
+a(S'history of spaceflight'
+p233
+g2
+(g6
+S'\x0e\xf2N\x97\x05y\xd2?'
+p234
+tp235
+Rp236
+tp237
+a(S'2010: odyssey two'
+p238
+g2
+(g6
+S'|\xe3Z\xab\xd0n\xd2?'
+p239
+tp240
+Rp241
+tp242
+a(S'neuroscience in space'
+p243
+g2
+(g6
+S'\xb4\x84s\xb8Vh\xd2?'
+p244
+tp245
+Rp246
+tp247
+a(S'sex in space'
+p248
+g2
+(g6
+S'F\xf73\x80\x1d]\xd2?'
+p249
+tp250
+Rp251
+tp252
+a(S'moon in fiction'
+p253
+g2
+(g6
+S'\xf3\xf2\xe9)\xb8M\xd2?'
+p254
+tp255
+Rp256
+tp257
+a(S'list of human spaceflight programs'
+p258
+g2
+(g6
+S'w\xa7\xecDMJ\xd2?'
+p259
+tp260
+Rp261
+tp262
+a(S'list of fictional spacecraft'
+p263
+g2
+(g6
+S'D\xce\xc9\xec?D\xd2?'
+p264
+tp265
+Rp266
+tp267
+a(S'moon landings in fiction'
+p268
+g2
+(g6
+S'a\xde\xfcDs9\xd2?'
+p269
+tp270
+Rp271
+tp272
+a(S'the killing (film)'
+p273
+g2
+(g6
+S'\xda\xe4,\x05[/\xd2?'
+p274
+tp275
+Rp276
+tp277
+a(S'rotating wheel space station'
+p278
+g2
+(g6
+S'\xdd\xdb\xeac\xed,\xd2?'
+p279
+tp280
+Rp281
+tp282
+a(S'space propaganda'
+p283
+g2
+(g6
+S'\x02\xb4\xd8\xc9_\x02\xd2?'
+p284
+tp285
+Rp286
+tp287
+a(S'colour me kubrick'
+p288
+g2
+(g6
+S':\xa9\xeb\xe6J\xda\xd1?'
+p289
+tp290
+Rp291
+tp292
+a(S'trans-lunar injection'
+p293
+g2
+(g6
+S'\x0f\xb8\x84\x900\xd9\xd1?'
+p294
+tp295
+Rp296
+tp297
+a(S'2001: a space odyssey (score)'
+p298
+g2
+(g6
+S'\x98\x9cg\xa19\xd3\xd1?'
+p299
+tp300
+Rp301
+tp302
+a(S'list of fictional astronauts'
+p303
+g2
+(g6
+S'\xb7\x8e\x9b/\xe3\xcf\xd1?'
+p304
+tp305
+Rp306
+tp307
+a(S'zond 7'
+p308
+g2
+(g6
+S'\xe3Qxgv\xc8\xd1?'
+p309
+tp310
+Rp311
+tp312
+a(S'wanderers (2014 film)'
+p313
+g2
+(g6
+S'\xfe$#\x95\xa5\xba\xd1?'
+p314
+tp315
+Rp316
+tp317
+a(S'arthur c. clarke in media'
+p318
+g2
+(g6
+S'\x12\x9d\x0c?\xdd\xb9\xd1?'
+p319
+tp320
+Rp321
+tp322
+a(S'space odyssey'
+p323
+g2
+(g6
+S'\x05\xf3\xec\xe7\xaf\xb8\xd1?'
+p324
+tp325
+Rp326
+tp327
+a(S'jan harlan'
+p328
+g2
+(g6
+S'\xfb7\xcc\xa8\xd1\xa2\xd1?'
+p329
+tp330
+Rp331
+tp332
+a(S"stanley kubrick's boxes"
+p333
+g2
+(g6
+S'5\x91\xe1\xb0\xa1\x9b\xd1?'
+p334
+tp335
+Rp336
+tp337
+a(S'space policy'
+p338
+g2
+(g6
+S'z\xb3\xc8q\x85\x92\xd1?'
+p339
+tp340
+Rp341
+tp342
+a(S'lunar atmosphere and dust environment explorer'
+p343
+g2
+(g6
+S'\xb4\xc5$\x97^\x88\xd1?'
+p344
+tp345
+Rp346
+tp347
+a(S'marshall space flight center'
+p348
+g2
+(g6
+S'\x19\x1b\x8b\xf9\xa7\x85\xd1?'
+p349
+tp350
+Rp351
+tp352
+a(S'gravity assist'
+p353
+g2
+(g6
+S'M\x8fUh\x92\x84\xd1?'
+p354
+tp355
+Rp356
+tp357
+a(S'vision for space exploration'
+p358
+g2
+(g6
+S'\x1d\x94\x1e}Yx\xd1?'
+p359
+tp360
+Rp361
+tp362
+a(S'space medicine'
+p363
+g2
+(g6
+S'\x1e"\xf5\xe6\xafo\xd1?'
+p364
+tp365
+Rp366
+tp367
+a(S'alan conway'
+p368
+g2
+(g6
+S'E\xe7\x13\xc3\xc6k\xd1?'
+p369
+tp370
+Rp371
+tp372
+a(S'room 237'
+p373
+g2
+(g6
+S'@\xd8\xc5 \xb0j\xd1?'
+p374
+tp375
+Rp376
+tp377
+a(S'space art'
+p378
+g2
+(g6
+S'>\x8d\xf0\xcc(S\xd1?'
+p379
+tp380
+Rp381
+tp382
+a(S'outline of space science'
+p383
+g2
+(g6
+S'\x9fQ\xf7\x81\x80I\xd1?'
+p384
+tp385
+Rp386
+tp387
+a(S'interplanetary spaceflight'
+p388
+g2
+(g6
+S'\xfc\x88Q\xd4\x9bH\xd1?'
+p389
+tp390
+Rp391
+tp392
+a(S'women in space'
+p393
+g2
+(g6
+S'x\x07Q\x81zA\xd1?'
+p394
+tp395
+Rp396
+tp397
+a(S'apollo 8'
+p398
+g2
+(g6
+S'\xe3\x89\x15\x99W@\xd1?'
+p399
+tp400
+Rp401
+tp402
+a(S'space policy of the united states'
+p403
+g2
+(g6
+S'_%L"\xd0:\xd1?'
+p404
+tp405
+Rp406
+tp407
+a(S'luna 3'
+p408
+g2
+(g6
+S'_\x97\xcc\x83g3\xd1?'
+p409
+tp410
+Rp411
+tp412
+a(S'unmanned nasa missions'
+p413
+g2
+(g6
+S'\r\xdb\xa7\xca].\xd1?'
+p414
+tp415
+Rp416
+tp417
+a(S'space and survival'
+p418
+g2
+(g6
+S'\x03\xff\xedPU-\xd1?'
+p419
+tp420
+Rp421
+tp422
+a(S'exploration of the moon'
+p423
+g2
+(g6
+S'i\x0f`~\x01-\xd1?'
+p424
+tp425
+Rp426
+tp427
+a(S'day of the fight'
+p428
+g2
+(g6
+S'Dv\xad<V"\xd1?'
+p429
+tp430
+Rp431
+tp432
+a(S'moon express'
+p433
+g2
+(g6
+S'\x1a4\x0e\xce@"\xd1?'
+p434
+tp435
+Rp436
+tp437
+a(S'chinese large modular space station'
+p438
+g2
+(g6
+S'/\xafz\xf3\xe0\x18\xd1?'
+p439
+tp440
+Rp441
+tp442
+a(S'gravity (film)'
+p443
+g2
+(g6
+S'0ZY\xb2\xcf\x15\xd1?'
+p444
+tp445
+Rp446
+tp447
+a(S'moon landing conspiracy theories in popular culture'
+p448
+g2
+(g6
+S'\xf4\x93\xeb\xbb\xfe\x12\xd1?'
+p449
+tp450
+Rp451
+tp452
+a(S'chinese space program'
+p453
+g2
+(g6
+S'sM\xc1\x88\xfd\x12\xd1?'
+p454
+tp455
+Rp456
+tp457
+a(S'moon landing'
+p458
+g2
+(g6
+S'\x8d\xaa0\xf7\xb0\x10\xd1?'
+p459
+tp460
+Rp461
+tp462
+a(S'orbit of the moon'
+p463
+g2
+(g6
+S"0\x10\x9b'\x88\xf8\xd0?"
+p464
+tp465
+Rp466
+tp467
+a(S'robotic spacecraft'
+p468
+g2
+(g6
+S'\xcf\xd2\xd6s\x8c\xeb\xd0?'
+p469
+tp470
+Rp471
+tp472
+a(S'weightlessness'
+p473
+g2
+(g6
+S'\xed\xfb\xf2\xa4y\xc3\xd0?'
+p474
+tp475
+Rp476
+tp477
+a(S'tmro'
+p478
+g2
+(g6
+S'\xc3\x1e\xa0\xb56\xb1\xd0?'
+p479
+tp480
+Rp481
+tp482
+a(S'artificial gravity (fiction)'
+p483
+g2
+(g6
+S'\x87S\x887\xcd\xa8\xd0?'
+p484
+tp485
+Rp486
+tp487
+a(S'zond 8'
+p488
+g2
+(g6
+S'2&\xccL\xc9\x9b\xd0?'
+p489
+tp490
+Rp491
+tp492
+a(S'far side of the moon'
+p493
+g2
+(g6
+S't5\xeeBM\x9b\xd0?'
+p494
+tp495
+Rp496
+tp497
+a(S'jupiter five'
+p498
+g2
+(g6
+S'\x1eiZ1\xf5\x99\xd0?'
+p499
+tp500
+Rp501
+tp502
+a(S'private spaceflight'
+p503
+g2
+(g6
+S'_\x07<).\x90\xd0?'
+p504
+tp505
+Rp506
+tp507
+a(S'space station'
+p508
+g2
+(g6
+S'\x0c\xc5\x0c\x91\xf8\x8f\xd0?'
+p509
+tp510
+Rp511
+tp512
+a(S'lunar cycler'
+p513
+g2
+(g6
+S')\xa3\xa8\x89\x9f\x83\xd0?'
+p514
+tp515
+Rp516
+tp517
+a(S'list of fictional space stations'
+p518
+g2
+(g6
+S'f\x118\x1a\x97\x81\xd0?'
+p519
+tp520
+Rp521
+tp522
+a(S'pioneer 10'
+p523
+g2
+(g6
+S'\x82\xf3\x12\x82>}\xd0?'
+p524
+tp525
+Rp526
+tp527
+a(S'space stations and habitats in fiction'
+p528
+g2
+(g6
+S'\xb9w\x80\xfa\xffy\xd0?'
+p529
+tp530
+Rp531
+tp532
+a(S'lunar phase'
+p533
+g2
+(g6
+S'\xe9\x0f\x10\xfaoq\xd0?'
+p534
+tp535
+Rp536
+tp537
+a(S'space research'
+p538
+g2
+(g6
+S"\xae\xdfY\x8c'q\xd0?"
+p539
+tp540
+Rp541
+tp542
+a(S'shuguang (spacecraft)'
+p543
+g2
+(g6
+S'\x87~\xa0e\rj\xd0?'
+p544
+tp545
+Rp546
+tp547
+a(S'space law'
+p548
+g2
+(g6
+S'\xa7by\xe2\xb8h\xd0?'
+p549
+tp550
+Rp551
+tp552
+a(S'space foundation'
+p553
+g2
+(g6
+S'\xec!9\xb4\xc7f\xd0?'
+p554
+tp555
+Rp556
+tp557
+a(S'space archaeology'
+p558
+g2
+(g6
+S'\r \xf2U\xc0d\xd0?'
+p559
+tp560
+Rp561
+tp562
+a(S'micro-g environment'
+p563
+g2
+(g6
+S'\xddT%\x9f@_\xd0?'
+p564
+tp565
+Rp566
+tp567
+a(S'lunar outpost (nasa)'
+p568
+g2
+(g6
+S'|p\x0c\xef4[\xd0?'
+p569
+tp570
+Rp571
+tp572
+a(S'roscosmos state corporation'
+p573
+g2
+(g6
+S'=M\xa1zmY\xd0?'
+p574
+tp575
+Rp576
+tp577
+a(S'gravitation of the moon'
+p578
+g2
+(g6
+S'\xe7\xceX\xad\x85Q\xd0?'
+p579
+tp580
+Rp581
+tp582
+a(S'2001 (disambiguation)'
+p583
+g2
+(g6
+S'\xe1i6\xcb\x16K\xd0?'
+p584
+tp585
+Rp586
+tp587
+a(S'universe (1960 film)'
+p588
+g2
+(g6
+S'{\xc9\xe2d\x0fE\xd0?'
+p589
+tp590
+Rp591
+tp592
+a(S'locomotion in space'
+p593
+g2
+(g6
+S'\xd2\xb0\t\xf6\x82>\xd0?'
+p594
+tp595
+Rp596
+tp597
+a(S'space environment'
+p598
+g2
+(g6
+S'ZDm\xbb\x8a<\xd0?'
+p599
+tp600
+Rp601
+tp602
+a(S'space jurisdiction'
+p603
+g2
+(g6
+S'\xd4Z\x9f\x87\x019\xd0?'
+p604
+tp605
+Rp606
+tp607
+a(S'tourism on the moon'
+p608
+g2
+(g6
+S'\xb6R{\xc6\x885\xd0?'
+p609
+tp610
+Rp611
+tp612
+a(S'maxime faget'
+p613
+g2
+(g6
+S'\xda!\x1b_1-\xd0?'
+p614
+tp615
+Rp616
+tp617
+a(S'rick tumlinson'
+p618
+g2
+(g6
+S'\x85\x18o\xce\xf5+\xd0?'
+p619
+tp620
+Rp621
+tp622
+a(S'space tourism'
+p623
+g2
+(g6
+S'a\xd9T\x0e\x9e)\xd0?'
+p624
+tp625
+Rp626
+tp627
+a(S'nasa advanced space transportation program'
+p628
+g2
+(g6
+S'\xe4\xcb8:\x11)\xd0?'
+p629
+tp630
+Rp631
+tp632
+a(S'lunar space elevator'
+p633
+g2
+(g6
+S'\x91\xf0|*\x89%\xd0?'
+p634
+tp635
+Rp636
+tp637
+a(S'kubrick the dog'
+p638
+g2
+(g6
+S'\x97\xd3\xe6T\x9e#\xd0?'
+p639
+tp640
+Rp641
+tp642
+a(S'moon society'
+p643
+g2
+(g6
+S'#SCo\x8f"\xd0?'
+p644
+tp645
+Rp646
+tp647
+a(S't/space'
+p648
+g2
+(g6
+S'8\x01\x01,\x14"\xd0?'
+p649
+tp650
+Rp651
+tp652
+a(S'space manufacturing'
+p653
+g2
+(g6
+S'D*\x87!\xba\x1d\xd0?'
+p654
+tp655
+Rp656
+tp657
+a(S'space transportation system'
+p658
+g2
+(g6
+S'd\xbb\x9c\x05\x9a\x19\xd0?'
+p659
+tp660
+Rp661
+tp662
+a(S'johnson space center'
+p663
+g2
+(g6
+S'd\xf2\xfc\x05~\x17\xd0?'
+p664
+tp665
+Rp666
+tp667
+a(S'space age'
+p668
+g2
+(g6
+S'\x82\xb3\x1d\xc3\xfd\x0f\xd0?'
+p669
+tp670
+Rp671
+tp672
+a(S'space dock'
+p673
+g2
+(g6
+S'1ccl5\x0f\xd0?'
+p674
+tp675
+Rp676
+tp677
+a(S'hal 9000'
+p678
+g2
+(g6
+S'_\x12\x8c\x14T\x0e\xd0?'
+p679
+tp680
+Rp681
+tp682
+a(S'international space year'
+p683
+g2
+(g6
+S'j\xc3\xbd\x96C\xea\xcf?'
+p684
+tp685
+Rp686
+tp687
+a(S'space-themed music'
+p688
+g2
+(g6
+S'Z\xff}CK\xe9\xcf?'
+p689
+tp690
+Rp691
+tp692
+a(S'odyssey moon'
+p693
+g2
+(g6
+S'\xd1h8\x87@\xdb\xcf?'
+p694
+tp695
+Rp696
+tp697
+a(S'a.i. artificial intelligence'
+p698
+g2
+(g6
+S'\x92~f`>\xb1\xcf?'
+p699
+tp700
+Rp701
+tp702
+a(S'space station 3d'
+p703
+g2
+(g6
+S"'\x15T\xf4`\xa0\xcf?"
+p704
+tp705
+Rp706
+tp707
+a(S'micrometeoroid'
+p708
+g2
+(g6
+S'`\xe8\x96\x1f\xf3\x9c\xcf?'
+p709
+tp710
+Rp711
+tp712
+a(S'space advocacy'
+p713
+g2
+(g6
+S"!'\xd4\xff\x8d\x98\xcf?"
+p714
+tp715
+Rp716
+tp717
+a(S'astronautical hygiene'
+p718
+g2
+(g6
+S'\xef\x14\x0f\xba\xbb\x97\xcf?'
+p719
+tp720
+Rp721
+tp722
+a(S'extraterrestrial skies'
+p723
+g2
+(g6
+S'k\xb8\x99\x99\xca\x92\xcf?'
+p724
+tp725
+Rp726
+tp727
+a(S'reduced-gravity aircraft'
+p728
+g2
+(g6
+S'\x0f\xa5\xb5l@\x8a\xcf?'
+p729
+tp730
+Rp731
+tp732
+a(S'chandrayaan-1'
+p733
+g2
+(g6
+S'\x0e\xd0\xf5\xfe\x0c\x89\xcf?'
+p734
+tp735
+Rp736
+tp737
+a(S'list of topics in space'
+p738
+g2
+(g6
+S'\x15d\xbc\xc5\xaf\x87\xcf?'
+p739
+tp740
+Rp741
+tp742
+a(S'international space development conference'
+p743
+g2
+(g6
+S'PGp\x82\xc0\x83\xcf?'
+p744
+tp745
+Rp746
+tp747
+a(S'spacecraft event time'
+p748
+g2
+(g6
+S'\xf9]?\xd1\x1bv\xcf?'
+p749
+tp750
+Rp751
+tp752
+a(S'lagrange point colonization'
+p753
+g2
+(g6
+S'\xec\xc6\xf4\xc7\xe2s\xcf?'
+p754
+tp755
+Rp756
+tp757
+a(S'a clockwork orange (film)'
+p758
+g2
+(g6
+S'G\x94\xbf\x86sq\xcf?'
+p759
+tp760
+Rp761
+tp762
+a(S'space (disambiguation)'
+p763
+g2
+(g6
+S'\x9a\xac\xef\x0b\xcal\xcf?'
+p764
+tp765
+Rp766
+tp767
+a(S'a clockwork orange (soundtrack)'
+p768
+g2
+(g6
+S'\xb6\x95P\xab\xd3L\xcf?'
+p769
+tp770
+Rp771
+tp772
+a(S'golden spike company'
+p773
+g2
+(g6
+S'\xcc\x04j\xaa[H\xcf?'
+p774
+tp775
+Rp776
+tp777
+a(S'nasa deep space network'
+p778
+g2
+(g6
+S':\xaa\x88\xea`G\xcf?'
+p779
+tp780
+Rp781
+tp782
+a(S'gravity recovery and interior laboratory'
+p783
+g2
+(g6
+S'o)\x85\x16\x18G\xcf?'
+p784
+tp785
+Rp786
+tp787
+a(S'piers bizony'
+p788
+g2
+(g6
+S'\x17\xe4\xb6\xe0\x99F\xcf?'
+p789
+tp790
+Rp791
+tp792
+a(S'outline of space exploration'
+p793
+g2
+(g6
+S"'\x12\xd6\xd8\xc19\xcf?"
+p794
+tp795
+Rp796
+tp797
+a(S'comparison of asian national space programs'
+p798
+g2
+(g6
+S'D\xc3\x03\xa6\x08.\xcf?'
+p799
+tp800
+Rp801
+tp802
+a(S'space adventures'
+p803
+g2
+(g6
+S"\xb0\xd5\xc4\xe5+'\xcf?"
+p804
+tp805
+Rp806
+tp807
+a(S'stowaway to the moon (film)'
+p808
+g2
+(g6
+S'\x1ab\xfa\xb1\\\x11\xcf?'
+p809
+tp810
+Rp811
+tp812
+a(S'lunar orbiter 1'
+p813
+g2
+(g6
+S'\xf3\xd2\x9c\xc8\xaf\x00\xcf?'
+p814
+tp815
+Rp816
+tp817
+a(S'earthlight (astronomy)'
+p818
+g2
+(g6
+S'\x02zw\xd4;\xef\xce?'
+p819
+tp820
+Rp821
+tp822
+a(S'lunar day'
+p823
+g2
+(g6
+S'\x94g\xc0$=\xe1\xce?'
+p824
+tp825
+Rp826
+tp827
+a(S'the seafarers'
+p828
+g2
+(g6
+S'7\xe1\xe0\\s\xb6\xce?'
+p829
+tp830
+Rp831
+tp832
+a(S'apache point observatory lunar laser-ranging operation'
+p833
+g2
+(g6
+S'\r\x02\xb3""\xac\xce?'
+p834
+tp835
+Rp836
+tp837
+a(S'3001: the final odyssey'
+p838
+g2
+(g6
+S'\x8d\x8b\xa7\xb7\xdb\xa9\xce?'
+p839
+tp840
+Rp841
+tp842
+a(S'cargo spacecraft'
+p843
+g2
+(g6
+S'\xe4#\x14\x1ce\x95\xce?'
+p844
+tp845
+Rp846
+tp847
+a(S'lunar distance (astronomy)'
+p848
+g2
+(g6
+S"\x83\x1d\xde'\x98z\xce?"
+p849
+tp850
+Rp851
+tp852
+a(S'soviet space program'
+p853
+g2
+(g6
+S'_f\xb4\x0b\xc8Q\xce?'
+p854
+tp855
+Rp856
+tp857
+a(S'chinese lunar exploration program'
+p858
+g2
+(g6
+S'\r\xd8z\xc8\x93P\xce?'
+p859
+tp860
+Rp861
+tp862
+a(S'spacefaring'
+p863
+g2
+(g6
+S'\x9bj5\xa49O\xce?'
+p864
+tp865
+Rp866
+tp867
+a(S'list of crewed spacecraft'
+p868
+g2
+(g6
+S'\xd8@\xe5\xe0\xd7J\xce?'
+p869
+tp870
+Rp871
+tp872
+a(S'origin of the moon'
+p873
+g2
+(g6
+S'\x9f\x96c\xd4\x84G\xce?'
+p874
+tp875
+Rp876
+tp877
+a(S'gemini 4'
+p878
+g2
+(g6
+S'^J\x05f\x8cD\xce?'
+p879
+tp880
+Rp881
+tp882
+a(S'to the moon and beyond'
+p883
+g2
+(g6
+S's\x13F\x94H?\xce?'
+p884
+tp885
+Rp886
+tp887
+a(S'space techniques'
+p888
+g2
+(g6
+S'\xeeG\x0c\xac_<\xce?'
+p889
+tp890
+Rp891
+tp892
+a(S'biosentinel'
+p893
+g2
+(g6
+S'\xfe\x11\x08\xf1\xf97\xce?'
+p894
+tp895
+Rp896
+tp897
+a(S'space angel'
+p898
+g2
+(g6
+S'\x07\x02\xfd\x8aU&\xce?'
+p899
+tp900
+Rp901
+tp902
+a(S'near side of the moon'
+p903
+g2
+(g6
+S'\x9f8\xb1\rt\x1f\xce?'
+p904
+tp905
+Rp906
+tp907
+a(S'jeffrey manber'
+p908
+g2
+(g6
+S'\xfb!\xa5sG\x1f\xce?'
+p909
+tp910
+Rp911
+tp912
+a(S'eugene m. emme astronautical literature award'
+p913
+g2
+(g6
+S'\x92\xb3\xfeL\r\x16\xce?'
+p914
+tp915
+Rp916
+tp917
+a(S'international space university'
+p918
+g2
+(g6
+S'\x1et\\\x1bY\x11\xce?'
+p919
+tp920
+Rp921
+tp922
+a(S'ray lovejoy'
+p923
+g2
+(g6
+S'\xcf\x80\x02\x15e\x00\xce?'
+p924
+tp925
+Rp926
+tp927
+a(S'lost in space'
+p928
+g2
+(g6
+S"-\xce\x8c\x9d'\xf9\xcd?"
+p929
+tp930
+Rp931
+tp932
+a(S'barry lyndon'
+p933
+g2
+(g6
+S'\xdeW\x11j\x13\xf1\xcd?'
+p934
+tp935
+Rp936
+tp937
+a(S'nasa facilities'
+p938
+g2
+(g6
+S'MRg\xd7+\xd4\xcd?'
+p939
+tp940
+Rp941
+tp942
+a(S'space warfare'
+p943
+g2
+(g6
+S'5\x0b\x9972\xbe\xcd?'
+p944
+tp945
+Rp946
+tp947
+a(S'space exploration alliance'
+p948
+g2
+(g6
+S'\x10^;\xe5i\xbb\xcd?'
+p949
+tp950
+Rp951
+tp952
+a(S'lunar theory'
+p953
+g2
+(g6
+S'\x1f\xad\xb9s\t\xa9\xcd?'
+p954
+tp955
+Rp956
+tp957
+a(S'zond 3'
+p958
+g2
+(g6
+S'\x82\xb9\x12\xf1\xf0\x90\xcd?'
+p959
+tp960
+Rp961
+tp962
+a(S'kliper'
+p963
+g2
+(g6
+S'#\x8a}\xbei\x90\xcd?'
+p964
+tp965
+Rp966
+tp967
+a(S'advanced gemini'
+p968
+g2
+(g6
+S'#b\x86\x06\xc4\x8f\xcd?'
+p969
+tp970
+Rp971
+tp972
+a(S'reaction engines limited'
+p973
+g2
+(g6
+S'\x83IF\xbd\xf5\x8c\xcd?'
+p974
+tp975
+Rp976
+tp977
+a(S'federation (spacecraft)'
+p978
+g2
+(g6
+S'\xdch\xd7(\xb2\x87\xcd?'
+p979
+tp980
+Rp981
+tp982
+a(S'team indus'
+p983
+g2
+(g6
+S'\x0e\x1bm\xc4\xe6\x7f\xcd?'
+p984
+tp985
+Rp986
+tp987
+a(S'list of government space agencies'
+p988
+g2
+(g6
+S'"\xc7\x16\x91 t\xcd?'
+p989
+tp990
+Rp991
+tp992
+a(S'lagrangian point'
+p993
+g2
+(g6
+S'E\xe0\x9d\xa6\xd4p\xcd?'
+p994
+tp995
+Rp996
+tp997
+a(S'richard arenstorf'
+p998
+g2
+(g6
+S'\rT\xafl6p\xcd?'
+p999
+tp1000
+Rp1001
+tp1002
+a(S'space exploration initiative'
+p1003
+g2
+(g6
+S'c\xaaq\xe1do\xcd?'
+p1004
+tp1005
+Rp1006
+tp1007
+a(S'space music (disambiguation)'
+p1008
+g2
+(g6
+S'\xdaj:T\xc6m\xcd?'
+p1009
+tp1010
+Rp1011
+tp1012
+a(S'apollo 11'
+p1013
+g2
+(g6
+S';7\x00\xc1lY\xcd?'
+p1014
+tp1015
+Rp1016
+tp1017
+a(S'very nice, very nice'
+p1018
+g2
+(g6
+S'\xa2\xa2\x13_\xa5M\xcd?'
+p1019
+tp1020
+Rp1021
+tp1022
+a(S'zond 5'
+p1023
+g2
+(g6
+S'C\x0f\xf8\x0c\xa6K\xcd?'
+p1024
+tp1025
+Rp1026
+tp1027
+a(S'international cometary explorer'
+p1028
+g2
+(g6
+S'\xf9\x99\xd7\xe7>2\xcd?'
+p1029
+tp1030
+Rp1031
+tp1032
+a(S'space advertising'
+p1033
+g2
+(g6
+S'\x80\xe1p\x0b")\xcd?'
+p1034
+tp1035
+Rp1036
+tp1037
+a(S'space shuttle program'
+p1038
+g2
+(g6
+S"\x0f\x14e\\\x8f'\xcd?"
+p1039
+tp1040
+Rp1041
+tp1042
+a(S'harry lange (film designer)'
+p1043
+g2
+(g6
+S'\xecS\x01\xb70\x1e\xcd?'
+p1044
+tp1045
+Rp1046
+tp1047
+a(S'aerobraking'
+p1048
+g2
+(g6
+S'\xd4\xcc\x8f\xbb~\x1b\xcd?'
+p1049
+tp1050
+Rp1051
+tp1052
+a(S'the day after tomorrow (tv special)'
+p1053
+g2
+(g6
+S'\xb6\x00\xa7\xb0`\x1a\xcd?'
+p1054
+tp1055
+Rp1056
+tp1057
+a(S'list of space: 1999 vehicles'
+p1058
+g2
+(g6
+S'\xd4\xdd\xc7o\\\x15\xcd?'
+p1059
+tp1060
+Rp1061
+tp1062
+a(S'military spacecraft'
+p1063
+g2
+(g6
+S'\x1d\x8ao\xbd\xd7\x14\xcd?'
+p1064
+tp1065
+Rp1066
+tp1067
+a(S"killer's kiss"
+p1068
+g2
+(g6
+S'\xf1\x9a\xe9r&\x10\xcd?'
+p1069
+tp1070
+Rp1071
+tp1072
+a(S'apollo 16'
+p1073
+g2
+(g6
+S'|{\xbe\x06j\x0b\xcd?'
+p1074
+tp1075
+Rp1076
+tp1077
+a(S'arthur c. clarke'
+p1078
+g2
+(g6
+S'\xbed#\xd4\x94\x02\xcd?'
+p1079
+tp1080
+Rp1081
+tp1082
+a(S'moon mcdare'
+p1083
+g2
+(g6
+S'.\xc2\xcc@\xf7\xfb\xcc?'
+p1084
+tp1085
+Rp1086
+tp1087
+a(S'space studies institute'
+p1088
+g2
+(g6
+S'\x1cDq\x8a\x18\xfa\xcc?'
+p1089
+tp1090
+Rp1091
+tp1092
+a(S'the sentinel (short story)'
+p1093
+g2
+(g6
+S'A\xb2U\xfc\xa6\xf6\xcc?'
+p1094
+tp1095
+Rp1096
+tp1097
+a(S'manned space flight network'
+p1098
+g2
+(g6
+S'\x15\xeb\xa9\x86\x0b\xeb\xcc?'
+p1099
+tp1100
+Rp1101
+tp1102
+a(S'david c. webb'
+p1103
+g2
+(g6
+S'\xfa\xa5C\x11\xbc\xde\xcc?'
+p1104
+tp1105
+Rp1106
+tp1107
+a(S'giant-impact hypothesis'
+p1108
+g2
+(g6
+S"'\xcb\xf3cG\xd4\xcc?"
+p1109
+tp1110
+Rp1111
+tp1112
+a(S'jay barbree'
+p1113
+g2
+(g6
+S'Y\xa5\xe6\x9c\xcf\xd1\xcc?'
+p1114
+tp1115
+Rp1116
+tp1117
+a(S'clavius base'
+p1118
+g2
+(g6
+S'\x16\x1f\x1a\x11\xc7\xcb\xcc?'
+p1119
+tp1120
+Rp1121
+tp1122
+a(S'space shuttle retirement'
+p1123
+g2
+(g6
+S'\xeaOW\xb0R\xba\xcc?'
+p1124
+tp1125
+Rp1126
+tp1127
+a(S'lunar reconnaissance orbiter'
+p1128
+g2
+(g6
+S'\xc6HU\x02~\xb7\xcc?'
+p1129
+tp1130
+Rp1131
+tp1132
+a(S'exploration of jupiter'
+p1133
+g2
+(g6
+S'\xfb\xc7\x0e\xb76\xb4\xcc?'
+p1134
+tp1135
+Rp1136
+tp1137
+a(S'eric c. anderson'
+p1138
+g2
+(g6
+S'\x9a\x018\xbb\xa5\xb0\xcc?'
+p1139
+tp1140
+Rp1141
+tp1142
+a(S'moonlite'
+p1143
+g2
+(g6
+S'\xd7\xf5+X\xf6\xaf\xcc?'
+p1144
+tp1145
+Rp1146
+tp1147
+a(S'list of vector spaces in mathematics'
+p1148
+g2
+(g6
+S'\xe5\n\x85-\x9a\xad\xcc?'
+p1149
+tp1150
+Rp1151
+tp1152
+a(S'space system'
+p1153
+g2
+(g6
+S'x\xff\xbb;\xcb\xaa\xcc?'
+p1154
+tp1155
+Rp1156
+tp1157
+a(S'outline of the moon'
+p1158
+g2
+(g6
+S'\xfb\x0bm\x86\xc1\xaa\xcc?'
+p1159
+tp1160
+Rp1161
+tp1162
+a(S'full moon'
+p1163
+g2
+(g6
+S'k\xd0\x0b\xee\xff\xa9\xcc?'
+p1164
+tp1165
+Rp1166
+tp1167
+a(S'space weather'
+p1168
+g2
+(g6
+S'\xbc\x9c\xe2]\xa6\xa9\xcc?'
+p1169
+tp1170
+Rp1171
+tp1172
+a(S'deep space exploration'
+p1173
+g2
+(g6
+S'\x1c\x07\x10\xab\xf1\xa4\xcc?'
+p1174
+tp1175
+Rp1176
+tp1177
+a(S'skyfire (spacecraft)'
+p1178
+g2
+(g6
+S'R\xfbk\x99N\x98\xcc?'
+p1179
+tp1180
+Rp1181
+tp1182
+a(S'lunar catalyst'
+p1183
+g2
+(g6
+S'\xfa.\x9a\x01\xd5\x94\xcc?'
+p1184
+tp1185
+Rp1186
+tp1187
+a(S'paul spudis'
+p1188
+g2
+(g6
+S'\x04/Y\x88!\x8d\xcc?'
+p1189
+tp1190
+Rp1191
+tp1192
+a(S'space flight simulation game'
+p1193
+g2
+(g6
+S'\xd5F\xba\xd0\x99\x80\xcc?'
+p1194
+tp1195
+Rp1196
+tp1197
+a(S'space odyssey (tv series)'
+p1198
+g2
+(g6
+S'\xdf*\xad\xcd\ns\xcc?'
+p1199
+tp1200
+Rp1201
+tp1202
+a(S'u.s. space exploration history on u.s. stamps'
+p1203
+g2
+(g6
+S'\xe4\xbf7\x15\rq\xcc?'
+p1204
+tp1205
+Rp1206
+tp1207
+a(S'project a119'
+p1208
+g2
+(g6
+S'\xdf}\xd9\xce\xc9j\xcc?'
+p1209
+tp1210
+Rp1211
+tp1212
+a(S'shuttle\xe2\x80\x93mir program'
+p1213
+g2
+(g6
+S"j\x1dPI'i\xcc?"
+p1214
+tp1215
+Rp1216
+tp1217
+a(S'filmography and awards of stanley kubrick'
+p1218
+g2
+(g6
+S'@\x00&\x9bVL\xcc?'
+p1219
+tp1220
+Rp1221
+tp1222
+a(S'the first men in the moon'
+p1223
+g2
+(g6
+S'e\x0c\xa0\xb5\x06G\xcc?'
+p1224
+tp1225
+Rp1226
+tp1227
+a(S'constellation program'
+p1228
+g2
+(g6
+S'\x16\xed\r\x82\x9f6\xcc?'
+p1229
+tp1230
+Rp1231
+tp1232
+a(S'british space programme'
+p1233
+g2
+(g6
+S'\x89O~$$5\xcc?'
+p1234
+tp1235
+Rp1236
+tp1237
+a(S'militarisation of space'
+p1238
+g2
+(g6
+S'\x18\xac\xf1\xb0//\xcc?'
+p1239
+tp1240
+Rp1241
+tp1242
+a(S'review of united states human space flight plans committee'
+p1243
+g2
+(g6
+S'_L3\x8e\xad-\xcc?'
+p1244
+tp1245
+Rp1246
+tp1247
+a(S'deep space bands'
+p1248
+g2
+(g6
+S'\xb0MZ\xf9\xcc+\xcc?'
+p1249
+tp1250
+Rp1251
+tp1252
+a(S'micro-space'
+p1253
+g2
+(g6
+S'\x9eg|\xa0\xae+\xcc?'
+p1254
+tp1255
+Rp1256
+tp1257
+a(S'space station freedom'
+p1258
+g2
+(g6
+S"\xa5V3\x8b$'\xcc?"
+p1259
+tp1260
+Rp1261
+tp1262
+a(S'international space station'
+p1263
+g2
+(g6
+S"\x83D'\xf4\x9f%\xcc?"
+p1264
+tp1265
+Rp1266
+tp1267
+a(S'david scott'
+p1268
+g2
+(g6
+S'\xb2\xc8\x7f\x7f\xe8\x1e\xcc?'
+p1269
+tp1270
+Rp1271
+tp1272
+a(S'extraterrestrial real estate'
+p1273
+g2
+(g6
+S'0\x1b\xec\x1d\xf1\x16\xcc?'
+p1274
+tp1275
+Rp1276
+tp1277
+a(S'examination of apollo moon photographs'
+p1278
+g2
+(g6
+S'\x93\xe6hj\xf5\x13\xcc?'
+p1279
+tp1280
+Rp1281
+tp1282
+a(S'deep space 1'
+p1283
+g2
+(g6
+S'\x82\x85\xe95w\x13\xcc?'
+p1284
+tp1285
+Rp1286
+tp1287
+a(S'space geostrategy'
+p1288
+g2
+(g6
+S'\xad\x88U\x00]\t\xcc?'
+p1289
+tp1290
+Rp1291
+tp1292
+a(S'bill kaysing'
+p1293
+g2
+(g6
+S'\xf1P\xf6\x8ai\x08\xcc?'
+p1294
+tp1295
+Rp1296
+tp1297
+a(S'state space agency of ukraine'
+p1298
+g2
+(g6
+S'\x97\x92\xe9\xbe\x06\x06\xcc?'
+p1299
+tp1300
+Rp1301
+tp1302
+a(S'ghana space science and technology centre'
+p1303
+g2
+(g6
+S'\xa4E\x8c<\xd1\x00\xcc?'
+p1304
+tp1305
+Rp1306
+tp1307
+a(S'mental space'
+p1308
+g2
+(g6
+S'\xe3\xc7\x05\x9e\xcb\xfc\xcb?'
+p1309
+tp1310
+Rp1311
+tp1312
+a(S'flying padre'
+p1313
+g2
+(g6
+S'\xaf\xb8(\xd2\xf0\xf8\xcb?'
+p1314
+tp1315
+Rp1316
+tp1317
+a(S'space simulator'
+p1318
+g2
+(g6
+S'\xfem\x17C\x9e\xf7\xcb?'
+p1319
+tp1320
+Rp1321
+tp1322
+a(S'jerome pearson'
+p1323
+g2
+(g6
+S'3\xe9\x9b#I\xf4\xcb?'
+p1324
+tp1325
+Rp1326
+tp1327
+a(S'life support system'
+p1328
+g2
+(g6
+S'\xe6\xc5\xe6\xb0`\xf3\xcb?'
+p1329
+tp1330
+Rp1331
+tp1332
+a(S'brian harvey (author)'
+p1333
+g2
+(g6
+S'V*9\x1e\xe9\xef\xcb?'
+p1334
+tp1335
+Rp1336
+tp1337
+a(S'interplanetary transport network'
+p1338
+g2
+(g6
+S'\x05\xebo\x0f\xd3\xee\xcb?'
+p1339
+tp1340
+Rp1341
+tp1342
+a(S'1968 in spaceflight'
+p1343
+g2
+(g6
+S'\x99`^\xf5X\xee\xcb?'
+p1344
+tp1345
+Rp1346
+tp1347
+a(S'space policy of the george w. bush administration'
+p1348
+g2
+(g6
+S'q!\x98\xb4\x9c\xe9\xcb?'
+p1349
+tp1350
+Rp1351
+tp1352
+a(S'claimed moons of earth'
+p1353
+g2
+(g6
+S'\xe38i\xb6\xcf\xe7\xcb?'
+p1354
+tp1355
+Rp1356
+tp1357
+a(S'hollow moon'
+p1358
+g2
+(g6
+S'6fs+\xcd\xe5\xcb?'
+p1359
+tp1360
+Rp1361
+tp1362
+a(S'journey to space'
+p1363
+g2
+(g6
+S'h\xa4\xc7\xde\xb7\xe2\xcb?'
+p1364
+tp1365
+Rp1366
+tp1367
+a(S'lunar orbit rendezvous'
+p1368
+g2
+(g6
+S'\x9b\xf1\x15\x89W\xe2\xcb?'
+p1369
+tp1370
+Rp1371
+tp1372
+a(S'astronaut ranks and positions'
+p1373
+g2
+(g6
+S'>\x1c\xea\x98\xa1\xdd\xcb?'
+p1374
+tp1375
+Rp1376
+tp1377
+a(S'discovery and exploration of the solar system'
+p1378
+g2
+(g6
+S'\xf1\xf9\xe0\x14Q\xc6\xcb?'
+p1379
+tp1380
+Rp1381
+tp1382
+a(S'2061: odyssey three'
+p1383
+g2
+(g6
+S'\xa5\xd59\xf7\xa5\xc4\xcb?'
+p1384
+tp1385
+Rp1386
+tp1387
+a(S'space center'
+p1388
+g2
+(g6
+S'\xcbM\xd3\x82\xbc\xc1\xcb?'
+p1389
+tp1390
+Rp1391
+tp1392
+a(S'lunar precursor robotic program'
+p1393
+g2
+(g6
+S'_\x9eF\x95-\xbb\xcb?'
+p1394
+tp1395
+Rp1396
+tp1397
+a(S'list of documentary films about the moon'
+p1398
+g2
+(g6
+S'\xa70Z\x06\xf7\xb9\xcb?'
+p1399
+tp1400
+Rp1401
+tp1402
+a(S'lunar conjunction'
+p1403
+g2
+(g6
+S'\xf7c\xf7|\xb6\xb8\xcb?'
+p1404
+tp1405
+Rp1406
+tp1407
+a(S'extravehicular activity'
+p1408
+g2
+(g6
+S'\x86p\xda\x19\x95\xb8\xcb?'
+p1409
+tp1410
+Rp1411
+tp1412
+a(S'celestia'
+p1413
+g2
+(g6
+S'\xea\x95\x96\xf3\x8c\xb7\xcb?'
+p1414
+tp1415
+Rp1416
+tp1417
+a(S'space food'
+p1418
+g2
+(g6
+S'\x1f\xbe\x8cq\xab\xb1\xcb?'
+p1419
+tp1420
+Rp1421
+tp1422
+a(S'lunar soil'
+p1423
+g2
+(g6
+S'3\xa2\x9d\xce\x96\xa8\xcb?'
+p1424
+tp1425
+Rp1426
+tp1427
+a(S'tracking and data relay satellite system'
+p1428
+g2
+(g6
+S'\r<m\xa6\x19\xa1\xcb?'
+p1429
+tp1430
+Rp1431
+tp1432
+a(S'man in the moon'
+p1433
+g2
+(g6
+S'A\xfb\xc2\x1e\x05\xa1\xcb?'
+p1434
+tp1435
+Rp1436
+tp1437
+a(S'luna 15'
+p1438
+g2
+(g6
+S'\xb9\xbe\xd2\xe7\xb7\x9c\xcb?'
+p1439
+tp1440
+Rp1441
+tp1442
+a(S'u.s. space & rocket center'
+p1443
+g2
+(g6
+S'U\x19O\xbc\xe6\x9b\xcb?'
+p1444
+tp1445
+Rp1446
+tp1447
+a(S'timeline of private spaceflight'
+p1448
+g2
+(g6
+S'5\xc0\xe5\x91\x1a\x90\xcb?'
+p1449
+tp1450
+Rp1451
+tp1452
+a(S'christopher riley'
+p1453
+g2
+(g6
+S'\xe7\xfa\x8b\xaa\x16\x90\xcb?'
+p1454
+tp1455
+Rp1456
+tp1457
+a(S'zond 4'
+p1458
+g2
+(g6
+S'Z\xd00\xbe&\x88\xcb?'
+p1459
+tp1460
+Rp1461
+tp1462
+a(S'astronautics'
+p1463
+g2
+(g6
+S'B\x97*\x85\xf9\x86\xcb?'
+p1464
+tp1465
+Rp1466
+tp1467
+a(S'eugene cernan'
+p1468
+g2
+(g6
+S'e^BnJ\x86\xcb?'
+p1469
+tp1470
+Rp1471
+tp1472
+a(S'space warfare in fiction'
+p1473
+g2
+(g6
+S'fJ\x10\x8an\x85\xcb?'
+p1474
+tp1475
+Rp1476
+tp1477
+a(S'lunar effect'
+p1478
+g2
+(g6
+S'\x07\xc1f\x1b1\x84\xcb?'
+p1479
+tp1480
+Rp1481
+tp1482
+a(S'george abbey'
+p1483
+g2
+(g6
+S'a\x1d6\xad\n\x82\xcb?'
+p1484
+tp1485
+Rp1486
+tp1487
+a(S'peter diamandis'
+p1488
+g2
+(g6
+S'k\xeb\xd7\xd5\xee\x80\xcb?'
+p1489
+tp1490
+Rp1491
+tp1492
+a(S'glynn lunney'
+p1493
+g2
+(g6
+S'\x06"\\\x91\xda~\xcb?'
+p1494
+tp1495
+Rp1496
+tp1497
+a(S'andy thomas'
+p1498
+g2
+(g6
+S'F\xf7\xd6\xdfir\xcb?'
+p1499
+tp1500
+Rp1501
+tp1502
+a(S'b612 foundation'
+p1503
+g2
+(g6
+S'-x<\xa2\\o\xcb?'
+p1504
+tp1505
+Rp1506
+tp1507
+a(S'zero gravity (disambiguation)'
+p1508
+g2
+(g6
+S'\x9a\x97\x1f\x92\x15e\xcb?'
+p1509
+tp1510
+Rp1511
+tp1512
+a.

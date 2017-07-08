@@ -1,0 +1,2728 @@
+(lp0
+(S'stanford university computer science'
+p1
+cnumpy.core.multiarray
+scalar
+p2
+(cnumpy
+dtype
+p3
+(S'f8'
+p4
+I0
+I1
+tp5
+Rp6
+(I3
+S'<'
+p7
+NNNI-1
+I-1
+I0
+tp8
+bS'\xfb\xff\xff\xff\xff\xff\xef?'
+p9
+tp10
+Rp11
+tp12
+a(S'turing (disambiguation)'
+p13
+g2
+(g6
+S'\xf8\x1dF\x04\xdf\x1b\xe2?'
+p14
+tp15
+Rp16
+tp17
+a(S'alan turing'
+p18
+g2
+(g6
+S',\x1f\xbc\xb0\xb0\xd9\xe1?'
+p19
+tp20
+Rp21
+tp22
+a(S'alan turing centenary conference'
+p23
+g2
+(g6
+S'\x00[\x8bW_\xdb\xe0?'
+p24
+tp25
+Rp26
+tp27
+a(S'alan turing year'
+p28
+g2
+(g6
+S'Ht\xa2\xb1\x93\xc9\xe0?'
+p29
+tp30
+Rp31
+tp32
+a(S'turing completeness'
+p33
+g2
+(g6
+S'\x08_\xfdV\x7f\x92\xe0?'
+p34
+tp35
+Rp36
+tp37
+a(S'turing (programming language)'
+p38
+g2
+(g6
+S'\x85z\xe8\x87\x13\x80\xe0?'
+p39
+tp40
+Rp41
+tp42
+a(S'list of jewish american computer scientists'
+p43
+g2
+(g6
+S'\xbd\xac:e\tp\xe0?'
+p44
+tp45
+Rp46
+tp47
+a(S'turing test'
+p48
+g2
+(g6
+S'\xeb\xf4\xa4*\x06b\xdf?'
+p49
+tp50
+Rp51
+tp52
+a(S'the imitation game'
+p53
+g2
+(g6
+S'\x1ac\xa9\xec2/\xdf?'
+p54
+tp55
+Rp56
+tp57
+a(S'turing test (disambiguation)'
+p58
+g2
+(g6
+S'43Z\x16\x7f\xfe\xdd?'
+p59
+tp60
+Rp61
+tp62
+a(S'codebreaker (film)'
+p63
+g2
+(g6
+S'k\x9e\x9f\x04\xab\xd6\xdd?'
+p64
+tp65
+Rp66
+tp67
+a(S'universal turing machine'
+p68
+g2
+(g6
+S'\x1cS\x9fXO\xca\xdd?'
+p69
+tp70
+Rp71
+tp72
+a(S'turing machine'
+p73
+g2
+(g6
+S'_\xd5z\xcc\xd1\xa5\xdd?'
+p74
+tp75
+Rp76
+tp77
+a(S'computing machinery and intelligence'
+p78
+g2
+(g6
+S'|B?\x0f\xd4\xc2\xdc?'
+p79
+tp80
+Rp81
+tp82
+a(S'reverse turing test'
+p83
+g2
+(g6
+S'T\x88Z\x80_\xaa\xdc?'
+p84
+tp85
+Rp86
+tp87
+a(S'turing baronets'
+p88
+g2
+(g6
+S'L\xf2\xff\xf1\xf3\xa5\xdc?'
+p89
+tp90
+Rp91
+tp92
+a(S'turing foundation'
+p93
+g2
+(g6
+S'\xf6VM\x10UR\xdc?'
+p94
+tp95
+Rp96
+tp97
+a(S'jack copeland'
+p98
+g2
+(g6
+S'\xd2\xd9\xd2\xb9\xdb8\xdc?'
+p99
+tp100
+Rp101
+tp102
+a(S'department of computer science, university of illinois at urbana\xe2\x80\x93champaign'
+p103
+g2
+(g6
+S'\x0cP\x93\x84\r.\xdc?'
+p104
+tp105
+Rp106
+tp107
+a(S'turing tarpit'
+p108
+g2
+(g6
+S')Wf>\xec+\xdc?'
+p109
+tp110
+Rp111
+tp112
+a(S'list of stanford university people'
+p113
+g2
+(g6
+S'\xae\xd7\x89.\xa4\x07\xdc?'
+p114
+tp115
+Rp116
+tp117
+a(S'breaking the code'
+p118
+g2
+(g6
+S'\xdc\x9a;Vm\xee\xdb?'
+p119
+tp120
+Rp121
+tp122
+a(S'history of computer science'
+p123
+g2
+(g6
+S'\xa5\x8f\xde\x9a\xde\xe4\xdb?'
+p124
+tp125
+Rp126
+tp127
+a(S'alan turing memorial'
+p128
+g2
+(g6
+S'-G\xfeS\xd1\xc5\xdb?'
+p129
+tp130
+Rp131
+tp132
+a(S'computer university, pyay'
+p133
+g2
+(g6
+S'\xf6\xfb\x00\x17\x02Z\xdb?'
+p134
+tp135
+Rp136
+tp137
+a(S'multi-track turing machine'
+p138
+g2
+(g6
+S' 9\x82\x9f\xbb\x1d\xdb?'
+p139
+tp140
+Rp141
+tp142
+a(S'eugene goostman'
+p143
+g2
+(g6
+S'\xe4}\x0fD\xdf\x10\xdb?'
+p144
+tp145
+Rp146
+tp147
+a(S'turing jump'
+p148
+g2
+(g6
+S'gd\xeb\xcf,\xc6\xda?'
+p149
+tp150
+Rp151
+tp152
+a(S'e. allen emerson'
+p153
+g2
+(g6
+S'\xb1\x85\xff\x88\xb3\x99\xda?'
+p154
+tp155
+Rp156
+tp157
+a(S'description number'
+p158
+g2
+(g6
+S']\xaf\xdc\xed2N\xda?'
+p159
+tp160
+Rp161
+tp162
+a(S'turing degree'
+p163
+g2
+(g6
+S'\xae~p\xee\x07\xe1\xd9?'
+p164
+tp165
+Rp166
+tp167
+a(S'department of computer science (university of toronto)'
+p168
+g2
+(g6
+S'3\x1b\xf1\xb0\x94\xd1\xd9?'
+p169
+tp170
+Rp171
+tp172
+a(S'church\xe2\x80\x93turing thesis'
+p173
+g2
+(g6
+S'uoG\x9d\xb5\xbf\xd9?'
+p174
+tp175
+Rp176
+tp177
+a(S'post\xe2\x80\x93turing machine'
+p178
+g2
+(g6
+S'7O\xb0\xb2\xf2\xa7\xd9?'
+p179
+tp180
+Rp181
+tp182
+a(S'turing reduction'
+p183
+g2
+(g6
+S'%[D\xc9\xf4\xa0\xd9?'
+p184
+tp185
+Rp186
+tp187
+a(S'dalhousie university faculty of computer science'
+p188
+g2
+(g6
+S'\x0eY\xde\xbe\xd9u\xd9?'
+p189
+tp190
+Rp191
+tp192
+a(S'foveran'
+p193
+g2
+(g6
+S'\x13Z%\xb3\x9bc\xd9?'
+p194
+tp195
+Rp196
+tp197
+a(S'fanny jean turing'
+p198
+g2
+(g6
+S'\xf9\xa4\x07\x02\x11T\xd9?'
+p199
+tp200
+Rp201
+tp202
+a(S'robert m. french'
+p203
+g2
+(g6
+S'\x8f&\xca\t\xe6G\xd9?'
+p204
+tp205
+Rp206
+tp207
+a(S'unambiguous turing machine'
+p208
+g2
+(g6
+S'_\x9c\xce\xe11;\xd9?'
+p209
+tp210
+Rp211
+tp212
+a(S'turing robot'
+p213
+g2
+(g6
+S'\xe6E\x1c\x8f\x01*\xd9?'
+p214
+tp215
+Rp216
+tp217
+a(S'university of computer studies, yangon'
+p218
+g2
+(g6
+S"\x10y*B,'\xd9?"
+p219
+tp220
+Rp221
+tp222
+a(S'computer science'
+p223
+g2
+(g6
+S'\xb1\xfbH\x01k\x14\xd9?'
+p224
+tp225
+Rp226
+tp227
+a(S'alan turing (sculpture)'
+p228
+g2
+(g6
+S'\xa4\xf2\xab\xacd\n\xd9?'
+p229
+tp230
+Rp231
+tp232
+a(S'list of pioneers in computer science'
+p233
+g2
+(g6
+S'\xedT\xb5\x9bL\x05\xd9?'
+p234
+tp235
+Rp236
+tp237
+a(S'alan turing institute'
+p238
+g2
+(g6
+S'\xa1a\xdb\x81\x16\xe8\xd8?'
+p239
+tp240
+Rp241
+tp242
+a(S'hypercomputation'
+p243
+g2
+(g6
+S'\x8e\xd9d\x1cp4\xd8?'
+p244
+tp245
+Rp246
+tp247
+a(S"wolfram's 2-state 3-symbol turing machine"
+p248
+g2
+(g6
+S'\xb6\x1f+\xf8\xbc%\xd8?'
+p249
+tp250
+Rp251
+tp252
+a(S'peter naur'
+p253
+g2
+(g6
+S'\xe5\xcdk\xb0`!\xd8?'
+p254
+tp255
+Rp256
+tp257
+a(S'super-recursive algorithm'
+p258
+g2
+(g6
+S'\x1ac\xa6w\x8f\xf7\xd7?'
+p259
+tp260
+Rp261
+tp262
+a(S'joseph sifakis'
+p263
+g2
+(g6
+S'\xfa[%\xe3#\xe2\xd7?'
+p264
+tp265
+Rp266
+tp267
+a(S'the turing test (novel)'
+p268
+g2
+(g6
+S'k~I1\xf2\xda\xd7?'
+p269
+tp270
+Rp271
+tp272
+a(S'amir pnueli'
+p273
+g2
+(g6
+S'p\xd3d\x9d`\xba\xd7?'
+p274
+tp275
+Rp276
+tp277
+a(S'computer pioneer award'
+p278
+g2
+(g6
+S'\x91\xd4\xce\xa1\xb8\xa7\xd7?'
+p279
+tp280
+Rp281
+tp282
+a(S'david r. cheriton school of computer science'
+p283
+g2
+(g6
+S'B\xd0\xf6q\xa4\x8c\xd7?'
+p284
+tp285
+Rp286
+tp287
+a(S'turing (cipher)'
+p288
+g2
+(g6
+S'\xfc\xc1\xc6\xff\xeep\xd7?'
+p289
+tp290
+Rp291
+tp292
+a(S'random-access turing machine'
+p293
+g2
+(g6
+S'C\xd2\xcf\xa5\x87m\xd7?'
+p294
+tp295
+Rp296
+tp297
+a(S'women in computing'
+p298
+g2
+(g6
+S'\xf3H\xe6m\xaa]\xd7?'
+p299
+tp300
+Rp301
+tp302
+a(S'computer scientist'
+p303
+g2
+(g6
+S'\xa5\xdb\xc0\x06\xf4\\\xd7?'
+p304
+tp305
+Rp306
+tp307
+a(S'fred brooks'
+p308
+g2
+(g6
+S'.\xb5\xe87\x14\x16\xd7?'
+p309
+tp310
+Rp311
+tp312
+a(S'graphics turing test'
+p313
+g2
+(g6
+S'\x18\xda\x05M\xdb\xe7\xd6?'
+p314
+tp315
+Rp316
+tp317
+a(S'turing machine gallery'
+p318
+g2
+(g6
+S'\x1eV\xaa\x95\xf8\xe0\xd6?'
+p319
+tp320
+Rp321
+tp322
+a(S'george stibitz'
+p323
+g2
+(g6
+S"*\x0c%['\xdc\xd6?"
+p324
+tp325
+Rp326
+tp327
+a(S'artificial stupidity'
+p328
+g2
+(g6
+S'^\xc0cca\xac\xd6?'
+p329
+tp330
+Rp331
+tp332
+a(S'lawrence rauchwerger'
+p333
+g2
+(g6
+S"\x86\x05A'\x96\x91\xd6?"
+p334
+tp335
+Rp336
+tp337
+a(S'barbara liskov'
+p338
+g2
+(g6
+S'\x1e\x8c\x06\x08\xd9n\xd6?'
+p339
+tp340
+Rp341
+tp342
+a(S"solomonoff's theory of inductive inference"
+p343
+g2
+(g6
+S'\xd2\x98\xdb#oX\xd6?'
+p344
+tp345
+Rp346
+tp347
+a(S'automatic computing engine'
+p348
+g2
+(g6
+S':\x1b\x81Z\xdaK\xd6?'
+p349
+tp350
+Rp351
+tp352
+a(S'computer'
+p353
+g2
+(g6
+S'\x16\x04\xd0\xfb\xacG\xd6?'
+p354
+tp355
+Rp356
+tp357
+a(S'university of computer studies, mandalay'
+p358
+g2
+(g6
+S'-\x8co&?@\xd6?'
+p359
+tp360
+Rp361
+tp362
+a(S'christof teuscher'
+p363
+g2
+(g6
+S'\xb9(\x85\xe3\xf8+\xd6?'
+p364
+tp365
+Rp366
+tp367
+a(S'shatt al-arab university college'
+p368
+g2
+(g6
+S'$>\xe2y\x85\x1f\xd6?'
+p369
+tp370
+Rp371
+tp372
+a(S'shafi goldwasser'
+p373
+g2
+(g6
+S'\xf6sP\xe8~\xf8\xd5?'
+p374
+tp375
+Rp376
+tp377
+a(S'unorganized machine'
+p378
+g2
+(g6
+S'\xd4tg\xc3\r\xf5\xd5?'
+p379
+tp380
+Rp381
+tp382
+a(S'sackville gardens'
+p383
+g2
+(g6
+S'n\xc7.v\x9a\xee\xd5?'
+p384
+tp385
+Rp386
+tp387
+a(S'turing pharmaceuticals'
+p388
+g2
+(g6
+S'\xb73\xf5\x8fJ\xb6\xd5?'
+p389
+tp390
+Rp391
+tp392
+a(S'enumerator'
+p393
+g2
+(g6
+S'w\xec\xff$\x98\xb1\xd5?'
+p394
+tp395
+Rp396
+tp397
+a(S'arra (computer)'
+p398
+g2
+(g6
+S'\xb6z\x0cwt\xae\xd5?'
+p399
+tp400
+Rp401
+tp402
+a(S'silvio micali'
+p403
+g2
+(g6
+S'\xecjP\x04C\xa9\xd5?'
+p404
+tp405
+Rp406
+tp407
+a(S'list of fictional computers'
+p408
+g2
+(g6
+S'\xd5\x19\xdd+m\xa0\xd5?'
+p409
+tp410
+Rp411
+tp412
+a(S'turing machine (band)'
+p413
+g2
+(g6
+S'\xed\x90zZo\x92\xd5?'
+p414
+tp415
+Rp416
+tp417
+a(S'university of maryland department of computer science'
+p418
+g2
+(g6
+S'\xa3\xbb\xa2\xcf\x91\x8d\xd5?'
+p419
+tp420
+Rp421
+tp422
+a(S'mcgill university school of computer science'
+p423
+g2
+(g6
+S'1lC\x0bF\x87\xd5?'
+p424
+tp425
+Rp426
+tp427
+a(S'andrew hodges'
+p428
+g2
+(g6
+S'\xca\xd3u\x0cEy\xd5?'
+p429
+tp430
+Rp431
+tp432
+a(S'the annotated turing'
+p433
+g2
+(g6
+S'R\xfd\xf6Swu\xd5?'
+p434
+tp435
+Rp436
+tp437
+a(S'martin measure'
+p438
+g2
+(g6
+S'\xe3&I7)n\xd5?'
+p439
+tp440
+Rp441
+tp442
+a(S'list of computer scientists'
+p443
+g2
+(g6
+S'\xbcA\x0f\n\x8e\x1b\xd5?'
+p444
+tp445
+Rp446
+tp447
+a(S'outline of computers'
+p448
+g2
+(g6
+S'\x10\xf9\x08\xe2\x19\x14\xd5?'
+p449
+tp450
+Rp451
+tp452
+a(S'non-deterministic turing machine'
+p453
+g2
+(g6
+S'4\x1cj\xd0\xf5\x0f\xd5?'
+p454
+tp455
+Rp456
+tp457
+a(S'symmetric turing machine'
+p458
+g2
+(g6
+S'Tp\xd0\xaar\xf7\xd4?'
+p459
+tp460
+Rp461
+tp462
+a(S'mehran sahami'
+p463
+g2
+(g6
+S'X\xb9\xfb\x06\x86\xe8\xd4?'
+p464
+tp465
+Rp466
+tp467
+a(S'hugh loebner'
+p468
+g2
+(g6
+S'\x98\xa8@C\xe0\xe3\xd4?'
+p469
+tp470
+Rp471
+tp472
+a(S'thomas e. anderson'
+p473
+g2
+(g6
+S'\xba\xa5\xf8\x84\xca\xdb\xd4?'
+p474
+tp475
+Rp476
+tp477
+a(S'probabilistic turing machine'
+p478
+g2
+(g6
+S'(\xdc\x85\xebS\xd7\xd4?'
+p479
+tp480
+Rp481
+tp482
+a(S'information and computer science'
+p483
+g2
+(g6
+S'\x90s\x87\xa9\xbc\xd6\xd4?'
+p484
+tp485
+Rp486
+tp487
+a(S'turing lecture'
+p488
+g2
+(g6
+S'\x88xRaw\xd3\xd4?'
+p489
+tp490
+Rp491
+tp492
+a(S'len shustek'
+p493
+g2
+(g6
+S'\x94\xe3o\x8cu\xce\xd4?'
+p494
+tp495
+Rp496
+tp497
+a(S'international computer science institute'
+p498
+g2
+(g6
+S'\xd1+!}\x83\xcb\xd4?'
+p499
+tp500
+Rp501
+tp502
+a(S'computability'
+p503
+g2
+(g6
+S'&4\x02n\x87\xc2\xd4?'
+p504
+tp505
+Rp506
+tp507
+a(S'michael t. goodrich'
+p508
+g2
+(g6
+S'\xda\xd8\x1f\x1e\x07\xc0\xd4?'
+p509
+tp510
+Rp511
+tp512
+a(S'computer networks: the heralds of resource sharing'
+p513
+g2
+(g6
+S'\x9cH\xce\x11\x93\xba\xd4?'
+p514
+tp515
+Rp516
+tp517
+a(S'multitape turing machine'
+p518
+g2
+(g6
+S',\xe8\xcb\xdeS\xb9\xd4?'
+p519
+tp520
+Rp521
+tp522
+a(S'machine that always halts'
+p523
+g2
+(g6
+S"1]'\xc6+\xb7\xd4?"
+p524
+tp525
+Rp526
+tp527
+a(S'theodore slaman'
+p528
+g2
+(g6
+S'\xda\x14\xaf\x9c\xa5\xb3\xd4?'
+p529
+tp530
+Rp531
+tp532
+a(S'turing machine examples'
+p533
+g2
+(g6
+S'^\xce\xde\xbd:\x93\xd4?'
+p534
+tp535
+Rp536
+tp537
+a(S'bachelor of computer science'
+p538
+g2
+(g6
+S'&\x02,\xd1\xc8}\xd4?'
+p539
+tp540
+Rp541
+tp542
+a(S'hava siegelmann'
+p543
+g2
+(g6
+S'm\xd0\x0b7Ww\xd4?'
+p544
+tp545
+Rp546
+tp547
+a(S'turing institute'
+p548
+g2
+(g6
+S'"\xe6\xeaS\x8bs\xd4?'
+p549
+tp550
+Rp551
+tp552
+a(S'church\xe2\x80\x93turing\xe2\x80\x93deutsch principle'
+p553
+g2
+(g6
+S'\x85\xc7\x97]\xe6c\xd4?'
+p554
+tp555
+Rp556
+tp557
+a(S'subject matter expert turing test'
+p558
+g2
+(g6
+S'\x83\xb4\x8fmcH\xd4?'
+p559
+tp560
+Rp561
+tp562
+a(S'weizmann institute of science'
+p563
+g2
+(g6
+S'\x99\xa1s\x8c\r2\xd4?'
+p564
+tp565
+Rp566
+tp567
+a(S'turing machine equivalents'
+p568
+g2
+(g6
+S'^v\xb5~\x01$\xd4?'
+p569
+tp570
+Rp571
+tp572
+a(S'entscheidungsproblem'
+p573
+g2
+(g6
+S'l\x7f\xa6\x82\xbb#\xd4?'
+p574
+tp575
+Rp576
+tp577
+a(S'carnegie mellon school of computer science'
+p578
+g2
+(g6
+S'6GP\x02v\x1c\xd4?'
+p579
+tp580
+Rp581
+tp582
+a(S'nell b. dale'
+p583
+g2
+(g6
+S'\x08\xed*\x88\xaf\x16\xd4?'
+p584
+tp585
+Rp586
+tp587
+a(S'university of utah school of computing'
+p588
+g2
+(g6
+S'\xab\x18\xd5S\x94\x0b\xd4?'
+p589
+tp590
+Rp591
+tp592
+a(S'singaperbangsa university'
+p593
+g2
+(g6
+S'\xcd\x03\xc9D\x95\x08\xd4?'
+p594
+tp595
+Rp596
+tp597
+a(S'malament\xe2\x80\x93hogarth spacetime'
+p598
+g2
+(g6
+S'\xf3\xa7\xa7x\x84\x08\xd4?'
+p599
+tp600
+Rp601
+tp602
+a(S'raj reddy'
+p603
+g2
+(g6
+S't\x82,\xf4\xf1\x07\xd4?'
+p604
+tp605
+Rp606
+tp607
+a(S'summer school marktoberdorf'
+p608
+g2
+(g6
+S'\x02-\x18\x98R\xfb\xd3?'
+p609
+tp610
+Rp611
+tp612
+a(S'alan h. borning'
+p613
+g2
+(g6
+S'6C$\x90\xfa\xf4\xd3?'
+p614
+tp615
+Rp616
+tp617
+a(S'eric s. roberts'
+p618
+g2
+(g6
+S'\x04\x1e\r\xb0c\xea\xd3?'
+p619
+tp620
+Rp621
+tp622
+a(S'gates computer science building, stanford'
+p623
+g2
+(g6
+S'.\x87\x94o;\xce\xd3?'
+p624
+tp625
+Rp626
+tp627
+a(S'up diliman department of computer science'
+p628
+g2
+(g6
+S'\xf8\xfc\xe5\xcf\xc0\xcb\xd3?'
+p629
+tp630
+Rp631
+tp632
+a(S'university of colorado boulder computer science department'
+p633
+g2
+(g6
+S'?y+\x8d\xf5\xc8\xd3?'
+p634
+tp635
+Rp636
+tp637
+a(S'computer-aided'
+p638
+g2
+(g6
+S'$\xb0\xed\xab\x88\xc8\xd3?'
+p639
+tp640
+Rp641
+tp642
+a(S'minya university'
+p643
+g2
+(g6
+S'\x7f0!p\x1d\xc7\xd3?'
+p644
+tp645
+Rp646
+tp647
+a(S'computer laboratory, university of cambridge'
+p648
+g2
+(g6
+S'\x8a\xc86}V\xc6\xd3?'
+p649
+tp650
+Rp651
+tp652
+a(S'benadir university'
+p653
+g2
+(g6
+S'\xed<\xdb\n\xb2\xaf\xd3?'
+p654
+tp655
+Rp656
+tp657
+a(S'alick glennie'
+p658
+g2
+(g6
+S'\xe8\x943w\x94\xae\xd3?'
+p659
+tp660
+Rp661
+tp662
+a(S'robert tarjan'
+p663
+g2
+(g6
+S'hr=\x897\xae\xd3?'
+p664
+tp665
+Rp666
+tp667
+a(S'computer space forum'
+p668
+g2
+(g6
+S'\x0e\xa9\n\xbd\xce\xa4\xd3?'
+p669
+tp670
+Rp671
+tp672
+a(S'digital physics'
+p673
+g2
+(g6
+S'\xa3hm\x01\xb9\xa3\xd3?'
+p674
+tp675
+Rp676
+tp677
+a(S'computer processing of body language'
+p678
+g2
+(g6
+S'\xe7\xd2*\x1b6\x9c\xd3?'
+p679
+tp680
+Rp681
+tp682
+a(S'edward feigenbaum'
+p683
+g2
+(g6
+S'\x80AJD\x11\x9b\xd3?'
+p684
+tp685
+Rp686
+tp687
+a(S'h\xc3\xa9ctor garc\xc3\xada-molina'
+p688
+g2
+(g6
+S'#\xf3\xb5\x94\xd1\x94\xd3?'
+p689
+tp690
+Rp691
+tp692
+a(S'steven k. feiner'
+p693
+g2
+(g6
+S'(_%\x03\xd1l\xd3?'
+p694
+tp695
+Rp696
+tp697
+a(S'samuel n. alexander'
+p698
+g2
+(g6
+S'\xf7\xde\xf74\xc1k\xd3?'
+p699
+tp700
+Rp701
+tp702
+a(S'richard zemel'
+p703
+g2
+(g6
+S'\xae\xbf\xa2\x9c\x1cj\xd3?'
+p704
+tp705
+Rp706
+tp707
+a(S'barbara boucher owens'
+p708
+g2
+(g6
+S'll\xec4\xb4Y\xd3?'
+p709
+tp710
+Rp711
+tp712
+a(S'alan perlis'
+p713
+g2
+(g6
+S'\xe5$\xed}\xb8V\xd3?'
+p714
+tp715
+Rp716
+tp717
+a(S'northeastern university college of computer and information science'
+p718
+g2
+(g6
+S'o\xfa\xda\xf0\xa4O\xd3?'
+p719
+tp720
+Rp721
+tp722
+a(S'international computer games association'
+p723
+g2
+(g6
+S'K\x9c\xdb\xdf\xf8H\xd3?'
+p724
+tp725
+Rp726
+tp727
+a(S'faculty award'
+p728
+g2
+(g6
+S'V\x87\xf3\xa3\x038\xd3?'
+p729
+tp730
+Rp731
+tp732
+a(S'david salesin'
+p733
+g2
+(g6
+S'L\x89\xd5 \x8a4\xd3?'
+p734
+tp735
+Rp736
+tp737
+a(S'list of university of pittsburgh faculty'
+p738
+g2
+(g6
+S'D \xcfi+3\xd3?'
+p739
+tp740
+Rp741
+tp742
+a(S'martin shkreli'
+p743
+g2
+(g6
+S'\xb6\xfe\xbc\xbd\x95\x1e\xd3?'
+p744
+tp745
+Rp746
+tp747
+a(S'john hopcroft'
+p748
+g2
+(g6
+S'Hi\xf9\xb0d\x19\xd3?'
+p749
+tp750
+Rp751
+tp752
+a(S'computer hope'
+p753
+g2
+(g6
+S'\x88K\x02Kj\x00\xd3?'
+p754
+tp755
+Rp756
+tp757
+a(S'oren etzioni'
+p758
+g2
+(g6
+S'\xc7+\xc5\xa6\t\xfd\xd2?'
+p759
+tp760
+Rp761
+tp762
+a(S'algorithm characterizations'
+p763
+g2
+(g6
+S'd\x1a\x97r\xdb\xf0\xd2?'
+p764
+tp765
+Rp766
+tp767
+a(S'computer rage'
+p768
+g2
+(g6
+S'c\xceQ)\xc8\xe7\xd2?'
+p769
+tp770
+Rp771
+tp772
+a(S'computer university, thaton'
+p773
+g2
+(g6
+S'\xf0\x07\xde\xe4O\xe2\xd2?'
+p774
+tp775
+Rp776
+tp777
+a(S'computer (disambiguation)'
+p778
+g2
+(g6
+S'\xfe\x90\x1f\xa1\x9d\xde\xd2?'
+p779
+tp780
+Rp781
+tp782
+a(S'sohag university'
+p783
+g2
+(g6
+S'b\xff\xca\xc0V\xd9\xd2?'
+p784
+tp785
+Rp786
+tp787
+a(S'department of computer science, university of oxford'
+p788
+g2
+(g6
+S'{\x98\x02\xc1\x17\xcd\xd2?'
+p789
+tp790
+Rp791
+tp792
+a(S'barbara g. ryder'
+p793
+g2
+(g6
+S'\xae\xf82\x88\xdd\xc8\xd2?'
+p794
+tp795
+Rp796
+tp797
+a(S'nyu tandon school of engineering lynford lecture series'
+p798
+g2
+(g6
+S'6\x80\xe9\xd7\xb2\xc8\xd2?'
+p799
+tp800
+Rp801
+tp802
+a(S'quantum turing machine'
+p803
+g2
+(g6
+S'\x13j\xc6\xd4\x8f\xc4\xd2?'
+p804
+tp805
+Rp806
+tp807
+a(S'computer literacy'
+p808
+g2
+(g6
+S'\x9bs\x10\x89\xf0\xbf\xd2?'
+p809
+tp810
+Rp811
+tp812
+a(S'searcc'
+p813
+g2
+(g6
+S'\xc4\xb1\x01\xa0f\xbd\xd2?'
+p814
+tp815
+Rp816
+tp817
+a(S'ideological turing test'
+p818
+g2
+(g6
+S'S<l\xfc3\xbb\xd2?'
+p819
+tp820
+Rp821
+tp822
+a(S'history of computing hardware'
+p823
+g2
+(g6
+S'\xb4\x10R\x85j\xb5\xd2?'
+p824
+tp825
+Rp826
+tp827
+a(S'terry winograd'
+p828
+g2
+(g6
+S'\x086\xb8|^\xae\xd2?'
+p829
+tp830
+Rp831
+tp832
+a(S'departments of the itmo university'
+p833
+g2
+(g6
+S'i:\x14\x9fs\xa0\xd2?'
+p834
+tp835
+Rp836
+tp837
+a(S'edmund m. clarke'
+p838
+g2
+(g6
+S'\xc1\xe5f4\xa7\x9a\xd2?'
+p839
+tp840
+Rp841
+tp842
+a(S'your computer (australian magazine)'
+p843
+g2
+(g6
+S'\t\xeb\xfd\xfe\x1d\x99\xd2?'
+p844
+tp845
+Rp846
+tp847
+a(S'assiut university'
+p848
+g2
+(g6
+S'>\xc4E6\x96\x98\xd2?'
+p849
+tp850
+Rp851
+tp852
+a(S'turing switch'
+p853
+g2
+(g6
+S'\xc8\x93\xca\x94m\x93\xd2?'
+p854
+tp855
+Rp856
+tp857
+a(S'the home computer advanced course'
+p858
+g2
+(g6
+S'O\xc6\x81\xad\x10~\xd2?'
+p859
+tp860
+Rp861
+tp862
+a(S'ellen spertus'
+p863
+g2
+(g6
+S'\x81\x8c\xd8\xc8\xf2k\xd2?'
+p864
+tp865
+Rp866
+tp867
+a(S'university "marta abreu" of las villas'
+p868
+g2
+(g6
+S'\xb2\xc9\x85_\xaek\xd2?'
+p869
+tp870
+Rp871
+tp872
+a(S'computability theory'
+p873
+g2
+(g6
+S'\xc3\xdb\xbc\x8bdh\xd2?'
+p874
+tp875
+Rp876
+tp877
+a(S'ellen w. zegura'
+p878
+g2
+(g6
+S'\xc8\xb5f\xd6\xa4f\xd2?'
+p879
+tp880
+Rp881
+tp882
+a(S'computer program'
+p883
+g2
+(g6
+S'S\x88\xe2^\xaf\\\xd2?'
+p884
+tp885
+Rp886
+tp887
+a(S'the computer museum, boston'
+p888
+g2
+(g6
+S'\x87\x86|U*[\xd2?'
+p889
+tp890
+Rp891
+tp892
+a(S'read-only right moving turing machines'
+p893
+g2
+(g6
+S'!\xb7\xde\x94JX\xd2?'
+p894
+tp895
+Rp896
+tp897
+a(S'outline of computing'
+p898
+g2
+(g6
+S'\xcd\x98\x0fe\xccM\xd2?'
+p899
+tp900
+Rp901
+tp902
+a(S'ric holt'
+p903
+g2
+(g6
+S'vM\xf7?\xacI\xd2?'
+p904
+tp905
+Rp906
+tp907
+a(S'computer music'
+p908
+g2
+(g6
+S'\xe5X\x08\x02\x0bD\xd2?'
+p909
+tp910
+Rp911
+tp912
+a(S'helwan university'
+p913
+g2
+(g6
+S'\xfcH\x91\x1c\xe6A\xd2?'
+p914
+tp915
+Rp916
+tp917
+a(S'allen newell'
+p918
+g2
+(g6
+S'\x17e\x90\xc7\xbd<\xd2?'
+p919
+tp920
+Rp921
+tp922
+a(S'andrew witkin'
+p923
+g2
+(g6
+S'\xca\x0f\x06\x0e{<\xd2?'
+p924
+tp925
+Rp926
+tp927
+a(S'ashok k. chandra'
+p928
+g2
+(g6
+S'MG\x1c\xb5i<\xd2?'
+p929
+tp930
+Rp931
+tp932
+a(S'computer game (disambiguation)'
+p933
+g2
+(g6
+S'\xc4\xa3\xe3]\x9d:\xd2?'
+p934
+tp935
+Rp936
+tp937
+a(S'mary k. vernon'
+p938
+g2
+(g6
+S'\x86![\rf:\xd2?'
+p939
+tp940
+Rp941
+tp942
+a(S'jack dennis'
+p943
+g2
+(g6
+S'A\x93\xe8\x82H6\xd2?'
+p944
+tp945
+Rp946
+tp947
+a(S'dit faculty of science'
+p948
+g2
+(g6
+S'7\xa3\x81\x8d6(\xd2?'
+p949
+tp950
+Rp951
+tp952
+a(S'harry mairson'
+p953
+g2
+(g6
+S'\x88\xad\x9cEb\x1b\xd2?'
+p954
+tp955
+Rp956
+tp957
+a(S'list of computing people'
+p958
+g2
+(g6
+S'6u\xb0\xdaE\x18\xd2?'
+p959
+tp960
+Rp961
+tp962
+a(S'hodeidah university'
+p963
+g2
+(g6
+S'\x9b\x89\xe1\x85A\n\xd2?'
+p964
+tp965
+Rp966
+tp967
+a(S'turing award'
+p968
+g2
+(g6
+S'\x8a\xc5}\x96F\x06\xd2?'
+p969
+tp970
+Rp971
+tp972
+a(S'pieter geelen'
+p973
+g2
+(g6
+S'\x80l\x91\xacw\xfc\xd1?'
+p974
+tp975
+Rp976
+tp977
+a(S'susan h. rodger'
+p978
+g2
+(g6
+S'\x94\xce\xcb\xb3\xac\xfa\xd1?'
+p979
+tp980
+Rp981
+tp982
+a(S'mike cafarella'
+p983
+g2
+(g6
+S'y\x12\x0b!\xf2\xf9\xd1?'
+p984
+tp985
+Rp986
+tp987
+a(S'university of texas at austin college of natural sciences'
+p988
+g2
+(g6
+S'\x92Y\xb2\x93\xda\xef\xd1?'
+p989
+tp990
+Rp991
+tp992
+a(S'cyberpathology'
+p993
+g2
+(g6
+S'j\xd2\x9e\xd0\xb6\xef\xd1?'
+p994
+tp995
+Rp996
+tp997
+a(S'computer university, monywa'
+p998
+g2
+(g6
+S'\xd6\xfe#\t+\xee\xd1?'
+p999
+tp1000
+Rp1001
+tp1002
+a(S'tracy camp'
+p1003
+g2
+(g6
+S'QD\x92b\x14\xe4\xd1?'
+p1004
+tp1005
+Rp1006
+tp1007
+a(S'susan l. graham'
+p1008
+g2
+(g6
+S'\x859p\x9e\x1b\xdb\xd1?'
+p1009
+tp1010
+Rp1011
+tp1012
+a(S'university of ruhuna'
+p1013
+g2
+(g6
+S'~\xd0`*\x9c\xd9\xd1?'
+p1014
+tp1015
+Rp1016
+tp1017
+a(S'p. v. s. rao'
+p1018
+g2
+(g6
+S'h\x0f1\xff\xdb\xd0\xd1?'
+p1019
+tp1020
+Rp1021
+tp1022
+a(S'ap computer science'
+p1023
+g2
+(g6
+S'e\x9a\x00\xe1\x0e\xcc\xd1?'
+p1024
+tp1025
+Rp1026
+tp1027
+a(S'jack dongarra'
+p1028
+g2
+(g6
+S'\xfe\xe5\xfa\xef\x97\xcb\xd1?'
+p1029
+tp1030
+Rp1031
+tp1032
+a(S'yoshua bengio'
+p1033
+g2
+(g6
+S'\x14K\t}6\xbc\xd1?'
+p1034
+tp1035
+Rp1036
+tp1037
+a(S'tony brooker'
+p1038
+g2
+(g6
+S'Z\x9f\x1a\xc1\xa4\xbb\xd1?'
+p1039
+tp1040
+Rp1041
+tp1042
+a(S'j.k institute of applied physics and technology'
+p1043
+g2
+(g6
+S'\x9e@\xc1\xc3\x06\xb7\xd1?'
+p1044
+tp1045
+Rp1046
+tp1047
+a(S'albert lindsey zobrist'
+p1048
+g2
+(g6
+S'\nE\x9c\x90\xee\xb3\xd1?'
+p1049
+tp1050
+Rp1051
+tp1052
+a(S'dimitris fotakis'
+p1053
+g2
+(g6
+S'\xcc\x96\xbdZ\xfd\xae\xd1?'
+p1054
+tp1055
+Rp1056
+tp1057
+a(S'hauppauge'
+p1058
+g2
+(g6
+S']{7G/\xa6\xd1?'
+p1059
+tp1060
+Rp1061
+tp1062
+a(S'oliver bimber'
+p1063
+g2
+(g6
+S'\xf3\xe2Me\x16\x9f\xd1?'
+p1064
+tp1065
+Rp1066
+tp1067
+a(S'john harper (computer engineer)'
+p1068
+g2
+(g6
+S'\x05v=\xd7\x0e\x9e\xd1?'
+p1069
+tp1070
+Rp1071
+tp1072
+a(S'larry s. davis'
+p1073
+g2
+(g6
+S'\xd8\xa5\xa8\x00\xa9\x9b\xd1?'
+p1074
+tp1075
+Rp1076
+tp1077
+a(S'ilya sutskever'
+p1078
+g2
+(g6
+S',2\xe1\x8c\xdf\x94\xd1?'
+p1079
+tp1080
+Rp1081
+tp1082
+a(S'venkatesan guruswami'
+p1083
+g2
+(g6
+S'\xe6w\xf9a\xe9\x8c\xd1?'
+p1084
+tp1085
+Rp1086
+tp1087
+a(S'brian a. barsky'
+p1088
+g2
+(g6
+S'\xa3q\x8c\xda\x07\x8c\xd1?'
+p1089
+tp1090
+Rp1091
+tp1092
+a(S"post's theorem"
+p1093
+g2
+(g6
+S'TRV\x06 \x89\xd1?'
+p1094
+tp1095
+Rp1096
+tp1097
+a(S"turing's proof"
+p1098
+g2
+(g6
+S')\xa6JF\xed\x88\xd1?'
+p1099
+tp1100
+Rp1101
+tp1102
+a(S'computer university, sittwe'
+p1103
+g2
+(g6
+S'\x14n\xf8bJ\x86\xd1?'
+p1104
+tp1105
+Rp1106
+tp1107
+a(S'manchester small-scale experimental machine'
+p1108
+g2
+(g6
+S'B>\x85\x11\xd6{\xd1?'
+p1109
+tp1110
+Rp1111
+tp1112
+a(S'constructible function'
+p1113
+g2
+(g6
+S'\xefE:4px\xd1?'
+p1114
+tp1115
+Rp1116
+tp1117
+a(S'brian harvey (lecturer)'
+p1118
+g2
+(g6
+S'k\x81\x0f\xcadx\xd1?'
+p1119
+tp1120
+Rp1121
+tp1122
+a(S'neil immerman'
+p1123
+g2
+(g6
+S'ml\x91\x91\xe3s\xd1?'
+p1124
+tp1125
+Rp1126
+tp1127
+a(S'ion creang\xc4\x83 pedagogical state university'
+p1128
+g2
+(g6
+S'\xea\x03\xa4\x92\xe8r\xd1?'
+p1129
+tp1130
+Rp1131
+tp1132
+a(S'fayoum university'
+p1133
+g2
+(g6
+S'\xefxK\x13\x93h\xd1?'
+p1134
+tp1135
+Rp1136
+tp1137
+a(S'list of bronx high school of science alumni'
+p1138
+g2
+(g6
+S'G\xca\xfd8\xb9f\xd1?'
+p1139
+tp1140
+Rp1141
+tp1142
+a(S'turing phone'
+p1143
+g2
+(g6
+S'\xc6\xaeV\xbb\x94f\xd1?'
+p1144
+tp1145
+Rp1146
+tp1147
+a(S'john guttag'
+p1148
+g2
+(g6
+S'\xa1\x98\xb6\xea\x99e\xd1?'
+p1149
+tp1150
+Rp1151
+tp1152
+a(S'kurt mehlhorn'
+p1153
+g2
+(g6
+S'\x84\xa1\xf1\xc1@_\xd1?'
+p1154
+tp1155
+Rp1156
+tp1157
+a(S'your computer (british magazine)'
+p1158
+g2
+(g6
+S'\x92\x7f\x14F\x82Z\xd1?'
+p1159
+tp1160
+Rp1161
+tp1162
+a(S'computer science in sport'
+p1163
+g2
+(g6
+S'\xdeg*\x18<Z\xd1?'
+p1164
+tp1165
+Rp1166
+tp1167
+a(S'steve cunningham (computer scientist)'
+p1168
+g2
+(g6
+S'\x1cg\xc1K\xf1V\xd1?'
+p1169
+tp1170
+Rp1171
+tp1172
+a(S'list of carnegie mellon university people'
+p1173
+g2
+(g6
+S'\x07\xe3,\xdb;V\xd1?'
+p1174
+tp1175
+Rp1176
+tp1177
+a(S'royal radar establishment automatic computer'
+p1178
+g2
+(g6
+S'\xc4\xc5\x00\xad\xc7T\xd1?'
+p1179
+tp1180
+Rp1181
+tp1182
+a(S'computer graphics (disambiguation)'
+p1183
+g2
+(g6
+S'],\x06\x08\xa8T\xd1?'
+p1184
+tp1185
+Rp1186
+tp1187
+a(S'william stallings'
+p1188
+g2
+(g6
+S'Yn\xdc\xfa\xc8Q\xd1?'
+p1189
+tp1190
+Rp1191
+tp1192
+a(S'demetri terzopoulos'
+p1193
+g2
+(g6
+S'\x85\x17\xe1\x14`I\xd1?'
+p1194
+tp1195
+Rp1196
+tp1197
+a(S'stanford center for computers and the law'
+p1198
+g2
+(g6
+S'\xea\xbcx5\x8aC\xd1?'
+p1199
+tp1200
+Rp1201
+tp1202
+a(S'port said university'
+p1203
+g2
+(g6
+S'\xc4]j\r\x1dB\xd1?'
+p1204
+tp1205
+Rp1206
+tp1207
+a(S'university of kurdistan (iran)'
+p1208
+g2
+(g6
+S'\xbd\x0e\x92\xd0\xab6\xd1?'
+p1209
+tp1210
+Rp1211
+tp1212
+a(S'computer engineering'
+p1213
+g2
+(g6
+S'f\x83\x1bZ\xfd2\xd1?'
+p1214
+tp1215
+Rp1216
+tp1217
+a(S'university of campinas institute of computing'
+p1218
+g2
+(g6
+S'\x97\x8a[~\xef2\xd1?'
+p1219
+tp1220
+Rp1221
+tp1222
+a(S'outline of computer science'
+p1223
+g2
+(g6
+S'\x11|\xce\x1e\xaa2\xd1?'
+p1224
+tp1225
+Rp1226
+tp1227
+a(S'thomas sederberg'
+p1228
+g2
+(g6
+S'\x06<\xd9(\xf6*\xd1?'
+p1229
+tp1230
+Rp1231
+tp1232
+a(S'c. dianne martin'
+p1233
+g2
+(g6
+S'\x01\x80\xd2\x9a|&\xd1?'
+p1234
+tp1235
+Rp1236
+tp1237
+a(S'carla ellis'
+p1238
+g2
+(g6
+S'\x05\x03\x92m\xa0$\xd1?'
+p1239
+tp1240
+Rp1241
+tp1242
+a(S'reduction (recursion theory)'
+p1243
+g2
+(g6
+S'\xa8"\xb7&\xb8!\xd1?'
+p1244
+tp1245
+Rp1246
+tp1247
+a(S'toyota technological institute at chicago'
+p1248
+g2
+(g6
+S'\x00\xbaE)\xbc\x1e\xd1?'
+p1249
+tp1250
+Rp1251
+tp1252
+a(S'baresan university'
+p1253
+g2
+(g6
+S'\xfa`\x17\xbc\xbd\x1c\xd1?'
+p1254
+tp1255
+Rp1256
+tp1257
+a(S'university of jaffna'
+p1258
+g2
+(g6
+S'O\x1e5\xa7\n\x19\xd1?'
+p1259
+tp1260
+Rp1261
+tp1262
+a(S'computer city'
+p1263
+g2
+(g6
+S'fm\xc6\xc6\xff\x15\xd1?'
+p1264
+tp1265
+Rp1266
+tp1267
+a(S'read-only turing machine'
+p1268
+g2
+(g6
+S':6\x7f\x0c\xde\x15\xd1?'
+p1269
+tp1270
+Rp1271
+tp1272
+a(S'fei-fei li'
+p1273
+g2
+(g6
+S'\xfdT\x1a\x84F\x0b\xd1?'
+p1274
+tp1275
+Rp1276
+tp1277
+a(S'cs4fn'
+p1278
+g2
+(g6
+S'o\xa8\xf1\xcc@\t\xd1?'
+p1279
+tp1280
+Rp1281
+tp1282
+a(S'theory of computation'
+p1283
+g2
+(g6
+S'\x87\x92\xe3\xb1\x12\x05\xd1?'
+p1284
+tp1285
+Rp1286
+tp1287
+a(S'sam ratulangi university'
+p1288
+g2
+(g6
+S'\xb0@\xe8\xa7 \xfc\xd0?'
+p1289
+tp1290
+Rp1291
+tp1292
+a(S'list of vacuum tube computers'
+p1293
+g2
+(g6
+S'+\xc6\xf4\xe8T\xfb\xd0?'
+p1294
+tp1295
+Rp1296
+tp1297
+a(S'computer university, taungoo'
+p1298
+g2
+(g6
+S'\x05&\xd9S\xa0\xf2\xd0?'
+p1299
+tp1300
+Rp1301
+tp1302
+a(S'computer addiction'
+p1303
+g2
+(g6
+S'0w\xcd\x9e\xf2\xec\xd0?'
+p1304
+tp1305
+Rp1306
+tp1307
+a(S'marc levoy'
+p1308
+g2
+(g6
+S'\x05\xcd\x99\x0fc\xec\xd0?'
+p1309
+tp1310
+Rp1311
+tp1312
+a(S'li huatian'
+p1313
+g2
+(g6
+S'\x87_\xeb\xe6`\xea\xd0?'
+p1314
+tp1315
+Rp1316
+tp1317
+a(S'richard hartley (scientist)'
+p1318
+g2
+(g6
+S'\x99\x94\xa2\xc8\xe9\xe8\xd0?'
+p1319
+tp1320
+Rp1321
+tp1322
+a(S'donald b. johnson'
+p1323
+g2
+(g6
+S'(m\xd5\xf1\xca\xe4\xd0?'
+p1324
+tp1325
+Rp1326
+tp1327
+a(S'this is my country (film)'
+p1328
+g2
+(g6
+S'\x01V\x05\x01\xc8\xe3\xd0?'
+p1329
+tp1330
+Rp1331
+tp1332
+a(S'walter kn\xc3\xb6del'
+p1333
+g2
+(g6
+S'\xe3U\x18\xa6F\xe0\xd0?'
+p1334
+tp1335
+Rp1336
+tp1337
+a(S'university of mostaganem'
+p1338
+g2
+(g6
+S'\x9e\xfd\xaf\xe2\x97\xdf\xd0?'
+p1339
+tp1340
+Rp1341
+tp1342
+a(S'rangsit university'
+p1343
+g2
+(g6
+S'\xebt:\x0f\x08\xdd\xd0?'
+p1344
+tp1345
+Rp1346
+tp1347
+a(S'zabol university'
+p1348
+g2
+(g6
+S':P\xda\x91Y\xd8\xd0?'
+p1349
+tp1350
+Rp1351
+tp1352
+a(S'school of electrical engineering and computer science (university of ottawa)'
+p1353
+g2
+(g6
+S'd\x8e\xf4\xff\x8b\xd4\xd0?'
+p1354
+tp1355
+Rp1356
+tp1357
+a(S'transilvania university of bra\xc8\x99ov'
+p1358
+g2
+(g6
+S'\xd0\xfe\xb9\x92\x96\xd2\xd0?'
+p1359
+tp1360
+Rp1361
+tp1362
+a(S'university of science and technology (sudan)'
+p1363
+g2
+(g6
+S'E\xed\xf8\xb6\x13\xd2\xd0?'
+p1364
+tp1365
+Rp1366
+tp1367
+a(S'mohamed fayad'
+p1368
+g2
+(g6
+S'\xc0\xf7\xbeZ)\xcc\xd0?'
+p1369
+tp1370
+Rp1371
+tp1372
+a(S'pierluigi crescenzi'
+p1373
+g2
+(g6
+S'\x8aN\xa8\x1d\x9e\xc7\xd0?'
+p1374
+tp1375
+Rp1376
+tp1377
+a(S'pushkin leningrad state university'
+p1378
+g2
+(g6
+S'\xfft\x92\xef\xb0\xc5\xd0?'
+p1379
+tp1380
+Rp1381
+tp1382
+a(S'krzysztof pietroszek'
+p1383
+g2
+(g6
+S'\xa8e-\xb2\xf4\xc4\xd0?'
+p1384
+tp1385
+Rp1386
+tp1387
+a(S'university of pattimura'
+p1388
+g2
+(g6
+S';\x14\xfc\xf2\xde\xc4\xd0?'
+p1389
+tp1390
+Rp1391
+tp1392
+a(S'john rushby'
+p1393
+g2
+(g6
+S'\xd6Sx\x1f\x11\xc2\xd0?'
+p1394
+tp1395
+Rp1396
+tp1397
+a(S'frans kaashoek'
+p1398
+g2
+(g6
+S'98\x95Kr\xc0\xd0?'
+p1399
+tp1400
+Rp1401
+tp1402
+a(S'microcomputer revolution'
+p1403
+g2
+(g6
+S'%\xb0]\xf1\xa6\xbf\xd0?'
+p1404
+tp1405
+Rp1406
+tp1407
+a(S'the computer paper'
+p1408
+g2
+(g6
+S"\x0c'\n\xf3\xa0\xb8\xd0?"
+p1409
+tp1410
+Rp1411
+tp1412
+a(S'janice e. cuny'
+p1413
+g2
+(g6
+S'\x1e\xe6\xa7\xa4\xd9\xb5\xd0?'
+p1414
+tp1415
+Rp1416
+tp1417
+a(S'systems of logic based on ordinals'
+p1418
+g2
+(g6
+S'_\xed\xbf\xe7\xa8\xb0\xd0?'
+p1419
+tp1420
+Rp1421
+tp1422
+a(S'pilot ace'
+p1423
+g2
+(g6
+S'l\r\xf7\xb3\x16\xaf\xd0?'
+p1424
+tp1425
+Rp1426
+tp1427
+a(S'david g. lowe'
+p1428
+g2
+(g6
+S'\xd7E\xa2\xca\xbc\xa9\xd0?'
+p1429
+tp1430
+Rp1431
+tp1432
+a(S'johannes sch\xc3\xb6ning'
+p1433
+g2
+(g6
+S'@\xfe3uJ\xa8\xd0?'
+p1434
+tp1435
+Rp1436
+tp1437
+a(S'institute of computer science'
+p1438
+g2
+(g6
+S'\x14o\xad\xfd5\xa8\xd0?'
+p1439
+tp1440
+Rp1441
+tp1442
+a(S'samir khuller'
+p1443
+g2
+(g6
+S'\xea\x8fmp@\xa7\xd0?'
+p1444
+tp1445
+Rp1446
+tp1447
+a(S'thomas henzinger'
+p1448
+g2
+(g6
+S'\xf9\xff\x1a\xcb\xd0\xa6\xd0?'
+p1449
+tp1450
+Rp1451
+tp1452
+a(S'school of sciences, unam'
+p1453
+g2
+(g6
+S'H5Go\xec\xa4\xd0?'
+p1454
+tp1455
+Rp1456
+tp1457
+a(S'susan nycum'
+p1458
+g2
+(g6
+S'\xc5\xce\xae\xbaA\xa2\xd0?'
+p1459
+tp1460
+Rp1461
+tp1462
+a(S'yerevan state university'
+p1463
+g2
+(g6
+S'\x02\xcaz\x96\x17\xa1\xd0?'
+p1464
+tp1465
+Rp1466
+tp1467
+a(S'j. c. r. licklider'
+p1468
+g2
+(g6
+S'\xd0_:\xb0\x07\x9c\xd0?'
+p1469
+tp1470
+Rp1471
+tp1472
+a(S'misr university for science and technology'
+p1473
+g2
+(g6
+S'\x82\x83\x8fNc\x9b\xd0?'
+p1474
+tp1475
+Rp1476
+tp1477
+a(S'a. michael noll'
+p1478
+g2
+(g6
+S'\x87Tn5\xe1\x99\xd0?'
+p1479
+tp1480
+Rp1481
+tp1482
+a(S'computer game bot turing test'
+p1483
+g2
+(g6
+S'`u\x1d~x\x99\xd0?'
+p1484
+tp1485
+Rp1486
+tp1487
+a(S'higher technical school of computer engineering at uned'
+p1488
+g2
+(g6
+S'3\xf6\xd7p&\x97\xd0?'
+p1489
+tp1490
+Rp1491
+tp1492
+a(S'saul amarel'
+p1493
+g2
+(g6
+S'"\xf2\xd6\xa4\xf5\x94\xd0?'
+p1494
+tp1495
+Rp1496
+tp1497
+a(S'faculty of law'
+p1498
+g2
+(g6
+S'\xa7\x97\xc3\x04T\x94\xd0?'
+p1499
+tp1500
+Rp1501
+tp1502
+a(S'university of massachusetts amherst college of information and computer sciences'
+p1503
+g2
+(g6
+S'z\x089P\xbc\x92\xd0?'
+p1504
+tp1505
+Rp1506
+tp1507
+a(S'computing'
+p1508
+g2
+(g6
+S'\x19\x9bW5\x96\x90\xd0?'
+p1509
+tp1510
+Rp1511
+tp1512
+a.

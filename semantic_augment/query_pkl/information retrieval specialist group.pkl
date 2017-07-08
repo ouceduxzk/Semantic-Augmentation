@@ -1,0 +1,2728 @@
+(lp0
+(S'information retrieval specialist group'
+p1
+cnumpy.core.multiarray
+scalar
+p2
+(cnumpy
+dtype
+p3
+(S'f8'
+p4
+I0
+I1
+tp5
+Rp6
+(I3
+S'<'
+p7
+NNNI-1
+I-1
+I0
+tp8
+bS'\x00\x00\x00\x00\x00\x00\xf0?'
+p9
+tp10
+Rp11
+tp12
+a(S'information retrieval applications'
+p13
+g2
+(g6
+S'N\xc7\r\xb9\x94u\xe5?'
+p14
+tp15
+Rp16
+tp17
+a(S'special interest group on information retrieval'
+p18
+g2
+(g6
+S'\x00H\xa7\xb0mr\xe4?'
+p19
+tp20
+Rp21
+tp22
+a(S'c. j. van rijsbergen'
+p23
+g2
+(g6
+S'\x96\x8bR\xd0\xb4Z\xe3?'
+p24
+tp25
+Rp26
+tp27
+a(S'gerard salton award'
+p28
+g2
+(g6
+S'\x1c\xbf\xd8{\xa40\xe3?'
+p29
+tp30
+Rp31
+tp32
+a(S'calvin mooers'
+p33
+g2
+(g6
+S'\xd3\x1f\xbe\x80#\xdd\xe2?'
+p34
+tp35
+Rp36
+tp37
+a(S'knowledge retrieval'
+p38
+g2
+(g6
+S'\xb4nM\xf3i\x0f\xe2?'
+p39
+tp40
+Rp41
+tp42
+a(S'information retrieval'
+p43
+g2
+(g6
+S'\xbbT\xf31\x11\x92\xe1?'
+p44
+tp45
+Rp46
+tp47
+a(S'david blair (information technologist)'
+p48
+g2
+(g6
+S'bA\xce{\xdbe\xe1?'
+p49
+tp50
+Rp51
+tp52
+a(S'cross-language information retrieval'
+p53
+g2
+(g6
+S'!\xd8\xb5\xef\xb0\xfd\xe0?'
+p54
+tp55
+Rp56
+tp57
+a(S'european conference on information retrieval'
+p58
+g2
+(g6
+S'\xf9\xcb\xed\xb4o\xe7\xe0?'
+p59
+tp60
+Rp61
+tp62
+a(S'spaced retrieval'
+p63
+g2
+(g6
+S'\xf8\xbf\xc7A\xb7\x90\xe0?'
+p64
+tp65
+Rp66
+tp67
+a(S'cranfield experiments'
+p68
+g2
+(g6
+S'\xd2\xa9\x1d\xac\xf9\r\xe0?'
+p69
+tp70
+Rp71
+tp72
+a(S'information retrieval facility'
+p73
+g2
+(g6
+S'\xcbR#nh\xaf\xdf?'
+p74
+tp75
+Rp76
+tp77
+a(S'document retrieval'
+p78
+g2
+(g6
+S'fF\xea\x9e2\x19\xdf?'
+p79
+tp80
+Rp81
+tp82
+a(S's\xc3\xa1ndor dominich'
+p83
+g2
+(g6
+S'D\xff\xf8|\xc3\x18\xdf?'
+p84
+tp85
+Rp86
+tp87
+a(S'cognitive models of information retrieval'
+p88
+g2
+(g6
+S'O{\x99e\x8e\x8c\xde?'
+p89
+tp90
+Rp91
+tp92
+a(S'human\xe2\x80\x93computer information retrieval'
+p93
+g2
+(g6
+S'dE~\x06\x81\x10\xde?'
+p94
+tp95
+Rp96
+tp97
+a(S'michael lew'
+p98
+g2
+(g6
+S'\x98\xff\xb6\x9a\x1du\xdd?'
+p99
+tp100
+Rp101
+tp102
+a(S'cyril cleverdon'
+p103
+g2
+(g6
+S'9\xe8\xdd\xd1\xd8D\xdd?'
+p104
+tp105
+Rp106
+tp107
+a(S'w. bruce croft'
+p108
+g2
+(g6
+S'k\xc3 !a\x12\xdd?'
+p109
+tp110
+Rp111
+tp112
+a(S'antigen retrieval'
+p113
+g2
+(g6
+S':\xb3\xb3*\xf9\xe7\xdc?'
+p114
+tp115
+Rp116
+tp117
+a(S'lead retrieval'
+p118
+g2
+(g6
+S'J\x01\x10\x179\x8f\xdc?'
+p119
+tp120
+Rp121
+tp122
+a(S'xml retrieval'
+p123
+g2
+(g6
+S's2\x89\x15kd\xdc?'
+p124
+tp125
+Rp126
+tp127
+a(S'networked environment for music analysis'
+p128
+g2
+(g6
+S'Mb\xdb\n.\xf4\xdb?'
+p129
+tp130
+Rp131
+tp132
+a(S'conference and labs of the evaluation forum'
+p133
+g2
+(g6
+S'n\x12\xef0 ;\xdb?'
+p134
+tp135
+Rp136
+tp137
+a(S'concept-based image indexing'
+p138
+g2
+(g6
+S'\xca\xb88\x0e!\x18\xdb?'
+p139
+tp140
+Rp141
+tp142
+a(S'international society for music information retrieval'
+p143
+g2
+(g6
+S'\x17 ;\x8e$\xc5\xda?'
+p144
+tp145
+Rp146
+tp147
+a(S'tony kent strix award'
+p148
+g2
+(g6
+S'\xcev9f#\x91\xda?'
+p149
+tp150
+Rp151
+tp152
+a(S'irsg'
+p153
+g2
+(g6
+S':;\xd9l,f\xda?'
+p154
+tp155
+Rp156
+tp157
+a(S'jason farradane'
+p158
+g2
+(g6
+S'\x1aX\x97\xeb\xcd\x1a\xda?'
+p159
+tp160
+Rp161
+tp162
+a(S"mooers' law"
+p163
+g2
+(g6
+S'\xc2\xa0\xf8\xaf\xed\xd4\xd9?'
+p164
+tp165
+Rp166
+tp167
+a(S'nivio ziviani'
+p168
+g2
+(g6
+S'xT\xc6\xf2P\x9b\xd9?'
+p169
+tp170
+Rp171
+tp172
+a(S'music information retrieval'
+p173
+g2
+(g6
+S'\\X\x06\x97Pa\xd9?'
+p174
+tp175
+Rp176
+tp177
+a(S'content-based image retrieval'
+p178
+g2
+(g6
+S'8#\xa0\x1e\xf2\\\xd9?'
+p179
+tp180
+Rp181
+tp182
+a(S'susan dumais'
+p183
+g2
+(g6
+S'k\xac\xa8\xa2/6\xd9?'
+p184
+tp185
+Rp186
+tp187
+a(S'3d content retrieval'
+p188
+g2
+(g6
+S'$\xb4\x84d\xe0\x0b\xd9?'
+p189
+tp190
+Rp191
+tp192
+a(S'gerard salton'
+p193
+g2
+(g6
+S'\n\x89^:\xa2\xfd\xd8?'
+p194
+tp195
+Rp196
+tp197
+a(S'european summer school in information retrieval'
+p198
+g2
+(g6
+S'-\xe6\x9e\xb4\xb4\xce\xd8?'
+p199
+tp200
+Rp201
+tp202
+a(S'text retrieval conference'
+p203
+g2
+(g6
+S'\x02&\x828\xbd\xbe\xd8?'
+p204
+tp205
+Rp206
+tp207
+a(S'visual word'
+p208
+g2
+(g6
+S'\xbd\x07\x0f\xcf\xe1\xad\xd8?'
+p209
+tp210
+Rp211
+tp212
+a(S'terrier search engine'
+p213
+g2
+(g6
+S'\x08\xf1E\xdfa\xab\xd8?'
+p214
+tp215
+Rp216
+tp217
+a(S'trec genomics'
+p218
+g2
+(g6
+S'\tBK:+e\xd8?'
+p219
+tp220
+Rp221
+tp222
+a(S'scotstar'
+p223
+g2
+(g6
+S'\xf8\xa3\xb8\x12\x19U\xd8?'
+p224
+tp225
+Rp226
+tp227
+a(S'list of information retrieval libraries'
+p228
+g2
+(g6
+S'\xfd\x16m\xabe$\xd8?'
+p229
+tp230
+Rp231
+tp232
+a(S'informedia digital library'
+p233
+g2
+(g6
+S'\x94Uu\x12\xa1\xf1\xd7?'
+p234
+tp235
+Rp236
+tp237
+a(S'lgte'
+p238
+g2
+(g6
+S'`N+vG\xe4\xd7?'
+p239
+tp240
+Rp241
+tp242
+a(S'active recall'
+p243
+g2
+(g6
+S'\x13\x0ba\xe5}\xd1\xd6?'
+p244
+tp245
+Rp246
+tp247
+a(S'trecvid'
+p248
+g2
+(g6
+S'\xc2\xf1\xe2\x1e2y\xd6?'
+p249
+tp250
+Rp251
+tp252
+a(S'robert r. korfhage'
+p253
+g2
+(g6
+S'\xce\xce\xfd\xea\xdc\xc8\xd5?'
+p254
+tp255
+Rp256
+tp257
+a(S'information science'
+p258
+g2
+(g6
+S'\x96;f40\x93\xd5?'
+p259
+tp260
+Rp261
+tp262
+a(S'darpa tipster program'
+p263
+g2
+(g6
+S'\x94\x96q=\x12$\xd5?'
+p264
+tp265
+Rp266
+tp267
+a(S'relevance (information retrieval)'
+p268
+g2
+(g6
+S'\xd3=\xaf\xd8\x1b\xaf\xd4?'
+p269
+tp270
+Rp271
+tp272
+a(S'mike lesk'
+p273
+g2
+(g6
+S"\x0e\x93'\xa5S\xaa\xd4?"
+p274
+tp275
+Rp276
+tp277
+a(S'image retrieval'
+p278
+g2
+(g6
+S'\xec|k&\xda\x99\xd4?'
+p279
+tp280
+Rp281
+tp282
+a(S'concept search'
+p283
+g2
+(g6
+S'\xa3\xa0\x92\x92\x85\x82\xd4?'
+p284
+tp285
+Rp286
+tp287
+a(S'pirs'
+p288
+g2
+(g6
+S'\xbf\x95\xbfxaI\xd4?'
+p289
+tp290
+Rp291
+tp292
+a(S'multimedia information retrieval'
+p293
+g2
+(g6
+S'v\xab\x11\x8ec\x08\xd4?'
+p294
+tp295
+Rp296
+tp297
+a(S'retrievability'
+p298
+g2
+(g6
+S']HC\x87\x88\x9c\xd3?'
+p299
+tp300
+Rp301
+tp302
+a(S'information seeking'
+p303
+g2
+(g6
+S'l!\xafS\xb2]\xd3?'
+p304
+tp305
+Rp306
+tp307
+a(S'legal information retrieval'
+p308
+g2
+(g6
+S'\x12\x06\xd6\xf1\t;\xd3?'
+p309
+tp310
+Rp311
+tp312
+a(S'retrieval-induced forgetting'
+p313
+g2
+(g6
+S'\xb3\x985\nc0\xd3?'
+p314
+tp315
+Rp316
+tp317
+a(S'hippocampal memory encoding and retrieval'
+p318
+g2
+(g6
+S'\x03l\xa3A9.\xd3?'
+p319
+tp320
+Rp321
+tp322
+a(S'information retrieval query language'
+p323
+g2
+(g6
+S'A\x9e\xa2\xd1\x1f#\xd3?'
+p324
+tp325
+Rp326
+tp327
+a(S'clearinghouse for networked information discovery and retrieval'
+p328
+g2
+(g6
+S'7\x1b\xf0{n\r\xd3?'
+p329
+tp330
+Rp331
+tp332
+a(S'jaime teevan'
+p333
+g2
+(g6
+S'B\x98\xa3y\xe3\xfa\xd2?'
+p334
+tp335
+Rp336
+tp337
+a(S'outline of information science'
+p338
+g2
+(g6
+S'\xba\x88H\xb9A9\xd2?'
+p339
+tp340
+Rp341
+tp342
+a(S'extremes (novel)'
+p343
+g2
+(g6
+S'Z\xfe\x95g\xe4,\xd2?'
+p344
+tp345
+Rp346
+tp347
+a(S'mark a. mcdaniel'
+p348
+g2
+(g6
+S'6:;\xc3b\xde\xd1?'
+p349
+tp350
+Rp351
+tp352
+a(S'vocabulary mismatch'
+p353
+g2
+(g6
+S'+cD":\xd6\xd1?'
+p354
+tp355
+Rp356
+tp357
+a(S'peter willett'
+p358
+g2
+(g6
+S'>\x91b\xcf|\xd5\xd1?'
+p359
+tp360
+Rp361
+tp362
+a(S'concept searching limited'
+p363
+g2
+(g6
+S'my\xbe~\xfa\xc2\xd1?'
+p364
+tp365
+Rp366
+tp367
+a(S'parliamentary information management system'
+p368
+g2
+(g6
+S'\xbf.\xdb\x0fx\xaa\xd1?'
+p369
+tp370
+Rp371
+tp372
+a(S'henry l. roediger iii'
+p373
+g2
+(g6
+S'K\x0c\xd0\xcf\x12\x82\xd1?'
+p374
+tp375
+Rp376
+tp377
+a(S'allen kent'
+p378
+g2
+(g6
+S'3\x86\xbeT\x15{\xd1?'
+p379
+tp380
+Rp381
+tp382
+a(S'mike lynch (information scientist)'
+p383
+g2
+(g6
+S'!\xe7\x91\x98\\r\xd1?'
+p384
+tp385
+Rp386
+tp387
+a(S'testing effect'
+p388
+g2
+(g6
+S"\xca\xe3\xc2m|'\xd1?"
+p389
+tp390
+Rp391
+tp392
+a(S'karen sp\xc3\xa4rck jones'
+p393
+g2
+(g6
+S'Z#\xdd\x80\xf4\x0c\xd1?'
+p394
+tp395
+Rp396
+tp397
+a(S'term indexing'
+p398
+g2
+(g6
+S'\xb9\x8a\xf8\xc9\x9f\x06\xd1?'
+p399
+tp400
+Rp401
+tp402
+a(S'information school'
+p403
+g2
+(g6
+S';\x90?\xe9X\xf7\xd0?'
+p404
+tp405
+Rp406
+tp407
+a(S'cluster hypothesis'
+p408
+g2
+(g6
+S'\xbd\xa8*\x1dA\xcd\xd0?'
+p409
+tp410
+Rp411
+tp412
+a(S'mooers'
+p413
+g2
+(g6
+S'\x14U]4z\xcb\xd0?'
+p414
+tp415
+Rp416
+tp417
+a(S'archival informatics'
+p418
+g2
+(g6
+S'*\xe3\xd6\x12o\xb5\xd0?'
+p419
+tp420
+Rp421
+tp422
+a(S'history trek'
+p423
+g2
+(g6
+S'}a\xb3\xb8\xa1a\xd0?'
+p424
+tp425
+Rp426
+tp427
+a(S'paul a. d. de maine'
+p428
+g2
+(g6
+S'\xa5\x19\xa6\xd0\xb9P\xd0?'
+p429
+tp430
+Rp431
+tp432
+a(S'maarten de rijke'
+p433
+g2
+(g6
+S'R\xb7\xa1\xbc\xce@\xd0?'
+p434
+tp435
+Rp436
+tp437
+a(S'nassib nassar'
+p438
+g2
+(g6
+S'\xa8\xc2$K\x84\x11\xd0?'
+p439
+tp440
+Rp441
+tp442
+a(S'marcia j. bates'
+p443
+g2
+(g6
+S'\x9e~\xd2\x9a\x8d\x06\xd0?'
+p444
+tp445
+Rp446
+tp447
+a(S'smart information retrieval system'
+p448
+g2
+(g6
+S'\x0e\xc7\x96\x186\x01\xd0?'
+p449
+tp450
+Rp451
+tp452
+a(S'frederick wilfrid lancaster'
+p453
+g2
+(g6
+S'j\x01\xc7K\xaf}\xcf?'
+p454
+tp455
+Rp456
+tp457
+a(S'gary chevsky'
+p458
+g2
+(g6
+S'\xdb\xa3+\xc4-e\xcf?'
+p459
+tp460
+Rp461
+tp462
+a(S'alan smeaton'
+p463
+g2
+(g6
+S'\xa8\xc8R\xf1\x0b[\xcf?'
+p464
+tp465
+Rp466
+tp467
+a(S'private information retrieval'
+p468
+g2
+(g6
+S'6\r#\x10)Z\xcf?'
+p469
+tp470
+Rp471
+tp472
+a(S'mobberley'
+p473
+g2
+(g6
+S'mh\xae\xdds\x12\xcf?'
+p474
+tp475
+Rp476
+tp477
+a(S'mipr'
+p478
+g2
+(g6
+S'\x00\x86\xcfF\xaf\xc5\xce?'
+p479
+tp480
+Rp481
+tp482
+a(S'information history'
+p483
+g2
+(g6
+S'\x057\xa0\x8c\xc3\xc2\xce?'
+p484
+tp485
+Rp486
+tp487
+a(S'temporal information retrieval'
+p488
+g2
+(g6
+S'd"Da \xbc\xce?'
+p489
+tp490
+Rp491
+tp492
+a(S'university of wisconsin\xe2\x80\x93milwaukee school of information studies'
+p493
+g2
+(g6
+S'(\x0f\xe4\x9fH$\xce?'
+p494
+tp495
+Rp496
+tp497
+a(S'frank g. burke'
+p498
+g2
+(g6
+S'\xb4\x17n\x02+$\xce?'
+p499
+tp500
+Rp501
+tp502
+a(S'information'
+p503
+g2
+(g6
+S'rU1\xa1\x85\x13\xce?'
+p504
+tp505
+Rp506
+tp507
+a(S'university of michigan school of information'
+p508
+g2
+(g6
+S'\xa4\xa129\xaf\x07\xce?'
+p509
+tp510
+Rp511
+tp512
+a(S'isoline retrieval'
+p513
+g2
+(g6
+S'+~F \xde\xf6\xcd?'
+p514
+tp515
+Rp516
+tp517
+a(S'automated storage and retrieval system'
+p518
+g2
+(g6
+S'dt\xf3}^\xba\xcd?'
+p519
+tp520
+Rp521
+tp522
+a(S'ofer bergman'
+p523
+g2
+(g6
+S'V;\xb8\x01\xda\xb9\xcd?'
+p524
+tp525
+Rp526
+tp527
+a(S'sound and music computing'
+p528
+g2
+(g6
+S'\x82\x1dLN\xdd\xa5\xcd?'
+p529
+tp530
+Rp531
+tp532
+a(S'list of search engine software'
+p533
+g2
+(g6
+S'\x02\xec[\xfer\x89\xcd?'
+p534
+tp535
+Rp536
+tp537
+a(S'medical literature retrieval'
+p538
+g2
+(g6
+S'!\xd4G\xc08\x83\xcd?'
+p539
+tp540
+Rp541
+tp542
+a(S'annual conferences of the united methodist church'
+p543
+g2
+(g6
+S'\xe5(z\x14\xfbo\xcd?'
+p544
+tp545
+Rp546
+tp547
+a(S'adversarial information retrieval'
+p548
+g2
+(g6
+S'i\xac\xa2dF[\xcd?'
+p549
+tp550
+Rp551
+tp552
+a(S'library and information science'
+p553
+g2
+(g6
+S'\x8b\xe0T{\x804\xcd?'
+p554
+tp555
+Rp556
+tp557
+a(S'canadian association for information science'
+p558
+g2
+(g6
+S'\xdc\x0f\xd1\x9e\xf83\xcd?'
+p559
+tp560
+Rp561
+tp562
+a(S'database storage structures'
+p563
+g2
+(g6
+S'/3\xe1\x04?3\xcd?'
+p564
+tp565
+Rp566
+tp567
+a(S'geographic information retrieval'
+p568
+g2
+(g6
+S'\x98u\xfd%\x1e\x0f\xcd?'
+p569
+tp570
+Rp571
+tp572
+a(S"ocean county sheriff's office"
+p573
+g2
+(g6
+S'\x19\xea\xd4`\x0e\x03\xcd?'
+p574
+tp575
+Rp576
+tp577
+a(S'phase retrieval'
+p578
+g2
+(g6
+S'I$\x15\\\x84\xe1\xcc?'
+p579
+tp580
+Rp581
+tp582
+a(S'reconstructive memory'
+p583
+g2
+(g6
+S'\xee]V&&\xcf\xcc?'
+p584
+tp585
+Rp586
+tp587
+a(S'tai mart\xc4\xb1'
+p588
+g2
+(g6
+S'?\xb9\x80\xbe\x19\xcf\xcc?'
+p589
+tp590
+Rp591
+tp592
+a(S'ashton sanders'
+p593
+g2
+(g6
+S'\x07\xa5\x13i\xa3\xb7\xcc?'
+p594
+tp595
+Rp596
+tp597
+a(S'integrated manufacturing database'
+p598
+g2
+(g6
+S'\xce\xae\xca(\xec\x9f\xcc?'
+p599
+tp600
+Rp601
+tp602
+a(S'ilya segalovich'
+p603
+g2
+(g6
+S'\xcc\xedf\xec\xeex\xcc?'
+p604
+tp605
+Rp606
+tp607
+a(S'list of computer science conference acronyms'
+p608
+g2
+(g6
+S'\t^\x88z\xcae\xcc?'
+p609
+tp610
+Rp611
+tp612
+a(S'h5 (us company)'
+p613
+g2
+(g6
+S'\x84\x80\xeb\xf8\xd9Z\xcc?'
+p614
+tp615
+Rp616
+tp617
+a(S'proquest dialog'
+p618
+g2
+(g6
+S'd\xe2\x83\xee\x1eJ\xcc?'
+p619
+tp620
+Rp621
+tp622
+a(S'amazon glacier'
+p623
+g2
+(g6
+S'J\xe9Fq\xa4@\xcc?'
+p624
+tp625
+Rp626
+tp627
+a(S'isearch'
+p628
+g2
+(g6
+S'uQ\xd8\xd6\xb3.\xcc?'
+p629
+tp630
+Rp631
+tp632
+a(S'averbis'
+p633
+g2
+(g6
+S'\xc2>\x16x\x10(\xcc?'
+p634
+tp635
+Rp636
+tp637
+a(S'western conference'
+p638
+g2
+(g6
+S'"\x85\x0b\xf9i\x10\xcc?'
+p639
+tp640
+Rp641
+tp642
+a(S'collaborative information seeking'
+p643
+g2
+(g6
+S'Ry\xa9\x83\x06\x0c\xcc?'
+p644
+tp645
+Rp646
+tp647
+a(S'mid-air retrieval'
+p648
+g2
+(g6
+S'7Z\x8b_h\xdf\xcb?'
+p649
+tp650
+Rp651
+tp652
+a(S'north american division of seventh-day adventists'
+p653
+g2
+(g6
+S'\x1c`\x1c%w\xd0\xcb?'
+p654
+tp655
+Rp656
+tp657
+a(S'information access'
+p658
+g2
+(g6
+S'\x04\x8e\x01\x94\xf2\xcd\xcb?'
+p659
+tp660
+Rp661
+tp662
+a(S'international conference on digital audio effects'
+p663
+g2
+(g6
+S'f_\xa2\xa4)\xab\xcb?'
+p664
+tp665
+Rp666
+tp667
+a(S'information system'
+p668
+g2
+(g6
+S'\xfa@\x9c\x00c\xa9\xcb?'
+p669
+tp670
+Rp671
+tp672
+a(S'recognition failure of recallable words'
+p673
+g2
+(g6
+S"'Eo\x7fc\x9e\xcb?"
+p674
+tp675
+Rp676
+tp677
+a(S'steve whittaker'
+p678
+g2
+(g6
+S'\xa8\x96\x8e\xe7\x84\x9d\xcb?'
+p679
+tp680
+Rp681
+tp682
+a(S'americas conference on information systems'
+p683
+g2
+(g6
+S'\xa1\xe5p\xe2\x02\x9a\xcb?'
+p684
+tp685
+Rp686
+tp687
+a(S'christine l. borgman'
+p688
+g2
+(g6
+S'\xc2\xacX\xd5\xc9\x97\xcb?'
+p689
+tp690
+Rp691
+tp692
+a(S'multisearch'
+p693
+g2
+(g6
+S'(\x89\xd2."\x89\xcb?'
+p694
+tp695
+Rp696
+tp697
+a(S'robert m. hayes'
+p698
+g2
+(g6
+S'T\x1f,6#\x84\xcb?'
+p699
+tp700
+Rp701
+tp702
+a(S'acm multimedia'
+p703
+g2
+(g6
+S'\xca-VW\xa2t\xcb?'
+p704
+tp705
+Rp706
+tp707
+a(S'iucn species survival commission'
+p708
+g2
+(g6
+S'\xb6\x8a\x19H\xfce\xcb?'
+p709
+tp710
+Rp711
+tp712
+a(S'documentalist'
+p713
+g2
+(g6
+S'\xaf\xd8\x9bC\x91`\xcb?'
+p714
+tp715
+Rp716
+tp717
+a(S'university of arizona school of information'
+p718
+g2
+(g6
+S'\xef<\x8e*\x14=\xcb?'
+p719
+tp720
+Rp721
+tp722
+a(S'eastern conference'
+p723
+g2
+(g6
+S'\xf6\xf0\xe07\x864\xcb?'
+p724
+tp725
+Rp726
+tp727
+a(S'information (disambiguation)'
+p728
+g2
+(g6
+S'\xbbI\xf3\x1d-\x1f\xcb?'
+p729
+tp730
+Rp731
+tp732
+a(S'lc4mp'
+p733
+g2
+(g6
+S'\x88\x1c\xf1\xd0\x90\x18\xcb?'
+p734
+tp735
+Rp736
+tp737
+a(S'list of illinois high school association member conferences'
+p738
+g2
+(g6
+S's~2\xa2\xb8\x02\xcb?'
+p739
+tp740
+Rp741
+tp742
+a(S'universal ir evaluation'
+p743
+g2
+(g6
+S'\xe6D\x89\xda^\xf6\xca?'
+p744
+tp745
+Rp746
+tp747
+a(S'sigcse technical symposium on computer science education'
+p748
+g2
+(g6
+S'\xc4(\xaf6\xb9\xed\xca?'
+p749
+tp750
+Rp751
+tp752
+a(S'namazu (search engine)'
+p753
+g2
+(g6
+S'\xa1#\xaf\x91v\xe9\xca?'
+p754
+tp755
+Rp756
+tp757
+a(S'thomas d. wilson'
+p758
+g2
+(g6
+S'\xe6\xbaQ\xe7\xa4\xcb\xca?'
+p759
+tp760
+Rp761
+tp762
+a(S'cognitive interview'
+p763
+g2
+(g6
+S'\xf2#c\x85/\xc9\xca?'
+p764
+tp765
+Rp766
+tp767
+a(S'personal information management'
+p768
+g2
+(g6
+S'/`Z}\xad\xb6\xca?'
+p769
+tp770
+Rp771
+tp772
+a(S'phi-hiding assumption'
+p773
+g2
+(g6
+S'\xee\x94\xe3#\x10\xaf\xca?'
+p774
+tp775
+Rp776
+tp777
+a(S'lemur project'
+p778
+g2
+(g6
+S'f\x10\x9b\x7f.\xaa\xca?'
+p779
+tp780
+Rp781
+tp782
+a(S'european democratic education conference'
+p783
+g2
+(g6
+S'\xf0\x04{\xdd#\x9f\xca?'
+p784
+tp785
+Rp786
+tp787
+a(S'information seeking behavior'
+p788
+g2
+(g6
+S'r7\xc3|\xbc\x8c\xca?'
+p789
+tp790
+Rp791
+tp792
+a(S'term discrimination'
+p793
+g2
+(g6
+S'Y[\xff\x95\xc7\x83\xca?'
+p794
+tp795
+Rp796
+tp797
+a(S'queries per second'
+p798
+g2
+(g6
+S'@ \xbf4]\x83\xca?'
+p799
+tp800
+Rp801
+tp802
+a(S'zettair'
+p803
+g2
+(g6
+S'\xf4\xf1\xb5\xebPp\xca?'
+p804
+tp805
+Rp806
+tp807
+a(S'evgeniy gabrilovich'
+p808
+g2
+(g6
+S'\x16\xed\xa4\xbf\x8ci\xca?'
+p809
+tp810
+Rp811
+tp812
+a(S'joe and rika mansueto library'
+p813
+g2
+(g6
+S',V\xcd"\xfcb\xca?'
+p814
+tp815
+Rp816
+tp817
+a(S'power five conferences'
+p818
+g2
+(g6
+S'N\xf1\x80\x0f\xe3^\xca?'
+p819
+tp820
+Rp821
+tp822
+a(S'list of information schools'
+p823
+g2
+(g6
+S'\x02p\xe1\xc9\xc1^\xca?'
+p824
+tp825
+Rp826
+tp827
+a(S'information needs'
+p828
+g2
+(g6
+S'\xcaD^\xb3\xca\x1b\xca?'
+p829
+tp830
+Rp831
+tp832
+a(S'central conferences (united methodist church)'
+p833
+g2
+(g6
+S'Ze\xeel\x1f\x14\xca?'
+p834
+tp835
+Rp836
+tp837
+a(S'burisa'
+p838
+g2
+(g6
+S'\xd1\xc8\xb8\x00t\x04\xca?'
+p839
+tp840
+Rp841
+tp842
+a(S'roger k. summit'
+p843
+g2
+(g6
+S'N\xc7\xc0\x16\x19\x04\xca?'
+p844
+tp845
+Rp846
+tp847
+a(S'endel tulving'
+p848
+g2
+(g6
+S'Wes\xa4\xe8\x00\xca?'
+p849
+tp850
+Rp851
+tp852
+a(S'conference'
+p853
+g2
+(g6
+S']\xf96XD\xff\xc9?'
+p854
+tp855
+Rp856
+tp857
+a(S'intelligent medical search engine'
+p858
+g2
+(g6
+S'\x1c\xfa}9\xc7\xdf\xc9?'
+p859
+tp860
+Rp861
+tp862
+a(S'conference of ministers of justice'
+p863
+g2
+(g6
+S'\xbbbj\x91\x91\xdb\xc9?'
+p864
+tp865
+Rp866
+tp867
+a(S'trans-european division of seventh-day adventists'
+p868
+g2
+(g6
+S'3\x92,U\xad\xc2\xc9?'
+p869
+tp870
+Rp871
+tp872
+a(S'jacobus verhoeff'
+p873
+g2
+(g6
+S'\xc8\xfd\x8fZ\xf5\xb7\xc9?'
+p874
+tp875
+Rp876
+tp877
+a(S'james z. wang'
+p878
+g2
+(g6
+S'.\xfeaX\x16\xb0\xc9?'
+p879
+tp880
+Rp881
+tp882
+a(S'marec'
+p883
+g2
+(g6
+S'\x8dN;\x87[\xae\xc9?'
+p884
+tp885
+Rp886
+tp887
+a(S'koru (disambiguation)'
+p888
+g2
+(g6
+S'\xe9\xdat5\xfd\xa9\xc9?'
+p889
+tp890
+Rp891
+tp892
+a(S'hamshahri corpus'
+p893
+g2
+(g6
+S'\xf7c\xbb\xce\x8a\xa5\xc9?'
+p894
+tp895
+Rp896
+tp897
+a(S'aboutness'
+p898
+g2
+(g6
+S"\xc4we'\x8e\x8a\xc9?"
+p899
+tp900
+Rp901
+tp902
+a(S'inter-european division of seventh-day adventists'
+p903
+g2
+(g6
+S'\xba\x0cE\xd0\x7f\x84\xc9?'
+p904
+tp905
+Rp906
+tp907
+a(S'actionable information logistics'
+p908
+g2
+(g6
+S'5B)\x8e\xcf{\xc9?'
+p909
+tp910
+Rp911
+tp912
+a(S'specialist'
+p913
+g2
+(g6
+S'\xf3\xc0\xe07It\xc9?'
+p914
+tp915
+Rp916
+tp917
+a(S'international conference on advances in ict for emerging regions'
+p918
+g2
+(g6
+S'(I\x98p\xcap\xc9?'
+p919
+tp920
+Rp921
+tp922
+a(S'emergency medical retrieval service'
+p923
+g2
+(g6
+S'B\x0cE\x14\xafm\xc9?'
+p924
+tp925
+Rp926
+tp927
+a(S'list of high school athletic conferences in missouri'
+p928
+g2
+(g6
+S'\xe8o\xcb0Rd\xc9?'
+p929
+tp930
+Rp931
+tp932
+a(S'academic conference'
+p933
+g2
+(g6
+S'\x16\x03\xdbl\x10[\xc9?'
+p934
+tp935
+Rp936
+tp937
+a(S'list of communications-related conferences'
+p938
+g2
+(g6
+S'\xda\xff!P\x11G\xc9?'
+p939
+tp940
+Rp941
+tp942
+a(S'regularization (linguistics)'
+p943
+g2
+(g6
+S'\xb6\xa6\xc7\xd9\xc6A\xc9?'
+p944
+tp945
+Rp946
+tp947
+a(S'specialist (rank)'
+p948
+g2
+(g6
+S'\x9e\xcb\xa1\x19\xef2\xc9?'
+p949
+tp950
+Rp951
+tp952
+a(S'claire kelly schultz'
+p953
+g2
+(g6
+S'F9\x8e}\xb50\xc9?'
+p954
+tp955
+Rp956
+tp957
+a(S'information professional'
+p958
+g2
+(g6
+S'\xf3\n\xad_\xe5\x1a\xc9?'
+p959
+tp960
+Rp961
+tp962
+a(S'mid-major'
+p963
+g2
+(g6
+S'\x1c\xe4\xa6\x83\xc5\r\xc9?'
+p964
+tp965
+Rp966
+tp967
+a(S'nicholas j. belkin'
+p968
+g2
+(g6
+S'wnk\x8c\x9c\x00\xc9?'
+p969
+tp970
+Rp971
+tp972
+a(S'information quality'
+p973
+g2
+(g6
+S'\xcd<{\xe1\x0f\xfd\xc8?'
+p974
+tp975
+Rp976
+tp977
+a(S'journal of documentation'
+p978
+g2
+(g6
+S'H\xbc\xef\xe8,\xf9\xc8?'
+p979
+tp980
+Rp981
+tp982
+a(S'information policy'
+p983
+g2
+(g6
+S'\xc7-u\x10\x96\xf6\xc8?'
+p984
+tp985
+Rp986
+tp987
+a(S'medstar'
+p988
+g2
+(g6
+S'\xb2\xfc\x83U\xd0\xf1\xc8?'
+p989
+tp990
+Rp991
+tp992
+a(S'list of computer science conferences'
+p993
+g2
+(g6
+S'\x0b]Be\xf3\xda\xc8?'
+p994
+tp995
+Rp996
+tp997
+a(S"list of current ncaa division i men's basketball coaches"
+p998
+g2
+(g6
+S'\x82\xa3\xbe\xe25\xc8\xc8?'
+p999
+tp1000
+Rp1001
+tp1002
+a(S'international society for scientometrics and informetrics'
+p1003
+g2
+(g6
+S'h\xa1O\x1br\xbf\xc8?'
+p1004
+tp1005
+Rp1006
+tp1007
+a(S'michael witbrock'
+p1008
+g2
+(g6
+S'o\x01o\xb6\xaa\xb8\xc8?'
+p1009
+tp1010
+Rp1011
+tp1012
+a(S'information culture'
+p1013
+g2
+(g6
+S'\x12\xb3\xb5G\xbb\x9d\xc8?'
+p1014
+tp1015
+Rp1016
+tp1017
+a(S'cheminformatics'
+p1018
+g2
+(g6
+S'~\x87_Y\xf6\x8e\xc8?'
+p1019
+tp1020
+Rp1021
+tp1022
+a(S'information lifecycle management'
+p1023
+g2
+(g6
+S'\xd4\x96\x1c\xe4h\x84\xc8?'
+p1024
+tp1025
+Rp1026
+tp1027
+a(S'music informatics'
+p1028
+g2
+(g6
+S'L\xa4\x0bm~\x80\xc8?'
+p1029
+tp1030
+Rp1031
+tp1032
+a(S'association for information science and technology'
+p1033
+g2
+(g6
+S'\xa3\\!S;b\xc8?'
+p1034
+tp1035
+Rp1036
+tp1037
+a(S'thesaurus (information retrieval)'
+p1038
+g2
+(g6
+S'\xc6Z\xbe\xb3\xf4E\xc8?'
+p1039
+tp1040
+Rp1041
+tp1042
+a(S'autindex'
+p1043
+g2
+(g6
+S'8Qs\x90=6\xc8?'
+p1044
+tp1045
+Rp1046
+tp1047
+a(S'sheffield ischool'
+p1048
+g2
+(g6
+S'\x06\xef\xee]\x812\xc8?'
+p1049
+tp1050
+Rp1051
+tp1052
+a(S'rutgers school of communication and information'
+p1053
+g2
+(g6
+S'\xdd\x1agO\x9a(\xc8?'
+p1054
+tp1055
+Rp1056
+tp1057
+a(S'highland emergency'
+p1058
+g2
+(g6
+S'\xb8I\x9d\x1cC\x17\xc8?'
+p1059
+tp1060
+Rp1061
+tp1062
+a(S'christopher center'
+p1063
+g2
+(g6
+S'K\x118\x91{\x16\xc8?'
+p1064
+tp1065
+Rp1066
+tp1067
+a(S'geoweb'
+p1068
+g2
+(g6
+S'\xb7\x17"\xd6\xd4\r\xc8?'
+p1069
+tp1070
+Rp1071
+tp1072
+a(S'data centre specialist group'
+p1073
+g2
+(g6
+S'o\xaeF\xef\xf4\xf2\xc7?'
+p1074
+tp1075
+Rp1076
+tp1077
+a(S'1996 ncaa conference realignment'
+p1078
+g2
+(g6
+S'\xa2\xc0\xc2\xd9\xca\xf1\xc7?'
+p1079
+tp1080
+Rp1081
+tp1082
+a(S'enoch of ascoli'
+p1083
+g2
+(g6
+S'n\x05lg\x9d\xeb\xc7?'
+p1084
+tp1085
+Rp1086
+tp1087
+a(S'information strategist'
+p1088
+g2
+(g6
+S'(\xecj+\xfc\xdd\xc7?'
+p1089
+tp1090
+Rp1091
+tp1092
+a(S'information design'
+p1093
+g2
+(g6
+S'\xfc\xf4\x881{\xda\xc7?'
+p1094
+tp1095
+Rp1096
+tp1097
+a(S'hans peter luhn'
+p1098
+g2
+(g6
+S'N=\xd5\xc0C\xd4\xc7?'
+p1099
+tp1100
+Rp1101
+tp1102
+a(S'information society (disambiguation)'
+p1103
+g2
+(g6
+S'3\x1a\xef\x0f\x9f\xd1\xc7?'
+p1104
+tp1105
+Rp1106
+tp1107
+a(S'european conference on information systems'
+p1108
+g2
+(g6
+S'P\x06\xe0\xc3\x0f\xd1\xc7?'
+p1109
+tp1110
+Rp1111
+tp1112
+a(S'list of michigan high school association member conferences'
+p1113
+g2
+(g6
+S'\x1dX.\x06\x1b\xc9\xc7?'
+p1114
+tp1115
+Rp1116
+tp1117
+a(S'international conference on applied human factors and ergonomics'
+p1118
+g2
+(g6
+S'9%D\x05\xe4\xbf\xc7?'
+p1119
+tp1120
+Rp1121
+tp1122
+a(S"list of ncaa division i women's volleyball programs"
+p1123
+g2
+(g6
+S'\x96nP\x81\x1a\xbb\xc7?'
+p1124
+tp1125
+Rp1126
+tp1127
+a(S'bruce t. halle library'
+p1128
+g2
+(g6
+S'@\x0bV\x8c\x06\xb0\xc7?'
+p1129
+tp1130
+Rp1131
+tp1132
+a(S'london conference'
+p1133
+g2
+(g6
+S'\x81/I\xb9?\xa4\xc7?'
+p1134
+tp1135
+Rp1136
+tp1137
+a(S'harry bruce (academic)'
+p1138
+g2
+(g6
+S'p\xac\x93\xa7h\x9f\xc7?'
+p1139
+tp1140
+Rp1141
+tp1142
+a(S'brs/search'
+p1143
+g2
+(g6
+S'\xd4\x91\x1eTQ\x8b\xc7?'
+p1144
+tp1145
+Rp1146
+tp1147
+a(S'list of american library association accredited library schools'
+p1148
+g2
+(g6
+S'L\xc6\x83\xed\xe1w\xc7?'
+p1149
+tp1150
+Rp1151
+tp1152
+a(S'list of delaware high school athletic conferences'
+p1153
+g2
+(g6
+S'\nY\xb0\x17\x88u\xc7?'
+p1154
+tp1155
+Rp1156
+tp1157
+a(S'documentation (disambiguation)'
+p1158
+g2
+(g6
+S'\xc4\xd3i\x14\xa8d\xc7?'
+p1159
+tp1160
+Rp1161
+tp1162
+a(S'information management'
+p1163
+g2
+(g6
+S'\xfe\xe6Q\x89\xf8`\xc7?'
+p1164
+tp1165
+Rp1166
+tp1167
+a(S'merrill-cazier library'
+p1168
+g2
+(g6
+S'\xaa\xfdp\xe3\x0c_\xc7?'
+p1169
+tp1170
+Rp1171
+tp1172
+a(S'national safety council (india)'
+p1173
+g2
+(g6
+S'.\xa9\xd0\xba\xcf\\\xc7?'
+p1174
+tp1175
+Rp1176
+tp1177
+a(S'conferences of the united methodist church'
+p1178
+g2
+(g6
+S'\x84p\xd9b\x16N\xc7?'
+p1179
+tp1180
+Rp1181
+tp1182
+a(S'baruto no gakuen'
+p1183
+g2
+(g6
+S'\x85\xb6\xa3L\xd8K\xc7?'
+p1184
+tp1185
+Rp1186
+tp1187
+a(S'information pollution'
+p1188
+g2
+(g6
+S'\xdc2h\xc3(F\xc7?'
+p1189
+tp1190
+Rp1191
+tp1192
+a(S'ecml pkdd'
+p1193
+g2
+(g6
+S'\x8b,\x8a\x0f\xd0;\xc7?'
+p1194
+tp1195
+Rp1196
+tp1197
+a(S'passenger information'
+p1198
+g2
+(g6
+S'\xaf\x88b$"0\xc7?'
+p1199
+tp1200
+Rp1201
+tp1202
+a(S"fairleigh dickinson knights women's basketball"
+p1203
+g2
+(g6
+S'J\x9f\x90_\x01/\xc7?'
+p1204
+tp1205
+Rp1206
+tp1207
+a(S'institute of certified records managers'
+p1208
+g2
+(g6
+S'\x14\x89\xa8\x91\x9f\x11\xc7?'
+p1209
+tp1210
+Rp1211
+tp1212
+a(S'information cycle'
+p1213
+g2
+(g6
+S'\x86,]\xb4\xa5\x05\xc7?'
+p1214
+tp1215
+Rp1216
+tp1217
+a(S'tetrameristaceae'
+p1218
+g2
+(g6
+S'\xbe:\x0cJ\xaf\x00\xc7?'
+p1219
+tp1220
+Rp1221
+tp1222
+a(S'list of college athletic conferences in the united states'
+p1223
+g2
+(g6
+S'\x81/\xad\xef\x96\xfc\xc6?'
+p1224
+tp1225
+Rp1226
+tp1227
+a(S'information logistics'
+p1228
+g2
+(g6
+S'\xa7K:7\xca\xfa\xc6?'
+p1229
+tp1230
+Rp1231
+tp1232
+a(S'encoding specificity principle'
+p1233
+g2
+(g6
+S'\x9eB\x0f]\xd3\xf8\xc6?'
+p1234
+tp1235
+Rp1236
+tp1237
+a(S'italian association of environmental and resource economists (iaere)'
+p1238
+g2
+(g6
+S'\xec\xec\x17\xb7\x99\xd9\xc6?'
+p1239
+tp1240
+Rp1241
+tp1242
+a(S'double-blind frog'
+p1243
+g2
+(g6
+S'\xcbr\x94\xbdx\xd1\xc6?'
+p1244
+tp1245
+Rp1246
+tp1247
+a(S'ieee multimedia'
+p1248
+g2
+(g6
+S'\xe6z\xcd\xd3\x8b\xcf\xc6?'
+p1249
+tp1250
+Rp1251
+tp1252
+a(S'john d. lafferty'
+p1253
+g2
+(g6
+S'\x04x\xd6\xf0\x8c\xce\xc6?'
+p1254
+tp1255
+Rp1256
+tp1257
+a(S'standard boolean model'
+p1258
+g2
+(g6
+S'n\xa9.f`\xc6\xc6?'
+p1259
+tp1260
+Rp1261
+tp1262
+a(S'conference of specialised ministers'
+p1263
+g2
+(g6
+S'g\xf1\xccQy\xc2\xc6?'
+p1264
+tp1265
+Rp1266
+tp1267
+a(S'uk academy for information systems'
+p1268
+g2
+(g6
+S'W1\xc6\xd1\xad\xae\xc6?'
+p1269
+tp1270
+Rp1271
+tp1272
+a(S'jason farradane award'
+p1273
+g2
+(g6
+S'\x8a\xcf|\x90t\xad\xc6?'
+p1274
+tp1275
+Rp1276
+tp1277
+a(S'precision and recall'
+p1278
+g2
+(g6
+S'\xeb\xc8\x86H\xce\xab\xc6?'
+p1279
+tp1280
+Rp1281
+tp1282
+a(S'recall test'
+p1283
+g2
+(g6
+S'\xabM\xda\r/\xa7\xc6?'
+p1284
+tp1285
+Rp1286
+tp1287
+a(S'list of schools reclassifying their athletic programs to ncaa division i'
+p1288
+g2
+(g6
+S',\xcf\x9d6\xd8\xa1\xc6?'
+p1289
+tp1290
+Rp1291
+tp1292
+a(S'crossosomataceae'
+p1293
+g2
+(g6
+S'\x9b\xa5\xaf(\xcc\x90\xc6?'
+p1294
+tp1295
+Rp1296
+tp1297
+a(S'fuzzy-trace theory'
+p1298
+g2
+(g6
+S'\x9aZ+\x95-\x90\xc6?'
+p1299
+tp1300
+Rp1301
+tp1302
+a(S'institute for new culture technologies-t0'
+p1303
+g2
+(g6
+S'\xe7}\xe1\xc7\xa1\x8e\xc6?'
+p1304
+tp1305
+Rp1306
+tp1307
+a(S'dominique de quervain'
+p1308
+g2
+(g6
+S'\x19\xb5\xf0\xb8\x0e\x89\xc6?'
+p1309
+tp1310
+Rp1311
+tp1312
+a(S'boris katz'
+p1313
+g2
+(g6
+S'|U/\xdb\x9f\x87\xc6?'
+p1314
+tp1315
+Rp1316
+tp1317
+a(S'open archival information system'
+p1318
+g2
+(g6
+S'I\xf5\x84IY\x85\xc6?'
+p1319
+tp1320
+Rp1321
+tp1322
+a(S'information behavior'
+p1323
+g2
+(g6
+S'\x0e\xd2A!\x1c\x85\xc6?'
+p1324
+tp1325
+Rp1326
+tp1327
+a(S'information literacy'
+p1328
+g2
+(g6
+S'\t\r\xf6t\n\x84\xc6?'
+p1329
+tp1330
+Rp1331
+tp1332
+a(S'metropolitan conference'
+p1333
+g2
+(g6
+S'\x05\x93\xabd\xedt\xc6?'
+p1334
+tp1335
+Rp1336
+tp1337
+a(S'freedom of information laws by country'
+p1338
+g2
+(g6
+S'--\xd6\xc4\x10s\xc6?'
+p1339
+tp1340
+Rp1341
+tp1342
+a(S'david andreoff evans'
+p1343
+g2
+(g6
+S'\xba;\xfaQ\xd9r\xc6?'
+p1344
+tp1345
+Rp1346
+tp1347
+a(S'world conference (world association of girl guides and girl scouts)'
+p1348
+g2
+(g6
+S'\xa9\x8a\xaa\x9a\xb7o\xc6?'
+p1349
+tp1350
+Rp1351
+tp1352
+a(S'conference on information and knowledge management'
+p1353
+g2
+(g6
+S'!F\x90\x84\xaad\xc6?'
+p1354
+tp1355
+Rp1356
+tp1357
+a(S'access to public information in armenia'
+p1358
+g2
+(g6
+S'Y\xe8\xc2\xd1\xedb\xc6?'
+p1359
+tp1360
+Rp1361
+tp1362
+a(S"2007 ncaa division iii men's basketball tournament"
+p1363
+g2
+(g6
+S'\rO\xc7\xd4_W\xc6?'
+p1364
+tp1365
+Rp1366
+tp1367
+a(S'compound term processing'
+p1368
+g2
+(g6
+S'\xb7[QA\x99M\xc6?'
+p1369
+tp1370
+Rp1371
+tp1372
+a(S"list of defunct men's college basketball conferences in the united states"
+p1373
+g2
+(g6
+S'd\x8f\xd8X\x8bG\xc6?'
+p1374
+tp1375
+Rp1376
+tp1377
+a(S'current research information system'
+p1378
+g2
+(g6
+S'd;ay^>\xc6?'
+p1379
+tp1380
+Rp1381
+tp1382
+a(S'agent open service interface definition'
+p1383
+g2
+(g6
+S'Bc<)\xab<\xc6?'
+p1384
+tp1385
+Rp1386
+tp1387
+a(S'information design association'
+p1388
+g2
+(g6
+S'\x06\x8f\xa7\x05\x838\xc6?'
+p1389
+tp1390
+Rp1391
+tp1392
+a(S'association of caribbean university, research and institutional libraries'
+p1393
+g2
+(g6
+S'\n\xd4F\xa7\xee4\xc6?'
+p1394
+tp1395
+Rp1396
+tp1397
+a(S'national federation of advanced information services'
+p1398
+g2
+(g6
+S'\x8cM\xe2\xa9\x9a"\xc6?'
+p1399
+tp1400
+Rp1401
+tp1402
+a(S'philosophy of information'
+p1403
+g2
+(g6
+S'\xef5\x9e\x1cQ\x1f\xc6?'
+p1404
+tp1405
+Rp1406
+tp1407
+a(S'eva conferences'
+p1408
+g2
+(g6
+S'w\x9c\xf6 \xc2\x17\xc6?'
+p1409
+tp1410
+Rp1411
+tp1412
+a(S'paul b. kantor'
+p1413
+g2
+(g6
+S'l4X\xec\xf5\x16\xc6?'
+p1414
+tp1415
+Rp1416
+tp1417
+a(S'philippine society of information technology educators'
+p1418
+g2
+(g6
+S'\xfe\xcf\x17\x107\x0f\xc6?'
+p1419
+tp1420
+Rp1421
+tp1422
+a(S'document management system'
+p1423
+g2
+(g6
+S'FT\xdb\xcf\xc8\x0c\xc6?'
+p1424
+tp1425
+Rp1426
+tp1427
+a(S'white house conference'
+p1428
+g2
+(g6
+S'u\xcf\x8d\xce\xc4\n\xc6?'
+p1429
+tp1430
+Rp1431
+tp1432
+a(S'crisp'
+p1433
+g2
+(g6
+S'\xe0I\\7\xa1\x04\xc6?'
+p1434
+tp1435
+Rp1436
+tp1437
+a(S'computer security conference'
+p1438
+g2
+(g6
+S'\xf0e\x80X\x8c\x04\xc6?'
+p1439
+tp1440
+Rp1441
+tp1442
+a(S'bosmun'
+p1443
+g2
+(g6
+S'zz\xad\xce`\x03\xc6?'
+p1444
+tp1445
+Rp1446
+tp1447
+a(S'information excellence'
+p1448
+g2
+(g6
+S')+\xa4\xc9\x9a\xff\xc5?'
+p1449
+tp1450
+Rp1451
+tp1452
+a(S'amit singhal'
+p1453
+g2
+(g6
+S'0\x049\xb7\xa8\xf1\xc5?'
+p1454
+tp1455
+Rp1456
+tp1457
+a(S'barbeuia'
+p1458
+g2
+(g6
+S'\xc8\xc1\xc1ue\xef\xc5?'
+p1459
+tp1460
+Rp1461
+tp1462
+a(S'stephen robertson (computer scientist)'
+p1463
+g2
+(g6
+S'\xd4?\x060\xbd\xee\xc5?'
+p1464
+tp1465
+Rp1466
+tp1467
+a(S'dtsearch'
+p1468
+g2
+(g6
+S'\xeb\xfa;p\xe6\xec\xc5?'
+p1469
+tp1470
+Rp1471
+tp1472
+a(S'school of information technology'
+p1473
+g2
+(g6
+S'\xf6\xfe1\xb1?\xec\xc5?'
+p1474
+tp1475
+Rp1476
+tp1477
+a(S'national conference of the african national congress'
+p1478
+g2
+(g6
+S'\xd9\xc8u\xa9s\xe4\xc5?'
+p1479
+tp1480
+Rp1481
+tp1482
+a(S'information commissioner'
+p1483
+g2
+(g6
+S'\x9a\x80*\x11\xcb\xe3\xc5?'
+p1484
+tp1485
+Rp1486
+tp1487
+a(S'international conference on autonomous agents and multiagent systems'
+p1488
+g2
+(g6
+S'\x8d\xa6\xfd\x8c\xe1\xdd\xc5?'
+p1489
+tp1490
+Rp1491
+tp1492
+a(S'world conference (community of christ)'
+p1493
+g2
+(g6
+S'\xfe]\x13\xe8\xd3\xdb\xc5?'
+p1494
+tp1495
+Rp1496
+tp1497
+a(S'cynthia m. grund'
+p1498
+g2
+(g6
+S'=\xc8T`\xd3\xda\xc5?'
+p1499
+tp1500
+Rp1501
+tp1502
+a(S'knowledge aided retrieval in activity context'
+p1503
+g2
+(g6
+S'*SqQ\x10\xce\xc5?'
+p1504
+tp1505
+Rp1506
+tp1507
+a(S'ohio high school athletic conferences'
+p1508
+g2
+(g6
+S'k\xcc\xe1\xaf\x85\xcb\xc5?'
+p1509
+tp1510
+Rp1511
+tp1512
+a.

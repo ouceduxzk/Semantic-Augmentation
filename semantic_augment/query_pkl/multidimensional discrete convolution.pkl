@@ -1,0 +1,2728 @@
+(lp0
+(S'multidimensional discrete convolution'
+p1
+cnumpy.core.multiarray
+scalar
+p2
+(cnumpy
+dtype
+p3
+(S'f8'
+p4
+I0
+I1
+tp5
+Rp6
+(I3
+S'<'
+p7
+NNNI-1
+I-1
+I0
+tp8
+bS'\xff\xff\xff\xff\xff\xff\xef?'
+p9
+tp10
+Rp11
+tp12
+a(S'convolution'
+p13
+g2
+(g6
+S'2+#\x91dW\xe9?'
+p14
+tp15
+Rp16
+tp17
+a(S'convolute'
+p18
+g2
+(g6
+S'\xf3\xee3p\xceJ\xe6?'
+p19
+tp20
+Rp21
+tp22
+a(S'circular convolution'
+p23
+g2
+(g6
+S'\xfe9\x1fo)\xb1\xe5?'
+p24
+tp25
+Rp26
+tp27
+a(S'overlap\xe2\x80\x93add method'
+p28
+g2
+(g6
+S'b\x08\x95P$\x8d\xe3?'
+p29
+tp30
+Rp31
+tp32
+a(S'convolution power'
+p33
+g2
+(g6
+S'f\xdfX\xb4b#\xe3?'
+p34
+tp35
+Rp36
+tp37
+a(S'convolution quotient'
+p38
+g2
+(g6
+S'1\xa9[q\xbe\x0b\xe3?'
+p39
+tp40
+Rp41
+tp42
+a(S'convolution theorem'
+p43
+g2
+(g6
+S'.\xe9\x1ci3\x11\xe2?'
+p44
+tp45
+Rp46
+tp47
+a(S'chirp z-transform'
+p48
+g2
+(g6
+S'\xeb\xd2\x00\xde*i\xe0?'
+p49
+tp50
+Rp51
+tp52
+a(S'convolution reverb'
+p53
+g2
+(g6
+S'\x0cO\x0c\xba\x8d%\xe0?'
+p54
+tp55
+Rp56
+tp57
+a(S'savitzky\xe2\x80\x93golay filter'
+p58
+g2
+(g6
+S'\x9bR\xc6\xaf8\xd7\xdf?'
+p59
+tp60
+Rp61
+tp62
+a(S'overlap\xe2\x80\x93save method'
+p63
+g2
+(g6
+S'\xf3;\x9a\xa9\xb9g\xdf?'
+p64
+tp65
+Rp66
+tp67
+a(S'convolution for optical broad-beam responses in scattering media'
+p68
+g2
+(g6
+S'\xe1\xe7~\xedT\xf5\xde?'
+p69
+tp70
+Rp71
+tp72
+a(S'free convolution'
+p73
+g2
+(g6
+S"(r\xbd\xef'\xae\xde?"
+p74
+tp75
+Rp76
+tp77
+a(S"rader's fft algorithm"
+p78
+g2
+(g6
+S'\x8d\xc14a\xfd\xad\xdc?'
+p79
+tp80
+Rp81
+tp82
+a(S'sch\xc3\xb6nhage\xe2\x80\x93strassen algorithm'
+p83
+g2
+(g6
+S'\x0b\x80]\xd4wg\xdb?'
+p84
+tp85
+Rp86
+tp87
+a(S'multidimensional filter design and implementation'
+p88
+g2
+(g6
+S'\xa7Q\x04\t\xe1U\xdb?'
+p89
+tp90
+Rp91
+tp92
+a(S'linear time-invariant theory'
+p93
+g2
+(g6
+S'\xff"\xadU0\xbf\xd9?'
+p94
+tp95
+Rp96
+tp97
+a(S'line integral convolution'
+p98
+g2
+(g6
+S'i\xf7u/\x87\x9c\xd9?'
+p99
+tp100
+Rp101
+tp102
+a(S'kernel (image processing)'
+p103
+g2
+(g6
+S"&'\xf4>:\x80\xd9?"
+p104
+tp105
+Rp106
+tp107
+a(S'analog signal processing'
+p108
+g2
+(g6
+S'\x1c\x18\x00\x1e\x1c$\xd9?'
+p109
+tp110
+Rp111
+tp112
+a(S'multidimensional dsp with gpu acceleration'
+p113
+g2
+(g6
+S':\x0b@\xffL\xdc\xd7?'
+p114
+tp115
+Rp116
+tp117
+a(S'parallel multidimensional digital signal processing'
+p118
+g2
+(g6
+S'\xaa\x99\xea\x02\xbeA\xd7?'
+p119
+tp120
+Rp121
+tp122
+a(S'circulant matrix'
+p123
+g2
+(g6
+S'\x90\xfel\xfc,3\xd7?'
+p124
+tp125
+Rp126
+tp127
+a(S'separable filter'
+p128
+g2
+(g6
+S'0\xaa\xc7}\xdb\x16\xd7?'
+p129
+tp130
+Rp131
+tp132
+a(S'singular integral'
+p133
+g2
+(g6
+S'lZ\xd0\x06\xf0\xe0\xd6?'
+p134
+tp135
+Rp136
+tp137
+a(S'fast algorithms for multidimensional signals'
+p138
+g2
+(g6
+S'a\x99#\xa2\xbbf\xd6?'
+p139
+tp140
+Rp141
+tp142
+a(S'convolution of probability distributions'
+p143
+g2
+(g6
+S'\xdc\xdc\\\xd9\x8cb\xd6?'
+p144
+tp145
+Rp146
+tp147
+a(S'coopmans approximation'
+p148
+g2
+(g6
+S'\x11%\x01\\\xefY\xd6?'
+p149
+tp150
+Rp151
+tp152
+a(S'refinable function'
+p153
+g2
+(g6
+S'c^\x0f\xd0SV\xd6?'
+p154
+tp155
+Rp156
+tp157
+a(S'fundamental solution'
+p158
+g2
+(g6
+S'\xcc\xd2<>\xe0/\xd6?'
+p159
+tp160
+Rp161
+tp162
+a(S'discrete fourier transform'
+p163
+g2
+(g6
+S'~<\x1c\x15;\x9f\xd5?'
+p164
+tp165
+Rp166
+tp167
+a(S'idempotent measure'
+p168
+g2
+(g6
+S'\xed\x10\x8a\xf5k\x94\xd5?'
+p169
+tp170
+Rp171
+tp172
+a(S'image derivatives'
+p173
+g2
+(g6
+S'\x11\x17l\xf1/r\xd5?'
+p174
+tp175
+Rp176
+tp177
+a(S'deconvolution'
+p178
+g2
+(g6
+S'z\x96j\x96\x97K\xd5?'
+p179
+tp180
+Rp181
+tp182
+a(S'finite impulse response'
+p183
+g2
+(g6
+S'@\xb3.;\xa7+\xd5?'
+p184
+tp185
+Rp186
+tp187
+a(S'linear filter'
+p188
+g2
+(g6
+S'Nk\x0fk\x88)\xd5?'
+p189
+tp190
+Rp191
+tp192
+a(S'cyclic prefix'
+p193
+g2
+(g6
+S'\xa9N\x1d\xdeA\xf7\xd4?'
+p194
+tp195
+Rp196
+tp197
+a(S'2d filters'
+p198
+g2
+(g6
+S'\xd0`f\xf5-\xc7\xd4?'
+p199
+tp200
+Rp201
+tp202
+a(S'gaussian filter'
+p203
+g2
+(g6
+S'\x1es\xee\x05\r\xa3\xd4?'
+p204
+tp205
+Rp206
+tp207
+a(S'generalized signal averaging'
+p208
+g2
+(g6
+S' \x07\xebw\xa9$\xd4?'
+p209
+tp210
+Rp211
+tp212
+a(S'dirichlet convolution'
+p213
+g2
+(g6
+S'\xcco\x00\x94\xc2\x1b\xd4?'
+p214
+tp215
+Rp216
+tp217
+a(S'symmetric convolution'
+p218
+g2
+(g6
+S'\xba,\x03o\xc5\xdc\xd3?'
+p219
+tp220
+Rp221
+tp222
+a(S'titchmarsh convolution theorem'
+p223
+g2
+(g6
+S'P\xb0\xb8j\xa9\x89\xd3?'
+p224
+tp225
+Rp226
+tp227
+a(S"khinchin's theorem on the factorization of distributions"
+p228
+g2
+(g6
+S'\xc1\x7f0\xe1\xf2\x88\xd3?'
+p229
+tp230
+Rp231
+tp232
+a(S'discrete hartley transform'
+p233
+g2
+(g6
+S'\xd60\x19^\x1f\x0e\xd3?'
+p234
+tp235
+Rp236
+tp237
+a(S'triangular function'
+p238
+g2
+(g6
+S'\xedQ\xf9\xbd\xc0\xd8\xd2?'
+p239
+tp240
+Rp241
+tp242
+a(S'quadrature mirror filter'
+p243
+g2
+(g6
+S'\x99\xe7\xae#\xb2\xae\xd2?'
+p244
+tp245
+Rp246
+tp247
+a(S'impulse response'
+p248
+g2
+(g6
+S'\xcaXr\xaa\x9a\xac\xd2?'
+p249
+tp250
+Rp251
+tp252
+a(S'dedekind psi function'
+p253
+g2
+(g6
+S'\x00P[\t\x95\x9d\xd2?'
+p254
+tp255
+Rp256
+tp257
+a(S"k\xc3\xbcpfm\xc3\xbcller's uncertainty principle"
+p258
+g2
+(g6
+S'\xd6\x83xk\x9e}\xd2?'
+p259
+tp260
+Rp261
+tp262
+a(S'discrete-time fourier transform'
+p263
+g2
+(g6
+S'\xf1~\x05\xebli\xd2?'
+p264
+tp265
+Rp266
+tp267
+a(S'filter design'
+p268
+g2
+(g6
+S'\x7f\xf3\x86\xd9\xfbE\xd2?'
+p269
+tp270
+Rp271
+tp272
+a(S'scale space implementation'
+p273
+g2
+(g6
+S',U\x93K\x1c\x17\xd2?'
+p274
+tp275
+Rp276
+tp277
+a(S'adjoint filter'
+p278
+g2
+(g6
+S'\xa0\x01/a\xe3\xfb\xd1?'
+p279
+tp280
+Rp281
+tp282
+a(S'texture advection'
+p283
+g2
+(g6
+S'\x9b\xdau\x90\xf0\xd6\xd1?'
+p284
+tp285
+Rp286
+tp287
+a(S'non-linear multi-dimensional signal processing'
+p288
+g2
+(g6
+S'C\xaf\x13yt\xd2\xd1?'
+p289
+tp290
+Rp291
+tp292
+a(S'mollifier'
+p293
+g2
+(g6
+S'\xaf&\x7fzX\xaa\xd1?'
+p294
+tp295
+Rp296
+tp297
+a(S'moving average (disambiguation)'
+p298
+g2
+(g6
+S'\xde-b)\xf1\x97\xd1?'
+p299
+tp300
+Rp301
+tp302
+a(S'echo removal'
+p303
+g2
+(g6
+S'@\x90r:\xbc\x97\xd1?'
+p304
+tp305
+Rp306
+tp307
+a(S'filter (large eddy simulation)'
+p308
+g2
+(g6
+S'\xf6CHJ\xcf{\xd1?'
+p309
+tp310
+Rp311
+tp312
+a(S'multidimensional signal processing'
+p313
+g2
+(g6
+S'C\x15\xe7\x13\xf3[\xd1?'
+p314
+tp315
+Rp316
+tp317
+a(S"huisken's monotonicity formula"
+p318
+g2
+(g6
+S'\xec\x7f\x86\x90\x85Z\xd1?'
+p319
+tp320
+Rp321
+tp322
+a(S'multidimensional transform'
+p323
+g2
+(g6
+S'\xc4U\xff\n\x13?\xd1?'
+p324
+tp325
+Rp326
+tp327
+a(S'filter (signal processing)'
+p328
+g2
+(g6
+S'\xed\xe1\xfe\xa2~\xd6\xd0?'
+p329
+tp330
+Rp331
+tp332
+a(S'matched filter'
+p333
+g2
+(g6
+S'D|\x02v\xce\xd4\xd0?'
+p334
+tp335
+Rp336
+tp337
+a(S'bibo stability'
+p338
+g2
+(g6
+S'C\xb5p\xd0\x15\xd4\xd0?'
+p339
+tp340
+Rp341
+tp342
+a(S'multidimensional seismic data processing'
+p343
+g2
+(g6
+S'"\x8b\x958:\xcf\xd0?'
+p344
+tp345
+Rp346
+tp347
+a(S'overlap'
+p348
+g2
+(g6
+S'\xc8b\xc8V7\xcc\xd0?'
+p349
+tp350
+Rp351
+tp352
+a(S'filter bank'
+p353
+g2
+(g6
+S'\xf3\xa0X\xd8`\xc3\xd0?'
+p354
+tp355
+Rp356
+tp357
+a(S'jan mikusi\xc5\x84ski'
+p358
+g2
+(g6
+S'\xf2a\xbb\x88"\xbd\xd0?'
+p359
+tp360
+Rp361
+tp362
+a(S'low-pass filter'
+p363
+g2
+(g6
+S'Jk\r\xb2L\xa1\xd0?'
+p364
+tp365
+Rp366
+tp367
+a(S'digital signal processing'
+p368
+g2
+(g6
+S'\x0f\x05\xdf\x99\x86\x9f\xd0?'
+p369
+tp370
+Rp371
+tp372
+a(S'quadrature filter'
+p373
+g2
+(g6
+S'W\xbal\\0\x81\xd0?'
+p374
+tp375
+Rp376
+tp377
+a(S'cepstrum'
+p378
+g2
+(g6
+S'K\x17;\xcbX]\xd0?'
+p379
+tp380
+Rp381
+tp382
+a(S'3d sound reconstruction'
+p383
+g2
+(g6
+S'\xc1\xc2\xd9\x88MX\xd0?'
+p384
+tp385
+Rp386
+tp387
+a(S'bochner\xe2\x80\x93riesz mean'
+p388
+g2
+(g6
+S'\xb2Q\x03VIL\xd0?'
+p389
+tp390
+Rp391
+tp392
+a(S'multirate filter bank and multidimensional directional filter banks'
+p393
+g2
+(g6
+S',\x88v\x9d\xe8G\xd0?'
+p394
+tp395
+Rp396
+tp397
+a(S'adaptive filter'
+p398
+g2
+(g6
+S'EEic\xfa/\xd0?'
+p399
+tp400
+Rp401
+tp402
+a(S'digital filter'
+p403
+g2
+(g6
+S'B\xcb\x8d\x19+%\xd0?'
+p404
+tp405
+Rp406
+tp407
+a(S'impulse invariance'
+p408
+g2
+(g6
+S'\xf9\xdcd<\x9c$\xd0?'
+p409
+tp410
+Rp411
+tp412
+a(S'goertzel algorithm'
+p413
+g2
+(g6
+S'\xf2r$\xfdn\x13\xd0?'
+p414
+tp415
+Rp416
+tp417
+a(S'infinite impulse response'
+p418
+g2
+(g6
+S'+\xd9.]\x8b\xe7\xcf?'
+p419
+tp420
+Rp421
+tp422
+a(S'reconstruction filter'
+p423
+g2
+(g6
+S'g\x90\xf4\xc4\xa1\xda\xcf?'
+p424
+tp425
+Rp426
+tp427
+a(S'discrete fourier transform (general)'
+p428
+g2
+(g6
+S'J\xdb1^\x0b\xc1\xcf?'
+p429
+tp430
+Rp431
+tp432
+a(S'fourier transform on finite groups'
+p433
+g2
+(g6
+S'\x90v\xcd\x14\xd1W\xcf?'
+p434
+tp435
+Rp436
+tp437
+a(S'voigt profile'
+p438
+g2
+(g6
+S'i\xad[\xb1\x191\xcf?'
+p439
+tp440
+Rp441
+tp442
+a(S'nonlinear filter'
+p443
+g2
+(g6
+S'A\xa1F\xe2\xa3\xbc\xce?'
+p444
+tp445
+Rp446
+tp447
+a(S'signal (electrical engineering)'
+p448
+g2
+(g6
+S'\x14\x83eD\xf3\x9a\xce?'
+p449
+tp450
+Rp451
+tp452
+a(S'additional productions'
+p453
+g2
+(g6
+S'\xe4\x98\xe5\xde6\x8c\xce?'
+p454
+tp455
+Rp456
+tp457
+a(S'polyphase matrix'
+p458
+g2
+(g6
+S'\x94\xeap\xe6\x12`\xce?'
+p459
+tp460
+Rp461
+tp462
+a(S"buzen's algorithm"
+p463
+g2
+(g6
+S'd\xb6\xb1E\xefR\xce?'
+p464
+tp465
+Rp466
+tp467
+a(S'linear system'
+p468
+g2
+(g6
+S'*<\xb9*[F\xce?'
+p469
+tp470
+Rp471
+tp472
+a(S'spectral line shape'
+p473
+g2
+(g6
+S'!#\x89\x8f\xd7:\xce?'
+p474
+tp475
+Rp476
+tp477
+a(S'gaussian blur'
+p478
+g2
+(g6
+S'bN\x9c\x17\xc5\xeb\xcd?'
+p479
+tp480
+Rp481
+tp482
+a(S'steerable filter'
+p483
+g2
+(g6
+S'\xef\x19\xb5wzp\xcd?'
+p484
+tp485
+Rp486
+tp487
+a(S'recursive filter'
+p488
+g2
+(g6
+S'\xcc\xf4\xfeV\xba\x10\xcd?'
+p489
+tp490
+Rp491
+tp492
+a(S'cross-correlation'
+p493
+g2
+(g6
+S'h\xa2\xf6.\xb5\xff\xcc?'
+p494
+tp495
+Rp496
+tp497
+a(S'smoothing'
+p498
+g2
+(g6
+S'\x1d\xdb2\xa3s\xe4\xcc?'
+p499
+tp500
+Rp501
+tp502
+a(S'2d adaptive filters'
+p503
+g2
+(g6
+S'a\xd5\xadf\x01\xdc\xcc?'
+p504
+tp505
+Rp506
+tp507
+a(S'causal filter'
+p508
+g2
+(g6
+S'\x07r\xe6\x8b\x83\xd9\xcc?'
+p509
+tp510
+Rp511
+tp512
+a(S'sinc filter'
+p513
+g2
+(g6
+S'\xc3\x9b\xd0\xb9\xb7\xc2\xcc?'
+p514
+tp515
+Rp516
+tp517
+a(S'free boundary condition'
+p518
+g2
+(g6
+S'\x01\x11\xaa\x90\xf5\xb8\xcc?'
+p519
+tp520
+Rp521
+tp522
+a(S'bilinear transform'
+p523
+g2
+(g6
+S'\xdf\x16\x90\xdf\x0c\xad\xcc?'
+p524
+tp525
+Rp526
+tp527
+a(S'ringing artifacts'
+p528
+g2
+(g6
+S'\x7f\xf2\x1e\xfc<\xab\xcc?'
+p529
+tp530
+Rp531
+tp532
+a(S'neighborhood operation'
+p533
+g2
+(g6
+S'\x94\xc0\x96%?\x97\xcc?'
+p534
+tp535
+Rp536
+tp537
+a(S'multidimensional system'
+p538
+g2
+(g6
+S"\xc3\xa6X'\x88\x84\xcc?"
+p539
+tp540
+Rp541
+tp542
+a(S'four-dimensional space'
+p543
+g2
+(g6
+S'D$!"_S\xcc?'
+p544
+tp545
+Rp546
+tp547
+a(S'velocity filter'
+p548
+g2
+(g6
+S'\xf6\x9d\x06\x11\xa2B\xcc?'
+p549
+tp550
+Rp551
+tp552
+a(S'periodic summation'
+p553
+g2
+(g6
+S'\x01\x8c9\xb2\x9b2\xcc?'
+p554
+tp555
+Rp556
+tp557
+a(S"wiener's tauberian theorem"
+p558
+g2
+(g6
+S' \xdc\x06\xb79/\xcc?'
+p559
+tp560
+Rp561
+tp562
+a(S'whittaker\xe2\x80\x93shannon interpolation formula'
+p563
+g2
+(g6
+S'\xae\xc6\xf3\xc0\xe4\xfb\xcb?'
+p564
+tp565
+Rp566
+tp567
+a(S'first-order hold'
+p568
+g2
+(g6
+S'\x03\xd7\xc0O\x18\xf7\xcb?'
+p569
+tp570
+Rp571
+tp572
+a(S'bilateral filter'
+p573
+g2
+(g6
+S'\xba\x18\xc0p\x93\xe3\xcb?'
+p574
+tp575
+Rp576
+tp577
+a(S'fourier analysis'
+p578
+g2
+(g6
+S'\xf7k_RE\xd3\xcb?'
+p579
+tp580
+Rp581
+tp582
+a(S'bispectrum'
+p583
+g2
+(g6
+S'y\x97lW\n\xbf\xcb?'
+p584
+tp585
+Rp586
+tp587
+a(S'lanczos resampling'
+p588
+g2
+(g6
+S'[6J\xc6\r\xb9\xcb?'
+p589
+tp590
+Rp591
+tp592
+a(S'autocorrelation'
+p593
+g2
+(g6
+S'{\x12y\xc7\x1d\xb1\xcb?'
+p594
+tp595
+Rp596
+tp597
+a(S'high-pass filter'
+p598
+g2
+(g6
+S'\xb1O\xa8\'"\xa1\xcb?'
+p599
+tp600
+Rp601
+tp602
+a(S'geophysical survey'
+p603
+g2
+(g6
+S'S\xb5\xa8\xfd\xa2\x97\xcb?'
+p604
+tp605
+Rp606
+tp607
+a(S'optical correlator'
+p608
+g2
+(g6
+S'\xef\xf0\xef\xf3\xa2~\xcb?'
+p609
+tp610
+Rp611
+tp612
+a(S'dft matrix'
+p613
+g2
+(g6
+S'by\xcb\x18]|\xcb?'
+p614
+tp615
+Rp616
+tp617
+a(S'electronic filter'
+p618
+g2
+(g6
+S'\x94\xf1\x880\xd7v\xcb?'
+p619
+tp620
+Rp621
+tp622
+a(S'wiener deconvolution'
+p623
+g2
+(g6
+S'W\x94\x08\xd2\x0ed\xcb?'
+p624
+tp625
+Rp626
+tp627
+a(S'dirac comb'
+p628
+g2
+(g6
+S'bu\x9b7\x89[\xcb?'
+p629
+tp630
+Rp631
+tp632
+a(S'henri nussbaumer'
+p633
+g2
+(g6
+S'<^S9wT\xcb?'
+p634
+tp635
+Rp636
+tp637
+a(S'multidimensional multirate systems'
+p638
+g2
+(g6
+S'\x87Q\xd01\xb73\xcb?'
+p639
+tp640
+Rp641
+tp642
+a(S'starred transform'
+p643
+g2
+(g6
+S'|H\x8f_\xaf#\xcb?'
+p644
+tp645
+Rp646
+tp647
+a(S'convolutional neural network'
+p648
+g2
+(g6
+S'3\xdfR\x10\x0f\t\xcb?'
+p649
+tp650
+Rp651
+tp652
+a(S'list of harmonic analysis topics'
+p653
+g2
+(g6
+S'\xea\xcb\xb60\x7f\xff\xca?'
+p654
+tp655
+Rp656
+tp657
+a(S'source\xe2\x80\x93filter model of speech production'
+p658
+g2
+(g6
+S'\xc6u\xb5\x1e\xb7\xdd\xca?'
+p659
+tp660
+Rp661
+tp662
+a(S'fast wavelet transform'
+p663
+g2
+(g6
+S'\xcf=\x06k\x97\xdd\xca?'
+p664
+tp665
+Rp666
+tp667
+a(S'swifft'
+p668
+g2
+(g6
+S'.\xd4\xb1\xda\xaa\xbe\xca?'
+p669
+tp670
+Rp671
+tp672
+a(S'filter'
+p673
+g2
+(g6
+S'\rwM]a\xac\xca?'
+p674
+tp675
+Rp676
+tp677
+a(S'half-band filter'
+p678
+g2
+(g6
+S'\x00u\x15^\xbe\xa6\xca?'
+p679
+tp680
+Rp681
+tp682
+a(S'wiener filter'
+p683
+g2
+(g6
+S'\x06\x19)\x15\x8c\x98\xca?'
+p684
+tp685
+Rp686
+tp687
+a(S'yuri linnik'
+p688
+g2
+(g6
+S'\xc6\xbb\xca\xf6\x88\x96\xca?'
+p689
+tp690
+Rp691
+tp692
+a(S'kolmogorov\xe2\x80\x93zurbenko filter'
+p693
+g2
+(g6
+S'-k\xdb\xcf+\x95\xca?'
+p694
+tp695
+Rp696
+tp697
+a(S'change-making problem'
+p698
+g2
+(g6
+S'\r\xa8\xb5\x9ccu\xca?'
+p699
+tp700
+Rp701
+tp702
+a(S'multidimensional signal restoration'
+p703
+g2
+(g6
+S'k\xb9\xc3M\xc0t\xca?'
+p704
+tp705
+Rp706
+tp707
+a(S'list of convolutions of probability distributions'
+p708
+g2
+(g6
+S'`\x89\xdd\x89\x01<\xca?'
+p709
+tp710
+Rp711
+tp712
+a(S'double coset'
+p713
+g2
+(g6
+S'p$gU\xc68\xca?'
+p714
+tp715
+Rp716
+tp717
+a(S'multi-scale approaches'
+p718
+g2
+(g6
+S'\xc3\xd8\xb0\xf9\x92/\xca?'
+p719
+tp720
+Rp721
+tp722
+a(S'kfrlib'
+p723
+g2
+(g6
+S'\x98\xd6\xda\xf5p\x1a\xca?'
+p724
+tp725
+Rp726
+tp727
+a(S'unit function'
+p728
+g2
+(g6
+S'\xeb\xf7\x04\x1e\x00\x1a\xca?'
+p729
+tp730
+Rp731
+tp732
+a(S'signal processing'
+p733
+g2
+(g6
+S'I\xb4\xba2d\x12\xca?'
+p734
+tp735
+Rp736
+tp737
+a(S'cauchy product'
+p738
+g2
+(g6
+S'\xd9\xdc\xe2\xbd\xba\r\xca?'
+p739
+tp740
+Rp741
+tp742
+a(S'system analysis'
+p743
+g2
+(g6
+S'\x0cC$\x8aW\x0c\xca?'
+p744
+tp745
+Rp746
+tp747
+a(S'list of fourier-related transforms'
+p748
+g2
+(g6
+S'O\xd8\xc1\x8e:\xf8\xc9?'
+p749
+tp750
+Rp751
+tp752
+a(S'integral transform'
+p753
+g2
+(g6
+S'\x1e\x95Rg>\xdc\xc9?'
+p754
+tp755
+Rp756
+tp757
+a(S'cyclotomic fast fourier transform'
+p758
+g2
+(g6
+S'\n\xf0\xff\xca\xc4\xcd\xc9?'
+p759
+tp760
+Rp761
+tp762
+a(S'toeplitz matrix'
+p763
+g2
+(g6
+S'\x038\xec\xec\xe6\xaa\xc9?'
+p764
+tp765
+Rp766
+tp767
+a(S'multidelay block frequency domain adaptive filter'
+p768
+g2
+(g6
+S'3`\xf2<d\x9e\xc9?'
+p769
+tp770
+Rp771
+tp772
+a(S'baseflow residence time'
+p773
+g2
+(g6
+S'~=\xef\xd7\xb1\x9c\xc9?'
+p774
+tp775
+Rp776
+tp777
+a(S'riesz transform'
+p778
+g2
+(g6
+S'LF\x9al`\x81\xc9?'
+p779
+tp780
+Rp781
+tp782
+a(S'unit doublet'
+p783
+g2
+(g6
+S';\xba\xfaQ\xc9w\xc9?'
+p784
+tp785
+Rp786
+tp787
+a(S'matched z-transform method'
+p788
+g2
+(g6
+S'~+C\xc1Pm\xc9?'
+p789
+tp790
+Rp791
+tp792
+a(S'multidimensional empirical mode decomposition'
+p793
+g2
+(g6
+S'\xd1\xa5\xf3\xc7\x99e\xc9?'
+p794
+tp795
+Rp796
+tp797
+a(S'analogue filter'
+p798
+g2
+(g6
+S'\xce\xa0BS\xd3C\xc9?'
+p799
+tp800
+Rp801
+tp802
+a(S'fast fourier transform'
+p803
+g2
+(g6
+S'\xabZ\x84\x08c?\xc9?'
+p804
+tp805
+Rp806
+tp807
+a(S'zero-order hold'
+p808
+g2
+(g6
+S'V\xeeTmt0\xc9?'
+p809
+tp810
+Rp811
+tp812
+a(S'hilbert transform'
+p813
+g2
+(g6
+S"E\xa9D5\x1b'\xc9?"
+p814
+tp815
+Rp816
+tp817
+a(S'decimation (signal processing)'
+p818
+g2
+(g6
+S'ccc\xc3\xa6 \xc9?'
+p819
+tp820
+Rp821
+tp822
+a(S'transfer function'
+p823
+g2
+(g6
+S'\x82\xe4F\xbf\xbf\x1a\xc9?'
+p824
+tp825
+Rp826
+tp827
+a(S'short-time fourier transform'
+p828
+g2
+(g6
+S'?\x17\xa2\x1eu\x0f\xc9?'
+p829
+tp830
+Rp831
+tp832
+a(S'dirac delta function'
+p833
+g2
+(g6
+S'\x1e6\x89\xd0\xfe\r\xc9?'
+p834
+tp835
+Rp836
+tp837
+a(S'mathematics of radio engineering'
+p838
+g2
+(g6
+S'\xc3Adn\xc5\xeb\xc8?'
+p839
+tp840
+Rp841
+tp842
+a(S'network synthesis filters'
+p843
+g2
+(g6
+S'\x11u\x1c\xae\xf0\xe2\xc8?'
+p844
+tp845
+Rp846
+tp847
+a(S'band-pass filter'
+p848
+g2
+(g6
+S'\xdc3\x04\xdb\xfd\xba\xc8?'
+p849
+tp850
+Rp851
+tp852
+a(S'fej\xc3\xa9r kernel'
+p853
+g2
+(g6
+S'\xaa\xd9\xe7j2\x9e\xc8?'
+p854
+tp855
+Rp856
+tp857
+a(S'bell series'
+p858
+g2
+(g6
+S'Z\xcb\xb7S\xb0|\xc8?'
+p859
+tp860
+Rp861
+tp862
+a(S'isidore isaac hirschman, jr.'
+p863
+g2
+(g6
+S'h\xf2\xb6\xdf\xe9v\xc8?'
+p864
+tp865
+Rp866
+tp867
+a(S'linear response function'
+p868
+g2
+(g6
+S'|\xd4\x8d\x9e\x9aj\xc8?'
+p869
+tp870
+Rp871
+tp872
+a(S'david widder'
+p873
+g2
+(g6
+S'\x1bL\xaaT\xc9\\\xc8?'
+p874
+tp875
+Rp876
+tp877
+a(S'distribution (mathematics)'
+p878
+g2
+(g6
+S'p\x9c\xf1~5[\xc8?'
+p879
+tp880
+Rp881
+tp882
+a(S'hecke algebra of a pair'
+p883
+g2
+(g6
+S'b<\xec\x02\x00-\xc8?'
+p884
+tp885
+Rp886
+tp887
+a(S'time\xe2\x80\x93frequency analysis'
+p888
+g2
+(g6
+S"\x89\x1f>C\xad'\xc8?"
+p889
+tp890
+Rp891
+tp892
+a(S'upsampling'
+p893
+g2
+(g6
+S"\xec\x9cWU\x99'\xc8?"
+p894
+tp895
+Rp896
+tp897
+a(S'lag windowing'
+p898
+g2
+(g6
+S'<\x1c\xc8\x92\x03\x0b\xc8?'
+p899
+tp900
+Rp901
+tp902
+a(S'fourier optics'
+p903
+g2
+(g6
+S'\x93\xaaD\x04\xdf\x01\xc8?'
+p904
+tp905
+Rp906
+tp907
+a(S'washout filter'
+p908
+g2
+(g6
+S'\xf5\xdb\xfc\xaf\x9d\xf4\xc7?'
+p909
+tp910
+Rp911
+tp912
+a(S'gammatone filter'
+p913
+g2
+(g6
+S'\x84fG#A\xee\xc7?'
+p914
+tp915
+Rp916
+tp917
+a(S'newtonian potential'
+p918
+g2
+(g6
+S'1j\xed\xbax\xdf\xc7?'
+p919
+tp920
+Rp921
+tp922
+a(S'log gabor filter'
+p923
+g2
+(g6
+S'q\xe1m\x12o\xdb\xc7?'
+p924
+tp925
+Rp926
+tp927
+a(S'weierstrass transform'
+p928
+g2
+(g6
+S'I1%\xaa[\xb6\xc7?'
+p929
+tp930
+Rp931
+tp932
+a(S'six-dimensional space'
+p933
+g2
+(g6
+S'D\x92\xe4%\xdc\xaf\xc7?'
+p934
+tp935
+Rp936
+tp937
+a(S'high-frequency impulse-measurement'
+p938
+g2
+(g6
+S'e\x1a\x91\xdd\n\xa0\xc7?'
+p939
+tp940
+Rp941
+tp942
+a(S'integrodifference equation'
+p943
+g2
+(g6
+S'\x7f/l\x14\x1d\x99\xc7?'
+p944
+tp945
+Rp946
+tp947
+a(S'state variable filter'
+p948
+g2
+(g6
+S'\xae\x05$\x10\xbd\x8e\xc7?'
+p949
+tp950
+Rp951
+tp952
+a(S'discrete wavelet transform'
+p953
+g2
+(g6
+S'C\xc0\xe0\x19>\x87\xc7?'
+p954
+tp955
+Rp956
+tp957
+a(S'non-uniform discrete fourier transform'
+p958
+g2
+(g6
+S'K|b\x98\xee\x83\xc7?'
+p959
+tp960
+Rp961
+tp962
+a(S'periodogram'
+p963
+g2
+(g6
+S'\xef\x0fl\xef|\x83\xc7?'
+p964
+tp965
+Rp966
+tp967
+a(S'all-pass filter'
+p968
+g2
+(g6
+S'6a:L v\xc7?'
+p969
+tp970
+Rp971
+tp972
+a(S'active filter'
+p973
+g2
+(g6
+S'9\xba\xdd\x94\x87[\xc7?'
+p974
+tp975
+Rp976
+tp977
+a(S'karhunen\xe2\x80\x93lo\xc3\xa8ve theorem'
+p978
+g2
+(g6
+S'\x06\xe2\xadb\xa3W\xc7?'
+p979
+tp980
+Rp981
+tp982
+a(S'fourier transform'
+p983
+g2
+(g6
+S'j(\x1eH\x1bT\xc7?'
+p984
+tp985
+Rp986
+tp987
+a(S'gaussian function'
+p988
+g2
+(g6
+S'Iq\xc9+\tI\xc7?'
+p989
+tp990
+Rp991
+tp992
+a(S'anti-aliasing filter'
+p993
+g2
+(g6
+S'\xfb\x1aw\x16vC\xc7?'
+p994
+tp995
+Rp996
+tp997
+a(S'illustration of the central limit theorem'
+p998
+g2
+(g6
+S'\x01\xd7\xc0\x0e\x0bB\xc7?'
+p999
+tp1000
+Rp1001
+tp1002
+a(S'list of fourier analysis topics'
+p1003
+g2
+(g6
+S'\xd6"RKA@\xc7?'
+p1004
+tp1005
+Rp1006
+tp1007
+a(S'north american railroad signals'
+p1008
+g2
+(g6
+S'\x1a\x03\xa0f,?\xc7?'
+p1009
+tp1010
+Rp1011
+tp1012
+a(S'recursive least squares filter'
+p1013
+g2
+(g6
+S'\x1c|\x87d\x08?\xc7?'
+p1014
+tp1015
+Rp1016
+tp1017
+a(S'tetraview'
+p1018
+g2
+(g6
+S'\xa0p\n\xbf\x08.\xc7?'
+p1019
+tp1020
+Rp1021
+tp1022
+a(S'filtering problem (stochastic processes)'
+p1023
+g2
+(g6
+S'\x1a\xd0\xb0\x96E%\xc7?'
+p1024
+tp1025
+Rp1026
+tp1027
+a(S'overshoot (signal)'
+p1028
+g2
+(g6
+S'\n\x15\x18\xe4\x0c%\xc7?'
+p1029
+tp1030
+Rp1031
+tp1032
+a(S'convolution random number generator'
+p1033
+g2
+(g6
+S'\xc4\xfd\x82\xdd~\x1d\xc7?'
+p1034
+tp1035
+Rp1036
+tp1037
+a(S'dimensional modeling'
+p1038
+g2
+(g6
+S'\xfa\x11T\x07K\x19\xc7?'
+p1039
+tp1040
+Rp1041
+tp1042
+a(S'blind deconvolution'
+p1043
+g2
+(g6
+S'\xd6\xcaA?\x83\x15\xc7?'
+p1044
+tp1045
+Rp1046
+tp1047
+a(S'italian railway signalling'
+p1048
+g2
+(g6
+S'\xf4\r\x04\xbb\n\x0b\xc7?'
+p1049
+tp1050
+Rp1051
+tp1052
+a(S'prototype filter'
+p1053
+g2
+(g6
+S'\xb4\xfd+\x1dz\x04\xc7?'
+p1054
+tp1055
+Rp1056
+tp1057
+a(S'reassignment method'
+p1058
+g2
+(g6
+S'\x05\xe6J\nV\xfc\xc6?'
+p1059
+tp1060
+Rp1061
+tp1062
+a(S'contourlet'
+p1063
+g2
+(g6
+S'\xa5\x8a\xec\xd8\x08\xe3\xc6?'
+p1064
+tp1065
+Rp1066
+tp1067
+a(S'singular integral operators of convolution type'
+p1068
+g2
+(g6
+S'\xd9\xbaY\xf6\x9e\xd6\xc6?'
+p1069
+tp1070
+Rp1071
+tp1072
+a(S'discrete-time beamforming'
+p1073
+g2
+(g6
+S'H\xcb\xb8\xf1B\xd3\xc6?'
+p1074
+tp1075
+Rp1076
+tp1077
+a(S'discrete transform'
+p1078
+g2
+(g6
+S'\xc0\x96\xf92\xc9\xd2\xc6?'
+p1079
+tp1080
+Rp1081
+tp1082
+a(S'one-dimensional space'
+p1083
+g2
+(g6
+S'\xf6\x9a\n\xf8q\xd1\xc6?'
+p1084
+tp1085
+Rp1086
+tp1087
+a(S'filter (mathematics)'
+p1088
+g2
+(g6
+S'\xda\xca\x932B\xb9\xc6?'
+p1089
+tp1090
+Rp1091
+tp1092
+a(S'behavioral modeling'
+p1093
+g2
+(g6
+S'\xba\x1dN\x97\xe6\xb2\xc6?'
+p1094
+tp1095
+Rp1096
+tp1097
+a(S'non-separable wavelet'
+p1098
+g2
+(g6
+S'\xd0\xb6/\x8f\xc7\xaa\xc6?'
+p1099
+tp1100
+Rp1101
+tp1102
+a(S'independent component analysis'
+p1103
+g2
+(g6
+S'm\x88\x96\x19\x8c\xaa\xc6?'
+p1104
+tp1105
+Rp1106
+tp1107
+a(S'railway signal'
+p1108
+g2
+(g6
+S'^\xc9BH\x99\xa1\xc6?'
+p1109
+tp1110
+Rp1111
+tp1112
+a(S'input shaping'
+p1113
+g2
+(g6
+S'\x83\xdd!\x8dJ\xa1\xc6?'
+p1114
+tp1115
+Rp1116
+tp1117
+a(S'multidimensional analysis'
+p1118
+g2
+(g6
+S'\x1c\xc4\x8f&\xdc\x9e\xc6?'
+p1119
+tp1120
+Rp1121
+tp1122
+a(S'projection-slice theorem'
+p1123
+g2
+(g6
+S'^\x83\xbc\xb4\xf3\x96\xc6?'
+p1124
+tp1125
+Rp1126
+tp1127
+a(S'whittle likelihood'
+p1128
+g2
+(g6
+S'\xe1\xbc\xef\xde\xb0`\xc6?'
+p1129
+tp1130
+Rp1131
+tp1132
+a(S'gibbs phenomenon'
+p1133
+g2
+(g6
+S'B\xb6\x01\x08\x04]\xc6?'
+p1134
+tp1135
+Rp1136
+tp1137
+a(S'curse of dimensionality'
+p1138
+g2
+(g6
+S'\x83\x04k\xff\xd1X\xc6?'
+p1139
+tp1140
+Rp1141
+tp1142
+a(S'passband'
+p1143
+g2
+(g6
+S'\x07\x1a-\xb6\xf97\xc6?'
+p1144
+tp1145
+Rp1146
+tp1147
+a(S'dependent component analysis'
+p1148
+g2
+(g6
+S'\xe2\x8e\x9e7\x915\xc6?'
+p1149
+tp1150
+Rp1151
+tp1152
+a(S'general mn-type image filter'
+p1153
+g2
+(g6
+S'\xcb\x08!VD0\xc6?'
+p1154
+tp1155
+Rp1156
+tp1157
+a(S'generalized wiener filter'
+p1158
+g2
+(g6
+S'\xbd)b\x8b\x9e*\xc6?'
+p1159
+tp1160
+Rp1161
+tp1162
+a(S'single-carrier fdma'
+p1163
+g2
+(g6
+S'L\xddo\xde<*\xc6?'
+p1164
+tp1165
+Rp1166
+tp1167
+a(S'kuwahara filter'
+p1168
+g2
+(g6
+S'\xf8\xb6\xf7m\xc1\x15\xc6?'
+p1169
+tp1170
+Rp1171
+tp1172
+a(S'poisson kernel'
+p1173
+g2
+(g6
+S'\x9f\xb4`\xe4T\x0c\xc6?'
+p1174
+tp1175
+Rp1176
+tp1177
+a(S'z-transform'
+p1178
+g2
+(g6
+S'G\xba\xc9\x9fW\x07\xc6?'
+p1179
+tp1180
+Rp1181
+tp1182
+a(S'geophysical signal analysis'
+p1183
+g2
+(g6
+S'o\x97\xacd\xd2\xf7\xc5?'
+p1184
+tp1185
+Rp1186
+tp1187
+a(S'discrete fourier series'
+p1188
+g2
+(g6
+S'\x8a\xc8:\x12h\xe9\xc5?'
+p1189
+tp1190
+Rp1191
+tp1192
+a(S'sallen\xe2\x80\x93key topology'
+p1193
+g2
+(g6
+S'\xdd\x8f"`\xdc\xcf\xc5?'
+p1194
+tp1195
+Rp1196
+tp1197
+a(S'two dimensional window design'
+p1198
+g2
+(g6
+S'\xfd\x17\x7fzW\xc5\xc5?'
+p1199
+tp1200
+Rp1201
+tp1202
+a(S'hartley transform'
+p1203
+g2
+(g6
+S'\xfa\x8c6,\x1c\xc5\xc5?'
+p1204
+tp1205
+Rp1206
+tp1207
+a(S'bicubic interpolation'
+p1208
+g2
+(g6
+S'\x9f\xed"8&\xb9\xc5?'
+p1209
+tp1210
+Rp1211
+tp1212
+a(S'digital signal (disambiguation)'
+p1213
+g2
+(g6
+S'\x93Xc\x03\x04\xb9\xc5?'
+p1214
+tp1215
+Rp1216
+tp1217
+a(S'hexagonal sampling'
+p1218
+g2
+(g6
+S'b\x01\xf5\xc5/\xaa\xc5?'
+p1219
+tp1220
+Rp1221
+tp1222
+a(S'wiener\xe2\x80\x93khinchin theorem'
+p1223
+g2
+(g6
+S'\x1f\t\xdfR\xe2\xa7\xc5?'
+p1224
+tp1225
+Rp1226
+tp1227
+a(S'least mean squares filter'
+p1228
+g2
+(g6
+S'Ksw\x0f,\x94\xc5?'
+p1229
+tp1230
+Rp1231
+tp1232
+a(S'analytic signal'
+p1233
+g2
+(g6
+S'\xd3\x95\xbf\xacn\x90\xc5?'
+p1234
+tp1235
+Rp1236
+tp1237
+a(S'butterworth filter'
+p1238
+g2
+(g6
+S'&`\xed\xab\x87\x8f\xc5?'
+p1239
+tp1240
+Rp1241
+tp1242
+a(S'boehmians'
+p1243
+g2
+(g6
+S'\xe0\xea4`\xee\x8c\xc5?'
+p1244
+tp1245
+Rp1246
+tp1247
+a(S'analog sampled filter'
+p1248
+g2
+(g6
+S'\xae\x82\xc0\xf4\xae\x84\xc5?'
+p1249
+tp1250
+Rp1251
+tp1252
+a(S'lifting scheme'
+p1253
+g2
+(g6
+S'D\xad\xebbY\x81\xc5?'
+p1254
+tp1255
+Rp1256
+tp1257
+a(S'homometric structures'
+p1258
+g2
+(g6
+S'\xd1,\xf8\x06\x15s\xc5?'
+p1259
+tp1260
+Rp1261
+tp1262
+a(S'comb filter'
+p1263
+g2
+(g6
+S'\x13A\xc7\xc4qc\xc5?'
+p1264
+tp1265
+Rp1266
+tp1267
+a(S'norwegian railway signaling'
+p1268
+g2
+(g6
+S'\xa6~b\xc90b\xc5?'
+p1269
+tp1270
+Rp1271
+tp1272
+a(S'necklace ring'
+p1273
+g2
+(g6
+S'U\x84\xc0;m`\xc5?'
+p1274
+tp1275
+Rp1276
+tp1277
+a(S'pulse shaping'
+p1278
+g2
+(g6
+S'&\n2y\xc3Z\xc5?'
+p1279
+tp1280
+Rp1281
+tp1282
+a(S'bandlimiting'
+p1283
+g2
+(g6
+S'\x8b\x1fSG\x1eV\xc5?'
+p1284
+tp1285
+Rp1286
+tp1287
+a(S'discrete laplace operator'
+p1288
+g2
+(g6
+S'\xa27\x02Y\x8eQ\xc5?'
+p1289
+tp1290
+Rp1291
+tp1292
+a(S'blind signal separation'
+p1293
+g2
+(g6
+S'\xea\xa8\x85\xef\xabO\xc5?'
+p1294
+tp1295
+Rp1296
+tp1297
+a(S'r-algebroid'
+p1298
+g2
+(g6
+S'\xae\x80\x9e\x8cOO\xc5?'
+p1299
+tp1300
+Rp1301
+tp1302
+a(S'array processing'
+p1303
+g2
+(g6
+S'\x06\x97/\x90iN\xc5?'
+p1304
+tp1305
+Rp1306
+tp1307
+a(S'decorrelation'
+p1308
+g2
+(g6
+S'\t\r\xeb\x842M\xc5?'
+p1309
+tp1310
+Rp1311
+tp1312
+a(S'spectral estimation of multidimensional signals'
+p1313
+g2
+(g6
+S'l\xc4\xb8\x1c}F\xc5?'
+p1314
+tp1315
+Rp1316
+tp1317
+a(S'svg filter effects'
+p1318
+g2
+(g6
+S'\xa0\xe9;\x1bf?\xc5?'
+p1319
+tp1320
+Rp1321
+tp1322
+a(S'impulse noise (audio)'
+p1323
+g2
+(g6
+S'\xd2^\xe8\x96\x9a;\xc5?'
+p1324
+tp1325
+Rp1326
+tp1327
+a(S'railway semaphore signal'
+p1328
+g2
+(g6
+S' B\x9c\xe4[0\xc5?'
+p1329
+tp1330
+Rp1331
+tp1332
+a(S'filter factor'
+p1333
+g2
+(g6
+S'\x12\'\xc8"\xb5\x18\xc5?'
+p1334
+tp1335
+Rp1336
+tp1337
+a(S'top-hat filter'
+p1338
+g2
+(g6
+S'\xa8\x04\x14[\x9f\x16\xc5?'
+p1339
+tp1340
+Rp1341
+tp1342
+a(S'gaussian noise'
+p1343
+g2
+(g6
+S'\xf1)f\x1bt\x0f\xc5?'
+p1344
+tp1345
+Rp1346
+tp1347
+a(S'filter graph'
+p1348
+g2
+(g6
+S'\x85\xa9\xb5{g\x0b\xc5?'
+p1349
+tp1350
+Rp1351
+tp1352
+a(S'deblurring'
+p1353
+g2
+(g6
+S'\xf9\xa6:\xc6\x11\t\xc5?'
+p1354
+tp1355
+Rp1356
+tp1357
+a(S'signal transfer function'
+p1358
+g2
+(g6
+S'\xaaH\x98\xf4T\x01\xc5?'
+p1359
+tp1360
+Rp1361
+tp1362
+a(S'root-raised-cosine filter'
+p1363
+g2
+(g6
+S'\xec\xc6z\xd2\x0c\xf9\xc4?'
+p1364
+tp1365
+Rp1366
+tp1367
+a(S's transform'
+p1368
+g2
+(g6
+S'\xee\x99\x07s\xf5\xf8\xc4?'
+p1369
+tp1370
+Rp1371
+tp1372
+a(S'semiparametric model'
+p1373
+g2
+(g6
+S'\xb6\xe3\xc2 H\xf8\xc4?'
+p1374
+tp1375
+Rp1376
+tp1377
+a(S'microscope image processing'
+p1378
+g2
+(g6
+S'\xe4\xee\xf4k$\xf7\xc4?'
+p1379
+tp1380
+Rp1381
+tp1382
+a(S'iso 16610'
+p1383
+g2
+(g6
+S'id\x03\xee~\xf2\xc4?'
+p1384
+tp1385
+Rp1386
+tp1387
+a(S'dimensional analysis'
+p1388
+g2
+(g6
+S'\x9bp\xecT\xcc\xec\xc4?'
+p1389
+tp1390
+Rp1391
+tp1392
+a(S'similarities between wiener and lms'
+p1393
+g2
+(g6
+S'j\x91z\xd0\xe6\xe7\xc4?'
+p1394
+tp1395
+Rp1396
+tp1397
+a(S'avt statistical filtering algorithm'
+p1398
+g2
+(g6
+S'\xc9\x15\xdb\xda\x95\xe6\xc4?'
+p1399
+tp1400
+Rp1401
+tp1402
+a(S'band-stop filter'
+p1403
+g2
+(g6
+S'g&\x9e5\xa0\xe4\xc4?'
+p1404
+tp1405
+Rp1406
+tp1407
+a(S'secure input and output handling'
+p1408
+g2
+(g6
+S'\xefIl\xfc\xcb\xe0\xc4?'
+p1409
+tp1410
+Rp1411
+tp1412
+a(S'delta-sigma modulation'
+p1413
+g2
+(g6
+S'\x90~+\x1c\xaa\xdc\xc4?'
+p1414
+tp1415
+Rp1416
+tp1417
+a(S'kernel adaptive filter'
+p1418
+g2
+(g6
+S'\xd5@\xddW\xb2\xd7\xc4?'
+p1419
+tp1420
+Rp1421
+tp1422
+a(S'normal-inverse gaussian distribution'
+p1423
+g2
+(g6
+S'\x8b\xaa]\xdb\xbd\xd2\xc4?'
+p1424
+tp1425
+Rp1426
+tp1427
+a(S'filter (higher-order function)'
+p1428
+g2
+(g6
+S'\xb7\xbf\x05\x89\xf8\xcf\xc4?'
+p1429
+tp1430
+Rp1431
+tp1432
+a(S'seismic unix'
+p1433
+g2
+(g6
+S'\xe0W^\x85y\xcf\xc4?'
+p1434
+tp1435
+Rp1436
+tp1437
+a(S'intercepting filter pattern'
+p1438
+g2
+(g6
+S'\x04\xa1z\xd2\xa1\xc4\xc4?'
+p1439
+tp1440
+Rp1441
+tp1442
+a(S'composite image filter'
+p1443
+g2
+(g6
+S'\xb3\xcf\xd9\x86\x1a\xbd\xc4?'
+p1444
+tp1445
+Rp1446
+tp1447
+a(S'regressive discrete fourier series'
+p1448
+g2
+(g6
+S'\x0e\xcb\xd7?\xcd\xaf\xc4?'
+p1449
+tp1450
+Rp1451
+tp1452
+a(S'window function'
+p1453
+g2
+(g6
+S'r\xf8\xca\x80\xe3\xaa\xc4?'
+p1454
+tp1455
+Rp1456
+tp1457
+a(S'convolution (computer science)'
+p1458
+g2
+(g6
+S'\xe9\xa7N5\xe1\xa3\xc4?'
+p1459
+tp1460
+Rp1461
+tp1462
+a(S'deblocking filter'
+p1463
+g2
+(g6
+S'4\xeb\xb8W\xc1\xa2\xc4?'
+p1464
+tp1465
+Rp1466
+tp1467
+a(S'allen organ company'
+p1468
+g2
+(g6
+S't\x11\xfd\xb7\xca\x99\xc4?'
+p1469
+tp1470
+Rp1471
+tp1472
+a(S'dimensional markup language'
+p1473
+g2
+(g6
+S'0\\\xa1e\xd8\x95\xc4?'
+p1474
+tp1475
+Rp1476
+tp1477
+a(S'leapfrog filter'
+p1478
+g2
+(g6
+S'"W\xd94\xff\x90\xc4?'
+p1479
+tp1480
+Rp1481
+tp1482
+a(S'multidimensional digital pre-distortion'
+p1483
+g2
+(g6
+S'\xa3?p\xd3\xde\x8f\xc4?'
+p1484
+tp1485
+Rp1486
+tp1487
+a(S'coherence (signal processing)'
+p1488
+g2
+(g6
+S'\xe0\xb5\xabg\xcd\x8c\xc4?'
+p1489
+tp1490
+Rp1491
+tp1492
+a(S'prime-factor fft algorithm'
+p1493
+g2
+(g6
+S'J+N\x9b\xef{\xc4?'
+p1494
+tp1495
+Rp1496
+tp1497
+a(S'fourier series'
+p1498
+g2
+(g6
+S'\xd8\xf9\x99\xa0\xf2V\xc4?'
+p1499
+tp1500
+Rp1501
+tp1502
+a(S'spectrogram'
+p1503
+g2
+(g6
+S'YM\xb0\xc4IT\xc4?'
+p1504
+tp1505
+Rp1506
+tp1507
+a(S'extra dimensions'
+p1508
+g2
+(g6
+S'O\\\xcbx\x19O\xc4?'
+p1509
+tp1510
+Rp1511
+tp1512
+a.

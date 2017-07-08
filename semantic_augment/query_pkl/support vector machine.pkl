@@ -1,0 +1,2728 @@
+(lp0
+(S'support vector machine'
+p1
+cnumpy.core.multiarray
+scalar
+p2
+(cnumpy
+dtype
+p3
+(S'f8'
+p4
+I0
+I1
+tp5
+Rp6
+(I3
+S'<'
+p7
+NNNI-1
+I-1
+I0
+tp8
+bS'\x03\x00\x00\x00\x00\x00\xf0?'
+p9
+tp10
+Rp11
+tp12
+a(S'linear classifier'
+p13
+g2
+(g6
+S'}1X\x97`]\xe2?'
+p14
+tp15
+Rp16
+tp17
+a(S'least squares support vector machine'
+p18
+g2
+(g6
+S'\xb9\xf3/*]!\xe2?'
+p19
+tp20
+Rp21
+tp22
+a(S'margin classifier'
+p23
+g2
+(g6
+S')\x14\xa7\x0b\xe2\xc8\xe0?'
+p24
+tp25
+Rp26
+tp27
+a(S'kernel method'
+p28
+g2
+(g6
+S'\xf3\xad9K1\t\xe0?'
+p29
+tp30
+Rp31
+tp32
+a(S'kernel perceptron'
+p33
+g2
+(g6
+S'A\xca\x981\x94\xa9\xdf?'
+p34
+tp35
+Rp36
+tp37
+a(S'perceptron'
+p38
+g2
+(g6
+S':\xa7\x0b\xe5\x8d\x1b\xdf?'
+p39
+tp40
+Rp41
+tp42
+a(S'statistical classification'
+p43
+g2
+(g6
+S'\x99\xc4\x8e\xb7\xa3\xb3\xde?'
+p44
+tp45
+Rp46
+tp47
+a(S'multiple kernel learning'
+p48
+g2
+(g6
+S'\xbd\tP7\xec4\xdd?'
+p49
+tp50
+Rp51
+tp52
+a(S'linear separability'
+p53
+g2
+(g6
+S'V\x01\xa1e\xfbB\xdc?'
+p54
+tp55
+Rp56
+tp57
+a(S'supervised learning'
+p58
+g2
+(g6
+S'\xed\xb6\x0c\xea\xb4\x1d\xdc?'
+p59
+tp60
+Rp61
+tp62
+a(S'radial basis function kernel'
+p63
+g2
+(g6
+S'jX\xd4\xb0\x99\xd4\xdb?'
+p64
+tp65
+Rp66
+tp67
+a(S'vector (mathematics and physics)'
+p68
+g2
+(g6
+S'\xe0\xe6?\x05=N\xdb?'
+p69
+tp70
+Rp71
+tp72
+a(S'relevance vector machine'
+p73
+g2
+(g6
+S'\x0b^\x1dw7)\xdb?'
+p74
+tp75
+Rp76
+tp77
+a(S'decision boundary'
+p78
+g2
+(g6
+S'?\x05\xa0\xeeF\x12\xdb?'
+p79
+tp80
+Rp81
+tp82
+a(S'lpboost'
+p83
+g2
+(g6
+S'\x00\n?\x81\x84\x06\xdb?'
+p84
+tp85
+Rp86
+tp87
+a(S'online machine learning'
+p88
+g2
+(g6
+S'8w6\x10\x13\xe5\xda?'
+p89
+tp90
+Rp91
+tp92
+a(S'vector space'
+p93
+g2
+(g6
+S'\x84)\x1cO$\xdd\xda?'
+p94
+tp95
+Rp96
+tp97
+a(S'statistical learning theory'
+p98
+g2
+(g6
+S'\x0e\x82\x93\x1e\xea\xd4\xd9?'
+p99
+tp100
+Rp101
+tp102
+a(S'vector'
+p103
+g2
+(g6
+S'\xb3b\xc4)\x15\xb0\xd9?'
+p104
+tp105
+Rp106
+tp107
+a(S'examples of vector spaces'
+p108
+g2
+(g6
+S'r\xf8\xc0Z7t\xd9?'
+p109
+tp110
+Rp111
+tp112
+a(S'mlpy'
+p113
+g2
+(g6
+S'\xfe\x1c*\xad6\x16\xd9?'
+p114
+tp115
+Rp116
+tp117
+a(S'euclidean vector'
+p118
+g2
+(g6
+S'U\xc5\xb8\xaa\x19\xcb\xd8?'
+p119
+tp120
+Rp121
+tp122
+a(S'kernel methods for vector output'
+p123
+g2
+(g6
+S'\x1b\xa1\x1e+g\x9c\xd8?'
+p124
+tp125
+Rp126
+tp127
+a(S'vector field'
+p128
+g2
+(g6
+S'jp\xa8\xeaC\x9b\xd8?'
+p129
+tp130
+Rp131
+tp132
+a(S'string kernel'
+p133
+g2
+(g6
+S'~=\x1b6\x18{\xd8?'
+p134
+tp135
+Rp136
+tp137
+a(S'regularized least squares'
+p138
+g2
+(g6
+S'\x17\xb5\xf0\x9f\xe0p\xd8?'
+p139
+tp140
+Rp141
+tp142
+a(S'kernel (linear algebra)'
+p143
+g2
+(g6
+S'\xba\xc7\xfc]\x100\xd8?'
+p144
+tp145
+Rp146
+tp147
+a(S'structured support vector machine'
+p148
+g2
+(g6
+S'I\xeb!\xa5\x96\x01\xd8?'
+p149
+tp150
+Rp151
+tp152
+a(S'john shawe-taylor'
+p153
+g2
+(g6
+S'\xda@\xd6<\xa7\xd3\xd7?'
+p154
+tp155
+Rp156
+tp157
+a(S'manifold regularization'
+p158
+g2
+(g6
+S'\xca\xe18\xf6c\x9b\xd7?'
+p159
+tp160
+Rp161
+tp162
+a(S'pattern recognition'
+p163
+g2
+(g6
+S'\x1b"+\xf1\xbf\x99\xd7?'
+p164
+tp165
+Rp166
+tp167
+a(S'vector calculus'
+p168
+g2
+(g6
+S'=\xf6E\x01*\x95\xd7?'
+p169
+tp170
+Rp171
+tp172
+a(S'multiclass classification'
+p173
+g2
+(g6
+S'$\x03\xce\xa4\x00\x83\xd7?'
+p174
+tp175
+Rp176
+tp177
+a(S'margin (machine learning)'
+p178
+g2
+(g6
+S'\xcb\xe3\xf40\xfen\xd7?'
+p179
+tp180
+Rp181
+tp182
+a(S'hyperplane'
+p183
+g2
+(g6
+S'\xb2\x9d\x1c}\xe6i\xd7?'
+p184
+tp185
+Rp186
+tp187
+a(S'quadratic classifier'
+p188
+g2
+(g6
+S'=\x8fld\re\xd7?'
+p189
+tp190
+Rp191
+tp192
+a(S'polynomial kernel'
+p193
+g2
+(g6
+S'I\x98\xe8m1/\xd7?'
+p194
+tp195
+Rp196
+tp197
+a(S'hinge loss'
+p198
+g2
+(g6
+S'~fP\xe0\x83\xaf\xd6?'
+p199
+tp200
+Rp201
+tp202
+a(S'low rank matrix approximations'
+p203
+g2
+(g6
+S'\x1c\xfb\xe7\xab\xa7\xad\xd6?'
+p204
+tp205
+Rp206
+tp207
+a(S'vector potential'
+p208
+g2
+(g6
+S'\x07&N\xf6\xb8\x93\xd6?'
+p209
+tp210
+Rp211
+tp212
+a(S'position (vector)'
+p213
+g2
+(g6
+S'\xf2%\xbba\x9f\x8b\xd6?'
+p214
+tp215
+Rp216
+tp217
+a(S'semi-supervised learning'
+p218
+g2
+(g6
+S'\xd4\x12\xea\xe4\x90\x86\xd6?'
+p219
+tp220
+Rp221
+tp222
+a(S'state vector (geographical)'
+p223
+g2
+(g6
+S'XH*1Nr\xd6?'
+p224
+tp225
+Rp226
+tp227
+a(S'adaboost'
+p228
+g2
+(g6
+S'[Z\x1a\xae\xc1%\xd6?'
+p229
+tp230
+Rp231
+tp232
+a(S'empirical risk minimization'
+p233
+g2
+(g6
+S'\x05\x16\n\xe8\xc5\x1c\xd6?'
+p234
+tp235
+Rp236
+tp237
+a(S'active learning (machine learning)'
+p238
+g2
+(g6
+S'\xef\x05\xd5\xfc.\x11\xd6?'
+p239
+tp240
+Rp241
+tp242
+a(S'mean shift'
+p243
+g2
+(g6
+S'\xf2\xb8\\lR\x05\xd6?'
+p244
+tp245
+Rp246
+tp247
+a(S'loss functions for classification'
+p248
+g2
+(g6
+S'\x8d\xea\xc0\xe8!\x01\xd6?'
+p249
+tp250
+Rp251
+tp252
+a(S'coordinate vector'
+p253
+g2
+(g6
+S'j\x83\xbdE\xf1\xd8\xd5?'
+p254
+tp255
+Rp256
+tp257
+a(S'ranking svm'
+p258
+g2
+(g6
+S'\x84\xa9\xa1\x1f\xb1\xd8\xd5?'
+p259
+tp260
+Rp261
+tp262
+a(S'ordered vector space'
+p263
+g2
+(g6
+S'9\x06\x13\xe7s\xd2\xd5?'
+p264
+tp265
+Rp266
+tp267
+a(S'bayesian interpretation of kernel regularization'
+p268
+g2
+(g6
+S'\xa9\xae\xa4\x81\xe4\x9e\xd5?'
+p269
+tp270
+Rp271
+tp272
+a(S'event detection for wsn'
+p273
+g2
+(g6
+S'4\x05/\xd2\x11\x9a\xd5?'
+p274
+tp275
+Rp276
+tp277
+a(S'machine learning'
+p278
+g2
+(g6
+S']\xb5\x7f\x89&|\xd5?'
+p279
+tp280
+Rp281
+tp282
+a(S'kernel smoother'
+p283
+g2
+(g6
+S'\xc2J\xf0\x9b\xbcp\xd5?'
+p284
+tp285
+Rp286
+tp287
+a(S'kernel embedding of distributions'
+p288
+g2
+(g6
+S'\xbc\xe3\xddqLW\xd5?'
+p289
+tp290
+Rp291
+tp292
+a(S'versor (physics)'
+p293
+g2
+(g6
+S'\xe0\x8e\xc6\xcbaT\xd5?'
+p294
+tp295
+Rp296
+tp297
+a(S'pseudovector'
+p298
+g2
+(g6
+S'\xd6\xdf/`}9\xd5?'
+p299
+tp300
+Rp301
+tp302
+a(S'vector-valued function'
+p303
+g2
+(g6
+S'\x1d\xa6g\x89@4\xd5?'
+p304
+tp305
+Rp306
+tp307
+a(S'vector informatik'
+p308
+g2
+(g6
+S'\xb2\xb4\xd1\xcb\x9b\x1a\xd5?'
+p309
+tp310
+Rp311
+tp312
+a(S'linear map'
+p313
+g2
+(g6
+S'X\xbc=\xddQ\x18\xd5?'
+p314
+tp315
+Rp316
+tp317
+a(S'linear algebra'
+p318
+g2
+(g6
+S'\xa6K\x11;\x15\x12\xd5?'
+p319
+tp320
+Rp321
+tp322
+a(S'non-negative least squares'
+p323
+g2
+(g6
+S' \xa8W\xdf\xbc\x05\xd5?'
+p324
+tp325
+Rp326
+tp327
+a(S'nonlinear dimensionality reduction'
+p328
+g2
+(g6
+S'\xe2h\x95\xb9\xdf\xfd\xd4?'
+p329
+tp330
+Rp331
+tp332
+a(S'real coordinate space'
+p333
+g2
+(g6
+S'\xf8\x07>\x8c\x8f\xf0\xd4?'
+p334
+tp335
+Rp336
+tp337
+a(S'normed vector space'
+p338
+g2
+(g6
+S'\xa6\xcc\xf6\xefY\xe7\xd4?'
+p339
+tp340
+Rp341
+tp342
+a(S'vector space model'
+p343
+g2
+(g6
+S'\x04\x11\xf7Aa\xd9\xd4?'
+p344
+tp345
+Rp346
+tp347
+a(S'feature learning'
+p348
+g2
+(g6
+S'XN\xdbH\xbf\xd7\xd4?'
+p349
+tp350
+Rp351
+tp352
+a(S"farkas' lemma"
+p353
+g2
+(g6
+S'\xfb\xca$Y\xf0\xca\xd4?'
+p354
+tp355
+Rp356
+tp357
+a(S'lattice problem'
+p358
+g2
+(g6
+S't\x12\xf527\xc3\xd4?'
+p359
+tp360
+Rp361
+tp362
+a(S'multi-label classification'
+p363
+g2
+(g6
+S'&KG\xeb"\xc2\xd4?'
+p364
+tp365
+Rp366
+tp367
+a(S'multi-task learning'
+p368
+g2
+(g6
+S'\xc4D;\x03#\xbd\xd4?'
+p369
+tp370
+Rp371
+tp372
+a(S'probability vector'
+p373
+g2
+(g6
+S'\x81\xb2\xd1\xf3\xef\xbc\xd4?'
+p374
+tp375
+Rp376
+tp377
+a(S'total set'
+p378
+g2
+(g6
+S'#(\xa7\xb5L\xad\xd4?'
+p379
+tp380
+Rp381
+tp382
+a(S'platt scaling'
+p383
+g2
+(g6
+S'}Nw"\xa2\xa0\xd4?'
+p384
+tp385
+Rp386
+tp387
+a(S'basis (linear algebra)'
+p388
+g2
+(g6
+S'\xab\xf3\x9a\xd9\x9b\x9b\xd4?'
+p389
+tp390
+Rp391
+tp392
+a(S'feature scaling'
+p393
+g2
+(g6
+S"q'8\xb9\x7f\x94\xd4?"
+p394
+tp395
+Rp396
+tp397
+a(S'vector processor'
+p398
+g2
+(g6
+S'h\x18\x0c\xb5\xb0\x8f\xd4?'
+p399
+tp400
+Rp401
+tp402
+a(S'n-vector'
+p403
+g2
+(g6
+S'+\xaeB\xb4=\x89\xd4?'
+p404
+tp405
+Rp406
+tp407
+a(S'list of machine learning concepts'
+p408
+g2
+(g6
+S'\xedP_\xdf3p\xd4?'
+p409
+tp410
+Rp411
+tp412
+a(S'multivector'
+p413
+g2
+(g6
+S'\xb6\x85_/;Z\xd4?'
+p414
+tp415
+Rp416
+tp417
+a(S'regularization perspectives on support vector machines'
+p418
+g2
+(g6
+S'!\x9a\xd50\x8aR\xd4?'
+p419
+tp420
+Rp421
+tp422
+a(S'vector motors'
+p423
+g2
+(g6
+S'\xe4\xfe\x1e?\xe3C\xd4?'
+p424
+tp425
+Rp426
+tp427
+a(S'vector tiles'
+p428
+g2
+(g6
+S'\x92\x1a\x8c\x0f\xdd5\xd4?'
+p429
+tp430
+Rp431
+tp432
+a(S'vector operator'
+p433
+g2
+(g6
+S'm4\xc4\x05N5\xd4?'
+p434
+tp435
+Rp436
+tp437
+a(S'learnable function class'
+p438
+g2
+(g6
+S'j\xfa\xb2\xdeM5\xd4?'
+p439
+tp440
+Rp441
+tp442
+a(S'medcouple'
+p443
+g2
+(g6
+S'\xfdQ@\xe0\xa40\xd4?'
+p444
+tp445
+Rp446
+tp447
+a(S'super vector space'
+p448
+g2
+(g6
+S';\\"q\xf3\x1e\xd4?'
+p449
+tp450
+Rp451
+tp452
+a(S'sequential minimal optimization'
+p453
+g2
+(g6
+S'^\x15A\xb6\xd6\x1a\xd4?'
+p454
+tp455
+Rp456
+tp457
+a(S'kernel'
+p458
+g2
+(g6
+S'\xd2\xe2\xcb>\x92\x1a\xd4?'
+p459
+tp460
+Rp461
+tp462
+a(S'h-vector'
+p463
+g2
+(g6
+S'\x94\x81S\xd6\xa3\xfb\xd3?'
+p464
+tp465
+Rp466
+tp467
+a(S'sparse matrix-vector multiplication'
+p468
+g2
+(g6
+S'\xab\x8fP%|\xfb\xd3?'
+p469
+tp470
+Rp471
+tp472
+a(S'fisher kernel'
+p473
+g2
+(g6
+S'\xd3\x06\xf8\x01\xcd\xfa\xd3?'
+p474
+tp475
+Rp476
+tp477
+a(S'comparison of vector algebra and geometric algebra'
+p478
+g2
+(g6
+S't~\xaerJ\xf7\xd3?'
+p479
+tp480
+Rp481
+tp482
+a(S'conservative vector field'
+p483
+g2
+(g6
+S'2\xf6=Q\x90\xf5\xd3?'
+p484
+tp485
+Rp486
+tp487
+a(S'vector architect'
+p488
+g2
+(g6
+S'\x9cr\xcd\x9c\xc9\xf2\xd3?'
+p489
+tp490
+Rp491
+tp492
+a(S'self-organizing map'
+p493
+g2
+(g6
+S'\x14\xe13p#\xe1\xd3?'
+p494
+tp495
+Rp496
+tp497
+a(S'non-linear least squares'
+p498
+g2
+(g6
+S'\xdf5.N\xf4\xd7\xd3?'
+p499
+tp500
+Rp501
+tp502
+a(S'reproducing kernel hilbert space'
+p503
+g2
+(g6
+S'\xbdU\xc3{\x06\xd6\xd3?'
+p504
+tp505
+Rp506
+tp507
+a(S'laplace\xe2\x80\x93runge\xe2\x80\x93lenz vector'
+p508
+g2
+(g6
+S'\x19s\xd7\x10\x9b\xd4\xd3?'
+p509
+tp510
+Rp511
+tp512
+a(S'operator (mathematics)'
+p513
+g2
+(g6
+S'n\xc8Dr\xaa\xd3\xd3?'
+p514
+tp515
+Rp516
+tp517
+a(S'del'
+p518
+g2
+(g6
+S'\x96\xaaP\xd6N\xcc\xd3?'
+p519
+tp520
+Rp521
+tp522
+a(S'vector optimization'
+p523
+g2
+(g6
+S'\xe3/1\xaci\xc1\xd3?'
+p524
+tp525
+Rp526
+tp527
+a(S'vector area'
+p528
+g2
+(g6
+S'\xe5h\x06\xecW\xb9\xd3?'
+p529
+tp530
+Rp531
+tp532
+a(S'structured sparsity regularization'
+p533
+g2
+(g6
+S'+?\x9a{\t\xac\xd3?'
+p534
+tp535
+Rp536
+tp537
+a(S'supporting hyperplane'
+p538
+g2
+(g6
+S'\x83\xc2n~\t\xa9\xd3?'
+p539
+tp540
+Rp541
+tp542
+a(S'vexel'
+p543
+g2
+(g6
+S'\xee\x07S\xb9\xdb\x8d\xd3?'
+p544
+tp545
+Rp546
+tp547
+a(S'kernel principal component analysis'
+p548
+g2
+(g6
+S'\x1c\x12[\x18\xcd\x80\xd3?'
+p549
+tp550
+Rp551
+tp552
+a(S'solenoidal vector field'
+p553
+g2
+(g6
+S'\x8f\x94b\xb8\x00|\xd3?'
+p554
+tp555
+Rp556
+tp557
+a(S'vector graphics'
+p558
+g2
+(g6
+S'\x1b\xe0\x00\x1a\xadz\xd3?'
+p559
+tp560
+Rp561
+tp562
+a(S'bag-of-words model in computer vision'
+p563
+g2
+(g6
+S'\xbe\xc9\x88,ex\xd3?'
+p564
+tp565
+Rp566
+tp567
+a(S'probabilistic classification'
+p568
+g2
+(g6
+S'\x13s\x1b\xe3?n\xd3?'
+p569
+tp570
+Rp571
+tp572
+a(S'shogun (toolbox)'
+p573
+g2
+(g6
+S'\x95:\xa5f k\xd3?'
+p574
+tp575
+Rp576
+tp577
+a(S'indicator vector'
+p578
+g2
+(g6
+S'c\xe7&/\xaaa\xd3?'
+p579
+tp580
+Rp581
+tp582
+a(S'vector marketing'
+p583
+g2
+(g6
+S'\xb7Tf\xa0\xfaX\xd3?'
+p584
+tp585
+Rp586
+tp587
+a(S'euler sequence'
+p588
+g2
+(g6
+S'\x9c\x89\xefB\x8bX\xd3?'
+p589
+tp590
+Rp591
+tp592
+a(S'large margin nearest neighbor'
+p593
+g2
+(g6
+S'\x90\x1dAO`V\xd3?'
+p594
+tp595
+Rp596
+tp597
+a(S'graded vector space'
+p598
+g2
+(g6
+S'\x0f\xf8\x02\xcaZO\xd3?'
+p599
+tp600
+Rp601
+tp602
+a(S'quantum algorithm for linear systems of equations'
+p603
+g2
+(g6
+S'E\xfd\x90z\xc59\xd3?'
+p604
+tp605
+Rp606
+tp607
+a(S'variable kernel density estimation'
+p608
+g2
+(g6
+S'\xd9\xf3\x05\x00\x0c8\xd3?'
+p609
+tp610
+Rp611
+tp612
+a(S'unit vector'
+p613
+g2
+(g6
+S'\x025\x93F\xf37\xd3?'
+p614
+tp615
+Rp616
+tp617
+a(S'complexification'
+p618
+g2
+(g6
+S'\xf31\x02\xa7\xff4\xd3?'
+p619
+tp620
+Rp621
+tp622
+a(S'vector (magazine)'
+p623
+g2
+(g6
+S'\x90\xe9~\x1c\xee0\xd3?'
+p624
+tp625
+Rp626
+tp627
+a(S'kernel regression'
+p628
+g2
+(g6
+S'9!\xc7L\x82,\xd3?'
+p629
+tp630
+Rp631
+tp632
+a(S'kernel (statistics)'
+p633
+g2
+(g6
+S'-[A\xfa\xbc(\xd3?'
+p634
+tp635
+Rp636
+tp637
+a(S'vector bundle'
+p638
+g2
+(g6
+S'Op?f\x05(\xd3?'
+p639
+tp640
+Rp641
+tp642
+a(S'dimensionality reduction'
+p643
+g2
+(g6
+S'..\x89A\xc0#\xd3?'
+p644
+tp645
+Rp646
+tp647
+a(S'classifier chains'
+p648
+g2
+(g6
+S'R\x1d\xa0t\xc5\x1f\xd3?'
+p649
+tp650
+Rp651
+tp652
+a(S'primordial element (algebra)'
+p653
+g2
+(g6
+S'\x1d\xc9A\xbe\xb8\x1f\xd3?'
+p654
+tp655
+Rp656
+tp657
+a(S'real structure'
+p658
+g2
+(g6
+S'7(\xd1\x93\x02\x1b\xd3?'
+p659
+tp660
+Rp661
+tp662
+a(S'poynting vector'
+p663
+g2
+(g6
+S'\x92\x9ee\xf8q\x0e\xd3?'
+p664
+tp665
+Rp666
+tp667
+a(S'dual space'
+p668
+g2
+(g6
+S'\x94\x88\xd3?\xde\x01\xd3?'
+p669
+tp670
+Rp671
+tp672
+a(S'multidimensional system'
+p673
+g2
+(g6
+S'\x0e\xcdu\x91\x1f\x00\xd3?'
+p674
+tp675
+Rp676
+tp677
+a(S'scikit-learn'
+p678
+g2
+(g6
+S'\x9b?\xdb\x8f\xf4\xf5\xd2?'
+p679
+tp680
+Rp681
+tp682
+a(S'vector notation'
+p683
+g2
+(g6
+S'\x06\x00\x05\x900\xf4\xd2?'
+p684
+tp685
+Rp686
+tp687
+a(S'overfitting'
+p688
+g2
+(g6
+S'\xc0\xb1\x0c\xf0\x1a\xf3\xd2?'
+p689
+tp690
+Rp691
+tp692
+a(S'gradient'
+p693
+g2
+(g6
+S'f\x88Q\x03_\xc6\xd2?'
+p694
+tp695
+Rp696
+tp697
+a(S'representer theorem'
+p698
+g2
+(g6
+S'\r\xeb_\xda\xab\xbe\xd2?'
+p699
+tp700
+Rp701
+tp702
+a(S'test vector'
+p703
+g2
+(g6
+S'O\xf4\x0fr\x93\xb0\xd2?'
+p704
+tp705
+Rp706
+tp707
+a(S'early stopping'
+p708
+g2
+(g6
+S'wp:\xe6\xa8\xa2\xd2?'
+p709
+tp710
+Rp711
+tp712
+a(S'vector control'
+p713
+g2
+(g6
+S'\xaau\xf4\xc7\xc5\x8f\xd2?'
+p714
+tp715
+Rp716
+tp717
+a(S'data classification (business intelligence)'
+p718
+g2
+(g6
+S'\x81\x1b\x1c8\xb8\x80\xd2?'
+p719
+tp720
+Rp721
+tp722
+a(S'vector-06c'
+p723
+g2
+(g6
+S'\xc4|\xba\xbb\xde~\xd2?'
+p724
+tp725
+Rp726
+tp727
+a(S'stochastic gradient descent'
+p728
+g2
+(g6
+S'v\xa7r,\xedv\xd2?'
+p729
+tp730
+Rp731
+tp732
+a(S'time dependent vector field'
+p733
+g2
+(g6
+S'\xfe\xb6Th\x1bq\xd2?'
+p734
+tp735
+Rp736
+tp737
+a(S'test set'
+p738
+g2
+(g6
+S'\xd6o\xda\x88\xc5l\xd2?'
+p739
+tp740
+Rp741
+tp742
+a(S'coboosting'
+p743
+g2
+(g6
+S'\xe0\x81u\x0f\xb3_\xd2?'
+p744
+tp745
+Rp746
+tp747
+a(S'parker vector'
+p748
+g2
+(g6
+S'\xef4\x9b\xf4i\\\xd2?'
+p749
+tp750
+Rp751
+tp752
+a(S'linear programming'
+p753
+g2
+(g6
+S'\x8b6r\xa3\xf9Z\xd2?'
+p754
+tp755
+Rp756
+tp757
+a(S'curl (mathematics)'
+p758
+g2
+(g6
+S'\x074 \x9f=W\xd2?'
+p759
+tp760
+Rp761
+tp762
+a(S'complex lamellar vector field'
+p763
+g2
+(g6
+S'\xda\xfeg\xf2q?\xd2?'
+p764
+tp765
+Rp766
+tp767
+a(S'homothetic vector field'
+p768
+g2
+(g6
+S'd\x1c\xc6Q\x8a>\xd2?'
+p769
+tp770
+Rp771
+tp772
+a(S'hyperparameter optimization'
+p773
+g2
+(g6
+S'\xf6^\xe6U\xdf6\xd2?'
+p774
+tp775
+Rp776
+tp777
+a(S'radial basis function network'
+p778
+g2
+(g6
+S'\xde\x1e\xa00[-\xd2?'
+p779
+tp780
+Rp781
+tp782
+a(S'block wiedemann algorithm'
+p783
+g2
+(g6
+S'3\xd4\r\xac\xd9+\xd2?'
+p784
+tp785
+Rp786
+tp787
+a(S'fundamental vector field'
+p788
+g2
+(g6
+S'-\xa6\xc2\xf9\x82$\xd2?'
+p789
+tp790
+Rp791
+tp792
+a(S'multispectral pattern recognition'
+p793
+g2
+(g6
+S'\xe3\x02\xa6\xd0\xd5#\xd2?'
+p794
+tp795
+Rp796
+tp797
+a(S"powell's method"
+p798
+g2
+(g6
+S'\x02\xfa\xb4\x18m \xd2?'
+p799
+tp800
+Rp801
+tp802
+a(S'vector clock'
+p803
+g2
+(g6
+S'j]\xb7\x93\x9c\x1b\xd2?'
+p804
+tp805
+Rp806
+tp807
+a(S'vector field reconstruction'
+p808
+g2
+(g6
+S'\xed\xccy\x7fy\x13\xd2?'
+p809
+tp810
+Rp811
+tp812
+a(S'stability (learning theory)'
+p813
+g2
+(g6
+S'\x90x\x8e\r\x98\x0b\xd2?'
+p814
+tp815
+Rp816
+tp817
+a(S'structural risk minimization'
+p818
+g2
+(g6
+S'\xb6\xf4 \xcb\x05\x06\xd2?'
+p819
+tp820
+Rp821
+tp822
+a(S'kernel density estimation'
+p823
+g2
+(g6
+S"\x0f'\xdbN:\x03\xd2?"
+p824
+tp825
+Rp826
+tp827
+a(S'regularization (mathematics)'
+p828
+g2
+(g6
+S'-E7Bs\x01\xd2?'
+p829
+tp830
+Rp831
+tp832
+a(S'hesse normal form'
+p833
+g2
+(g6
+S'\xfb\x06\xe5\xd92\xfe\xd1?'
+p834
+tp835
+Rp836
+tp837
+a(S'linear form'
+p838
+g2
+(g6
+S'\xe25\xcb*\x81\xfd\xd1?'
+p839
+tp840
+Rp841
+tp842
+a(S'nearest centroid classifier'
+p843
+g2
+(g6
+S'\x00m\xe9O|\xf9\xd1?'
+p844
+tp845
+Rp846
+tp847
+a(S'three-dimensional space'
+p848
+g2
+(g6
+S'\x1f\xd8G\xa3\xe9\xf3\xd1?'
+p849
+tp850
+Rp851
+tp852
+a(S'linear combination'
+p853
+g2
+(g6
+S'\xca\xfe$\x1d-\xed\xd1?'
+p854
+tp855
+Rp856
+tp857
+a(S'gerald wiegert'
+p858
+g2
+(g6
+S'\x93=t\x93?\xeb\xd1?'
+p859
+tp860
+Rp861
+tp862
+a(S'chih-jen lin'
+p863
+g2
+(g6
+S'.,\xc0\x06\xca\xe8\xd1?'
+p864
+tp865
+Rp866
+tp867
+a(S'vector algebra'
+p868
+g2
+(g6
+S'!\xacG\xcdi\xe5\xd1?'
+p869
+tp870
+Rp871
+tp872
+a(S'helmholtz decomposition'
+p873
+g2
+(g6
+S'\x86\xf9\xb2\xb0X\xe1\xd1?'
+p874
+tp875
+Rp876
+tp877
+a(S'row and column vectors'
+p878
+g2
+(g6
+S'{\xecR\xf3\xe4\xdb\xd1?'
+p879
+tp880
+Rp881
+tp882
+a(S'positive-definite kernel'
+p883
+g2
+(g6
+S'\xe5\x1e\xd0E\xb7\xd2\xd1?'
+p884
+tp885
+Rp886
+tp887
+a(S'submodular set function'
+p888
+g2
+(g6
+S'&\x92u\xa3\xfe\xc8\xd1?'
+p889
+tp890
+Rp891
+tp892
+a(S'vector (company)'
+p893
+g2
+(g6
+S'\xbc\xee\xed\x93+\xc6\xd1?'
+p894
+tp895
+Rp896
+tp897
+a(S'learning vector quantization'
+p898
+g2
+(g6
+S'\x9b\x8bc\x1f\x18\xc5\xd1?'
+p899
+tp900
+Rp901
+tp902
+a(S'vector generalized linear model'
+p903
+g2
+(g6
+S"hga'\xbd\xc3\xd1?"
+p904
+tp905
+Rp906
+tp907
+a(S'complex conjugate vector space'
+p908
+g2
+(g6
+S'\xfb\x0e\x9bj\xce\xb3\xd1?'
+p909
+tp910
+Rp911
+tp912
+a(S'vector nti'
+p913
+g2
+(g6
+S'%\xe17\xdb\xde\xb0\xd1?'
+p914
+tp915
+Rp916
+tp917
+a(S'topological vector space'
+p918
+g2
+(g6
+S'\xd03t\xed\x88\xae\xd1?'
+p919
+tp920
+Rp921
+tp922
+a(S'kernel (algebra)'
+p923
+g2
+(g6
+S'a\xb2\xb0\xf6\xbf\xad\xd1?'
+p924
+tp925
+Rp926
+tp927
+a(S'multivariate random variable'
+p928
+g2
+(g6
+S'\xa2\xef\x9b\x1dy\xa9\xd1?'
+p929
+tp930
+Rp931
+tp932
+a(S'vector quantization'
+p933
+g2
+(g6
+S'2X\x00C\x07\xa8\xd1?'
+p934
+tp935
+Rp936
+tp937
+a(S'point set registration'
+p938
+g2
+(g6
+S'\x84\xa5y\xb6\x04\xa8\xd1?'
+p939
+tp940
+Rp941
+tp942
+a(S'multinomial logistic regression'
+p943
+g2
+(g6
+S'\xd3\x87\x1a\x99D\xa4\xd1?'
+p944
+tp945
+Rp946
+tp947
+a(S'cyclic subspace'
+p948
+g2
+(g6
+S'\xc7\xb3*\x8f8\x9e\xd1?'
+p949
+tp950
+Rp951
+tp952
+a(S'sequence container (c++)'
+p953
+g2
+(g6
+S'!\x1c\xd5\x1f\xa9\x96\xd1?'
+p954
+tp955
+Rp956
+tp957
+a(S'feature selection'
+p958
+g2
+(g6
+S'%\xabCs\xb3\x93\xd1?'
+p959
+tp960
+Rp961
+tp962
+a(S'winnow (algorithm)'
+p963
+g2
+(g6
+S'!\x9b\n\xf3\xc9\x90\xd1?'
+p964
+tp965
+Rp966
+tp967
+a(S'vector laplacian'
+p968
+g2
+(g6
+S'\xe3~\x8a \x99\x8b\xd1?'
+p969
+tp970
+Rp971
+tp972
+a(S'secondary vector bundle structure'
+p973
+g2
+(g6
+S'aK\x93\xf5R\x8a\xd1?'
+p974
+tp975
+Rp976
+tp977
+a(S'universal geometric algebra'
+p978
+g2
+(g6
+S'\xd3\xd2\xca\x8f\x9f}\xd1?'
+p979
+tp980
+Rp981
+tp982
+a(S'sepp hochreiter'
+p983
+g2
+(g6
+S'7\x16/\x14\x8br\xd1?'
+p984
+tp985
+Rp986
+tp987
+a(S'beltrami vector field'
+p988
+g2
+(g6
+S'z\n\xee\x0b\x80p\xd1?'
+p989
+tp990
+Rp991
+tp992
+a(S'nello cristianini'
+p993
+g2
+(g6
+S'\x89\xfcc\x89\xc0n\xd1?'
+p994
+tp995
+Rp996
+tp997
+a(S'kernel (operating system)'
+p998
+g2
+(g6
+S'\x7fVi\x9e(g\xd1?'
+p999
+tp1000
+Rp1001
+tp1002
+a(S'classifier'
+p1003
+g2
+(g6
+S'\xc2N)Z\x85f\xd1?'
+p1004
+tp1005
+Rp1006
+tp1007
+a(S'four-vector'
+p1008
+g2
+(g6
+S'\xbd\xd2\xe2\x83Nc\xd1?'
+p1009
+tp1010
+Rp1011
+tp1012
+a(S'gated recurrent unit'
+p1013
+g2
+(g6
+S"\xed'\x15\xeb\xfe_\xd1?"
+p1014
+tp1015
+Rp1016
+tp1017
+a(S'linear least squares (mathematics)'
+p1018
+g2
+(g6
+S'\xd0R\xb3\xf0\xda\\\xd1?'
+p1019
+tp1020
+Rp1021
+tp1022
+a(S'vector projection'
+p1023
+g2
+(g6
+S'!@[\x98C\\\xd1?'
+p1024
+tp1025
+Rp1026
+tp1027
+a(S'brownboost'
+p1028
+g2
+(g6
+S'X,\x18_<[\xd1?'
+p1029
+tp1030
+Rp1031
+tp1032
+a(S'fastica'
+p1033
+g2
+(g6
+S'zx\xa4\xd8;[\xd1?'
+p1034
+tp1035
+Rp1036
+tp1037
+a(S'corinna cortes'
+p1038
+g2
+(g6
+S'6z\x02X\x93V\xd1?'
+p1039
+tp1040
+Rp1041
+tp1042
+a(S'vector graphic'
+p1043
+g2
+(g6
+S'a*\x11\xa2\x9dR\xd1?'
+p1044
+tp1045
+Rp1046
+tp1047
+a(S'vector slime'
+p1048
+g2
+(g6
+S'\x01$\xe9\x99\x9dM\xd1?'
+p1049
+tp1050
+Rp1051
+tp1052
+a(S'automatic vectorization'
+p1053
+g2
+(g6
+S'\xc3y#|\x1dG\xd1?'
+p1054
+tp1055
+Rp1056
+tp1057
+a(S'relief (feature selection)'
+p1058
+g2
+(g6
+S'\x8f\xee\xc6\xdf\xd4E\xd1?'
+p1059
+tp1060
+Rp1061
+tp1062
+a(S'nonlinear programming'
+p1063
+g2
+(g6
+S'9\xee"\xea\\@\xd1?'
+p1064
+tp1065
+Rp1066
+tp1067
+a(S'margin'
+p1068
+g2
+(g6
+S'\xca\xd2\xb1{\xb0=\xd1?'
+p1069
+tp1070
+Rp1071
+tp1072
+a(S'conformal vector field'
+p1073
+g2
+(g6
+S'z\xda\xb4\x98\xc0;\xd1?'
+p1074
+tp1075
+Rp1076
+tp1077
+a(S'space vector corporation'
+p1078
+g2
+(g6
+S'O\xe3}.t6\xd1?'
+p1079
+tp1080
+Rp1081
+tp1082
+a(S'two-vector'
+p1083
+g2
+(g6
+S'\xd2H\x91\xcf\xd13\xd1?'
+p1084
+tp1085
+Rp1086
+tp1087
+a(S'functional (mathematics)'
+p1088
+g2
+(g6
+S'>\x983\xc6\xae3\xd1?'
+p1089
+tp1090
+Rp1091
+tp1092
+a(S'covariance and contravariance of vectors'
+p1093
+g2
+(g6
+S'\x14\x0b%\x1e\xce.\xd1?'
+p1094
+tp1095
+Rp1096
+tp1097
+a(S'feature (machine learning)'
+p1098
+g2
+(g6
+S'\xdbu)\xb5\xc2*\xd1?'
+p1099
+tp1100
+Rp1101
+tp1102
+a(S'4d vector'
+p1103
+g2
+(g6
+S'\xf5\x96\x9d\x8f8$\xd1?'
+p1104
+tp1105
+Rp1106
+tp1107
+a(S'paratransgenesis'
+p1108
+g2
+(g6
+S'\xd6\x82\xf2\x99\xf1 \xd1?'
+p1109
+tp1110
+Rp1111
+tp1112
+a(S'vector training'
+p1113
+g2
+(g6
+S'G\x87\xee\x1b\xa4\x1e\xd1?'
+p1114
+tp1115
+Rp1116
+tp1117
+a(S'vector decomposition'
+p1118
+g2
+(g6
+S'Nzs\xab\xf0\x19\xd1?'
+p1119
+tp1120
+Rp1121
+tp1122
+a(S'k-nearest neighbors algorithm'
+p1123
+g2
+(g6
+S'm \xf5\xe5!\x15\xd1?'
+p1124
+tp1125
+Rp1126
+tp1127
+a(S'antivector'
+p1128
+g2
+(g6
+S'9\xb0\xbe\x9b\xdf\x13\xd1?'
+p1129
+tp1130
+Rp1131
+tp1132
+a(S'bayes classifier'
+p1133
+g2
+(g6
+S'\xc3\xc8]Z\xaa\x12\xd1?'
+p1134
+tp1135
+Rp1136
+tp1137
+a(S'gauss\xe2\x80\x93newton algorithm'
+p1138
+g2
+(g6
+S'm\xd1(\x9a\x8b\x12\xd1?'
+p1139
+tp1140
+Rp1141
+tp1142
+a(S'normal (geometry)'
+p1143
+g2
+(g6
+S'T=\xf6\x05:\x04\xd1?'
+p1144
+tp1145
+Rp1146
+tp1147
+a(S'killing vector field'
+p1148
+g2
+(g6
+S'\xe0\xe8kSy\x02\xd1?'
+p1149
+tp1150
+Rp1151
+tp1152
+a(S'micro t-kernel'
+p1153
+g2
+(g6
+S'\x11\x10s\x05\x14\x01\xd1?'
+p1154
+tp1155
+Rp1156
+tp1157
+a(S'end-to-end vector'
+p1158
+g2
+(g6
+S'\x11\xda\xed\xc8x\xf6\xd0?'
+p1159
+tp1160
+Rp1161
+tp1162
+a(S'covariant transformation'
+p1163
+g2
+(g6
+S'W{C\x08g\xf6\xd0?'
+p1164
+tp1165
+Rp1166
+tp1167
+a(S'altivec'
+p1168
+g2
+(g6
+S'\x0f\n7\x05z\xf5\xd0?'
+p1169
+tp1170
+Rp1171
+tp1172
+a(S'mathematical optimization'
+p1173
+g2
+(g6
+S'4R\xba\x9fu\xf3\xd0?'
+p1174
+tp1175
+Rp1176
+tp1177
+a(S'kaczmarz method'
+p1178
+g2
+(g6
+S'\x13~|\xc9\xac\xea\xd0?'
+p1179
+tp1180
+Rp1181
+tp1182
+a(S'softmax function'
+p1183
+g2
+(g6
+S'X\xb3p\xc8\x94\xe8\xd0?'
+p1184
+tp1185
+Rp1186
+tp1187
+a(S'dimension (vector space)'
+p1188
+g2
+(g6
+S'\xf9\xc49^i\xdf\xd0?'
+p1189
+tp1190
+Rp1191
+tp1192
+a(S'quantum optimization algorithms'
+p1193
+g2
+(g6
+S'\x8a\xfc9\xbfQ\xde\xd0?'
+p1194
+tp1195
+Rp1196
+tp1197
+a(S'topic-based vector space model'
+p1198
+g2
+(g6
+S'\xd6\x05\xb4=B\xd8\xd0?'
+p1199
+tp1200
+Rp1201
+tp1202
+a(S'hyperplane separation theorem'
+p1203
+g2
+(g6
+S'\xfd\xedg;\x1a\xd7\xd0?'
+p1204
+tp1205
+Rp1206
+tp1207
+a(S'vector graphics editor'
+p1208
+g2
+(g6
+S'y\xd9\x18v\xa8\xd0\xd0?'
+p1209
+tp1210
+Rp1211
+tp1212
+a(S'kernel fisher discriminant analysis'
+p1213
+g2
+(g6
+S'\x9f\x95\xf4\x94E\xd0\xd0?'
+p1214
+tp1215
+Rp1216
+tp1217
+a(S'yoonkyung lee'
+p1218
+g2
+(g6
+S'\x16*\t\x86_\xcd\xd0?'
+p1219
+tp1220
+Rp1221
+tp1222
+a(S'edge space'
+p1223
+g2
+(g6
+S'\xf0\xc7\xdb\x0f8\xcd\xd0?'
+p1224
+tp1225
+Rp1226
+tp1227
+a(S'hyperplane section'
+p1228
+g2
+(g6
+S'\xf0w\x0c4\xed\xcb\xd0?'
+p1229
+tp1230
+Rp1231
+tp1232
+a(S'boosting (machine learning)'
+p1233
+g2
+(g6
+S'\x88\x8a\x9e \xe3\xc6\xd0?'
+p1234
+tp1235
+Rp1236
+tp1237
+a(S'co-training'
+p1238
+g2
+(g6
+S'\x92d\xb88E\xbb\xd0?'
+p1239
+tp1240
+Rp1241
+tp1242
+a(S'quadratic programming'
+p1243
+g2
+(g6
+S'\xcdU0O\x97\xba\xd0?'
+p1244
+tp1245
+Rp1246
+tp1247
+a(S'list of numerical analysis topics'
+p1248
+g2
+(g6
+S'7%\x0e~+\xab\xd0?'
+p1249
+tp1250
+Rp1251
+tp1252
+a(S'feature vector'
+p1253
+g2
+(g6
+S'7+m\x82M\xa3\xd0?'
+p1254
+tp1255
+Rp1256
+tp1257
+a(S'elastic net regularization'
+p1258
+g2
+(g6
+S'\x8ff&\xb1\xc1\xa0\xd0?'
+p1259
+tp1260
+Rp1261
+tp1262
+a(S'bony\xe2\x80\x93brezis theorem'
+p1263
+g2
+(g6
+S'\x1bp{+G\x9d\xd0?'
+p1264
+tp1265
+Rp1266
+tp1267
+a(S'vector prime (transformers)'
+p1268
+g2
+(g6
+S'B\x00\xc5d\x99\x9b\xd0?'
+p1269
+tp1270
+Rp1271
+tp1272
+a(S'vector soliton'
+p1273
+g2
+(g6
+S'NPj\x94\x9c\x99\xd0?'
+p1274
+tp1275
+Rp1276
+tp1277
+a(S'infinite-dimensional vector function'
+p1278
+g2
+(g6
+S'\xa4\xa3\x9cI\x02\x91\xd0?'
+p1279
+tp1280
+Rp1281
+tp1282
+a(S'comparison of operating system kernels'
+p1283
+g2
+(g6
+S'\x89x\x05\xee\xcd\x90\xd0?'
+p1284
+tp1285
+Rp1286
+tp1287
+a(S'subbundle'
+p1288
+g2
+(g6
+S'l\x02\x88\xa0}\x8f\xd0?'
+p1289
+tp1290
+Rp1291
+tp1292
+a(S'summability kernel'
+p1293
+g2
+(g6
+S' \xca\xa8Zj\x8f\xd0?'
+p1294
+tp1295
+Rp1296
+tp1297
+a(S'linear complex structure'
+p1298
+g2
+(g6
+S'1\xb4b*f\x8f\xd0?'
+p1299
+tp1300
+Rp1301
+tp1302
+a(S'darboux vector'
+p1303
+g2
+(g6
+S'\xa3\xf9\xf6\xc8\x07\x8b\xd0?'
+p1304
+tp1305
+Rp1306
+tp1307
+a(S'direction vector'
+p1308
+g2
+(g6
+S'\xf7o\xca\x11\x95\x87\xd0?'
+p1309
+tp1310
+Rp1311
+tp1312
+a(S'vector w2'
+p1313
+g2
+(g6
+S'\x8c\xd4\x8cO\x98y\xd0?'
+p1314
+tp1315
+Rp1316
+tp1317
+a(S'kernelization'
+p1318
+g2
+(g6
+S'\xc0K\xf3\x1d\x93w\xd0?'
+p1319
+tp1320
+Rp1321
+tp1322
+a(S'direction cosine'
+p1323
+g2
+(g6
+S';\xd2\x98ARu\xd0?'
+p1324
+tp1325
+Rp1326
+tp1327
+a(S'loss function'
+p1328
+g2
+(g6
+S'\x12\x8eRm(t\xd0?'
+p1329
+tp1330
+Rp1331
+tp1332
+a(S'ordinal regression'
+p1333
+g2
+(g6
+S'\x05\xc8\xa8\xbfaT\xd0?'
+p1334
+tp1335
+Rp1336
+tp1337
+a(S'multilinear map'
+p1338
+g2
+(g6
+S'2\x80\x97\x97^S\xd0?'
+p1339
+tp1340
+Rp1341
+tp1342
+a(S'iliffe vector'
+p1343
+g2
+(g6
+S'\x0b\x03\xd5E\x80R\xd0?'
+p1344
+tp1345
+Rp1346
+tp1347
+a(S'divergence'
+p1348
+g2
+(g6
+S'\x0e>Q\x9d\xe3O\xd0?'
+p1349
+tp1350
+Rp1351
+tp1352
+a(S'linear independence'
+p1353
+g2
+(g6
+S'\xb3\xd9\xffo%M\xd0?'
+p1354
+tp1355
+Rp1356
+tp1357
+a(S'reality structure'
+p1358
+g2
+(g6
+S'FBA\xf2\x8aJ\xd0?'
+p1359
+tp1360
+Rp1361
+tp1362
+a(S'signorini problem'
+p1363
+g2
+(g6
+S'\xd51,\xea\xb1A\xd0?'
+p1364
+tp1365
+Rp1366
+tp1367
+a(S'vector srv8'
+p1368
+g2
+(g6
+S'\xdd\\\xec\x00\x88@\xd0?'
+p1369
+tp1370
+Rp1371
+tp1372
+a(S'dual basis'
+p1373
+g2
+(g6
+S'\x99@\x8axf@\xd0?'
+p1374
+tp1375
+Rp1376
+tp1377
+a(S'principal component regression'
+p1378
+g2
+(g6
+S'R\x11Wo~?\xd0?'
+p1379
+tp1380
+Rp1381
+tp1382
+a(S'linear prediction'
+p1383
+g2
+(g6
+S'\x8e,#.\xe8<\xd0?'
+p1384
+tp1385
+Rp1386
+tp1387
+a(S'matter collineation'
+p1388
+g2
+(g6
+S'\xb5v\x9c\x88Z<\xd0?'
+p1389
+tp1390
+Rp1391
+tp1392
+a(S'differential evolution'
+p1393
+g2
+(g6
+S'\xb4\xb2\x91\x95\x029\xd0?'
+p1394
+tp1395
+Rp1396
+tp1397
+a(S'scalar (mathematics)'
+p1398
+g2
+(g6
+S'\\\x07\x92\x9a\x827\xd0?'
+p1399
+tp1400
+Rp1401
+tp1402
+a(S'jumping line'
+p1403
+g2
+(g6
+S'L\xc9\xe6\x88\x081\xd0?'
+p1404
+tp1405
+Rp1406
+tp1407
+a(S'sample complexity'
+p1408
+g2
+(g6
+S'\xaa\xbemm}.\xd0?'
+p1409
+tp1410
+Rp1411
+tp1412
+a(S'eigenplane'
+p1413
+g2
+(g6
+S'+{\xd2M\x01,\xd0?'
+p1414
+tp1415
+Rp1416
+tp1417
+a(S'factorial code'
+p1418
+g2
+(g6
+S'\x02n\x0cT\xb4)\xd0?'
+p1419
+tp1420
+Rp1421
+tp1422
+a(S'standard array'
+p1423
+g2
+(g6
+S'\xa6\xfc\xf1\xbd\x07&\xd0?'
+p1424
+tp1425
+Rp1426
+tp1427
+a(S'kgraft'
+p1428
+g2
+(g6
+S'[\r\x06\x93\xa1%\xd0?'
+p1429
+tp1430
+Rp1431
+tp1432
+a(S'kernel adaptive filter'
+p1433
+g2
+(g6
+S'\xff9\xaf\xfc\xbf\r\xd0?'
+p1434
+tp1435
+Rp1436
+tp1437
+a(S'neighbourhood components analysis'
+p1438
+g2
+(g6
+S'\xaa\xa4\x0c\xa2\xa5\r\xd0?'
+p1439
+tp1440
+Rp1441
+tp1442
+a(S'ensemble learning'
+p1443
+g2
+(g6
+S'\x01\x9a\x86*\x92\x08\xd0?'
+p1444
+tp1445
+Rp1446
+tp1447
+a(S'four-frequency'
+p1448
+g2
+(g6
+S'\xbf\xa2\xa8\xfa\xba\x06\xd0?'
+p1449
+tp1450
+Rp1451
+tp1452
+a(S'gradient boosting'
+p1453
+g2
+(g6
+S'\x7fAq!\x9f\x03\xd0?'
+p1454
+tp1455
+Rp1456
+tp1457
+a(S'lie bracket of vector fields'
+p1458
+g2
+(g6
+S'~-\xcf\xd3\x9e\xf9\xcf?'
+p1459
+tp1460
+Rp1461
+tp1462
+a(S'population-based incremental learning'
+p1463
+g2
+(g6
+S';\x8d\xde6Q\xf8\xcf?'
+p1464
+tp1465
+Rp1466
+tp1467
+a(S'vectorization'
+p1468
+g2
+(g6
+S'\xdb\xcf\x9c\xae\xa3\xf1\xcf?'
+p1469
+tp1470
+Rp1471
+tp1472
+a(S'sanctuary woods'
+p1473
+g2
+(g6
+S'\x03\xbb\x15\x8d\xfa\xed\xcf?'
+p1474
+tp1475
+Rp1476
+tp1477
+a(S'recursive wave'
+p1478
+g2
+(g6
+S'\xfd\xce*\x0eo\xeb\xcf?'
+p1479
+tp1480
+Rp1481
+tp1482
+a(S'loadable kernel module'
+p1483
+g2
+(g6
+S'\xef\xda\x8d\xe1\xe2\xe5\xcf?'
+p1484
+tp1485
+Rp1486
+tp1487
+a(S'generalization error'
+p1488
+g2
+(g6
+S'\xbf\x96\x84i\xbf\xde\xcf?'
+p1489
+tp1490
+Rp1491
+tp1492
+a(S'time series'
+p1493
+g2
+(g6
+S'\x00<\xb4}\xed\xd8\xcf?'
+p1494
+tp1495
+Rp1496
+tp1497
+a(S'pseudolikelihood'
+p1498
+g2
+(g6
+S'v\xdc\xfdx\xda\xd8\xcf?'
+p1499
+tp1500
+Rp1501
+tp1502
+a(S'k q-flats'
+p1503
+g2
+(g6
+S'gw\xfc\xba\xe5\xd6\xcf?'
+p1504
+tp1505
+Rp1506
+tp1507
+a(S'matrix regularization'
+p1508
+g2
+(g6
+S'\x1c\xaa\xfe5\x9e\xd6\xcf?'
+p1509
+tp1510
+Rp1511
+tp1512
+a.

@@ -1,0 +1,2728 @@
+(lp0
+(S'w. bruce croft'
+p1
+cnumpy.core.multiarray
+scalar
+p2
+(cnumpy
+dtype
+p3
+(S'f8'
+p4
+I0
+I1
+tp5
+Rp6
+(I3
+S'<'
+p7
+NNNI-1
+I-1
+I0
+tp8
+bS'\x06\x00\x00\x00\x00\x00\xf0?'
+p9
+tp10
+Rp11
+tp12
+a(S'gerard salton award'
+p13
+g2
+(g6
+S'\xce[g\x8a\xb2\xe4\xe2?'
+p14
+tp15
+Rp16
+tp17
+a(S'information retrieval applications'
+p18
+g2
+(g6
+S'\x8d\x1eG`\x9c\x82\xe1?'
+p19
+tp20
+Rp21
+tp22
+a(S'c. j. van rijsbergen'
+p23
+g2
+(g6
+S'\xf7\x076\xf8B\x02\xe1?'
+p24
+tp25
+Rp26
+tp27
+a(S'croft (surname)'
+p28
+g2
+(g6
+S'Zv\xaeN\xc2#\xe0?'
+p29
+tp30
+Rp31
+tp32
+a(S'special interest group on information retrieval'
+p33
+g2
+(g6
+S'\xda6\xddA\xbb\xfa\xdf?'
+p34
+tp35
+Rp36
+tp37
+a(S'calvin mooers'
+p38
+g2
+(g6
+S'\x89\xff\xd5\xbd\x96\xe8\xde?'
+p39
+tp40
+Rp41
+tp42
+a(S'baron croft'
+p43
+g2
+(g6
+S"f\xee\xb7\x0f'&\xde?"
+p44
+tp45
+Rp46
+tp47
+a(S'john croft (disambiguation)'
+p48
+g2
+(g6
+S'\x9e\xec\r^\xe1\xde\xdd?'
+p49
+tp50
+Rp51
+tp52
+a(S'croft, leicestershire'
+p53
+g2
+(g6
+S'\x8ea(\xee9\xdb\xdd?'
+p54
+tp55
+Rp56
+tp57
+a(S'tranby croft (band)'
+p58
+g2
+(g6
+S'\x99\xc0\xec\xae\xb6\xaa\xdd?'
+p59
+tp60
+Rp61
+tp62
+a(S'thomas croft'
+p63
+g2
+(g6
+S'\x05j\xfcDt\xa6\xdd?'
+p64
+tp65
+Rp66
+tp67
+a(S'croft'
+p68
+g2
+(g6
+S'\xa2\x88=\xe4Y\xa4\xdd?'
+p69
+tp70
+Rp71
+tp72
+a(S'croft castle'
+p73
+g2
+(g6
+S"]'\x19\xa9T[\xdd?"
+p74
+tp75
+Rp76
+tp77
+a(S'croft, herefordshire'
+p78
+g2
+(g6
+S'\xd1\xf2\xef\xf3\xf8S\xdd?'
+p79
+tp80
+Rp81
+tp82
+a(S'henry page croft, 1st baron croft'
+p83
+g2
+(g6
+S'u\r\xb1+\xebB\xdd?'
+p84
+tp85
+Rp86
+tp87
+a(S'information retrieval specialist group'
+p88
+g2
+(g6
+S'k\xc3 !a\x12\xdd?'
+p89
+tp90
+Rp91
+tp92
+a(S'james croft (disambiguation)'
+p93
+g2
+(g6
+S'\xebk\xa6p{\x9e\xdc?'
+p94
+tp95
+Rp96
+tp97
+a(S'information retrieval'
+p98
+g2
+(g6
+S'\x0ec\x96\xf39\x8e\xdc?'
+p99
+tp100
+Rp101
+tp102
+a(S'knowledge retrieval'
+p103
+g2
+(g6
+S'p\x0e\x146\nv\xdc?'
+p104
+tp105
+Rp106
+tp107
+a(S'information retrieval facility'
+p108
+g2
+(g6
+S'i\xab#\x97\x81b\xdc?'
+p109
+tp110
+Rp111
+tp112
+a(S'david blair (information technologist)'
+p113
+g2
+(g6
+S'@\xfd\x06\r*[\xdc?'
+p114
+tp115
+Rp116
+tp117
+a(S'michael lew'
+p118
+g2
+(g6
+S';dP\x03]R\xdc?'
+p119
+tp120
+Rp121
+tp122
+a(S'lee croft'
+p123
+g2
+(g6
+S'}\xd6\xc0\xc3S\x15\xdc?'
+p124
+tp125
+Rp126
+tp127
+a(S'croft institute for international studies'
+p128
+g2
+(g6
+S'P?\x03\xaf\xa1\x03\xdc?'
+p129
+tp130
+Rp131
+tp132
+a(S'croft-on-tees'
+p133
+g2
+(g6
+S'\x08\x8c\xc4\xc7\xc4\xf0\xdb?'
+p134
+tp135
+Rp136
+tp137
+a(S's\xc3\xa1ndor dominich'
+p138
+g2
+(g6
+S'\xeal\xae\xe6Tr\xdb?'
+p139
+tp140
+Rp141
+tp142
+a(S'croft baronets'
+p143
+g2
+(g6
+S'Ys\x8d\x81\xf6D\xdb?'
+p144
+tp145
+Rp146
+tp147
+a(S'cognitive models of information retrieval'
+p148
+g2
+(g6
+S'\x80\x17\xcc-\xd3$\xdb?'
+p149
+tp150
+Rp151
+tp152
+a(S'gerard salton'
+p153
+g2
+(g6
+S'\xa2Da.\xaf\x1a\xdb?'
+p154
+tp155
+Rp156
+tp157
+a(S'sir richard croft, 6th baronet'
+p158
+g2
+(g6
+S'\xb5F\xbe\xb31\xd9\xda?'
+p159
+tp160
+Rp161
+tp162
+a(S'croft ambrey'
+p163
+g2
+(g6
+S'\x93(\x94\xe8\x91\x8a\xda?'
+p164
+tp165
+Rp166
+tp167
+a(S'cross-language information retrieval'
+p168
+g2
+(g6
+S"\xb2\x10\xd9'M)\xda?"
+p169
+tp170
+Rp171
+tp172
+a(S'sebastian croft'
+p173
+g2
+(g6
+S'N?Q\xa6\xc5\xfb\xd9?'
+p174
+tp175
+Rp176
+tp177
+a(S'susan dumais'
+p178
+g2
+(g6
+S'\xdf\xf0\x05\xcc\x1b\xf5\xd9?'
+p179
+tp180
+Rp181
+tp182
+a(S'nivio ziviani'
+p183
+g2
+(g6
+S'\x14\x80X7\n\xe9\xd9?'
+p184
+tp185
+Rp186
+tp187
+a(S'herbert croft'
+p188
+g2
+(g6
+S'$\xe4.\n\xf1\xa5\xd9?'
+p189
+tp190
+Rp191
+tp192
+a(S'steven croft'
+p193
+g2
+(g6
+S'\x10\x10\x93\xde$\xa2\xd9?'
+p194
+tp195
+Rp196
+tp197
+a(S'spaced retrieval'
+p198
+g2
+(g6
+S'\xbf\xfa\xde\x94\xf4\x92\xd9?'
+p199
+tp200
+Rp201
+tp202
+a(S'tony kent strix award'
+p203
+g2
+(g6
+S'{\x0f\x94\x03\xab^\xd9?'
+p204
+tp205
+Rp206
+tp207
+a(S'document retrieval'
+p208
+g2
+(g6
+S'xW+\xee\x0b@\xd9?'
+p209
+tp210
+Rp211
+tp212
+a(S'sir john croft, 4th baronet'
+p213
+g2
+(g6
+S'\xd0M\x06\x00F\xee\xd8?'
+p214
+tp215
+Rp216
+tp217
+a(S'hurworth place'
+p218
+g2
+(g6
+S'NA\n\xb0i\xd6\xd8?'
+p219
+tp220
+Rp221
+tp222
+a(S'gary croft'
+p223
+g2
+(g6
+S'\xe6e<\xac\xba\xa9\xd8?'
+p224
+tp225
+Rp226
+tp227
+a(S'cranfield experiments'
+p228
+g2
+(g6
+S'c\xe4\xb9\xc4nA\xd8?'
+p229
+tp230
+Rp231
+tp232
+a(S'human\xe2\x80\x93computer information retrieval'
+p233
+g2
+(g6
+S'\xf5\xe3\xdf\x0b\xe8@\xd8?'
+p234
+tp235
+Rp236
+tp237
+a(S'william croft'
+p238
+g2
+(g6
+S'Ke\x83\xc6\xef\xfd\xd7?'
+p239
+tp240
+Rp241
+tp242
+a(S'laura croft'
+p243
+g2
+(g6
+S'\x8d\xd7\x1bk\xd5\xd5\xd7?'
+p244
+tp245
+Rp246
+tp247
+a(S'tom croft'
+p248
+g2
+(g6
+S'%\xa7@\x92\x97\xcf\xd7?'
+p249
+tp250
+Rp251
+tp252
+a(S'cyril cleverdon'
+p253
+g2
+(g6
+S'R\xf9%\x8d\xa9\xad\xd7?'
+p254
+tp255
+Rp256
+tp257
+a(S'steven croft (cricketer)'
+p258
+g2
+(g6
+S'\xe6c\x18B\\\x9c\xd7?'
+p259
+tp260
+Rp261
+tp262
+a(S'sir herbert croft, 5th baronet'
+p263
+g2
+(g6
+S'\xc1E-Z\x9aE\xd7?'
+p264
+tp265
+Rp266
+tp267
+a(S'sir herbert croft, 9th baronet'
+p268
+g2
+(g6
+S'!\xd7Y;f\x18\xd7?'
+p269
+tp270
+Rp271
+tp272
+a(S'jaime teevan'
+p273
+g2
+(g6
+S'P\x9f\xc1S\xcd\x07\xd7?'
+p274
+tp275
+Rp276
+tp277
+a(S'university of massachusetts amherst college of information and computer sciences'
+p278
+g2
+(g6
+S'[w\xc5\xac\xf3\xfb\xd6?'
+p279
+tp280
+Rp281
+tp282
+a(S'terrell croft'
+p283
+g2
+(g6
+S'\xc4\xb2\xed\x0b\xd9\xf0\xd6?'
+p284
+tp285
+Rp286
+tp287
+a(S'darren croft'
+p288
+g2
+(g6
+S'O\x04^<\x13\xa3\xd6?'
+p289
+tp290
+Rp291
+tp292
+a(S'xml retrieval'
+p293
+g2
+(g6
+S'CRCi\xc6\x91\xd6?'
+p294
+tp295
+Rp296
+tp297
+a(S'mike lesk'
+p298
+g2
+(g6
+S'W\xd8\xc3\xfc\x8b\x8b\xd6?'
+p299
+tp300
+Rp301
+tp302
+a(S'michael croft'
+p303
+g2
+(g6
+S'\xa8\x05\xbc\xa9\x9f\x7f\xd6?'
+p304
+tp305
+Rp306
+tp307
+a(S'pauline croft'
+p308
+g2
+(g6
+S'ET$\xe96W\xd6?'
+p309
+tp310
+Rp311
+tp312
+a(S'croft no. 5'
+p313
+g2
+(g6
+S'\x14\xc4\xc2\x88\xf5E\xd6?'
+p314
+tp315
+Rp316
+tp317
+a(S'croft, cheshire'
+p318
+g2
+(g6
+S'\xac\xd21\x91}-\xd6?'
+p319
+tp320
+Rp321
+tp322
+a(S'peter downton croft'
+p323
+g2
+(g6
+S'\xbb\xfa?X7 \xd6?'
+p324
+tp325
+Rp326
+tp327
+a(S'james croft'
+p328
+g2
+(g6
+S'\xef\x13X\x8aT\x1d\xd6?'
+p329
+tp330
+Rp331
+tp332
+a(S'david croft (tv producer)'
+p333
+g2
+(g6
+S'\xb8\x8b\xd4\xc7\xb3\x12\xd6?'
+p334
+tp335
+Rp336
+tp337
+a(S'eric croft'
+p338
+g2
+(g6
+S'\x9fg \xa7|\xe9\xd5?'
+p339
+tp340
+Rp341
+tp342
+a(S'tucker croft'
+p343
+g2
+(g6
+S'<\xef\x98\x85O\xc0\xd5?'
+p344
+tp345
+Rp346
+tp347
+a(S'3d content retrieval'
+p348
+g2
+(g6
+S'J\xb1\xdc!\x95\xb7\xd5?'
+p349
+tp350
+Rp351
+tp352
+a(S'brian croft'
+p353
+g2
+(g6
+S'+4\xf2\xa6;\xad\xd5?'
+p354
+tp355
+Rp356
+tp357
+a(S'herbert croft (died 1629)'
+p358
+g2
+(g6
+S'&\x816A\x04\xa7\xd5?'
+p359
+tp360
+Rp361
+tp362
+a(S'text retrieval conference'
+p363
+g2
+(g6
+S'<\xa5\xad\xed"\xa0\xd5?'
+p364
+tp365
+Rp366
+tp367
+a(S'informedia digital library'
+p368
+g2
+(g6
+S'\xa2(^\x19\x98\x8d\xd5?'
+p369
+tp370
+Rp371
+tp372
+a(S'antigen retrieval'
+p373
+g2
+(g6
+S'<\xed\xfb!\x08\x8d\xd5?'
+p374
+tp375
+Rp376
+tp377
+a(S'jason farradane'
+p378
+g2
+(g6
+S'U\xfe\x83\xed\xdd\x8b\xd5?'
+p379
+tp380
+Rp381
+tp382
+a(S'lara croft'
+p383
+g2
+(g6
+S'\x90\x9cx\xbag\x8a\xd5?'
+p384
+tp385
+Rp386
+tp387
+a(S'colin croft'
+p388
+g2
+(g6
+S'\x9d\x82\x89\x99P\x86\xd5?'
+p389
+tp390
+Rp391
+tp392
+a(S'alec croft'
+p393
+g2
+(g6
+S'\xda3%\x9b\x0f{\xd5?'
+p394
+tp395
+Rp396
+tp397
+a(S'lead retrieval'
+p398
+g2
+(g6
+S'U\xc8\x9b\x80\xcay\xd5?'
+p399
+tp400
+Rp401
+tp402
+a(S'music information retrieval'
+p403
+g2
+(g6
+S'\xce\xbb^O\x80m\xd5?'
+p404
+tp405
+Rp406
+tp407
+a(S'concept-based image indexing'
+p408
+g2
+(g6
+S'\x11\xc1\xbe\x87\xd0i\xd5?'
+p409
+tp410
+Rp411
+tp412
+a(S'steve whittaker'
+p413
+g2
+(g6
+S'\xe0\xa9\xc4\xf5%Q\xd5?'
+p414
+tp415
+Rp416
+tp417
+a(S'the girl from the marsh croft'
+p418
+g2
+(g6
+S'\xc3\xb0V\xa0\xff\x11\xd5?'
+p419
+tp420
+Rp421
+tp422
+a(S'conference and labs of the evaluation forum'
+p423
+g2
+(g6
+S'\x9c\xfd\xd6\x15R\x0e\xd5?'
+p424
+tp425
+Rp426
+tp427
+a(S'networked environment for music analysis'
+p428
+g2
+(g6
+S'\x9e\xc4\x14-\xf5\x0c\xd5?'
+p429
+tp430
+Rp431
+tp432
+a(S'john croft (architect)'
+p433
+g2
+(g6
+S'\xac`P\xd1\x7f\x02\xd5?'
+p434
+tp435
+Rp436
+tp437
+a(S'william denman croft'
+p438
+g2
+(g6
+S'O\x88\x0e\xc2S\xef\xd4?'
+p439
+tp440
+Rp441
+tp442
+a(S'content-based image retrieval'
+p443
+g2
+(g6
+S'Q\x83\xbc\x88\xf4\xe4\xd4?'
+p444
+tp445
+Rp446
+tp447
+a(S'international society for music information retrieval'
+p448
+g2
+(g6
+S"m\xa8'KN\xe0\xd4?"
+p449
+tp450
+Rp451
+tp452
+a(S'rupert croft-cooke'
+p453
+g2
+(g6
+S'\x11\x028H\x02\xb9\xd4?'
+p454
+tp455
+Rp456
+tp457
+a(S"hall's croft"
+p458
+g2
+(g6
+S'@\xb4\x1c\x1b\xc9\xaf\xd4?'
+p459
+tp460
+Rp461
+tp462
+a(S'trecvid'
+p463
+g2
+(g6
+S'\xfcB\xd0\xffk\xa9\xd4?'
+p464
+tp465
+Rp466
+tp467
+a(S'edgar croft'
+p468
+g2
+(g6
+S'd\x9b\xac\xb1\xf8\x9c\xd4?'
+p469
+tp470
+Rp471
+tp472
+a(S'stokes croft'
+p473
+g2
+(g6
+S'\xdb\xb9O\x82\x1c~\xd4?'
+p474
+tp475
+Rp476
+tp477
+a(S'leon j. osterweil'
+p478
+g2
+(g6
+S'\x12+\xe2\xffIs\xd4?'
+p479
+tp480
+Rp481
+tp482
+a(S'ben croft'
+p483
+g2
+(g6
+S'#\xfd\xc0t~c\xd4?'
+p484
+tp485
+Rp486
+tp487
+a(S'karen sp\xc3\xa4rck jones'
+p488
+g2
+(g6
+S'\xaa\xf7K5\x8c^\xd4?'
+p489
+tp490
+Rp491
+tp492
+a(S'information science'
+p493
+g2
+(g6
+S'\xbd}\x98\x97\xd1]\xd4?'
+p494
+tp495
+Rp496
+tp497
+a(S"people's republic of stokes croft"
+p498
+g2
+(g6
+S'\xa1Z\xe8\x02DE\xd4?'
+p499
+tp500
+Rp501
+tp502
+a(S"mooers' law"
+p503
+g2
+(g6
+S'\xf4\x94\x0b\x95\xacB\xd4?'
+p504
+tp505
+Rp506
+tp507
+a(S'visual word'
+p508
+g2
+(g6
+S'c\x8d\xf4"\xb2/\xd4?'
+p509
+tp510
+Rp511
+tp512
+a(S'allen kent'
+p513
+g2
+(g6
+S'Qw\x018\xa7#\xd4?'
+p514
+tp515
+Rp516
+tp517
+a(S'list of information retrieval libraries'
+p518
+g2
+(g6
+S' \x80Py:"\xd4?'
+p519
+tp520
+Rp521
+tp522
+a(S'art croft'
+p523
+g2
+(g6
+S'q\xaeD\xe2\x87\xfc\xd3?'
+p524
+tp525
+Rp526
+tp527
+a(S'outline of information science'
+p528
+g2
+(g6
+S'\xd4m\xe4\xbcY\xf3\xd3?'
+p529
+tp530
+Rp531
+tp532
+a(S'marie-chantal croft'
+p533
+g2
+(g6
+S'\xd6\xe5yX?\xf1\xd3?'
+p534
+tp535
+Rp536
+tp537
+a(S'terrier search engine'
+p538
+g2
+(g6
+S'\xbba-1\x16\xb1\xd3?'
+p539
+tp540
+Rp541
+tp542
+a(S'adolphus croft'
+p543
+g2
+(g6
+S'N\x9c&\xc8T\xad\xd3?'
+p544
+tp545
+Rp546
+tp547
+a(S'european conference on information retrieval'
+p548
+g2
+(g6
+S'V}\xd3w\\\x99\xd3?'
+p549
+tp550
+Rp551
+tp552
+a(S'croft circuit'
+p553
+g2
+(g6
+S'\x12X3\xc4\x17\x8a\xd3?'
+p554
+tp555
+Rp556
+tp557
+a(S'john croft'
+p558
+g2
+(g6
+S'K\xe6\x89%Jw\xd3?'
+p559
+tp560
+Rp561
+tp562
+a(S'stuart croft (artist)'
+p563
+g2
+(g6
+S'z\xc0\x8af\x9aW\xd3?'
+p564
+tp565
+Rp566
+tp567
+a(S'herbert croft (bishop)'
+p568
+g2
+(g6
+S'T\xe7\x9a\x882U\xd3?'
+p569
+tp570
+Rp571
+tp572
+a(S'temporal information retrieval'
+p573
+g2
+(g6
+S'\x8c\xe6\x9c\x95U+\xd3?'
+p574
+tp575
+Rp576
+tp577
+a(S'rebecca croft'
+p578
+g2
+(g6
+S'\x19\x95\x8c\x9a\x14\xee\xd2?'
+p579
+tp580
+Rp581
+tp582
+a(S'robert r. korfhage'
+p583
+g2
+(g6
+S'\xc5\x86\xbb8=\xd3\xd2?'
+p584
+tp585
+Rp586
+tp587
+a(S'lori a. clarke'
+p588
+g2
+(g6
+S'\xed\xc7\r.\x12\xbc\xd2?'
+p589
+tp590
+Rp591
+tp592
+a(S'chancy croft'
+p593
+g2
+(g6
+S'\x8e@C\x8a\x10\xae\xd2?'
+p594
+tp595
+Rp596
+tp597
+a(S'peter willett'
+p598
+g2
+(g6
+S'\xc3\xd4c\xa9\xc2\x82\xd2?'
+p599
+tp600
+Rp601
+tp602
+a(S'image retrieval'
+p603
+g2
+(g6
+S'\x0c\xb6\x8c\xf4\xd7\x80\xd2?'
+p604
+tp605
+Rp606
+tp607
+a(S'potters marston'
+p608
+g2
+(g6
+S'97\x92\x92\xfcm\xd2?'
+p609
+tp610
+Rp611
+tp612
+a(S'concept search'
+p613
+g2
+(g6
+S'\x89\xbb\xcc\xdc\x17l\xd2?'
+p614
+tp615
+Rp616
+tp617
+a(S'matthew croft'
+p618
+g2
+(g6
+S's\x80\x83\xd3\x90V\xd2?'
+p619
+tp620
+Rp621
+tp622
+a(S'barbara brandon-croft'
+p623
+g2
+(g6
+S'\x08x}4\x00V\xd2?'
+p624
+tp625
+Rp626
+tp627
+a(S'jamie croft'
+p628
+g2
+(g6
+S'}\x95\xf0\xd1\x15S\xd2?'
+p629
+tp630
+Rp631
+tp632
+a(S'croft spa railway station'
+p633
+g2
+(g6
+S'\xd8\xf1H\x84\xc3N\xd2?'
+p634
+tp635
+Rp636
+tp637
+a(S'lgte'
+p638
+g2
+(g6
+S'\xec\xe8\x10G\x84K\xd2?'
+p639
+tp640
+Rp641
+tp642
+a(S'croft historic district'
+p643
+g2
+(g6
+S'\x05f\x88\xb3\xcb4\xd2?'
+p644
+tp645
+Rp646
+tp647
+a(S'multisearch'
+p648
+g2
+(g6
+S'\x08\xff]J\x8c/\xd2?'
+p649
+tp650
+Rp651
+tp652
+a(S'theodore g. croft'
+p653
+g2
+(g6
+S'\x0f\xbd`\xffM(\xd2?'
+p654
+tp655
+Rp656
+tp657
+a(S'george w. croft'
+p658
+g2
+(g6
+S'\x1fzb\x82\xa0!\xd2?'
+p659
+tp660
+Rp661
+tp662
+a(S'alexander l. wolf'
+p663
+g2
+(g6
+S'\x97Q3\x00\xac\x1e\xd2?'
+p664
+tp665
+Rp666
+tp667
+a(S'tranby croft'
+p668
+g2
+(g6
+S'\xd03\x99\rB\x18\xd2?'
+p669
+tp670
+Rp671
+tp672
+a(S'jim kurose'
+p673
+g2
+(g6
+S'\xae\xc9\xf6(g\x17\xd2?'
+p674
+tp675
+Rp676
+tp677
+a(S'henry croft (pearly)'
+p678
+g2
+(g6
+S'ok\xbf\xe5_\n\xd2?'
+p679
+tp680
+Rp681
+tp682
+a(S'david croft (broadcaster)'
+p683
+g2
+(g6
+S'a\xb1Z\xff\x00\x00\xd2?'
+p684
+tp685
+Rp686
+tp687
+a(S'don towsley'
+p688
+g2
+(g6
+S"B|\xda'\r\xe0\xd1?"
+p689
+tp690
+Rp691
+tp692
+a(S'sayers croft'
+p693
+g2
+(g6
+S"n\\\xc8\t'\xdd\xd1?"
+p694
+tp695
+Rp696
+tp697
+a(S'edward m. riseman'
+p698
+g2
+(g6
+S'\x1d,*\xc3\x12\xd9\xd1?'
+p699
+tp700
+Rp701
+tp702
+a(S'irsg'
+p703
+g2
+(g6
+S'Ok\x05\x0b\xab\xc5\xd1?'
+p704
+tp705
+Rp706
+tp707
+a(S'information and computer science'
+p708
+g2
+(g6
+S'=f6@\x93\xb6\xd1?'
+p709
+tp710
+Rp711
+tp712
+a(S'lemur project'
+p713
+g2
+(g6
+S'\x98\xd3\xbe\x8e\x85\xb2\xd1?'
+p714
+tp715
+Rp716
+tp717
+a(S'elisabeth croft'
+p718
+g2
+(g6
+S'\xf3\xd9e\xce\xcf\x8e\xd1?'
+p719
+tp720
+Rp721
+tp722
+a(S'paul a. d. de maine'
+p723
+g2
+(g6
+S'\xca\xf7\x12G\x0b\x88\xd1?'
+p724
+tp725
+Rp726
+tp727
+a(S'trec genomics'
+p728
+g2
+(g6
+S'\xb1\xb4\xf0.\xe2z\xd1?'
+p729
+tp730
+Rp731
+tp732
+a(S"list of 'allo 'allo! episodes"
+p733
+g2
+(g6
+S'\xabZ\x99^\xe0Z\xd1?'
+p734
+tp735
+Rp736
+tp737
+a(S'steven croft (bishop)'
+p738
+g2
+(g6
+S'/\xcd3\xacOT\xd1?'
+p739
+tp740
+Rp741
+tp742
+a(S'retrievability'
+p743
+g2
+(g6
+S'\xd0\xfe\xbb\x8d\xbe?\xd1?'
+p744
+tp745
+Rp746
+tp747
+a(S'revisioned: tomb raider animated series'
+p748
+g2
+(g6
+S'tYm`\x8a\x17\xd1?'
+p749
+tp750
+Rp751
+tp752
+a(S'clearinghouse for networked information discovery and retrieval'
+p753
+g2
+(g6
+S'\xe0\xcc\x91(\xc2\x14\xd1?'
+p754
+tp755
+Rp756
+tp757
+a(S'active recall'
+p758
+g2
+(g6
+S'\x8c\t\xc0\xf1\xb8\t\xd1?'
+p759
+tp760
+Rp761
+tp762
+a(S'alfred woodley croft'
+p763
+g2
+(g6
+S'\x93"\xff\xdd.\xf9\xd0?'
+p764
+tp765
+Rp766
+tp767
+a(S'relevance (information retrieval)'
+p768
+g2
+(g6
+S'\xf6\x92\xf8g\xaa\xc2\xd0?'
+p769
+tp770
+Rp771
+tp772
+a(S'henry croft'
+p773
+g2
+(g6
+S'\xbf\x9e\xac\xb2T\xb5\xd0?'
+p774
+tp775
+Rp776
+tp777
+a(S'andrew croft'
+p778
+g2
+(g6
+S"\xf1B=\x0b'\xa9\xd0?"
+p779
+tp780
+Rp781
+tp782
+a(S'mary lou soffa'
+p783
+g2
+(g6
+S'!\x05?7\xe0\x9b\xd0?'
+p784
+tp785
+Rp786
+tp787
+a(S'ofer bergman'
+p788
+g2
+(g6
+S'UZ\x18\x91\x90\x96\xd0?'
+p789
+tp790
+Rp791
+tp792
+a(S'lorraine borman'
+p793
+g2
+(g6
+S'r2%\xd0`\x87\xd0?'
+p794
+tp795
+Rp796
+tp797
+a(S'european summer school in information retrieval'
+p798
+g2
+(g6
+S'\xdfOv\x9a\x8c\x85\xd0?'
+p799
+tp800
+Rp801
+tp802
+a(S'douglas croft'
+p803
+g2
+(g6
+S'\x88I\xa4\xc6\xf0w\xd0?'
+p804
+tp805
+Rp806
+tp807
+a(S'dinesh manocha'
+p808
+g2
+(g6
+S'!0\xae\x1d<v\xd0?'
+p809
+tp810
+Rp811
+tp812
+a(S'amit singhal'
+p813
+g2
+(g6
+S'j\xab\x07\\\xbem\xd0?'
+p814
+tp815
+Rp816
+tp817
+a(S'richard croft (tenor)'
+p818
+g2
+(g6
+S'*\xb6\xd7f"l\xd0?'
+p819
+tp820
+Rp821
+tp822
+a(S'stillington, north yorkshire'
+p823
+g2
+(g6
+S'}0\xc2R{U\xd0?'
+p824
+tp825
+Rp826
+tp827
+a(S'university of michigan school of information'
+p828
+g2
+(g6
+S'\xe4\xd56\xf2\xddK\xd0?'
+p829
+tp830
+Rp831
+tp832
+a(S'james e. croft'
+p833
+g2
+(g6
+S'>$T\x15nB\xd0?'
+p834
+tp835
+Rp836
+tp837
+a(S'karima adebibe'
+p838
+g2
+(g6
+S'\x93W\nn\xe4<\xd0?'
+p839
+tp840
+Rp841
+tp842
+a(S'which way to the war'
+p843
+g2
+(g6
+S'\xa4]\xbe)d7\xd0?'
+p844
+tp845
+Rp846
+tp847
+a(S'beth croft'
+p848
+g2
+(g6
+S'WT\x94\xe0\x915\xd0?'
+p849
+tp850
+Rp851
+tp852
+a(S'raf croft'
+p853
+g2
+(g6
+S'\xabj s\xf3"\xd0?'
+p854
+tp855
+Rp856
+tp857
+a(S'alan smeaton'
+p858
+g2
+(g6
+S'X7\x87s\xc6\x1f\xd0?'
+p859
+tp860
+Rp861
+tp862
+a(S'department of computer science, university of illinois at urbana\xe2\x80\x93champaign'
+p863
+g2
+(g6
+S'$\x12\x80?\x92\x1c\xd0?'
+p864
+tp865
+Rp866
+tp867
+a(S'computer science'
+p868
+g2
+(g6
+S'\x00\xednY$\x1c\xd0?'
+p869
+tp870
+Rp871
+tp872
+a(S'barbara g. ryder'
+p873
+g2
+(g6
+S'\xb4\x82\tw\xf7\x04\xd0?'
+p874
+tp875
+Rp876
+tp877
+a(S'michael j. franklin'
+p878
+g2
+(g6
+S'\x80\xf88>\x7f\x04\xd0?'
+p879
+tp880
+Rp881
+tp882
+a(S'lara croft go'
+p883
+g2
+(g6
+S'\x08\xd06\xf6\x08\x03\xd0?'
+p884
+tp885
+Rp886
+tp887
+a(S'monika henzinger'
+p888
+g2
+(g6
+S'\xa82\x9f\xe3\x18\xf4\xcf?'
+p889
+tp890
+Rp891
+tp892
+a(S'computer university, pyay'
+p893
+g2
+(g6
+S'\xef\x07\xa3\xa7\xa9\xde\xcf?'
+p894
+tp895
+Rp896
+tp897
+a(S'thomas e. anderson'
+p898
+g2
+(g6
+S'\xd1\rHr\xba\xb8\xcf?'
+p899
+tp900
+Rp901
+tp902
+a(S'concept searching limited'
+p903
+g2
+(g6
+S'\xff\x88\xdfc\xb6\xb7\xcf?'
+p904
+tp905
+Rp906
+tp907
+a(S'ancroft'
+p908
+g2
+(g6
+S';E\xbdRo\xb6\xcf?'
+p909
+tp910
+Rp911
+tp912
+a(S'devavrat shah'
+p913
+g2
+(g6
+S'\xb0f1\xae\x18\xa4\xcf?'
+p914
+tp915
+Rp916
+tp917
+a(S'legal information retrieval'
+p918
+g2
+(g6
+S'k\xa9H-\x1e\x9c\xcf?'
+p919
+tp920
+Rp921
+tp922
+a(S'eric s. roberts'
+p923
+g2
+(g6
+S'\xa7p\xb9\xd2\xf4\x89\xcf?'
+p924
+tp925
+Rp926
+tp927
+a(S'gary chevsky'
+p928
+g2
+(g6
+S'\xc58=\x07&\x83\xcf?'
+p929
+tp930
+Rp931
+tp932
+a(S'darpa tipster program'
+p933
+g2
+(g6
+S'\xd9`+i\xa7\x82\xcf?'
+p934
+tp935
+Rp936
+tp937
+a(S'tracy camp'
+p938
+g2
+(g6
+S'\t\xc0\xf9gRk\xcf?'
+p939
+tp940
+Rp941
+tp942
+a(S'acm multimedia'
+p943
+g2
+(g6
+S'\x14\xc2E\xe9rj\xcf?'
+p944
+tp945
+Rp946
+tp947
+a(S'rajeev alur'
+p948
+g2
+(g6
+S'\xd0\xbe\xf0!6j\xcf?'
+p949
+tp950
+Rp951
+tp952
+a(S'association for computing machinery'
+p953
+g2
+(g6
+S'\x9a\x16\x8d$\xb8[\xcf?'
+p954
+tp955
+Rp956
+tp957
+a(S'nassib nassar'
+p958
+g2
+(g6
+S'fr\x0c\x12q[\xcf?'
+p959
+tp960
+Rp961
+tp962
+a(S'missing (uk tv series)'
+p963
+g2
+(g6
+S'\x84\xc0*h\x8cK\xcf?'
+p964
+tp965
+Rp966
+tp967
+a(S'scotstar'
+p968
+g2
+(g6
+S'\x98\xa6\xbc\xa6\xad(\xcf?'
+p969
+tp970
+Rp971
+tp972
+a(S'mike lynch (information scientist)'
+p973
+g2
+(g6
+S'x\xd4eO\xa1\x1d\xcf?'
+p974
+tp975
+Rp976
+tp977
+a(S'michael t. goodrich'
+p978
+g2
+(g6
+S'\x7f^\xed\xa4M\x0f\xcf?'
+p979
+tp980
+Rp981
+tp982
+a(S'harry croft'
+p983
+g2
+(g6
+S'\x0e\x81\x10\xdf\xcf\xf8\xce?'
+p984
+tp985
+Rp986
+tp987
+a(S'mark a. mcdaniel'
+p988
+g2
+(g6
+S'Re-\xb2\xd9\xe4\xce?'
+p989
+tp990
+Rp991
+tp992
+a(S'annabel croft'
+p993
+g2
+(g6
+S'\xd5\xa1\x99\xa6A\xdd\xce?'
+p994
+tp995
+Rp996
+tp997
+a(S'katharine stewart'
+p998
+g2
+(g6
+S'\x90^ea6\xd9\xce?'
+p999
+tp1000
+Rp1001
+tp1002
+a(S'medical literature retrieval'
+p1003
+g2
+(g6
+S'm?\xbaV\xa0\xc6\xce?'
+p1004
+tp1005
+Rp1006
+tp1007
+a(S'university of computer studies, yangon'
+p1008
+g2
+(g6
+S'A\xacv\xc6Z\xb4\xce?'
+p1009
+tp1010
+Rp1011
+tp1012
+a(S'37 and 39 jamaica street, bristol'
+p1013
+g2
+(g6
+S'\xe2/`\xafD\xb3\xce?'
+p1014
+tp1015
+Rp1016
+tp1017
+a(S'information school'
+p1018
+g2
+(g6
+S'{\xf0\x0f\x0e\xed\x9d\xce?'
+p1019
+tp1020
+Rp1021
+tp1022
+a(S'university of wisconsin\xe2\x80\x93milwaukee school of information studies'
+p1023
+g2
+(g6
+S'\xd8\x1d*\xf5\xbe\x8e\xce?'
+p1024
+tp1025
+Rp1026
+tp1027
+a(S'nell b. dale'
+p1028
+g2
+(g6
+S'\xb5\xb1\x16\\N\x8b\xce?'
+p1029
+tp1030
+Rp1031
+tp1032
+a(S'palos of the dog star pack'
+p1033
+g2
+(g6
+S'\t\xe8>Y|k\xce?'
+p1034
+tp1035
+Rp1036
+tp1037
+a(S'marcia j. bates'
+p1038
+g2
+(g6
+S'\x10\x85\xa99\x8ad\xce?'
+p1039
+tp1040
+Rp1041
+tp1042
+a(S'acm assiut university student chapter'
+p1043
+g2
+(g6
+S'"\x19\xac\x8e\xe3c\xce?'
+p1044
+tp1045
+Rp1046
+tp1047
+a(S'pirs'
+p1048
+g2
+(g6
+S'\xbbH\x06c\x1da\xce?'
+p1049
+tp1050
+Rp1051
+tp1052
+a(S'mary jane irwin'
+p1053
+g2
+(g6
+S'\x82\x11h\xf7\xfd(\xce?'
+p1054
+tp1055
+Rp1056
+tp1057
+a(S'multimedia information retrieval'
+p1058
+g2
+(g6
+S'u\x1d\xdaw\x86\x1e\xce?'
+p1059
+tp1060
+Rp1061
+tp1062
+a(S'kathleen mckeown'
+p1063
+g2
+(g6
+S'k\xa6\x98\xc2X\x1d\xce?'
+p1064
+tp1065
+Rp1066
+tp1067
+a(S'de la salle university college of computer studies'
+p1068
+g2
+(g6
+S'M\xc6\x18\xa3$\x10\xce?'
+p1069
+tp1070
+Rp1071
+tp1072
+a(S'history trek'
+p1073
+g2
+(g6
+S'\x1e\xe1\xdb\x93/\xff\xcd?'
+p1074
+tp1075
+Rp1076
+tp1077
+a(S'ramesh jain'
+p1078
+g2
+(g6
+S'K\xdf?K\x1c\xfa\xcd?'
+p1079
+tp1080
+Rp1081
+tp1082
+a(S'department of computer science (university of toronto)'
+p1083
+g2
+(g6
+S'\xe9\x0f\xe74W\xf1\xcd?'
+p1084
+tp1085
+Rp1086
+tp1087
+a(S'paul croft'
+p1088
+g2
+(g6
+S'@s\x0eh\xae\xea\xcd?'
+p1089
+tp1090
+Rp1091
+tp1092
+a(S'list of search engine software'
+p1093
+g2
+(g6
+S'dE\n\t\x07\xdc\xcd?'
+p1094
+tp1095
+Rp1096
+tp1097
+a(S'room service (uk tv series)'
+p1098
+g2
+(g6
+S'\x0c\x0b%o\x89\xcf\xcd?'
+p1099
+tp1100
+Rp1101
+tp1102
+a(S'retrieval-induced forgetting'
+p1103
+g2
+(g6
+S'\xc7\xed\xd3\x02\x9e\xce\xcd?'
+p1104
+tp1105
+Rp1106
+tp1107
+a(S'evgeniy gabrilovich'
+p1108
+g2
+(g6
+S'\x05\x1d\xec_;\xca\xcd?'
+p1109
+tp1110
+Rp1111
+tp1112
+a(S'henry l. roediger iii'
+p1113
+g2
+(g6
+S'\x9e\xd5)b@\xc7\xcd?'
+p1114
+tp1115
+Rp1116
+tp1117
+a(S'berry brow'
+p1118
+g2
+(g6
+S'\xf1k\xcd9\x82\xc5\xcd?'
+p1119
+tp1120
+Rp1121
+tp1122
+a(S'dalton-on-tees'
+p1123
+g2
+(g6
+S'\x9e\xe6\\\x89l\xb7\xcd?'
+p1124
+tp1125
+Rp1126
+tp1127
+a(S'cluster hypothesis'
+p1128
+g2
+(g6
+S's}\xf5O\x97\xb1\xcd?'
+p1129
+tp1130
+Rp1131
+tp1132
+a(S'demetri terzopoulos'
+p1133
+g2
+(g6
+S'\xcb8\xff6\x88\x97\xcd?'
+p1134
+tp1135
+Rp1136
+tp1137
+a(S'howard d. white'
+p1138
+g2
+(g6
+S'\xe3\xe6\xed\xdbM\x97\xcd?'
+p1139
+tp1140
+Rp1141
+tp1142
+a(S'jane fountain'
+p1143
+g2
+(g6
+S'N\xe8]=\xe0\x7f\xcd?'
+p1144
+tp1145
+Rp1146
+tp1147
+a(S'intelligent medical search engine'
+p1148
+g2
+(g6
+S'\xf0F\x9e\x93\xd5x\xcd?'
+p1149
+tp1150
+Rp1151
+tp1152
+a(S'james z. wang'
+p1153
+g2
+(g6
+S'E@=\xbc\xedk\xcd?'
+p1154
+tp1155
+Rp1156
+tp1157
+a(S'bachelor of computer science'
+p1158
+g2
+(g6
+S'{\xa0w\x94\xc9k\xcd?'
+p1159
+tp1160
+Rp1161
+tp1162
+a(S'information seeking'
+p1163
+g2
+(g6
+S'\xe0x\x17\xa1\x8fK\xcd?'
+p1164
+tp1165
+Rp1166
+tp1167
+a(S'bhavani thuraisingham'
+p1168
+g2
+(g6
+S'\x10\xf5\xc1\xe69B\xcd?'
+p1169
+tp1170
+Rp1171
+tp1172
+a(S'smart information retrieval system'
+p1173
+g2
+(g6
+S'\xa6\xaf\x03\x9d\xaa@\xcd?'
+p1174
+tp1175
+Rp1176
+tp1177
+a(S'isearch'
+p1178
+g2
+(g6
+S'\xc2QO\xf81@\xcd?'
+p1179
+tp1180
+Rp1181
+tp1182
+a(S'hippocampal memory encoding and retrieval'
+p1183
+g2
+(g6
+S'\x0bch\x11\xe6;\xcd?'
+p1184
+tp1185
+Rp1186
+tp1187
+a(S'boreray (north uist)'
+p1188
+g2
+(g6
+S' t\xe2\xf6\xe1,\xcd?'
+p1189
+tp1190
+Rp1191
+tp1192
+a(S'library and information science'
+p1193
+g2
+(g6
+S'rp\xaf\xe6\xfb)\xcd?'
+p1194
+tp1195
+Rp1196
+tp1197
+a(S'lawrence rauchwerger'
+p1198
+g2
+(g6
+S'\x0c\x173f\x8e(\xcd?'
+p1199
+tp1200
+Rp1201
+tp1202
+a(S'sad day we left the croft'
+p1203
+g2
+(g6
+S'A\x06wg8%\xcd?'
+p1204
+tp1205
+Rp1206
+tp1207
+a(S'mooers'
+p1208
+g2
+(g6
+S'\xe4\xeb]\xe3L\xec\xcc?'
+p1209
+tp1210
+Rp1211
+tp1212
+a(S'university of santo tomas institute of information and computing sciences'
+p1213
+g2
+(g6
+S'L\xee\xfa\xeet\xea\xcc?'
+p1214
+tp1215
+Rp1216
+tp1217
+a(S'amherst, massachusetts'
+p1218
+g2
+(g6
+S'\x8ek+\xc0\xe8\xd0\xcc?'
+p1219
+tp1220
+Rp1221
+tp1222
+a(S'h5 (us company)'
+p1223
+g2
+(g6
+S';\x1c\x8a\xa4\xe9\xca\xcc?'
+p1224
+tp1225
+Rp1226
+tp1227
+a(S'term indexing'
+p1228
+g2
+(g6
+S"'Ue\\w\xc1\xcc?"
+p1229
+tp1230
+Rp1231
+tp1232
+a(S'parliamentary information management system'
+p1233
+g2
+(g6
+S'\x16R\x9aN\xba\xb7\xcc?'
+p1234
+tp1235
+Rp1236
+tp1237
+a(S'john r. croft'
+p1238
+g2
+(g6
+S'Qsd\xf6\xa9\xb5\xcc?'
+p1239
+tp1240
+Rp1241
+tp1242
+a(S'ruzena bajcsy'
+p1243
+g2
+(g6
+S'\xee\x15\x0cx\x8f\x96\xcc?'
+p1244
+tp1245
+Rp1246
+tp1247
+a(S'mary jane croft'
+p1248
+g2
+(g6
+S'c\xbb\x96\xed\x13\x85\xcc?'
+p1249
+tp1250
+Rp1251
+tp1252
+a(S'susan h. rodger'
+p1253
+g2
+(g6
+S'"\x00.\r\xd2}\xcc?'
+p1254
+tp1255
+Rp1256
+tp1257
+a(S'john m. carroll (information scientist)'
+p1258
+g2
+(g6
+S'\x8dhql\xd0{\xcc?'
+p1259
+tp1260
+Rp1261
+tp1262
+a(S'university of computer studies, mandalay'
+p1263
+g2
+(g6
+S'\xa8\xaaL\x87Gw\xcc?'
+p1264
+tp1265
+Rp1266
+tp1267
+a(S'the girl from the marsh croft (novella)'
+p1268
+g2
+(g6
+S'\xa5\xdd\xa0\xe1\x1cp\xcc?'
+p1269
+tp1270
+Rp1271
+tp1272
+a(S'dwayne croft'
+p1273
+g2
+(g6
+S'\xdd\xf1cP%g\xcc?'
+p1274
+tp1275
+Rp1276
+tp1277
+a(S'brs/search'
+p1278
+g2
+(g6
+S'\xb6Ql\xf18X\xcc?'
+p1279
+tp1280
+Rp1281
+tp1282
+a(S'brodie croft'
+p1283
+g2
+(g6
+S'2\x90\xcb\x1dPW\xcc?'
+p1284
+tp1285
+Rp1286
+tp1287
+a(S'mordechai ben-ari'
+p1288
+g2
+(g6
+S'e\x04\x08\xae\xe4R\xcc?'
+p1289
+tp1290
+Rp1291
+tp1292
+a(S'elaine weyuker'
+p1293
+g2
+(g6
+S',lr\x17\xb1@\xcc?'
+p1294
+tp1295
+Rp1296
+tp1297
+a(S'olly croft'
+p1298
+g2
+(g6
+S'\x1a\x99g\x8b\xfc>\xcc?'
+p1299
+tp1300
+Rp1301
+tp1302
+a(S'donn b. parker'
+p1303
+g2
+(g6
+S'J3\x8c-\xe1=\xcc?'
+p1304
+tp1305
+Rp1306
+tp1307
+a(S'master of science in information technology'
+p1308
+g2
+(g6
+S'\x90T\x972\xe4.\xcc?'
+p1309
+tp1310
+Rp1311
+tp1312
+a(S'sound and music computing'
+p1313
+g2
+(g6
+S'\x90\x8d\xff\x0f\x05\x07\xcc?'
+p1314
+tp1315
+Rp1316
+tp1317
+a(S'maarten de rijke'
+p1318
+g2
+(g6
+S'O\xcct\x91?\xfb\xcb?'
+p1319
+tp1320
+Rp1321
+tp1322
+a(S'suzanne lohnes-croft'
+p1323
+g2
+(g6
+S'\xc4\x90f\xbb\x08\xf9\xcb?'
+p1324
+tp1325
+Rp1326
+tp1327
+a(S'amherst college'
+p1328
+g2
+(g6
+S'\x86\x86\xed\xd0\xd3\xe8\xcb?'
+p1329
+tp1330
+Rp1331
+tp1332
+a(S'forest croft and taymount grange'
+p1333
+g2
+(g6
+S'Ek\xe8\xc5\xe5\xd6\xcb?'
+p1334
+tp1335
+Rp1336
+tp1337
+a(S'frans kaashoek'
+p1338
+g2
+(g6
+S'\xeddq\xff\x08\xd3\xcb?'
+p1339
+tp1340
+Rp1341
+tp1342
+a(S'ralph creyke'
+p1343
+g2
+(g6
+S'\xe0\x03"\xba\x1a\xc1\xcb?'
+p1344
+tp1345
+Rp1346
+tp1347
+a(S'vocabulary mismatch'
+p1348
+g2
+(g6
+S'\xecy\x1a\x88?\xbf\xcb?'
+p1349
+tp1350
+Rp1351
+tp1352
+a(S'larry s. davis'
+p1353
+g2
+(g6
+S'/\xa9u;v\xbd\xcb?'
+p1354
+tp1355
+Rp1356
+tp1357
+a(S'joan croft halt railway station'
+p1358
+g2
+(g6
+S'\x83\xb1\xa2ez\xbb\xcb?'
+p1359
+tp1360
+Rp1361
+tp1362
+a(S'school of computing (robert gordon university)'
+p1363
+g2
+(g6
+S'\x0c9:\x84\x84\xb9\xcb?'
+p1364
+tp1365
+Rp1366
+tp1367
+a(S'norbert fuhr'
+p1368
+g2
+(g6
+S'\xe5\xd1\xaez\x84\xb9\xcb?'
+p1369
+tp1370
+Rp1371
+tp1372
+a(S'lee giles'
+p1373
+g2
+(g6
+S'\x9d\x8dB\t\xca\xaf\xcb?'
+p1374
+tp1375
+Rp1376
+tp1377
+a(S'susan l. graham'
+p1378
+g2
+(g6
+S'[\x11M\xaa\x07\xa8\xcb?'
+p1379
+tp1380
+Rp1381
+tp1382
+a(S'university of the east college of computer studies and system'
+p1383
+g2
+(g6
+S'\xd3LYiV\x9b\xcb?'
+p1384
+tp1385
+Rp1386
+tp1387
+a(S'northeastern university college of computer and information science'
+p1388
+g2
+(g6
+S'\x98/?\x96\x89\x9a\xcb?'
+p1389
+tp1390
+Rp1391
+tp1392
+a(S'janet brennan croft'
+p1393
+g2
+(g6
+S'\xc6\x1a%\xa1\x94\x93\xcb?'
+p1394
+tp1395
+Rp1396
+tp1397
+a(S'michael witbrock'
+p1398
+g2
+(g6
+S'\xa7\xf0\xf95M\x90\xcb?'
+p1399
+tp1400
+Rp1401
+tp1402
+a(S'information retrieval query language'
+p1403
+g2
+(g6
+S'Vw\x0fz\xbd\x8d\xcb?'
+p1404
+tp1405
+Rp1406
+tp1407
+a(S'extremes (novel)'
+p1408
+g2
+(g6
+S'\x91_\xc17\xfb\x89\xcb?'
+p1409
+tp1410
+Rp1411
+tp1412
+a(S'university of maryland department of computer science'
+p1413
+g2
+(g6
+S'\x98\x124\xef\xcb\x80\xcb?'
+p1414
+tp1415
+Rp1416
+tp1417
+a(S'women in computing'
+p1418
+g2
+(g6
+S'\x00N\xcf\x07k\x80\xcb?'
+p1419
+tp1420
+Rp1421
+tp1422
+a(S'the killing of sister george'
+p1423
+g2
+(g6
+S'\x9e\r;\xdf\xf5u\xcb?'
+p1424
+tp1425
+Rp1426
+tp1427
+a(S'jack dongarra'
+p1428
+g2
+(g6
+S'\x86\x19#\x01\xf5R\xcb?'
+p1429
+tp1430
+Rp1431
+tp1432
+a(S'amherst'
+p1433
+g2
+(g6
+S'\xd1\xfc\xab\x80rE\xcb?'
+p1434
+tp1435
+Rp1436
+tp1437
+a(S'christine l. borgman'
+p1438
+g2
+(g6
+S'\x15X\x0cE\xa9@\xcb?'
+p1439
+tp1440
+Rp1441
+tp1442
+a(S'up diliman department of computer science'
+p1443
+g2
+(g6
+S'\xdc\xdb\xee\x83\x941\xcb?'
+p1444
+tp1445
+Rp1446
+tp1447
+a(S"the goodman's croft"
+p1448
+g2
+(g6
+S'\x80\x12\x08\nH0\xcb?'
+p1449
+tp1450
+Rp1451
+tp1452
+a(S'amherst high school'
+p1453
+g2
+(g6
+S'\xe0\x18`\x07d&\xcb?'
+p1454
+tp1455
+Rp1456
+tp1457
+a(S'andrew b. whinston'
+p1458
+g2
+(g6
+S'\xcav\xbc\xd9\xae%\xcb?'
+p1459
+tp1460
+Rp1461
+tp1462
+a(S'darrell long'
+p1463
+g2
+(g6
+S'5\r\xae\xff\x96\x17\xcb?'
+p1464
+tp1465
+Rp1466
+tp1467
+a(S'anu college of engineering and computer science'
+p1468
+g2
+(g6
+S'\x80vW\x87\xcc\x00\xcb?'
+p1469
+tp1470
+Rp1471
+tp1472
+a(S'david r. cheriton school of computer science'
+p1473
+g2
+(g6
+S'\x02\xc0\xf1bY\xed\xca?'
+p1474
+tp1475
+Rp1476
+tp1477
+a(S'charles e. leiserson'
+p1478
+g2
+(g6
+S'S\xe6\x11\xb3\xc7\xba\xca?'
+p1479
+tp1480
+Rp1481
+tp1482
+a(S'joyce currie little'
+p1483
+g2
+(g6
+S'K\x0f\x8aIz\xba\xca?'
+p1484
+tp1485
+Rp1486
+tp1487
+a(S'university of colorado boulder computer science department'
+p1488
+g2
+(g6
+S'\x08j\xcf\x9d\x90\xb9\xca?'
+p1489
+tp1490
+Rp1491
+tp1492
+a(S'gene spafford'
+p1493
+g2
+(g6
+S'{\x98\x88\x1d\xe7\xb5\xca?'
+p1494
+tp1495
+Rp1496
+tp1497
+a(S'blackeberg'
+p1498
+g2
+(g6
+S'\xd1\xfc(L\x7f\xb3\xca?'
+p1499
+tp1500
+Rp1501
+tp1502
+a(S'school of information technology'
+p1503
+g2
+(g6
+S'\xbd\xec\xfe\xa8\xf7\xab\xca?'
+p1504
+tp1505
+Rp1506
+tp1507
+a(S'symposium on foundations of computer science'
+p1508
+g2
+(g6
+S'E\x9dQ\xc2\x1d\xaa\xca?'
+p1509
+tp1510
+Rp1511
+tp1512
+a.

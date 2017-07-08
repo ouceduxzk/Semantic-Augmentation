@@ -1,0 +1,2728 @@
+(lp0
+(S'approximation algorithm'
+p1
+cnumpy.core.multiarray
+scalar
+p2
+(cnumpy
+dtype
+p3
+(S'f8'
+p4
+I0
+I1
+tp5
+Rp6
+(I3
+S'<'
+p7
+NNNI-1
+I-1
+I0
+tp8
+bS'\x01\x00\x00\x00\x00\x00\xf0?'
+p9
+tp10
+Rp11
+tp12
+a(S'exact algorithm'
+p13
+g2
+(g6
+S'\xe0h6\xd4\xbc\x9b\xe7?'
+p14
+tp15
+Rp16
+tp17
+a(S'apx'
+p18
+g2
+(g6
+S'\xbaZX\xc8\x85\xea\xe6?'
+p19
+tp20
+Rp21
+tp22
+a(S'hardness of approximation'
+p23
+g2
+(g6
+S'E\xc41\xc6\x858\xe6?'
+p24
+tp25
+Rp26
+tp27
+a(S'order of approximation'
+p28
+g2
+(g6
+S' \x12zp\xf5g\xe1?'
+p29
+tp30
+Rp31
+tp32
+a(S'polynomial-time approximation scheme'
+p33
+g2
+(g6
+S'\xc3A\x0e\xb4\xbcc\xe1?'
+p34
+tp35
+Rp36
+tp37
+a(S'minimax approximation algorithm'
+p38
+g2
+(g6
+S'\x155\xff&]\xea\xe0?'
+p39
+tp40
+Rp41
+tp42
+a(S'facility location problem'
+p43
+g2
+(g6
+S'\xb0\xc3\xd9\xca\xdc\xe3\xe0?'
+p44
+tp45
+Rp46
+tp47
+a(S'approximation'
+p48
+g2
+(g6
+S'/\xd8~\xdf\xf5\xb9\xe0?'
+p49
+tp50
+Rp51
+tp52
+a(S'david shmoys'
+p53
+g2
+(g6
+S'\x11\xdf~\xe1D`\xe0?'
+p54
+tp55
+Rp56
+tp57
+a(S'set cover problem'
+p58
+g2
+(g6
+S'H\xd3\xe0\x17u\xa3\xdf?'
+p59
+tp60
+Rp61
+tp62
+a(S'eikonal approximation'
+p63
+g2
+(g6
+S'\xaf\x0c\x8apZ\x8d\xdf?'
+p64
+tp65
+Rp66
+tp67
+a(S'paraxial approximation'
+p68
+g2
+(g6
+S'9\xa6\x17y\n&\xdf?'
+p69
+tp70
+Rp71
+tp72
+a(S'metric k-center'
+p73
+g2
+(g6
+S'\x17\xb1}a\xf7\x14\xdf?'
+p74
+tp75
+Rp76
+tp77
+a(S'born\xe2\x80\x93huang approximation'
+p78
+g2
+(g6
+S'y\x80\xe3\x07\xd2m\xde?'
+p79
+tp80
+Rp81
+tp82
+a(S'approximation in algebraic groups'
+p83
+g2
+(g6
+S'\x97&\x8c\x9f\x0eL\xde?'
+p84
+tp85
+Rp86
+tp87
+a(S'maximum cut'
+p88
+g2
+(g6
+S'\xcc\xa4\xc2\x88\xbf>\xde?'
+p89
+tp90
+Rp91
+tp92
+a(S'low-rank approximation'
+p93
+g2
+(g6
+S'&e\xbb\x03I(\xde?'
+p94
+tp95
+Rp96
+tp97
+a(S'minisuperspace'
+p98
+g2
+(g6
+S'|z!\r\x92\xd9\xdd?'
+p99
+tp100
+Rp101
+tp102
+a(S'minimum k-cut'
+p103
+g2
+(g6
+S'\x11Kt\xcd\xd6w\xdd?'
+p104
+tp105
+Rp106
+tp107
+a(S'two-stream approximation'
+p108
+g2
+(g6
+S'\xbe\xa6\xc1\x8e\xe7"\xdd?'
+p109
+tp110
+Rp111
+tp112
+a(S'geometric set cover problem'
+p113
+g2
+(g6
+S'\xf3\xa2\x98>\xa9\x16\xdd?'
+p114
+tp115
+Rp116
+tp117
+a(S'korovkin approximation'
+p118
+g2
+(g6
+S'\x04R\xec\xa2\x9e\xb2\xdc?'
+p119
+tp120
+Rp121
+tp122
+a(S'rectangle method'
+p123
+g2
+(g6
+S'\x9bt\xe8?\xff\xb3\xdb?'
+p124
+tp125
+Rp126
+tp127
+a(S'function approximation'
+p128
+g2
+(g6
+S'+y\x7f\xcd5\xaa\xdb?'
+p129
+tp130
+Rp131
+tp132
+a(S'algorithm'
+p133
+g2
+(g6
+S'Q\xbf3\xd2z\x84\xdb?'
+p134
+tp135
+Rp136
+tp137
+a(S'supersymmetric wkb approximation'
+p138
+g2
+(g6
+S'<\\H`\x1a\x84\xdb?'
+p139
+tp140
+Rp141
+tp142
+a(S'linear programming relaxation'
+p143
+g2
+(g6
+S'\xb5\x90WV\xe9~\xdb?'
+p144
+tp145
+Rp146
+tp147
+a(S'binomial approximation'
+p148
+g2
+(g6
+S'\xa7\xaf\xfd|\x8ca\xdb?'
+p149
+tp150
+Rp151
+tp152
+a(S'dorit s. hochbaum'
+p153
+g2
+(g6
+S'\xbet\xcf\x02\xbb\\\xdb?'
+p154
+tp155
+Rp156
+tp157
+a(S'time complexity'
+p158
+g2
+(g6
+S'\xfa\x15\x88\x0b\x0fH\xdb?'
+p159
+tp160
+Rp161
+tp162
+a(S'list of algorithm general topics'
+p163
+g2
+(g6
+S'\xab~3H;\xf7\xda?'
+p164
+tp165
+Rp166
+tp167
+a(S'l-reduction'
+p168
+g2
+(g6
+S'\xc0\xf6\x8e[\x05\xa5\xda?'
+p169
+tp170
+Rp171
+tp172
+a(S'maximum coverage problem'
+p173
+g2
+(g6
+S'p_%\xb5\x1f\x83\xda?'
+p174
+tp175
+Rp176
+tp177
+a(S'linear approximation'
+p178
+g2
+(g6
+S'&\xc9\x9c\xd4\xbf2\xda?'
+p179
+tp180
+Rp181
+tp182
+a(S'ptas reduction'
+p183
+g2
+(g6
+S'`\x1f\xe3\xaa\xab\x02\xda?'
+p184
+tp185
+Rp186
+tp187
+a(S'f-plane'
+p188
+g2
+(g6
+S'[r\x14\xc4b\xe4\xd9?'
+p189
+tp190
+Rp191
+tp192
+a(S'remez algorithm'
+p193
+g2
+(g6
+S'\x90\x99\xed\x996\xaf\xd9?'
+p194
+tp195
+Rp196
+tp197
+a(S'fast inverse square root'
+p198
+g2
+(g6
+S'U\x18H\x98N\xa9\xd9?'
+p199
+tp200
+Rp201
+tp202
+a(S'domination analysis'
+p203
+g2
+(g6
+S'\xef\xa9\x1a\xb0\x1a\x98\xd9?'
+p204
+tp205
+Rp206
+tp207
+a(S'approximation theory'
+p208
+g2
+(g6
+S'P\xbd"\x85U=\xd9?'
+p209
+tp210
+Rp211
+tp212
+a(S'approximation-preserving reduction'
+p213
+g2
+(g6
+S'\xeb\x95\x03\x99`;\xd9?'
+p214
+tp215
+Rp216
+tp217
+a(S"sidi's generalized secant method"
+p218
+g2
+(g6
+S'C\xf7.\xeel7\xd9?'
+p219
+tp220
+Rp221
+tp222
+a(S'online algorithm'
+p223
+g2
+(g6
+S'e$/f>6\xd9?'
+p224
+tp225
+Rp226
+tp227
+a(S'high frequency approximation'
+p228
+g2
+(g6
+S'\xe0{\xee\xd1\x7f-\xd9?'
+p229
+tp230
+Rp231
+tp232
+a(S'quasi-bipartite graph'
+p233
+g2
+(g6
+S's_\x16{S\x1e\xd9?'
+p234
+tp235
+Rp236
+tp237
+a(S'coreset'
+p238
+g2
+(g6
+S'\xaa%\x9d\xc0\x1a\x9a\xd8?'
+p239
+tp240
+Rp241
+tp242
+a(S'saddlepoint approximation method'
+p243
+g2
+(g6
+S'\xc99x|\xfcD\xd8?'
+p244
+tp245
+Rp246
+tp247
+a(S'k-minimum spanning tree'
+p248
+g2
+(g6
+S'p>\xf2\xf9\x06-\xd8?'
+p249
+tp250
+Rp251
+tp252
+a(S'algorithm selection'
+p253
+g2
+(g6
+S'^S\xec\xbc\x87*\xd8?'
+p254
+tp255
+Rp256
+tp257
+a(S"spouge's approximation"
+p258
+g2
+(g6
+S'\x86\xdf\x8b\xd3\x9f\x13\xd8?'
+p259
+tp260
+Rp261
+tp262
+a(S'mil\xc3\xbc'
+p263
+g2
+(g6
+S'B\xc7\xaf\xc6\x8d\xe0\xd7?'
+p264
+tp265
+Rp266
+tp267
+a(S'karloff\xe2\x80\x93zwick algorithm'
+p268
+g2
+(g6
+S'x\x8d\xfb\x1c\x1d\xd0\xd7?'
+p269
+tp270
+Rp271
+tp272
+a(S'alpha max plus beta min algorithm'
+p273
+g2
+(g6
+S'.4\xda\x8f\xb1\xad\xd7?'
+p274
+tp275
+Rp276
+tp277
+a(S'hybrid algorithm'
+p278
+g2
+(g6
+S'\x04\xda\xeaQ\xe7q\xd7?'
+p279
+tp280
+Rp281
+tp282
+a(S'list of algorithms'
+p283
+g2
+(g6
+S'\x16\x17i@\xb7i\xd7?'
+p284
+tp285
+Rp286
+tp287
+a(S'mark jerrum'
+p288
+g2
+(g6
+S'./\xfd\xdf\x9cg\xd7?'
+p289
+tp290
+Rp291
+tp292
+a(S'born approximation'
+p293
+g2
+(g6
+S',\x13\xd5\xb0\xc9\x0b\xd7?'
+p294
+tp295
+Rp296
+tp297
+a(S'quantum optimization algorithms'
+p298
+g2
+(g6
+S'\x1d\xc2n\xab\xb9\x06\xd7?'
+p299
+tp300
+Rp301
+tp302
+a(S'kinodynamic planning'
+p303
+g2
+(g6
+S'\xa9x\x1f\x97%\x05\xd7?'
+p304
+tp305
+Rp306
+tp307
+a(S"mergelyan's theorem"
+p308
+g2
+(g6
+S'\xdb\xad\xde\x98"\x00\xd7?'
+p309
+tp310
+Rp311
+tp312
+a(S'algorithm engineering'
+p313
+g2
+(g6
+S'\xbd\xf3o}\xf1\xe8\xd6?'
+p314
+tp315
+Rp316
+tp317
+a(S'equioscillation theorem'
+p318
+g2
+(g6
+S'F\xa2\xaa\xd6\xf5\xbe\xd6?'
+p319
+tp320
+Rp321
+tp322
+a(S'list of numerical analysis topics'
+p323
+g2
+(g6
+S'\xc7\x06\xaa\x96\x8a\xaf\xd6?'
+p324
+tp325
+Rp326
+tp327
+a(S'frank\xe2\x80\x93wolfe algorithm'
+p328
+g2
+(g6
+S'Z\xa5\xd2=S\x98\xd6?'
+p329
+tp330
+Rp331
+tp332
+a(S'optimization problem'
+p333
+g2
+(g6
+S'p\xa1|W\xd0\x81\xd6?'
+p334
+tp335
+Rp336
+tp337
+a(S'sinc numerical methods'
+p338
+g2
+(g6
+S'\x8a\xc2^\xbej_\xd6?'
+p339
+tp340
+Rp341
+tp342
+a(S'weighted majority algorithm'
+p343
+g2
+(g6
+S'X\x9a\xb7\xa3\xc27\xd6?'
+p344
+tp345
+Rp346
+tp347
+a(S'nondeterministic algorithm'
+p348
+g2
+(g6
+S'\x9b&!\x9c\x10%\xd6?'
+p349
+tp350
+Rp351
+tp352
+a(S'joel tropp'
+p353
+g2
+(g6
+S'\xdcS\x1e\xb9\x15\x1b\xd6?'
+p354
+tp355
+Rp356
+tp357
+a(S'held\xe2\x80\x93karp algorithm'
+p358
+g2
+(g6
+S'\x0fg7\x17"\x0b\xd6?'
+p359
+tp360
+Rp361
+tp362
+a(S'boussinesq approximation'
+p363
+g2
+(g6
+S'\xa7\x8d\xb2e\xe0\x06\xd6?'
+p364
+tp365
+Rp366
+tp367
+a(S"karmarkar's algorithm"
+p368
+g2
+(g6
+S'd\xbf&\xaa\x1d\xfb\xd5?'
+p369
+tp370
+Rp371
+tp372
+a(S'partition problem'
+p373
+g2
+(g6
+S'\x15H\x18\xb2\x07\xf6\xd5?'
+p374
+tp375
+Rp376
+tp377
+a(S'streaming algorithm'
+p378
+g2
+(g6
+S'\xb4j\xe7\x8a\x10\xe8\xd5?'
+p379
+tp380
+Rp381
+tp382
+a(S'average-case complexity'
+p383
+g2
+(g6
+S'\xf3\x04o-\xa8\xe7\xd5?'
+p384
+tp385
+Rp386
+tp387
+a(S'teofilo f. gonzalez'
+p388
+g2
+(g6
+S'1\x99o\xc0\x15\xe7\xd5?'
+p389
+tp390
+Rp391
+tp392
+a(S'anomalous diffraction theory'
+p393
+g2
+(g6
+S',w\xfa\xd8z\xdd\xd5?'
+p394
+tp395
+Rp396
+tp397
+a(S'small-angle approximation'
+p398
+g2
+(g6
+S'\x90\x89\xb7Ov\xd2\xd5?'
+p399
+tp400
+Rp401
+tp402
+a(S'sharp-p-complete'
+p403
+g2
+(g6
+S':)\xd6\xc4\x1d\x9f\xd5?'
+p404
+tp405
+Rp406
+tp407
+a(S'anytime algorithm'
+p408
+g2
+(g6
+S'Ml\xc0\xda\xcd\x9b\xd5?'
+p409
+tp410
+Rp411
+tp412
+a(S'parametric search'
+p413
+g2
+(g6
+S'<kH\xa3\x05{\xd5?'
+p414
+tp415
+Rp416
+tp417
+a(S'born\xe2\x80\x93oppenheimer approximation'
+p418
+g2
+(g6
+S'\xfa]T\x8a\x17v\xd5?'
+p419
+tp420
+Rp421
+tp422
+a(S'residual (numerical analysis)'
+p423
+g2
+(g6
+S'\x1e7a\xa4\xbbt\xd5?'
+p424
+tp425
+Rp426
+tp427
+a(S'competitive analysis (online algorithm)'
+p428
+g2
+(g6
+S'\xbeJ\x9a\x88\x16h\xd5?'
+p429
+tp430
+Rp431
+tp432
+a(S'las vegas algorithm'
+p433
+g2
+(g6
+S'3\xfe\x18p\xbeP\xd5?'
+p434
+tp435
+Rp436
+tp437
+a(S'chow\xe2\x80\x93liu tree'
+p438
+g2
+(g6
+S'\xd5\xef\xd3NtF\xd5?'
+p439
+tp440
+Rp441
+tp442
+a(S'constructive function theory'
+p443
+g2
+(g6
+S'\x97\x04J\xbd\\&\xd5?'
+p444
+tp445
+Rp446
+tp447
+a(S'continuous slowing down approximation range'
+p448
+g2
+(g6
+S'\x16\xa2lf\xb2$\xd5?'
+p449
+tp450
+Rp451
+tp452
+a(S'branch and bound'
+p453
+g2
+(g6
+S'V\xb7U\xb5~\x1a\xd5?'
+p454
+tp455
+Rp456
+tp457
+a(S'approximation property'
+p458
+g2
+(g6
+S'\r\xf8\xc0\x1f\x03\x1a\xd5?'
+p459
+tp460
+Rp461
+tp462
+a(S'superstrong approximation'
+p463
+g2
+(g6
+S'\xae\xa4\xdc\x81E\x17\xd5?'
+p464
+tp465
+Rp466
+tp467
+a(S'kanade\xe2\x80\x93lucas\xe2\x80\x93tomasi feature tracker'
+p468
+g2
+(g6
+S'\n\xb5\xbd\xc9c\x0e\xd5?'
+p469
+tp470
+Rp471
+tp472
+a(S'stochastic approximation'
+p473
+g2
+(g6
+S'\xc7\xf5\xef\xe8\xc7\x02\xd5?'
+p474
+tp475
+Rp476
+tp477
+a(S'greedy algorithm'
+p478
+g2
+(g6
+S'P\xf3S\x0eJ\xf3\xd4?'
+p479
+tp480
+Rp481
+tp482
+a(S'bobyqa'
+p483
+g2
+(g6
+S'\xf8`\xc6+\xd6\xe4\xd4?'
+p484
+tp485
+Rp486
+tp487
+a(S'bin packing problem'
+p488
+g2
+(g6
+S'k~mU\xd0\xd7\xd4?'
+p489
+tp490
+Rp491
+tp492
+a(S'randomized algorithm'
+p493
+g2
+(g6
+S'\x0c\x9bjx@\xd3\xd4?'
+p494
+tp495
+Rp496
+tp497
+a(S'slowly varying envelope approximation'
+p498
+g2
+(g6
+S'\x89\xebwL0\xd3\xd4?'
+p499
+tp500
+Rp501
+tp502
+a(S'auction algorithm'
+p503
+g2
+(g6
+S'\x91\x1cIV\xd6\xc4\xd4?'
+p504
+tp505
+Rp506
+tp507
+a(S'list of unsolved problems in computer science'
+p508
+g2
+(g6
+S'\xc8<\xf7DC\xc1\xd4?'
+p509
+tp510
+Rp511
+tp512
+a(S'norair arakelian'
+p513
+g2
+(g6
+S'D\xb6/V\xda\xb9\xd4?'
+p514
+tp515
+Rp516
+tp517
+a(S'beta plane'
+p518
+g2
+(g6
+S'wI\x14\x87\xa8\xb9\xd4?'
+p519
+tp520
+Rp521
+tp522
+a(S'randomized rounding'
+p523
+g2
+(g6
+S'\xe2\x00}\xd4\x85\xad\xd4?'
+p524
+tp525
+Rp526
+tp527
+a(S'boussinesq approximation (buoyancy)'
+p528
+g2
+(g6
+S'\xb2\xc6V`\xd3\xac\xd4?'
+p529
+tp530
+Rp531
+tp532
+a(S'p versus np problem'
+p533
+g2
+(g6
+S'\xd5g\x08y\xf9\xab\xd4?'
+p534
+tp535
+Rp536
+tp537
+a(S'pls (complexity)'
+p538
+g2
+(g6
+S'\xbe\x16\xb5\xf5!~\xd4?'
+p539
+tp540
+Rp541
+tp542
+a(S'local search (optimization)'
+p543
+g2
+(g6
+S'\xa3\x98\x0b^\xa6}\xd4?'
+p544
+tp545
+Rp546
+tp547
+a(S'lanczos approximation'
+p548
+g2
+(g6
+S'5\x95j\xd6\xf5j\xd4?'
+p549
+tp550
+Rp551
+tp552
+a(S'ramer\xe2\x80\x93douglas\xe2\x80\x93peucker algorithm'
+p553
+g2
+(g6
+S'\xc6\x15Ex\x1fc\xd4?'
+p554
+tp555
+Rp556
+tp557
+a(S'semiclassical physics'
+p558
+g2
+(g6
+S'M\x03\x7f\xb2\x8cD\xd4?'
+p559
+tp560
+Rp561
+tp562
+a(S'travelling salesman problem'
+p563
+g2
+(g6
+S'\x8b\x0f\\\x85\xb1@\xd4?'
+p564
+tp565
+Rp566
+tp567
+a(S'eikonal'
+p568
+g2
+(g6
+S'\x8e\xc7\x85\xa3v=\xd4?'
+p569
+tp570
+Rp571
+tp572
+a(S'genetic algorithm'
+p573
+g2
+(g6
+S'\x13\xaf\xe4\xfc}-\xd4?'
+p574
+tp575
+Rp576
+tp577
+a(S'2-satisfiability'
+p578
+g2
+(g6
+S'\xa5!\x04\x9b#%\xd4?'
+p579
+tp580
+Rp581
+tp582
+a(S'no free lunch in search and optimization'
+p583
+g2
+(g6
+S'\x0e\x9f\r\xfe\x9c$\xd4?'
+p584
+tp585
+Rp586
+tp587
+a(S'p (complexity)'
+p588
+g2
+(g6
+S'\x0f\x82\x1d\xac\xb3\x1e\xd4?'
+p589
+tp590
+Rp591
+tp592
+a(S'heuristiclab'
+p593
+g2
+(g6
+S'\x99\x14U\x8b\x15\x03\xd4?'
+p594
+tp595
+Rp596
+tp597
+a(S'list of metaphor-based metaheuristics'
+p598
+g2
+(g6
+S'\x9bWc9\x0e\x03\xd4?'
+p599
+tp600
+Rp601
+tp602
+a(S'unique games conjecture'
+p603
+g2
+(g6
+S',\x04\x1d\xfbx\x02\xd4?'
+p604
+tp605
+Rp606
+tp607
+a(S'\xce\x95-net (computational geometry)'
+p608
+g2
+(g6
+S'|\x93^\xa9\x82\xf5\xd3?'
+p609
+tp610
+Rp611
+tp612
+a(S'analysis of algorithms'
+p613
+g2
+(g6
+S'\x0f\xb1\x12\x914\xf4\xd3?'
+p614
+tp615
+Rp616
+tp617
+a(S'in-place algorithm'
+p618
+g2
+(g6
+S'\xa0\xed\x8c\xce\xd4\xea\xd3?'
+p619
+tp620
+Rp621
+tp622
+a(S'international psychopharmacology algorithm project'
+p623
+g2
+(g6
+S'\x0e\xb2\xd7\xe1\x1f\xe9\xd3?'
+p624
+tp625
+Rp626
+tp627
+a(S'randomized algorithms as zero-sum games'
+p628
+g2
+(g6
+S'}Q\x86`\xfe\xe5\xd3?'
+p629
+tp630
+Rp631
+tp632
+a(S'xdais algorithms'
+p633
+g2
+(g6
+S'\x1ej\x06=\x1a\xe4\xd3?'
+p634
+tp635
+Rp636
+tp637
+a(S'great deluge algorithm'
+p638
+g2
+(g6
+S'J\x14\xb7_\x93\xd8\xd3?'
+p639
+tp640
+Rp641
+tp642
+a(S'alistair sinclair'
+p643
+g2
+(g6
+S'Xc\xe737\xcf\xd3?'
+p644
+tp645
+Rp646
+tp647
+a(S"stirling's approximation"
+p648
+g2
+(g6
+S'_\x8a\xfe6\x95\xbc\xd3?'
+p649
+tp650
+Rp651
+tp652
+a(S'vertex cover'
+p653
+g2
+(g6
+S'\x0f\xc1\xc6\x8f9\xb8\xd3?'
+p654
+tp655
+Rp656
+tp657
+a(S'k-means++'
+p658
+g2
+(g6
+S'\xb6/\xdc\xfd*\xb5\xd3?'
+p659
+tp660
+Rp661
+tp662
+a(S'zeldovich pancake'
+p663
+g2
+(g6
+S'x\x1af\xd5\xc6\xb3\xd3?'
+p664
+tp665
+Rp666
+tp667
+a(S'derjaguin approximation'
+p668
+g2
+(g6
+S'\xe2\xb0\xbd\x90H\xb1\xd3?'
+p669
+tp670
+Rp671
+tp672
+a(S'data stream clustering'
+p673
+g2
+(g6
+S's\xdf\xe9\xcb\xf5\xb0\xd3?'
+p674
+tp675
+Rp676
+tp677
+a(S'asymptotically optimal algorithm'
+p678
+g2
+(g6
+S'\x87\x8fd\xa3\x1f\xaf\xd3?'
+p679
+tp680
+Rp681
+tp682
+a(S'weak np-completeness'
+p683
+g2
+(g6
+S'\xba\xd6@\x99*\xa8\xd3?'
+p684
+tp685
+Rp686
+tp687
+a(S'diffuse element method'
+p688
+g2
+(g6
+S'\x83\xe6\x87\xb6\xba\x8f\xd3?'
+p689
+tp690
+Rp691
+tp692
+a(S'divide and conquer algorithm'
+p693
+g2
+(g6
+S'}\x88\xd9\x18h\x8d\xd3?'
+p694
+tp695
+Rp696
+tp697
+a(S'zero differential overlap'
+p698
+g2
+(g6
+S'1gd\x7f\xb8\x8a\xd3?'
+p699
+tp700
+Rp701
+tp702
+a(S'parallel metaheuristic'
+p703
+g2
+(g6
+S'#7\xe2G\x99\x83\xd3?'
+p704
+tp705
+Rp706
+tp707
+a(S'multiplicative weight update method'
+p708
+g2
+(g6
+S'\x17\xc5P(\xa8y\xd3?'
+p709
+tp710
+Rp711
+tp712
+a(S'linear programming'
+p713
+g2
+(g6
+S'\xb5F\xd9\xbd-x\xd3?'
+p714
+tp715
+Rp716
+tp717
+a(S'criss-cross algorithm'
+p718
+g2
+(g6
+S'\xdb3^I#o\xd3?'
+p719
+tp720
+Rp721
+tp722
+a(S'algorithmic efficiency'
+p723
+g2
+(g6
+S'*\x02\xb7nLL\xd3?'
+p724
+tp725
+Rp726
+tp727
+a(S'algorithm design'
+p728
+g2
+(g6
+S'\xf0u\xf2A{K\xd3?'
+p729
+tp730
+Rp731
+tp732
+a(S'np-completeness'
+p733
+g2
+(g6
+S'\x88\xca \xa4\xa8G\xd3?'
+p734
+tp735
+Rp736
+tp737
+a(S'moment closure'
+p738
+g2
+(g6
+S'W\xf2\x11a_>\xd3?'
+p739
+tp740
+Rp741
+tp742
+a(S'zero order'
+p743
+g2
+(g6
+S'&*\xb3\xff\xc1=\xd3?'
+p744
+tp745
+Rp746
+tp747
+a(S'integer factorization'
+p748
+g2
+(g6
+S'g(\x97\\\xa3=\xd3?'
+p749
+tp750
+Rp751
+tp752
+a(S"klee's measure problem"
+p753
+g2
+(g6
+S'\xd7\xe4\x81\x9b\xd1;\xd3?'
+p754
+tp755
+Rp756
+tp757
+a(S'least-squares function approximation'
+p758
+g2
+(g6
+S'\xda\x02\xf7~\x1b8\xd3?'
+p759
+tp760
+Rp761
+tp762
+a(S'approximation error'
+p763
+g2
+(g6
+S'\xd2\x14&\xf7\xff#\xd3?'
+p764
+tp765
+Rp766
+tp767
+a(S'taylor expansions for the moments of functions of random variables'
+p768
+g2
+(g6
+S'\xb3"\x12\xad9\x13\xd3?'
+p769
+tp770
+Rp771
+tp772
+a(S'maximum disjoint set'
+p773
+g2
+(g6
+S'\xa4\xb3zu\xf1\r\xd3?'
+p774
+tp775
+Rp776
+tp777
+a(S'pierluigi crescenzi'
+p778
+g2
+(g6
+S'\xf2N\xf5\xa5\x90\x05\xd3?'
+p779
+tp780
+Rp781
+tp782
+a(S'algorithmics'
+p783
+g2
+(g6
+S'\xbe\xeb\x05\xca9\xf7\xd2?'
+p784
+tp785
+Rp786
+tp787
+a(S'np (complexity)'
+p788
+g2
+(g6
+S'\xa4\n\xbc\x81\xea\xf3\xd2?'
+p789
+tp790
+Rp791
+tp792
+a(S'coherent potential approximation'
+p793
+g2
+(g6
+S'\xe8(Z\x929\xec\xd2?'
+p794
+tp795
+Rp796
+tp797
+a(S'pseudo-polynomial time'
+p798
+g2
+(g6
+S'`\xf2\x1cl\x8e\xe1\xd2?'
+p799
+tp800
+Rp801
+tp802
+a(S'list update problem'
+p803
+g2
+(g6
+S'\xe5\xb7\xad\x1bC\xde\xd2?'
+p804
+tp805
+Rp806
+tp807
+a(S"muller's method"
+p808
+g2
+(g6
+S'\xce\x19\x14\xaee\xdb\xd2?'
+p809
+tp810
+Rp811
+tp812
+a(S'vijay vazirani'
+p813
+g2
+(g6
+S'\xbfB\xdf\xf1e\xda\xd2?'
+p814
+tp815
+Rp816
+tp817
+a(S'max-3sat'
+p818
+g2
+(g6
+S'\x86g\xa6\x92X\xcc\xd2?'
+p819
+tp820
+Rp821
+tp822
+a(S'parks\xe2\x80\x93mcclellan filter design algorithm'
+p823
+g2
+(g6
+S'\xe4,\x18_\xcc\xc8\xd2?'
+p824
+tp825
+Rp826
+tp827
+a(S'michael j. d. powell'
+p828
+g2
+(g6
+S'\x18$L\xe3.\xc7\xd2?'
+p829
+tp830
+Rp831
+tp832
+a(S"dirichlet's approximation theorem"
+p833
+g2
+(g6
+S'\xbc#\x14\xa8\r\xc3\xd2?'
+p834
+tp835
+Rp836
+tp837
+a(S'introselect'
+p838
+g2
+(g6
+S'\x8d?\x83\xea\xba\xbc\xd2?'
+p839
+tp840
+Rp841
+tp842
+a(S'output-sensitive algorithm'
+p843
+g2
+(g6
+S'\x82\x9c\xf7_[\xb2\xd2?'
+p844
+tp845
+Rp846
+tp847
+a(S'monte carlo algorithm'
+p848
+g2
+(g6
+S'U\x82\xa9\xda\xf7\xa7\xd2?'
+p849
+tp850
+Rp851
+tp852
+a(S'combinatorial optimization'
+p853
+g2
+(g6
+S'\x7f\x94\xfdDK\xa0\xd2?'
+p854
+tp855
+Rp856
+tp857
+a(S'introduction to algorithms'
+p858
+g2
+(g6
+S',G\xc4\x08\x85\x8a\xd2?'
+p859
+tp860
+Rp861
+tp862
+a(S'k-approximation of k-hitting set'
+p863
+g2
+(g6
+S'\xc77,Z\x00\x88\xd2?'
+p864
+tp865
+Rp866
+tp867
+a(S'barrett reduction'
+p868
+g2
+(g6
+S'\xa72\xca>\xae\x85\xd2?'
+p869
+tp870
+Rp871
+tp872
+a(S'submodular set function'
+p873
+g2
+(g6
+S'$>p]\xe0\x83\xd2?'
+p874
+tp875
+Rp876
+tp877
+a(S'g\xc3\xb6del prize'
+p878
+g2
+(g6
+S'\x9b&~\xcd\xb5z\xd2?'
+p879
+tp880
+Rp881
+tp882
+a(S"bresenham's line algorithm"
+p883
+g2
+(g6
+S'\xc5F\xf3j$i\xd2?'
+p884
+tp885
+Rp886
+tp887
+a(S'computational complexity theory'
+p888
+g2
+(g6
+S'\xa8\x1a\xecV\x04h\xd2?'
+p889
+tp890
+Rp891
+tp892
+a(S'equivalent rectangular bandwidth'
+p893
+g2
+(g6
+S' )F\x9f\xc7g\xd2?'
+p894
+tp895
+Rp896
+tp897
+a(S'charging argument'
+p898
+g2
+(g6
+S'\xca\x9e\xa3\x1c4f\xd2?'
+p899
+tp900
+Rp901
+tp902
+a(S'quickprop'
+p903
+g2
+(g6
+S'|(y\x00\xb2^\xd2?'
+p904
+tp905
+Rp906
+tp907
+a(S'precomputation'
+p908
+g2
+(g6
+S'\x8cy\xe4\xf0&]\xd2?'
+p909
+tp910
+Rp911
+tp912
+a(S'markov algorithm'
+p913
+g2
+(g6
+S'\x86%\xe9-\xb4D\xd2?'
+p914
+tp915
+Rp916
+tp917
+a(S'element distinctness problem'
+p918
+g2
+(g6
+S'n\x8fvNf5\xd2?'
+p919
+tp920
+Rp921
+tp922
+a(S'lp-type problem'
+p923
+g2
+(g6
+S'n\x11\x90\xc0y1\xd2?'
+p924
+tp925
+Rp926
+tp927
+a(S'klam value'
+p928
+g2
+(g6
+S'_<\x87>7-\xd2?'
+p929
+tp930
+Rp931
+tp932
+a(S'typographic approximation'
+p933
+g2
+(g6
+S"0\x8e\xbf\xe4\xe7'\xd2?"
+p934
+tp935
+Rp936
+tp937
+a(S'atlantic city algorithm'
+p938
+g2
+(g6
+S'\xcb\xe5\xdb\xa8\xc5!\xd2?'
+p939
+tp940
+Rp941
+tp942
+a(S'parallel algorithm'
+p943
+g2
+(g6
+S'\x1a\x86\xdbG)\x1e\xd2?'
+p944
+tp945
+Rp946
+tp947
+a(S"f\xc3\xbcrer's algorithm"
+p948
+g2
+(g6
+S'L\x94\xe5q\x9c\x0f\xd2?'
+p949
+tp950
+Rp951
+tp952
+a(S'sequential algorithm'
+p953
+g2
+(g6
+S'\x95\x19,\xf9\xc5\x0e\xd2?'
+p954
+tp955
+Rp956
+tp957
+a(S'quantum algorithm'
+p958
+g2
+(g6
+S'\x9a(P\xe7\xa0\x0b\xd2?'
+p959
+tp960
+Rp961
+tp962
+a(S'coopmans approximation'
+p963
+g2
+(g6
+S',?\xaf\xe5\xa6\x02\xd2?'
+p964
+tp965
+Rp966
+tp967
+a(S'generalized assignment problem'
+p968
+g2
+(g6
+S'\xe4\xca\xa3\x8fA\xff\xd1?'
+p969
+tp970
+Rp971
+tp972
+a(S'timeline of algorithms'
+p973
+g2
+(g6
+S'#UD1w\xf4\xd1?'
+p974
+tp975
+Rp976
+tp977
+a(S"simon's problem"
+p978
+g2
+(g6
+S'%\xbf\xc2\xa1<\xeb\xd1?'
+p979
+tp980
+Rp981
+tp982
+a(S'born series'
+p983
+g2
+(g6
+S'RS\xadUo\xdb\xd1?'
+p984
+tp985
+Rp986
+tp987
+a(S'line drawing algorithm'
+p988
+g2
+(g6
+S'\xb8I\xb61v\xda\xd1?'
+p989
+tp990
+Rp991
+tp992
+a(S'rotating wave approximation'
+p993
+g2
+(g6
+S'eL\x15\x0c\xd7\xc1\xd1?'
+p994
+tp995
+Rp996
+tp997
+a(S'knapsack problem'
+p998
+g2
+(g6
+S'\x89}\xf2\xc2\xe7\xbf\xd1?'
+p999
+tp1000
+Rp1001
+tp1002
+a(S'list of things named after max born'
+p1003
+g2
+(g6
+S'\xe2\xe4\x12\x9b\xdd\xb5\xd1?'
+p1004
+tp1005
+Rp1006
+tp1007
+a(S'muffin-tin approximation'
+p1008
+g2
+(g6
+S'\x930t%\x02\xb5\xd1?'
+p1009
+tp1010
+Rp1011
+tp1012
+a(S'jean c\xc3\xa9a'
+p1013
+g2
+(g6
+S'\xc6\xfa\t\xc2y\xb4\xd1?'
+p1014
+tp1015
+Rp1016
+tp1017
+a(S'k-server problem'
+p1018
+g2
+(g6
+S'5\xb6\xe7\xb4\x05\xb4\xd1?'
+p1019
+tp1020
+Rp1021
+tp1022
+a(S'arthur sard'
+p1023
+g2
+(g6
+S'\x1c\xff\xd7\xa8\xf3\xae\xd1?'
+p1024
+tp1025
+Rp1026
+tp1027
+a(S'pathfinding'
+p1028
+g2
+(g6
+S'\xd9\xb3\xce|\xa6\xaa\xd1?'
+p1029
+tp1030
+Rp1031
+tp1032
+a(S'gadget (computer science)'
+p1033
+g2
+(g6
+S'\x89\x04\x0c\xbf\x85\xa6\xd1?'
+p1034
+tp1035
+Rp1036
+tp1037
+a(S'concurrent algorithm'
+p1038
+g2
+(g6
+S'\x9eQ]w\xc8\xa2\xd1?'
+p1039
+tp1040
+Rp1041
+tp1042
+a(S'simultaneous perturbation stochastic approximation'
+p1043
+g2
+(g6
+S'"\x80x\x9e\xea\x92\xd1?'
+p1044
+tp1045
+Rp1046
+tp1047
+a(S'reduction (complexity)'
+p1048
+g2
+(g6
+S'\xd3s\x94\xe9\xa9\x91\xd1?'
+p1049
+tp1050
+Rp1051
+tp1052
+a(S'diophantine approximation'
+p1053
+g2
+(g6
+S'hoc\xb0\x05\x8e\xd1?'
+p1054
+tp1055
+Rp1056
+tp1057
+a(S"lady windermere's fan (mathematics)"
+p1058
+g2
+(g6
+S'\x9e\xd4\x7f\xbd\x0b\x85\xd1?'
+p1059
+tp1060
+Rp1061
+tp1062
+a(S'berndt\xe2\x80\x93hall\xe2\x80\x93hall\xe2\x80\x93hausman algorithm'
+p1063
+g2
+(g6
+S'5\xedVJ\xa3\x81\xd1?'
+p1064
+tp1065
+Rp1066
+tp1067
+a(S'multidisciplinary design optimization'
+p1068
+g2
+(g6
+S'\xeb\xa14\x17\xd3}\xd1?'
+p1069
+tp1070
+Rp1071
+tp1072
+a(S'metaheuristic'
+p1073
+g2
+(g6
+S'\x07\xbb\xa3\x9c]z\xd1?'
+p1074
+tp1075
+Rp1076
+tp1077
+a(S'variable neighborhood search'
+p1078
+g2
+(g6
+S'\xe65V*\xf2v\xd1?'
+p1079
+tp1080
+Rp1081
+tp1082
+a(S'semidefinite programming'
+p1083
+g2
+(g6
+S'\xf8\x88c=\xe5t\xd1?'
+p1084
+tp1085
+Rp1086
+tp1087
+a(S'search algorithm'
+p1088
+g2
+(g6
+S'j\xc2NG\xcco\xd1?'
+p1089
+tp1090
+Rp1091
+tp1092
+a(S'quadratic knapsack problem'
+p1093
+g2
+(g6
+S'\x17h\xf8\xd3 n\xd1?'
+p1094
+tp1095
+Rp1096
+tp1097
+a(S'with high probability'
+p1098
+g2
+(g6
+S'\x00\x7f\x18\xa4El\xd1?'
+p1099
+tp1100
+Rp1101
+tp1102
+a(S'percus\xe2\x80\x93yevick approximation'
+p1103
+g2
+(g6
+S'i.B\xe6\xbfh\xd1?'
+p1104
+tp1105
+Rp1106
+tp1107
+a(S'farthest-first traversal'
+p1108
+g2
+(g6
+S'\x0fx\xa0\x84\xe9g\xd1?'
+p1109
+tp1110
+Rp1111
+tp1112
+a(S'cur matrix approximation'
+p1113
+g2
+(g6
+S'\xae\t\x8e;|d\xd1?'
+p1114
+tp1115
+Rp1116
+tp1117
+a(S'interval scheduling'
+p1118
+g2
+(g6
+S'\x10[:Qpa\xd1?'
+p1119
+tp1120
+Rp1121
+tp1122
+a(S'matrix multiplication algorithm'
+p1123
+g2
+(g6
+S' \xa0\x8e\x9b\xe5\\\xd1?'
+p1124
+tp1125
+Rp1126
+tp1127
+a(S'polynomial-time algorithm for approximating the volume of convex bodies'
+p1128
+g2
+(g6
+S'\x02&qT\xb6Z\xd1?'
+p1129
+tp1130
+Rp1131
+tp1132
+a(S'evolutionary algorithm'
+p1133
+g2
+(g6
+S'_\x85\x1e\x17\x19Z\xd1?'
+p1134
+tp1135
+Rp1136
+tp1137
+a(S'xin-she yang'
+p1138
+g2
+(g6
+S'.V\x8bW\xa2Y\xd1?'
+p1139
+tp1140
+Rp1141
+tp1142
+a(S'landweber iteration'
+p1143
+g2
+(g6
+S'\x01\xf4\x81\xad\x19R\xd1?'
+p1144
+tp1145
+Rp1146
+tp1147
+a(S'bounding sphere'
+p1148
+g2
+(g6
+S'\x04O;87P\xd1?'
+p1149
+tp1150
+Rp1151
+tp1152
+a(S'dynamic programming'
+p1153
+g2
+(g6
+S'/\xd5A,\x87J\xd1?'
+p1154
+tp1155
+Rp1156
+tp1157
+a(S"freivalds' algorithm"
+p1158
+g2
+(g6
+S'Y^Y)IJ\xd1?'
+p1159
+tp1160
+Rp1161
+tp1162
+a(S'list of important publications in theoretical computer science'
+p1163
+g2
+(g6
+S'\xa7{\x8c\xd8\x868\xd1?'
+p1164
+tp1165
+Rp1166
+tp1167
+a(S'quasistatic approximation'
+p1168
+g2
+(g6
+S'\xb1z\xe8\x04|3\xd1?'
+p1169
+tp1170
+Rp1171
+tp1172
+a(S'lattice problem'
+p1173
+g2
+(g6
+S'\x9f\xa1\xdb\xed\xca&\xd1?'
+p1174
+tp1175
+Rp1176
+tp1177
+a(S"cobham's thesis"
+p1178
+g2
+(g6
+S'\xda\xb0\xca\xb0B"\xd1?'
+p1179
+tp1180
+Rp1181
+tp1182
+a(S'np-hardness'
+p1183
+g2
+(g6
+S'YU/\xe8l\x16\xd1?'
+p1184
+tp1185
+Rp1186
+tp1187
+a(S'degree-constrained spanning tree'
+p1188
+g2
+(g6
+S'\x8f\x03\x1d\xe4\x99\x13\xd1?'
+p1189
+tp1190
+Rp1191
+tp1192
+a(S'system size expansion'
+p1193
+g2
+(g6
+S'Y\x9a,\x80\x9f\x10\xd1?'
+p1194
+tp1195
+Rp1196
+tp1197
+a(S"buchberger's algorithm"
+p1198
+g2
+(g6
+S'F\x9f\x91\xe9\xb6\x06\xd1?'
+p1199
+tp1200
+Rp1201
+tp1202
+a(S'berlekamp\xe2\x80\x93massey algorithm'
+p1203
+g2
+(g6
+S'\xe7ng\xb7W\xf6\xd0?'
+p1204
+tp1205
+Rp1206
+tp1207
+a(S'snp (complexity)'
+p1208
+g2
+(g6
+S'\xaf\x1du;\x85\xe8\xd0?'
+p1209
+tp1210
+Rp1211
+tp1212
+a(S'mohammad hajiaghayi'
+p1213
+g2
+(g6
+S'9g\x06\x03\x1f\xe8\xd0?'
+p1214
+tp1215
+Rp1216
+tp1217
+a(S'bqp'
+p1218
+g2
+(g6
+S'\x19cmf#\xe0\xd0?'
+p1219
+tp1220
+Rp1221
+tp1222
+a(S'guess value'
+p1223
+g2
+(g6
+S'\xe7\xf8\t\x1b\xfe\xde\xd0?'
+p1224
+tp1225
+Rp1226
+tp1227
+a(S'marek karpinski'
+p1228
+g2
+(g6
+S'\xd5\xbbW;P\xd7\xd0?'
+p1229
+tp1230
+Rp1231
+tp1232
+a(S'property testing'
+p1233
+g2
+(g6
+S'\xfeBO&5\xcf\xd0?'
+p1234
+tp1235
+Rp1236
+tp1237
+a(S'ellipsoid method'
+p1238
+g2
+(g6
+S'\xe8\xddk_D\xcd\xd0?'
+p1239
+tp1240
+Rp1241
+tp1242
+a(S"karp's 21 np-complete problems"
+p1243
+g2
+(g6
+S'\xfe|s\xaet\xc9\xd0?'
+p1244
+tp1245
+Rp1246
+tp1247
+a(S'feedback arc set'
+p1248
+g2
+(g6
+S'\xe1\xb3\xf9\xc1\xe9\xc7\xd0?'
+p1249
+tp1250
+Rp1251
+tp1252
+a(S'quantum algorithm for linear systems of equations'
+p1253
+g2
+(g6
+S'\x9e}Nhx\xbf\xd0?'
+p1254
+tp1255
+Rp1256
+tp1257
+a(S'nearest neighbour algorithm'
+p1258
+g2
+(g6
+S'\x90U\xb0\x80\xeb\xbd\xd0?'
+p1259
+tp1260
+Rp1261
+tp1262
+a(S'coppersmith\xe2\x80\x93winograd algorithm'
+p1263
+g2
+(g6
+S'\x86\xc0\xf4\xf7\xd0\xb2\xd0?'
+p1264
+tp1265
+Rp1266
+tp1267
+a(S'david mount'
+p1268
+g2
+(g6
+S'\x1d\x08f\xcc\xa6\xb1\xd0?'
+p1269
+tp1270
+Rp1271
+tp1272
+a(S'non-constructive algorithm existence proofs'
+p1273
+g2
+(g6
+S'a\xe0\x96e#\xb1\xd0?'
+p1274
+tp1275
+Rp1276
+tp1277
+a(S'whitney inequality'
+p1278
+g2
+(g6
+S'pmm*\xf9\xad\xd0?'
+p1279
+tp1280
+Rp1281
+tp1282
+a(S'numerical stability'
+p1283
+g2
+(g6
+S'\xf3\x81\xecC\xba\xaa\xd0?'
+p1284
+tp1285
+Rp1286
+tp1287
+a(S'berlekamp\xe2\x80\x93welch algorithm'
+p1288
+g2
+(g6
+S'\xe3\xdf&7\x8a\xa8\xd0?'
+p1289
+tp1290
+Rp1291
+tp1292
+a(S'rayleigh\xe2\x80\x93ritz method'
+p1293
+g2
+(g6
+S'(A\xdc\xcaH\xa5\xd0?'
+p1294
+tp1295
+Rp1296
+tp1297
+a(S'steady state (chemistry)'
+p1298
+g2
+(g6
+S"\x90GX'\x06\xa2\xd0?"
+p1299
+tp1300
+Rp1301
+tp1302
+a(S'koml\xc3\xb3s\xe2\x80\x93major\xe2\x80\x93tusn\xc3\xa1dy approximation'
+p1303
+g2
+(g6
+S'\x81w\xa2l\xde\xa1\xd0?'
+p1304
+tp1305
+Rp1306
+tp1307
+a(S'pad\xc3\xa9 approximant'
+p1308
+g2
+(g6
+S'\xce\xa6\x92\xcc\xa1\x99\xd0?'
+p1309
+tp1310
+Rp1311
+tp1312
+a(S'linearized gravity'
+p1313
+g2
+(g6
+S'9mi\x98\xca\x98\xd0?'
+p1314
+tp1315
+Rp1316
+tp1317
+a(S'maximum satisfiability problem'
+p1318
+g2
+(g6
+S'\x0e\x18\xb5.b\x95\xd0?'
+p1319
+tp1320
+Rp1321
+tp1322
+a(S'np-easy'
+p1323
+g2
+(g6
+S'Jk\xeb8\x07\x91\xd0?'
+p1324
+tp1325
+Rp1326
+tp1327
+a(S'trust region'
+p1328
+g2
+(g6
+S'\xe8eX\xd3\n\x90\xd0?'
+p1329
+tp1330
+Rp1331
+tp1332
+a(S"cornacchia's algorithm"
+p1333
+g2
+(g6
+S'w+\xddEG\x8f\xd0?'
+p1334
+tp1335
+Rp1336
+tp1337
+a(S'fulkerson prize'
+p1338
+g2
+(g6
+S'\xad\x82\xd7"\xeb\x8e\xd0?'
+p1339
+tp1340
+Rp1341
+tp1342
+a(S'metric dimension (graph theory)'
+p1343
+g2
+(g6
+S'R\xacw\xbf\x0e\x8a\xd0?'
+p1344
+tp1345
+Rp1346
+tp1347
+a(S'david p. williamson'
+p1348
+g2
+(g6
+S'\x96\xfdV\xf6\xf5q\xd0?'
+p1349
+tp1350
+Rp1351
+tp1352
+a(S'binary gcd algorithm'
+p1353
+g2
+(g6
+S'5u5\x939n\xd0?'
+p1354
+tp1355
+Rp1356
+tp1357
+a(S'maxcliquedyn maximum clique algorithm'
+p1358
+g2
+(g6
+S'\x81\xc2D\xf6\xc2m\xd0?'
+p1359
+tp1360
+Rp1361
+tp1362
+a(S'sharp-p'
+p1363
+g2
+(g6
+S'\x0cZ.2Wi\xd0?'
+p1364
+tp1365
+Rp1366
+tp1367
+a(S'set splitting problem'
+p1368
+g2
+(g6
+S'\xdc\x8a\xd2\x92%a\xd0?'
+p1369
+tp1370
+Rp1371
+tp1372
+a(S'polynomial delay'
+p1373
+g2
+(g6
+S't\x85< \xf0`\xd0?'
+p1374
+tp1375
+Rp1376
+tp1377
+a(S'verlet integration'
+p1378
+g2
+(g6
+S'\xcd`\x8fy\xcb_\xd0?'
+p1379
+tp1380
+Rp1381
+tp1382
+a(S'parameterized complexity'
+p1383
+g2
+(g6
+S'\xbd3\x00>DX\xd0?'
+p1384
+tp1385
+Rp1386
+tp1387
+a(S'basis pursuit denoising'
+p1388
+g2
+(g6
+S'&I\x91\xba3T\xd0?'
+p1389
+tp1390
+Rp1391
+tp1392
+a(S'computational topology'
+p1393
+g2
+(g6
+S'U\xcb$\xe0\x83S\xd0?'
+p1394
+tp1395
+Rp1396
+tp1397
+a(S'andr\xc3\xa1s seb\xc5\x91'
+p1398
+g2
+(g6
+S'\t\xd2w|\x01P\xd0?'
+p1399
+tp1400
+Rp1401
+tp1402
+a(S'co-np-complete'
+p1403
+g2
+(g6
+S'\xc9F-\xf5!L\xd0?'
+p1404
+tp1405
+Rp1406
+tp1407
+a(S'linear equation over a ring'
+p1408
+g2
+(g6
+S'n`\xadb\x94J\xd0?'
+p1409
+tp1410
+Rp1411
+tp1412
+a(S'empirical risk minimization'
+p1413
+g2
+(g6
+S':$\xf8\xcc\xebH\xd0?'
+p1414
+tp1415
+Rp1416
+tp1417
+a(S'quenched approximation'
+p1418
+g2
+(g6
+S'8\xb2\xed\x9d\xc4@\xd0?'
+p1419
+tp1420
+Rp1421
+tp1422
+a(S'function problem'
+p1423
+g2
+(g6
+S'JFH:h/\xd0?'
+p1424
+tp1425
+Rp1426
+tp1427
+a(S"pollard's kangaroo algorithm"
+p1428
+g2
+(g6
+S'\x1e\x06\xa1\x04:&\xd0?'
+p1429
+tp1430
+Rp1431
+tp1432
+a(S'up (complexity)'
+p1433
+g2
+(g6
+S'tL\r\x10\x85$\xd0?'
+p1434
+tp1435
+Rp1436
+tp1437
+a(S"masreliez's theorem"
+p1438
+g2
+(g6
+S'`\xa8\x0eP9#\xd0?'
+p1439
+tp1440
+Rp1441
+tp1442
+a(S'l-notation'
+p1443
+g2
+(g6
+S'\x9d\x19\xd6\x91\xde"\xd0?'
+p1444
+tp1445
+Rp1446
+tp1447
+a(S'subset sum problem'
+p1448
+g2
+(g6
+S's*p:\xca\x15\xd0?'
+p1449
+tp1450
+Rp1451
+tp1452
+a(S'master theorem'
+p1453
+g2
+(g6
+S'\xc0\x92Rg\xf8\x13\xd0?'
+p1454
+tp1455
+Rp1456
+tp1457
+a(S'stability (learning theory)'
+p1458
+g2
+(g6
+S'^Q\xfd\xf0\xf4\r\xd0?'
+p1459
+tp1460
+Rp1461
+tp1462
+a(S'strong np-completeness'
+p1463
+g2
+(g6
+S'`\x1fg2\x85\x0c\xd0?'
+p1464
+tp1465
+Rp1466
+tp1467
+a(S"bor\xc5\xafvka's algorithm"
+p1468
+g2
+(g6
+S'\x1a&\x8d`\x16\x0b\xd0?'
+p1469
+tp1470
+Rp1471
+tp1472
+a(S'george nemhauser'
+p1473
+g2
+(g6
+S'R%pb$\xeb\xcf?'
+p1474
+tp1475
+Rp1476
+tp1477
+a(S'in situ adaptive tabulation'
+p1478
+g2
+(g6
+S'\x1f\x14Y\xad\x1e\xd8\xcf?'
+p1479
+tp1480
+Rp1481
+tp1482
+a(S'cook\xe2\x80\x93levin theorem'
+p1483
+g2
+(g6
+S'\x84\x9f\x05\x83\x86\xc8\xcf?'
+p1484
+tp1485
+Rp1486
+tp1487
+a(S'aberth method'
+p1488
+g2
+(g6
+S'\xd9!\xfc\x92\xc7\xaa\xcf?'
+p1489
+tp1490
+Rp1491
+tp1492
+a(S'method of matched asymptotic expansions'
+p1493
+g2
+(g6
+S'Z\x87\xa7\xb7\x0c\xa9\xcf?'
+p1494
+tp1495
+Rp1496
+tp1497
+a(S'polynomial-time reduction'
+p1498
+g2
+(g6
+S'\xd3\xf7\x7fVS\x9e\xcf?'
+p1499
+tp1500
+Rp1501
+tp1502
+a(S'artelys knitro'
+p1503
+g2
+(g6
+S'E\x08VT\x94\x9c\xcf?'
+p1504
+tp1505
+Rp1506
+tp1507
+a(S'risch algorithm'
+p1508
+g2
+(g6
+S'tw\xb8\x81k\x96\xcf?'
+p1509
+tp1510
+Rp1511
+tp1512
+a.

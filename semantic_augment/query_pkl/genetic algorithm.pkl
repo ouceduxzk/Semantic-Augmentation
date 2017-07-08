@@ -1,0 +1,2728 @@
+(lp0
+(S'genetic algorithm'
+p1
+cnumpy.core.multiarray
+scalar
+p2
+(cnumpy
+dtype
+p3
+(S'f8'
+p4
+I0
+I1
+tp5
+Rp6
+(I3
+S'<'
+p7
+NNNI-1
+I-1
+I0
+tp8
+bS'\xf4\xff\xff\xff\xff\xff\xef?'
+p9
+tp10
+Rp11
+tp12
+a(S'evolutionary algorithm'
+p13
+g2
+(g6
+S'\x91\xe0\x87\x80\x077\xe4?'
+p14
+tp15
+Rp16
+tp17
+a(S'genetic operator'
+p18
+g2
+(g6
+S'\x85G \xf1\xacS\xe3?'
+p19
+tp20
+Rp21
+tp22
+a(S'evolutionary computation'
+p23
+g2
+(g6
+S'\x1c-\xd6\xceP\x8d\xe2?'
+p24
+tp25
+Rp26
+tp27
+a(S'human-based genetic algorithm'
+p28
+g2
+(g6
+S'M\x88\x00\x94X\x18\xe2?'
+p29
+tp30
+Rp31
+tp32
+a(S'metaheuristic'
+p33
+g2
+(g6
+S'$u\xba\xa8Y\x86\xe1?'
+p34
+tp35
+Rp36
+tp37
+a(S'parallel metaheuristic'
+p38
+g2
+(g6
+S'Y\x0fQ\xe6\xf7m\xe1?'
+p39
+tp40
+Rp41
+tp42
+a(S'heuristiclab'
+p43
+g2
+(g6
+S'\xcbH\x11\xfc\x98\x88\xe0?'
+p44
+tp45
+Rp46
+tp47
+a(S'genetic programming'
+p48
+g2
+(g6
+S'\xd6\x03\x97\x8d\xe6\xf4\xdf?'
+p49
+tp50
+Rp51
+tp52
+a(S'david e. goldberg'
+p53
+g2
+(g6
+S'\x1c\xf7\xa9\xa7\xedE\xdf?'
+p54
+tp55
+Rp56
+tp57
+a(S'genetic representation'
+p58
+g2
+(g6
+S'=\x18\x06\xa0\xcd>\xdf?'
+p59
+tp60
+Rp61
+tp62
+a(S'fitness function'
+p63
+g2
+(g6
+S'{N! =\xc5\xde?'
+p64
+tp65
+Rp66
+tp67
+a(S'memetic algorithm'
+p68
+g2
+(g6
+S'\x0f\xa5\xb3\xae\x03"\xde?'
+p69
+tp70
+Rp71
+tp72
+a(S'premature convergence'
+p73
+g2
+(g6
+S'\xdc=\xc9\xa7\xd6\xfe\xdd?'
+p74
+tp75
+Rp76
+tp77
+a(S'quality control and genetic algorithms'
+p78
+g2
+(g6
+S'e~\x15\x82X\x9f\xdd?'
+p79
+tp80
+Rp81
+tp82
+a(S'list of metaphor-based metaheuristics'
+p83
+g2
+(g6
+S'\xa2\xad\x1d\x00\xeaf\xdd?'
+p84
+tp85
+Rp86
+tp87
+a(S'differential evolution'
+p88
+g2
+(g6
+S'\xa7\x9b\xcc1?\xbf\xdc?'
+p89
+tp90
+Rp91
+tp92
+a(S'population genetics'
+p93
+g2
+(g6
+S'\xdaX\x9c\xf3\xcb\x8e\xdc?'
+p94
+tp95
+Rp96
+tp97
+a(S'evolutionary multimodal optimization'
+p98
+g2
+(g6
+S'\xd4-\xf1\xc93\x80\xdc?'
+p99
+tp100
+Rp101
+tp102
+a(S'algorithm'
+p103
+g2
+(g6
+S't\xe6\xaa\xb8\xfch\xdc?'
+p104
+tp105
+Rp106
+tp107
+a(S'genetic algorithm scheduling'
+p108
+g2
+(g6
+S'\xc6n\xe3k\t=\xdc?'
+p109
+tp110
+Rp111
+tp112
+a(S'cultural algorithm'
+p113
+g2
+(g6
+S'\xf9\xa7\xcf\x8b\x92\xd7\xdb?'
+p114
+tp115
+Rp116
+tp117
+a(S'java evolutionary computation toolkit'
+p118
+g2
+(g6
+S'"o\xe7\xbbs\x91\xdb?'
+p119
+tp120
+Rp121
+tp122
+a(S'gene expression programming'
+p123
+g2
+(g6
+S'/\x1a|8P8\xda?'
+p124
+tp125
+Rp126
+tp127
+a(S'chromosome (genetic algorithm)'
+p128
+g2
+(g6
+S'\x82\xb6\x0e?<\xc8\xd9?'
+p129
+tp130
+Rp131
+tp132
+a(S'genetic and evolutionary computation conference'
+p133
+g2
+(g6
+S'\xcfjBD"\x92\xd9?'
+p134
+tp135
+Rp136
+tp137
+a(S'extremal optimization'
+p138
+g2
+(g6
+S'\xd3\xfc\x8c\xbaz;\xd9?'
+p139
+tp140
+Rp141
+tp142
+a(S'local search (optimization)'
+p143
+g2
+(g6
+S'\x1c\xf4\xe5\xcc%\xfa\xd8?'
+p144
+tp145
+Rp146
+tp147
+a(S'fitness approximation'
+p148
+g2
+(g6
+S'\x87\x87x\xfb\x89\xef\xd8?'
+p149
+tp150
+Rp151
+tp152
+a(S'effective fitness'
+p153
+g2
+(g6
+S'\xa4\xdc\xaa\xc5\\\xec\xd8?'
+p154
+tp155
+Rp156
+tp157
+a(S'peter j. fleming'
+p158
+g2
+(g6
+S'\x9dq\xb1X~\xd7\xd8?'
+p159
+tp160
+Rp161
+tp162
+a(S'evolutionary music'
+p163
+g2
+(g6
+S'\x1fCK\xa3\xea\xc2\xd8?'
+p164
+tp165
+Rp166
+tp167
+a(S'ant colony optimization algorithms'
+p168
+g2
+(g6
+S'\xc4O\x17\x81\xda\xbc\xd8?'
+p169
+tp170
+Rp171
+tp172
+a(S'no free lunch in search and optimization'
+p173
+g2
+(g6
+S' tT3\xd1\xb7\xd8?'
+p174
+tp175
+Rp176
+tp177
+a(S'hybrid algorithm'
+p178
+g2
+(g6
+S'\xec\x10\xfb\x1b\xa6\x8c\xd8?'
+p179
+tp180
+Rp181
+tp182
+a(S'search algorithm'
+p183
+g2
+(g6
+S'\xdd\xa8.\x1a`Q\xd8?'
+p184
+tp185
+Rp186
+tp187
+a(S'fitness landscape'
+p188
+g2
+(g6
+S'\xc0O\xee0\xc26\xd8?'
+p189
+tp190
+Rp191
+tp192
+a(S'derivative-free optimization'
+p193
+g2
+(g6
+S'\xf9\x971/\xbf\xfd\xd7?'
+p194
+tp195
+Rp196
+tp197
+a(S'guess value'
+p198
+g2
+(g6
+S'n\xb1\x16![\xd6\xd7?'
+p199
+tp200
+Rp201
+tp202
+a(S'race and genetics'
+p203
+g2
+(g6
+S'\x12\x17\x11\x85%\xc8\xd7?'
+p204
+tp205
+Rp206
+tp207
+a(S'mathematical optimization'
+p208
+g2
+(g6
+S'>V\xe9\xc0\xf3\xbc\xd7?'
+p209
+tp210
+Rp211
+tp212
+a(S'3form'
+p213
+g2
+(g6
+S'\x85pT \x1c\x99\xd7?'
+p214
+tp215
+Rp216
+tp217
+a(S'genetic distance'
+p218
+g2
+(g6
+S'\xa8\xd6i{\x13\x83\xd7?'
+p219
+tp220
+Rp221
+tp222
+a(S'global optimization'
+p223
+g2
+(g6
+S'\xc5\xdc\x90\xf9M|\xd7?'
+p224
+tp225
+Rp226
+tp227
+a(S'branch and bound'
+p228
+g2
+(g6
+S"W\xa8\xe2'\xfcq\xd7?"
+p229
+tp230
+Rp231
+tp232
+a(S'moea framework'
+p233
+g2
+(g6
+S'6y\xe5u\x02o\xd7?'
+p234
+tp235
+Rp236
+tp237
+a(S'conservation genetics'
+p238
+g2
+(g6
+S'\x1br\xf9\xdf\x8en\xd7?'
+p239
+tp240
+Rp241
+tp242
+a(S'paradiseo'
+p243
+g2
+(g6
+S'\x87"\'%\x0ec\xd7?'
+p244
+tp245
+Rp246
+tp247
+a(S'constructive heuristic'
+p248
+g2
+(g6
+S'j\xd0-\x91\x1d\\\xd7?'
+p249
+tp250
+Rp251
+tp252
+a(S'selection (genetic algorithm)'
+p253
+g2
+(g6
+S'+\xe4\xb7\xb6-Y\xd7?'
+p254
+tp255
+Rp256
+tp257
+a(S'genetic architecture'
+p258
+g2
+(g6
+S'z\x15,q\xb1Q\xd7?'
+p259
+tp260
+Rp261
+tp262
+a(S'santa fe trail problem'
+p263
+g2
+(g6
+S'>\x10\xdc\x97\x98\xf0\xd6?'
+p264
+tp265
+Rp266
+tp267
+a(S'list of genetic algorithm applications'
+p268
+g2
+(g6
+S'\xb2\x92\x9c\xa2\xff\xd0\xd6?'
+p269
+tp270
+Rp271
+tp272
+a(S"holland's schema theorem"
+p273
+g2
+(g6
+S'x4C6E\xc8\xd6?'
+p274
+tp275
+Rp276
+tp277
+a(S'international psychopharmacology algorithm project'
+p278
+g2
+(g6
+S'\x15{\xe4\xf6\x9a\xae\xd6?'
+p279
+tp280
+Rp281
+tp282
+a(S'interactive evolutionary computation'
+p283
+g2
+(g6
+S'@\x92jk+\xaa\xd6?'
+p284
+tp285
+Rp286
+tp287
+a(S'in-place algorithm'
+p288
+g2
+(g6
+S'\xa7\x83 \x9a\x89\x99\xd6?'
+p289
+tp290
+Rp291
+tp292
+a(S'enrique alba'
+p293
+g2
+(g6
+S'=\x0f\xea\xeexu\xd6?'
+p294
+tp295
+Rp296
+tp297
+a(S'cellular evolutionary algorithm'
+p298
+g2
+(g6
+S'{\xbf\xa3V\xea\\\xd6?'
+p299
+tp300
+Rp301
+tp302
+a(S'grammatical evolution'
+p303
+g2
+(g6
+S's)w\xee\xc2Y\xd6?'
+p304
+tp305
+Rp306
+tp307
+a(S'crossover (genetic algorithm)'
+p308
+g2
+(g6
+S'KV:)\xf7I\xd6?'
+p309
+tp310
+Rp311
+tp312
+a(S'variable neighborhood search'
+p313
+g2
+(g6
+S'\x13\xfdP\x97\r3\xd6?'
+p314
+tp315
+Rp316
+tp317
+a(S'estimation of distribution algorithm'
+p318
+g2
+(g6
+S'"{9\x14\x94/\xd6?'
+p319
+tp320
+Rp321
+tp322
+a(S'weighted majority algorithm'
+p323
+g2
+(g6
+S' \x00\x0f\x01\xb6\x18\xd6?'
+p324
+tp325
+Rp326
+tp327
+a(S'evolution strategy'
+p328
+g2
+(g6
+S'\xee\x1e\x1e9<\xf9\xd5?'
+p329
+tp330
+Rp331
+tp332
+a(S'genetic policy in the united states'
+p333
+g2
+(g6
+S'~\xe78\x18\xe7\xf7\xd5?'
+p334
+tp335
+Rp336
+tp337
+a(S'parallel algorithm'
+p338
+g2
+(g6
+S'\xbf\xc6\xea3\x98\xf3\xd5?'
+p339
+tp340
+Rp341
+tp342
+a(S'genetic diversity'
+p343
+g2
+(g6
+S'\x82\x81\x93\x93+\xf0\xd5?'
+p344
+tp345
+Rp346
+tp347
+a(S'adaptive dimensional search'
+p348
+g2
+(g6
+S'\x16M\x19gj\xeb\xd5?'
+p349
+tp350
+Rp351
+tp352
+a(S'evolvability'
+p353
+g2
+(g6
+S'\xa9\x98d\x80\n\xe6\xd5?'
+p354
+tp355
+Rp356
+tp357
+a(S'quantum optimization algorithms'
+p358
+g2
+(g6
+S'\xa3N\xe1|\\\xdd\xd5?'
+p359
+tp360
+Rp361
+tp362
+a(S'evolution'
+p363
+g2
+(g6
+S'\x94\xf1\x96O$\xcd\xd5?'
+p364
+tp365
+Rp366
+tp367
+a(S'genetic variability'
+p368
+g2
+(g6
+S'\x12N\xe2\xf5\xda\xc9\xd5?'
+p369
+tp370
+Rp371
+tp372
+a(S'anytime algorithm'
+p373
+g2
+(g6
+S'<r6\xa7=\xc3\xd5?'
+p374
+tp375
+Rp376
+tp377
+a(S'artelys knitro'
+p378
+g2
+(g6
+S'}\x02\xdd\xce<\xbd\xd5?'
+p379
+tp380
+Rp381
+tp382
+a(S'riccardo poli'
+p383
+g2
+(g6
+S'\x1d1\xf1\x91\x10\xbd\xd5?'
+p384
+tp385
+Rp386
+tp387
+a(S'algorithm engineering'
+p388
+g2
+(g6
+S'g\x12\x87/\xce\xba\xd5?'
+p389
+tp390
+Rp391
+tp392
+a(S'genetic testing'
+p393
+g2
+(g6
+S'q\xa3N\xecW\xb4\xd5?'
+p394
+tp395
+Rp396
+tp397
+a(S'evolver (software)'
+p398
+g2
+(g6
+S'\xa8\xd1\x95\xc17\xb2\xd5?'
+p399
+tp400
+Rp401
+tp402
+a(S'genetic discrimination'
+p403
+g2
+(g6
+S'|=H\xaav\xad\xd5?'
+p404
+tp405
+Rp406
+tp407
+a(S'human-based evolutionary computation'
+p408
+g2
+(g6
+S'%\xadt\t\xba\x86\xd5?'
+p409
+tp410
+Rp411
+tp412
+a(S'neuroevolution'
+p413
+g2
+(g6
+S'\xd4\xae\x01Gfl\xd5?'
+p414
+tp415
+Rp416
+tp417
+a(S'smartdo'
+p418
+g2
+(g6
+S'hT\x01^,a\xd5?'
+p419
+tp420
+Rp421
+tp422
+a(S'mutation (genetic algorithm)'
+p423
+g2
+(g6
+S'SD\xed\x19\x95^\xd5?'
+p424
+tp425
+Rp426
+tp427
+a(S'mcacea'
+p428
+g2
+(g6
+S'\x9e\xf7\\\x12\x8cP\xd5?'
+p429
+tp430
+Rp431
+tp432
+a(S'algorithmic efficiency'
+p433
+g2
+(g6
+S'\x81n\xde\xa5\xd5K\xd5?'
+p434
+tp435
+Rp436
+tp437
+a(S'algorithm selection'
+p438
+g2
+(g6
+S'\x8fw\xf6\xcaN>\xd5?'
+p439
+tp440
+Rp441
+tp442
+a(S'genetic variation'
+p443
+g2
+(g6
+S'\x9a\x0f\xb5>\xe52\xd5?'
+p444
+tp445
+Rp446
+tp447
+a(S'speciation (genetic algorithm)'
+p448
+g2
+(g6
+S'\xdd(\xc8b\xbe.\xd5?'
+p449
+tp450
+Rp451
+tp452
+a(S'biogeography-based optimization'
+p453
+g2
+(g6
+S'\xe8Br)|\x1a\xd5?'
+p454
+tp455
+Rp456
+tp457
+a(S'reprogenetics'
+p458
+g2
+(g6
+S'i\t\x8d\x00\xfc\x19\xd5?'
+p459
+tp460
+Rp461
+tp462
+a(S'fitness proportionate selection'
+p463
+g2
+(g6
+S'*\x00\xe4\xf7b\x00\xd5?'
+p464
+tp465
+Rp466
+tp467
+a(S'convergence (evolutionary computing)'
+p468
+g2
+(g6
+S'\xc6\xf1\xdcO\xbb\xf5\xd4?'
+p469
+tp470
+Rp471
+tp472
+a(S'genetic divergence'
+p473
+g2
+(g6
+S'\x1cI\x00\x06\xcd\xea\xd4?'
+p474
+tp475
+Rp476
+tp477
+a(S'automatic label placement'
+p478
+g2
+(g6
+S'\x8b\x08oO\xd0\xe6\xd4?'
+p479
+tp480
+Rp481
+tp482
+a(S'online algorithm'
+p483
+g2
+(g6
+S'\xb1\xd4\x11%\x17\xe5\xd4?'
+p484
+tp485
+Rp486
+tp487
+a(S'genetic counseling'
+p488
+g2
+(g6
+S'b\x1b\xee\xdb\x9a\xd3\xd4?'
+p489
+tp490
+Rp491
+tp492
+a(S'computer-automated design'
+p493
+g2
+(g6
+S'\xff\xe4A\x80\x8b\xcf\xd4?'
+p494
+tp495
+Rp496
+tp497
+a(S'xdais algorithms'
+p498
+g2
+(g6
+S'\x97\x0edX\x1a\xca\xd4?'
+p499
+tp500
+Rp501
+tp502
+a(S'xin-she yang'
+p503
+g2
+(g6
+S'\xf1&\x15\x04j\xc7\xd4?'
+p504
+tp505
+Rp506
+tp507
+a(S'las vegas algorithm'
+p508
+g2
+(g6
+S'\xc2y4,\\\xc2\xd4?'
+p509
+tp510
+Rp511
+tp512
+a(S'genetic'
+p513
+g2
+(g6
+S'.\xff\xdb\xd4\x9a\xaa\xd4?'
+p514
+tp515
+Rp516
+tp517
+a(S'microevolution'
+p518
+g2
+(g6
+S'\x89\xef\xeb7\\\xa9\xd4?'
+p519
+tp520
+Rp521
+tp522
+a(S'linear genetic programming'
+p523
+g2
+(g6
+S'T\xe5\x95\xab\x93\xa6\xd4?'
+p524
+tp525
+Rp526
+tp527
+a(S'applications of evolution'
+p528
+g2
+(g6
+S'ab\x9a\xd7d\x9c\xd4?'
+p529
+tp530
+Rp531
+tp532
+a(S'brst algorithm'
+p533
+g2
+(g6
+S'\xd3+]\x08\x1c\x9a\xd4?'
+p534
+tp535
+Rp536
+tp537
+a(S'list of algorithm general topics'
+p538
+g2
+(g6
+S'qh\r\r9\x91\xd4?'
+p539
+tp540
+Rp541
+tp542
+a(S'multidisciplinary design optimization'
+p543
+g2
+(g6
+S'\x1bC4\x88o\x90\xd4?'
+p544
+tp545
+Rp546
+tp547
+a(S'defining length'
+p548
+g2
+(g6
+S'\xb1\x06\x00\x1bX\x86\xd4?'
+p549
+tp550
+Rp551
+tp552
+a(S'randomized algorithms as zero-sum games'
+p553
+g2
+(g6
+S"'\x19\xb5\x96\xdf~\xd4?"
+p554
+tp555
+Rp556
+tp557
+a(S'exact algorithm'
+p558
+g2
+(g6
+S'\xe1\x95\x14\x8e\xd4^\xd4?'
+p559
+tp560
+Rp561
+tp562
+a(S'evolutionary programming'
+p563
+g2
+(g6
+S'|9\xe4%\xc9]\xd4?'
+p564
+tp565
+Rp566
+tp567
+a(S'john koza'
+p568
+g2
+(g6
+S'\x9b\x96C\xcdYV\xd4?'
+p569
+tp570
+Rp571
+tp572
+a(S'introduction to algorithms'
+p573
+g2
+(g6
+S'#\xa0j6RV\xd4?'
+p574
+tp575
+Rp576
+tp577
+a(S'list of algorithms'
+p578
+g2
+(g6
+S'\xbf\x7f\xfcC\xf9P\xd4?'
+p579
+tp580
+Rp581
+tp582
+a(S'genetic memory'
+p583
+g2
+(g6
+S'\xcb\xfd\xeb\x8a\xc7>\xd4?'
+p584
+tp585
+Rp586
+tp587
+a(S'stochastic optimization'
+p588
+g2
+(g6
+S'\xf8\r\xfa!\xc1;\xd4?'
+p589
+tp590
+Rp591
+tp592
+a(S'approximation algorithm'
+p593
+g2
+(g6
+S'\x13\xaf\xe4\xfc}-\xd4?'
+p594
+tp595
+Rp596
+tp597
+a(S'clonal selection algorithm'
+p598
+g2
+(g6
+S"\x7f'\xf48z-\xd4?"
+p599
+tp600
+Rp601
+tp602
+a(S'greedy algorithm'
+p603
+g2
+(g6
+S'PT\xa4a4$\xd4?'
+p604
+tp605
+Rp606
+tp607
+a(S'inheritance (genetic algorithm)'
+p608
+g2
+(g6
+S'\xe3T,\x1e\xb8\x1a\xd4?'
+p609
+tp610
+Rp611
+tp612
+a(S'human genetic variation'
+p613
+g2
+(g6
+S'* %\xcb\xd1\x17\xd4?'
+p614
+tp615
+Rp616
+tp617
+a(S'human genetic clustering'
+p618
+g2
+(g6
+S'^\x9a4_g\x0c\xd4?'
+p619
+tp620
+Rp621
+tp622
+a(S'population-based incremental learning'
+p623
+g2
+(g6
+S'\xd7(:\x1a\x86\t\xd4?'
+p624
+tp625
+Rp626
+tp627
+a(S'divide and conquer algorithm'
+p628
+g2
+(g6
+S'_\xf8\x9e\xfd%\t\xd4?'
+p629
+tp630
+Rp631
+tp632
+a(S'genetic assimilation'
+p633
+g2
+(g6
+S'"`\xf9\x1eW\xfd\xd3?'
+p634
+tp635
+Rp636
+tp637
+a(S'hyperparameter optimization'
+p638
+g2
+(g6
+S'\x95\xa2\xf0\xa5?\xf8\xd3?'
+p639
+tp640
+Rp641
+tp642
+a(S'combinatorial optimization'
+p643
+g2
+(g6
+S'D;\x92s9\xe9\xd3?'
+p644
+tp645
+Rp646
+tp647
+a(S'founder effect'
+p648
+g2
+(g6
+S'v\xf4Z\xb40\xe9\xd3?'
+p649
+tp650
+Rp651
+tp652
+a(S'simulated annealing'
+p653
+g2
+(g6
+S'=&l.y\xe6\xd3?'
+p654
+tp655
+Rp656
+tp657
+a(S'melanie mitchell'
+p658
+g2
+(g6
+S'\x7f\x14\xe4\xfe\xef\xd3\xd3?'
+p659
+tp660
+Rp661
+tp662
+a(S'auction algorithm'
+p663
+g2
+(g6
+S'\xbb\xf2+.t\xc8\xd3?'
+p664
+tp665
+Rp666
+tp667
+a(S'stochastic approximation'
+p668
+g2
+(g6
+S'\x05\x8b\xfc\x02\xa4\xa8\xd3?'
+p669
+tp670
+Rp671
+tp672
+a(S'genetic information nondiscrimination act'
+p673
+g2
+(g6
+S';\x15\xa8\xd0\xcc\x93\xd3?'
+p674
+tp675
+Rp676
+tp677
+a(S'population fragmentation'
+p678
+g2
+(g6
+S'\x8b\xe9<\x9e\x82\x91\xd3?'
+p679
+tp680
+Rp681
+tp682
+a(S'streaming algorithm'
+p683
+g2
+(g6
+S'&j\xafA$\x83\xd3?'
+p684
+tp685
+Rp686
+tp687
+a(S'evolutionary landscape'
+p688
+g2
+(g6
+S'\xaa\xf4\xb6\xcc\xf1t\xd3?'
+p689
+tp690
+Rp691
+tp692
+a(S'tabu search'
+p693
+g2
+(g6
+S'pp\xcc\xb0\xdes\xd3?'
+p694
+tp695
+Rp696
+tp697
+a(S'natural computing'
+p698
+g2
+(g6
+S'j\x16\xa9F\xaf\\\xd3?'
+p699
+tp700
+Rp701
+tp702
+a(S'optimization problem'
+p703
+g2
+(g6
+S'\xbd\xe8H\x8d\xb0S\xd3?'
+p704
+tp705
+Rp706
+tp707
+a(S'fitness (biology)'
+p708
+g2
+(g6
+S'I\x1e\x03v\x8eH\xd3?'
+p709
+tp710
+Rp711
+tp712
+a(S'program optimization'
+p713
+g2
+(g6
+S'l\x01u\xee<:\xd3?'
+p714
+tp715
+Rp716
+tp717
+a(S'genetic predisposition'
+p718
+g2
+(g6
+S'[L\xdbr$4\xd3?'
+p719
+tp720
+Rp721
+tp722
+a(S'animal genetic resources for food and agriculture'
+p723
+g2
+(g6
+S'}\xa1\xd9\xc0\xc6/\xd3?'
+p724
+tp725
+Rp726
+tp727
+a(S'dynamic programming'
+p728
+g2
+(g6
+S'\t\x8c5\x13\xe8$\xd3?'
+p729
+tp730
+Rp731
+tp732
+a(S'simulation-based optimization'
+p733
+g2
+(g6
+S'\xdc\xf6\x92\xcc\xa6#\xd3?'
+p734
+tp735
+Rp736
+tp737
+a(S'output-sensitive algorithm'
+p738
+g2
+(g6
+S'\x8cg\x8fm\xd8\t\xd3?'
+p739
+tp740
+Rp741
+tp742
+a(S'archaeogenetics'
+p743
+g2
+(g6
+S'\xa8\x86*\\r\t\xd3?'
+p744
+tp745
+Rp746
+tp747
+a(S'human-based computation'
+p748
+g2
+(g6
+S'/\x06(4\xd5\xe9\xd2?'
+p749
+tp750
+Rp751
+tp752
+a(S'multi-objective optimization'
+p753
+g2
+(g6
+S'\xee7\x95\xcb\x80\xdb\xd2?'
+p754
+tp755
+Rp756
+tp757
+a(S'linear programming'
+p758
+g2
+(g6
+S'\xab\t>]\xbd\xd9\xd2?'
+p759
+tp760
+Rp761
+tp762
+a(S'outline of computer science'
+p763
+g2
+(g6
+S'\xf8\x0b\x87\x18\xb3\xd8\xd2?'
+p764
+tp765
+Rp766
+tp767
+a(S'program for jewish genetic health'
+p768
+g2
+(g6
+S'\xdc\x82-\x17=\xcf\xd2?'
+p769
+tp770
+Rp771
+tp772
+a(S'genetic pollution'
+p773
+g2
+(g6
+S'\xf2S\xa16Y\xc2\xd2?'
+p774
+tp775
+Rp776
+tp777
+a(S'grammar induction'
+p778
+g2
+(g6
+S'*\xe5\xa1\xd3\x82\xc1\xd2?'
+p779
+tp780
+Rp781
+tp782
+a(S'atlantic city algorithm'
+p783
+g2
+(g6
+S'\x02`\x12\xc0\xe1\xbf\xd2?'
+p784
+tp785
+Rp786
+tp787
+a(S'genetic drift'
+p788
+g2
+(g6
+S'Q5\xf0\xe07\xb8\xd2?'
+p789
+tp790
+Rp791
+tp792
+a(S'natural selection'
+p793
+g2
+(g6
+S'\xd0\x0b~%\x18\xac\xd2?'
+p794
+tp795
+Rp796
+tp797
+a(S'parametric search'
+p798
+g2
+(g6
+S'\xa1\x04\r\x81\xde\xa3\xd2?'
+p799
+tp800
+Rp801
+tp802
+a(S'genetic load'
+p803
+g2
+(g6
+S'I\xcf\xd5\x18W\xa3\xd2?'
+p804
+tp805
+Rp806
+tp807
+a(S'fitness'
+p808
+g2
+(g6
+S'&r\x86\xb75\x9d\xd2?'
+p809
+tp810
+Rp811
+tp812
+a(S'forest genetic resources'
+p813
+g2
+(g6
+S'\xd2\xd1\x96\xd5\xcf\x98\xd2?'
+p814
+tp815
+Rp816
+tp817
+a(S'genetic privacy'
+p818
+g2
+(g6
+S'\xb9Z]f\xb2\x97\xd2?'
+p819
+tp820
+Rp821
+tp822
+a(S'gaussian adaptation'
+p823
+g2
+(g6
+S'<M\xa9i\xb4\x87\xd2?'
+p824
+tp825
+Rp826
+tp827
+a(S'analysis of algorithms'
+p828
+g2
+(g6
+S'\xa8\x9e\xa2\x9a\x9e\x84\xd2?'
+p829
+tp830
+Rp831
+tp832
+a(S'medical algorithm'
+p833
+g2
+(g6
+S"]\xc0'\xe0<z\xd2?"
+p834
+tp835
+Rp836
+tp837
+a(S'randomized algorithm'
+p838
+g2
+(g6
+S'\x19\xe2\x03]Uy\xd2?'
+p839
+tp840
+Rp841
+tp842
+a(S'list of numerical analysis topics'
+p843
+g2
+(g6
+S'Q\xf4~\xde\x92j\xd2?'
+p844
+tp845
+Rp846
+tp847
+a(S'concurrent algorithm'
+p848
+g2
+(g6
+S'6\x016\r%h\xd2?'
+p849
+tp850
+Rp851
+tp852
+a(S'hill climbing'
+p853
+g2
+(g6
+S'\xb4g\x81\xf7\xb8A\xd2?'
+p854
+tp855
+Rp856
+tp857
+a(S'pls (complexity)'
+p858
+g2
+(g6
+S'\xee\xde\xc1\xd5l>\xd2?'
+p859
+tp860
+Rp861
+tp862
+a(S'imperialist competitive algorithm'
+p863
+g2
+(g6
+S'p\x93\x8d\xb7J:\xd2?'
+p864
+tp865
+Rp866
+tp867
+a(S'genetic analysis'
+p868
+g2
+(g6
+S"\xe8P\x8e\xe7'/\xd2?"
+p869
+tp870
+Rp871
+tp872
+a(S'coalescent theory'
+p873
+g2
+(g6
+S'2Uhk\xc2-\xd2?'
+p874
+tp875
+Rp876
+tp877
+a(S'stochastic universal sampling'
+p878
+g2
+(g6
+S'\xab\x8c\xc6\xa7}$\xd2?'
+p879
+tp880
+Rp881
+tp882
+a(S'tournament selection'
+p883
+g2
+(g6
+S'\xc6\x9e2\xc4\x13\x08\xd2?'
+p884
+tp885
+Rp886
+tp887
+a(S'harmony search'
+p888
+g2
+(g6
+S'\xc5:\xfc\xab4\x02\xd2?'
+p889
+tp890
+Rp891
+tp892
+a(S'constructive cooperative coevolution'
+p893
+g2
+(g6
+S'\xbd\xfa\xce\x85m\x00\xd2?'
+p894
+tp895
+Rp896
+tp897
+a(S'quadratic knapsack problem'
+p898
+g2
+(g6
+S'\xcd\xfc\xec(\xae\xfa\xd1?'
+p899
+tp900
+Rp901
+tp902
+a(S'fixation index'
+p903
+g2
+(g6
+S'\xad\xbd\x08T\xeb\xf2\xd1?'
+p904
+tp905
+Rp906
+tp907
+a(S'algorithmic composition'
+p908
+g2
+(g6
+S'\xd3Gr\xa8\xae\xe0\xd1?'
+p909
+tp910
+Rp911
+tp912
+a(S'step detection'
+p913
+g2
+(g6
+S'[{E\xcb\x9e\xdc\xd1?'
+p914
+tp915
+Rp916
+tp917
+a(S'time complexity'
+p918
+g2
+(g6
+S'\xadxf\xe23\xd6\xd1?'
+p919
+tp920
+Rp921
+tp922
+a(S'autoconstructive'
+p923
+g2
+(g6
+S'\xe0\xdal\x1cP\xd5\xd1?'
+p924
+tp925
+Rp926
+tp927
+a(S'natural evolution strategy'
+p928
+g2
+(g6
+S'FUr\xa6\xad\xd1\xd1?'
+p929
+tp930
+Rp931
+tp932
+a(S'genetic algorithm for rule set production'
+p933
+g2
+(g6
+S'\xb6\xd8\x1c8z\xcf\xd1?'
+p934
+tp935
+Rp936
+tp937
+a(S'adaptation'
+p938
+g2
+(g6
+S'C({\xa7t\xcf\xd1?'
+p939
+tp940
+Rp941
+tp942
+a(S'nondeterministic algorithm'
+p943
+g2
+(g6
+S'\xae\x00G<1\xcf\xd1?'
+p944
+tp945
+Rp946
+tp947
+a(S'algorithms unlocked'
+p948
+g2
+(g6
+S'>\xb2\xd3\xb5\xe5\xbf\xd1?'
+p949
+tp950
+Rp951
+tp952
+a(S'feature selection'
+p953
+g2
+(g6
+S'\xbc\x9cB\x13\x84\xb2\xd1?'
+p954
+tp955
+Rp956
+tp957
+a(S'algorithm (c++)'
+p958
+g2
+(g6
+S'\xb1}\x99B\xd2\xa5\xd1?'
+p959
+tp960
+Rp961
+tp962
+a(S'national society of genetic counselors'
+p963
+g2
+(g6
+S'\xcf\r\x1dc\xfe\xa0\xd1?'
+p964
+tp965
+Rp966
+tp967
+a(S'lemon (c++ library)'
+p968
+g2
+(g6
+S'\xab\xa3\xe10\n\x98\xd1?'
+p969
+tp970
+Rp971
+tp972
+a(S'genetic exceptionalism'
+p973
+g2
+(g6
+S'~\xd7h\xa1\x15\x95\xd1?'
+p974
+tp975
+Rp976
+tp977
+a(S'most recent common ancestor'
+p978
+g2
+(g6
+S'\x13|\x88A\x97\x8f\xd1?'
+p979
+tp980
+Rp981
+tp982
+a(S'crossing-over value'
+p983
+g2
+(g6
+S'!V\xe7\xb7:\x8d\xd1?'
+p984
+tp985
+Rp986
+tp987
+a(S'peter keightley'
+p988
+g2
+(g6
+S'$a\x13\xb9\xe3\x87\xd1?'
+p989
+tp990
+Rp991
+tp992
+a(S'genic capture'
+p993
+g2
+(g6
+S't\xb9\x18\xc1\x86\x82\xd1?'
+p994
+tp995
+Rp996
+tp997
+a(S'very large-scale neighborhood search'
+p998
+g2
+(g6
+S'\x8f\xd7<\xd1d\x80\xd1?'
+p999
+tp1000
+Rp1001
+tp1002
+a(S'berndt\xe2\x80\x93hall\xe2\x80\x93hall\xe2\x80\x93hausman algorithm'
+p1003
+g2
+(g6
+S'2\xc4\x0e\\\x8dy\xd1?'
+p1004
+tp1005
+Rp1006
+tp1007
+a(S'genetic monitoring'
+p1008
+g2
+(g6
+S'\xb0\x02\xf1\xd9Fx\xd1?'
+p1009
+tp1010
+Rp1011
+tp1012
+a(S'ade model'
+p1013
+g2
+(g6
+S'\xe6v^\x89\xfcw\xd1?'
+p1014
+tp1015
+Rp1016
+tp1017
+a(S'dorit s. hochbaum'
+p1018
+g2
+(g6
+S'\xee\xa0\x94\x15\xe4o\xd1?'
+p1019
+tp1020
+Rp1021
+tp1022
+a(S'element distinctness problem'
+p1023
+g2
+(g6
+S'\xcd\x16\xf1\xee\xc4f\xd1?'
+p1024
+tp1025
+Rp1026
+tp1027
+a(S'molecular evolution'
+p1028
+g2
+(g6
+S'\xc5\xa6\xd3\x0c\xb9d\xd1?'
+p1029
+tp1030
+Rp1031
+tp1032
+a(S'erna bennett'
+p1033
+g2
+(g6
+S'\xbe NC\x94c\xd1?'
+p1034
+tp1035
+Rp1036
+tp1037
+a(S'cma-es'
+p1038
+g2
+(g6
+S'\xd4:X\x93kb\xd1?'
+p1039
+tp1040
+Rp1041
+tp1042
+a(S'graduated optimization'
+p1043
+g2
+(g6
+S'\xafw\xfe\xc1x`\xd1?'
+p1044
+tp1045
+Rp1046
+tp1047
+a(S'stability (learning theory)'
+p1048
+g2
+(g6
+S'AA\xec\x05\x7fA\xd1?'
+p1049
+tp1050
+Rp1051
+tp1052
+a(S'penalty method'
+p1053
+g2
+(g6
+S'4\x19w\xde\xef?\xd1?'
+p1054
+tp1055
+Rp1056
+tp1057
+a(S'isolation by distance'
+p1058
+g2
+(g6
+S'\xed\x16\xc1\x97R8\xd1?'
+p1059
+tp1060
+Rp1061
+tp1062
+a(S'string searching algorithm'
+p1063
+g2
+(g6
+S'P\xe6j\xd8\x936\xd1?'
+p1064
+tp1065
+Rp1066
+tp1067
+a(S'search-based software engineering'
+p1068
+g2
+(g6
+S'\xf1\xdf7\x13\xcf.\xd1?'
+p1069
+tp1070
+Rp1071
+tp1072
+a(S'synchronizer (algorithm)'
+p1073
+g2
+(g6
+S'{7!\x13`.\xd1?'
+p1074
+tp1075
+Rp1076
+tp1077
+a(S'lp-type problem'
+p1078
+g2
+(g6
+S'\xf7\x17\x9a\xa4\xde,\xd1?'
+p1079
+tp1080
+Rp1081
+tp1082
+a(S'quantum algorithm'
+p1083
+g2
+(g6
+S'\xa4\x16i+\xa4,\xd1?'
+p1084
+tp1085
+Rp1086
+tp1087
+a(S'deterministic global optimization'
+p1088
+g2
+(g6
+S'\xd8\x9d~\xadQ,\xd1?'
+p1089
+tp1090
+Rp1091
+tp1092
+a(S'held\xe2\x80\x93karp algorithm'
+p1093
+g2
+(g6
+S"\xd6\xcf\x0fA\x86'\xd1?"
+p1094
+tp1095
+Rp1096
+tp1097
+a(S'yooreeka'
+p1098
+g2
+(g6
+S'|\x87\x98l\xa9%\xd1?'
+p1099
+tp1100
+Rp1101
+tp1102
+a(S'pattern recognition'
+p1103
+g2
+(g6
+S'\x1d$\xd3\xb0v%\xd1?'
+p1104
+tp1105
+Rp1106
+tp1107
+a(S'guy blelloch'
+p1108
+g2
+(g6
+S'\x81u\xc8+\xbc"\xd1?'
+p1109
+tp1110
+Rp1111
+tp1112
+a(S'1000 genomes project'
+p1113
+g2
+(g6
+S'\\b\x15\x19\x83"\xd1?'
+p1114
+tp1115
+Rp1116
+tp1117
+a(S'cross-entropy method'
+p1118
+g2
+(g6
+S'\x9c\xd93\xfax!\xd1?'
+p1119
+tp1120
+Rp1121
+tp1122
+a(S'linear equation over a ring'
+p1123
+g2
+(g6
+S'\x1e\x8a\xb5\xa2\x0f \xd1?'
+p1124
+tp1125
+Rp1126
+tp1127
+a(S'nk model'
+p1128
+g2
+(g6
+S'\xd3\x9e\xa1\xa4\xe8\x1b\xd1?'
+p1129
+tp1130
+Rp1131
+tp1132
+a(S'evolution window'
+p1133
+g2
+(g6
+S'r\xb8\x1b\x0b\xec\x18\xd1?'
+p1134
+tp1135
+Rp1136
+tp1137
+a(S'phonetic algorithm'
+p1138
+g2
+(g6
+S'1\rg\xfd"\x11\xd1?'
+p1139
+tp1140
+Rp1141
+tp1142
+a(S'genetic association'
+p1143
+g2
+(g6
+S' OZYi\r\xd1?'
+p1144
+tp1145
+Rp1146
+tp1147
+a(S'genetic epidemiology'
+p1148
+g2
+(g6
+S'\xed\xd6W\xc5\x1a\x07\xd1?'
+p1149
+tp1150
+Rp1151
+tp1152
+a(S'emergent algorithm'
+p1153
+g2
+(g6
+S'H\xd8z\xf9h\x05\xd1?'
+p1154
+tp1155
+Rp1156
+tp1157
+a(S'meta-optimization'
+p1158
+g2
+(g6
+S'\x1d\xa1\x9d1Q\x02\xd1?'
+p1159
+tp1160
+Rp1161
+tp1162
+a(S'multiple-criteria decision analysis'
+p1163
+g2
+(g6
+S'\x89\xce\x18\x1eb\x01\xd1?'
+p1164
+tp1165
+Rp1166
+tp1167
+a(S'non-negative least squares'
+p1168
+g2
+(g6
+S'\x02\x97`\x1b\xa4\xfa\xd0?'
+p1169
+tp1170
+Rp1171
+tp1172
+a(S'introduction to evolution'
+p1173
+g2
+(g6
+S'\x17d)a\xc4\xf2\xd0?'
+p1174
+tp1175
+Rp1176
+tp1177
+a(S'selective sweep'
+p1178
+g2
+(g6
+S'f\x0cZ8\xc3\xf2\xd0?'
+p1179
+tp1180
+Rp1181
+tp1182
+a(S'empirical algorithmics'
+p1183
+g2
+(g6
+S"\x9f'&\xcfM\xf2\xd0?"
+p1184
+tp1185
+Rp1186
+tp1187
+a(S'promoter based genetic algorithm'
+p1188
+g2
+(g6
+S'\x96\x02@\xf9\xe8\xf0\xd0?'
+p1189
+tp1190
+Rp1191
+tp1192
+a(S'genetic memory (psychology)'
+p1193
+g2
+(g6
+S'}\x03\xcef\x0e\xee\xd0?'
+p1194
+tp1195
+Rp1196
+tp1197
+a(S'supervised learning'
+p1198
+g2
+(g6
+S'\x97\xb9#cM\xed\xd0?'
+p1199
+tp1200
+Rp1201
+tp1202
+a(S'evolutionary informatics'
+p1203
+g2
+(g6
+S'\xce(\xd0\x7fr\xec\xd0?'
+p1204
+tp1205
+Rp1206
+tp1207
+a(S'group method of data handling'
+p1208
+g2
+(g6
+S'\x04{\xe0\xd5\t\xec\xd0?'
+p1209
+tp1210
+Rp1211
+tp1212
+a(S'genetic hitchhiking'
+p1213
+g2
+(g6
+S'\xa9_b\xaa}\xeb\xd0?'
+p1214
+tp1215
+Rp1216
+tp1217
+a(S'genetic algorithms in economics'
+p1218
+g2
+(g6
+S'a\x17\xd3\x1cf\xe6\xd0?'
+p1219
+tp1220
+Rp1221
+tp1222
+a(S'richard cotton (geneticist)'
+p1223
+g2
+(g6
+S'\xf9C\x184\x91\xdb\xd0?'
+p1224
+tp1225
+Rp1226
+tp1227
+a(S'combinatorial search'
+p1228
+g2
+(g6
+S'\xea\xe2\x84\xb0\x94\xd9\xd0?'
+p1229
+tp1230
+Rp1231
+tp1232
+a(S'viral quasispecies'
+p1233
+g2
+(g6
+S'0_\x83\x19\xbb\xd4\xd0?'
+p1234
+tp1235
+Rp1236
+tp1237
+a(S'frank\xe2\x80\x93wolfe algorithm'
+p1238
+g2
+(g6
+S'\x1c?\xabQ\x99\xd2\xd0?'
+p1239
+tp1240
+Rp1241
+tp1242
+a(S'findbase'
+p1243
+g2
+(g6
+S'Z\xce\xd5\x14\xdc\xcb\xd0?'
+p1244
+tp1245
+Rp1246
+tp1247
+a(S'euphenics'
+p1248
+g2
+(g6
+S'\xd5t\x8ce]\xca\xd0?'
+p1249
+tp1250
+Rp1251
+tp1252
+a(S'theoretical computer science'
+p1253
+g2
+(g6
+S'_\xb9\x8a\xf78\xc8\xd0?'
+p1254
+tp1255
+Rp1256
+tp1257
+a(S'search space'
+p1258
+g2
+(g6
+S'\xdf\xb3z\xef\x9b\xc6\xd0?'
+p1259
+tp1260
+Rp1261
+tp1262
+a(S'elki'
+p1263
+g2
+(g6
+S'\xe3Z3\xf9\x0c\xbf\xd0?'
+p1264
+tp1265
+Rp1266
+tp1267
+a(S'pathfinding'
+p1268
+g2
+(g6
+S'\xd8\xe7\\\x92\xa9\xba\xd0?'
+p1269
+tp1270
+Rp1271
+tp1272
+a(S"the state of the world's animal genetic resources for food and agriculture"
+p1273
+g2
+(g6
+S'\xf4[\xdbDA\xb6\xd0?'
+p1274
+tp1275
+Rp1276
+tp1277
+a(S'ravindran kannan'
+p1278
+g2
+(g6
+S'\xb9\t\xd9\xdeP\xb0\xd0?'
+p1279
+tp1280
+Rp1281
+tp1282
+a(S'index of evolutionary biology articles'
+p1283
+g2
+(g6
+S'\xee\xab0\xb2*\xae\xd0?'
+p1284
+tp1285
+Rp1286
+tp1287
+a(S'competitive analysis (online algorithm)'
+p1288
+g2
+(g6
+S'~\x9dV\x9c\xfa\xa5\xd0?'
+p1289
+tp1290
+Rp1291
+tp1292
+a(S'genetic structure'
+p1293
+g2
+(g6
+S'\xcd\xc0\x83\xb0\xca\xa5\xd0?'
+p1294
+tp1295
+Rp1296
+tp1297
+a(S'guided local search'
+p1298
+g2
+(g6
+S'\x96\xde\x8f\xafe\xa1\xd0?'
+p1299
+tp1300
+Rp1301
+tp1302
+a(S'universal darwinism'
+p1303
+g2
+(g6
+S'wq\xd9\xf0w\x9c\xd0?'
+p1304
+tp1305
+Rp1306
+tp1307
+a(S'royal commission on genetic modification'
+p1308
+g2
+(g6
+S'x$z\xe0\xfd\x97\xd0?'
+p1309
+tp1310
+Rp1311
+tp1312
+a(S'markov algorithm'
+p1313
+g2
+(g6
+S'\x97\x88=\xc1\xf8\x96\xd0?'
+p1314
+tp1315
+Rp1316
+tp1317
+a(S'brigitte vall\xc3\xa9e'
+p1318
+g2
+(g6
+S'jT{,\xa9\x94\xd0?'
+p1319
+tp1320
+Rp1321
+tp1322
+a(S'non-allelic gene interaction'
+p1323
+g2
+(g6
+S'\xbc\xf4)u\x06\x92\xd0?'
+p1324
+tp1325
+Rp1326
+tp1327
+a(S'ioso'
+p1328
+g2
+(g6
+S'\x11\xf2\xaf\x86N\x91\xd0?'
+p1329
+tp1330
+Rp1331
+tp1332
+a(S'index of genetics articles'
+p1333
+g2
+(g6
+S'n&\xa1\xd7>\x91\xd0?'
+p1334
+tp1335
+Rp1336
+tp1337
+a(S'algorithmics'
+p1338
+g2
+(g6
+S'\xab\xf2\xc4+\x9f\x8d\xd0?'
+p1339
+tp1340
+Rp1341
+tp1342
+a(S'genetic fuzzy systems'
+p1343
+g2
+(g6
+S'\xb55\xd0\xb2\x1f\x8c\xd0?'
+p1344
+tp1345
+Rp1346
+tp1347
+a(S"karmarkar's algorithm"
+p1348
+g2
+(g6
+S'\x1d\x0e\xe0\x83\x1a\x8b\xd0?'
+p1349
+tp1350
+Rp1351
+tp1352
+a(S'small population size'
+p1353
+g2
+(g6
+S'C\xaf\xe17\x8c\x86\xd0?'
+p1354
+tp1355
+Rp1356
+tp1357
+a(S'optimal substructure'
+p1358
+g2
+(g6
+S'\x98\xb6\x9f\x1b\xf2\x85\xd0?'
+p1359
+tp1360
+Rp1361
+tp1362
+a(S'epistasis'
+p1363
+g2
+(g6
+S'\xf6\xfa\xe5\xd0\x14\x83\xd0?'
+p1364
+tp1365
+Rp1366
+tp1367
+a(S"cornacchia's algorithm"
+p1368
+g2
+(g6
+S'4\xe1{\xc5\xbd\x7f\xd0?'
+p1369
+tp1370
+Rp1371
+tp1372
+a(S'carrier testing'
+p1373
+g2
+(g6
+S'\x85\x96\xb7\xc6\x8c~\xd0?'
+p1374
+tp1375
+Rp1376
+tp1377
+a(S'genetic improvement (computer science)'
+p1378
+g2
+(g6
+S'O\xce\x8f\xc5\x11{\xd0?'
+p1379
+tp1380
+Rp1381
+tp1382
+a(S'rastrigin function'
+p1383
+g2
+(g6
+S'\xccWK\xf3nu\xd0?'
+p1384
+tp1385
+Rp1386
+tp1387
+a(S'list of optimization software'
+p1388
+g2
+(g6
+S'\xc24\xdc\x7f}t\xd0?'
+p1389
+tp1390
+Rp1391
+tp1392
+a(S'index of genetic engineering articles'
+p1393
+g2
+(g6
+S'gLY\x91Nt\xd0?'
+p1394
+tp1395
+Rp1396
+tp1397
+a(S'evolvable hardware'
+p1398
+g2
+(g6
+S'\xc9\xad\xb8\x90\x80r\xd0?'
+p1399
+tp1400
+Rp1401
+tp1402
+a(S'with high probability'
+p1403
+g2
+(g6
+S'w\x92\xafi\x85q\xd0?'
+p1404
+tp1405
+Rp1406
+tp1407
+a(S'kimeme'
+p1408
+g2
+(g6
+S'\x1b\xf3\xa3\xf22i\xd0?'
+p1409
+tp1410
+Rp1411
+tp1412
+a(S'genetic marker'
+p1413
+g2
+(g6
+S'\x9f\x1bN3qd\xd0?'
+p1414
+tp1415
+Rp1416
+tp1417
+a(S'random optimization'
+p1418
+g2
+(g6
+S'\xf3\x99\x83ivb\xd0?'
+p1419
+tp1420
+Rp1421
+tp1422
+a(S'yury verlinsky'
+p1423
+g2
+(g6
+S'\x991\xdb\xd3c`\xd0?'
+p1424
+tp1425
+Rp1426
+tp1427
+a(S'evolutionary robotics'
+p1428
+g2
+(g6
+S' \xd4dq\xf9\\\xd0?'
+p1429
+tp1430
+Rp1431
+tp1432
+a(S'bilevel optimization'
+p1433
+g2
+(g6
+S'\xaa\x95\x950N\\\xd0?'
+p1434
+tp1435
+Rp1436
+tp1437
+a(S'artificial immune system'
+p1438
+g2
+(g6
+S'\x19\xfam1|[\xd0?'
+p1439
+tp1440
+Rp1441
+tp1442
+a(S'sweep line algorithm'
+p1443
+g2
+(g6
+S'\xb2\xb3\x96\x1a}T\xd0?'
+p1444
+tp1445
+Rp1446
+tp1447
+a(S'evolutionary psychology'
+p1448
+g2
+(g6
+S'\xd4\x1a6G\x07T\xd0?'
+p1449
+tp1450
+Rp1451
+tp1452
+a(S'robustness (evolution)'
+p1453
+g2
+(g6
+S'*\xb2\xf2K\xddQ\xd0?'
+p1454
+tp1455
+Rp1456
+tp1457
+a(S'ellipsoid method'
+p1458
+g2
+(g6
+S'\xbbq\xd6/\x0bP\xd0?'
+p1459
+tp1460
+Rp1461
+tp1462
+a(S'humant (humanoid ant) algorithm'
+p1463
+g2
+(g6
+S'\xf8\xca\xf1R\xa5N\xd0?'
+p1464
+tp1465
+Rp1466
+tp1467
+a(S'list update problem'
+p1468
+g2
+(g6
+S'\x89\xca\x94\xd8\x94L\xd0?'
+p1469
+tp1470
+Rp1471
+tp1472
+a(S'average-case complexity'
+p1473
+g2
+(g6
+S'\xb3\x94\xef\xb7\x16I\xd0?'
+p1474
+tp1475
+Rp1476
+tp1477
+a(S'swarm intelligence'
+p1478
+g2
+(g6
+S'\x01\xfaF\x88bC\xd0?'
+p1479
+tp1480
+Rp1481
+tp1482
+a(S'dimitri bertsekas'
+p1483
+g2
+(g6
+S'\xd0\x1a\xc6J\xa8B\xd0?'
+p1484
+tp1485
+Rp1486
+tp1487
+a(S'ex situ conservation'
+p1488
+g2
+(g6
+S',\x99\xb2\xbf]B\xd0?'
+p1489
+tp1490
+Rp1491
+tp1492
+a(S'education in personalized medicine'
+p1493
+g2
+(g6
+S'\x07S8\xad\x0eB\xd0?'
+p1494
+tp1495
+Rp1496
+tp1497
+a(S'abraham b korol'
+p1498
+g2
+(g6
+S'\x06\x90\x1f/%=\xd0?'
+p1499
+tp1500
+Rp1501
+tp1502
+a(S'mating pool'
+p1503
+g2
+(g6
+S'\x15\xcdU\xa8O<\xd0?'
+p1504
+tp1505
+Rp1506
+tp1507
+a(S'antagonistic pleiotropy hypothesis'
+p1508
+g2
+(g6
+S'\xc7\xc6\x9a\x91B9\xd0?'
+p1509
+tp1510
+Rp1511
+tp1512
+a.

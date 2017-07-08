@@ -1,0 +1,2728 @@
+(lp0
+(S'open classroom'
+p1
+cnumpy.core.multiarray
+scalar
+p2
+(cnumpy
+dtype
+p3
+(S'f8'
+p4
+I0
+I1
+tp5
+Rp6
+(I3
+S'<'
+p7
+NNNI-1
+I-1
+I0
+tp8
+bS'\xfc\xff\xff\xff\xff\xff\xef?'
+p9
+tp10
+Rp11
+tp12
+a(S'open classroom charter school of salt lake city'
+p13
+g2
+(g6
+S']ZB>\x00\xbd\xdb?'
+p14
+tp15
+Rp16
+tp17
+a(S'classroom'
+p18
+g2
+(g6
+S'\xac\xfbR\x86;\xec\xda?'
+p19
+tp20
+Rp21
+tp22
+a(S'classroom management'
+p23
+g2
+(g6
+S'\xff\xa6\x91m\xea\xdd\xd9?'
+p24
+tp25
+Rp26
+tp27
+a(S'teacher'
+p28
+g2
+(g6
+S'\x8d\xb8?\xbf\xe3\xd0\xd8?'
+p29
+tp30
+Rp31
+tp32
+a(S'classroom climate'
+p33
+g2
+(g6
+S"gXb\x82\x7f'\xd8?"
+p34
+tp35
+Rp36
+tp37
+a(S'open house (school)'
+p38
+g2
+(g6
+S'\x10\x9b\xfa\x13\x7fS\xd7?'
+p39
+tp40
+Rp41
+tp42
+a(S'social media in education'
+p43
+g2
+(g6
+S'\x14\xce\x12\xd3\xb1\xf5\xd5?'
+p44
+tp45
+Rp46
+tp47
+a(S'classroom assessment techniques'
+p48
+g2
+(g6
+S'W\xc4\x98\x04\n\xbf\xd5?'
+p49
+tp50
+Rp51
+tp52
+a(S'open golf tournament'
+p53
+g2
+(g6
+S'\xc8S\xba,\x98\xbc\xd5?'
+p54
+tp55
+Rp56
+tp57
+a(S'the miquon school'
+p58
+g2
+(g6
+S'\xf6Q\xe9\x08\xc2i\xd5?'
+p59
+tp60
+Rp61
+tp62
+a(S'secondary education in japan'
+p63
+g2
+(g6
+S'\xc2\rS\xdf\x1df\xd5?'
+p64
+tp65
+Rp66
+tp67
+a(S'computers in the classroom'
+p68
+g2
+(g6
+S'\x1e\xa7\x97D5\x0e\xd5?'
+p69
+tp70
+Rp71
+tp72
+a(S'google classroom'
+p73
+g2
+(g6
+S'\xc0yR\x9d\xb2\x07\xd5?'
+p74
+tp75
+Rp76
+tp77
+a(S'elementary school (united states)'
+p78
+g2
+(g6
+S'"=&\xc3\x04\xf8\xd4?'
+p79
+tp80
+Rp81
+tp82
+a(S'english-language learner'
+p83
+g2
+(g6
+S'\xa87\x1a\xa1\x8a\xca\xd4?'
+p84
+tp85
+Rp86
+tp87
+a(S'list of social networking websites'
+p88
+g2
+(g6
+S'\xde\x18\x80\x90\xfc\x8b\xd4?'
+p89
+tp90
+Rp91
+tp92
+a(S'social justice educational leadership'
+p93
+g2
+(g6
+S'\xe0\xc1\x0e\x8f\x00\x8a\xd4?'
+p94
+tp95
+Rp96
+tp97
+a(S'positive education'
+p98
+g2
+(g6
+S'\xc25\xea\x11\x05\x83\xd4?'
+p99
+tp100
+Rp101
+tp102
+a(S'new education experiment'
+p103
+g2
+(g6
+S'\x97\xebl\\:W\xd4?'
+p104
+tp105
+Rp106
+tp107
+a(S'lakeville elementary school'
+p108
+g2
+(g6
+S'\xf1\x94x\xdb\xe5I\xd4?'
+p109
+tp110
+Rp111
+tp112
+a(S"list of teachers' days"
+p113
+g2
+(g6
+S'2\xff\xd9\xd3\xed\x14\xd4?'
+p114
+tp115
+Rp116
+tp117
+a(S'teaching as leadership'
+p118
+g2
+(g6
+S'\xdf B\xb9\xcd\x01\xd4?'
+p119
+tp120
+Rp121
+tp122
+a(S'list of virtual communities with more than 1 million users'
+p123
+g2
+(g6
+S"J\x08'\xf3c\xf8\xd3?"
+p124
+tp125
+Rp126
+tp127
+a(S'appoquinimink school district'
+p128
+g2
+(g6
+S'\xfd\xf5\x1a\xdb\x0e\xea\xd3?'
+p129
+tp130
+Rp131
+tp132
+a(S'adoptaclassroom.org'
+p133
+g2
+(g6
+S'T\xd9\x032F\xdd\xd3?'
+p134
+tp135
+Rp136
+tp137
+a(S'miamisburg high school'
+p138
+g2
+(g6
+S'/\x93\xdf\xff\xca\xdb\xd3?'
+p139
+tp140
+Rp141
+tp142
+a(S'technology integration'
+p143
+g2
+(g6
+S'\x9e\xb1\xd4\x07\x08\xd6\xd3?'
+p144
+tp145
+Rp146
+tp147
+a(S'flipped classroom'
+p148
+g2
+(g6
+S'\x95\n%\xad\xe1\xb1\xd3?'
+p149
+tp150
+Rp151
+tp152
+a(S'classdojo'
+p153
+g2
+(g6
+S'qo\x15\xd0\xfe\xa3\xd3?'
+p154
+tp155
+Rp156
+tp157
+a(S'school of one'
+p158
+g2
+(g6
+S'VS\x0f\xa7\xabs\xd3?'
+p159
+tp160
+Rp161
+tp162
+a(S'south high school (minneapolis)'
+p163
+g2
+(g6
+S'\xfc\xc7\xd4\xbamc\xd3?'
+p164
+tp165
+Rp166
+tp167
+a(S'cyberbaiting'
+p168
+g2
+(g6
+S'3\x16\xf0\xc1\xd4W\xd3?'
+p169
+tp170
+Rp171
+tp172
+a(S'teaching method'
+p173
+g2
+(g6
+S'\xf8\x07\x86[bL\xd3?'
+p174
+tp175
+Rp176
+tp177
+a(S'jiangxi university of technology high school'
+p178
+g2
+(g6
+S'\xde\xc9\xbe\x99\x89D\xd3?'
+p179
+tp180
+Rp181
+tp182
+a(S'teacher education'
+p183
+g2
+(g6
+S'\xfd\xda\x91b\xe4@\xd3?'
+p184
+tp185
+Rp186
+tp187
+a(S'open house'
+p188
+g2
+(g6
+S'\xae\x83|\xd0\x8b%\xd3?'
+p189
+tp190
+Rp191
+tp192
+a(S'co-teaching'
+p193
+g2
+(g6
+S'\xdb\x816\xb4g \xd3?'
+p194
+tp195
+Rp196
+tp197
+a(S'ungraded school'
+p198
+g2
+(g6
+S'\x7fe=z\x9f\x18\xd3?'
+p199
+tp200
+Rp201
+tp202
+a(S"nature's classroom"
+p203
+g2
+(g6
+S'3\x94\xb6c\x02\x07\xd3?'
+p204
+tp205
+Rp206
+tp207
+a(S'mary anne raywid'
+p208
+g2
+(g6
+S'\xb8\xffX\x11w\xea\xd2?'
+p209
+tp210
+Rp211
+tp212
+a(S'differentiated instruction'
+p213
+g2
+(g6
+S'\xe3\x07n\xfbl\xe1\xd2?'
+p214
+tp215
+Rp216
+tp217
+a(S'american solar challenge 2003'
+p218
+g2
+(g6
+S'T^\xdeb\x0e\xe1\xd2?'
+p219
+tp220
+Rp221
+tp222
+a(S'education in the united states'
+p223
+g2
+(g6
+S'F\x90\xed\x1dz\xd8\xd2?'
+p224
+tp225
+Rp226
+tp227
+a(S'reach the world'
+p228
+g2
+(g6
+S'\x8bw\xd2$\xdf\xd0\xd2?'
+p229
+tp230
+Rp231
+tp232
+a(S'teacher retention'
+p233
+g2
+(g6
+S'\xa5GY\x0c\xca\xc7\xd2?'
+p234
+tp235
+Rp236
+tp237
+a(S'traditional education'
+p238
+g2
+(g6
+S'\x1d+t\x99\x19\xc7\xd2?'
+p239
+tp240
+Rp241
+tp242
+a(S'open'
+p243
+g2
+(g6
+S'\x149\x83/\xa3\xc6\xd2?'
+p244
+tp245
+Rp246
+tp247
+a(S'open space'
+p248
+g2
+(g6
+S'\xbb\xcb|\xf2\xf4\xb6\xd2?'
+p249
+tp250
+Rp251
+tp252
+a(S'open-source learning'
+p253
+g2
+(g6
+S'\xd3\x0cb,G\x9b\xd2?'
+p254
+tp255
+Rp256
+tp257
+a(S'inclusion (education)'
+p258
+g2
+(g6
+S'\x89\xd3\x92\x05O\x83\xd2?'
+p259
+tp260
+Rp261
+tp262
+a(S'tracking (education)'
+p263
+g2
+(g6
+S'\xba\x93<\x00\xfc}\xd2?'
+p264
+tp265
+Rp266
+tp267
+a(S'assistant teacher'
+p268
+g2
+(g6
+S'\xf7\x06\x06\xb6pn\xd2?'
+p269
+tp270
+Rp271
+tp272
+a(S'multi-age classroom'
+p273
+g2
+(g6
+S'9\xee\xd0\xe9VM\xd2?'
+p274
+tp275
+Rp276
+tp277
+a(S'open educational practices'
+p278
+g2
+(g6
+S'\xfb\x9d\x8aA|F\xd2?'
+p279
+tp280
+Rp281
+tp282
+a(S'school'
+p283
+g2
+(g6
+S'\xd9\xfc\xde\xed>F\xd2?'
+p284
+tp285
+Rp286
+tp287
+a(S'st. liborius school'
+p288
+g2
+(g6
+S'\xddAO\xaa\xd8;\xd2?'
+p289
+tp290
+Rp291
+tp292
+a(S'reality pedagogy'
+p293
+g2
+(g6
+S'.\xc0\x0f\x11\xc6.\xd2?'
+p294
+tp295
+Rp296
+tp297
+a(S'learning space'
+p298
+g2
+(g6
+S']\xa0\x7f|\xd2\x1c\xd2?'
+p299
+tp300
+Rp301
+tp302
+a(S'pre-assessment'
+p303
+g2
+(g6
+S'\xe6\xd9v\xd9\x1c\x18\xd2?'
+p304
+tp305
+Rp306
+tp307
+a(S'100 classrooms program'
+p308
+g2
+(g6
+S'"u\xd0\xb0)\x12\xd2?'
+p309
+tp310
+Rp311
+tp312
+a(S'wang liqin'
+p313
+g2
+(g6
+S'i\x95\x91\n\xb0\x0f\xd2?'
+p314
+tp315
+Rp316
+tp317
+a(S'piedmont middle school'
+p318
+g2
+(g6
+S'\x0c \xe6\xec\x1e\x03\xd2?'
+p319
+tp320
+Rp321
+tp322
+a(S'value-added modeling'
+p323
+g2
+(g6
+S'hv=\xc6\xf4\xf5\xd1?'
+p324
+tp325
+Rp326
+tp327
+a(S'teaching english as a foreign language'
+p328
+g2
+(g6
+S'\xc3Z\xdfR\x1d\xe8\xd1?'
+p329
+tp330
+Rp331
+tp332
+a(S'wiscel'
+p333
+g2
+(g6
+S'W1\xfd#\xf3\xe4\xd1?'
+p334
+tp335
+Rp336
+tp337
+a(S'small schools movement'
+p338
+g2
+(g6
+S'-\xc32\t+\xd3\xd1?'
+p339
+tp340
+Rp341
+tp342
+a(S'history of education in the united states'
+p343
+g2
+(g6
+S'2h\xa1\xfa\xeb\xd2\xd1?'
+p344
+tp345
+Rp346
+tp347
+a(S'open design'
+p348
+g2
+(g6
+S'\xa5c\x89j8\xc5\xd1?'
+p349
+tp350
+Rp351
+tp352
+a(S'education reform'
+p353
+g2
+(g6
+S'8\x9c\xb3`\xbc\xba\xd1?'
+p354
+tp355
+Rp356
+tp357
+a(S'gallery walk'
+p358
+g2
+(g6
+S'\xb3KJP4\xba\xd1?'
+p359
+tp360
+Rp361
+tp362
+a(S'positive behavior interventions and supports'
+p363
+g2
+(g6
+S'1ix \x8a\xa6\xd1?'
+p364
+tp365
+Rp366
+tp367
+a(S'kambrya college'
+p368
+g2
+(g6
+S'4R\xca\xfd?\xa1\xd1?'
+p369
+tp370
+Rp371
+tp372
+a(S'list of school districts in sonoma county, california'
+p373
+g2
+(g6
+S'\x84\xf9\x98]\x9e\x9c\xd1?'
+p374
+tp375
+Rp376
+tp377
+a(S'u.s. open'
+p378
+g2
+(g6
+S'l\xef\xc4\xd2U\x8a\xd1?'
+p379
+tp380
+Rp381
+tp382
+a(S'open season'
+p383
+g2
+(g6
+S'\x0cAC\xc9~\x81\xd1?'
+p384
+tp385
+Rp386
+tp387
+a(S'donorschoose'
+p388
+g2
+(g6
+S'\x1d\x04\xd1\x15\x9az\xd1?'
+p389
+tp390
+Rp391
+tp392
+a(S'list of grand slam singles champions in open era with age of first title'
+p393
+g2
+(g6
+S'=`U\xbb\xa0y\xd1?'
+p394
+tp395
+Rp396
+tp397
+a(S'just-in-time teaching'
+p398
+g2
+(g6
+S"\xf3'\xaf\x05\x85p\xd1?"
+p399
+tp400
+Rp401
+tp402
+a(S'lisa delpit'
+p403
+g2
+(g6
+S'euS\xc7wj\xd1?'
+p404
+tp405
+Rp406
+tp407
+a(S'teacher award'
+p408
+g2
+(g6
+S'\x8e\x80\x02\xd4Ti\xd1?'
+p409
+tp410
+Rp411
+tp412
+a(S'educator effectiveness'
+p413
+g2
+(g6
+S'\x8c\xeb:\x84\xbeb\xd1?'
+p414
+tp415
+Rp416
+tp417
+a(S'school organizational models'
+p418
+g2
+(g6
+S'\x81\xe5g\x90\xd0M\xd1?'
+p419
+tp420
+Rp421
+tp422
+a(S"chronological list of women's grand slam tennis champions"
+p423
+g2
+(g6
+S'8\xe9az\xbcA\xd1?'
+p424
+tp425
+Rp426
+tp427
+a(S'stilklassen'
+p428
+g2
+(g6
+S'\xf4\x10\x0e0G8\xd1?'
+p429
+tp430
+Rp431
+tp432
+a(S'crayons to classrooms'
+p433
+g2
+(g6
+S'\x7f\x85\xd8\\37\xd1?'
+p434
+tp435
+Rp436
+tp437
+a(S'phaungdawoo monastic education high school'
+p438
+g2
+(g6
+S'hx\xb3\xcb\x0f)\xd1?'
+p439
+tp440
+Rp441
+tp442
+a(S'year-round school in the united states'
+p443
+g2
+(g6
+S'C\n\xe24\x06\x1f\xd1?'
+p444
+tp445
+Rp446
+tp447
+a(S'open up'
+p448
+g2
+(g6
+S'\xa3:\x8ew\xc6\x0e\xd1?'
+p449
+tp450
+Rp451
+tp452
+a(S'allen mendler'
+p453
+g2
+(g6
+S'\xe2)\xcf\x01\xa8\x01\xd1?'
+p454
+tp455
+Rp456
+tp457
+a(S'j.j. mcclain high school'
+p458
+g2
+(g6
+S'&\xba\xc3\xa6o\x00\xd1?'
+p459
+tp460
+Rp461
+tp462
+a(S'martin nystrand'
+p463
+g2
+(g6
+S'\xd7\xfd\x18h[\xf2\xd0?'
+p464
+tp465
+Rp466
+tp467
+a(S'open knowledge international'
+p468
+g2
+(g6
+S'\x98\xae\xea\x89+\xe3\xd0?'
+p469
+tp470
+Rp471
+tp472
+a(S'outline of open educational resources'
+p473
+g2
+(g6
+S'\xa8T\xec\xf1\x0c\xdf\xd0?'
+p474
+tp475
+Rp476
+tp477
+a(S"chronological list of men's grand slam tennis champions"
+p478
+g2
+(g6
+S'\x80\xf41>\x98\xdb\xd0?'
+p479
+tp480
+Rp481
+tp482
+a(S'educational inequality'
+p483
+g2
+(g6
+S'\x1d\x06J\x9b\x10\xd6\xd0?'
+p484
+tp485
+Rp486
+tp487
+a(S'european schoolnet'
+p488
+g2
+(g6
+S'\x06u\xc4x\xf3\xd5\xd0?'
+p489
+tp490
+Rp491
+tp492
+a(S'open window school'
+p493
+g2
+(g6
+S'\xee\xb3i9\xdf\xd4\xd0?'
+p494
+tp495
+Rp496
+tp497
+a(S'midpeninsula regional open space district'
+p498
+g2
+(g6
+S'\xe5\xe9&61\xc5\xd0?'
+p499
+tp500
+Rp501
+tp502
+a(S'maradhoo feydhoo school'
+p503
+g2
+(g6
+S'\xde\xa9\xf7\xcd\xa5\xa7\xd0?'
+p504
+tp505
+Rp506
+tp507
+a(S'shooting at the island games'
+p508
+g2
+(g6
+S'~\x9cqp\x87\xa7\xd0?'
+p509
+tp510
+Rp511
+tp512
+a(S'open-source model'
+p513
+g2
+(g6
+S'C\xed\xf3\x81\x0c\xa2\xd0?'
+p514
+tp515
+Rp516
+tp517
+a(S'robert j. marzano'
+p518
+g2
+(g6
+S'\x12-\x08\xe6|\x9e\xd0?'
+p519
+tp520
+Rp521
+tp522
+a(S'teacher leadership'
+p523
+g2
+(g6
+S'\x17\xc9\xac[=\x9e\xd0?'
+p524
+tp525
+Rp526
+tp527
+a(S'open educational resources'
+p528
+g2
+(g6
+S'G\xc8Y\xb9\xeb\x9d\xd0?'
+p529
+tp530
+Rp531
+tp532
+a(S'francis w. parker charter essential school'
+p533
+g2
+(g6
+S'\xf5/"p\xdb\x9a\xd0?'
+p534
+tp535
+Rp536
+tp537
+a(S'international school at dundee'
+p538
+g2
+(g6
+S'\xdf\xd2\xdcE{\x98\xd0?'
+p539
+tp540
+Rp541
+tp542
+a(S'jeanes foundation'
+p543
+g2
+(g6
+S'o\xbb\n\xd3\x86\x97\xd0?'
+p544
+tp545
+Rp546
+tp547
+a(S'classroom walkthrough'
+p548
+g2
+(g6
+S')\x80\xf2Y7\x8b\xd0?'
+p549
+tp550
+Rp551
+tp552
+a(S'kwl table'
+p553
+g2
+(g6
+S'\xf8\x94\xcfP\xe2\x86\xd0?'
+p554
+tp555
+Rp556
+tp557
+a(S'special education'
+p558
+g2
+(g6
+S'BT\xbe@V}\xd0?'
+p559
+tp560
+Rp561
+tp562
+a(S'education in thailand'
+p563
+g2
+(g6
+S'W\xbe~\x18Nq\xd0?'
+p564
+tp565
+Rp566
+tp567
+a(S'no child left behind act'
+p568
+g2
+(g6
+S'\xd19\x06b-n\xd0?'
+p569
+tp570
+Rp571
+tp572
+a(S'flat classroom project'
+p573
+g2
+(g6
+S'O\r\xe6\xaa\x1ai\xd0?'
+p574
+tp575
+Rp576
+tp577
+a(S"st edward's roman catholic/church of england school"
+p578
+g2
+(g6
+S'Bq\xac\x11\x07Y\xd0?'
+p579
+tp580
+Rp581
+tp582
+a(S'online communication between school and home'
+p583
+g2
+(g6
+S'\x05\xb5G\x95\xa1W\xd0?'
+p584
+tp585
+Rp586
+tp587
+a(S'national award for teachers (india)'
+p588
+g2
+(g6
+S'\xeb\xee\x85\x1e\x89T\xd0?'
+p589
+tp590
+Rp591
+tp592
+a(S'pain model of behaviour management'
+p593
+g2
+(g6
+S'\x9b\xf5\x1a\x0b\x06T\xd0?'
+p594
+tp595
+Rp596
+tp597
+a(S'howard school (atlanta)'
+p598
+g2
+(g6
+S'\xcc\xba\x82\xaf\x82S\xd0?'
+p599
+tp600
+Rp601
+tp602
+a(S'english in action'
+p603
+g2
+(g6
+S'T$!\xbf@M\xd0?'
+p604
+tp605
+Rp606
+tp607
+a(S'charles cogen'
+p608
+g2
+(g6
+S'\xdcQ\xb1O\xd6H\xd0?'
+p609
+tp610
+Rp611
+tp612
+a(S'culturally relevant teaching'
+p613
+g2
+(g6
+S'\x90|\xda\x87\x82G\xd0?'
+p614
+tp615
+Rp616
+tp617
+a(S'city school (vancouver)'
+p618
+g2
+(g6
+S'\x16\xc2\xb3\xb6\xf8E\xd0?'
+p619
+tp620
+Rp621
+tp622
+a(S'individual education'
+p623
+g2
+(g6
+S'\x0b\x10\xad\xbc\xb6E\xd0?'
+p624
+tp625
+Rp626
+tp627
+a(S'pinelands regional high school'
+p628
+g2
+(g6
+S'{\x8e\xa8Zo@\xd0?'
+p629
+tp630
+Rp631
+tp632
+a(S'johann-wolfgang-von-goethe-gymnasium'
+p633
+g2
+(g6
+S'\xf3\xa1\r\xf15=\xd0?'
+p634
+tp635
+Rp636
+tp637
+a(S'open space reserve'
+p638
+g2
+(g6
+S'\xcd\xebXeX7\xd0?'
+p639
+tp640
+Rp641
+tp642
+a(S'pinelands regional school district'
+p643
+g2
+(g6
+S'\xdbw/?\x86/\xd0?'
+p644
+tp645
+Rp646
+tp647
+a(S'quicksmart'
+p648
+g2
+(g6
+S'\xa2}\xf8(\xdf+\xd0?'
+p649
+tp650
+Rp651
+tp652
+a(S'educational technology'
+p653
+g2
+(g6
+S'uJ\x1d\xac\xb9)\xd0?'
+p654
+tp655
+Rp656
+tp657
+a(S'academia brit\xc3\xa1nica cuscatleca'
+p658
+g2
+(g6
+S'\xb1;\x1c\xf53)\xd0?'
+p659
+tp660
+Rp661
+tp662
+a(S'opportunity school'
+p663
+g2
+(g6
+S'\x06\x9b\x85c\xa1\x1f\xd0?'
+p664
+tp665
+Rp666
+tp667
+a(S'school of the epiphany'
+p668
+g2
+(g6
+S'\xed\xe0\x9c\x0c\x1d\x19\xd0?'
+p669
+tp670
+Rp671
+tp672
+a(S'new york state teachers association'
+p673
+g2
+(g6
+S'q\x92\xcbH\xbe\x15\xd0?'
+p674
+tp675
+Rp676
+tp677
+a(S'advanced skills teacher'
+p678
+g2
+(g6
+S'\xf4\xb5\xc7\xeb\x0b\x15\xd0?'
+p679
+tp680
+Rp681
+tp682
+a(S'rotation model of learning'
+p683
+g2
+(g6
+S'_\xb9\x05\xd1\x1c\x11\xd0?'
+p684
+tp685
+Rp686
+tp687
+a(S'guitars in the classroom'
+p688
+g2
+(g6
+S'DC\xc2\xa6\x18\x08\xd0?'
+p689
+tp690
+Rp691
+tp692
+a(S'open business'
+p693
+g2
+(g6
+S'6\xdf\x9a\xb6\x01\x07\xd0?'
+p694
+tp695
+Rp696
+tp697
+a(S'urban open space'
+p698
+g2
+(g6
+S'\x94\xd0/Y\x15\x04\xd0?'
+p699
+tp700
+Rp701
+tp702
+a(S'union county vocational technical schools'
+p703
+g2
+(g6
+S'\x81\x08u\x19\xd5\x02\xd0?'
+p704
+tp705
+Rp706
+tp707
+a(S'leonardo da vinci high school'
+p708
+g2
+(g6
+S'\xc7\xabplK\x00\xd0?'
+p709
+tp710
+Rp711
+tp712
+a(S'asheboro city schools'
+p713
+g2
+(g6
+S'~9\xf4\xc9\x8f\xfb\xcf?'
+p714
+tp715
+Rp716
+tp717
+a(S'developmentally appropriate practice'
+p718
+g2
+(g6
+S'<\x18\xe2\xd3\xd1\xfa\xcf?'
+p719
+tp720
+Rp721
+tp722
+a(S'mount zion christian schools (manchester, new hampshire)'
+p723
+g2
+(g6
+S'\xeb\x90\x07&%\xfa\xcf?'
+p724
+tp725
+Rp726
+tp727
+a(S'phaung daw oo monastic school'
+p728
+g2
+(g6
+S'^\xd8\xa5\xcf\xc1\xf0\xcf?'
+p729
+tp730
+Rp731
+tp732
+a(S'opelika city schools'
+p733
+g2
+(g6
+S'\x89\x0b\xfd\x84\xb4\xe7\xcf?'
+p734
+tp735
+Rp736
+tp737
+a(S'education in ethiopia'
+p738
+g2
+(g6
+S'(\xfd\x83o(\xe2\xcf?'
+p739
+tp740
+Rp741
+tp742
+a(S'montvale public schools'
+p743
+g2
+(g6
+S'\xfd\xa2\xb0\xda\xcc\xdf\xcf?'
+p744
+tp745
+Rp746
+tp747
+a(S'gamification of learning'
+p748
+g2
+(g6
+S'\xba\xe7\xc1\xe3~\xdb\xcf?'
+p749
+tp750
+Rp751
+tp752
+a(S'microsociety'
+p753
+g2
+(g6
+S'\xe0cH\xbf\xf4\xd4\xcf?'
+p754
+tp755
+Rp756
+tp757
+a(S'distance education'
+p758
+g2
+(g6
+S'u/r\t\xfa\xbc\xcf?'
+p759
+tp760
+Rp761
+tp762
+a(S'open high school sydney'
+p763
+g2
+(g6
+S'\xecu84\xa9\xb9\xcf?'
+p764
+tp765
+Rp766
+tp767
+a(S'open university of israel'
+p768
+g2
+(g6
+S'\x1b\x9b\xbd\x9a\x1d\xa9\xcf?'
+p769
+tp770
+Rp771
+tp772
+a(S'silent way'
+p773
+g2
+(g6
+S'\xb6\x11\x08\x96=\xa8\xcf?'
+p774
+tp775
+Rp776
+tp777
+a(S'hard rock cafe'
+p778
+g2
+(g6
+S't\xd3\xbd/\xb1\xa1\xcf?'
+p779
+tp780
+Rp781
+tp782
+a(S'jigsaw (teaching technique)'
+p783
+g2
+(g6
+S'*\x88\x0b\xb5]\xa0\xcf?'
+p784
+tp785
+Rp786
+tp787
+a(S'models of teaching social science'
+p788
+g2
+(g6
+S'\xeb\\\xcc\xc07\x9d\xcf?'
+p789
+tp790
+Rp791
+tp792
+a(S'teach for america'
+p793
+g2
+(g6
+S'\x1cQ\xd9\xe1\xd4\x96\xcf?'
+p794
+tp795
+Rp796
+tp797
+a(S'uwrf teaching program'
+p798
+g2
+(g6
+S'\x1dH\xad\x9c\x8e\x8f\xcf?'
+p799
+tp800
+Rp801
+tp802
+a(S'teachers college, columbia university'
+p803
+g2
+(g6
+S'\xa9\xe4\x97\t\xcf\x81\xcf?'
+p804
+tp805
+Rp806
+tp807
+a(S'structural inequality in education'
+p808
+g2
+(g6
+S'3\xeb(q\x94y\xcf?'
+p809
+tp810
+Rp811
+tp812
+a(S'woodcliff lake public schools'
+p813
+g2
+(g6
+S'\x8bx\xe1\xbb\xa8x\xcf?'
+p814
+tp815
+Rp816
+tp817
+a(S'expanded learning time'
+p818
+g2
+(g6
+S'=\xbal\xdc,w\xcf?'
+p819
+tp820
+Rp821
+tp822
+a(S'certified teacher'
+p823
+g2
+(g6
+S'\xabvgM\x1fo\xcf?'
+p824
+tp825
+Rp826
+tp827
+a(S'gradual release of responsibility'
+p828
+g2
+(g6
+S'\xdbS\xa4\xe4\xeel\xcf?'
+p829
+tp830
+Rp831
+tp832
+a(S'educational essentialism'
+p833
+g2
+(g6
+S'x\x1c\xf4<\xc4g\xcf?'
+p834
+tp835
+Rp836
+tp837
+a(S'education quality and accountability office'
+p838
+g2
+(g6
+S'3 H4\xf8\\\xcf?'
+p839
+tp840
+Rp841
+tp842
+a(S'secondary education in new zealand'
+p843
+g2
+(g6
+S'\x06O\xa2\n\xf8Y\xcf?'
+p844
+tp845
+Rp846
+tp847
+a(S'liu shiwen'
+p848
+g2
+(g6
+S'\x03\\\xfd\n\xe7U\xcf?'
+p849
+tp850
+Rp851
+tp852
+a(S'sekolah global indo-asia'
+p853
+g2
+(g6
+S'\xef\x18\xc3\x11nT\xcf?'
+p854
+tp855
+Rp856
+tp857
+a(S'canadian international school of hong kong'
+p858
+g2
+(g6
+S'\xd1u\x9b\xa1LB\xcf?'
+p859
+tp860
+Rp861
+tp862
+a(S'east prairie school district 73'
+p863
+g2
+(g6
+S'\xef\x12\x87[4B\xcf?'
+p864
+tp865
+Rp866
+tp867
+a(S'empowering effective teachers'
+p868
+g2
+(g6
+S"\t't\xfa\xbaA\xcf?"
+p869
+tp870
+Rp871
+tp872
+a(S'william g. enloe high school'
+p873
+g2
+(g6
+S'zE\xa4\xd2\xb66\xcf?'
+p874
+tp875
+Rp876
+tp877
+a(S'shepherd public school district'
+p878
+g2
+(g6
+S'm?\x9a\x1b\xbe\x1c\xcf?'
+p879
+tp880
+Rp881
+tp882
+a(S'british romanian educational exchange'
+p883
+g2
+(g6
+S',\xe3Y\x8f"\x1c\xcf?'
+p884
+tp885
+Rp886
+tp887
+a(S'international student'
+p888
+g2
+(g6
+S'Gm\x11C\x0b\x1b\xcf?'
+p889
+tp890
+Rp891
+tp892
+a(S'auguste boyer'
+p893
+g2
+(g6
+S'\x89\xbcgB\xba\x19\xcf?'
+p894
+tp895
+Rp896
+tp897
+a(S'linwood public schools'
+p898
+g2
+(g6
+S'~\xa4\x98\xaa\xff\x17\xcf?'
+p899
+tp900
+Rp901
+tp902
+a(S'edline'
+p903
+g2
+(g6
+S'\x1dh<\xb5\x0f\x0f\xcf?'
+p904
+tp905
+Rp906
+tp907
+a(S'peer assessment'
+p908
+g2
+(g6
+S'2\xee\xc2\xf1}\x0c\xcf?'
+p909
+tp910
+Rp911
+tp912
+a(S'mainstreaming (education)'
+p913
+g2
+(g6
+S'\x13lbJl\n\xcf?'
+p914
+tp915
+Rp916
+tp917
+a(S'morris county school of technology'
+p918
+g2
+(g6
+S'\x0bV\x88w\xb1\t\xcf?'
+p919
+tp920
+Rp921
+tp922
+a(S'tpr storytelling'
+p923
+g2
+(g6
+S'\xce\x16Z=C\t\xcf?'
+p924
+tp925
+Rp926
+tp927
+a(S'open university (disambiguation)'
+p928
+g2
+(g6
+S'PV\x00\xe0\x9a\xf8\xce?'
+p929
+tp930
+Rp931
+tp932
+a(S'new international school (tokyo)'
+p933
+g2
+(g6
+S'h\xe6\x9cc\xb4\xef\xce?'
+p934
+tp935
+Rp936
+tp937
+a(S'assertive discipline'
+p938
+g2
+(g6
+S'xx\xdf$\x12\xef\xce?'
+p939
+tp940
+Rp941
+tp942
+a(S'sci academy'
+p943
+g2
+(g6
+S'1\xab\xb7\x80\xc3\xee\xce?'
+p944
+tp945
+Rp946
+tp947
+a(S'wanaque borough schools'
+p948
+g2
+(g6
+S'\xcah"9e\xed\xce?'
+p949
+tp950
+Rp951
+tp952
+a(S'teachers (disambiguation)'
+p953
+g2
+(g6
+S"f\x11'\x1c\x07\xe9\xce?"
+p954
+tp955
+Rp956
+tp957
+a(S'secondary education in the united states'
+p958
+g2
+(g6
+S'S\xca\xbe\xed\x91\xe8\xce?'
+p959
+tp960
+Rp961
+tp962
+a(S'open air school'
+p963
+g2
+(g6
+S'G&\xac\xb3\x87\xe5\xce?'
+p964
+tp965
+Rp966
+tp967
+a(S'village school (great neck, new york)'
+p968
+g2
+(g6
+S'\x81y|\xff:\xde\xce?'
+p969
+tp970
+Rp971
+tp972
+a(S'rafe esquith'
+p973
+g2
+(g6
+S'\xea\n&\x16\x9a\xdb\xce?'
+p974
+tp975
+Rp976
+tp977
+a(S'teachers tv'
+p978
+g2
+(g6
+S'\\\x89\xa2\x0c\x8e\xd5\xce?'
+p979
+tp980
+Rp981
+tp982
+a(S'project-based learning'
+p983
+g2
+(g6
+S'\xa1`Q\xae\xbd\xd0\xce?'
+p984
+tp985
+Rp986
+tp987
+a(S'american international school of rotterdam'
+p988
+g2
+(g6
+S"\xd8'\xd9\xb4\xaa\xcb\xce?"
+p989
+tp990
+Rp991
+tp992
+a(S'zurich international school'
+p993
+g2
+(g6
+S'\x11\x93\xf0\x850\xc3\xce?'
+p994
+tp995
+Rp996
+tp997
+a(S'middle college high school at laguardia community college'
+p998
+g2
+(g6
+S'\xfe\x1a\xe4\xe8?\xc0\xce?'
+p999
+tp1000
+Rp1001
+tp1002
+a(S'bunnaloo public school'
+p1003
+g2
+(g6
+S',\x03u\xef\xdf\xbf\xce?'
+p1004
+tp1005
+Rp1006
+tp1007
+a(S'hillsdale public schools'
+p1008
+g2
+(g6
+S'\nc;\xe0\xe5\xab\xce?'
+p1009
+tp1010
+Rp1011
+tp1012
+a(S'school without walls (washington, d.c.)'
+p1013
+g2
+(g6
+S'\xec\x83a\xb8\x88\xab\xce?'
+p1014
+tp1015
+Rp1016
+tp1017
+a(S'middle township public schools'
+p1018
+g2
+(g6
+S'\xe3\x94\xa5A\xb6\xa6\xce?'
+p1019
+tp1020
+Rp1021
+tp1022
+a(S'watchung borough schools'
+p1023
+g2
+(g6
+S"\x13\xab'\x8b\x01\xa4\xce?"
+p1024
+tp1025
+Rp1026
+tp1027
+a(S'newport news public schools'
+p1028
+g2
+(g6
+S'=\x03\xd7\x19\xec\xa1\xce?'
+p1029
+tp1030
+Rp1031
+tp1032
+a(S'media-providence friends school'
+p1033
+g2
+(g6
+S'r%T\xb7\xa4\xa0\xce?'
+p1034
+tp1035
+Rp1036
+tp1037
+a(S'fuyang teachers college'
+p1038
+g2
+(g6
+S"D\x90\xae\xe3'\x9a\xce?"
+p1039
+tp1040
+Rp1041
+tp1042
+a(S'colo high school'
+p1043
+g2
+(g6
+S'\x9b\x84{\x92\xb9\x96\xce?'
+p1044
+tp1045
+Rp1046
+tp1047
+a(S'baipu middle school'
+p1048
+g2
+(g6
+S'L\xe9\xf2NY\x8e\xce?'
+p1049
+tp1050
+Rp1051
+tp1052
+a(S'open research'
+p1053
+g2
+(g6
+S'\x9f\x1d\x02h\xe0\x88\xce?'
+p1054
+tp1055
+Rp1056
+tp1057
+a(S'ann arbor learning community'
+p1058
+g2
+(g6
+S'\xe8\xf4\xe97\\\x88\xce?'
+p1059
+tp1060
+Rp1061
+tp1062
+a(S'hsieh yung-yo'
+p1063
+g2
+(g6
+S'\x9d\x9f%\x98\xe4\x87\xce?'
+p1064
+tp1065
+Rp1066
+tp1067
+a(S'multi-subject instructional period'
+p1068
+g2
+(g6
+S'-\x1f\x98\x84\x94\x83\xce?'
+p1069
+tp1070
+Rp1071
+tp1072
+a(S'land border crossings of turkey'
+p1073
+g2
+(g6
+S'^\xcb\x19@\xfdu\xce?'
+p1074
+tp1075
+Rp1076
+tp1077
+a(S'authentic learning'
+p1078
+g2
+(g6
+S'\xe7\xaf\x1f02s\xce?'
+p1079
+tp1080
+Rp1081
+tp1082
+a(S"manitoba teachers' society"
+p1083
+g2
+(g6
+S'\xdf\xfa#\xa2\x1fs\xce?'
+p1084
+tp1085
+Rp1086
+tp1087
+a(S'edublog'
+p1088
+g2
+(g6
+S'\x02\xae\xa07\rs\xce?'
+p1089
+tp1090
+Rp1091
+tp1092
+a(S'success academy charter schools'
+p1093
+g2
+(g6
+S'\xad\xda)\xa5 R\xce?'
+p1094
+tp1095
+Rp1096
+tp1097
+a(S'manalapan-englishtown regional school district'
+p1098
+g2
+(g6
+S'\xffZ\xe4-\xd6K\xce?'
+p1099
+tp1100
+Rp1101
+tp1102
+a(S'taieri college'
+p1103
+g2
+(g6
+S'8\xb97otH\xce?'
+p1104
+tp1105
+Rp1106
+tp1107
+a(S'buckley park college'
+p1108
+g2
+(g6
+S'\xc5Z\xdb\x873B\xce?'
+p1109
+tp1110
+Rp1111
+tp1112
+a(S'open city (disambiguation)'
+p1113
+g2
+(g6
+S'\x0f,\x8b\x17\xbbA\xce?'
+p1114
+tp1115
+Rp1116
+tp1117
+a(S'doors open days'
+p1118
+g2
+(g6
+S'\xa6\xa0\x9f\x9er?\xce?'
+p1119
+tp1120
+Rp1121
+tp1122
+a(S'grange p-12 college'
+p1123
+g2
+(g6
+S'\xf3\x87\xa7`\xbd>\xce?'
+p1124
+tp1125
+Rp1126
+tp1127
+a(S"world teachers' day"
+p1128
+g2
+(g6
+S'Y\x81Uo\xa89\xce?'
+p1129
+tp1130
+Rp1131
+tp1132
+a(S'alternative school'
+p1133
+g2
+(g6
+S'\xf5G=\xf7\x8e0\xce?'
+p1134
+tp1135
+Rp1136
+tp1137
+a(S'education in china'
+p1138
+g2
+(g6
+S'A\xa2\xe1~\xad\x1d\xce?'
+p1139
+tp1140
+Rp1141
+tp1142
+a(S'charlotte country day school'
+p1143
+g2
+(g6
+S'\x95\x974?\xa9\x1c\xce?'
+p1144
+tp1145
+Rp1146
+tp1147
+a(S'clintondale high school'
+p1148
+g2
+(g6
+S'\xd6\xfe\xb0XJ\x16\xce?'
+p1149
+tp1150
+Rp1151
+tp1152
+a(S'education in south korea'
+p1153
+g2
+(g6
+S'\xa4>\xe3\x13\xf9\x12\xce?'
+p1154
+tp1155
+Rp1156
+tp1157
+a(S'shuizhai high school'
+p1158
+g2
+(g6
+S'\xa8\x00\x0c~F\x12\xce?'
+p1159
+tp1160
+Rp1161
+tp1162
+a(S'chicago teachers union'
+p1163
+g2
+(g6
+S'\xed\xe5\xd8G\xcc\t\xce?'
+p1164
+tp1165
+Rp1166
+tp1167
+a(S"canadian teachers' federation"
+p1168
+g2
+(g6
+S'\xb8\x02<\xaf\xaa\x06\xce?'
+p1169
+tp1170
+Rp1171
+tp1172
+a(S'udayachal high school'
+p1173
+g2
+(g6
+S'v\xceS\xb9\x0c\x03\xce?'
+p1174
+tp1175
+Rp1176
+tp1177
+a(S'senior open'
+p1178
+g2
+(g6
+S'\xc2s\x1f\xd7\x0f\x00\xce?'
+p1179
+tp1180
+Rp1181
+tp1182
+a(S'ehs institute'
+p1183
+g2
+(g6
+S'\x83\xa5\x14\xf1\xd4\xff\xcd?'
+p1184
+tp1185
+Rp1186
+tp1187
+a(S'luwero secondary school'
+p1188
+g2
+(g6
+S'\xdc\xec\xd6}\x17\xf3\xcd?'
+p1189
+tp1190
+Rp1191
+tp1192
+a(S'west long branch public schools'
+p1193
+g2
+(g6
+S'.\xd7\x83\xb2\x00\xf3\xcd?'
+p1194
+tp1195
+Rp1196
+tp1197
+a(S'open education'
+p1198
+g2
+(g6
+S'8\x84\x8e+\xbd\xf1\xcd?'
+p1199
+tp1200
+Rp1201
+tp1202
+a(S'open house london'
+p1203
+g2
+(g6
+S'h\xce\xd0h]\xec\xcd?'
+p1204
+tp1205
+Rp1206
+tp1207
+a(S'state school'
+p1208
+g2
+(g6
+S'\xef\xeb#\xea\xb1\xea\xcd?'
+p1209
+tp1210
+Rp1211
+tp1212
+a(S'instructional rounds'
+p1213
+g2
+(g6
+S'\x80\x1di\xe93\xe9\xcd?'
+p1214
+tp1215
+Rp1216
+tp1217
+a(S'ixl learning'
+p1218
+g2
+(g6
+S'\xe6W\xee\xef\x19\xe4\xcd?'
+p1219
+tp1220
+Rp1221
+tp1222
+a(S'denver online high school'
+p1223
+g2
+(g6
+S'\xf7\xda\xe8\xd0\xbd\xdf\xcd?'
+p1224
+tp1225
+Rp1226
+tp1227
+a(S'sabah tshung tsin secondary school'
+p1228
+g2
+(g6
+S')\xfa[\x8d\xb8\xdf\xcd?'
+p1229
+tp1230
+Rp1231
+tp1232
+a(S'factory model school'
+p1233
+g2
+(g6
+S'i\x9f\x89+{\xdd\xcd?'
+p1234
+tp1235
+Rp1236
+tp1237
+a(S'open space (publications)'
+p1238
+g2
+(g6
+S'\x90\xd8\x98m\x19\xdd\xcd?'
+p1239
+tp1240
+Rp1241
+tp1242
+a(S'mayatan bilingual school'
+p1243
+g2
+(g6
+S'vO\xa9\x9c<\xd7\xcd?'
+p1244
+tp1245
+Rp1246
+tp1247
+a(S'shael polakow-suransky'
+p1248
+g2
+(g6
+S')\xb3\xd6\xff\x86\xd6\xcd?'
+p1249
+tp1250
+Rp1251
+tp1252
+a(S'wayzata public schools'
+p1253
+g2
+(g6
+S'\xd9\xc6G\x17:\xd6\xcd?'
+p1254
+tp1255
+Rp1256
+tp1257
+a(S'pop culture classroom'
+p1258
+g2
+(g6
+S'\x84w\x19e\xc9\xcb\xcd?'
+p1259
+tp1260
+Rp1261
+tp1262
+a(S'the second high school attached to beijing normal university'
+p1263
+g2
+(g6
+S'a%\xbc*\x19\xc9\xcd?'
+p1264
+tp1265
+Rp1266
+tp1267
+a(S'homeroom'
+p1268
+g2
+(g6
+S'\x95/J\xa2\x9b\xc8\xcd?'
+p1269
+tp1270
+Rp1271
+tp1272
+a(S'cecil hills high school'
+p1273
+g2
+(g6
+S'f\xb6\xdb\x1f\x1a\xbf\xcd?'
+p1274
+tp1275
+Rp1276
+tp1277
+a(S'fendalton open air school'
+p1278
+g2
+(g6
+S'\xa4\xde\xc7A\xa2\xbd\xcd?'
+p1279
+tp1280
+Rp1281
+tp1282
+a(S'international school of cura\xc3\xa7ao'
+p1283
+g2
+(g6
+S'\xd8\x13(\xa9\xd7\xb6\xcd?'
+p1284
+tp1285
+Rp1286
+tp1287
+a(S'teachers (uk tv series)'
+p1288
+g2
+(g6
+S'\xcd\x99V\x13\x94\xb5\xcd?'
+p1289
+tp1290
+Rp1291
+tp1292
+a(S'smk matunggong, kudat'
+p1293
+g2
+(g6
+S'p\xc8\x92M\xdf\xa5\xcd?'
+p1294
+tp1295
+Rp1296
+tp1297
+a(S'webquest'
+p1298
+g2
+(g6
+S'_{Q:\x99\x98\xcd?'
+p1299
+tp1300
+Rp1301
+tp1302
+a(S'taecanet'
+p1303
+g2
+(g6
+S'\xfd\xc76l\xd4\x92\xcd?'
+p1304
+tp1305
+Rp1306
+tp1307
+a(S"new york city teachers' strike of 1968"
+p1308
+g2
+(g6
+S'\x93\xdc\x8b\xcd\x0b\x8e\xcd?'
+p1309
+tp1310
+Rp1311
+tp1312
+a(S'totowa borough public schools'
+p1313
+g2
+(g6
+S' \xa8\xd0v\xf8\x8a\xcd?'
+p1314
+tp1315
+Rp1316
+tp1317
+a(S'music education'
+p1318
+g2
+(g6
+S'\xfa\x1e\xd2\xc25\x8a\xcd?'
+p1319
+tp1320
+Rp1321
+tp1322
+a(S'kiangsu-chekiang college (shatin)'
+p1323
+g2
+(g6
+S'\xf6\x19x\x92&\x8a\xcd?'
+p1324
+tp1325
+Rp1326
+tp1327
+a(S'public open space'
+p1328
+g2
+(g6
+S'\xce\xb5$\x87\x18\x82\xcd?'
+p1329
+tp1330
+Rp1331
+tp1332
+a(S'adelaide secondary school of english'
+p1333
+g2
+(g6
+S')V\xb0&\x98|\xcd?'
+p1334
+tp1335
+Rp1336
+tp1337
+a(S'wellington secondary college'
+p1338
+g2
+(g6
+S'\x13\x01\x82\xf0\x9by\xcd?'
+p1339
+tp1340
+Rp1341
+tp1342
+a(S'teacher quality assessment'
+p1343
+g2
+(g6
+S'\x1f]\xd9\x01\xeex\xcd?'
+p1344
+tp1345
+Rp1346
+tp1347
+a(S'ittf world tour'
+p1348
+g2
+(g6
+S'\x8b\xe6\xf3-\x85o\xcd?'
+p1349
+tp1350
+Rp1351
+tp1352
+a(S'aaron sams'
+p1353
+g2
+(g6
+S';\x1e\x07&xh\xcd?'
+p1354
+tp1355
+Rp1356
+tp1357
+a(S'it@school project'
+p1358
+g2
+(g6
+S't\xffn\xa0\xf0d\xcd?'
+p1359
+tp1360
+Rp1361
+tp1362
+a(S'ann arbor open school'
+p1363
+g2
+(g6
+S'}\x88\x0ct\x90c\xcd?'
+p1364
+tp1365
+Rp1366
+tp1367
+a(S'oscar mogollon'
+p1368
+g2
+(g6
+S't\xad\x0fZ\xc9^\xcd?'
+p1369
+tp1370
+Rp1371
+tp1372
+a(S'william monroe high school'
+p1373
+g2
+(g6
+S'5N\xea\xfc\x00]\xcd?'
+p1374
+tp1375
+Rp1376
+tp1377
+a(S'bristol-plymouth regional technical school'
+p1378
+g2
+(g6
+S'W\x9a\xee\xd8\xd3[\xcd?'
+p1379
+tp1380
+Rp1381
+tp1382
+a(S'history of education in missouri'
+p1383
+g2
+(g6
+S'\xcc\xb5\xb4\xd7\x9aY\xcd?'
+p1384
+tp1385
+Rp1386
+tp1387
+a(S'school for creative and performing arts'
+p1388
+g2
+(g6
+S'\x95\x8cZ\x00\xeaW\xcd?'
+p1389
+tp1390
+Rp1391
+tp1392
+a(S'south island school'
+p1393
+g2
+(g6
+S'y\x8c\xc9\xeeNT\xcd?'
+p1394
+tp1395
+Rp1396
+tp1397
+a(S'albany free school'
+p1398
+g2
+(g6
+S'\xca\xc1.\xbf\xf5S\xcd?'
+p1399
+tp1400
+Rp1401
+tp1402
+a(S'open class'
+p1403
+g2
+(g6
+S'\xde8$\x85\x11S\xcd?'
+p1404
+tp1405
+Rp1406
+tp1407
+a(S'runnemede public school district'
+p1408
+g2
+(g6
+S'\x8bE`\xc4*Q\xcd?'
+p1409
+tp1410
+Rp1411
+tp1412
+a(S'rumson school district'
+p1413
+g2
+(g6
+S'\xb0R\xd5\x8f\xe0M\xcd?'
+p1414
+tp1415
+Rp1416
+tp1417
+a(S'adana gundogdu schools'
+p1418
+g2
+(g6
+S'\xd5\xebF\xdcNL\xcd?'
+p1419
+tp1420
+Rp1421
+tp1422
+a(S'open book'
+p1423
+g2
+(g6
+S'\r\xe5\xc6\xdb\x07L\xcd?'
+p1424
+tp1425
+Rp1426
+tp1427
+a(S'academy of information technology and engineering'
+p1428
+g2
+(g6
+S'po\x99\xbd\x8bJ\xcd?'
+p1429
+tp1430
+Rp1431
+tp1432
+a(S'openness'
+p1433
+g2
+(g6
+S'\x8d@\x16\x19\xf6G\xcd?'
+p1434
+tp1435
+Rp1436
+tp1437
+a(S'mountain youth school'
+p1438
+g2
+(g6
+S'\xadp\x96Q\xa4>\xcd?'
+p1439
+tp1440
+Rp1441
+tp1442
+a(S'school district of webb city r-7'
+p1443
+g2
+(g6
+S'\xe0\xb3\xe9\xb3\x81=\xcd?'
+p1444
+tp1445
+Rp1446
+tp1447
+a(S'racial achievement gap in the united states'
+p1448
+g2
+(g6
+S'\xeak@e\xee9\xcd?'
+p1449
+tp1450
+Rp1451
+tp1452
+a(S'avery coonley school'
+p1453
+g2
+(g6
+S'\xcc\xdb\xe2\xbb\xca7\xcd?'
+p1454
+tp1455
+Rp1456
+tp1457
+a(S'connecticut mastery test'
+p1458
+g2
+(g6
+S'\xdd\xe8\xf1f\t7\xcd?'
+p1459
+tp1460
+Rp1461
+tp1462
+a(S'manhattan village academy'
+p1463
+g2
+(g6
+S'\x8f\xfe\xa2l\xac2\xcd?'
+p1464
+tp1465
+Rp1466
+tp1467
+a(S'eatontown public schools'
+p1468
+g2
+(g6
+S'\xca\xf3\xb9\x85\x91-\xcd?'
+p1469
+tp1470
+Rp1471
+tp1472
+a(S"south carolina governor's school for science and mathematics"
+p1473
+g2
+(g6
+S'#\xfd\n8a+\xcd?'
+p1474
+tp1475
+Rp1476
+tp1477
+a(S'open windows foundation'
+p1478
+g2
+(g6
+S"\xc9'4\xb8\xf3*\xcd?"
+p1479
+tp1480
+Rp1481
+tp1482
+a(S'advanced technologies academy'
+p1483
+g2
+(g6
+S'|\xf0\xf8]\x16*\xcd?'
+p1484
+tp1485
+Rp1486
+tp1487
+a(S'jamesburg public schools'
+p1488
+g2
+(g6
+S'\xbd;\xd8\xbdi%\xcd?'
+p1489
+tp1490
+Rp1491
+tp1492
+a(S'open-door academic policy'
+p1493
+g2
+(g6
+S's5U\xbf5"\xcd?'
+p1494
+tp1495
+Rp1496
+tp1497
+a(S'hillcrest international school'
+p1498
+g2
+(g6
+S"\xe2'T\x0eZ\x1f\xcd?"
+p1499
+tp1500
+Rp1501
+tp1502
+a(S'pedro mart\xc3\xadnez (golfer)'
+p1503
+g2
+(g6
+S'\xd6/m!\xc3\x1a\xcd?'
+p1504
+tp1505
+Rp1506
+tp1507
+a(S'ib primary years programme'
+p1508
+g2
+(g6
+S'\x0e^\x13#\xae\x19\xcd?'
+p1509
+tp1510
+Rp1511
+tp1512
+a.

@@ -1,0 +1,2728 @@
+(lp0
+(S'differential geometry'
+p1
+cnumpy.core.multiarray
+scalar
+p2
+(cnumpy
+dtype
+p3
+(S'f8'
+p4
+I0
+I1
+tp5
+Rp6
+(I3
+S'<'
+p7
+NNNI-1
+I-1
+I0
+tp8
+bS'\xfa\xff\xff\xff\xff\xff\xef?'
+p9
+tp10
+Rp11
+tp12
+a(S'list of differential geometry topics'
+p13
+g2
+(g6
+S'\xc5\x0f/\xcft\xbb\xe5?'
+p14
+tp15
+Rp16
+tp17
+a(S'geometry'
+p18
+g2
+(g6
+S'\xa8\xd1N\xb9S\xe3\xe4?'
+p19
+tp20
+Rp21
+tp22
+a(S'differential topology'
+p23
+g2
+(g6
+S"\xd6'd\xf0\xdd\x94\xe4?"
+p24
+tp25
+Rp26
+tp27
+a(S'synthetic differential geometry'
+p28
+g2
+(g6
+S'\x06\x06\xb7a\x1d\xd9\xe3?'
+p29
+tp30
+Rp31
+tp32
+a(S'outline of geometry'
+p33
+g2
+(g6
+S'D\xd2\xf09\xaf\x12\xe3?'
+p34
+tp35
+Rp36
+tp37
+a(S'geometry and topology'
+p38
+g2
+(g6
+S'\x12\xce\xe3\x18\xbfB\xe2?'
+p39
+tp40
+Rp41
+tp42
+a(S'alfred gray (mathematician)'
+p43
+g2
+(g6
+S'\xeaT\xf9TK6\xe2?'
+p44
+tp45
+Rp46
+tp47
+a(S"darboux's theorem"
+p48
+g2
+(g6
+S'N\x99\xefd\x920\xe2?'
+p49
+tp50
+Rp51
+tp52
+a(S'glossary of areas of mathematics'
+p53
+g2
+(g6
+S'\xb2\x0f\x990(\x06\xe2?'
+p54
+tp55
+Rp56
+tp57
+a(S'symplectic geometry'
+p58
+g2
+(g6
+S'\xe4\xdb\xbf\xf05\x01\xe2?'
+p59
+tp60
+Rp61
+tp62
+a(S'list of geometry topics'
+p63
+g2
+(g6
+S'\xa7NT,~\xe4\xe1?'
+p64
+tp65
+Rp66
+tp67
+a(S'list of geometers'
+p68
+g2
+(g6
+S'\xe3U\x91\xc8\xfd\xd5\xe1?'
+p69
+tp70
+Rp71
+tp72
+a(S'riemannian geometry'
+p73
+g2
+(g6
+S'\xdb6\x9b\xa3\x85\xc6\xe1?'
+p74
+tp75
+Rp76
+tp77
+a(S'pseudo-riemannian manifold'
+p78
+g2
+(g6
+S'\xb8o\xdb\xcc\xbf7\xe1?'
+p79
+tp80
+Rp81
+tp82
+a(S'finsler manifold'
+p83
+g2
+(g6
+S'n1G\xdc@\xb0\xe0?'
+p84
+tp85
+Rp86
+tp87
+a(S'metaplectic structure'
+p88
+g2
+(g6
+S'\x14\xbcyL\xd9\xa9\xe0?'
+p89
+tp90
+Rp91
+tp92
+a(S'contact geometry'
+p93
+g2
+(g6
+S'J\xa2\xa9\x1a\x92\xa6\xe0?'
+p94
+tp95
+Rp96
+tp97
+a(S'geometry festival'
+p98
+g2
+(g6
+S'\x1a\x9b\x88\x8c\xcc\x8f\xe0?'
+p99
+tp100
+Rp101
+tp102
+a(S'kenji fukaya'
+p103
+g2
+(g6
+S'\x0e\xdcSr\x1f\x81\xe0?'
+p104
+tp105
+Rp106
+tp107
+a(S'riemannian manifold'
+p108
+g2
+(g6
+S'\x98\x8e\n\xa3\xe5j\xe0?'
+p109
+tp110
+Rp111
+tp112
+a(S'synthetic geometry'
+p113
+g2
+(g6
+S"\xfc.h\x89\xfe'\xe0?"
+p114
+tp115
+Rp116
+tp117
+a(S'journal of geometry and physics'
+p118
+g2
+(g6
+S'\xa7\xfan\x175#\xe0?'
+p119
+tp120
+Rp121
+tp122
+a(S'weitzenb\xc3\xb6ck identity'
+p123
+g2
+(g6
+S']\xb8\x8e\x02\x9e\x18\xe0?'
+p124
+tp125
+Rp126
+tp127
+a(S'differential form'
+p128
+g2
+(g6
+S'\x99\xba\x113\x8c\x00\xe0?'
+p129
+tp130
+Rp131
+tp132
+a(S'information geometry'
+p133
+g2
+(g6
+S'\x1ea\x04\xd8\x9b\xf2\xdf?'
+p134
+tp135
+Rp136
+tp137
+a(S'geometrization conjecture'
+p138
+g2
+(g6
+S'\x19\x99\x92 M\xf2\xdf?'
+p139
+tp140
+Rp141
+tp142
+a(S'thierry aubin'
+p143
+g2
+(g6
+S'\xce\x99G8\xad\xeb\xdf?'
+p144
+tp145
+Rp146
+tp147
+a(S'differential (mathematics)'
+p148
+g2
+(g6
+S'\x08\xd5Z\xe5/\xe3\xdf?'
+p149
+tp150
+Rp151
+tp152
+a(S'hyperk\xc3\xa4hler manifold'
+p153
+g2
+(g6
+S'\xc3\xe5J\xb9\xbde\xdf?'
+p154
+tp155
+Rp156
+tp157
+a(S'spin geometry'
+p158
+g2
+(g6
+S'\xee\xc5\x96\x04\x9fC\xdf?'
+p159
+tp160
+Rp161
+tp162
+a(S'differentiable manifold'
+p163
+g2
+(g6
+S': 8I.A\xdf?'
+p164
+tp165
+Rp166
+tp167
+a(S'journal of differential geometry'
+p168
+g2
+(g6
+S'k\x8cru\x0e.\xdf?'
+p169
+tp170
+Rp171
+tp172
+a(S'manifold'
+p173
+g2
+(g6
+S'\x89h\xc3\xd9\xfa\xe0\xde?'
+p174
+tp175
+Rp176
+tp177
+a(S'parabolic geometry (differential geometry)'
+p178
+g2
+(g6
+S'\x7f\xe5\x16fbh\xde?'
+p179
+tp180
+Rp181
+tp182
+a(S'projective differential geometry'
+p183
+g2
+(g6
+S'\x91t\x8f\x97\x05h\xde?'
+p184
+tp185
+Rp186
+tp187
+a(S'geometric analysis'
+p188
+g2
+(g6
+S'\xebaB\x03he\xde?'
+p189
+tp190
+Rp191
+tp192
+a(S'keti tenenblat'
+p193
+g2
+(g6
+S'\xee\x0e\xe2\xa9\xf9P\xde?'
+p194
+tp195
+Rp196
+tp197
+a(S'symplectic manifold'
+p198
+g2
+(g6
+S'\xfd\x0bJ\xb1R\x1c\xde?'
+p199
+tp200
+Rp201
+tp202
+a(S'differential ideal'
+p203
+g2
+(g6
+S'\xea\x80\x8b;[\xe3\xdd?'
+p204
+tp205
+Rp206
+tp207
+a(S'differential'
+p208
+g2
+(g6
+S'\xd5\xffz"Z\xdd\xdd?'
+p209
+tp210
+Rp211
+tp212
+a(S'models of non-euclidean geometry'
+p213
+g2
+(g6
+S'B\xc4\xb0\xcb\x8e\xd7\xdd?'
+p214
+tp215
+Rp216
+tp217
+a(S'shoshichi kobayashi'
+p218
+g2
+(g6
+S'^\xe8\xc0\xfa\xf1\xd6\xdd?'
+p219
+tp220
+Rp221
+tp222
+a(S'differential algebraic geometry'
+p223
+g2
+(g6
+S'\xe2\x04\xee\x1c\xab\xc5\xdd?'
+p224
+tp225
+Rp226
+tp227
+a(S'spatial query'
+p228
+g2
+(g6
+S'\xf6/[\xe7\xf1\xc1\xdd?'
+p229
+tp230
+Rp231
+tp232
+a(S'absolute geometry'
+p233
+g2
+(g6
+S'\xdf\x15\xe9\xf3P\xb1\xdd?'
+p234
+tp235
+Rp236
+tp237
+a(S'sasakian manifold'
+p238
+g2
+(g6
+S'CRU\x15\x03\x94\xdd?'
+p239
+tp240
+Rp241
+tp242
+a(S'erlangen program'
+p243
+g2
+(g6
+S'\x17fY\xfc\x86\x87\xdd?'
+p244
+tp245
+Rp246
+tp247
+a(S'history of geometry'
+p248
+g2
+(g6
+S'\xa2)\xfc\xcd\xcc\x85\xdd?'
+p249
+tp250
+Rp251
+tp252
+a(S'luis santal\xc3\xb3'
+p253
+g2
+(g6
+S'\xd2\xac4\x8b\xf2\x84\xdd?'
+p254
+tp255
+Rp256
+tp257
+a(S'abstract differential geometry'
+p258
+g2
+(g6
+S'M\xcdm\xbe\xe7W\xdd?'
+p259
+tp260
+Rp261
+tp262
+a(S'symplectomorphism'
+p263
+g2
+(g6
+S'\xe0\xf03\x90\xfc.\xdd?'
+p264
+tp265
+Rp266
+tp267
+a(S'k\xc3\xa4hler manifold'
+p268
+g2
+(g6
+S'\xc9\x85{0\xf6\xff\xdc?'
+p269
+tp270
+Rp271
+tp272
+a(S'foundations of differential geometry'
+p273
+g2
+(g6
+S'*\x8a\xb9\x90#\xd7\xdc?'
+p274
+tp275
+Rp276
+tp277
+a(S'plane geometry (disambiguation)'
+p278
+g2
+(g6
+S'\xaa\x96QEg\xd2\xdc?'
+p279
+tp280
+Rp281
+tp282
+a(S'cabri geometry'
+p283
+g2
+(g6
+S'\xf3\xed\xb9;\x07\xb4\xdc?'
+p284
+tp285
+Rp286
+tp287
+a(S'karsten grove'
+p288
+g2
+(g6
+S'\xd6i\x1dY\xb3I\xdc?'
+p289
+tp290
+Rp291
+tp292
+a(S'non-euclidean geometry'
+p293
+g2
+(g6
+S'\x01\xeb\xc8#4?\xdc?'
+p294
+tp295
+Rp296
+tp297
+a(S'discrete differential geometry'
+p298
+g2
+(g6
+S'\x1eX\xb8\xff\xe2;\xdc?'
+p299
+tp300
+Rp301
+tp302
+a(S'supermanifold'
+p303
+g2
+(g6
+S'e]\xbc\x16\xa5.\xdc?'
+p304
+tp305
+Rp306
+tp307
+a(S'sub-riemannian manifold'
+p308
+g2
+(g6
+S')\xcfb-.)\xdc?'
+p309
+tp310
+Rp311
+tp312
+a(S'robert bryant (mathematician)'
+p313
+g2
+(g6
+S'\xe8\xfd\xf2]\x87\x15\xdc?'
+p314
+tp315
+Rp316
+tp317
+a(S'jeff cheeger'
+p318
+g2
+(g6
+S'\x91\xe0\xe6\xf5]\x04\xdc?'
+p319
+tp320
+Rp321
+tp322
+a(S'gheorghe \xc8\x9ai\xc8\x9beica'
+p323
+g2
+(g6
+S't\xc1z\x02\x17\xf6\xdb?'
+p324
+tp325
+Rp326
+tp327
+a(S'aspherical space'
+p328
+g2
+(g6
+S'\x10\xf2\xc6\xc4S\xf2\xdb?'
+p329
+tp330
+Rp331
+tp332
+a(S'rizza manifold'
+p333
+g2
+(g6
+S'\x9a<\x00m\x9b\xe6\xdb?'
+p334
+tp335
+Rp336
+tp337
+a(S'arif salimov'
+p338
+g2
+(g6
+S'\xe8\xa99C\x17\xcf\xdb?'
+p339
+tp340
+Rp341
+tp342
+a(S'lefschetz manifold'
+p343
+g2
+(g6
+S'\x1c\xd8x\x13\x05\xc7\xdb?'
+p344
+tp345
+Rp346
+tp347
+a(S'transformation geometry'
+p348
+g2
+(g6
+S'I\xf1\xc5\xe6\xd8\xa4\xdb?'
+p349
+tp350
+Rp351
+tp352
+a(S'maps of manifolds'
+p353
+g2
+(g6
+S'\xaey\xe9-\xd3\x8f\xdb?'
+p354
+tp355
+Rp356
+tp357
+a(S'geometry from the land of the incas'
+p358
+g2
+(g6
+S'\xa0\xa4\xd6\x06\xe1\x87\xdb?'
+p359
+tp360
+Rp361
+tp362
+a(S'glossary of riemannian and metric geometry'
+p363
+g2
+(g6
+S'\xc8\xbb\x90b\xa4X\xdb?'
+p364
+tp365
+Rp366
+tp367
+a(S'iwasawa manifold'
+p368
+g2
+(g6
+S'U_9*\x1a2\xdb?'
+p369
+tp370
+Rp371
+tp372
+a(S'klein geometry'
+p373
+g2
+(g6
+S'\xd6]\xd5\xee\xb7.\xdb?'
+p374
+tp375
+Rp376
+tp377
+a(S'su buqing'
+p378
+g2
+(g6
+S'"\x07\x98\xc7\xf7,\xdb?'
+p379
+tp380
+Rp381
+tp382
+a(S'nikolai lobachevsky'
+p383
+g2
+(g6
+S'\\\x175+f\x1f\xdb?'
+p384
+tp385
+Rp386
+tp387
+a(S'architectural geometry'
+p388
+g2
+(g6
+S'O\x7f\xfc\x01d\x0f\xdb?'
+p389
+tp390
+Rp391
+tp392
+a(S'kentaro yano (mathematician)'
+p393
+g2
+(g6
+S'\xb3X\x94\xd4\x90\x01\xdb?'
+p394
+tp395
+Rp396
+tp397
+a(S'lee hwa chung theorem'
+p398
+g2
+(g6
+S'|@\x9c\xc1w\xe5\xda?'
+p399
+tp400
+Rp401
+tp402
+a(S'spectral geometry'
+p403
+g2
+(g6
+S'\xe0\xee\x93\xe0e\xbc\xda?'
+p404
+tp405
+Rp406
+tp407
+a(S'simon donaldson'
+p408
+g2
+(g6
+S'\xd7\x99"\x11O\xbb\xda?'
+p409
+tp410
+Rp411
+tp412
+a(S'integrability conditions for differential systems'
+p413
+g2
+(g6
+S'\xd7]N\xbdd\xb2\xda?'
+p414
+tp415
+Rp416
+tp417
+a(S'world manifold'
+p418
+g2
+(g6
+S'\xfd#\xb2J)\xaf\xda?'
+p419
+tp420
+Rp421
+tp422
+a(S'g2 manifold'
+p423
+g2
+(g6
+S'\xbf.{d\xa4{\xda?'
+p424
+tp425
+Rp426
+tp427
+a(S'contributors to the mathematical background for general relativity'
+p428
+g2
+(g6
+S'\x02\x88\x96\xbb.W\xda?'
+p429
+tp430
+Rp431
+tp432
+a(S'thomas banchoff'
+p433
+g2
+(g6
+S'\x8b"\xb3\x9f\xa8@\xda?'
+p434
+tp435
+Rp436
+tp437
+a(S'lie group action'
+p438
+g2
+(g6
+S'p\xf3KS\xfa\x1e\xda?'
+p439
+tp440
+Rp441
+tp442
+a(S'phillip griffiths'
+p443
+g2
+(g6
+S'\x98\xc3\xf2#\xc5\x14\xda?'
+p444
+tp445
+Rp446
+tp447
+a(S'hopf conjecture'
+p448
+g2
+(g6
+S'\xe7\xdb\xea\xab\xbf\x14\xda?'
+p449
+tp450
+Rp451
+tp452
+a(S'list of manifolds'
+p453
+g2
+(g6
+S'\x87"\x99.-\xed\xd9?'
+p454
+tp455
+Rp456
+tp457
+a(S'robert williams (geometer)'
+p458
+g2
+(g6
+S'6\xe7\xb3zU\xe2\xd9?'
+p459
+tp460
+Rp461
+tp462
+a(S'jos\xc3\xa9 f. escobar'
+p463
+g2
+(g6
+S'1\xef\x99\xcd\x06\xcb\xd9?'
+p464
+tp465
+Rp466
+tp467
+a(S'charles ernest weatherburn'
+p468
+g2
+(g6
+S'\x04\xb46\x92j\xc4\xd9?'
+p469
+tp470
+Rp471
+tp472
+a(S'symplectic frame bundle'
+p473
+g2
+(g6
+S'{\x99g#\x04\xb9\xd9?'
+p474
+tp475
+Rp476
+tp477
+a(S'isometry (riemannian geometry)'
+p478
+g2
+(g6
+S'\xb7\xdf\xb8\x80!\xb4\xd9?'
+p479
+tp480
+Rp481
+tp482
+a(S'kurt leichtweiss'
+p483
+g2
+(g6
+S'\xd6\xe5\xcc\xc7\xc6\x9d\xd9?'
+p484
+tp485
+Rp486
+tp487
+a(S'osculating plane'
+p488
+g2
+(g6
+S'\x96\x8cK\xc6[\x9d\xd9?'
+p489
+tp490
+Rp491
+tp492
+a(S'complex manifold'
+p493
+g2
+(g6
+S':B2\xc3\xf9\x8b\xd9?'
+p494
+tp495
+Rp496
+tp497
+a(S'geodesic manifold'
+p498
+g2
+(g6
+S'\x16\x99\xf5\xb7\x80\x81\xd9?'
+p499
+tp500
+Rp501
+tp502
+a(S'positive current'
+p503
+g2
+(g6
+S']\xca\x9e\xddrs\xd9?'
+p504
+tp505
+Rp506
+tp507
+a(S'yuguang shi'
+p508
+g2
+(g6
+S'#F\xc3o\xfaI\xd9?'
+p509
+tp510
+Rp511
+tp512
+a(S'alexander nabutovsky'
+p513
+g2
+(g6
+S'W\x00<\x8d\xebB\xd9?'
+p514
+tp515
+Rp516
+tp517
+a(S'yamabe problem'
+p518
+g2
+(g6
+S'S"CO-4\xd9?'
+p519
+tp520
+Rp521
+tp522
+a(S'symplectic filling'
+p523
+g2
+(g6
+S'\xab\xb4\xd8\xac\xa9/\xd9?'
+p524
+tp525
+Rp526
+tp527
+a(S'breakthrough prize in mathematics'
+p528
+g2
+(g6
+S'7\xa8-\xbcR\x1b\xd9?'
+p529
+tp530
+Rp531
+tp532
+a(S'harry rauch'
+p533
+g2
+(g6
+S'\xe4+E\x1c\xb0\x02\xd9?'
+p534
+tp535
+Rp536
+tp537
+a(S'frobenius manifold'
+p538
+g2
+(g6
+S'\xd3`\xdc\xe7b\xf2\xd8?'
+p539
+tp540
+Rp541
+tp542
+a(S'carath\xc3\xa9odory\xe2\x80\x93jacobi\xe2\x80\x93lie theorem'
+p543
+g2
+(g6
+S'\x98\xddz\x0e\x8c\xe9\xd8?'
+p544
+tp545
+Rp546
+tp547
+a(S'hypersurface'
+p548
+g2
+(g6
+S'G\xe4.\xdey\xde\xd8?'
+p549
+tp550
+Rp551
+tp552
+a(S'nearly k\xc3\xa4hler manifold'
+p553
+g2
+(g6
+S'\xfb\x95W\xdf\xdf\xdd\xd8?'
+p554
+tp555
+Rp556
+tp557
+a(S'foundations of geometry'
+p558
+g2
+(g6
+S'\xf6\xad\xf0\xcdn\xc9\xd8?'
+p559
+tp560
+Rp561
+tp562
+a(S'two-form'
+p563
+g2
+(g6
+S'\x8c\x0b\x8d\x85_\xbe\xd8?'
+p564
+tp565
+Rp566
+tp567
+a(S'wolf prize in mathematics'
+p568
+g2
+(g6
+S'm\xdc\x07\xf5h\xab\xd8?'
+p569
+tp570
+Rp571
+tp572
+a(S'symplectic cut'
+p573
+g2
+(g6
+S'`-\x1f1\x92\xa6\xd8?'
+p574
+tp575
+Rp576
+tp577
+a(S'elliptic geometry'
+p578
+g2
+(g6
+S'\x12\x00\x9b\xf8t\xa1\xd8?'
+p579
+tp580
+Rp581
+tp582
+a(S"synge's theorem"
+p583
+g2
+(g6
+S"'h\n\xfe\x82\x93\xd8?"
+p584
+tp585
+Rp586
+tp587
+a(S'low-dimensional topology'
+p588
+g2
+(g6
+S'\x83\xc7\x00c\x08\x86\xd8?'
+p589
+tp590
+Rp591
+tp592
+a(S'presymplectic form'
+p593
+g2
+(g6
+S'q-\x91OZ|\xd8?'
+p594
+tp595
+Rp596
+tp597
+a(S'quaternion-k\xc3\xa4hler manifold'
+p598
+g2
+(g6
+S'd\xe4\x0f<\x80v\xd8?'
+p599
+tp600
+Rp601
+tp602
+a(S'frank morgan (mathematician)'
+p603
+g2
+(g6
+S'\x07\xf4H/\x8bh\xd8?'
+p604
+tp605
+Rp606
+tp607
+a(S'cartan\xe2\x80\x93hadamard theorem'
+p608
+g2
+(g6
+S'\x9c\xca\x89[\xf7d\xd8?'
+p609
+tp610
+Rp611
+tp612
+a(S'quantum differential calculus'
+p613
+g2
+(g6
+S'b)\xef\xbd\xbfd\xd8?'
+p614
+tp615
+Rp616
+tp617
+a(S'g2-structure'
+p618
+g2
+(g6
+S'mc\xb4/Cb\xd8?'
+p619
+tp620
+Rp621
+tp622
+a(S'symplectic sum'
+p623
+g2
+(g6
+S'\xe3\xc0t\xe7\xfeJ\xd8?'
+p624
+tp625
+Rp626
+tp627
+a(S'global analysis'
+p628
+g2
+(g6
+S'P\x10\xa2\xd7~7\xd8?'
+p629
+tp630
+Rp631
+tp632
+a(S'equivariant differential form'
+p633
+g2
+(g6
+S'\xee\x10+A[,\xd8?'
+p634
+tp635
+Rp636
+tp637
+a(S'christina sormani'
+p638
+g2
+(g6
+S"\xdb`\x1ad\xe5'\xd8?"
+p639
+tp640
+Rp641
+tp642
+a(S'computational geometry'
+p643
+g2
+(g6
+S'\x86T\xe3\xdf\xc0\x1f\xd8?'
+p644
+tp645
+Rp646
+tp647
+a(S'calabi'
+p648
+g2
+(g6
+S'\xac\x89\xcaE\x0c\x1a\xd8?'
+p649
+tp650
+Rp651
+tp652
+a(S'collapsing manifold'
+p653
+g2
+(g6
+S'Tm\x8b\xbf\xff\x17\xd8?'
+p654
+tp655
+Rp656
+tp657
+a(S'congruence (manifolds)'
+p658
+g2
+(g6
+S'8\xce\x00$7\x17\xd8?'
+p659
+tp660
+Rp661
+tp662
+a(S'(g,x)-manifold'
+p663
+g2
+(g6
+S'\xf4\x84\x8bO\x8f\r\xd8?'
+p664
+tp665
+Rp666
+tp667
+a(S'myers\xe2\x80\x93steenrod theorem'
+p668
+g2
+(g6
+S'\x0c\x81\xad5\xf8\t\xd8?'
+p669
+tp670
+Rp671
+tp672
+a(S'splitting theorem'
+p673
+g2
+(g6
+S'\xe0\x03a\xd5\xcf\x06\xd8?'
+p674
+tp675
+Rp676
+tp677
+a(S'3-manifold'
+p678
+g2
+(g6
+S'\xf9W\x04\xbcb\xf9\xd7?'
+p679
+tp680
+Rp681
+tp682
+a(S'volume form'
+p683
+g2
+(g6
+S'\x9a\xd4\x9c\xaa\x10\xf1\xd7?'
+p684
+tp685
+Rp686
+tp687
+a(S'isaak yaglom'
+p688
+g2
+(g6
+S'\xf6\xf4\x19\xf4\xb9\xea\xd7?'
+p689
+tp690
+Rp691
+tp692
+a(S'katsumi nomizu'
+p693
+g2
+(g6
+S'\x8c,P\xa8?\xe2\xd7?'
+p694
+tp695
+Rp696
+tp697
+a(S'cotangent space'
+p698
+g2
+(g6
+S'\x15\x91Xw\xd3\xde\xd7?'
+p699
+tp700
+Rp701
+tp702
+a(S'noncommutative standard model'
+p703
+g2
+(g6
+S'\x94<e\x97{\xd7\xd7?'
+p704
+tp705
+Rp706
+tp707
+a(S'glossary of classical algebraic geometry'
+p708
+g2
+(g6
+S'\xf8\xbe\xa1\xf2\xba\xd6\xd7?'
+p709
+tp710
+Rp711
+tp712
+a(S'curvature tensor'
+p713
+g2
+(g6
+S'\xde**\xcd\x98\xd5\xd7?'
+p714
+tp715
+Rp716
+tp717
+a(S'discrete geometry'
+p718
+g2
+(g6
+S'\xd6d\xea\xe2~\xd4\xd7?'
+p719
+tp720
+Rp721
+tp722
+a(S'classification of manifolds'
+p723
+g2
+(g6
+S'\xc2\x12\xeb\xf6>\xc6\xd7?'
+p724
+tp725
+Rp726
+tp727
+a(S'geometric topology'
+p728
+g2
+(g6
+S'\x85\xd7\x90\t4\xc4\xd7?'
+p729
+tp730
+Rp731
+tp732
+a(S'differential algebra'
+p733
+g2
+(g6
+S'\x98\x18e\x9ez\xbe\xd7?'
+p734
+tp735
+Rp736
+tp737
+a(S'riemannian circle'
+p738
+g2
+(g6
+S'\x93\tB\xcf,\xbe\xd7?'
+p739
+tp740
+Rp741
+tp742
+a(S'parallelization (mathematics)'
+p743
+g2
+(g6
+S'\x80<\x9d\xb0\x93\xbb\xd7?'
+p744
+tp745
+Rp746
+tp747
+a(S'holonomy'
+p748
+g2
+(g6
+S'\xc4\xae(\x14\x9e\xb7\xd7?'
+p749
+tp750
+Rp751
+tp752
+a(S'prescribed scalar curvature problem'
+p753
+g2
+(g6
+S'\xd7\xd4\x95cV\xb7\xd7?'
+p754
+tp755
+Rp756
+tp757
+a(S'ricci curvature'
+p758
+g2
+(g6
+S'\xdb\x9fJ9\xcc\xb3\xd7?'
+p759
+tp760
+Rp761
+tp762
+a(S'projective geometry'
+p763
+g2
+(g6
+S'\xde4\xb1\xb33\xa7\xd7?'
+p764
+tp765
+Rp766
+tp767
+a(S'geometry instancing'
+p768
+g2
+(g6
+S'\xb7-\x90\x9a@\x97\xd7?'
+p769
+tp770
+Rp771
+tp772
+a(S'exponential map'
+p773
+g2
+(g6
+S'\xb6)\xee\xd6\xe9\x93\xd7?'
+p774
+tp775
+Rp776
+tp777
+a(S'fedosov manifold'
+p778
+g2
+(g6
+S'i\x1c\xae;+\x92\xd7?'
+p779
+tp780
+Rp781
+tp782
+a(S'differential structure'
+p783
+g2
+(g6
+S'A\x87\xdaJ\xf0}\xd7?'
+p784
+tp785
+Rp786
+tp787
+a(S'quantum geometry'
+p788
+g2
+(g6
+S'<\x89\xcapS|\xd7?'
+p789
+tp790
+Rp791
+tp792
+a(S'mikhail vaschenko-zakharchenko'
+p793
+g2
+(g6
+S'\xe9\xe2\x02\xac\xe4q\xd7?'
+p794
+tp795
+Rp796
+tp797
+a(S'topological manifold'
+p798
+g2
+(g6
+S'\x1a0\xfd@:p\xd7?'
+p799
+tp800
+Rp801
+tp802
+a(S'vijay kumar patodi'
+p803
+g2
+(g6
+S'\xb6W\xfd+>h\xd7?'
+p804
+tp805
+Rp806
+tp807
+a(S'smooth coarea formula'
+p808
+g2
+(g6
+S'Y\xce\xef\x0ced\xd7?'
+p809
+tp810
+Rp811
+tp812
+a(S'conformally flat manifold'
+p813
+g2
+(g6
+S'\xf0A\xec\xce\xa8_\xd7?'
+p814
+tp815
+Rp816
+tp817
+a(S'solid geometry'
+p818
+g2
+(g6
+S't\xeb\x99\xfe\xc7Y\xd7?'
+p819
+tp820
+Rp821
+tp822
+a(S'universal algebraic geometry'
+p823
+g2
+(g6
+S'\xd9)E\xc0\xd0T\xd7?'
+p824
+tp825
+Rp826
+tp827
+a(S'principles of geometry'
+p828
+g2
+(g6
+S'}\x1e\xfd]\x83P\xd7?'
+p829
+tp830
+Rp831
+tp832
+a(S'history of manifolds and varieties'
+p833
+g2
+(g6
+S"d\x86O\x1b'I\xd7?"
+p834
+tp835
+Rp836
+tp837
+a(S'hermitian manifold'
+p838
+g2
+(g6
+S'\xf9qG\xa2\xc4F\xd7?'
+p839
+tp840
+Rp841
+tp842
+a(S'trivial cylinder'
+p843
+g2
+(g6
+S'h\xc6\xc0\xd9\n9\xd7?'
+p844
+tp845
+Rp846
+tp847
+a(S'list of coordinate charts'
+p848
+g2
+(g6
+S'\x94\xccg\xdd\xd5-\xd7?'
+p849
+tp850
+Rp851
+tp852
+a(S'riemannian'
+p853
+g2
+(g6
+S'N\xac\x13\xb9\x81+\xd7?'
+p854
+tp855
+Rp856
+tp857
+a(S'sharp map'
+p858
+g2
+(g6
+S'\xf1p\x9d\x84\xa8$\xd7?'
+p859
+tp860
+Rp861
+tp862
+a(S'differential geometry of surfaces'
+p863
+g2
+(g6
+S'Eq\xf2q\x0f\x1c\xd7?'
+p864
+tp865
+Rp866
+tp867
+a(S'ordered geometry'
+p868
+g2
+(g6
+S'{\x02\xd2O\xb2\x1b\xd7?'
+p869
+tp870
+Rp871
+tp872
+a(S'almost complex manifold'
+p873
+g2
+(g6
+S'`[\x90R\x9a\x19\xd7?'
+p874
+tp875
+Rp876
+tp877
+a(S"gromov's compactness theorem (topology)"
+p878
+g2
+(g6
+S'\x80\x8ds\xd48\x19\xd7?'
+p879
+tp880
+Rp881
+tp882
+a(S'john roe (mathematician)'
+p883
+g2
+(g6
+S'e\x91Jr1\x19\xd7?'
+p884
+tp885
+Rp886
+tp887
+a(S'ricci flow'
+p888
+g2
+(g6
+S'\xd21\xef\xd9Q\x17\xd7?'
+p889
+tp890
+Rp891
+tp892
+a(S'universal geometric algebra'
+p893
+g2
+(g6
+S' c\xe1\x17\x06\xef\xd6?'
+p894
+tp895
+Rp896
+tp897
+a(S'manfredo do carmo'
+p898
+g2
+(g6
+S'\\NL\x80\xf9\xee\xd6?'
+p899
+tp900
+Rp901
+tp902
+a(S'symplectic basis'
+p903
+g2
+(g6
+S'<\x06\x82\xd3\xa5\xe2\xd6?'
+p904
+tp905
+Rp906
+tp907
+a(S'sectional curvature'
+p908
+g2
+(g6
+S't\xed\x03-\x02\xe0\xd6?'
+p909
+tp910
+Rp911
+tp912
+a(S'mu-tao wang'
+p913
+g2
+(g6
+S'\x8f\x91\xf0\xfd\xa6\xda\xd6?'
+p914
+tp915
+Rp916
+tp917
+a(S'complex geometry'
+p918
+g2
+(g6
+S'\x9b\x82+(>\xcf\xd6?'
+p919
+tp920
+Rp921
+tp922
+a(S'cheeger constant'
+p923
+g2
+(g6
+S'\xd9V\\\xbe\xc4\xc1\xd6?'
+p924
+tp925
+Rp926
+tp927
+a(S'affine geometry'
+p928
+g2
+(g6
+S'\xa3\xa7\x84[\x85\xb3\xd6?'
+p929
+tp930
+Rp931
+tp932
+a(S'sergei tabachnikov'
+p933
+g2
+(g6
+S'\x05\x89\xb7\xf4\xba\xb1\xd6?'
+p934
+tp935
+Rp936
+tp937
+a(S'second fundamental form'
+p938
+g2
+(g6
+S'<u\xb1\xf6~\xae\xd6?'
+p939
+tp940
+Rp941
+tp942
+a(S'track geometry car'
+p943
+g2
+(g6
+S'\xb1\xc7 \xe9b\xaa\xd6?'
+p944
+tp945
+Rp946
+tp947
+a(S'glossary of differential geometry and topology'
+p948
+g2
+(g6
+S'im\x9dd\xba\xa7\xd6?'
+p949
+tp950
+Rp951
+tp952
+a(S'ruppeiner geometry'
+p953
+g2
+(g6
+S'\x94\xaet\xe1\xf0\xa4\xd6?'
+p954
+tp955
+Rp956
+tp957
+a(S'riemannian submersion'
+p958
+g2
+(g6
+S'uu}Qs\x9e\xd6?'
+p959
+tp960
+Rp961
+tp962
+a(S'cocurvature'
+p963
+g2
+(g6
+S'\xa2?\x93\xfd\xaa\x9c\xd6?'
+p964
+tp965
+Rp966
+tp967
+a(S'paul biran'
+p968
+g2
+(g6
+S'\xee\n;\xd6Q\x93\xd6?'
+p969
+tp970
+Rp971
+tp972
+a(S'edmond bonan'
+p973
+g2
+(g6
+S'\x80 \xdez6\x85\xd6?'
+p974
+tp975
+Rp976
+tp977
+a(S'warped geometry'
+p978
+g2
+(g6
+S'\xabn\xa2\x18\xe4f\xd6?'
+p979
+tp980
+Rp981
+tp982
+a(S'augustin banyaga'
+p983
+g2
+(g6
+S'\x05\x06\x84\xc4\x9af\xd6?'
+p984
+tp985
+Rp986
+tp987
+a(S'invariant differential operator'
+p988
+g2
+(g6
+S'\xa2\x0b\x1c\xe7sY\xd6?'
+p989
+tp990
+Rp991
+tp992
+a(S'geometry (disambiguation)'
+p993
+g2
+(g6
+S'\xbesD\xaf\x18@\xd6?'
+p994
+tp995
+Rp996
+tp997
+a(S'vanya mirzoyan'
+p998
+g2
+(g6
+S'\x971 ;\xce;\xd6?'
+p999
+tp1000
+Rp1001
+tp1002
+a(S'riemannian connection on a surface'
+p1003
+g2
+(g6
+S'8o\n\x98\x96-\xd6?'
+p1004
+tp1005
+Rp1006
+tp1007
+a(S'cobordism'
+p1008
+g2
+(g6
+S'\x81Z\xb5\xc8\xba+\xd6?'
+p1009
+tp1010
+Rp1011
+tp1012
+a(S'one-form'
+p1013
+g2
+(g6
+S'\x18oE\x1b\x00 \xd6?'
+p1014
+tp1015
+Rp1016
+tp1017
+a(S'herbert busemann'
+p1018
+g2
+(g6
+S'\xb6\x1f\xad<i\x10\xd6?'
+p1019
+tp1020
+Rp1021
+tp1022
+a(S'erich k\xc3\xa4hler'
+p1023
+g2
+(g6
+S'\x0c\xbd=\x86\xee\n\xd6?'
+p1024
+tp1025
+Rp1026
+tp1027
+a(S'differential of a function'
+p1028
+g2
+(g6
+S'\x1b\xd6-{\xd3\x03\xd6?'
+p1029
+tp1030
+Rp1031
+tp1032
+a(S'minimal volume'
+p1033
+g2
+(g6
+S'\xd0z\xa9>?\x02\xd6?'
+p1034
+tp1035
+Rp1036
+tp1037
+a(S'monogon'
+p1038
+g2
+(g6
+S'}\xee6\xf1\xbb\xfb\xd5?'
+p1039
+tp1040
+Rp1041
+tp1042
+a(S'elliptic complex'
+p1043
+g2
+(g6
+S'ZF1\x15;\xfb\xd5?'
+p1044
+tp1045
+Rp1046
+tp1047
+a(S"cohn-vossen's inequality"
+p1048
+g2
+(g6
+S'\xd3Q\x03\x99b\xf5\xd5?'
+p1049
+tp1050
+Rp1051
+tp1052
+a(S'glossary of algebraic geometry'
+p1053
+g2
+(g6
+S'\xbe\xc7\r\xf2i\xf4\xd5?'
+p1054
+tp1055
+Rp1056
+tp1057
+a(S'space form'
+p1058
+g2
+(g6
+S'\xda\xe4N\xb9P\xed\xd5?'
+p1059
+tp1060
+Rp1061
+tp1062
+a(S'einstein manifold'
+p1063
+g2
+(g6
+S'\xddZ\xf5\xa2K\xe8\xd5?'
+p1064
+tp1065
+Rp1066
+tp1067
+a(S'eugenio calabi'
+p1068
+g2
+(g6
+S'\x9c\x1f\x96I\x1d\xe5\xd5?'
+p1069
+tp1070
+Rp1071
+tp1072
+a(S'theodor reye'
+p1073
+g2
+(g6
+S'\xce.=\xb8\xe6\xe4\xd5?'
+p1074
+tp1075
+Rp1076
+tp1077
+a(S'line (geometry)'
+p1078
+g2
+(g6
+S'\x81\x92\xd1\xef\xaf\xdc\xd5?'
+p1079
+tp1080
+Rp1081
+tp1082
+a(S'tom brooks (writer)'
+p1083
+g2
+(g6
+S'\xb6\xbe\x03\xf4\xf5\xd6\xd5?'
+p1084
+tp1085
+Rp1086
+tp1087
+a(S'intrinsic flat distance'
+p1088
+g2
+(g6
+S'Y\x8e\xfdC\x97\xd2\xd5?'
+p1089
+tp1090
+Rp1091
+tp1092
+a(S'non-archimedean geometry'
+p1093
+g2
+(g6
+S'g4\xef\x9d\xac\xc8\xd5?'
+p1094
+tp1095
+Rp1096
+tp1097
+a(S"preissman's theorem"
+p1098
+g2
+(g6
+S'\xa0\xac\x07%8\xc7\xd5?'
+p1099
+tp1100
+Rp1101
+tp1102
+a(S'wilhelm klingenberg'
+p1103
+g2
+(g6
+S'\xce\x9f\xf0\xbf\xf2\xba\xd5?'
+p1104
+tp1105
+Rp1106
+tp1107
+a(S'normal coordinates'
+p1108
+g2
+(g6
+S'":@&\xa1\xb9\xd5?'
+p1109
+tp1110
+Rp1111
+tp1112
+a(S'symplectic group'
+p1113
+g2
+(g6
+S'\xe4\xe8w\x0f\xc2\xb5\xd5?'
+p1114
+tp1115
+Rp1116
+tp1117
+a(S'fundamental theorem of riemannian geometry'
+p1118
+g2
+(g6
+S'j\xbe$\x87~\xae\xd5?'
+p1119
+tp1120
+Rp1121
+tp1122
+a(S'curvature form'
+p1123
+g2
+(g6
+S'\x0c~\xa5\x1d\xff\xa8\xd5?'
+p1124
+tp1125
+Rp1126
+tp1127
+a(S'nondegenerate form'
+p1128
+g2
+(g6
+S'X\xe1\x19f\xa9\xa5\xd5?'
+p1129
+tp1130
+Rp1131
+tp1132
+a(S'euclidean geometry'
+p1133
+g2
+(g6
+S'8\xfc\x1c\x1c\x8f\xa0\xd5?'
+p1134
+tp1135
+Rp1136
+tp1137
+a(S'gerhard huisken'
+p1138
+g2
+(g6
+S'e$!\xc0\x7f\x9c\xd5?'
+p1139
+tp1140
+Rp1141
+tp1142
+a(S'carolyn s. gordon'
+p1143
+g2
+(g6
+S'\xd8\x0e\x899\xf1\x97\xd5?'
+p1144
+tp1145
+Rp1146
+tp1147
+a(S'connection (mathematics)'
+p1148
+g2
+(g6
+S'v\xa8\xa5\x8cl\x8f\xd5?'
+p1149
+tp1150
+Rp1151
+tp1152
+a(S'lev schnirelmann'
+p1153
+g2
+(g6
+S'\xdc\xcb\x16g\xc5\x8a\xd5?'
+p1154
+tp1155
+Rp1156
+tp1157
+a(S'cartan connection'
+p1158
+g2
+(g6
+S'[\x11\x1c\xcfa\x83\xd5?'
+p1159
+tp1160
+Rp1161
+tp1162
+a(S'clifford taubes'
+p1163
+g2
+(g6
+S'&\xb2\x9fd\xe1\x7f\xd5?'
+p1164
+tp1165
+Rp1166
+tp1167
+a(S'tautological one-form'
+p1168
+g2
+(g6
+S'\x91:{n\xbe\x7f\xd5?'
+p1169
+tp1170
+Rp1171
+tp1172
+a(S'iskander taimanov'
+p1173
+g2
+(g6
+S'U\xf0\xe2\r\xe0~\xd5?'
+p1174
+tp1175
+Rp1176
+tp1177
+a(S'mikhail katz'
+p1178
+g2
+(g6
+S'\x9d\x0cC\xdc\x8eu\xd5?'
+p1179
+tp1180
+Rp1181
+tp1182
+a(S'statistical manifold'
+p1183
+g2
+(g6
+S'Q\xc2ar\xdbr\xd5?'
+p1184
+tp1185
+Rp1186
+tp1187
+a(S'cotangent bundle'
+p1188
+g2
+(g6
+S'9\xaad\x9e`i\xd5?'
+p1189
+tp1190
+Rp1191
+tp1192
+a(S'complex differential form'
+p1193
+g2
+(g6
+S'\x19\xfb\xb9\xb7\xa8d\xd5?'
+p1194
+tp1195
+Rp1196
+tp1197
+a(S'secondary calculus and cohomological physics'
+p1198
+g2
+(g6
+S'\xfa\xb0\xe8\xf3UZ\xd5?'
+p1199
+tp1200
+Rp1201
+tp1202
+a(S'timeline of geometry'
+p1203
+g2
+(g6
+S'\xa8\xae,\x07\xc1U\xd5?'
+p1204
+tp1205
+Rp1206
+tp1207
+a(S'web (differential geometry)'
+p1208
+g2
+(g6
+S'X>\xeb\x07\xd7Q\xd5?'
+p1209
+tp1210
+Rp1211
+tp1212
+a(S'list of books in computational geometry'
+p1213
+g2
+(g6
+S'\xea\xae\xa3\xbcjK\xd5?'
+p1214
+tp1215
+Rp1216
+tp1217
+a(S'exponential map (riemannian geometry)'
+p1218
+g2
+(g6
+S'\x1d\xc9\x1e\xd1\xc5J\xd5?'
+p1219
+tp1220
+Rp1221
+tp1222
+a(S'detlef laugwitz'
+p1223
+g2
+(g6
+S'E\xef\xc6LiH\xd5?'
+p1224
+tp1225
+Rp1226
+tp1227
+a(S'generalized complex structure'
+p1228
+g2
+(g6
+S'\x9b\xe1\x90\x01\xe1G\xd5?'
+p1229
+tp1230
+Rp1231
+tp1232
+a(S'hand geometry'
+p1233
+g2
+(g6
+S'JE\xcc\xe1%A\xd5?'
+p1234
+tp1235
+Rp1236
+tp1237
+a(S'robert gompf'
+p1238
+g2
+(g6
+S'L\xe7\x86#\xdc<\xd5?'
+p1239
+tp1240
+Rp1241
+tp1242
+a(S'henry forder'
+p1243
+g2
+(g6
+S'\x91\x97Ds;2\xd5?'
+p1244
+tp1245
+Rp1246
+tp1247
+a(S'4-manifold'
+p1248
+g2
+(g6
+S'yV\xfe\xfcH0\xd5?'
+p1249
+tp1250
+Rp1251
+tp1252
+a(S'center manifold'
+p1253
+g2
+(g6
+S'i\xa5\x9f\xd7\t0\xd5?'
+p1254
+tp1255
+Rp1256
+tp1257
+a(S'sigur\xc3\xb0ur helgason (mathematician)'
+p1258
+g2
+(g6
+S'\xb6\xfc\x84\xb0d-\xd5?'
+p1259
+tp1260
+Rp1261
+tp1262
+a(S'polyakov formula'
+p1263
+g2
+(g6
+S'i1l\xd3\xb7*\xd5?'
+p1264
+tp1265
+Rp1266
+tp1267
+a(S'helmut hofer'
+p1268
+g2
+(g6
+S'\xbdP\xf7\x1e^)\xd5?'
+p1269
+tp1270
+Rp1271
+tp1272
+a(S'quasitoric manifold'
+p1273
+g2
+(g6
+S'\x99w\x99Bh$\xd5?'
+p1274
+tp1275
+Rp1276
+tp1277
+a(S'sage manifolds'
+p1278
+g2
+(g6
+S'f\xa9\xe3\xb0+!\xd5?'
+p1279
+tp1280
+Rp1281
+tp1282
+a(S'rauch comparison theorem'
+p1283
+g2
+(g6
+S'\x1e\xaftw\xfa\x1b\xd5?'
+p1284
+tp1285
+Rp1286
+tp1287
+a(S'gauss\xe2\x80\x93codazzi equations'
+p1288
+g2
+(g6
+S'\x1f\x07\xc0\xbd\xd5\x14\xd5?'
+p1289
+tp1290
+Rp1291
+tp1292
+a(S'hyperbolic geometry'
+p1293
+g2
+(g6
+S'w\xe1\x85\x1a\xec\x10\xd5?'
+p1294
+tp1295
+Rp1296
+tp1297
+a(S'real point'
+p1298
+g2
+(g6
+S'\x87\x07r\x90a\x10\xd5?'
+p1299
+tp1300
+Rp1301
+tp1302
+a(S'heinrich guggenheimer'
+p1303
+g2
+(g6
+S'M\x04l/\xf1\x0b\xd5?'
+p1304
+tp1305
+Rp1306
+tp1307
+a(S'guofang wei'
+p1308
+g2
+(g6
+S's\xe0`\x0f\xe0\n\xd5?'
+p1309
+tp1310
+Rp1311
+tp1312
+a(S'symplectic spinor bundle'
+p1313
+g2
+(g6
+S'\xaec\x80\xaf\x9a\x08\xd5?'
+p1314
+tp1315
+Rp1316
+tp1317
+a(S'differential invariant'
+p1318
+g2
+(g6
+S'0\xfah\x90r\x06\xd5?'
+p1319
+tp1320
+Rp1321
+tp1322
+a(S'inverse mean curvature flow'
+p1323
+g2
+(g6
+S'\x10\t\x8a\x18\xe7\x04\xd5?'
+p1324
+tp1325
+Rp1326
+tp1327
+a(S'filling radius'
+p1328
+g2
+(g6
+S'z\x00y\x9b\xdc\x03\xd5?'
+p1329
+tp1330
+Rp1331
+tp1332
+a(S'prescribed ricci curvature problem'
+p1333
+g2
+(g6
+S'P\x1c\x1cx\xd1\xfc\xd4?'
+p1334
+tp1335
+Rp1336
+tp1337
+a(S'georges henri halphen'
+p1338
+g2
+(g6
+S'\xc0\x81\\\x96\x05\xfa\xd4?'
+p1339
+tp1340
+Rp1341
+tp1342
+a(S'william goldman (mathematician)'
+p1343
+g2
+(g6
+S'\xff\xefr&\xb0\xf8\xd4?'
+p1344
+tp1345
+Rp1346
+tp1347
+a(S'pregeometry (model theory)'
+p1348
+g2
+(g6
+S'\xa2\xfe\xb4\xca#\xf5\xd4?'
+p1349
+tp1350
+Rp1351
+tp1352
+a(S'j\xc3\xbcrgen jost'
+p1353
+g2
+(g6
+S'\x90\x8bq\xe4\xd0\xeb\xd4?'
+p1354
+tp1355
+Rp1356
+tp1357
+a(S'galois geometry'
+p1358
+g2
+(g6
+S'Y\xba:O\x8c\xea\xd4?'
+p1359
+tp1360
+Rp1361
+tp1362
+a(S'calabi flow'
+p1363
+g2
+(g6
+S'\xf9\xe1\x96Fu\xe5\xd4?'
+p1364
+tp1365
+Rp1366
+tp1367
+a(S'symplectic vector space'
+p1368
+g2
+(g6
+S'yP3e\xc1\xde\xd4?'
+p1369
+tp1370
+Rp1371
+tp1372
+a(S'nathan altshiller court'
+p1373
+g2
+(g6
+S'\xb6\xf5\xa3n\x19\xdd\xd4?'
+p1374
+tp1375
+Rp1376
+tp1377
+a(S'symplectic vector field'
+p1378
+g2
+(g6
+S'"&\x0b\xd9z\xdb\xd4?'
+p1379
+tp1380
+Rp1381
+tp1382
+a(S'luther p. eisenhart'
+p1383
+g2
+(g6
+S']\xaf`\xb8\xce\xc9\xd4?'
+p1384
+tp1385
+Rp1386
+tp1387
+a(S'exact differential'
+p1388
+g2
+(g6
+S'cP\x8d\xcc\xce\xbc\xd4?'
+p1389
+tp1390
+Rp1391
+tp1392
+a(S'homological integration'
+p1393
+g2
+(g6
+S'\xab\xa4\x85\xefg\xb9\xd4?'
+p1394
+tp1395
+Rp1396
+tp1397
+a(S'volume entropy'
+p1398
+g2
+(g6
+S'\x9d\x05\x83\x03\xd3\xb7\xd4?'
+p1399
+tp1400
+Rp1401
+tp1402
+a(S'caustic (mathematics)'
+p1403
+g2
+(g6
+S'\xb5#d!\xe7\xaf\xd4?'
+p1404
+tp1405
+Rp1406
+tp1407
+a(S'geometric design'
+p1408
+g2
+(g6
+S'\x8f\x04\xfc\xee5\xae\xd4?'
+p1409
+tp1410
+Rp1411
+tp1412
+a(S'a. rod gover'
+p1413
+g2
+(g6
+S'\x10\xf8\x9b\xc0\xc7\xac\xd4?'
+p1414
+tp1415
+Rp1416
+tp1417
+a(S'invariant manifold'
+p1418
+g2
+(g6
+S'~p\xcd\xbf\xb5\xa7\xd4?'
+p1419
+tp1420
+Rp1421
+tp1422
+a(S'berger\xe2\x80\x93kazdan comparison theorem'
+p1423
+g2
+(g6
+S'\xc2\x87\xcd30\xa6\xd4?'
+p1424
+tp1425
+Rp1426
+tp1427
+a(S'albert nijenhuis'
+p1428
+g2
+(g6
+S'\xceQ\x92\xfe`\x95\xd4?'
+p1429
+tp1430
+Rp1431
+tp1432
+a(S'geometric calculus'
+p1433
+g2
+(g6
+S'\xe4\x9bO\xb4\x87\x93\xd4?'
+p1434
+tp1435
+Rp1436
+tp1437
+a(S'numena + geometry'
+p1438
+g2
+(g6
+S'\x89\x80GBD\x91\xd4?'
+p1439
+tp1440
+Rp1441
+tp1442
+a(S'pseudoholomorphic curve'
+p1443
+g2
+(g6
+S'\x9e\xa19\xe5R\x8f\xd4?'
+p1444
+tp1445
+Rp1446
+tp1447
+a(S'g-structure on a manifold'
+p1448
+g2
+(g6
+S'\x86H\xe3\xa9\xa2\x88\xd4?'
+p1449
+tp1450
+Rp1451
+tp1452
+a(S'branched manifold'
+p1453
+g2
+(g6
+S'\x02$\xa4)x\x88\xd4?'
+p1454
+tp1455
+Rp1456
+tp1457
+a(S'chow\xe2\x80\x93rashevskii theorem'
+p1458
+g2
+(g6
+S'\x9d\xc5mR@\x87\xd4?'
+p1459
+tp1460
+Rp1461
+tp1462
+a(S'differential calculus over commutative algebras'
+p1463
+g2
+(g6
+S'\xca\xf0\x80\xf0W\x81\xd4?'
+p1464
+tp1465
+Rp1466
+tp1467
+a(S"myers's theorem"
+p1468
+g2
+(g6
+S'z\x13l0\xa5}\xd4?'
+p1469
+tp1470
+Rp1471
+tp1472
+a(S'analytic geometry'
+p1473
+g2
+(g6
+S'\x96?B)\x95|\xd4?'
+p1474
+tp1475
+Rp1476
+tp1477
+a(S'tomasz mrowka'
+p1478
+g2
+(g6
+S'l#\xf1\xb0\x9ew\xd4?'
+p1479
+tp1480
+Rp1481
+tp1482
+a(S'closed manifold'
+p1483
+g2
+(g6
+S'R{\xca\xbd\x0bn\xd4?'
+p1484
+tp1485
+Rp1486
+tp1487
+a(S'tangent space'
+p1488
+g2
+(g6
+S'\x99#\x97\x8d\xfcm\xd4?'
+p1489
+tp1490
+Rp1491
+tp1492
+a(S'diffiety'
+p1493
+g2
+(g6
+S'\x01\xf3em\xc6g\xd4?'
+p1494
+tp1495
+Rp1496
+tp1497
+a(S'haken manifold'
+p1498
+g2
+(g6
+S'\nq\xf4w\x82c\xd4?'
+p1499
+tp1500
+Rp1501
+tp1502
+a(S'moment map'
+p1503
+g2
+(g6
+S'\xe3\xed\xfd\xf9\x04c\xd4?'
+p1504
+tp1505
+Rp1506
+tp1507
+a(S'sylvester medal'
+p1508
+g2
+(g6
+S'[\xad\xce\xd3{[\xd4?'
+p1509
+tp1510
+Rp1511
+tp1512
+a.

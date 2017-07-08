@@ -1,0 +1,2728 @@
+(lp0
+(S'association for computing machinery'
+p1
+cnumpy.core.multiarray
+scalar
+p2
+(cnumpy
+dtype
+p3
+(S'f8'
+p4
+I0
+I1
+tp5
+Rp6
+(I3
+S'<'
+p7
+NNNI-1
+I-1
+I0
+tp8
+bS'\xfe\xff\xff\xff\xff\xff\xef?'
+p9
+tp10
+Rp11
+tp12
+a(S'acm guide to computing literature'
+p13
+g2
+(g6
+S'\xda_\xe5\x82R\xc3\xe9?'
+p14
+tp15
+Rp16
+tp17
+a(S'acm computing surveys'
+p18
+g2
+(g6
+S'\x82\xc1\x12\xa3\x9b\x97\xe8?'
+p19
+tp20
+Rp21
+tp22
+a(S'acm-w'
+p23
+g2
+(g6
+S'\xec*\xdf\xa0\x85\x95\xe8?'
+p24
+tp25
+Rp26
+tp27
+a(S'alliance for community media'
+p28
+g2
+(g6
+S'7\x82T\x05%G\xe8?'
+p29
+tp30
+Rp31
+tp32
+a(S'acm queue'
+p33
+g2
+(g6
+S'\x03\x95\x82\x95f\x18\xe8?'
+p34
+tp35
+Rp36
+tp37
+a(S'american consolidated media'
+p38
+g2
+(g6
+S'<\x04K\x9d\x18P\xe7?'
+p39
+tp40
+Rp41
+tp42
+a(S'acm sigact'
+p43
+g2
+(g6
+S'\x8f\x81\xfa\xb1\xeb9\xe7?'
+p44
+tp45
+Rp46
+tp47
+a(S'acm transactions on mathematical software'
+p48
+g2
+(g6
+S'z\xc7\xe5\x0f1\x16\xe7?'
+p49
+tp50
+Rp51
+tp52
+a(S'communications of the acm'
+p53
+g2
+(g6
+S'_\xb3\xeb\x81\xb3\xac\xe6?'
+p54
+tp55
+Rp56
+tp57
+a(S'acm computing reviews'
+p58
+g2
+(g6
+S'\xba\xd7\xf3\xe2\xf8\x8f\xe6?'
+p59
+tp60
+Rp61
+tp62
+a(S'gloria townsend'
+p63
+g2
+(g6
+S'5\xe0\x8b\xff\x8cE\xe6?'
+p64
+tp65
+Rp66
+tp67
+a(S'sigai'
+p68
+g2
+(g6
+S'N\xe1\xa2\x178*\xe6?'
+p69
+tp70
+Rp71
+tp72
+a(S'elaine weyuker'
+p73
+g2
+(g6
+S'\xb7\xa3\xdf\xce\xcd\xfd\xe5?'
+p74
+tp75
+Rp76
+tp77
+a(S'list of acm-w chapters'
+p78
+g2
+(g6
+S'\x08\xc6\x07i\xaa\xbd\xe5?'
+p79
+tp80
+Rp81
+tp82
+a(S'mary lou soffa'
+p83
+g2
+(g6
+S'r\x16!\xcb\xd8S\xe5?'
+p84
+tp85
+Rp86
+tp87
+a(S'don towsley'
+p88
+g2
+(g6
+S'L\x1dn\x1f\xc9P\xe5?'
+p89
+tp90
+Rp91
+tp92
+a(S'xrds (magazine)'
+p93
+g2
+(g6
+S'\xd0\x02\xa36]+\xe5?'
+p94
+tp95
+Rp96
+tp97
+a(S'alexander l. wolf'
+p98
+g2
+(g6
+S'\xc2u\x12\x03%\x0f\xe5?'
+p99
+tp100
+Rp101
+tp102
+a(S'peter j. denning'
+p103
+g2
+(g6
+S'\xfa\xc42\xee\x92\xff\xe4?'
+p104
+tp105
+Rp106
+tp107
+a(S'federated computing research conference'
+p108
+g2
+(g6
+S'\xbc\x80\xe0\xd6\xc2\xe4\xe4?'
+p109
+tp110
+Rp111
+tp112
+a(S'journal of the acm'
+p113
+g2
+(g6
+S'J\x92p\x01\x82\x97\xe4?'
+p114
+tp115
+Rp116
+tp117
+a(S'acm fellow'
+p118
+g2
+(g6
+S'\x8d8\xd5\xde~\x95\xe4?'
+p119
+tp120
+Rp121
+tp122
+a(S'international conference on human-robot interaction'
+p123
+g2
+(g6
+S'\x96n\xea\x9bk{\xe4?'
+p124
+tp125
+Rp126
+tp127
+a(S'temporal information retrieval'
+p128
+g2
+(g6
+S'A\xb9~\xbd\x1ae\xe4?'
+p129
+tp130
+Rp131
+tp132
+a(S'siguccs'
+p133
+g2
+(g6
+S'*M\xc3\xe4{W\xe4?'
+p134
+tp135
+Rp136
+tp137
+a(S'symposium on principles and practice of parallel programming'
+p138
+g2
+(g6
+S'Yx\x16>\x8cB\xe4?'
+p139
+tp140
+Rp141
+tp142
+a(S'software engineering notes'
+p143
+g2
+(g6
+S'\xc3\x88\xa3gL\x03\xe4?'
+p144
+tp145
+Rp146
+tp147
+a(S'acm computing classification system'
+p148
+g2
+(g6
+S"\x9e\x17'\xcb\x8e\xfa\xe3?"
+p149
+tp150
+Rp151
+tp152
+a(S'association for contemporary music'
+p153
+g2
+(g6
+S'\xb1\x0b\xa1R\xdb\xdd\xe3?'
+p154
+tp155
+Rp156
+tp157
+a(S'jean e. sammet'
+p158
+g2
+(g6
+S'\x1f\xab\xf6\x03\xb1\xab\xe3?'
+p159
+tp160
+Rp161
+tp162
+a(S'acm transactions on computational logic'
+p163
+g2
+(g6
+S'\x881\xdf\xdc\xecp\xe3?'
+p164
+tp165
+Rp166
+tp167
+a(S'acm/ieee virtual reality international conference'
+p168
+g2
+(g6
+S'\xdd\xff\xf1\xc2\xdeH\xe3?'
+p169
+tp170
+Rp171
+tp172
+a(S'stuart feldman'
+p173
+g2
+(g6
+S'\x82\xa1\x8e\xc4~3\xe3?'
+p174
+tp175
+Rp176
+tp177
+a(S'acm siggraph'
+p178
+g2
+(g6
+S'\xfaA\xb8\x94\xe9\xfd\xe2?'
+p179
+tp180
+Rp181
+tp182
+a(S'sigsim'
+p183
+g2
+(g6
+S'7\x88\x8a\x8c\xce\xfa\xe2?'
+p184
+tp185
+Rp186
+tp187
+a(S'shahriar manzoor'
+p188
+g2
+(g6
+S'\xd0s\x15\xe3\x08\xd7\xe2?'
+p189
+tp190
+Rp191
+tp192
+a(S'mary jane irwin'
+p193
+g2
+(g6
+S'\xbc\xbav\xc5\x84O\xe2?'
+p194
+tp195
+Rp196
+tp197
+a(S'asynchronous communication mechanism'
+p198
+g2
+(g6
+S'3\xa5K\x8dU0\xe2?'
+p199
+tp200
+Rp201
+tp202
+a(S'dinesh manocha'
+p203
+g2
+(g6
+S'7}\t\xfd \x15\xe2?'
+p204
+tp205
+Rp206
+tp207
+a(S'acm gold'
+p208
+g2
+(g6
+S'n\x9a{/c\xf3\xe1?'
+p209
+tp210
+Rp211
+tp212
+a(S'susan owicki'
+p213
+g2
+(g6
+S'A\xf5\xef\x05\xc5\xd7\xe1?'
+p214
+tp215
+Rp216
+tp217
+a(S'academy of contemporary music'
+p218
+g2
+(g6
+S'P\xd3\x87\x00b\x9f\xe1?'
+p219
+tp220
+Rp221
+tp222
+a(S'peter g. neumann'
+p223
+g2
+(g6
+S'\xc6\xbdX\x11\x8f\x11\xe1?'
+p224
+tp225
+Rp226
+tp227
+a(S'acm interactions'
+p228
+g2
+(g6
+S'\x9f\xac\x96:|\x0f\xe1?'
+p229
+tp230
+Rp231
+tp232
+a(S'sigkdd'
+p233
+g2
+(g6
+S'\x1b\x0eS\x1aL\x0b\xe1?'
+p234
+tp235
+Rp236
+tp237
+a(S'atlantic-acm'
+p238
+g2
+(g6
+S'\xf1W\xd9\x1bI\xf7\xe0?'
+p239
+tp240
+Rp241
+tp242
+a(S'lorraine borman'
+p243
+g2
+(g6
+S"i%\xe2\x8b'\xe9\xe0?"
+p244
+tp245
+Rp246
+tp247
+a(S'mohammad kaykobad'
+p248
+g2
+(g6
+S'l\xe2\xcb\x14\x98\xd4\xe0?'
+p249
+tp250
+Rp251
+tp252
+a(S'symposium on operating systems principles'
+p253
+g2
+(g6
+S'3\xe9~\xd67\xc7\xe0?'
+p254
+tp255
+Rp256
+tp257
+a(S'pandatharippu'
+p258
+g2
+(g6
+S'\x1c!-\x11x\xc0\xe0?'
+p259
+tp260
+Rp261
+tp262
+a(S'list of computer science conferences'
+p263
+g2
+(g6
+S'\x94\x95\x17\xf5\xf4\x8a\xe0?'
+p264
+tp265
+Rp266
+tp267
+a(S'memetic computing society'
+p268
+g2
+(g6
+S'\x02\xdb%[\xda\x80\xe0?'
+p269
+tp270
+Rp271
+tp272
+a(S'altran'
+p273
+g2
+(g6
+S'\xa6\xa8\xa1\x0f\x06k\xe0?'
+p274
+tp275
+Rp276
+tp277
+a(S'australians for constitutional monarchy'
+p278
+g2
+(g6
+S'\x90g\xc4t\x85V\xe0?'
+p279
+tp280
+Rp281
+tp282
+a(S'norman e. gibbs'
+p283
+g2
+(g6
+S'r\xdb\xc3G\xbdO\xe0?'
+p284
+tp285
+Rp286
+tp287
+a(S'katherine yelick'
+p288
+g2
+(g6
+S'\x08;\xf7Zw\x01\xe0?'
+p289
+tp290
+Rp291
+tp292
+a(S'list of important publications in computer science'
+p293
+g2
+(g6
+S'\xa4\xc8\xdf\x16\x10\xef\xdf?'
+p294
+tp295
+Rp296
+tp297
+a(S'symposium on principles of database systems'
+p298
+g2
+(g6
+S'\x13\xc2\xc5|\xc8\xe1\xdf?'
+p299
+tp300
+Rp301
+tp302
+a(S'richard t. snodgrass'
+p303
+g2
+(g6
+S'\x88\x0exf\x0f\xce\xdf?'
+p304
+tp305
+Rp306
+tp307
+a(S'michel beaudouin-lafon'
+p308
+g2
+(g6
+S'\xf9\xd0\xcb\xd1\xc4\x98\xdf?'
+p309
+tp310
+Rp311
+tp312
+a(S'elliott organick'
+p313
+g2
+(g6
+S'\xc7\x9b\xcc\x92\x95\x8f\xdf?'
+p314
+tp315
+Rp316
+tp317
+a(S'symposium on computational geometry'
+p318
+g2
+(g6
+S'\xe6\xf7\x12\xc2\x00e\xdf?'
+p319
+tp320
+Rp321
+tp322
+a(S'devavrat shah'
+p323
+g2
+(g6
+S'\xe1Z\x13 \x90#\xdf?'
+p324
+tp325
+Rp326
+tp327
+a(S'scott shenker'
+p328
+g2
+(g6
+S'\x8f\xbe\xbe&\xa5"\xdf?'
+p329
+tp330
+Rp331
+tp332
+a(S'acm assiut university student chapter'
+p333
+g2
+(g6
+S'K:g\xe2\x8e\x11\xdf?'
+p334
+tp335
+Rp336
+tp337
+a(S'osmar r. zaiane'
+p338
+g2
+(g6
+S'\xe0/3ew\r\xdf?'
+p339
+tp340
+Rp341
+tp342
+a(S'qiang yang'
+p343
+g2
+(g6
+S'{<\x8c\xc1R\xfa\xde?'
+p344
+tp345
+Rp346
+tp347
+a(S'international conference on architectural support for programming languages and operating systems'
+p348
+g2
+(g6
+S'\x108\xaf\xc9N\xf5\xde?'
+p349
+tp350
+Rp351
+tp352
+a(S'brent hailpern'
+p353
+g2
+(g6
+S'\xdd\x1d\\sh\xdd\xde?'
+p354
+tp355
+Rp356
+tp357
+a(S'symposium on applied computing'
+p358
+g2
+(g6
+S'\xe3E\xafQ\xf0\xd4\xde?'
+p359
+tp360
+Rp361
+tp362
+a(S'parity learning'
+p363
+g2
+(g6
+S'\xfe\xa0\x8a\xe43\xc5\xde?'
+p364
+tp365
+Rp366
+tp367
+a(S'leon j. osterweil'
+p368
+g2
+(g6
+S'\x07\x18\xa3\xd1\r\xaa\xde?'
+p369
+tp370
+Rp371
+tp372
+a(S'international joint conference on web intelligence and intelligent agent technology'
+p373
+g2
+(g6
+S'\x17\xcb\x9a\xa0\x11n\xde?'
+p374
+tp375
+Rp376
+tp377
+a(S'leonidas j. guibas'
+p378
+g2
+(g6
+S'\xf26\x8dB\xb8k\xde?'
+p379
+tp380
+Rp381
+tp382
+a(S'jock d. mackinlay'
+p383
+g2
+(g6
+S'=u\x97\x03{\xce\xdd?'
+p384
+tp385
+Rp386
+tp387
+a(S'symposium on parallelism in algorithms and architectures'
+p388
+g2
+(g6
+S'D\xf4A3\x8f\xbf\xdd?'
+p389
+tp390
+Rp391
+tp392
+a(S'acm air charter'
+p393
+g2
+(g6
+S'X\x05X_\xeb\x8f\xdd?'
+p394
+tp395
+Rp396
+tp397
+a(S'tracy camp'
+p398
+g2
+(g6
+S'\x8b!\xb9\xf2\xe1\x87\xdd?'
+p399
+tp400
+Rp401
+tp402
+a(S'ieee/acm transactions on networking'
+p403
+g2
+(g6
+S'\xcdcMX.L\xdd?'
+p404
+tp405
+Rp406
+tp407
+a(S'adelaide college of ministries'
+p408
+g2
+(g6
+S'v\x9d6PoJ\xdd?'
+p409
+tp410
+Rp411
+tp412
+a(S'lori a. clarke'
+p413
+g2
+(g6
+S'0\x08\xdd#.;\xdd?'
+p414
+tp415
+Rp416
+tp417
+a(S'tim finin'
+p418
+g2
+(g6
+S'p\x1c\x1b\x7f\x8e%\xdd?'
+p419
+tp420
+Rp421
+tp422
+a(S'acm multimedia'
+p423
+g2
+(g6
+S'\x90\xa8i\x13P\x01\xdd?'
+p424
+tp425
+Rp426
+tp427
+a(S'uss buttress (acm-4)'
+p428
+g2
+(g6
+S'"C\x92\x92\xe9\xfe\xdc?'
+p429
+tp430
+Rp431
+tp432
+a(S'international conference on simulation and modeling methodologies, technologies and applications'
+p433
+g2
+(g6
+S'\xe2\xfb\xb9\x04K\xc9\xdc?'
+p434
+tp435
+Rp436
+tp437
+a(S'barbara g. ryder'
+p438
+g2
+(g6
+S'\xb7\x1a\xf5\x82\xc3\xa6\xdc?'
+p439
+tp440
+Rp441
+tp442
+a(S'franz alt (mathematician)'
+p443
+g2
+(g6
+S'\xec\xecy\x01\x8fv\xdc?'
+p444
+tp445
+Rp446
+tp447
+a(S'university of maryland human\xe2\x80\x93computer interaction lab'
+p448
+g2
+(g6
+S'ta\xd9"ao\xdc?'
+p449
+tp450
+Rp451
+tp452
+a(S'scott hudson (computer scientist)'
+p453
+g2
+(g6
+S'\xba\n\xb0\x05\x9bB\xdc?'
+p454
+tp455
+Rp456
+tp457
+a(S'philip s. yu'
+p458
+g2
+(g6
+S"\xba',W\xac6\xdc?"
+p459
+tp460
+Rp461
+tp462
+a(S'john m. carroll (information scientist)'
+p463
+g2
+(g6
+S'\x81c=\xb2\xa9\xe1\xdb?'
+p464
+tp465
+Rp466
+tp467
+a(S'george g. robertson'
+p468
+g2
+(g6
+S'.\xfd\xdb\xd6O\xdb\xdb?'
+p469
+tp470
+Rp471
+tp472
+a(S'vicki l. hanson'
+p473
+g2
+(g6
+S'g\x7f\xedB\x07\xd9\xdb?'
+p474
+tp475
+Rp476
+tp477
+a(S'acm transactions on multimedia computing, communications, and applications'
+p478
+g2
+(g6
+S'\xd8\x9eV\xe8n\xd8\xdb?'
+p479
+tp480
+Rp481
+tp482
+a(S'acm transactions on programming languages and systems'
+p483
+g2
+(g6
+S'\x0f\xef\xd4\xacH\xd7\xdb?'
+p484
+tp485
+Rp486
+tp487
+a(S'eric s. roberts'
+p488
+g2
+(g6
+S'\xf5\xad}_\xd7\xc6\xdb?'
+p489
+tp490
+Rp491
+tp492
+a(S'ronald baecker'
+p493
+g2
+(g6
+S'}\x81>\xad\x0cR\xdb?'
+p494
+tp495
+Rp496
+tp497
+a(S'craig gentry (computer scientist)'
+p498
+g2
+(g6
+S'\x9c\xd9\xfc\x08\xb3M\xdb?'
+p499
+tp500
+Rp501
+tp502
+a(S'joyce currie little'
+p503
+g2
+(g6
+S'EWP\x92\xa8=\xdb?'
+p504
+tp505
+Rp506
+tp507
+a(S'list of computer science journals'
+p508
+g2
+(g6
+S'\xf7\xcf\xb4\x18\xb92\xdb?'
+p509
+tp510
+Rp511
+tp512
+a(S'liuba shrira'
+p513
+g2
+(g6
+S'\xe4\x98J ^\x16\xdb?'
+p514
+tp515
+Rp516
+tp517
+a(S'donald gotterbarn'
+p518
+g2
+(g6
+S'\x1d\xe2\xd7\t\x02\x03\xdb?'
+p519
+tp520
+Rp521
+tp522
+a(S'christos faloutsos'
+p523
+g2
+(g6
+S'l@\x95\x98[\xf7\xda?'
+p524
+tp525
+Rp526
+tp527
+a(S'dale skeen'
+p528
+g2
+(g6
+S'\xe2CTO\xd4\xf3\xda?'
+p529
+tp530
+Rp531
+tp532
+a(S'alexandre proutiere'
+p533
+g2
+(g6
+S'\xa4\xd1\xb4\x11\xd9\xcc\xda?'
+p534
+tp535
+Rp536
+tp537
+a(S'yehoshua sagiv'
+p538
+g2
+(g6
+S'\x03\x17\x8c\xbeu\xb5\xda?'
+p539
+tp540
+Rp541
+tp542
+a(S'charles e. leiserson'
+p543
+g2
+(g6
+S'\x1cZl\xe6\x9b\xa9\xda?'
+p544
+tp545
+Rp546
+tp547
+a(S'australasian correctional management'
+p548
+g2
+(g6
+S'\xd1\x8f\x80\x11\xe4\xa1\xda?'
+p549
+tp550
+Rp551
+tp552
+a(S'canonicus (acm-12)'
+p553
+g2
+(g6
+S'%>w\xb6+\x99\xda?'
+p554
+tp555
+Rp556
+tp557
+a(S'ken birman'
+p558
+g2
+(g6
+S'4\xcc\xe5|\xc5z\xda?'
+p559
+tp560
+Rp561
+tp562
+a(S'mark guzdial'
+p563
+g2
+(g6
+S'T\xdb\x9e"\x0eL\xda?'
+p564
+tp565
+Rp566
+tp567
+a(S'barbara simons'
+p568
+g2
+(g6
+S'\xe1\xe2\xc3\xdd\xdaJ\xda?'
+p569
+tp570
+Rp571
+tp572
+a(S'nuria oliver'
+p573
+g2
+(g6
+S'\x05\xda;\xde\x19J\xda?'
+p574
+tp575
+Rp576
+tp577
+a(S'joe ossanna'
+p578
+g2
+(g6
+S's=\xf0$\\3\xda?'
+p579
+tp580
+Rp581
+tp582
+a(S'conference on innovative data systems research'
+p583
+g2
+(g6
+S'\xff9\xddk\x1c\xea\xd9?'
+p584
+tp585
+Rp586
+tp587
+a(S'john c. reynolds'
+p588
+g2
+(g6
+S'\x14^80\x91\xd4\xd9?'
+p589
+tp590
+Rp591
+tp592
+a(S'michael langston'
+p593
+g2
+(g6
+S'\xf0R\xd1\xb6\x85\x87\xd9?'
+p594
+tp595
+Rp596
+tp597
+a(S'associated colleges of the midwest'
+p598
+g2
+(g6
+S'\xf3\xa1\xf3 \xb2w\xd9?'
+p599
+tp600
+Rp601
+tp602
+a(S'ernesto damiani'
+p603
+g2
+(g6
+S'y\x19\x98\x88\x01L\xd9?'
+p604
+tp605
+Rp606
+tp607
+a(S'list of distributed computing conferences'
+p608
+g2
+(g6
+S'P&p+\x1bB\xd9?'
+p609
+tp610
+Rp611
+tp612
+a(S'david harel'
+p613
+g2
+(g6
+S'\x1d\xcc)\xbbV\r\xd9?'
+p614
+tp615
+Rp616
+tp617
+a(S'seymour cray computer engineering award'
+p618
+g2
+(g6
+S'\xd1\xff\xb8\xce\x14\x0c\xd9?'
+p619
+tp620
+Rp621
+tp622
+a(S'light field'
+p623
+g2
+(g6
+S'\xdb3\xfeEn\x07\xd9?'
+p624
+tp625
+Rp626
+tp627
+a(S'sigchi'
+p628
+g2
+(g6
+S')o]M\x86\x03\xd9?'
+p629
+tp630
+Rp631
+tp632
+a(S'william cook (computer scientist)'
+p633
+g2
+(g6
+S'\xef\xdc\xfa\x0c3\xf1\xd8?'
+p634
+tp635
+Rp636
+tp637
+a(S'stephen r. bourne'
+p638
+g2
+(g6
+S'c`\xd4(\x83\xea\xd8?'
+p639
+tp640
+Rp641
+tp642
+a(S'international systems and storage conference'
+p643
+g2
+(g6
+S'\xc1;\x9dU\xcf\xe0\xd8?'
+p644
+tp645
+Rp646
+tp647
+a(S'don williams'
+p648
+g2
+(g6
+S'\x0c\x15X\xcd5\xc2\xd8?'
+p649
+tp650
+Rp651
+tp652
+a(S'sigmobile'
+p653
+g2
+(g6
+S'\xa0\x14\x86\xb6\xfb\xb3\xd8?'
+p654
+tp655
+Rp656
+tp657
+a(S'imrich chlamtac'
+p658
+g2
+(g6
+S'\xebT\x02a\xba\xaf\xd8?'
+p659
+tp660
+Rp661
+tp662
+a(S'poul-henning kamp'
+p663
+g2
+(g6
+S',\x9dJ\x0e\x05\xac\xd8?'
+p664
+tp665
+Rp666
+tp667
+a(S'acm/ieee supercomputing conference'
+p668
+g2
+(g6
+S'9\xeb\xdbm\x82\xa3\xd8?'
+p669
+tp670
+Rp671
+tp672
+a(S'david patterson (computer scientist)'
+p673
+g2
+(g6
+S'\x01\xd5\xb7\xf8\x10\x8a\xd8?'
+p674
+tp675
+Rp676
+tp677
+a(S'australian college of midwives'
+p678
+g2
+(g6
+S'+\x9b\xe5,\xc0\x88\xd8?'
+p679
+tp680
+Rp681
+tp682
+a(S'conference on embedded networked sensor systems'
+p683
+g2
+(g6
+S'\x87\xb1JJ\xaa\x87\xd8?'
+p684
+tp685
+Rp686
+tp687
+a(S'ian f. akyildiz'
+p688
+g2
+(g6
+S'\x1f\xde\x8b\xbd\x87t\xd8?'
+p689
+tp690
+Rp691
+tp692
+a(S'ken kennedy (computer scientist)'
+p693
+g2
+(g6
+S"\xe9'E\tIV\xd8?"
+p694
+tp695
+Rp696
+tp697
+a(S'david kuck'
+p698
+g2
+(g6
+S'\x96X\x14\xd1\xc6A\xd8?'
+p699
+tp700
+Rp701
+tp702
+a(S'penny crane award for distinguished service'
+p703
+g2
+(g6
+S'\x0c\xfb\xac\xdc\xbe>\xd8?'
+p704
+tp705
+Rp706
+tp707
+a(S'dijkstra prize'
+p708
+g2
+(g6
+S'\x03\xd21k\xdc$\xd8?'
+p709
+tp710
+Rp711
+tp712
+a(S'henry fuchs'
+p713
+g2
+(g6
+S'\r|-\x1cH\xe9\xd7?'
+p714
+tp715
+Rp716
+tp717
+a(S'kathryn s. mckinley'
+p718
+g2
+(g6
+S'g\xe7*m\xfc\xcf\xd7?'
+p719
+tp720
+Rp721
+tp722
+a(S'mehran sahami'
+p723
+g2
+(g6
+S'\x93W\xd2\xea\x86\xcb\xd7?'
+p724
+tp725
+Rp726
+tp727
+a(S'computer science teachers association'
+p728
+g2
+(g6
+S'\xf64\xack7\xbf\xd7?'
+p729
+tp730
+Rp731
+tp732
+a(S'moshe vardi'
+p733
+g2
+(g6
+S'>"\x98#[\xa8\xd7?'
+p734
+tp735
+Rp736
+tp737
+a(S'split-c'
+p738
+g2
+(g6
+S'\xe8\xbe\xed\x1b\xe5\xa5\xd7?'
+p739
+tp740
+Rp741
+tp742
+a(S'pc\xc2\xb2'
+p743
+g2
+(g6
+S'p\xaf\xcf\xff\xbd\x95\xd7?'
+p744
+tp745
+Rp746
+tp747
+a(S'symposium on principles of distributed computing'
+p748
+g2
+(g6
+S'75\xda\xc3\xa3\x94\xd7?'
+p749
+tp750
+Rp751
+tp752
+a(S'steve whittaker'
+p753
+g2
+(g6
+S'\x92\x13n^\x12\x93\xd7?'
+p754
+tp755
+Rp756
+tp757
+a(S'acm transactions on database systems'
+p758
+g2
+(g6
+S'LiL\x96\x03\x92\xd7?'
+p759
+tp760
+Rp761
+tp762
+a(S'johannes sch\xc3\xb6ning'
+p763
+g2
+(g6
+S'\x8dH\x9bkJ\x90\xd7?'
+p764
+tp765
+Rp766
+tp767
+a(S'american federation of information processing societies'
+p768
+g2
+(g6
+S'\xebn\xbe-:\x82\xd7?'
+p769
+tp770
+Rp771
+tp772
+a(S'sarita adve'
+p773
+g2
+(g6
+S'\xfby\x84&\x85\\\xd7?'
+p774
+tp775
+Rp776
+tp777
+a(S'action civique montr\xc3\xa9al'
+p778
+g2
+(g6
+S'k\xa4\x8f]\xcaJ\xd7?'
+p779
+tp780
+Rp781
+tp782
+a(S'sajal k. das'
+p783
+g2
+(g6
+S'\x1a\x80\xeafY\x1a\xd7?'
+p784
+tp785
+Rp786
+tp787
+a(S'mobile computing and communications review'
+p788
+g2
+(g6
+S'\xdf\x94\x92\x02G\xfe\xd6?'
+p789
+tp790
+Rp791
+tp792
+a(S'gul agha (computer scientist)'
+p793
+g2
+(g6
+S'\xec\x03\xe2$\xdb\xf1\xd6?'
+p794
+tp795
+Rp796
+tp797
+a(S'christos kozyrakis'
+p798
+g2
+(g6
+S'\xfe\x80V`\xde\xf0\xd6?'
+p799
+tp800
+Rp801
+tp802
+a(S'list of computer science conference acronyms'
+p803
+g2
+(g6
+S'\x89\xefQ\xb7\xa0\xe0\xd6?'
+p804
+tp805
+Rp806
+tp807
+a(S'ptql'
+p808
+g2
+(g6
+S'6\xfat\xf0\xa7\xdf\xd6?'
+p809
+tp810
+Rp811
+tp812
+a(S'david eppstein'
+p813
+g2
+(g6
+S'\x15\xea\xbd\xb6S\xcc\xd6?'
+p814
+tp815
+Rp816
+tp817
+a(S'markus gross'
+p818
+g2
+(g6
+S'\x10\x01m\x0f>\xcb\xd6?'
+p819
+tp820
+Rp821
+tp822
+a(S'adam wierman'
+p823
+g2
+(g6
+S'\x03\xe6\xcd4\xfb\xba\xd6?'
+p824
+tp825
+Rp826
+tp827
+a(S'acm siglog'
+p828
+g2
+(g6
+S'(\x8e\xce\xb4\xd5\xb9\xd6?'
+p829
+tp830
+Rp831
+tp832
+a(S'daniel g. bobrow'
+p833
+g2
+(g6
+S'UV\xda\x0c?\xaf\xd6?'
+p834
+tp835
+Rp836
+tp837
+a(S'upsilon pi epsilon'
+p838
+g2
+(g6
+S'\xc2KD\xa0\xeb\xa5\xd6?'
+p839
+tp840
+Rp841
+tp842
+a(S'symposium on logic in computer science'
+p843
+g2
+(g6
+S"nv'\x96*\x9f\xd6?"
+p844
+tp845
+Rp846
+tp847
+a(S'holly rushmeier'
+p848
+g2
+(g6
+S'\x0c\xcb\xb44\xad\x90\xd6?'
+p849
+tp850
+Rp851
+tp852
+a(S'henry kautz'
+p853
+g2
+(g6
+S'\x96V\xce\xa7 \x87\xd6?'
+p854
+tp855
+Rp856
+tp857
+a(S'wizard of oz experiment'
+p858
+g2
+(g6
+S'\xe0\x97\x08\xfd\x16\x84\xd6?'
+p859
+tp860
+Rp861
+tp862
+a(S'irfan pardesi'
+p863
+g2
+(g6
+S'\xbf\xa9\xcbk^}\xd6?'
+p864
+tp865
+Rp866
+tp867
+a(S'erol gelenbe'
+p868
+g2
+(g6
+S'\x8fS\x01\x99\xadg\xd6?'
+p869
+tp870
+Rp871
+tp872
+a(S'frans kaashoek'
+p873
+g2
+(g6
+S'v\xcf\xb4bQ`\xd6?'
+p874
+tp875
+Rp876
+tp877
+a(S'jack minker'
+p878
+g2
+(g6
+S'\xf6\x1d\xbe\xbc\x08Z\xd6?'
+p879
+tp880
+Rp881
+tp882
+a(S'elizabeth mynatt'
+p883
+g2
+(g6
+S'\xe6JtY"W\xd6?'
+p884
+tp885
+Rp886
+tp887
+a(S'acm transactions on information systems'
+p888
+g2
+(g6
+S'^\xad\xcci\xc7C\xd6?'
+p889
+tp890
+Rp891
+tp892
+a(S'david blei'
+p893
+g2
+(g6
+S'\xf5\xe5\xb5\xe7\x1b(\xd6?'
+p894
+tp895
+Rp896
+tp897
+a(S'conference on human factors in computing systems'
+p898
+g2
+(g6
+S'"U\x99K;&\xd6?'
+p899
+tp900
+Rp901
+tp902
+a(S'richard tapia celebration of diversity in computing'
+p903
+g2
+(g6
+S'\x83W\x1b\xa7\x1e\x18\xd6?'
+p904
+tp905
+Rp906
+tp907
+a(S'rajeev alur'
+p908
+g2
+(g6
+S'\x90n\xf0\x90v\x14\xd6?'
+p909
+tp910
+Rp911
+tp912
+a(S'michael lew'
+p913
+g2
+(g6
+S'\x0bqqS\xfa\x12\xd6?'
+p914
+tp915
+Rp916
+tp917
+a(S'symposium on foundations of computer science'
+p918
+g2
+(g6
+S'f\x18\x07\xebG\x11\xd6?'
+p919
+tp920
+Rp921
+tp922
+a(S'p. j. narayanan'
+p923
+g2
+(g6
+S'\xbc\xf6\xd0$V\xf5\xd5?'
+p924
+tp925
+Rp926
+tp927
+a(S'peter wegner'
+p928
+g2
+(g6
+S'\x19\xd80@Z\xf2\xd5?'
+p929
+tp930
+Rp931
+tp932
+a(S'sigmod'
+p933
+g2
+(g6
+S'n\xc7\x90:\x85\xef\xd5?'
+p934
+tp935
+Rp936
+tp937
+a(S'opensym'
+p938
+g2
+(g6
+S'\x0e\xbb\x97\xe3\x1f\xea\xd5?'
+p939
+tp940
+Rp941
+tp942
+a(S'monica s. lam'
+p943
+g2
+(g6
+S'\x99Qm\xcc\x8d\xd3\xd5?'
+p944
+tp945
+Rp946
+tp947
+a(S'special interest group on design automation'
+p948
+g2
+(g6
+S'F\xe4\x8a{\\\xd3\xd5?'
+p949
+tp950
+Rp951
+tp952
+a(S'susan l. graham'
+p953
+g2
+(g6
+S'\x025#\xda\xf4\xd2\xd5?'
+p954
+tp955
+Rp956
+tp957
+a(S'susan h. rodger'
+p958
+g2
+(g6
+S'x\x8c\xd1\x91\x13\xd0\xd5?'
+p959
+tp960
+Rp961
+tp962
+a(S'acm international collegiate programming contest'
+p963
+g2
+(g6
+S'd\xa4z \xaa\xcd\xd5?'
+p964
+tp965
+Rp966
+tp967
+a(S'symposium on theory of computing'
+p968
+g2
+(g6
+S'GN\xf2\xca\xf3\xb2\xd5?'
+p969
+tp970
+Rp971
+tp972
+a(S'ronald anderson'
+p973
+g2
+(g6
+S'K\x80\xbc\x040\xa7\xd5?'
+p974
+tp975
+Rp976
+tp977
+a(S'don r. swanson'
+p978
+g2
+(g6
+S'\xd1\x8er\x998\x8c\xd5?'
+p979
+tp980
+Rp981
+tp982
+a(S'symposium on discrete algorithms'
+p983
+g2
+(g6
+S'\xac\xcb\xb5\xab\r}\xd5?'
+p984
+tp985
+Rp986
+tp987
+a(S'acm software system award'
+p988
+g2
+(g6
+S'X\xf7\x9cKH{\xd5?'
+p989
+tp990
+Rp991
+tp992
+a(S'carlo ghezzi'
+p993
+g2
+(g6
+S'\xd2\xb9\x07\xac\xead\xd5?'
+p994
+tp995
+Rp996
+tp997
+a(S'sally floyd'
+p998
+g2
+(g6
+S'\xa6.V`\xa9`\xd5?'
+p999
+tp1000
+Rp1001
+tp1002
+a(S'susan j. eggers'
+p1003
+g2
+(g6
+S'\x89\x8c\xcaDmZ\xd5?'
+p1004
+tp1005
+Rp1006
+tp1007
+a(S'albert zomaya'
+p1008
+g2
+(g6
+S'\xb3\xdd\xb3H\xb5T\xd5?'
+p1009
+tp1010
+Rp1011
+tp1012
+a(S'wyct'
+p1013
+g2
+(g6
+S'\xd3\xf7\xea4\xb0I\xd5?'
+p1014
+tp1015
+Rp1016
+tp1017
+a(S'wenfei fan'
+p1018
+g2
+(g6
+S'+\xdf\xef\xa6oA\xd5?'
+p1019
+tp1020
+Rp1021
+tp1022
+a(S'james l. mohler'
+p1023
+g2
+(g6
+S'\nBV\xba\xf7:\xd5?'
+p1024
+tp1025
+Rp1026
+tp1027
+a(S'evgeniy gabrilovich'
+p1028
+g2
+(g6
+S'>\xd4D\x0c\xda&\xd5?'
+p1029
+tp1030
+Rp1031
+tp1032
+a(S'axel van lamsweerde'
+p1033
+g2
+(g6
+S'\x90\x1263\x00\x0e\xd5?'
+p1034
+tp1035
+Rp1036
+tp1037
+a(S'paris kanellakis award'
+p1038
+g2
+(g6
+S'[\xf7\x89\xcb\xa3\n\xd5?'
+p1039
+tp1040
+Rp1041
+tp1042
+a(S'massoud pedram'
+p1043
+g2
+(g6
+S'X\x0f\x03\x9e \x05\xd5?'
+p1044
+tp1045
+Rp1046
+tp1047
+a(S'ruzena bajcsy'
+p1048
+g2
+(g6
+S'\x0fJ&0\xee\xf7\xd4?'
+p1049
+tp1050
+Rp1051
+tp1052
+a(S'protection mechanism'
+p1053
+g2
+(g6
+S'j\xb2k \x7f\xf5\xd4?'
+p1054
+tp1055
+Rp1056
+tp1057
+a(S'roel vertegaal'
+p1058
+g2
+(g6
+S'\xd5\x8a\xb0\xbbh\xdd\xd4?'
+p1059
+tp1060
+Rp1061
+tp1062
+a(S'ralph johnson (computer scientist)'
+p1063
+g2
+(g6
+S'\xe6\x84\x88\xd5\\\xdd\xd4?'
+p1064
+tp1065
+Rp1066
+tp1067
+a(S'jonathan grudin'
+p1068
+g2
+(g6
+S'n\xad"kG\xdd\xd4?'
+p1069
+tp1070
+Rp1071
+tp1072
+a(S'gordon bell prize'
+p1073
+g2
+(g6
+S'\rr\x18?\x83\xda\xd4?'
+p1074
+tp1075
+Rp1076
+tp1077
+a(S'erez petrank'
+p1078
+g2
+(g6
+S'\x0e[\x07\xcc&\xd9\xd4?'
+p1079
+tp1080
+Rp1081
+tp1082
+a(S'ganesh vaidyanathan'
+p1083
+g2
+(g6
+S'\x8b\x96\x02\xa2u\xd3\xd4?'
+p1084
+tp1085
+Rp1086
+tp1087
+a(S'james d. foley'
+p1088
+g2
+(g6
+S'v\xc8\x8eu8\xc9\xd4?'
+p1089
+tp1090
+Rp1091
+tp1092
+a(S'stefano ceri'
+p1093
+g2
+(g6
+S'\x936i\t6\xc8\xd4?'
+p1094
+tp1095
+Rp1096
+tp1097
+a(S'daniel d. mccracken'
+p1098
+g2
+(g6
+S'\xe7U\nJ\x07\xc8\xd4?'
+p1099
+tp1100
+Rp1101
+tp1102
+a(S'elizabeth f. churchill'
+p1103
+g2
+(g6
+S'i]\xa5\xab\x87\xaf\xd4?'
+p1104
+tp1105
+Rp1106
+tp1107
+a(S'nir shavit'
+p1108
+g2
+(g6
+S"]\xd3Co'\xa1\xd4?"
+p1109
+tp1110
+Rp1111
+tp1112
+a(S'list of acm-w celebrations'
+p1113
+g2
+(g6
+S'\xd1<"\xd5\x84\x9d\xd4?'
+p1114
+tp1115
+Rp1116
+tp1117
+a(S'jack dongarra'
+p1118
+g2
+(g6
+S'\xc5:\xc4\xd1j\x9d\xd4?'
+p1119
+tp1120
+Rp1121
+tp1122
+a(S'ren\xc3\xa9e miller'
+p1123
+g2
+(g6
+S':\xc5\x9d\r\x80\x9c\xd4?'
+p1124
+tp1125
+Rp1126
+tp1127
+a(S'lucy young'
+p1128
+g2
+(g6
+S'YN\xa3"u\x92\xd4?'
+p1129
+tp1130
+Rp1131
+tp1132
+a(S'ieee/acm transactions on computational biology and bioinformatics'
+p1133
+g2
+(g6
+S'@L\xca\xb9\xf5\x81\xd4?'
+p1134
+tp1135
+Rp1136
+tp1137
+a(S'usama fayyad'
+p1138
+g2
+(g6
+S'Xw\x89\xcfT~\xd4?'
+p1139
+tp1140
+Rp1141
+tp1142
+a(S'\xc3\x89va tardos'
+p1143
+g2
+(g6
+S'\x8a\xcfHl\xa2d\xd4?'
+p1144
+tp1145
+Rp1146
+tp1147
+a(S'acm sigweb'
+p1148
+g2
+(g6
+S'.\xb8\xe2\xd0RN\xd4?'
+p1149
+tp1150
+Rp1151
+tp1152
+a(S'acm transactions on computer-human interaction'
+p1153
+g2
+(g6
+S'[\xb2,\xa7U8\xd4?'
+p1154
+tp1155
+Rp1156
+tp1157
+a(S'sigcomm'
+p1158
+g2
+(g6
+S'rC\x93\x15\x982\xd4?'
+p1159
+tp1160
+Rp1161
+tp1162
+a(S'monadnock (acm-14)'
+p1163
+g2
+(g6
+S'\x02(S\xe5\x97/\xd4?'
+p1164
+tp1165
+Rp1166
+tp1167
+a(S'victor vianu'
+p1168
+g2
+(g6
+S'"8\x97\xcd\x87.\xd4?'
+p1169
+tp1170
+Rp1171
+tp1172
+a(S'wendy kellogg'
+p1173
+g2
+(g6
+S"i-E\x11Z'\xd4?"
+p1174
+tp1175
+Rp1176
+tp1177
+a(S'ronald fagin'
+p1178
+g2
+(g6
+S'\xfa\xe4=\x1e$!\xd4?'
+p1179
+tp1180
+Rp1181
+tp1182
+a(S'mordechai ben-ari'
+p1183
+g2
+(g6
+S'mhW < \xd4?'
+p1184
+tp1185
+Rp1186
+tp1187
+a(S'bill griswold'
+p1188
+g2
+(g6
+S'\xfaoa\xa4\t\x13\xd4?'
+p1189
+tp1190
+Rp1191
+tp1192
+a(S'rakesh agrawal (computer scientist)'
+p1193
+g2
+(g6
+S'\xdc6\xdb\x9b\xbd\n\xd4?'
+p1194
+tp1195
+Rp1196
+tp1197
+a(S'ken kennedy award'
+p1198
+g2
+(g6
+S')\x9a\xea, \xfb\xd3?'
+p1199
+tp1200
+Rp1201
+tp1202
+a(S'operation mountain viper'
+p1203
+g2
+(g6
+S'X\xa8S\xc8W\xd7\xd3?'
+p1204
+tp1205
+Rp1206
+tp1207
+a(S'patricia selinger'
+p1208
+g2
+(g6
+S'*}2\xd6.\xd2\xd3?'
+p1209
+tp1210
+Rp1211
+tp1212
+a(S'jeffrey naughton'
+p1213
+g2
+(g6
+S'\x99?g\x00b\xbb\xd3?'
+p1214
+tp1215
+Rp1216
+tp1217
+a(S'sigchi bulletin'
+p1218
+g2
+(g6
+S'\x19\x81\x11~R\x9b\xd3?'
+p1219
+tp1220
+Rp1221
+tp1222
+a(S'cluster manager'
+p1223
+g2
+(g6
+S'-\xebj\x1e\xff\x99\xd3?'
+p1224
+tp1225
+Rp1226
+tp1227
+a(S'codechef'
+p1228
+g2
+(g6
+S'\x12\xaf\x8da\xf4\x99\xd3?'
+p1229
+tp1230
+Rp1231
+tp1232
+a(S'larry l. peterson'
+p1233
+g2
+(g6
+S'7\xb5\xd84\xf3\x8a\xd3?'
+p1234
+tp1235
+Rp1236
+tp1237
+a(S'nell b. dale'
+p1238
+g2
+(g6
+S'\xded|\xab\x9a\x8a\xd3?'
+p1239
+tp1240
+Rp1241
+tp1242
+a(S'charles bachman'
+p1243
+g2
+(g6
+S'\xecn\xf2N\xd2x\xd3?'
+p1244
+tp1245
+Rp1246
+tp1247
+a(S'zhang hongjiang'
+p1248
+g2
+(g6
+S'VXg0\xf6o\xd3?'
+p1249
+tp1250
+Rp1251
+tp1252
+a(S'eckert\xe2\x80\x93mauchly award'
+p1253
+g2
+(g6
+S'\x04\x91e\xe3\x94k\xd3?'
+p1254
+tp1255
+Rp1256
+tp1257
+a(S'constantinos daskalakis'
+p1258
+g2
+(g6
+S'\x87\x92\x9c\xac`c\xd3?'
+p1259
+tp1260
+Rp1261
+tp1262
+a(S'acm symposium on user interface software and technology'
+p1263
+g2
+(g6
+S' \xb0\xb0\xd4\xaba\xd3?'
+p1264
+tp1265
+Rp1266
+tp1267
+a(S'nikil dutt'
+p1268
+g2
+(g6
+S'e\xa9\xa8N)[\xd3?'
+p1269
+tp1270
+Rp1271
+tp1272
+a(S'matthias felleisen'
+p1273
+g2
+(g6
+S'2\xe4X{\xa7?\xd3?'
+p1274
+tp1275
+Rp1276
+tp1277
+a(S'acm computers in entertainment'
+p1278
+g2
+(g6
+S'\x9f\x05\xa1\xceY:\xd3?'
+p1279
+tp1280
+Rp1281
+tp1282
+a(S'web intelligence consortium'
+p1283
+g2
+(g6
+S'\xf4{\xd7\x03R/\xd3?'
+p1284
+tp1285
+Rp1286
+tp1287
+a(S'fabio patern\xc3\xb2'
+p1288
+g2
+(g6
+S'\xe5\xe1\xf4\xbe\xd0)\xd3?'
+p1289
+tp1290
+Rp1291
+tp1292
+a(S'mihalis yannakakis'
+p1293
+g2
+(g6
+S'nzN\r\xdf#\xd3?'
+p1294
+tp1295
+Rp1296
+tp1297
+a(S'prabhakar raghavan'
+p1298
+g2
+(g6
+S'OT\xd7j7"\xd3?'
+p1299
+tp1300
+Rp1301
+tp1302
+a(S'catherine mcgeoch'
+p1303
+g2
+(g6
+S'\x97\xeeq\x90\x8a!\xd3?'
+p1304
+tp1305
+Rp1306
+tp1307
+a(S'gerald estrin'
+p1308
+g2
+(g6
+S'\xff\xce6#\xeb\x1c\xd3?'
+p1309
+tp1310
+Rp1311
+tp1312
+a(S'hagit attiya'
+p1313
+g2
+(g6
+S'A\x84\xb8\xb3/\x0e\xd3?'
+p1314
+tp1315
+Rp1316
+tp1317
+a(S'charles r. moore (computer engineer)'
+p1318
+g2
+(g6
+S'\xda\xcb\xc2\x11\x13\x0b\xd3?'
+p1319
+tp1320
+Rp1321
+tp1322
+a(S'coalition to diversify computing'
+p1323
+g2
+(g6
+S'\x1f\xb0\x1b>\xca\x02\xd3?'
+p1324
+tp1325
+Rp1326
+tp1327
+a(S'bhavani thuraisingham'
+p1328
+g2
+(g6
+S'I\xc7\xf1\xdf\xf5\xfe\xd2?'
+p1329
+tp1330
+Rp1331
+tp1332
+a(S'joseph seffi naor'
+p1333
+g2
+(g6
+S'\xe2\x16\x040\xb9\xfb\xd2?'
+p1334
+tp1335
+Rp1336
+tp1337
+a(S'john rosenberg (academic)'
+p1338
+g2
+(g6
+S'\xdbo\xb4P\x94\xef\xd2?'
+p1339
+tp1340
+Rp1341
+tp1342
+a(S'empirical methods in natural language processing'
+p1343
+g2
+(g6
+S'\xcf\x9b\x16\x07W\xea\xd2?'
+p1344
+tp1345
+Rp1346
+tp1347
+a(S'michael luby'
+p1348
+g2
+(g6
+S'<6\xa2o\xfe\xe5\xd2?'
+p1349
+tp1350
+Rp1351
+tp1352
+a(S'list of computer magazines'
+p1353
+g2
+(g6
+S'\xd7+A ;\xe5\xd2?'
+p1354
+tp1355
+Rp1356
+tp1357
+a(S'shamkant navathe'
+p1358
+g2
+(g6
+S"\x96\x87'\xd7\xe1\xd1\xd2?"
+p1359
+tp1360
+Rp1361
+tp1362
+a(S'marilyn wolf'
+p1363
+g2
+(g6
+S'\nn{\xac\xf3\xc7\xd2?'
+p1364
+tp1365
+Rp1366
+tp1367
+a(S'syed akhter hossain'
+p1368
+g2
+(g6
+S'\x9a\xfe\x89\xde \xbe\xd2?'
+p1369
+tp1370
+Rp1371
+tp1372
+a(S'jiawei han'
+p1373
+g2
+(g6
+S"\xa2'\xc6\xc2*\xad\xd2?"
+p1374
+tp1375
+Rp1376
+tp1377
+a(S'mechmania'
+p1378
+g2
+(g6
+S'\n\xbc\xc8\xf9r\xa8\xd2?'
+p1379
+tp1380
+Rp1381
+tp1382
+a(S'computer: a history of the information machine'
+p1383
+g2
+(g6
+S';\xecm\x8b8\x9d\xd2?'
+p1384
+tp1385
+Rp1386
+tp1387
+a(S'autonomous agents and multi-agent systems'
+p1388
+g2
+(g6
+S'>h\xcb\x8b\x99\x98\xd2?'
+p1389
+tp1390
+Rp1391
+tp1392
+a(S'milan vojnovic'
+p1393
+g2
+(g6
+S'\x83\xde\x8a\x8cG\x93\xd2?'
+p1394
+tp1395
+Rp1396
+tp1397
+a(S'robert b. schnabel'
+p1398
+g2
+(g6
+S'\t}\xbd\x83\x10\x87\xd2?'
+p1399
+tp1400
+Rp1401
+tp1402
+a(S'fx-87'
+p1403
+g2
+(g6
+S'-r\xb7\x1ew\x81\xd2?'
+p1404
+tp1405
+Rp1406
+tp1407
+a(S'david spadafora'
+p1408
+g2
+(g6
+S'\x0f\x14\xa5.\t~\xd2?'
+p1409
+tp1410
+Rp1411
+tp1412
+a(S'ion stoica'
+p1413
+g2
+(g6
+S'fT\x16llx\xd2?'
+p1414
+tp1415
+Rp1416
+tp1417
+a(S'oliver g\xc3\xbcnther'
+p1418
+g2
+(g6
+S'\x1e\xeb\x1d\x0c\xadq\xd2?'
+p1419
+tp1420
+Rp1421
+tp1422
+a(S'vikram adve'
+p1423
+g2
+(g6
+S'\r!\x98\xad\xa2F\xd2?'
+p1424
+tp1425
+Rp1426
+tp1427
+a(S'gerhard weikum'
+p1428
+g2
+(g6
+S'\x04\xc4\xc5\xa0\x04F\xd2?'
+p1429
+tp1430
+Rp1431
+tp1432
+a(S'acrylic rubber'
+p1433
+g2
+(g6
+S'\x9e\x83|\x98A=\xd2?'
+p1434
+tp1435
+Rp1436
+tp1437
+a(S'association for college management'
+p1438
+g2
+(g6
+S'\x8e\xa8\xfe\x8a\x191\xd2?'
+p1439
+tp1440
+Rp1441
+tp1442
+a(S'association for women in computing'
+p1443
+g2
+(g6
+S'\xbd\xab\xe8\xc6\xb4\x1d\xd2?'
+p1444
+tp1445
+Rp1446
+tp1447
+a(S'lance hoffman'
+p1448
+g2
+(g6
+S'\xbb\x96K.F\x1b\xd2?'
+p1449
+tp1450
+Rp1451
+tp1452
+a(S'sigmod edgar f. codd innovations award'
+p1453
+g2
+(g6
+S'\xd5<\x92\xc9\xa2\x10\xd2?'
+p1454
+tp1455
+Rp1456
+tp1457
+a(S'usha mittal institute of technology'
+p1458
+g2
+(g6
+S'b\xacb\x93p\x10\xd2?'
+p1459
+tp1460
+Rp1461
+tp1462
+a(S'john c.s. lui'
+p1463
+g2
+(g6
+S']r\xc3T\xbe\x01\xd2?'
+p1464
+tp1465
+Rp1466
+tp1467
+a(S'summer school marktoberdorf'
+p1468
+g2
+(g6
+S'\x02\xa4VG\x1a\xfe\xd1?'
+p1469
+tp1470
+Rp1471
+tp1472
+a(S'women in computing'
+p1473
+g2
+(g6
+S'/\xc3\x8e\xa6\x9d\xf9\xd1?'
+p1474
+tp1475
+Rp1476
+tp1477
+a(S'george michael (computational physicist)'
+p1478
+g2
+(g6
+S">\xc0'b8\xf0\xd1?"
+p1479
+tp1480
+Rp1481
+tp1482
+a(S'mary fern\xc3\xa1ndez'
+p1483
+g2
+(g6
+S'\x86\x05\x88\xddT\xed\xd1?'
+p1484
+tp1485
+Rp1486
+tp1487
+a(S'newton lee'
+p1488
+g2
+(g6
+S'\x89\xe6\x10\x88z\xe0\xd1?'
+p1489
+tp1490
+Rp1491
+tp1492
+a(S'acm'
+p1493
+g2
+(g6
+S't\x17\xeeAk\xce\xd1?'
+p1494
+tp1495
+Rp1496
+tp1497
+a(S'gerhard fischer (professor)'
+p1498
+g2
+(g6
+S'`&0\xd9\x00\xce\xd1?'
+p1499
+tp1500
+Rp1501
+tp1502
+a(S'gary miller (computer scientist)'
+p1503
+g2
+(g6
+S'H$6\xab\xef\xc4\xd1?'
+p1504
+tp1505
+Rp1506
+tp1507
+a(S'oliver bimber'
+p1508
+g2
+(g6
+S'\xa5\xec\xa7\x80\x8b\xc4\xd1?'
+p1509
+tp1510
+Rp1511
+tp1512
+a.

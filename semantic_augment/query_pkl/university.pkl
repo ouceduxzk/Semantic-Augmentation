@@ -1,0 +1,2728 @@
+(lp0
+(S'university'
+p1
+cnumpy.core.multiarray
+scalar
+p2
+(cnumpy
+dtype
+p3
+(S'f8'
+p4
+I0
+I1
+tp5
+Rp6
+(I3
+S'<'
+p7
+NNNI-1
+I-1
+I0
+tp8
+bS'\x06\x00\x00\x00\x00\x00\xf0?'
+p9
+tp10
+Rp11
+tp12
+a(S'public university'
+p13
+g2
+(g6
+S'\x87\x84\xe0t\xe4\xaf\xe7?'
+p14
+tp15
+Rp16
+tp17
+a(S'lists of universities and colleges'
+p18
+g2
+(g6
+S'BO\xf6\xb5$\xbc\xe5?'
+p19
+tp20
+Rp21
+tp22
+a(S'history of european research universities'
+p23
+g2
+(g6
+S'ag"r7s\xe5?'
+p24
+tp25
+Rp26
+tp27
+a(S'association of commonwealth universities'
+p28
+g2
+(g6
+S'\x18\xf0E\xb7\xda\x05\xe5?'
+p29
+tp30
+Rp31
+tp32
+a(S'universities in the united kingdom'
+p33
+g2
+(g6
+S'\xc1\xcd2]\x0b\x9e\xe4?'
+p34
+tp35
+Rp36
+tp37
+a(S'list of higher education associations and alliances'
+p38
+g2
+(g6
+S'\x1e\xf7\xee|\x88R\xe4?'
+p39
+tp40
+Rp41
+tp42
+a(S'private university'
+p43
+g2
+(g6
+S'[\x81_sO\xef\xe3?'
+p44
+tp45
+Rp46
+tp47
+a(S'universities australia'
+p48
+g2
+(g6
+S'D\x82\xef\xa4\xc1\xc3\xe3?'
+p49
+tp50
+Rp51
+tp52
+a(S'tertiary education in australia'
+p53
+g2
+(g6
+S'\x05\xca\x996i}\xe3?'
+p54
+tp55
+Rp56
+tp57
+a(S'national key universities'
+p58
+g2
+(g6
+S'\x83\xf2\x06?\xecs\xe3?'
+p59
+tp60
+Rp61
+tp62
+a(S'universities uk'
+p63
+g2
+(g6
+S'2\x1e\xab\xcb\x88\x12\xe3?'
+p64
+tp65
+Rp66
+tp67
+a(S'group of eight (australian universities)'
+p68
+g2
+(g6
+S';\x86\x14\x02|\xd8\xe2?'
+p69
+tp70
+Rp71
+tp72
+a(S'project 5-100'
+p73
+g2
+(g6
+S'\xa5\n+\xac\x92\x94\xe2?'
+p74
+tp75
+Rp76
+tp77
+a(S'medieval university'
+p78
+g2
+(g6
+S'\x89\xae\x95\xb42\x89\xe2?'
+p79
+tp80
+Rp81
+tp82
+a(S'list of universities in india'
+p83
+g2
+(g6
+S'\xf7\xeb(\x80\x00\r\xe2?'
+p84
+tp85
+Rp86
+tp87
+a(S'universities in bangladesh'
+p88
+g2
+(g6
+S'\x8b\xfb\t\xfcy\n\xe2?'
+p89
+tp90
+Rp91
+tp92
+a(S'state university (disambiguation)'
+p93
+g2
+(g6
+S'~\x00\xea\x8c]\xef\xe1?'
+p94
+tp95
+Rp96
+tp97
+a(S'international university'
+p98
+g2
+(g6
+S'\x9fo\xc4\x16\xcd\xcb\xe1?'
+p99
+tp100
+Rp101
+tp102
+a(S'league of european research universities'
+p103
+g2
+(g6
+S'\xab\xb0\xaa\xad\x18\xb4\xe1?'
+p104
+tp105
+Rp106
+tp107
+a(S'sandstone universities'
+p108
+g2
+(g6
+S'!\xd3W\xee\x1d\xac\xe1?'
+p109
+tp110
+Rp111
+tp112
+a(S'million+'
+p113
+g2
+(g6
+S'aC\xca\xcdK\x9c\xe1?'
+p114
+tp115
+Rp116
+tp117
+a(S'deemed university'
+p118
+g2
+(g6
+S'\xb7\x9a\x92\xbd\xd0\x18\xe1?'
+p119
+tp120
+Rp121
+tp122
+a(S'universities in scotland'
+p123
+g2
+(g6
+S'\xa7\xb3\xa1!\xc5\x16\xe1?'
+p124
+tp125
+Rp126
+tp127
+a(S'dutch universities'
+p128
+g2
+(g6
+S'\xc6\x0b\x10<\xc3\x08\xe1?'
+p129
+tp130
+Rp131
+tp132
+a(S'universities act'
+p133
+g2
+(g6
+S'\x83\xbdi\x9e#\xd2\xe0?'
+p134
+tp135
+Rp136
+tp137
+a(S'list of university networks'
+p138
+g2
+(g6
+S'1\x85D\x98\x8d\xd0\xe0?'
+p139
+tp140
+Rp141
+tp142
+a(S'universities canada'
+p143
+g2
+(g6
+S'\xc6\x13`\xc7h\xb4\xe0?'
+p144
+tp145
+Rp146
+tp147
+a(S'plate glass university'
+p148
+g2
+(g6
+S'\xb8\xc3w\x19N\x83\xe0?'
+p149
+tp150
+Rp151
+tp152
+a(S'ancient university'
+p153
+g2
+(g6
+S'\x08\x92\x02\x9c\x93q\xe0?'
+p154
+tp155
+Rp156
+tp157
+a(S'ancient universities of scotland'
+p158
+g2
+(g6
+S'kB=\x17\x12\xed\xdf?'
+p159
+tp160
+Rp161
+tp162
+a(S'history of universities in scotland'
+p163
+g2
+(g6
+S'r\\\x9d\x04]\xde\xdf?'
+p164
+tp165
+Rp166
+tp167
+a(S'federal university gusau'
+p168
+g2
+(g6
+S'I\xb3\xc7\xba\xd3\x94\xdf?'
+p169
+tp170
+Rp171
+tp172
+a(S'korean council for university education'
+p173
+g2
+(g6
+S'@\xd4\xb9\xbe\xae\x16\xdf?'
+p174
+tp175
+Rp176
+tp177
+a(S'association of colombian universities'
+p178
+g2
+(g6
+S'\xbe\xfe\xef\x98\r\xfc\xde?'
+p179
+tp180
+Rp181
+tp182
+a(S'list of universities in ankara'
+p183
+g2
+(g6
+S'[\x83bH\x07\xc5\xde?'
+p184
+tp185
+Rp186
+tp187
+a(S'going broke universities \xe2\x80\x93 disappearing universities'
+p188
+g2
+(g6
+S'q\xd3C\x88X\x94\xde?'
+p189
+tp190
+Rp191
+tp192
+a(S'k\xc4\xb1rklareli university'
+p193
+g2
+(g6
+S'\xbeo\x19\t\x90\x91\xde?'
+p194
+tp195
+Rp196
+tp197
+a(S'european university association'
+p198
+g2
+(g6
+S'R\xe8\x92\x88b\x90\xde?'
+p199
+tp200
+Rp201
+tp202
+a(S'list of higher education associations and organizations in the united states'
+p203
+g2
+(g6
+S'\x05/=]\rw\xde?'
+p204
+tp205
+Rp206
+tp207
+a(S'liberties and responsibilities of universities'
+p208
+g2
+(g6
+S'A\xfb\x12"\xf9l\xde?'
+p209
+tp210
+Rp211
+tp212
+a(S'agricultural universities (india)'
+p213
+g2
+(g6
+S'\x02w\xe3#\x95\x1d\xde?'
+p214
+tp215
+Rp216
+tp217
+a(S'u15 (german universities)'
+p218
+g2
+(g6
+S'#\xd8\r]\x80\x11\xde?'
+p219
+tp220
+Rp221
+tp222
+a(S'canadian virtual university'
+p223
+g2
+(g6
+S'Z\xb7\x1f\x89]\x92\xdd?'
+p224
+tp225
+Rp226
+tp227
+a(S'research university'
+p228
+g2
+(g6
+S'\x05h8bw^\xdd?'
+p229
+tp230
+Rp231
+tp232
+a(S'higher education in italy'
+p233
+g2
+(g6
+S'\x06H\xb1\xa9\xae:\xdd?'
+p234
+tp235
+Rp236
+tp237
+a(S'higher education in china'
+p238
+g2
+(g6
+S"e84t\xb6'\xdd?"
+p239
+tp240
+Rp241
+tp242
+a(S'pennsylvania state system of higher education'
+p243
+g2
+(g6
+S'4\x06cF\x0b\r\xdd?'
+p244
+tp245
+Rp246
+tp247
+a(S'lists of institutions of higher education by endowment'
+p248
+g2
+(g6
+S'\x8cJT\xd2@\xf7\xdc?'
+p249
+tp250
+Rp251
+tp252
+a(S'universities south africa'
+p253
+g2
+(g6
+S'M3\x8bB\x1a\xe2\xdc?'
+p254
+tp255
+Rp256
+tp257
+a(S'academic rankings of universities in mexico'
+p258
+g2
+(g6
+S'\xfd\xdde\x1aZ\xc4\xdc?'
+p259
+tp260
+Rp261
+tp262
+a(S'a history of the university in europe'
+p263
+g2
+(g6
+S'\xf5\xe2\xb2\xbc\xaa\xbc\xdc?'
+p264
+tp265
+Rp266
+tp267
+a(S'verdant universities'
+p268
+g2
+(g6
+S'\xeb\xb0B\xb8\x93\xad\xdc?'
+p269
+tp270
+Rp271
+tp272
+a(S'china open resources for education'
+p273
+g2
+(g6
+S'v\xac\xa9\xb7\xf7\x9e\xdc?'
+p274
+tp275
+Rp276
+tp277
+a(S'list of universities in china'
+p278
+g2
+(g6
+S'\x8e03Vnt\xdc?'
+p279
+tp280
+Rp281
+tp282
+a(S'international association of university presidents'
+p283
+g2
+(g6
+S'@\x85\xc9\x1eo>\xdc?'
+p284
+tp285
+Rp286
+tp287
+a(S'u15 group of canadian research universities'
+p288
+g2
+(g6
+S'~\x18Y|\xcc;\xdc?'
+p289
+tp290
+Rp291
+tp292
+a(S'international federation of catholic universities'
+p293
+g2
+(g6
+S'\xd0\xb4\xc4\x1eV9\xdc?'
+p294
+tp295
+Rp296
+tp297
+a(S'university college'
+p298
+g2
+(g6
+S'/\xa0\xdaT\x146\xdc?'
+p299
+tp300
+Rp301
+tp302
+a(S'higher education in japan'
+p303
+g2
+(g6
+S'\xf2:\xf3\xb0\x085\xdc?'
+p304
+tp305
+Rp306
+tp307
+a(S'campus university'
+p308
+g2
+(g6
+S'\x92\xc1#TQ\x19\xdc?'
+p309
+tp310
+Rp311
+tp312
+a(S'town and gown'
+p313
+g2
+(g6
+S'>\x99\xd0\xf3\x16\x0f\xdc?'
+p314
+tp315
+Rp316
+tp317
+a(S'university global partnership network'
+p318
+g2
+(g6
+S'uW\xbb\x01z\xfb\xdb?'
+p319
+tp320
+Rp321
+tp322
+a(S'higher education in myanmar'
+p323
+g2
+(g6
+S'g\x0c\x84\xd8e\xfb\xdb?'
+p324
+tp325
+Rp326
+tp327
+a(S"great cities' universities"
+p328
+g2
+(g6
+S'(\x8f\xb9\xb7:\xc8\xdb?'
+p329
+tp330
+Rp331
+tp332
+a(S'association of public and land-grant universities'
+p333
+g2
+(g6
+S'i&\x8d\xea\xf4\xc7\xdb?'
+p334
+tp335
+Rp336
+tp337
+a(S'open university'
+p338
+g2
+(g6
+S'\xac\xca\x8a\xb4`\x98\xdb?'
+p339
+tp340
+Rp341
+tp342
+a(S'list of united states technological universities'
+p343
+g2
+(g6
+S'\xb1#=A\xa0\x80\xdb?'
+p344
+tp345
+Rp346
+tp347
+a(S'combined scottish universities by-election'
+p348
+g2
+(g6
+S'$H\x08\x8d\xcbc\xdb?'
+p349
+tp350
+Rp351
+tp352
+a(S'state university system'
+p353
+g2
+(g6
+S'N+Si\x93]\xdb?'
+p354
+tp355
+Rp356
+tp357
+a(S'list of uk universities by date of foundation'
+p358
+g2
+(g6
+S'\xac.O\xc8\xcdJ\xdb?'
+p359
+tp360
+Rp361
+tp362
+a(S'red brick university'
+p363
+g2
+(g6
+S'`\xbb\x92\xfe)E\xdb?'
+p364
+tp365
+Rp366
+tp367
+a(S'higher education in the arab world'
+p368
+g2
+(g6
+S'x\xc7Y.+(\xdb?'
+p369
+tp370
+Rp371
+tp372
+a(S'college and university rankings'
+p373
+g2
+(g6
+S'\xbc\x81\xd6~#\x18\xdb?'
+p374
+tp375
+Rp376
+tp377
+a(S'universities ireland'
+p378
+g2
+(g6
+S'\xb3:\x8do\xb1\x05\xdb?'
+p379
+tp380
+Rp381
+tp382
+a(S'list of universities in \xc4\xb0zmir'
+p383
+g2
+(g6
+S'\xa8\xf3TA\x94\xc5\xda?'
+p384
+tp385
+Rp386
+tp387
+a(S'innovative research universities'
+p388
+g2
+(g6
+S'\xb1-\xc8\xf3\xf4\xbb\xda?'
+p389
+tp390
+Rp391
+tp392
+a(S'higher education in india'
+p393
+g2
+(g6
+S'Y\x13\x7f\xbf\x18\xb8\xda?'
+p394
+tp395
+Rp396
+tp397
+a(S'ministry of higher education and scientific research (iraq)'
+p398
+g2
+(g6
+S'+EH\xcf\xbb\xb1\xda?'
+p399
+tp400
+Rp401
+tp402
+a(S'history of education in scotland'
+p403
+g2
+(g6
+S'\xc1IJ\xae\xd1\xa0\xda?'
+p404
+tp405
+Rp406
+tp407
+a(S'university grants commission (bangladesh)'
+p408
+g2
+(g6
+S'0&\xc0Dx\x94\xda?'
+p409
+tp410
+Rp411
+tp412
+a(S'top global university project'
+p413
+g2
+(g6
+S'~\xdc3\xc4\x8as\xda?'
+p414
+tp415
+Rp416
+tp417
+a(S'list of colonial universities in hispanic america'
+p418
+g2
+(g6
+S'R\xed \xa5Mp\xda?'
+p419
+tp420
+Rp421
+tp422
+a(S'history of higher education in the united states'
+p423
+g2
+(g6
+S'\xb7h\xbc\x91nn\xda?'
+p424
+tp425
+Rp426
+tp427
+a(S'list of universities in melanesia'
+p428
+g2
+(g6
+S'\xb4\xed;w`e\xda?'
+p429
+tp430
+Rp431
+tp432
+a(S'ncuk'
+p433
+g2
+(g6
+S'\xcdQ\xac@Ec\xda?'
+p434
+tp435
+Rp436
+tp437
+a(S'education in latin america'
+p438
+g2
+(g6
+S'\x99\xbe\xa5$\xa7C\xda?'
+p439
+tp440
+Rp441
+tp442
+a(S'universit\xc3\xa9s nouvelles'
+p443
+g2
+(g6
+S'\xf1$s\xa7nB\xda?'
+p444
+tp445
+Rp446
+tp447
+a(S'sustainable tourism crc'
+p448
+g2
+(g6
+S'\x98\x11\xcd\x9c\xfe4\xda?'
+p449
+tp450
+Rp451
+tp452
+a(S'university and college admission'
+p453
+g2
+(g6
+S'\xa6\xf3\xe8%\xc2\xf9\xd9?'
+p454
+tp455
+Rp456
+tp457
+a(S'universities and university colleges act 1971'
+p458
+g2
+(g6
+S'\x18in\xf6\xdc\xf2\xd9?'
+p459
+tp460
+Rp461
+tp462
+a(S'matariki network of universities'
+p463
+g2
+(g6
+S'\x9d\xa4\xe4E\xe4\xea\xd9?'
+p464
+tp465
+Rp466
+tp467
+a(S'palamuru university'
+p468
+g2
+(g6
+S'\x04j\xba\x8e\x82\xe5\xd9?'
+p469
+tp470
+Rp471
+tp472
+a(S'higher education in the united states'
+p473
+g2
+(g6
+S'\x8f\xd5\\2H\xd8\xd9?'
+p474
+tp475
+Rp476
+tp477
+a(S'university and college accountability network'
+p478
+g2
+(g6
+S'\x1d\x07\xad Z\xd7\xd9?'
+p479
+tp480
+Rp481
+tp482
+a(S'association of arab universities'
+p483
+g2
+(g6
+S'\xc6\r\xb6Z\x19\xc5\xd9?'
+p484
+tp485
+Rp486
+tp487
+a(S'universities in canada'
+p488
+g2
+(g6
+S'\xfdX7\x8fV\xb5\xd9?'
+p489
+tp490
+Rp491
+tp492
+a(S'national universities commission'
+p493
+g2
+(g6
+S'\xd00V\xa6q\xb0\xd9?'
+p494
+tp495
+Rp496
+tp497
+a(S'luarasi university'
+p498
+g2
+(g6
+S'G\xdb\xdc\xfa\xf6\xa7\xd9?'
+p499
+tp500
+Rp501
+tp502
+a(S'new universities'
+p503
+g2
+(g6
+S'_~z\x91\xef\x89\xd9?'
+p504
+tp505
+Rp506
+tp507
+a(S'russell group'
+p508
+g2
+(g6
+S'A]\x8bY7i\xd9?'
+p509
+tp510
+Rp511
+tp512
+a(S'texas international education consortium'
+p513
+g2
+(g6
+S'\x15+j\xd4\x01`\xd9?'
+p514
+tp515
+Rp516
+tp517
+a(S'dawkins revolution'
+p518
+g2
+(g6
+S'\xd4\x16\x1a\x00}P\xd9?'
+p519
+tp520
+Rp521
+tp522
+a(S'university alliances in taiwan'
+p523
+g2
+(g6
+S'\xc2\xafb9X\x1c\xd9?'
+p524
+tp525
+Rp526
+tp527
+a(S'education in nigeria'
+p528
+g2
+(g6
+S'\x1e\x18sGo\x01\xd9?'
+p529
+tp530
+Rp531
+tp532
+a(S'rankings of universities in canada'
+p533
+g2
+(g6
+S'\xe8I4L!\xf7\xd8?'
+p534
+tp535
+Rp536
+tp537
+a(S'compostela group of universities'
+p538
+g2
+(g6
+S'k\xb6\xd2f\xdb\xd9\xd8?'
+p539
+tp540
+Rp541
+tp542
+a(S'universidad intercontinental'
+p543
+g2
+(g6
+S'\x87\xa7\xcb\xb9\xf3\xd1\xd8?'
+p544
+tp545
+Rp546
+tp547
+a(S'vocational university'
+p548
+g2
+(g6
+S'\x06Y\tkI\xcc\xd8?'
+p549
+tp550
+Rp551
+tp552
+a(S'education in finland'
+p553
+g2
+(g6
+S'J@Zj\x15\xcb\xd8?'
+p554
+tp555
+Rp556
+tp557
+a(S'tuition fees in france'
+p558
+g2
+(g6
+S'\x1b7\xd6\xbb \xb7\xd8?'
+p559
+tp560
+Rp561
+tp562
+a(S'undergraduate education'
+p563
+g2
+(g6
+S'3\x8d\xf0?\x1c\xb7\xd8?'
+p564
+tp565
+Rp566
+tp567
+a(S"universities' statistical record"
+p568
+g2
+(g6
+S'\xa4\xe3\xeb2\xe3\xb1\xd8?'
+p569
+tp570
+Rp571
+tp572
+a(S'further and higher education act 1992'
+p573
+g2
+(g6
+S'\xaa\x107\xaf\x8c\xa5\xd8?'
+p574
+tp575
+Rp576
+tp577
+a(S'combined scottish universities by-election, 1927'
+p578
+g2
+(g6
+S'\xf1Nn\xf3\xca\xa4\xd8?'
+p579
+tp580
+Rp581
+tp582
+a(S'university college (scandinavia)'
+p583
+g2
+(g6
+S'\x13\xd6F\xb5u\x83\xd8?'
+p584
+tp585
+Rp586
+tp587
+a(S'oxford and cambridge catholic education board'
+p588
+g2
+(g6
+S'\xc5O\x8fG\xf7~\xd8?'
+p589
+tp590
+Rp591
+tp592
+a(S'university of vlor\xc3\xab'
+p593
+g2
+(g6
+S'\x97\x9e<\xd9Fo\xd8?'
+p594
+tp595
+Rp596
+tp597
+a(S'universities and higher education in brazil'
+p598
+g2
+(g6
+S'G\xa7\xd5\xa9\x88h\xd8?'
+p599
+tp600
+Rp601
+tp602
+a(S'association of east asian research universities'
+p603
+g2
+(g6
+S'\xf0\xd2\xf4\xa1\x01a\xd8?'
+p604
+tp605
+Rp606
+tp607
+a(S'young european research universities network'
+p608
+g2
+(g6
+S'\xd1\xb1w\xe3\xfaX\xd8?'
+p609
+tp610
+Rp611
+tp612
+a(S'higher education in poland'
+p613
+g2
+(g6
+S'\xde\xbc\xf3\xd8TF\xd8?'
+p614
+tp615
+Rp616
+tp617
+a(S'burgas free university'
+p618
+g2
+(g6
+S'\xa7\xa8\xe4\x96u;\xd8?'
+p619
+tp620
+Rp621
+tp622
+a(S'council for higher education in israel'
+p623
+g2
+(g6
+S'c\x8d\x1b:\xff+\xd8?'
+p624
+tp625
+Rp626
+tp627
+a(S'national assessment and accreditation council'
+p628
+g2
+(g6
+S'cqG-!&\xd8?'
+p629
+tp630
+Rp631
+tp632
+a(S'european university sports association'
+p633
+g2
+(g6
+S'\xccYf\x83\x8c\x19\xd8?'
+p634
+tp635
+Rp636
+tp637
+a(S'tertiary institutions service centre'
+p638
+g2
+(g6
+S'\xeb\xf9\xf8\xe6\xed\xf8\xd7?'
+p639
+tp640
+Rp641
+tp642
+a(S'university of the german federal armed forces'
+p643
+g2
+(g6
+S'g\xed\xe5N\xb6\xf3\xd7?'
+p644
+tp645
+Rp646
+tp647
+a(S'central universities'
+p648
+g2
+(g6
+S'\x9f0\x9d\xb8\xfe\xf2\xd7?'
+p649
+tp650
+Rp651
+tp652
+a(S'webometrics ranking of world universities'
+p653
+g2
+(g6
+S'\x91\xcarx\x00\xea\xd7?'
+p654
+tp655
+Rp656
+tp657
+a(S'taquini plan'
+p658
+g2
+(g6
+S'\xa4\x8b\xd4\xe6%\xe8\xd7?'
+p659
+tp660
+Rp661
+tp662
+a(S'association of indian universities'
+p663
+g2
+(g6
+S'9\x9d\xb7v\xd8\xe3\xd7?'
+p664
+tp665
+Rp666
+tp667
+a(S'european inter-university association on society, science and technology'
+p668
+g2
+(g6
+S'~\x98j\xa2\x07\xe2\xd7?'
+p669
+tp670
+Rp671
+tp672
+a(S'world universities congress'
+p673
+g2
+(g6
+S'A\xda\x82V?\xde\xd7?'
+p674
+tp675
+Rp676
+tp677
+a(S'list of swiss universities by enrollment'
+p678
+g2
+(g6
+S'6\xb4\x8a\x8b"\xde\xd7?'
+p679
+tp680
+Rp681
+tp682
+a(S'chilean traditional universities'
+p683
+g2
+(g6
+S'\x86\xee\xa26\xa6\xd9\xd7?'
+p684
+tp685
+Rp686
+tp687
+a(S'james downey (academic)'
+p688
+g2
+(g6
+S'\xc9\xf7\xc4\xa2\x95\x90\xd7?'
+p689
+tp690
+Rp691
+tp692
+a(S'university council for educational administration'
+p693
+g2
+(g6
+S'WhG\xb4\x94\x88\xd7?'
+p694
+tp695
+Rp696
+tp697
+a(S'higher education in canada'
+p698
+g2
+(g6
+S'\xea&\x9c\xb3\\\x83\xd7?'
+p699
+tp700
+Rp701
+tp702
+a(S'education in cyprus'
+p703
+g2
+(g6
+S'\xf9\xa4\\E+x\xd7?'
+p704
+tp705
+Rp706
+tp707
+a(S'indian universities cricket team'
+p708
+g2
+(g6
+S'\xc9&\xdf.\x0fk\xd7?'
+p709
+tp710
+Rp711
+tp712
+a(S'indian universities commission 1902'
+p713
+g2
+(g6
+S'\xe1Q\xb0k\xe1[\xd7?'
+p714
+tp715
+Rp716
+tp717
+a(S'ancient university governance in scotland'
+p718
+g2
+(g6
+S'\x05Fp\x8a\x1bQ\xd7?'
+p719
+tp720
+Rp721
+tp722
+a(S'university of new york'
+p723
+g2
+(g6
+S'\x0fr\x17\x94\xd2H\xd7?'
+p724
+tp725
+Rp726
+tp727
+a(S'education in early modern scotland'
+p728
+g2
+(g6
+S'\xe1\xc4\x05\x1e7G\xd7?'
+p729
+tp730
+Rp731
+tp732
+a(S'ladok'
+p733
+g2
+(g6
+S'3\xfe\xde3$B\xd7?'
+p734
+tp735
+Rp736
+tp737
+a(S'combined scottish universities by-election, 1945'
+p738
+g2
+(g6
+S'\xe9\xae\xbcc\xf3A\xd7?'
+p739
+tp740
+Rp741
+tp742
+a(S'university of applied sciences (finland)'
+p743
+g2
+(g6
+S'\xc9\xc5f\xe130\xd7?'
+p744
+tp745
+Rp746
+tp747
+a(S'british universities cricket team'
+p748
+g2
+(g6
+S'\xdeN\xe6z\xd6\x17\xd7?'
+p749
+tp750
+Rp751
+tp752
+a(S'technologist (magazine)'
+p753
+g2
+(g6
+S'\xe8F\xa8\xf6M\xfc\xd6?'
+p754
+tp755
+Rp756
+tp757
+a(S'law on higher education and research (france)'
+p758
+g2
+(g6
+S'\xa4\x0b}#p\xdf\xd6?'
+p759
+tp760
+Rp761
+tp762
+a(S'education in austria'
+p763
+g2
+(g6
+S'\x82ab|\x19\xdf\xd6?'
+p764
+tp765
+Rp766
+tp767
+a(S'tripartite programme'
+p768
+g2
+(g6
+S'\xa7\xf7I\x06G\xdc\xd6?'
+p769
+tp770
+Rp771
+tp772
+a(S'education in scotland in the twentieth century'
+p773
+g2
+(g6
+S'\x8f\xfa.\x10\xcf\xcb\xd6?'
+p774
+tp775
+Rp776
+tp777
+a(S'national centre for universities and business'
+p778
+g2
+(g6
+S'\xf0s\x0c\xa0\x1b\xc9\xd6?'
+p779
+tp780
+Rp781
+tp782
+a(S'swiss university conference'
+p783
+g2
+(g6
+S'x\xbe\xde\xfa\xe7\xa6\xd6?'
+p784
+tp785
+Rp786
+tp787
+a(S'list of colleges and universities in american samoa'
+p788
+g2
+(g6
+S'!\x90\x0cZK\x98\xd6?'
+p789
+tp790
+Rp791
+tp792
+a(S'vysok\xc3\xa1 \xc5\xa1kola'
+p793
+g2
+(g6
+S'\xd6\xa4c\x99N\x8d\xd6?'
+p794
+tp795
+Rp796
+tp797
+a(S'list of universities and colleges in new brunswick'
+p798
+g2
+(g6
+S'\x9f\x18\xce\xae\xd4\x89\xd6?'
+p799
+tp800
+Rp801
+tp802
+a(S'university consortium of pori'
+p803
+g2
+(g6
+S'\x83\x8b\x81\x12W\x81\xd6?'
+p804
+tp805
+Rp806
+tp807
+a(S'nam\xc4\xb1k kemal university'
+p808
+g2
+(g6
+S'\xc1\xbd\xa9\x97\xa7\x7f\xd6?'
+p809
+tp810
+Rp811
+tp812
+a(S'universities funding council'
+p813
+g2
+(g6
+S'\xc1\xb7\x8b\x16:n\xd6?'
+p814
+tp815
+Rp816
+tp817
+a(S'persian gulf international education center'
+p818
+g2
+(g6
+S'\xae\xc3\xae\xe2\xb9e\xd6?'
+p819
+tp820
+Rp821
+tp822
+a(S'list of universities in canada'
+p823
+g2
+(g6
+S'\xf5\x11;w0e\xd6?'
+p824
+tp825
+Rp826
+tp827
+a(S'college'
+p828
+g2
+(g6
+S'\xa0\xf0\xd1\x16w`\xd6?'
+p829
+tp830
+Rp831
+tp832
+a(S'european higher education area'
+p833
+g2
+(g6
+S')\xe8\xa1#\xb1]\xd6?'
+p834
+tp835
+Rp836
+tp837
+a(S'south african universities cricket team'
+p838
+g2
+(g6
+S'\xcb\xc5\xda5\x00D\xd6?'
+p839
+tp840
+Rp841
+tp842
+a(S'higher education in portugal'
+p843
+g2
+(g6
+S'\x14\xe7\x01\xa2\x14?\xd6?'
+p844
+tp845
+Rp846
+tp847
+a(S'what will they learn?'
+p848
+g2
+(g6
+S"\xc32\xbf't%\xd6?"
+p849
+tp850
+Rp851
+tp852
+a(S'rashtriya uchchatar shiksha abhiyan'
+p853
+g2
+(g6
+S'\xf2v\x88\xb1x\x1c\xd6?'
+p854
+tp855
+Rp856
+tp857
+a(S'russian state hydrometeorological university'
+p858
+g2
+(g6
+S'\xa03}~\xe1\x19\xd6?'
+p859
+tp860
+Rp861
+tp862
+a(S'american association of state colleges and universities'
+p863
+g2
+(g6
+S':\xc4\n\xd1\xe8\x14\xd6?'
+p864
+tp865
+Rp866
+tp867
+a(S'urban university'
+p868
+g2
+(g6
+S'|#\x91\xac\xb3\x10\xd6?'
+p869
+tp870
+Rp871
+tp872
+a(S'postgraduate education'
+p873
+g2
+(g6
+S'\x03\xd5\xcd\xe2(\x0b\xd6?'
+p874
+tp875
+Rp876
+tp877
+a(S'n8 research partnership'
+p878
+g2
+(g6
+S'\xb6\xf9\xb3h@\xfc\xd5?'
+p879
+tp880
+Rp881
+tp882
+a(S'connecticut state university system'
+p883
+g2
+(g6
+S'C\xe4\x97I9\xde\xd5?'
+p884
+tp885
+Rp886
+tp887
+a(S'combined scottish universities by-election, 1935'
+p888
+g2
+(g6
+S'\x8e\xedk\xc3\xcd\xdc\xd5?'
+p889
+tp890
+Rp891
+tp892
+a(S'list of universities in austria'
+p893
+g2
+(g6
+S'\xf4\xc4\x10Z\xfc\xdb\xd5?'
+p894
+tp895
+Rp896
+tp897
+a(S'scottish student sport'
+p898
+g2
+(g6
+S'\xb7\xb8y\xb1\x9a\xd6\xd5?'
+p899
+tp900
+Rp901
+tp902
+a(S'undergraduate degree'
+p903
+g2
+(g6
+S'y\xc3\x85)D\xd6\xd5?'
+p904
+tp905
+Rp906
+tp907
+a(S'australian technology network'
+p908
+g2
+(g6
+S'M9\xb8@"\xd6\xd5?'
+p909
+tp910
+Rp911
+tp912
+a(S'state universities'
+p913
+g2
+(g6
+S'lo\xaa\xbcA\xd5\xd5?'
+p914
+tp915
+Rp916
+tp917
+a(S'epoka university'
+p918
+g2
+(g6
+S'\xaa\xa3\x0f$\x92\xcf\xd5?'
+p919
+tp920
+Rp921
+tp922
+a(S'marubi film school'
+p923
+g2
+(g6
+S'\xc4\xa9\xa9\x00\xd9\xc8\xd5?'
+p924
+tp925
+Rp926
+tp927
+a(S'october 6 university'
+p928
+g2
+(g6
+S'\xbf`\x8b\x0b\xad\xc6\xd5?'
+p929
+tp930
+Rp931
+tp932
+a(S'education in france'
+p933
+g2
+(g6
+S'\xfa\x08T\t\x91\xc5\xd5?'
+p934
+tp935
+Rp936
+tp937
+a(S'education in iran'
+p938
+g2
+(g6
+S'\xb7&\x93]\x19\xb1\xd5?'
+p939
+tp940
+Rp941
+tp942
+a(S'education in china'
+p943
+g2
+(g6
+S'V!p\xf3(\xaa\xd5?'
+p944
+tp945
+Rp946
+tp947
+a(S'diploma mill'
+p948
+g2
+(g6
+S'\x00\xc2\xf1\xc8\x87\xa9\xd5?'
+p949
+tp950
+Rp951
+tp952
+a(S'doctor of philosophy'
+p953
+g2
+(g6
+S'\xdd2\x86\x0eZ\xa9\xd5?'
+p954
+tp955
+Rp956
+tp957
+a(S'list of universities in australia'
+p958
+g2
+(g6
+S'j\xa7|d2\xa8\xd5?'
+p959
+tp960
+Rp961
+tp962
+a(S'university mobility in asia and the pacific'
+p963
+g2
+(g6
+S'\x94\xecd\xbeK\xa4\xd5?'
+p964
+tp965
+Rp966
+tp967
+a(S'open universities australia'
+p968
+g2
+(g6
+S'\x98\x17TgU\x9f\xd5?'
+p969
+tp970
+Rp971
+tp972
+a(S'combined scottish universities by-election, 1934'
+p973
+g2
+(g6
+S'\x19\xd5\x10gu\x90\xd5?'
+p974
+tp975
+Rp976
+tp977
+a(S'open cyber university'
+p978
+g2
+(g6
+S'\x91\x06|2\x95\x8f\xd5?'
+p979
+tp980
+Rp981
+tp982
+a(S'international research universities network'
+p983
+g2
+(g6
+S'\xc5K\x8f\xfe\xeb\x80\xd5?'
+p984
+tp985
+Rp986
+tp987
+a(S'reform of french universities'
+p988
+g2
+(g6
+S'c\x9f\xe2\x16\x9f|\xd5?'
+p989
+tp990
+Rp991
+tp992
+a(S'list of medieval universities'
+p993
+g2
+(g6
+S'8\xc8\xf9\x83\xc0j\xd5?'
+p994
+tp995
+Rp996
+tp997
+a(S'cuspea'
+p998
+g2
+(g6
+S'\xbb,s\xb9\xbbj\xd5?'
+p999
+tp1000
+Rp1001
+tp1002
+a(S'combined scottish universities by-election, 1938'
+p1003
+g2
+(g6
+S'hI\xaagj`\xd5?'
+p1004
+tp1005
+Rp1006
+tp1007
+a(S'higher education in quebec'
+p1008
+g2
+(g6
+S')\xe1\x8fS+[\xd5?'
+p1009
+tp1010
+Rp1011
+tp1012
+a(S'education in germany'
+p1013
+g2
+(g6
+S'\xbb\xdf\x1c\xde\xbfR\xd5?'
+p1014
+tp1015
+Rp1016
+tp1017
+a(S'jesuit university system'
+p1018
+g2
+(g6
+S'\xb7w6\x8dWL\xd5?'
+p1019
+tp1020
+Rp1021
+tp1022
+a(S'higher education'
+p1023
+g2
+(g6
+S'=\x00,n\xeeG\xd5?'
+p1024
+tp1025
+Rp1026
+tp1027
+a(S'universities new zealand'
+p1028
+g2
+(g6
+S'\x15\x81\xf5\xe8KE\xd5?'
+p1029
+tp1030
+Rp1031
+tp1032
+a(S'senior lecturer'
+p1033
+g2
+(g6
+S'I[\x8dLE;\xd5?'
+p1034
+tp1035
+Rp1036
+tp1037
+a(S'studium generale'
+p1038
+g2
+(g6
+S'~\x8e\xae\xe0\xde8\xd5?'
+p1039
+tp1040
+Rp1041
+tp1042
+a(S'sudanese universities information network'
+p1043
+g2
+(g6
+S'\xca\xcc\xd7,\x007\xd5?'
+p1044
+tp1045
+Rp1046
+tp1047
+a(S"education in the polish people's republic"
+p1048
+g2
+(g6
+S'&\xbe\xf2\xf1`0\xd5?'
+p1049
+tp1050
+Rp1051
+tp1052
+a(S'foundation for independent higher education'
+p1053
+g2
+(g6
+S'xUP\xb2\xef/\xd5?'
+p1054
+tp1055
+Rp1056
+tp1057
+a(S'm5 (universities)'
+p1058
+g2
+(g6
+S'z?\xc2\x0f0,\xd5?'
+p1059
+tp1060
+Rp1061
+tp1062
+a(S'linton global college'
+p1063
+g2
+(g6
+S'\x0c\x14\x9e\xb7X)\xd5?'
+p1064
+tp1065
+Rp1066
+tp1067
+a(S'education in medieval scotland'
+p1068
+g2
+(g6
+S"\x86\x7f\xa5I|'\xd5?"
+p1069
+tp1070
+Rp1071
+tp1072
+a(S'ontario universities fair'
+p1073
+g2
+(g6
+S'T\xdbM\xc4U\x1f\xd5?'
+p1074
+tp1075
+Rp1076
+tp1077
+a(S'workshop on building top-class universities'
+p1078
+g2
+(g6
+S'}\x8cE\xab\xae\x19\xd5?'
+p1079
+tp1080
+Rp1081
+tp1082
+a(S'pusan national university'
+p1083
+g2
+(g6
+S'\x0f\x9e&9\x99\n\xd5?'
+p1084
+tp1085
+Rp1086
+tp1087
+a(S'academy (educational institution)'
+p1088
+g2
+(g6
+S'\x0b\xcc\t\x1f5\x04\xd5?'
+p1089
+tp1090
+Rp1091
+tp1092
+a(S'rankings of universities in the united kingdom'
+p1093
+g2
+(g6
+S'\x0e|\r\xb2\x16\xff\xd4?'
+p1094
+tp1095
+Rp1096
+tp1097
+a(S'argentine university reform of 1918'
+p1098
+g2
+(g6
+S'\xab\x8f\x18\xc1\x0b\xfd\xd4?'
+p1099
+tp1100
+Rp1101
+tp1102
+a(S'universidad empresarial de costa rica'
+p1103
+g2
+(g6
+S"qi'\xb2\x02\xfa\xd4?"
+p1104
+tp1105
+Rp1106
+tp1107
+a(S'voluntary system of accountability'
+p1108
+g2
+(g6
+S'\xdd\x1c\xc6=\xaf\xf6\xd4?'
+p1109
+tp1110
+Rp1111
+tp1112
+a(S"xi'an gaoxin no.1 high school"
+p1113
+g2
+(g6
+S'P\xb4Z\xb9I\xee\xd4?'
+p1114
+tp1115
+Rp1116
+tp1117
+a(S'academic degree'
+p1118
+g2
+(g6
+S'\xa1\x15\xf1\xc0\xa5\xdf\xd4?'
+p1119
+tp1120
+Rp1121
+tp1122
+a(S'association of independent colleges and universities in massachusetts'
+p1123
+g2
+(g6
+S'\xb7\x16\xea\xd9\x93\xdb\xd4?'
+p1124
+tp1125
+Rp1126
+tp1127
+a(S'graduate school'
+p1128
+g2
+(g6
+S'\x83\xba\xcb\xe1\x04\xd9\xd4?'
+p1129
+tp1130
+Rp1131
+tp1132
+a(S'higher education funding council for england'
+p1133
+g2
+(g6
+S'r\x11\xe67\xc1\xd7\xd4?'
+p1134
+tp1135
+Rp1136
+tp1137
+a(S'bulgarian virtual university'
+p1138
+g2
+(g6
+S'V*\x16\t\\\xd3\xd4?'
+p1139
+tp1140
+Rp1141
+tp1142
+a(S'irish universities association'
+p1143
+g2
+(g6
+S'_\x87\xec\\R\xcf\xd4?'
+p1144
+tp1145
+Rp1146
+tp1147
+a(S'list of universities in nagorno-karabakh republic'
+p1148
+g2
+(g6
+S'=\x01\xe1R(\xbc\xd4?'
+p1149
+tp1150
+Rp1151
+tp1152
+a(S'sunrise academy'
+p1153
+g2
+(g6
+S'Br\xbe\xa7\xde\xbb\xd4?'
+p1154
+tp1155
+Rp1156
+tp1157
+a(S'the american university of vietnam'
+p1158
+g2
+(g6
+S'<\x10\xb0\xbc7\xb8\xd4?'
+p1159
+tp1160
+Rp1161
+tp1162
+a(S'university grants committee (uk)'
+p1163
+g2
+(g6
+S'A-+\x07^\xb3\xd4?'
+p1164
+tp1165
+Rp1166
+tp1167
+a(S'european science in the middle ages'
+p1168
+g2
+(g6
+S'\xbcM\xa56\r\xb3\xd4?'
+p1169
+tp1170
+Rp1171
+tp1172
+a(S'autonomous university'
+p1173
+g2
+(g6
+S'\xf5LHh\x08\x9a\xd4?'
+p1174
+tp1175
+Rp1176
+tp1177
+a(S"validation des acquis de l'experience"
+p1178
+g2
+(g6
+S'\x80\x00m\x0b\xce\x92\xd4?'
+p1179
+tp1180
+Rp1181
+tp1182
+a(S'universia'
+p1183
+g2
+(g6
+S'\x1e\x11\x90\xc8\xe6\x8b\xd4?'
+p1184
+tp1185
+Rp1186
+tp1187
+a(S'association of arab and european universities'
+p1188
+g2
+(g6
+S'\xe7[iC$\x8b\xd4?'
+p1189
+tp1190
+Rp1191
+tp1192
+a(S'higher education in iran'
+p1193
+g2
+(g6
+S'\xcb\xf0Gw\xe6\x8a\xd4?'
+p1194
+tp1195
+Rp1196
+tp1197
+a(S'education in the united states'
+p1198
+g2
+(g6
+S'\x8b\xd9N\xba\x1b\x8a\xd4?'
+p1199
+tp1200
+Rp1201
+tp1202
+a(S'eric thomas (gynaecologist)'
+p1203
+g2
+(g6
+S'\x8a^\x95v\xc6\x88\xd4?'
+p1204
+tp1205
+Rp1206
+tp1207
+a(S'education in tokyo'
+p1208
+g2
+(g6
+S'\x1bj\xcc\xfd%\x7f\xd4?'
+p1209
+tp1210
+Rp1211
+tp1212
+a(S'islamic azad university north tehran branch'
+p1213
+g2
+(g6
+S'\xfb\x87\x82\xbfbj\xd4?'
+p1214
+tp1215
+Rp1216
+tp1217
+a(S'center for measuring university performance'
+p1218
+g2
+(g6
+S'`\xfc\xff\x16\xb2h\xd4?'
+p1219
+tp1220
+Rp1221
+tp1222
+a(S'tertiary education in new zealand'
+p1223
+g2
+(g6
+S'\xaetZ\xe6\xc8`\xd4?'
+p1224
+tp1225
+Rp1226
+tp1227
+a(S'european consortium of innovative universities'
+p1228
+g2
+(g6
+S'\x14\xa7\x0c_\x14`\xd4?'
+p1229
+tp1230
+Rp1231
+tp1232
+a(S'sky (universities)'
+p1233
+g2
+(g6
+S'6v\xd2\x10\xcf[\xd4?'
+p1234
+tp1235
+Rp1236
+tp1237
+a(S'irish universities quality board'
+p1238
+g2
+(g6
+S'\x81tp~\xc5Z\xd4?'
+p1239
+tp1240
+Rp1241
+tp1242
+a(S'eqrem \xc3\x87abej university'
+p1243
+g2
+(g6
+S'\xb4D\xe22\x0eV\xd4?'
+p1244
+tp1245
+Rp1246
+tp1247
+a(S'education in argentina'
+p1248
+g2
+(g6
+S'\x1e\x90\xf7\x97DQ\xd4?'
+p1249
+tp1250
+Rp1251
+tp1252
+a(S'list of modern universities in europe (1801\xe2\x80\x931945)'
+p1253
+g2
+(g6
+S'\xfe\xf2\x00\x9f\xe3P\xd4?'
+p1254
+tp1255
+Rp1256
+tp1257
+a(S'nicola dandridge'
+p1258
+g2
+(g6
+S'u\x18\x83\xbe\xafH\xd4?'
+p1259
+tp1260
+Rp1261
+tp1262
+a(S'beihang university'
+p1263
+g2
+(g6
+S'\xe2\xab\x10DME\xd4?'
+p1264
+tp1265
+Rp1266
+tp1267
+a(S'academic reform'
+p1268
+g2
+(g6
+S'\x81\x97\xe4\xcc*A\xd4?'
+p1269
+tp1270
+Rp1271
+tp1272
+a(S'commission on the future of higher education'
+p1273
+g2
+(g6
+S'\xa7\xd2[\xa7\xc1=\xd4?'
+p1274
+tp1275
+Rp1276
+tp1277
+a(S'local colleges and universities (philippines)'
+p1278
+g2
+(g6
+S'9\x0e\x19|~=\xd4?'
+p1279
+tp1280
+Rp1281
+tp1282
+a(S'university admissions finland'
+p1283
+g2
+(g6
+S'\x04\xb1\xcce\xa15\xd4?'
+p1284
+tp1285
+Rp1286
+tp1287
+a(S'jinan university lebanon'
+p1288
+g2
+(g6
+S"\xd4\x13\x92\x8f\x16'\xd4?"
+p1289
+tp1290
+Rp1291
+tp1292
+a(S'education'
+p1293
+g2
+(g6
+S'\x00\x1bp%z&\xd4?'
+p1294
+tp1295
+Rp1296
+tp1297
+a(S'opencourseware'
+p1298
+g2
+(g6
+S'\xd7\xc6\xf9\xa0\xf3"\xd4?'
+p1299
+tp1300
+Rp1301
+tp1302
+a(S'andr\xc3\xa9s bello national university'
+p1303
+g2
+(g6
+S'\xfe\x94\x00\xfc\xde"\xd4?'
+p1304
+tp1305
+Rp1306
+tp1307
+a(S'article 16 of the constitution of the hellenic republic'
+p1308
+g2
+(g6
+S'\x05\xea\x17\xb2\x97\x1e\xd4?'
+p1309
+tp1310
+Rp1311
+tp1312
+a(S'german universities excellence initiative'
+p1313
+g2
+(g6
+S'\xc9\xe9\xf9\xf3,\x07\xd4?'
+p1314
+tp1315
+Rp1316
+tp1317
+a(S'science in the age of enlightenment'
+p1318
+g2
+(g6
+S'\x8f\x0c\xceZ\x8e\x01\xd4?'
+p1319
+tp1320
+Rp1321
+tp1322
+a(S'nation (university)'
+p1323
+g2
+(g6
+S'\x1b\xfc\xe6u\x85\xf7\xd3?'
+p1324
+tp1325
+Rp1326
+tp1327
+a(S'history of education'
+p1328
+g2
+(g6
+S'\x11\x82\xb0\x94J\xf5\xd3?'
+p1329
+tp1330
+Rp1331
+tp1332
+a(S'interfaculty committee agraria'
+p1333
+g2
+(g6
+S'\x9d\t\x9a\xd7[\xf0\xd3?'
+p1334
+tp1335
+Rp1336
+tp1337
+a(S'wenzao ursuline university of languages'
+p1338
+g2
+(g6
+S'\xac\x14p\xbdi\xea\xd3?'
+p1339
+tp1340
+Rp1341
+tp1342
+a(S'david agmashenebeli university of georgia'
+p1343
+g2
+(g6
+S'\x80\xc0\xcb0V\xe2\xd3?'
+p1344
+tp1345
+Rp1346
+tp1347
+a(S'beijing university of posts and telecommunications'
+p1348
+g2
+(g6
+S'\xe5L\x9fe\x13\xdd\xd3?'
+p1349
+tp1350
+Rp1351
+tp1352
+a(S'lazarski university'
+p1353
+g2
+(g6
+S'u\xf0\xd3\xff\x07\xd8\xd3?'
+p1354
+tp1355
+Rp1356
+tp1357
+a(S'combined scottish universities by-election, 1946'
+p1358
+g2
+(g6
+S'\x8f7g\xbaT\xd1\xd3?'
+p1359
+tp1360
+Rp1361
+tp1362
+a(S'irish universities football union'
+p1363
+g2
+(g6
+S'\x8b\xcf[6\x13\xcd\xd3?'
+p1364
+tp1365
+Rp1366
+tp1367
+a(S'league of world universities'
+p1368
+g2
+(g6
+S'^\x16\xd4+N\xcc\xd3?'
+p1369
+tp1370
+Rp1371
+tp1372
+a(S'education in turkey'
+p1373
+g2
+(g6
+S'\x06\xe2\x9b]*\xcc\xd3?'
+p1374
+tp1375
+Rp1376
+tp1377
+a(S'numerus clausus'
+p1378
+g2
+(g6
+S'\x02Y\x9f\x92\xee\xc9\xd3?'
+p1379
+tp1380
+Rp1381
+tp1382
+a(S'league of islamic universities'
+p1383
+g2
+(g6
+S'\x80\x1b\x16\xee\xea\xbe\xd3?'
+p1384
+tp1385
+Rp1386
+tp1387
+a(S'universit\xc3\xa0 degli studi di bari aldo moro'
+p1388
+g2
+(g6
+S'g\xab\x8f\xc8\xcb\xbd\xd3?'
+p1389
+tp1390
+Rp1391
+tp1392
+a(S'list of colleges and universities in the united states virgin islands'
+p1393
+g2
+(g6
+S'\xb9\xb1L\x97I\xb8\xd3?'
+p1394
+tp1395
+Rp1396
+tp1397
+a(S'ucas'
+p1398
+g2
+(g6
+S's\r\x07:\xee\xaa\xd3?'
+p1399
+tp1400
+Rp1401
+tp1402
+a(S'james armsey'
+p1403
+g2
+(g6
+S'g\xdb\xd3_\x9f\xaa\xd3?'
+p1404
+tp1405
+Rp1406
+tp1407
+a(S'general council (scottish university)'
+p1408
+g2
+(g6
+S'\xf3\x17#\x9e\xad\xa4\xd3?'
+p1409
+tp1410
+Rp1411
+tp1412
+a(S'universities act 1825'
+p1413
+g2
+(g6
+S'\x00\xa6\x04\xdc(\x9e\xd3?'
+p1414
+tp1415
+Rp1416
+tp1417
+a(S'education in chile'
+p1418
+g2
+(g6
+S't\x9f\xe6\xcaQ\x99\xd3?'
+p1419
+tp1420
+Rp1421
+tp1422
+a(S'higher education statistics agency'
+p1423
+g2
+(g6
+S'\xf8b\x93/\xe5\x94\xd3?'
+p1424
+tp1425
+Rp1426
+tp1427
+a(S'university of new zealand'
+p1428
+g2
+(g6
+S'p)\xda\xe5\xdc\x92\xd3?'
+p1429
+tp1430
+Rp1431
+tp1432
+a(S'college religious organizations'
+p1433
+g2
+(g6
+S'\x03/U\xb5\xb4\x92\xd3?'
+p1434
+tp1435
+Rp1436
+tp1437
+a(S'catholic-theological private university linz'
+p1438
+g2
+(g6
+S'X*\xd4\n;\x91\xd3?'
+p1439
+tp1440
+Rp1441
+tp1442
+a(S'international forum of public universities'
+p1443
+g2
+(g6
+S'W\x85\xd6\x94\x95~\xd3?'
+p1444
+tp1445
+Rp1446
+tp1447
+a(S'education in russia'
+p1448
+g2
+(g6
+S'{\x06#F\xe3y\xd3?'
+p1449
+tp1450
+Rp1451
+tp1452
+a(S'skanderbeg military university'
+p1453
+g2
+(g6
+S'\xaf\x01\x9d\xb0\xbcm\xd3?'
+p1454
+tp1455
+Rp1456
+tp1457
+a(S'the uteach institute'
+p1458
+g2
+(g6
+S'TX\xa5\x16\xcbj\xd3?'
+p1459
+tp1460
+Rp1461
+tp1462
+a(S'national association of independent colleges and universities'
+p1463
+g2
+(g6
+S'\xbe\xf8?$\xa4j\xd3?'
+p1464
+tp1465
+Rp1466
+tp1467
+a(S'conf\xc3\xa9rence des recteurs et des principaux des universit\xc3\xa9s du qu\xc3\xa9bec'
+p1468
+g2
+(g6
+S'g9\x81\x1f\x16i\xd3?'
+p1469
+tp1470
+Rp1471
+tp1472
+a(S'mexican universities comparative study'
+p1473
+g2
+(g6
+S'non.\x8eh\xd3?'
+p1474
+tp1475
+Rp1476
+tp1477
+a(S'truly strong universities'
+p1478
+g2
+(g6
+S'B\x90S\xc4\xcdg\xd3?'
+p1479
+tp1480
+Rp1481
+tp1482
+a(S'higher education in norway'
+p1483
+g2
+(g6
+S')\xd1\xf9\x0b\xd3X\xd3?'
+p1484
+tp1485
+Rp1486
+tp1487
+a(S'education in sri lanka'
+p1488
+g2
+(g6
+S'\xbf\xf4?\xbe<V\xd3?'
+p1489
+tp1490
+Rp1491
+tp1492
+a(S'list of colleges and universities in guam'
+p1493
+g2
+(g6
+S'o42\xad\xf6U\xd3?'
+p1494
+tp1495
+Rp1496
+tp1497
+a(S'higher education in ontario'
+p1498
+g2
+(g6
+S'G\nQ\xe5\xb0S\xd3?'
+p1499
+tp1500
+Rp1501
+tp1502
+a(S'universities scotland'
+p1503
+g2
+(g6
+S'tex/\xd4H\xd3?'
+p1504
+tp1505
+Rp1506
+tp1507
+a(S'consortium for global education'
+p1508
+g2
+(g6
+S'\xe3"\xf0\x8bJH\xd3?'
+p1509
+tp1510
+Rp1511
+tp1512
+a.

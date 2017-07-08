@@ -1,0 +1,2728 @@
+(lp0
+(S'european conference on information retrieval'
+p1
+cnumpy.core.multiarray
+scalar
+p2
+(cnumpy
+dtype
+p3
+(S'f8'
+p4
+I0
+I1
+tp5
+Rp6
+(I3
+S'<'
+p7
+NNNI-1
+I-1
+I0
+tp8
+bS'\x01\x00\x00\x00\x00\x00\xf0?'
+p9
+tp10
+Rp11
+tp12
+a(S'european summer school in information retrieval'
+p13
+g2
+(g6
+S'\\p6\x99\x91*\xe2?'
+p14
+tp15
+Rp16
+tp17
+a(S'information retrieval specialist group'
+p18
+g2
+(g6
+S'\xf9\xcb\xed\xb4o\xe7\xe0?'
+p19
+tp20
+Rp21
+tp22
+a(S'c. j. van rijsbergen'
+p23
+g2
+(g6
+S"\xb6n\xd2H'\xd1\xdd?"
+p24
+tp25
+Rp26
+tp27
+a(S'italy records'
+p28
+g2
+(g6
+S'\xb7\x8bv1>\xa1\xdd?'
+p29
+tp30
+Rp31
+tp32
+a(S'gerard salton award'
+p33
+g2
+(g6
+S'&\n\xe7\x0c\x83<\xdc?'
+p34
+tp35
+Rp36
+tp37
+a(S'.ir'
+p38
+g2
+(g6
+S"\x17\x84'R\x80\xf8\xdb?"
+p39
+tp40
+Rp41
+tp42
+a(S'information retrieval applications'
+p43
+g2
+(g6
+S'\xe2\xd1^) \xf1\xdb?'
+p44
+tp45
+Rp46
+tp47
+a(S'human\xe2\x80\x93computer information retrieval'
+p48
+g2
+(g6
+S'4\xd9\x9f`\xa4\xc5\xdb?'
+p49
+tp50
+Rp51
+tp52
+a(S'information retrieval'
+p53
+g2
+(g6
+S'\xacR\xef2\x0e\xa4\xdb?'
+p54
+tp55
+Rp56
+tp57
+a(S'information retrieval facility'
+p58
+g2
+(g6
+S'\xa4^\xc4\x01z\x84\xdb?'
+p59
+tp60
+Rp61
+tp62
+a(S'special interest group on information retrieval'
+p63
+g2
+(g6
+S'Q6*\xc9\x1cC\xdb?'
+p64
+tp65
+Rp66
+tp67
+a(S'semi-dwarf ir36'
+p68
+g2
+(g6
+S'\x87K\xb0d\x0c\xf9\xd9?'
+p69
+tp70
+Rp71
+tp72
+a(S'revolutionary left (spain)'
+p73
+g2
+(g6
+S'\xb8\xa8\xd7\x913j\xd9?'
+p74
+tp75
+Rp76
+tp77
+a(S'isotopes of iridium'
+p78
+g2
+(g6
+S'\x80>\x05\xe4\x0fG\xd9?'
+p79
+tp80
+Rp81
+tp82
+a(S'calvin mooers'
+p83
+g2
+(g6
+S'\xc4\x15\xbf\xf8\xbd\xf8\xd8?'
+p84
+tp85
+Rp86
+tp87
+a(S'macmillan center for international and area studies'
+p88
+g2
+(g6
+S'a\xb9\x956\xd4\xe1\xd8?'
+p89
+tp90
+Rp91
+tp92
+a(S'ir ganim'
+p93
+g2
+(g6
+S'\x05\x19\xfd:\xb9\xaf\xd8?'
+p94
+tp95
+Rp96
+tp97
+a(S'knowledge retrieval'
+p98
+g2
+(g6
+S'\x9d\xcc8\x8f\xe9o\xd7?'
+p99
+tp100
+Rp101
+tp102
+a(S'cross-language information retrieval'
+p103
+g2
+(g6
+S'\x00O\xeb\x8e\xb4K\xd7?'
+p104
+tp105
+Rp106
+tp107
+a(S'ministries of iran'
+p108
+g2
+(g6
+S'[\x9e\x11\x8e\x86C\xd7?'
+p109
+tp110
+Rp111
+tp112
+a(S'david blair (information technologist)'
+p113
+g2
+(g6
+S'\xb0\xed\xd6;\xd7\x0b\xd7?'
+p114
+tp115
+Rp116
+tp117
+a(S'postcolonialism (international relations)'
+p118
+g2
+(g6
+S'\xe5PA?\x14\xa8\xd6?'
+p119
+tp120
+Rp121
+tp122
+a(S'iskut first nation'
+p123
+g2
+(g6
+S'1\x10\xda\xc4\xe6i\xd6?'
+p124
+tp125
+Rp126
+tp127
+a(S'universal ir evaluation'
+p128
+g2
+(g6
+S'ZaY^\x89\xef\xd5?'
+p129
+tp130
+Rp131
+tp132
+a(S"gwa'sala-'nakwaxda'xw nations"
+p133
+g2
+(g6
+S'\xe6\x19lF\xba\xea\xd5?'
+p134
+tp135
+Rp136
+tp137
+a(S'spaced retrieval'
+p138
+g2
+(g6
+S'8w\xce\xc9\x9d\xcc\xd5?'
+p139
+tp140
+Rp141
+tp142
+a(S"sha'ir"
+p143
+g2
+(g6
+S'c\xc4\x99\x96\x9a\xcc\xd5?'
+p144
+tp145
+Rp146
+tp147
+a(S'bunibonibee cree nation'
+p148
+g2
+(g6
+S'M\x1c\x93\xf8{y\xd5?'
+p149
+tp150
+Rp151
+tp152
+a(S'al-h\xcc\xa8\xc4\x81yir'
+p153
+g2
+(g6
+S'c\xf2\x02\x7f\xeb(\xd5?'
+p154
+tp155
+Rp156
+tp157
+a(S'cranfield experiments'
+p158
+g2
+(g6
+S'\xbc\x19\xad{\xdc\x1a\xd5?'
+p159
+tp160
+Rp161
+tp162
+a(S'ir'
+p163
+g2
+(g6
+S'\x8bOf\x19\xdf\x10\xd5?'
+p164
+tp165
+Rp166
+tp167
+a(S'tetrairidium dodecacarbonyl'
+p168
+g2
+(g6
+S'\xff\x91\xa7h\x83\xce\xd4?'
+p169
+tp170
+Rp171
+tp172
+a(S'ahmad khatami (professor)'
+p173
+g2
+(g6
+S'\x1d\xf3`\x96\x90\xb7\xd4?'
+p174
+tp175
+Rp176
+tp177
+a(S'alberni-clayoquot regional district'
+p178
+g2
+(g6
+S'k]\x1d\xfc\x1c\x9b\xd4?'
+p179
+tp180
+Rp181
+tp182
+a(S'document retrieval'
+p183
+g2
+(g6
+S'\xbf; \xbd\xd6\x95\xd4?'
+p184
+tp185
+Rp186
+tp187
+a(S's\xc3\xa1ndor dominich'
+p188
+g2
+(g6
+S'\xca\x11\x0e\xebW]\xd4?'
+p189
+tp190
+Rp191
+tp192
+a(S'text retrieval conference'
+p193
+g2
+(g6
+S'\x8b\x82\xbf\xbe\xb35\xd4?'
+p194
+tp195
+Rp196
+tp197
+a(S'cognitive models of information retrieval'
+p198
+g2
+(g6
+S'\x9a\xbc<@\x964\xd4?'
+p199
+tp200
+Rp201
+tp202
+a(S'michael lew'
+p203
+g2
+(g6
+S'\xe2\xe3\xb2y\xa7)\xd4?'
+p204
+tp205
+Rp206
+tp207
+a(S"kokhav ya'ir"
+p208
+g2
+(g6
+S',?\xe7\xa4\x94\x14\xd4?'
+p209
+tp210
+Rp211
+tp212
+a(S"sa'ir"
+p213
+g2
+(g6
+S'\xa9\xc6\x96 \xd4\n\xd4?'
+p214
+tp215
+Rp216
+tp217
+a(S'\xce\x9c operator'
+p218
+g2
+(g6
+S'UG\xe7Rt\xf8\xd3?'
+p219
+tp220
+Rp221
+tp222
+a(S'grand rapids, british columbia'
+p223
+g2
+(g6
+S'\xff\\\x97\xcc\x02\xeb\xd3?'
+p224
+tp225
+Rp226
+tp227
+a(S'tlowitsis nation'
+p228
+g2
+(g6
+S'\x99\xa3\xd5\xbd\x1a\xe4\xd3?'
+p229
+tp230
+Rp231
+tp232
+a(S'tahltan first nation'
+p233
+g2
+(g6
+S'\x9c\xf9\x97\x10\xfb\xd1\xd3?'
+p234
+tp235
+Rp236
+tp237
+a(S'ir35'
+p238
+g2
+(g6
+S'&qg\xbb\xf7\xb9\xd3?'
+p239
+tp240
+Rp241
+tp242
+a(S'cyril cleverdon'
+p243
+g2
+(g6
+S'X\xa2\xe4\xe7\x82\xb0\xd3?'
+p244
+tp245
+Rp246
+tp247
+a(S'w. bruce croft'
+p248
+g2
+(g6
+S'V}\xd3w\\\x99\xd3?'
+p249
+tp250
+Rp251
+tp252
+a(S'information retrieval query language'
+p253
+g2
+(g6
+S'\x86\x8a\xcf\xf9\x16\x96\xd3?'
+p254
+tp255
+Rp256
+tp257
+a(S'xml retrieval'
+p258
+g2
+(g6
+S'K\xef\x93{\x0bb\xd3?'
+p259
+tp260
+Rp261
+tp262
+a(S'alessia filippi'
+p263
+g2
+(g6
+S'a\x89\xce\xec\x10[\xd3?'
+p264
+tp265
+Rp266
+tp267
+a(S'networked environment for music analysis'
+p268
+g2
+(g6
+S'\x12\x88Fr\x0c[\xd3?'
+p269
+tp270
+Rp271
+tp272
+a(S'fomm ir-ri\xc4\xa7'
+p273
+g2
+(g6
+S'?J\xc7=\xe4L\xd3?'
+p274
+tp275
+Rp276
+tp277
+a(S'74th minnesota legislature'
+p278
+g2
+(g6
+S'\xf1\xce#kY\xff\xd2?'
+p279
+tp280
+Rp281
+tp282
+a(S'international society for music information retrieval'
+p283
+g2
+(g6
+S'a;k\xac\x8e\xf7\xd2?'
+p284
+tp285
+Rp286
+tp287
+a(S'trecvid'
+p288
+g2
+(g6
+S'\xf19+\xdd\xe8\xe4\xd2?'
+p289
+tp290
+Rp291
+tp292
+a(S'music information retrieval'
+p293
+g2
+(g6
+S'\x7f\x90\x14\x94\xa6\xdf\xd2?'
+p294
+tp295
+Rp296
+tp297
+a(S'conference and labs of the evaluation forum'
+p298
+g2
+(g6
+S"Q\x90\xba'\x10\xbd\xd2?"
+p299
+tp300
+Rp301
+tp302
+a(S'lead retrieval'
+p303
+g2
+(g6
+S'r\xf1\xa0\x93r\xb8\xd2?'
+p304
+tp305
+Rp306
+tp307
+a(S'gerard salton'
+p308
+g2
+(g6
+S'\xcej\xc6\xc9\x91\x89\xd2?'
+p309
+tp310
+Rp311
+tp312
+a(S'nivio ziviani'
+p313
+g2
+(g6
+S'\xf8O\x03\xc0\xf3\x82\xd2?'
+p314
+tp315
+Rp316
+tp317
+a(S'terrier search engine'
+p318
+g2
+(g6
+S'\x1b\xc5m\xc0\x87|\xd2?'
+p319
+tp320
+Rp321
+tp322
+a(S'lietuvos moksleivi\xc5\xb3 krep\xc5\xa1inio lyga'
+p323
+g2
+(g6
+S'w\xc8\x8d\xcbzw\xd2?'
+p324
+tp325
+Rp326
+tp327
+a(S'antigen retrieval'
+p328
+g2
+(g6
+S'\xec\\%\x13\xdfs\xd2?'
+p329
+tp330
+Rp331
+tp332
+a(S'lgte'
+p333
+g2
+(g6
+S'\xcd\xd8\xa7d\xfed\xd2?'
+p334
+tp335
+Rp336
+tp337
+a(S'concept-based image indexing'
+p338
+g2
+(g6
+S'\xbf\xc5/\xdb\x8f%\xd2?'
+p339
+tp340
+Rp341
+tp342
+a(S'susan dumais'
+p343
+g2
+(g6
+S'\xf4\xc5U\x11\xb6!\xd2?'
+p344
+tp345
+Rp346
+tp347
+a(S"ha'ir"
+p348
+g2
+(g6
+S'##\xe6\xc06\x0c\xd2?'
+p349
+tp350
+Rp351
+tp352
+a(S'jason farradane'
+p353
+g2
+(g6
+S'\x80\x97\x99\x1d\xc1\x04\xd2?'
+p354
+tp355
+Rp356
+tp357
+a(S'ireland 1996 25 euro coin'
+p358
+g2
+(g6
+S'(\x8b\x08\x1c@\xfc\xd1?'
+p359
+tp360
+Rp361
+tp362
+a(S'smith sound (british columbia)'
+p363
+g2
+(g6
+S'\xad\xc6?&|\xe1\xd1?'
+p364
+tp365
+Rp366
+tp367
+a(S'ras ir-ra\xc4\xa7eb'
+p368
+g2
+(g6
+S'\xe6|\xf3\xeaT\xdc\xd1?'
+p369
+tp370
+Rp371
+tp372
+a(S'79th minnesota legislature'
+p373
+g2
+(g6
+S'\xe2\x1fN\xc8\xca\xda\xd1?'
+p374
+tp375
+Rp376
+tp377
+a(S'information seeking'
+p378
+g2
+(g6
+S'\xb2\xe5A\xe3\xc7\xb2\xd1?'
+p379
+tp380
+Rp381
+tp382
+a(S'second battle of dego'
+p383
+g2
+(g6
+S'\x07\xb4\xb3\x82\xa3\x9d\xd1?'
+p384
+tp385
+Rp386
+tp387
+a(S'ir3535'
+p388
+g2
+(g6
+S'\x9dM\xc9\xacK\x9d\xd1?'
+p389
+tp390
+Rp391
+tp392
+a(S'sowhan, alborz'
+p393
+g2
+(g6
+S'\x9f\xd0\xe6j>\x9a\xd1?'
+p394
+tp395
+Rp396
+tp397
+a(S'inter-regional research project number 4'
+p398
+g2
+(g6
+S'C\x13\xce\xdf\xd8\x97\xd1?'
+p399
+tp400
+Rp401
+tp402
+a(S'liard river first nation'
+p403
+g2
+(g6
+S'\x02\x9f\x91PB\x1f\xd1?'
+p404
+tp405
+Rp406
+tp407
+a(S"mooers' law"
+p408
+g2
+(g6
+S'K\x10\x93\xd2\x9e\x15\xd1?'
+p409
+tp410
+Rp411
+tp412
+a(S'content-based image retrieval'
+p413
+g2
+(g6
+S'\x02\xec\xdd\xc3K\x12\xd1?'
+p414
+tp415
+Rp416
+tp417
+a(S'tony kent strix award'
+p418
+g2
+(g6
+S'd\xb8\xcc\xafp\x0c\xd1?'
+p419
+tp420
+Rp421
+tp422
+a(S'postpositivism (international relations)'
+p423
+g2
+(g6
+S"\xe1\x04\x17'\x98\x04\xd1?"
+p424
+tp425
+Rp426
+tp427
+a(S'72nd minnesota legislature'
+p428
+g2
+(g6
+S'C\xeb\xe3`\xd4\xf9\xd0?'
+p429
+tp430
+Rp431
+tp432
+a(S'kazimieras motieka'
+p433
+g2
+(g6
+S'KU\x1a\x04\x0f\xf0\xd0?'
+p434
+tp435
+Rp436
+tp437
+a(S'comparison of domestic robots'
+p438
+g2
+(g6
+S'g\x98|\xce\xe3\xe9\xd0?'
+p439
+tp440
+Rp441
+tp442
+a(S'visual word'
+p443
+g2
+(g6
+S'\x91F\xef\x0eM\xe1\xd0?'
+p444
+tp445
+Rp446
+tp447
+a(S'3d content retrieval'
+p448
+g2
+(g6
+S'C\x007&\xdb\xd9\xd0?'
+p449
+tp450
+Rp451
+tp452
+a(S'glasgow'
+p453
+g2
+(g6
+S"J'\x19\x01\xc6\xc1\xd0?"
+p454
+tp455
+Rp456
+tp457
+a(S'scotstar'
+p458
+g2
+(g6
+S'l\x954r\xd6\xbe\xd0?'
+p459
+tp460
+Rp461
+tp462
+a(S'glasgow (disambiguation)'
+p463
+g2
+(g6
+S'KB\x83\x0c\x8e\xa2\xd0?'
+p464
+tp465
+Rp466
+tp467
+a(S'irsg'
+p468
+g2
+(g6
+S'F"\xa5Y#\x9b\xd0?'
+p469
+tp470
+Rp471
+tp472
+a(S'flame detector'
+p473
+g2
+(g6
+S'\xf5\xd8>\x97Z}\xd0?'
+p474
+tp475
+Rp476
+tp477
+a(S'information science'
+p478
+g2
+(g6
+S'\xa2\xea\xd82\x8d{\xd0?'
+p479
+tp480
+Rp481
+tp482
+a(S'dease river first nation'
+p483
+g2
+(g6
+S'\x9ejq\\\xa7U\xd0?'
+p484
+tp485
+Rp486
+tp487
+a(S'ir ishikawa railway'
+p488
+g2
+(g6
+S"'\x13\xb5\xafQI\xd0?"
+p489
+tp490
+Rp491
+tp492
+a(S'informedia digital library'
+p493
+g2
+(g6
+S'\xd0\xf5\xe1\xe8X;\xd0?'
+p494
+tp495
+Rp496
+tp497
+a(S'ir amim'
+p498
+g2
+(g6
+S']\xd1\x12\x9d\xa5(\xd0?'
+p499
+tp500
+Rp501
+tp502
+a(S'iso-ir-165'
+p503
+g2
+(g6
+S'\x18\x82\xc1\x1d\x15\x17\xd0?'
+p504
+tp505
+Rp506
+tp507
+a(S'timeline of glasgow history'
+p508
+g2
+(g6
+S'[cG\xaan\x10\xd0?'
+p509
+tp510
+Rp511
+tp512
+a(S'ir nidachat'
+p513
+g2
+(g6
+S'\xf4\x8czTR\x03\xd0?'
+p514
+tp515
+Rp516
+tp517
+a(S'glasgow parliamentary constituencies'
+p518
+g2
+(g6
+S'^a\x8a|\xf6\xf4\xcf?'
+p519
+tp520
+Rp521
+tp522
+a(S'dorud'
+p523
+g2
+(g6
+S']9\xd7\x1d.\xda\xcf?'
+p524
+tp525
+Rp526
+tp527
+a(S'independent record'
+p528
+g2
+(g6
+S'\xb3\x97`\x10x\x8a\xcf?'
+p529
+tp530
+Rp531
+tp532
+a(S'71st minnesota legislature'
+p533
+g2
+(g6
+S'\x11\xb2\xae\x90\xb5e\xcf?'
+p534
+tp535
+Rp536
+tp537
+a(S'\xc4\xa6ondoq ir-rummien'
+p538
+g2
+(g6
+S'L\xa8\xb4\x9d\xfc8\xcf?'
+p539
+tp540
+Rp541
+tp542
+a(S'feminism (international relations)'
+p543
+g2
+(g6
+S'\x93\xa4^\xa3R!\xcf?'
+p544
+tp545
+Rp546
+tp547
+a(S'g postcode area'
+p548
+g2
+(g6
+S'g\xc1v<b\x06\xcf?'
+p549
+tp550
+Rp551
+tp552
+a(S'list of information retrieval libraries'
+p553
+g2
+(g6
+S'\xb8\xf3\xaa\xdf\x02\xe2\xce?'
+p554
+tp555
+Rp556
+tp557
+a(S'glasgow (european parliament constituency)'
+p558
+g2
+(g6
+S'\xed1\x18z\t\xd2\xce?'
+p559
+tp560
+Rp561
+tp562
+a(S'liberal youth wales'
+p563
+g2
+(g6
+S'\xd1\x163>S\xb4\xce?'
+p564
+tp565
+Rp566
+tp567
+a(S'73rd minnesota legislature'
+p568
+g2
+(g6
+S'\x1b5\x06*\xe5\xaa\xce?'
+p569
+tp570
+Rp571
+tp572
+a(S'karen sp\xc3\xa4rck jones'
+p573
+g2
+(g6
+S'\xe9\xb6F5\x02\xaa\xce?'
+p574
+tp575
+Rp576
+tp577
+a(S'greater glasgow'
+p578
+g2
+(g6
+S'\xf6\x94%Q\xf5\x97\xce?'
+p579
+tp580
+Rp581
+tp582
+a(S'trec genomics'
+p583
+g2
+(g6
+S'\x13\xb7T\x1e\xa6\x85\xce?'
+p584
+tp585
+Rp586
+tp587
+a(S'history of glasgow'
+p588
+g2
+(g6
+S'\x89\xc2\x00\xffD\x84\xce?'
+p589
+tp590
+Rp591
+tp592
+a(S'concept search'
+p593
+g2
+(g6
+S'\xe8?\x1e%\x1b\x7f\xce?'
+p594
+tp595
+Rp596
+tp597
+a(S'workers revolutionary party - revolutionary left'
+p598
+g2
+(g6
+S'\x90}\xbf\xe1\xc5A\xce?'
+p599
+tp600
+Rp601
+tp602
+a(S'active recall'
+p603
+g2
+(g6
+S'>\xbf\x9cL\xb1"\xce?'
+p604
+tp605
+Rp606
+tp607
+a(S'robert r. korfhage'
+p608
+g2
+(g6
+S'\xac\xd9\xf6)r\x1c\xce?'
+p609
+tp610
+Rp611
+tp612
+a(S'indiana railroad'
+p613
+g2
+(g6
+S'\x08\xeb\x98U\xeb\xe0\xcd?'
+p614
+tp615
+Rp616
+tp617
+a(S'namazu (search engine)'
+p618
+g2
+(g6
+S'\xd4\x17\x08\xe2\xab\xb8\xcd?'
+p619
+tp620
+Rp621
+tp622
+a(S'77th minnesota legislature'
+p623
+g2
+(g6
+S'\x92\x9ei\xc2Q\xb0\xcd?'
+p624
+tp625
+Rp626
+tp627
+a(S'multimedia information retrieval'
+p628
+g2
+(g6
+S'nFG\x8d\xf7\xa3\xcd?'
+p629
+tp630
+Rp631
+tp632
+a(S'rokas gecevi\xc4\x8dius'
+p633
+g2
+(g6
+S'\x95\r\xd2\xaf\xef\x8b\xcd?'
+p634
+tp635
+Rp636
+tp637
+a(S'duluth, missabe and iron range railway'
+p638
+g2
+(g6
+S'SB\xd1\x1fR\x8b\xcd?'
+p639
+tp640
+Rp641
+tp642
+a(S'route ir1'
+p643
+g2
+(g6
+S'\xc7e\x94j\xb0r\xcd?'
+p644
+tp645
+Rp646
+tp647
+a(S'frederick wilfrid lancaster'
+p648
+g2
+(g6
+S'i\x91\xd2\x01\xb2!\xcd?'
+p649
+tp650
+Rp651
+tp652
+a(S'university of mataram'
+p653
+g2
+(g6
+S'\xc0\xd09\xa1Y\x1e\xcd?'
+p654
+tp655
+Rp656
+tp657
+a(S'osmiridium'
+p658
+g2
+(g6
+S'\xef\xbe\xe28!\x1a\xcd?'
+p659
+tp660
+Rp661
+tp662
+a(S'infrared blaster'
+p663
+g2
+(g6
+S'>Z\xfe\xff\x17\x0f\xcd?'
+p664
+tp665
+Rp666
+tp667
+a(S'list of festivals in glasgow'
+p668
+g2
+(g6
+S'T\x94\\fC\x07\xcd?'
+p669
+tp670
+Rp671
+tp672
+a(S'glasgow airport (disambiguation)'
+p673
+g2
+(g6
+S'\x1d8\xe6\xf9\xf2\xcf\xcc?'
+p674
+tp675
+Rp676
+tp677
+a(S'mike lesk'
+p678
+g2
+(g6
+S'\x13\t)\x16\xba\xc4\xcc?'
+p679
+tp680
+Rp681
+tp682
+a(S'\xe2\x80\x98namgis first nation'
+p683
+g2
+(g6
+S'p\xe5Q\x82\xac\xbd\xcc?'
+p684
+tp685
+Rp686
+tp687
+a(S'vytautas kubilius'
+p688
+g2
+(g6
+S'\x95\xd6\x88\xf8\x7f\xb1\xcc?'
+p689
+tp690
+Rp691
+tp692
+a(S'franz wenzel, graf von kaunitz-rietberg'
+p693
+g2
+(g6
+S'~\xa7g\xa09\xb1\xcc?'
+p694
+tp695
+Rp696
+tp697
+a(S'keeseekoowenin ojibway first nation'
+p698
+g2
+(g6
+S'HV\x14\xc9a|\xcc?'
+p699
+tp700
+Rp701
+tp702
+a(S'76th minnesota legislature'
+p703
+g2
+(g6
+S'\xac6\xb8\xefnz\xcc?'
+p704
+tp705
+Rp706
+tp707
+a(S'darpa tipster program'
+p708
+g2
+(g6
+S'\xdd-\xd9\xfbRx\xcc?'
+p709
+tp710
+Rp711
+tp712
+a(S'78th minnesota legislature'
+p713
+g2
+(g6
+S'\xba\xe0\xed\xd1\xd9q\xcc?'
+p714
+tp715
+Rp716
+tp717
+a(S'glasgow clinical research facility'
+p718
+g2
+(g6
+S':\xf26\x9evM\xcc?'
+p719
+tp720
+Rp721
+tp722
+a(S'mike lynch (information scientist)'
+p723
+g2
+(g6
+S'Zkkg\x8aA\xcc?'
+p724
+tp725
+Rp726
+tp727
+a(S'republican independents'
+p728
+g2
+(g6
+S'6\xf7\x9f\x97;>\xcc?'
+p729
+tp730
+Rp731
+tp732
+a(S'jaime teevan'
+p733
+g2
+(g6
+S'\xd3?\xa6\x8f+6\xcc?'
+p734
+tp735
+Rp736
+tp737
+a(S'henri copponex'
+p738
+g2
+(g6
+S'\xc9y\xae:M\x1b\xcc?'
+p739
+tp740
+Rp741
+tp742
+a(S'relevance (information retrieval)'
+p743
+g2
+(g6
+S'G\x17}\xb8\xb0\x18\xcc?'
+p744
+tp745
+Rp746
+tp747
+a(S'university of papua'
+p748
+g2
+(g6
+S'\xa9T\xe4\xee\x02\xf0\xcb?'
+p749
+tp750
+Rp751
+tp752
+a(S'image retrieval'
+p753
+g2
+(g6
+S'\x95.\xb0O&\xeb\xcb?'
+p754
+tp755
+Rp756
+tp757
+a(S'zugsf\xc3\xbchrer'
+p758
+g2
+(g6
+S'm\xe0Wg\x8a\xe9\xcb?'
+p759
+tp760
+Rp761
+tp762
+a(S'matrix-assisted laser desorption electrospray ionization'
+p763
+g2
+(g6
+S'\xa8~\xfd\xea!\xd1\xcb?'
+p764
+tp765
+Rp766
+tp767
+a(S'instruction selection'
+p768
+g2
+(g6
+S'\x97\x15\xd9\xb8\x1c\xae\xcb?'
+p769
+tp770
+Rp771
+tp772
+a(S'clearinghouse for networked information discovery and retrieval'
+p773
+g2
+(g6
+S'\xea\xae\xb4\xb5\xc4\xa9\xcb?'
+p774
+tp775
+Rp776
+tp777
+a(S'tur kaut kam ir j\xc4\x81b\xc5\xabt'
+p778
+g2
+(g6
+S'\x9f\n\x98\xb2\xef\xa3\xcb?'
+p779
+tp780
+Rp781
+tp782
+a(S'colloquium balticum'
+p783
+g2
+(g6
+S'b\x81[%\xa5\x99\xcb?'
+p784
+tp785
+Rp786
+tp787
+a(S'missile approach warning system'
+p788
+g2
+(g6
+S'\xd9$ea\xddy\xcb?'
+p789
+tp790
+Rp791
+tp792
+a(S'guanche language'
+p793
+g2
+(g6
+S'\xb0\xf1\xc05NO\xcb?'
+p794
+tp795
+Rp796
+tp797
+a(S'osborne morton'
+p798
+g2
+(g6
+S'v\xach{\xd2F\xcb?'
+p799
+tp800
+Rp801
+tp802
+a(S'james cleland (statistician)'
+p803
+g2
+(g6
+S'!\x12\x11\x90\xc85\xcb?'
+p804
+tp805
+Rp806
+tp807
+a(S'glasgow, montana'
+p808
+g2
+(g6
+S')\x89TGI-\xcb?'
+p809
+tp810
+Rp811
+tp812
+a(S'william coblentz'
+p813
+g2
+(g6
+S'\xb5\x88\xc4\xc0\xae\xf9\xca?'
+p814
+tp815
+Rp816
+tp817
+a(S'old anniesland'
+p818
+g2
+(g6
+S'\x96\xc5\xda#\xf1\xe8\xca?'
+p819
+tp820
+Rp821
+tp822
+a(S'regional agricultural research station, pattambi'
+p823
+g2
+(g6
+S'\xb5\xe5?\x04\xdc\xe7\xca?'
+p824
+tp825
+Rp826
+tp827
+a(S'geography of glasgow'
+p828
+g2
+(g6
+S'\xa3g\x85~\x9e\xe5\xca?'
+p829
+tp830
+Rp831
+tp832
+a(S'scottish police federation'
+p833
+g2
+(g6
+S'e|G-\xf2\xcd\xca?'
+p834
+tp835
+Rp836
+tp837
+a(S'isotopes of platinum'
+p838
+g2
+(g6
+S'\x82\xd3,\xce\x04\xa0\xca?'
+p839
+tp840
+Rp841
+tp842
+a(S'kurikara station'
+p843
+g2
+(g6
+S'\x1f+Y\x1f"\x98\xca?'
+p844
+tp845
+Rp846
+tp847
+a(S'peter willett'
+p848
+g2
+(g6
+S'\xec\xb0\x1c\x8a\xeb\x8f\xca?'
+p849
+tp850
+Rp851
+tp852
+a(S"the complete sha'ir's handbook"
+p853
+g2
+(g6
+S'\x13\x8b\n\xed\xde\x88\xca?'
+p854
+tp855
+Rp856
+tp857
+a(S'pirs'
+p858
+g2
+(g6
+S"'\xf60t\xf3p\xca?"
+p859
+tp860
+Rp861
+tp862
+a(S'indiana review'
+p863
+g2
+(g6
+S'Urm\xd0\xde[\xca?'
+p864
+tp865
+Rp866
+tp867
+a(S'glasgow high kelvinside'
+p868
+g2
+(g6
+S'\x94\x85\xbb\xa1\x9eK\xca?'
+p869
+tp870
+Rp871
+tp872
+a(S'list of football clubs in switzerland'
+p873
+g2
+(g6
+S'\xf1\xae\xdd\x8d)H\xca?'
+p874
+tp875
+Rp876
+tp877
+a(S'list of systemically important banks'
+p878
+g2
+(g6
+S'o\x15\xe0\xd7rD\xca?'
+p879
+tp880
+Rp881
+tp882
+a(S'transport in glasgow'
+p883
+g2
+(g6
+S'\xbc{d\xfb\xf41\xca?'
+p884
+tp885
+Rp886
+tp887
+a(S'legal information retrieval'
+p888
+g2
+(g6
+S'\xe8F\xf1qu*\xca?'
+p889
+tp890
+Rp891
+tp892
+a(S'glasgow metropolitan college'
+p893
+g2
+(g6
+S'\xeb\xcc\xdc\x0e\x11\x14\xca?'
+p894
+tp895
+Rp896
+tp897
+a(S'glasgow provan (scottish parliament constituency)'
+p898
+g2
+(g6
+S']b\xc3\xba\x06\x12\xca?'
+p899
+tp900
+Rp901
+tp902
+a(S'higashi-kanazawa station'
+p903
+g2
+(g6
+S'?\xbb\tm\xdf\x0c\xca?'
+p904
+tp905
+Rp906
+tp907
+a(S'glasgow girls'
+p908
+g2
+(g6
+S'\xd3\xed`\x96\x1a\xfd\xc9?'
+p909
+tp910
+Rp911
+tp912
+a(S'glasgow bid for the 2014 commonwealth games'
+p913
+g2
+(g6
+S'\n\xbf\x9e[\x80\xf5\xc9?'
+p914
+tp915
+Rp916
+tp917
+a(S'outline of information science'
+p918
+g2
+(g6
+S'm\xcb\xc9|n\xf1\xc9?'
+p919
+tp920
+Rp921
+tp922
+a(S'finnish reconquest of ladoga karelia (1941)'
+p923
+g2
+(g6
+S'\x18v\xbb\x0e\x80\xe4\xc9?'
+p924
+tp925
+Rp926
+tp927
+a(S'ellen glasgow'
+p928
+g2
+(g6
+S'\xc1\x01\xdfT"\xe0\xc9?'
+p929
+tp930
+Rp931
+tp932
+a(S'j. ann tickner'
+p933
+g2
+(g6
+S'\x04/\xa2\x17Y\xda\xc9?'
+p934
+tp935
+Rp936
+tp937
+a(S'e-international relations'
+p938
+g2
+(g6
+S'*\xf4.\x06&\xc7\xc9?'
+p939
+tp940
+Rp941
+tp942
+a(S'humax'
+p943
+g2
+(g6
+S';\x87Io\xdb\xbb\xc9?'
+p944
+tp945
+Rp946
+tp947
+a(S'gerry hawkes'
+p948
+g2
+(g6
+S'\x8a,dW+\xab\xc9?'
+p949
+tp950
+Rp951
+tp952
+a(S"bas\xc3\xa2'ir al-daraj\xc3\xa2t"
+p953
+g2
+(g6
+S'Zv]g\xf9\xa7\xc9?'
+p954
+tp955
+Rp956
+tp957
+a(S'75th minnesota legislature'
+p958
+g2
+(g6
+S'\x8f$qy\x14\xa0\xc9?'
+p959
+tp960
+Rp961
+tp962
+a(S'retrievability'
+p963
+g2
+(g6
+S'u\xc9?\xc0\xd3\x9f\xc9?'
+p964
+tp965
+Rp966
+tp967
+a(S'persiann'
+p968
+g2
+(g6
+S'",\xef\x8a\\\x9e\xc9?'
+p969
+tp970
+Rp971
+tp972
+a(S'henry l. roediger iii'
+p973
+g2
+(g6
+S'1^\xefkr\x98\xc9?'
+p974
+tp975
+Rp976
+tp977
+a(S'george breckenridge'
+p978
+g2
+(g6
+S'W\xdc\xe2\rMp\xc9?'
+p979
+tp980
+Rp981
+tp982
+a(S'harry bassi'
+p983
+g2
+(g6
+S'\x9d\x0e\x88\xc1\xdfk\xc9?'
+p984
+tp985
+Rp986
+tp987
+a(S'chopaka, british columbia'
+p988
+g2
+(g6
+S'\xb3\x04_\x16\x94f\xc9?'
+p989
+tp990
+Rp991
+tp992
+a(S'ngc 7538'
+p993
+g2
+(g6
+S'3\x08"\x0e+e\xc9?'
+p994
+tp995
+Rp996
+tp997
+a(S'rose (compiler framework)'
+p998
+g2
+(g6
+S"\xac\xbd\x93'\xd1T\xc9?"
+p999
+tp1000
+Rp1001
+tp1002
+a(S'retrieval-induced forgetting'
+p1003
+g2
+(g6
+S'\x18,\xcc8\x90K\xc9?'
+p1004
+tp1005
+Rp1006
+tp1007
+a(S'first glasgow'
+p1008
+g2
+(g6
+S'\xf6D`u\xfdG\xc9?'
+p1009
+tp1010
+Rp1011
+tp1012
+a(S'john wheatley college'
+p1013
+g2
+(g6
+S'\xd4\x8b\x05v,8\xc9?'
+p1014
+tp1015
+Rp1016
+tp1017
+a(S'concept searching limited'
+p1018
+g2
+(g6
+S'\x8e@C|@7\xc9?'
+p1019
+tp1020
+Rp1021
+tp1022
+a(S'political party strength in alaska'
+p1023
+g2
+(g6
+S'\xcb\x97\xde.\xe4\x1b\xc9?'
+p1024
+tp1025
+Rp1026
+tp1027
+a(S'william glasgow (general)'
+p1028
+g2
+(g6
+S'\x03m\x86\xd6\xca\x16\xc9?'
+p1029
+tp1030
+Rp1031
+tp1032
+a(S'iron range and huron bay railroad'
+p1033
+g2
+(g6
+S'\xdc`\xe0\x0fE\x16\xc9?'
+p1034
+tp1035
+Rp1036
+tp1037
+a(S'sport in glasgow'
+p1038
+g2
+(g6
+S'\xf6j\xa4b^\x06\xc9?'
+p1039
+tp1040
+Rp1041
+tp1042
+a(S'glasgow city centre'
+p1043
+g2
+(g6
+S'\x9a\xde\x8e\xdfx\xf5\xc8?'
+p1044
+tp1045
+Rp1046
+tp1047
+a(S'tsubata station'
+p1048
+g2
+(g6
+S'\r\xac\xf6U/\xf3\xc8?'
+p1049
+tp1050
+Rp1051
+tp1052
+a(S'hms glasgow (c21)'
+p1053
+g2
+(g6
+S'\x9dy\x8a\xbe\xf8\xe2\xc8?'
+p1054
+tp1055
+Rp1056
+tp1057
+a(S'black creek (arizona)'
+p1058
+g2
+(g6
+S'j\x1d\xb9\xc2.\xe1\xc8?'
+p1059
+tp1060
+Rp1061
+tp1062
+a(S'morimoto station'
+p1063
+g2
+(g6
+S'\xb9\x83\xb2\xa9\xff\xdd\xc8?'
+p1064
+tp1065
+Rp1066
+tp1067
+a(S'myer galpern'
+p1068
+g2
+(g6
+S'\xf9\xaa\xef\x01\x9e\xdc\xc8?'
+p1069
+tp1070
+Rp1071
+tp1072
+a(S'glasgow, kentucky'
+p1073
+g2
+(g6
+S'\xfc\x06\x11\xd5\x1e\xdb\xc8?'
+p1074
+tp1075
+Rp1076
+tp1077
+a(S'vocabulary mismatch'
+p1078
+g2
+(g6
+S'\xe9\xf0I|\xd2\xba\xc8?'
+p1079
+tp1080
+Rp1081
+tp1082
+a(S'hippocampal memory encoding and retrieval'
+p1083
+g2
+(g6
+S'.\xac\xa3\xe2=\xb9\xc8?'
+p1084
+tp1085
+Rp1086
+tp1087
+a(S'tai mart\xc4\xb1'
+p1088
+g2
+(g6
+S'W\x8d\xf0\x1f\xab\xb0\xc8?'
+p1089
+tp1090
+Rp1091
+tp1092
+a(S'gordon mackay (rugby union)'
+p1093
+g2
+(g6
+S'\xe2m&\xb6\xfb\xab\xc8?'
+p1094
+tp1095
+Rp1096
+tp1097
+a(S'sarah crilly'
+p1098
+g2
+(g6
+S'\x98\xc6p[\xe5\xa3\xc8?'
+p1099
+tp1100
+Rp1101
+tp1102
+a(S'adversarial information retrieval'
+p1103
+g2
+(g6
+S'd\x1f\x95\x1c\xcb\xa1\xc8?'
+p1104
+tp1105
+Rp1106
+tp1107
+a(S'museum of ostad bohtouni'
+p1108
+g2
+(g6
+S'\x17\xdc\xdf\x9di\x9d\xc8?'
+p1109
+tp1110
+Rp1111
+tp1112
+a(S'glasgow royal maternity hospital'
+p1113
+g2
+(g6
+S'\xf1\xda\xfb\x01\x96\x88\xc8?'
+p1114
+tp1115
+Rp1116
+tp1117
+a(S'n6 road (ghana)'
+p1118
+g2
+(g6
+S'\xd72~\xe9\xddy\xc8?'
+p1119
+tp1120
+Rp1121
+tp1122
+a(S'swan lake first nation'
+p1123
+g2
+(g6
+S'\x841\x93\xe9cl\xc8?'
+p1124
+tp1125
+Rp1126
+tp1127
+a(S'cyclooctadiene iridium chloride dimer'
+p1128
+g2
+(g6
+S'\xe1\xe5\xe8uGi\xc8?'
+p1129
+tp1130
+Rp1131
+tp1132
+a(S'glasgow railway'
+p1133
+g2
+(g6
+S'\x0e\xcbt\xca\rf\xc8?'
+p1134
+tp1135
+Rp1136
+tp1137
+a(S'glasgow film office'
+p1138
+g2
+(g6
+S'X8\xa1V\tc\xc8?'
+p1139
+tp1140
+Rp1141
+tp1142
+a(S'maarten de rijke'
+p1143
+g2
+(g6
+S'e\xc6\x05\x90\xb1`\xc8?'
+p1144
+tp1145
+Rp1146
+tp1147
+a(S'laser direct infrared (ldir) imaging'
+p1148
+g2
+(g6
+S'x\x17\x8f\x16\xb7E\xc8?'
+p1149
+tp1150
+Rp1151
+tp1152
+a(S'list of listed buildings in glasgow'
+p1153
+g2
+(g6
+S"dv\xfa'\x1c?\xc8?"
+p1154
+tp1155
+Rp1156
+tp1157
+a(S'yooz'
+p1158
+g2
+(g6
+S'\xe9\xbe\x8e\xdbm8\xc8?'
+p1159
+tp1160
+Rp1161
+tp1162
+a(S'rule of mutual exclusion'
+p1163
+g2
+(g6
+S'\x82\xa1\x0e\xc484\xc8?'
+p1164
+tp1165
+Rp1166
+tp1167
+a(S'521 series'
+p1168
+g2
+(g6
+S'j\xe4k\xc7q#\xc8?'
+p1169
+tp1170
+Rp1171
+tp1172
+a(S'insane championship wrestling'
+p1173
+g2
+(g6
+S'@x\xe7\x0e\xeb\x07\xc8?'
+p1174
+tp1175
+Rp1176
+tp1177
+a(S'kevin greene (rugby union)'
+p1178
+g2
+(g6
+S'\xd4\x0f\xb0\x97M\x02\xc8?'
+p1179
+tp1180
+Rp1181
+tp1182
+a(S'charles afuakwah'
+p1183
+g2
+(g6
+S'\xd7\x9d\x9d\r\xc4\x00\xc8?'
+p1184
+tp1185
+Rp1186
+tp1187
+a(S'mark a. mcdaniel'
+p1188
+g2
+(g6
+S'R\xb4\x1bL\x1e\xfd\xc7?'
+p1189
+tp1190
+Rp1191
+tp1192
+a(S'university of glasgow medico-chirurgical society'
+p1193
+g2
+(g6
+S'f\xf0/r\xa5\xf7\xc7?'
+p1194
+tp1195
+Rp1196
+tp1197
+a(S'ir/uv mixing'
+p1198
+g2
+(g6
+S'N$P\x80\xde\xf6\xc7?'
+p1199
+tp1200
+Rp1201
+tp1202
+a(S'sarah lowndes'
+p1203
+g2
+(g6
+S'\xf2,]\xa9\x18\xf0\xc7?'
+p1204
+tp1205
+Rp1206
+tp1207
+a(S'ba\xc4\xa7rija'
+p1208
+g2
+(g6
+S'\xbfg\xae\xb1\xd5\xec\xc7?'
+p1209
+tp1210
+Rp1211
+tp1212
+a(S'cowcaddens'
+p1213
+g2
+(g6
+S'\x97\xaf\x91\xc2X\xeb\xc7?'
+p1214
+tp1215
+Rp1216
+tp1217
+a(S'john macleod (rugby union)'
+p1218
+g2
+(g6
+S'Uj\x80\\\xd8\xe9\xc7?'
+p1219
+tp1220
+Rp1221
+tp1222
+a(S'allen kent'
+p1223
+g2
+(g6
+S'x\x89\xd5Q\x99\xe5\xc7?'
+p1224
+tp1225
+Rp1226
+tp1227
+a(S'architecture in glasgow'
+p1228
+g2
+(g6
+S'\xf5\xae|\xec\x9e\xe0\xc7?'
+p1229
+tp1230
+Rp1231
+tp1232
+a(S'calum macgregor'
+p1233
+g2
+(g6
+S':\xd0\xa0\xb2\xe6\xde\xc7?'
+p1234
+tp1235
+Rp1236
+tp1237
+a(S'2004 detroit lions season'
+p1238
+g2
+(g6
+S'A\x9f\x88\xd2\xfd\xdb\xc7?'
+p1239
+tp1240
+Rp1241
+tp1242
+a(S'sound and music computing'
+p1243
+g2
+(g6
+S'\xca\x9d\xfc1\xdf\xd9\xc7?'
+p1244
+tp1245
+Rp1246
+tp1247
+a(S'glasgow shettleston (scottish parliament constituency)'
+p1248
+g2
+(g6
+S'>\r\xd8\\\xdf\xd6\xc7?'
+p1249
+tp1250
+Rp1251
+tp1252
+a(S'bessie macnicol'
+p1253
+g2
+(g6
+S'\xc7l\xff:7\xd2\xc7?'
+p1254
+tp1255
+Rp1256
+tp1257
+a(S'william kellock brown'
+p1258
+g2
+(g6
+S'Z\xda\xe8\x94\x0c\xd1\xc7?'
+p1259
+tp1260
+Rp1261
+tp1262
+a(S'bunny walters'
+p1263
+g2
+(g6
+S'\t\x1d\xa7_\xf2\xc8\xc7?'
+p1264
+tp1265
+Rp1266
+tp1267
+a(S'mayan-e sofla, east azerbaijan'
+p1268
+g2
+(g6
+S't\xbf\xd5I<\xb2\xc7?'
+p1269
+tp1270
+Rp1271
+tp1272
+a(S'george henry edington'
+p1273
+g2
+(g6
+S'\x83_\xd3\xbe\xfc\xb0\xc7?'
+p1274
+tp1275
+Rp1276
+tp1277
+a(S'chris docherty'
+p1278
+g2
+(g6
+S'\x99Q\\\x8d\xe8\xb0\xc7?'
+p1279
+tp1280
+Rp1281
+tp1282
+a(S'john baird i (1798-1859)'
+p1283
+g2
+(g6
+S')Y\xe1\xda\xb9\xae\xc7?'
+p1284
+tp1285
+Rp1286
+tp1287
+a(S'epb 24/7'
+p1288
+g2
+(g6
+S'\x93\xef\xd5\xd3r\xa3\xc7?'
+p1289
+tp1290
+Rp1291
+tp1292
+a(S'sheffield ischool'
+p1293
+g2
+(g6
+S'`hl\x8f\xb7\xa0\xc7?'
+p1294
+tp1295
+Rp1296
+tp1297
+a(S'viktorija daujotyt\xc4\x97'
+p1298
+g2
+(g6
+S'E:\xf1H\x91\x99\xc7?'
+p1299
+tp1300
+Rp1301
+tp1302
+a(S'anton muscatelli'
+p1303
+g2
+(g6
+S'\xe3\xbf\xcae\x05\x95\xc7?'
+p1304
+tp1305
+Rp1306
+tp1307
+a(S'new glasgow, nova scotia'
+p1308
+g2
+(g6
+S'\x8b\xbe\xe0~\x87\x93\xc7?'
+p1309
+tp1310
+Rp1311
+tp1312
+a(S'university of wisconsin\xe2\x80\x93milwaukee school of information studies'
+p1313
+g2
+(g6
+S'\x92\x892p\xe3\x90\xc7?'
+p1314
+tp1315
+Rp1316
+tp1317
+a(S'1988 dallas cowboys season'
+p1318
+g2
+(g6
+S's\xb3\x17H\x04\x8f\xc7?'
+p1319
+tp1320
+Rp1321
+tp1322
+a(S'loreta anilionyt\xc4\x97'
+p1323
+g2
+(g6
+S'E\xc3h\xca\xca\x80\xc7?'
+p1324
+tp1325
+Rp1326
+tp1327
+a(S'paul a. d. de maine'
+p1328
+g2
+(g6
+S'\xb8\xf8\xe3\x06kx\xc7?'
+p1329
+tp1330
+Rp1331
+tp1332
+a(S'optronique secteur frontal'
+p1333
+g2
+(g6
+S'\x83\x1a\xb8\xdf\x83w\xc7?'
+p1334
+tp1335
+Rp1336
+tp1337
+a(S'international financial services district'
+p1338
+g2
+(g6
+S'Nx;2\xb0t\xc7?'
+p1339
+tp1340
+Rp1341
+tp1342
+a(S'andrew ness'
+p1343
+g2
+(g6
+S'_)\xe9\x98\xebs\xc7?'
+p1344
+tp1345
+Rp1346
+tp1347
+a(S'william george black'
+p1348
+g2
+(g6
+S'\x1cAQ\xcd5n\xc7?'
+p1349
+tp1350
+Rp1351
+tp1352
+a(S'1981 kansas city chiefs season'
+p1353
+g2
+(g6
+S'\xff\xc9\x8a(\x90b\xc7?'
+p1354
+tp1355
+Rp1356
+tp1357
+a(S'glasgow clinical trials unit'
+p1358
+g2
+(g6
+S'\x9d\x16\xfd\xa5\x99`\xc7?'
+p1359
+tp1360
+Rp1361
+tp1362
+a(S'water vapor windows'
+p1363
+g2
+(g6
+S'\xadE\x8fz\x7f`\xc7?'
+p1364
+tp1365
+Rp1366
+tp1367
+a(S'glasgow harbour'
+p1368
+g2
+(g6
+S'\xe9\xa4K\x89\x01W\xc7?'
+p1369
+tp1370
+Rp1371
+tp1372
+a(S'david andreoff evans'
+p1373
+g2
+(g6
+S'\xc6\xc5)\xbbeR\xc7?'
+p1374
+tp1375
+Rp1376
+tp1377
+a(S'townhead'
+p1378
+g2
+(g6
+S'\x86q=\x1c(I\xc7?'
+p1379
+tp1380
+Rp1381
+tp1382
+a(S'culture in glasgow'
+p1383
+g2
+(g6
+S'h\xee\t\xdf\x92H\xc7?'
+p1384
+tp1385
+Rp1386
+tp1387
+a(S'simorgh county'
+p1388
+g2
+(g6
+S'Q$\x8e\xc4\xc6E\xc7?'
+p1389
+tp1390
+Rp1391
+tp1392
+a(S"glasgow colleges' regional board"
+p1393
+g2
+(g6
+S'\xd2D\xc8\xd0 B\xc7?'
+p1394
+tp1395
+Rp1396
+tp1397
+a(S'independent labour party election results'
+p1398
+g2
+(g6
+S'\xc1\x05\xee\xc6l=\xc7?'
+p1399
+tp1400
+Rp1401
+tp1402
+a(S'alan perrie'
+p1403
+g2
+(g6
+S'\x0f@7>\xae<\xc7?'
+p1404
+tp1405
+Rp1406
+tp1407
+a(S'bob winter'
+p1408
+g2
+(g6
+S'\x14\x98\x9bP\xde:\xc7?'
+p1409
+tp1410
+Rp1411
+tp1412
+a(S'robert freer (physician)'
+p1413
+g2
+(g6
+S'.\x9e%\xcc\xc18\xc7?'
+p1414
+tp1415
+Rp1416
+tp1417
+a(S'glasgow effect'
+p1418
+g2
+(g6
+S'm[\xd5h)8\xc7?'
+p1419
+tp1420
+Rp1421
+tp1422
+a(S'clyde fastlink'
+p1423
+g2
+(g6
+S'\xc6HD\xdal1\xc7?'
+p1424
+tp1425
+Rp1426
+tp1427
+a(S'zettair'
+p1428
+g2
+(g6
+S'\x15D\xe1Z\xca"\xc7?'
+p1429
+tp1430
+Rp1431
+tp1432
+a(S'nhs greater glasgow and clyde'
+p1433
+g2
+(g6
+S'\xa8yo\xb5; \xc7?'
+p1434
+tp1435
+Rp1436
+tp1437
+a(S'glasgow sharks'
+p1438
+g2
+(g6
+S'\xbd\x15\xff)\xa9\x1e\xc7?'
+p1439
+tp1440
+Rp1441
+tp1442
+a(S'gender and sexuality in information studies colloquium (event)'
+p1443
+g2
+(g6
+S'&l\xc72\xba\x1b\xc7?'
+p1444
+tp1445
+Rp1446
+tp1447
+a(S'glasgow bid for the 2018 summer youth olympics'
+p1448
+g2
+(g6
+S'.l\xe9\xa0J\x19\xc7?'
+p1449
+tp1450
+Rp1451
+tp1452
+a(S'glasgow hsfp'
+p1453
+g2
+(g6
+S'S\xac\x86\xc1\xb8\x15\xc7?'
+p1454
+tp1455
+Rp1456
+tp1457
+a(S'university of glasgow'
+p1458
+g2
+(g6
+S'\x07wz\x84z\x11\xc7?'
+p1459
+tp1460
+Rp1461
+tp1462
+a(S'extremes (novel)'
+p1463
+g2
+(g6
+S's\xcc\xb1\x1a\x91\x0e\xc7?'
+p1464
+tp1465
+Rp1466
+tp1467
+a(S'glasgow kelvin (uk parliament constituency)'
+p1468
+g2
+(g6
+S'\xf0o6?u\x07\xc7?'
+p1469
+tp1470
+Rp1471
+tp1472
+a(S'multisearch'
+p1473
+g2
+(g6
+S'\xeb&\xeeJO\xfa\xc6?'
+p1474
+tp1475
+Rp1476
+tp1477
+a(S'glasgow college of nautical studies'
+p1478
+g2
+(g6
+S'\x00\x85\xa9\xf7\xa9\xf5\xc6?'
+p1479
+tp1480
+Rp1481
+tp1482
+a(S'testing effect'
+p1483
+g2
+(g6
+S'lm|\x93\x14\xf3\xc6?'
+p1484
+tp1485
+Rp1486
+tp1487
+a(S'west yorkshire derby'
+p1488
+g2
+(g6
+S'\xea(8\xf3\xca\xef\xc6?'
+p1489
+tp1490
+Rp1491
+tp1492
+a(S'chris simmers'
+p1493
+g2
+(g6
+S"'\xb5\x1a\xd0N\xee\xc6?"
+p1494
+tp1495
+Rp1496
+tp1497
+a(S'glasgow cathedral (disambiguation)'
+p1498
+g2
+(g6
+S'\xd8\xf3/gG\xe6\xc6?'
+p1499
+tp1500
+Rp1501
+tp1502
+a(S'alan smeaton'
+p1503
+g2
+(g6
+S'\x06\xd3\x98\xd9\xaa\xd6\xc6?'
+p1504
+tp1505
+Rp1506
+tp1507
+a(S'glasgow southern rfc'
+p1508
+g2
+(g6
+S'}\xf3:\xd2\x16\xd3\xc6?'
+p1509
+tp1510
+Rp1511
+tp1512
+a.

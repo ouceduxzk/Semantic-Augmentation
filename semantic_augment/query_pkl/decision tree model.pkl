@@ -1,0 +1,2728 @@
+(lp0
+(S'decision tree model'
+p1
+cnumpy.core.multiarray
+scalar
+p2
+(cnumpy
+dtype
+p3
+(S'f8'
+p4
+I0
+I1
+tp5
+Rp6
+(I3
+S'<'
+p7
+NNNI-1
+I-1
+I0
+tp8
+bS'\x05\x00\x00\x00\x00\x00\xf0?'
+p9
+tp10
+Rp11
+tp12
+a(S'decision tree'
+p13
+g2
+(g6
+S'\xdf\xf2L\x04\xe8\xba\xe2?'
+p14
+tp15
+Rp16
+tp17
+a(S'game complexity'
+p18
+g2
+(g6
+S')b1=\xfb\x86\xe0?'
+p19
+tp20
+Rp21
+tp22
+a(S'decision tree learning'
+p23
+g2
+(g6
+S'\xfe8Q\xb2\xc4E\xe0?'
+p24
+tp25
+Rp26
+tp27
+a(S'element distinctness problem'
+p28
+g2
+(g6
+S'\xf0\xad&m\x9d\xc4\xde?'
+p29
+tp30
+Rp31
+tp32
+a(S'quantum complexity theory'
+p33
+g2
+(g6
+S'\x90\xb6\x9c\x01);\xdc?'
+p34
+tp35
+Rp36
+tp37
+a(S'tree (disambiguation)'
+p38
+g2
+(g6
+S'\x85W\xed\x1b\x113\xdc?'
+p39
+tp40
+Rp41
+tp42
+a(S'r* tree'
+p43
+g2
+(g6
+S'\r%FD\xef\x81\xdb?'
+p44
+tp45
+Rp46
+tp47
+a(S'decision problem'
+p48
+g2
+(g6
+S'\xd8R\x98g\xddB\xdb?'
+p49
+tp50
+Rp51
+tp52
+a(S'grafting (decision trees)'
+p53
+g2
+(g6
+S'\xcfW`\x0fU\n\xdb?'
+p54
+tp55
+Rp56
+tp57
+a(S'list of data structures'
+p58
+g2
+(g6
+S'"h9\xc4o\xa0\xda?'
+p59
+tp60
+Rp61
+tp62
+a(S'tree of life'
+p63
+g2
+(g6
+S'\x9f\xb6BW\x0e]\xda?'
+p64
+tp65
+Rp66
+tp67
+a(S'computational complexity'
+p68
+g2
+(g6
+S'n\xbc><\xa8&\xda?'
+p69
+tp70
+Rp71
+tp72
+a(S'tree of life (disambiguation)'
+p73
+g2
+(g6
+S'>\x0f\xe7\xa4\xbd\x0e\xda?'
+p74
+tp75
+Rp76
+tp77
+a(S'complexity'
+p78
+g2
+(g6
+S'\xe4VL4\x9c\xf2\xd9?'
+p79
+tp80
+Rp81
+tp82
+a(S'decision engineering'
+p83
+g2
+(g6
+S'\xb3f\xaf\xe4\t\xdf\xd9?'
+p84
+tp85
+Rp86
+tp87
+a(S'computation tree'
+p88
+g2
+(g6
+S'Czxt\xbe\xda\xd9?'
+p89
+tp90
+Rp91
+tp92
+a(S'decision analysis'
+p93
+g2
+(g6
+S'\xd4\xd5\xf6TvV\xd9?'
+p94
+tp95
+Rp96
+tp97
+a(S'decision game'
+p98
+g2
+(g6
+S',\x13DM[P\xd9?'
+p99
+tp100
+Rp101
+tp102
+a(S'family tree (disambiguation)'
+p103
+g2
+(g6
+S'"\xf5\x80\x1d(O\xd9?'
+p104
+tp105
+Rp106
+tp107
+a(S'computational complexity theory'
+p108
+g2
+(g6
+S'a\xf7\xc6\x9bzE\xd9?'
+p109
+tp110
+Rp111
+tp112
+a(S'decision'
+p113
+g2
+(g6
+S'M\x917\xc7\xd9\x07\xd9?'
+p114
+tp115
+Rp116
+tp117
+a(S'decision management'
+p118
+g2
+(g6
+S'b\xbe\xdaQC\xad\xd8?'
+p119
+tp120
+Rp121
+tp122
+a(S'complexity measure'
+p123
+g2
+(g6
+S'\x12\xbb\xc1\xdf\xad\x9c\xd8?'
+p124
+tp125
+Rp126
+tp127
+a(S'ahoona'
+p128
+g2
+(g6
+S'!\xa2=\xc6+\x92\xd8?'
+p129
+tp130
+Rp131
+tp132
+a(S'decision model'
+p133
+g2
+(g6
+S'\xb0\x94C\x88\x80\x8a\xd8?'
+p134
+tp135
+Rp136
+tp137
+a(S'decision quality'
+p138
+g2
+(g6
+S'\xcf\xf3\x10\x89\x11V\xd8?'
+p139
+tp140
+Rp141
+tp142
+a(S'complexity (disambiguation)'
+p143
+g2
+(g6
+S'I\x00\r^aQ\xd8?'
+p144
+tp145
+Rp146
+tp147
+a(S'logical depth'
+p148
+g2
+(g6
+S'\xad\xe2+\x8b,,\xd8?'
+p149
+tp150
+Rp151
+tp152
+a(S'group decision-making'
+p153
+g2
+(g6
+S'\xcbNg&c+\xd8?'
+p154
+tp155
+Rp156
+tp157
+a(S'parijaat tree, kintoor'
+p158
+g2
+(g6
+S'\x7f\x83\xee,\xa1\xdc\xd7?'
+p159
+tp160
+Rp161
+tp162
+a(S'list of natural monuments of turkey'
+p163
+g2
+(g6
+S'Cx\xdb\xfd\x0c\xbc\xd7?'
+p164
+tp165
+Rp166
+tp167
+a(S'tree rearrangement'
+p168
+g2
+(g6
+S'\xf1LRr\x8c\xb0\xd7?'
+p169
+tp170
+Rp171
+tp172
+a(S'tree of t\xc3\xa9n\xc3\xa9r\xc3\xa9'
+p173
+g2
+(g6
+S'+\xf4\xc2q]`\xd7?'
+p174
+tp175
+Rp176
+tp177
+a(S'decision-making'
+p178
+g2
+(g6
+S'\\\x88\xa5D\x0e\x17\xd7?'
+p179
+tp180
+Rp181
+tp182
+a(S'tree of life (biology)'
+p183
+g2
+(g6
+S'\x1d\x08\xc6\x14X\x06\xd7?'
+p184
+tp185
+Rp186
+tp187
+a(S'trees in mythology'
+p188
+g2
+(g6
+S'(\x1aOU2\xec\xd6?'
+p189
+tp190
+Rp191
+tp192
+a(S'probabilistic analysis of algorithms'
+p193
+g2
+(g6
+S'\x06\xc2\x8a\xb5\xef\xeb\xd6?'
+p194
+tp195
+Rp196
+tp197
+a(S'avl tree'
+p198
+g2
+(g6
+S'\x929:3\x15\xe9\xd6?'
+p199
+tp200
+Rp201
+tp202
+a(S'chicago christmas tree'
+p203
+g2
+(g6
+S'\x91\x15\xe3\x88\\\xc0\xd6?'
+p204
+tp205
+Rp206
+tp207
+a(S'tree of life (biblical)'
+p208
+g2
+(g6
+S'\x83\xdc\x9b\xed\xd8\xbd\xd6?'
+p209
+tp210
+Rp211
+tp212
+a(S'list of notable trees'
+p213
+g2
+(g6
+S'\xf7\xeb\xe7\xb2\x80\xa9\xd6?'
+p214
+tp215
+Rp216
+tp217
+a(S'national christmas tree (united states)'
+p218
+g2
+(g6
+S'LH\x1f\x95>z\xd6?'
+p219
+tp220
+Rp221
+tp222
+a(S'tree that owns itself'
+p223
+g2
+(g6
+S'\xf1a\xc3\x12c>\xd6?'
+p224
+tp225
+Rp226
+tp227
+a(S'algorithmic complexity'
+p228
+g2
+(g6
+S'E\xfc\xffE\xd6=\xd6?'
+p229
+tp230
+Rp231
+tp232
+a(S'list of terms relating to algorithms and data structures'
+p233
+g2
+(g6
+S'\xeb\x93gC/\x1b\xd6?'
+p234
+tp235
+Rp236
+tp237
+a(S'asymptotic computational complexity'
+p238
+g2
+(g6
+S'\xe7a\xcd\x10\n\x16\xd6?'
+p239
+tp240
+Rp241
+tp242
+a(S'talking tree'
+p243
+g2
+(g6
+S'\x19\xbd\xa7!N\x14\xd6?'
+p244
+tp245
+Rp246
+tp247
+a(S'complexity management'
+p248
+g2
+(g6
+S'+\xde\x16P\xe8\x04\xd6?'
+p249
+tp250
+Rp251
+tp252
+a(S'suslin tree'
+p253
+g2
+(g6
+S'\xd7\x84\x9d\x17g\xfa\xd5?'
+p254
+tp255
+Rp256
+tp257
+a(S'tree sitting'
+p258
+g2
+(g6
+S'\xd7\xebN\x86\xd9\xef\xd5?'
+p259
+tp260
+Rp261
+tp262
+a(S'phylogenetic tree'
+p263
+g2
+(g6
+S'\x8c\xca\xe6\xc4b\xec\xd5?'
+p264
+tp265
+Rp266
+tp267
+a(S'tree structure'
+p268
+g2
+(g6
+S'_\xce\xb2I\x89\xe9\xd5?'
+p269
+tp270
+Rp271
+tp272
+a(S'dtime'
+p273
+g2
+(g6
+S'\xb0\x18\xe1\xfc\x9d\xd9\xd5?'
+p274
+tp275
+Rp276
+tp277
+a(S'i-tree'
+p278
+g2
+(g6
+S'\x7f\xf9t\xd7\x8e\xd2\xd5?'
+p279
+tp280
+Rp281
+tp282
+a(S'decision list'
+p283
+g2
+(g6
+S'\xc4d\x1c\x16\x17\xcc\xd5?'
+p284
+tp285
+Rp286
+tp287
+a(S'tree council of ireland'
+p288
+g2
+(g6
+S'\xf9p\xf4/\xf2\xbe\xd5?'
+p289
+tp290
+Rp291
+tp292
+a(S'optimal decision'
+p293
+g2
+(g6
+S'#\x8d\x95.\xbc\xb9\xd5?'
+p294
+tp295
+Rp296
+tp297
+a(S'trysting tree'
+p298
+g2
+(g6
+S'\xe8\xe8\xdd\x91\xcd\xae\xd5?'
+p299
+tp300
+Rp301
+tp302
+a(S'big tree'
+p303
+g2
+(g6
+S'\xc5\xe8\xbd\x16L\xa6\xd5?'
+p304
+tp305
+Rp306
+tp307
+a(S'k-d tree'
+p308
+g2
+(g6
+S'\xaf\x00N\xec\xd4\x95\xd5?'
+p309
+tp310
+Rp311
+tp312
+a(S'the decision'
+p313
+g2
+(g6
+S'V{\xf0WF\x81\xd5?'
+p314
+tp315
+Rp316
+tp317
+a(S"devil's tree"
+p318
+g2
+(g6
+S'\xe97\x0f\x16S\x80\xd5?'
+p319
+tp320
+Rp321
+tp322
+a(S'anne frank tree'
+p323
+g2
+(g6
+S'E$\xe8\x86oq\xd5?'
+p324
+tp325
+Rp326
+tp327
+a(S'property testing'
+p328
+g2
+(g6
+S'=\xd9\x03|cM\xd5?'
+p329
+tp330
+Rp331
+tp332
+a(S'wish tree'
+p333
+g2
+(g6
+S'\x19;\xd8\xd6\x13/\xd5?'
+p334
+tp335
+Rp336
+tp337
+a(S'worst-case complexity'
+p338
+g2
+(g6
+S'\xdb^8\xf9\xa6\x19\xd5?'
+p339
+tp340
+Rp341
+tp342
+a(S'singing christmas tree'
+p343
+g2
+(g6
+S'\x99\x87\x16\x90#\r\xd5?'
+p344
+tp345
+Rp346
+tp347
+a(S'tree (set theory)'
+p348
+g2
+(g6
+S'0Z.\xf9\x9a\x00\xd5?'
+p349
+tp350
+Rp351
+tp352
+a(S'semantic decision table'
+p353
+g2
+(g6
+S'B\xdf\xa2\xca\x15\xfe\xd4?'
+p354
+tp355
+Rp356
+tp357
+a(S'peace tree'
+p358
+g2
+(g6
+S'\xb9\xca?[\xff\xec\xd4?'
+p359
+tp360
+Rp361
+tp362
+a(S'tree measurement'
+p363
+g2
+(g6
+S'\xda\xa5\xf6n\xa5\xd2\xd4?'
+p364
+tp365
+Rp366
+tp367
+a(S'tango tree'
+p368
+g2
+(g6
+S'S\xc3J\xc6D\xcd\xd4?'
+p369
+tp370
+Rp371
+tp372
+a(S'tree'
+p373
+g2
+(g6
+S'\xd0WD{k\xcb\xd4?'
+p374
+tp375
+Rp376
+tp377
+a(S'eqp (complexity)'
+p378
+g2
+(g6
+S'\x04\xa6\xe9\xa1\x89\xc4\xd4?'
+p379
+tp380
+Rp381
+tp382
+a(S'silver tree (disambiguation)'
+p383
+g2
+(g6
+S'\xe4"\xd99\x93\xbf\xd4?'
+p384
+tp385
+Rp386
+tp387
+a(S'cartesian tree'
+p388
+g2
+(g6
+S"{\xe3u'#\xbe\xd4?"
+p389
+tp390
+Rp391
+tp392
+a(S'decision downloading'
+p393
+g2
+(g6
+S"V\xb4',!\xbe\xd4?"
+p394
+tp395
+Rp396
+tp397
+a(S'tree height measurement'
+p398
+g2
+(g6
+S'\xe8\xeaq\xb4u\xbc\xd4?'
+p399
+tp400
+Rp401
+tp402
+a(S'buttonball tree'
+p403
+g2
+(g6
+S'>M\x08\xdbn\xb1\xd4?'
+p404
+tp405
+Rp406
+tp407
+a(S'random tree'
+p408
+g2
+(g6
+S"\xfbx.'\xb2\xae\xd4?"
+p409
+tp410
+Rp411
+tp412
+a(S'washington (tree)'
+p413
+g2
+(g6
+S's\x91\x98\x96\x9d\xa7\xd4?'
+p414
+tp415
+Rp416
+tp417
+a(S'hanging tree (united states)'
+p418
+g2
+(g6
+S'\x9c\x93\x98\x1b\xb8\x9d\xd4?'
+p419
+tp420
+Rp421
+tp422
+a(S'kalpavriksha'
+p423
+g2
+(g6
+S'r\xdev>\xea\x88\xd4?'
+p424
+tp425
+Rp426
+tp427
+a(S'tree diagram'
+p428
+g2
+(g6
+S'\x00\x86\x19\xb3\x1e\x7f\xd4?'
+p429
+tp430
+Rp431
+tp432
+a(S'continuous quantum computation'
+p433
+g2
+(g6
+S'\x81\xfd`\xc7P~\xd4?'
+p434
+tp435
+Rp436
+tp437
+a(S'alternating decision tree'
+p438
+g2
+(g6
+S'\xd8\xfa\xb1\xd8G|\xd4?'
+p439
+tp440
+Rp441
+tp442
+a(S'order statistic tree'
+p443
+g2
+(g6
+S'\xdbT\x80&\xd5y\xd4?'
+p444
+tp445
+Rp446
+tp447
+a(S'ailanthus altissima'
+p448
+g2
+(g6
+S'+~\xe8f*y\xd4?'
+p449
+tp450
+Rp451
+tp452
+a(S'tree of knowledge (australia)'
+p453
+g2
+(g6
+S'\x05\xc3\xd6\x85\xb8x\xd4?'
+p454
+tp455
+Rp456
+tp457
+a(S'agiya tree monument'
+p458
+g2
+(g6
+S'\n\nv|ew\xd4?'
+p459
+tp460
+Rp461
+tp462
+a(S'tree house'
+p463
+g2
+(g6
+S'99/|1q\xd4?'
+p464
+tp465
+Rp466
+tp467
+a(S'range tree'
+p468
+g2
+(g6
+S'\x0f\xe5\xae\xa4\xc7d\xd4?'
+p469
+tp470
+Rp471
+tp472
+a(S'relaxed k-d tree'
+p473
+g2
+(g6
+S'\xe2\x12n\x1c\xeb`\xd4?'
+p474
+tp475
+Rp476
+tp477
+a(S'tree (surname)'
+p478
+g2
+(g6
+S'\xf5:\x16\xc3WZ\xd4?'
+p479
+tp480
+Rp481
+tp482
+a(S'lincoln (tree)'
+p483
+g2
+(g6
+S'KU\xfc\xd9\xd0@\xd4?'
+p484
+tp485
+Rp486
+tp487
+a(S'tree of life, bahrain'
+p488
+g2
+(g6
+S'\x9c\x99\xc36\x12<\xd4?'
+p489
+tp490
+Rp491
+tp492
+a(S'lady liberty (tree)'
+p493
+g2
+(g6
+S'K,\x05\xaf\xe15\xd4?'
+p494
+tp495
+Rp496
+tp497
+a(S'fractal tree index'
+p498
+g2
+(g6
+S'\x0c\x88Yl\xc0+\xd4?'
+p499
+tp500
+Rp501
+tp502
+a(S'programming complexity'
+p503
+g2
+(g6
+S'T\xca\xc8D\xb4\x19\xd4?'
+p504
+tp505
+Rp506
+tp507
+a(S'multiscale decision-making'
+p508
+g2
+(g6
+S'\xff\xd4\xfc/\xd1\x10\xd4?'
+p509
+tp510
+Rp511
+tp512
+a(S'cyclomatic complexity'
+p513
+g2
+(g6
+S'?\xa3\xc9\xa6^\x06\xd4?'
+p514
+tp515
+Rp516
+tp517
+a(S'old tjikko'
+p518
+g2
+(g6
+S'u\x90\xfd\xfa\xfc\x01\xd4?'
+p519
+tp520
+Rp521
+tp522
+a(S'game tree'
+p523
+g2
+(g6
+S'6\xb9\x120\x06\xfe\xd3?'
+p524
+tp525
+Rp526
+tp527
+a(S'international world war peace tree'
+p528
+g2
+(g6
+S'\xc1\xbeJ\xa2\xeb\xee\xd3?'
+p529
+tp530
+Rp531
+tp532
+a(S'giant forest'
+p533
+g2
+(g6
+S'\xc1\x01\x83^\xfc\xe4\xd3?'
+p534
+tp535
+Rp536
+tp537
+a(S'world tree'
+p538
+g2
+(g6
+S'\xc6{#\x08\x1e\xd7\xd3?'
+p539
+tp540
+Rp541
+tp542
+a(S'wavl tree'
+p543
+g2
+(g6
+S'\xc5\xef \x98z\xd4\xd3?'
+p544
+tp545
+Rp546
+tp547
+a(S'complexity function'
+p548
+g2
+(g6
+S'\xd27-uw\xc9\xd3?'
+p549
+tp550
+Rp551
+tp552
+a(S'complexity theory'
+p553
+g2
+(g6
+S'\xe4\x90 *\\\xc4\xd3?'
+p554
+tp555
+Rp556
+tp557
+a(S'pioneer cabin tree'
+p558
+g2
+(g6
+S'-\x13\x00\xa9\xb2\xbe\xd3?'
+p559
+tp560
+Rp561
+tp562
+a(S'unrooted binary tree'
+p563
+g2
+(g6
+S'C|,D\xd1\xbc\xd3?'
+p564
+tp565
+Rp566
+tp567
+a(S'sri lankan christmas tree'
+p568
+g2
+(g6
+S'M\x849(0\xb5\xd3?'
+p569
+tp570
+Rp571
+tp572
+a(S'bqp'
+p573
+g2
+(g6
+S'\x05\xc4*Y\xfe\xa2\xd3?'
+p574
+tp575
+Rp576
+tp577
+a(S'parson smith tree'
+p578
+g2
+(g6
+S'\x8a\xa7\x98\x1c\x0c\x9f\xd3?'
+p579
+tp580
+Rp581
+tp582
+a(S'aronszajn tree'
+p583
+g2
+(g6
+S'\x8b\xc1\xf2h\x84\x96\xd3?'
+p584
+tp585
+Rp586
+tp587
+a(S'dlogtime'
+p588
+g2
+(g6
+S'C*"%}\x82\xd3?'
+p589
+tp590
+Rp591
+tp592
+a(S'k-minimum spanning tree'
+p593
+g2
+(g6
+S'\xde\xa1\x01oN\x82\xd3?'
+p594
+tp595
+Rp596
+tp597
+a(S'tree of knowledge'
+p598
+g2
+(g6
+S'f\x1c\x9f\xbf<|\xd3?'
+p599
+tp600
+Rp601
+tp602
+a(S'binary expression tree'
+p603
+g2
+(g6
+S'$\x88}\x01\xcfq\xd3?'
+p604
+tp605
+Rp606
+tp607
+a(S"wrestling at the 1962 asian games \xe2\x80\x93 men's freestyle 52 kg"
+p608
+g2
+(g6
+S'\x18L\xd6\x1csp\xd3?'
+p609
+tp610
+Rp611
+tp612
+a(S'christmas tree'
+p613
+g2
+(g6
+S'\xc2~\xe0#Bd\xd3?'
+p614
+tp615
+Rp616
+tp617
+a(S'tournament sort'
+p618
+g2
+(g6
+S'Y#ja\x1f^\xd3?'
+p619
+tp620
+Rp621
+tp622
+a(S'regular tree grammar'
+p623
+g2
+(g6
+S'\xaac\t\x1a[Y\xd3?'
+p624
+tp625
+Rp626
+tp627
+a(S'early decision'
+p628
+g2
+(g6
+S'\xda\x08\x10\x9b\x1cY\xd3?'
+p629
+tp630
+Rp631
+tp632
+a(S'kurepa tree'
+p633
+g2
+(g6
+S'\xdf\xdcLA\x1eX\xd3?'
+p634
+tp635
+Rp636
+tp637
+a(S'random binary tree'
+p638
+g2
+(g6
+S'\xd1\xad\x0e\xf5*C\xd3?'
+p639
+tp640
+Rp641
+tp642
+a(S'paul cilliers'
+p643
+g2
+(g6
+S'n\x8a%\xd1\xc4B\xd3?'
+p644
+tp645
+Rp646
+tp647
+a(S'generic-case complexity'
+p648
+g2
+(g6
+S'\xdf\x8a\x10\x18\xde8\xd3?'
+p649
+tp650
+Rp651
+tp652
+a(S'b+ tree'
+p653
+g2
+(g6
+S'\n{\xbc:\x93/\xd3?'
+p654
+tp655
+Rp656
+tp657
+a(S'dry tree'
+p658
+g2
+(g6
+S'\xb3:\n\xa9\x0f,\xd3?'
+p659
+tp660
+Rp661
+tp662
+a(S'self-balancing binary search tree'
+p663
+g2
+(g6
+S'\x8d8\x03L\x11"\xd3?'
+p664
+tp665
+Rp666
+tp667
+a(S'cognitive complexity'
+p668
+g2
+(g6
+S'\xa7!\x82I\xb4\x17\xd3?'
+p669
+tp670
+Rp671
+tp672
+a(S'treap'
+p673
+g2
+(g6
+S'k\xa9\x9cu\xb2\x14\xd3?'
+p674
+tp675
+Rp676
+tp677
+a(S'changi tree'
+p678
+g2
+(g6
+S'O\x0ev\x01H\x13\xd3?'
+p679
+tp680
+Rp681
+tp682
+a(S'balmville tree'
+p683
+g2
+(g6
+S'\x93\xb8\xa8Iv\r\xd3?'
+p684
+tp685
+Rp686
+tp687
+a(S'bialbero di casorzo'
+p688
+g2
+(g6
+S'$\xca\xed\x12\xd7\x0c\xd3?'
+p689
+tp690
+Rp691
+tp692
+a(S'level ancestor problem'
+p693
+g2
+(g6
+S'\x9d\x8a+\xfb\x02\n\xd3?'
+p694
+tp695
+Rp696
+tp697
+a(S'dule tree'
+p698
+g2
+(g6
+S'\xc9\xaf\xcbQ$\t\xd3?'
+p699
+tp700
+Rp701
+tp702
+a(S'pruning (decision trees)'
+p703
+g2
+(g6
+S'\x80\xb0x_c\x03\xd3?'
+p704
+tp705
+Rp706
+tp707
+a(S'tree-depth'
+p708
+g2
+(g6
+S'\x9d\xd4t\xcd\x93\x02\xd3?'
+p709
+tp710
+Rp711
+tp712
+a(S'left-child right-sibling binary tree'
+p713
+g2
+(g6
+S'\x9e;Wb*\x02\xd3?'
+p714
+tp715
+Rp716
+tp717
+a(S'communication complexity'
+p718
+g2
+(g6
+S'7\xca\x9bOG\xfc\xd2?'
+p719
+tp720
+Rp721
+tp722
+a(S'certificate (complexity)'
+p723
+g2
+(g6
+S'<\x05\xcc\xc6\xd5\xfb\xd2?'
+p724
+tp725
+Rp726
+tp727
+a(S'mountain home grove'
+p728
+g2
+(g6
+S'U\xfc\xfeGs\xf0\xd2?'
+p729
+tp730
+Rp731
+tp732
+a(S'logistic model tree'
+p733
+g2
+(g6
+S'L\xf7\x84\x90\x1b\xed\xd2?'
+p734
+tp735
+Rp736
+tp737
+a(S'binary tree'
+p738
+g2
+(g6
+S'|\xfb$\x9f\xad\xec\xd2?'
+p739
+tp740
+Rp741
+tp742
+a(S'milwaukee city christmas tree'
+p743
+g2
+(g6
+S';\x81\xd8\xbd\xf8\xe5\xd2?'
+p744
+tp745
+Rp746
+tp747
+a(S'exponential tree'
+p748
+g2
+(g6
+S':[\x19/\xcc\xdd\xd2?'
+p749
+tp750
+Rp751
+tp752
+a(S'tree (graph theory)'
+p753
+g2
+(g6
+S'\\\xed\x16\x8c\xc4\xdc\xd2?'
+p754
+tp755
+Rp756
+tp757
+a(S'diamond tree'
+p758
+g2
+(g6
+S'\x00\n)\xab\xa8\xd0\xd2?'
+p759
+tp760
+Rp761
+tp762
+a(S'binary decision diagram'
+p763
+g2
+(g6
+S'X\x85g\x11\xb1\xcc\xd2?'
+p764
+tp765
+Rp766
+tp767
+a(S'look see tree'
+p768
+g2
+(g6
+S'\x10\xb3\n\x1bf\xc8\xd2?'
+p769
+tp770
+Rp771
+tp772
+a(S'boston christmas tree'
+p773
+g2
+(g6
+S'\xc8\xce\xa0\xc59\xc4\xd2?'
+p774
+tp775
+Rp776
+tp777
+a(S'brussels christmas tree'
+p778
+g2
+(g6
+S'dg\xc6\xe9\xbc\xbe\xd2?'
+p779
+tp780
+Rp781
+tp782
+a(S'r+ tree'
+p783
+g2
+(g6
+S'E\x88\xd2h\\\xbd\xd2?'
+p784
+tp785
+Rp786
+tp787
+a(S'christmas tree stand'
+p788
+g2
+(g6
+S'\xf6\x8a\xa4\xaf\xe6\xb4\xd2?'
+p789
+tp790
+Rp791
+tp792
+a(S'bdt'
+p793
+g2
+(g6
+S'\xc4\x85FK\x81\xb2\xd2?'
+p794
+tp795
+Rp796
+tp797
+a(S'sharp-p'
+p798
+g2
+(g6
+S'G0,\xa6"\xa7\xd2?'
+p799
+tp800
+Rp801
+tp802
+a(S'tree line'
+p803
+g2
+(g6
+S'\xacf\xc0\x853\xa3\xd2?'
+p804
+tp805
+Rp806
+tp807
+a(S'nspace'
+p808
+g2
+(g6
+S'\xe4\\\x91\xb8\xdf\x9d\xd2?'
+p809
+tp810
+Rp811
+tp812
+a(S'integer complexity'
+p813
+g2
+(g6
+S'\xfc9\xc7\xfd\xb4\x97\xd2?'
+p814
+tp815
+Rp816
+tp817
+a(S'national christmas tree association'
+p818
+g2
+(g6
+S'\x11\rC=c\x8c\xd2?'
+p819
+tp820
+Rp821
+tp822
+a(S'olive tree of vouves'
+p823
+g2
+(g6
+S'\xadh\xaa\xcad\x89\xd2?'
+p824
+tp825
+Rp826
+tp827
+a(S'decision sciences'
+p828
+g2
+(g6
+S'\x92B\xa5|\x10\x89\xd2?'
+p829
+tp830
+Rp831
+tp832
+a(S'ntime'
+p833
+g2
+(g6
+S'\xa5\x06px\xa0z\xd2?'
+p834
+tp835
+Rp836
+tp837
+a(S'the senator (tree)'
+p838
+g2
+(g6
+S'1\x06\xde\x17eu\xd2?'
+p839
+tp840
+Rp841
+tp842
+a(S'tree health'
+p843
+g2
+(g6
+S'\x9ab \x94\xf6r\xd2?'
+p844
+tp845
+Rp846
+tp847
+a(S'generalized distributive law'
+p848
+g2
+(g6
+S'\xf5\x81\xdd+\xc4p\xd2?'
+p849
+tp850
+Rp851
+tp852
+a(S'decision conferencing'
+p853
+g2
+(g6
+S'\xc5U\x05\x85\xb9l\xd2?'
+p854
+tp855
+Rp856
+tp857
+a(S'r-tree'
+p858
+g2
+(g6
+S' \xd9\x8e\xff-l\xd2?'
+p859
+tp860
+Rp861
+tp862
+a(S'relascope'
+p863
+g2
+(g6
+S')\x03\x7fA\x12j\xd2?'
+p864
+tp865
+Rp866
+tp867
+a(S'general sherman (tree)'
+p868
+g2
+(g6
+S'\xbftp\x1dhb\xd2?'
+p869
+tp870
+Rp871
+tp872
+a(S'modified condition/decision coverage'
+p873
+g2
+(g6
+S'f\xe8G\x0e(`\xd2?'
+p874
+tp875
+Rp876
+tp877
+a(S'normative model of decision-making'
+p878
+g2
+(g6
+S'\xf0!\xd6\x1dq]\xd2?'
+p879
+tp880
+Rp881
+tp882
+a(S'list of tree deities'
+p883
+g2
+(g6
+S'\x1bg\xf6\xd4\x8aY\xd2?'
+p884
+tp885
+Rp886
+tp887
+a(S'christmas tree cultivation'
+p888
+g2
+(g6
+S'1\x8ek\xb7}X\xd2?'
+p889
+tp890
+Rp891
+tp892
+a(S'computational phylogenetics'
+p893
+g2
+(g6
+S'\xdd^{1\x1fX\xd2?'
+p894
+tp895
+Rp896
+tp897
+a(S'optimal binary search tree'
+p898
+g2
+(g6
+S'\xc9~X?\xb1V\xd2?'
+p899
+tp900
+Rp901
+tp902
+a(S'site tree (forestry)'
+p903
+g2
+(g6
+S'\xe6\xc1\x89\xd0AR\xd2?'
+p904
+tp905
+Rp906
+tp907
+a(S'carl spetzler'
+p908
+g2
+(g6
+S'L|\xdf\x95\xb0O\xd2?'
+p909
+tp910
+Rp911
+tp912
+a(S'search tree'
+p913
+g2
+(g6
+S'S\xb5z\xd0\xecN\xd2?'
+p914
+tp915
+Rp916
+tp917
+a(S"macy's great tree"
+p918
+g2
+(g6
+S'\xe5\x8c\xc9\xe9:I\xd2?'
+p919
+tp920
+Rp921
+tp922
+a(S'awpp (complexity)'
+p923
+g2
+(g6
+S'\xaet\xba\x89\xd5F\xd2?'
+p924
+tp925
+Rp926
+tp927
+a(S'general grant (tree)'
+p928
+g2
+(g6
+S'\xa3\xc4\xc3\x06~+\xd2?'
+p929
+tp930
+Rp931
+tp932
+a(S'christmas tree production'
+p933
+g2
+(g6
+S'\xc1\x1bw\x07K(\xd2?'
+p934
+tp935
+Rp936
+tp937
+a(S'complexity class'
+p938
+g2
+(g6
+S"\xa7\xb3\xe9wz'\xd2?"
+p939
+tp940
+Rp941
+tp942
+a(S'decision table'
+p943
+g2
+(g6
+S'\xf7\x8b\x18\xfe1$\xd2?'
+p944
+tp945
+Rp946
+tp947
+a(S'effective complexity'
+p948
+g2
+(g6
+S'\x0f\xd3\x80\xd30$\xd2?'
+p949
+tp950
+Rp951
+tp952
+a(S'lily of the valley tree'
+p953
+g2
+(g6
+S'\x98\x8es~x"\xd2?'
+p954
+tp955
+Rp956
+tp957
+a(S'new year tree'
+p958
+g2
+(g6
+S'_\x7f\xfa\xd1+ \xd2?'
+p959
+tp960
+Rp961
+tp962
+a(S'arborist'
+p963
+g2
+(g6
+S'\xe1-1\xdb\xb0\x1c\xd2?'
+p964
+tp965
+Rp966
+tp967
+a(S'circuit complexity'
+p968
+g2
+(g6
+S'\x15R\xca\x18(\x1c\xd2?'
+p969
+tp970
+Rp971
+tp972
+a(S'family tree'
+p973
+g2
+(g6
+S'\xe7\xe1lH\xab\x19\xd2?'
+p974
+tp975
+Rp976
+tp977
+a(S'priority r-tree'
+p978
+g2
+(g6
+S'+\x8aB\xd4w\x14\xd2?'
+p979
+tp980
+Rp981
+tp982
+a(S'people tree ltd.'
+p983
+g2
+(g6
+S"N\x97\x8e'\xd4\x11\xd2?"
+p984
+tp985
+Rp986
+tp987
+a(S'japanese torreya of samin-ri'
+p988
+g2
+(g6
+S'l\xdb\xfc\xfdG\x0c\xd2?'
+p989
+tp990
+Rp991
+tp992
+a(S'money tree'
+p993
+g2
+(g6
+S'\xb9<\xcd\xf29\x0b\xd2?'
+p994
+tp995
+Rp996
+tp997
+a(S'decision lens'
+p998
+g2
+(g6
+S'g\xb8tV0\n\xd2?'
+p999
+tp1000
+Rp1001
+tp1002
+a(S'viola tree'
+p1003
+g2
+(g6
+S'2\xf2\xe9)\x97\x05\xd2?'
+p1004
+tp1005
+Rp1006
+tp1007
+a(S'dynamic decision-making'
+p1008
+g2
+(g6
+S'{\x0b\x1bR3\x01\xd2?'
+p1009
+tp1010
+Rp1011
+tp1012
+a(S'complexity economics'
+p1013
+g2
+(g6
+S'\x03\x02\xe7B\x1b\xfc\xd1?'
+p1014
+tp1015
+Rp1016
+tp1017
+a(S'zilker holiday tree'
+p1018
+g2
+(g6
+S'\x02N\xab\xf18\xf3\xd1?'
+p1019
+tp1020
+Rp1021
+tp1022
+a(S'context of computational complexity'
+p1023
+g2
+(g6
+S'\x9f\xd4\xac\xce\x18\xee\xd1?'
+p1024
+tp1025
+Rp1026
+tp1027
+a(S'cotton tree'
+p1028
+g2
+(g6
+S'\x99\xc5\xb8\xef/\xde\xd1?'
+p1029
+tp1030
+Rp1031
+tp1032
+a(S'average-case complexity'
+p1033
+g2
+(g6
+S'\xbb\x81r~\r\xde\xd1?'
+p1034
+tp1035
+Rp1036
+tp1037
+a(S'valley of decision (disambiguation)'
+p1038
+g2
+(g6
+S'zv\x0c\x9a\x80\xdd\xd1?'
+p1039
+tp1040
+Rp1041
+tp1042
+a(S'decision rule'
+p1043
+g2
+(g6
+S'i\x8f\x19\x07\x9e\xd6\xd1?'
+p1044
+tp1045
+Rp1046
+tp1047
+a(S'value of information'
+p1048
+g2
+(g6
+S'6\xebM\xf9E\xd5\xd1?'
+p1049
+tp1050
+Rp1051
+tp1052
+a(S'information-based complexity'
+p1053
+g2
+(g6
+S'*\x18\x90\x11\x02\xd2\xd1?'
+p1054
+tp1055
+Rp1056
+tp1057
+a(S'\xe1\xb9\xac\xc5\xabb\xc4\x81'
+p1058
+g2
+(g6
+S'\xbe\x0b\xda\x90\x89\xc9\xd1?'
+p1059
+tp1060
+Rp1061
+tp1062
+a(S'dominating decision rule'
+p1063
+g2
+(g6
+S'\x06\xf0\x7f\xb0\xa3\xc8\xd1?'
+p1064
+tp1065
+Rp1066
+tp1067
+a(S'the giving tree'
+p1068
+g2
+(g6
+S'\x14\xf4\xe3[\x19\xc5\xd1?'
+p1069
+tp1070
+Rp1071
+tp1072
+a(S"simon's problem"
+p1073
+g2
+(g6
+S'veZ\x88\xd0\xc4\xd1?'
+p1074
+tp1075
+Rp1076
+tp1077
+a(S'lambert tree'
+p1078
+g2
+(g6
+S'\x1a\xe5\xf7\xd3\x83\xbe\xd1?'
+p1079
+tp1080
+Rp1081
+tp1082
+a(S'pseudobombax ellipticum'
+p1083
+g2
+(g6
+S'd\xdb^\x05\xb7\xba\xd1?'
+p1084
+tp1085
+Rp1086
+tp1087
+a(S'knowledge-based decision making'
+p1088
+g2
+(g6
+S'!G\x83&\xe1\xb2\xd1?'
+p1089
+tp1090
+Rp1091
+tp1092
+a(S'cover tree'
+p1093
+g2
+(g6
+S'\x15c\xb8\xdc\x89\xaf\xd1?'
+p1094
+tp1095
+Rp1096
+tp1097
+a(S'herbert beerbohm tree'
+p1098
+g2
+(g6
+S'\xab\xbdNb\xa5\xae\xd1?'
+p1099
+tp1100
+Rp1101
+tp1102
+a(S'decision theory'
+p1103
+g2
+(g6
+S'\x84\r\xc8\x92\x0b\xa4\xd1?'
+p1104
+tp1105
+Rp1106
+tp1107
+a(S'living heritage tree museum'
+p1108
+g2
+(g6
+S'7\xb9\xb7\x943\xa1\xd1?'
+p1109
+tp1110
+Rp1111
+tp1112
+a(S'function problem'
+p1113
+g2
+(g6
+S'\xb1C\x00\xda\x8a\xa0\xd1?'
+p1114
+tp1115
+Rp1116
+tp1117
+a(S'randomized algorithm'
+p1118
+g2
+(g6
+S'\xcc&\x12\xab\n\xa0\xd1?'
+p1119
+tp1120
+Rp1121
+tp1122
+a(S'one tree hill'
+p1123
+g2
+(g6
+S'\x18b\x94O\x17\x94\xd1?'
+p1124
+tp1125
+Rp1126
+tp1127
+a(S'duizendjarige den'
+p1128
+g2
+(g6
+S'\x98h\x88\x90\xc1\x90\xd1?'
+p1129
+tp1130
+Rp1131
+tp1132
+a(S'with high probability'
+p1133
+g2
+(g6
+S'\x08%\xea_o\x8d\xd1?'
+p1134
+tp1135
+Rp1136
+tp1137
+a(S'fever tree (disambiguation)'
+p1138
+g2
+(g6
+S'\x88{\x0e\xd6\x07\x8d\xd1?'
+p1139
+tp1140
+Rp1141
+tp1142
+a(S'mc tree g'
+p1143
+g2
+(g6
+S';\xea1\xe4\x02\x8d\xd1?'
+p1144
+tp1145
+Rp1146
+tp1147
+a(S'tr\xc3\xa9maux tree'
+p1148
+g2
+(g6
+S',\x9e\xad\x85\xf9\x87\xd1?'
+p1149
+tp1150
+Rp1151
+tp1152
+a(S'knightwood oak'
+p1153
+g2
+(g6
+S'\xde\x14\x84%\x92\x85\xd1?'
+p1154
+tp1155
+Rp1156
+tp1157
+a(S'ryan williams (computer scientist)'
+p1158
+g2
+(g6
+S'\xc2g&\xa4p\x85\xd1?'
+p1159
+tp1160
+Rp1161
+tp1162
+a(S'lone tree monument'
+p1163
+g2
+(g6
+S',8\x11SG\x85\xd1?'
+p1164
+tp1165
+Rp1166
+tp1167
+a(S'tree topping'
+p1168
+g2
+(g6
+S'\xa3\xde\xd3\x0e\x81}\xd1?'
+p1169
+tp1170
+Rp1171
+tp1172
+a(S'monkey tree phenomenon'
+p1173
+g2
+(g6
+S'\xee\xa0\x05N\x93x\xd1?'
+p1174
+tp1175
+Rp1176
+tp1177
+a(S'ms. tree'
+p1178
+g2
+(g6
+S'\xeds\x0e\xe5\x98h\xd1?'
+p1179
+tp1180
+Rp1181
+tp1182
+a(S'generalized tree alignment'
+p1183
+g2
+(g6
+S'\xe0#@\x12\x0cV\xd1?'
+p1184
+tp1185
+Rp1186
+tp1187
+a(S'random forest'
+p1188
+g2
+(g6
+S'\xec%\xeaVeT\xd1?'
+p1189
+tp1190
+Rp1191
+tp1192
+a(S'profiles in folly'
+p1193
+g2
+(g6
+S'Ls\xf5\xdd\x1bS\xd1?'
+p1194
+tp1195
+Rp1196
+tp1197
+a(S'national register of big trees'
+p1198
+g2
+(g6
+S'R\xfc\xdb0\rR\xd1?'
+p1199
+tp1200
+Rp1201
+tp1202
+a(S'buyer decision process'
+p1203
+g2
+(g6
+S'tO\xe5GuQ\xd1?'
+p1204
+tp1205
+Rp1206
+tp1207
+a(S'tree fork'
+p1208
+g2
+(g6
+S'i\xea\x82\xbd?P\xd1?'
+p1209
+tp1210
+Rp1211
+tp1212
+a(S'gold-tree and silver-tree'
+p1213
+g2
+(g6
+S'\xeb\x8cHY\xeeO\xd1?'
+p1214
+tp1215
+Rp1216
+tp1217
+a(S'recognition primed decision'
+p1218
+g2
+(g6
+S'A-\x9fh>O\xd1?'
+p1219
+tp1220
+Rp1221
+tp1222
+a(S'trafalgar square christmas tree'
+p1223
+g2
+(g6
+S'+\xaa\xd9\x94\x87N\xd1?'
+p1224
+tp1225
+Rp1226
+tp1227
+a(S'bay tree'
+p1228
+g2
+(g6
+S';\x7f\xa1[aK\xd1?'
+p1229
+tp1230
+Rp1231
+tp1232
+a(S'european tree of the year'
+p1233
+g2
+(g6
+S'\xd0\x91\xbd|"J\xd1?'
+p1234
+tp1235
+Rp1236
+tp1237
+a(S'tree (data structure)'
+p1238
+g2
+(g6
+S'\xf4cc;\x92F\xd1?'
+p1239
+tp1240
+Rp1241
+tp1242
+a(S'hypertree network'
+p1243
+g2
+(g6
+S'[\x1f\xc1<[D\xd1?'
+p1244
+tp1245
+Rp1246
+tp1247
+a(S'x-tree'
+p1248
+g2
+(g6
+S'\xcf8\t\x17CD\xd1?'
+p1249
+tp1250
+Rp1251
+tp1252
+a(S'diospyros quaesita'
+p1253
+g2
+(g6
+S'S\x85"\x98\xef?\xd1?'
+p1254
+tp1255
+Rp1256
+tp1257
+a(S'tree (automata theory)'
+p1258
+g2
+(g6
+S'\xde!i\xc6\x00=\xd1?'
+p1259
+tp1260
+Rp1261
+tp1262
+a(S'incremental decision tree'
+p1263
+g2
+(g6
+S'\xb4\xc8\xc0TK4\xd1?'
+p1264
+tp1265
+Rp1266
+tp1267
+a(S'tree sort'
+p1268
+g2
+(g6
+S'\xc4\xf7%\x8d[0\xd1?'
+p1269
+tp1270
+Rp1271
+tp1272
+a(S'reserved decision'
+p1273
+g2
+(g6
+S'\x9ai,\x89\xaf/\xd1?'
+p1274
+tp1275
+Rp1276
+tp1277
+a(S'liberty tree'
+p1278
+g2
+(g6
+S'\x91\x1f\x07\x90\x10/\xd1?'
+p1279
+tp1280
+Rp1281
+tp1282
+a(S'sample complexity'
+p1283
+g2
+(g6
+S"\xd2\x9b+\xb1\xdc'\xd1?"
+p1284
+tp1285
+Rp1286
+tp1287
+a(S'heritage tree'
+p1288
+g2
+(g6
+S'\xe3\xf5\xb7wT$\xd1?'
+p1289
+tp1290
+Rp1291
+tp1292
+a(S'wawona tree'
+p1293
+g2
+(g6
+S'\x05\x89\xb0\x93\x13\x1f\xd1?'
+p1294
+tp1295
+Rp1296
+tp1297
+a(S'tnjri'
+p1298
+g2
+(g6
+S'\xad\xb5U\xaa\xc8\x14\xd1?'
+p1299
+tp1300
+Rp1301
+tp1302
+a(S'little tree'
+p1303
+g2
+(g6
+S'\xadL\xd1!\t\x14\xd1?'
+p1304
+tp1305
+Rp1306
+tp1307
+a(S'chandelier tree'
+p1308
+g2
+(g6
+S'S-\xb4\xb95\x0f\xd1?'
+p1309
+tp1310
+Rp1311
+tp1312
+a(S'parallel tree contraction'
+p1313
+g2
+(g6
+S'\x9a]\x19L\xe5\x0e\xd1?'
+p1314
+tp1315
+Rp1316
+tp1317
+a(S'the indian bean tree, st james square, monmouth'
+p1318
+g2
+(g6
+S'\tE\xf4\x1c\xd8\x0c\xd1?'
+p1319
+tp1320
+Rp1321
+tp1322
+a(S'decision aids'
+p1323
+g2
+(g6
+S'\xebX\x16 |\x0c\xd1?'
+p1324
+tp1325
+Rp1326
+tp1327
+a(S'maximum clade credibility tree'
+p1328
+g2
+(g6
+S'|\x16\x90\xb8\xe5\x07\xd1?'
+p1329
+tp1330
+Rp1331
+tp1332
+a(S'distributed tree search'
+p1333
+g2
+(g6
+S'tu\xcd\xd8\x17\x04\xd1?'
+p1334
+tp1335
+Rp1336
+tp1337
+a(S'c4.5 algorithm'
+p1338
+g2
+(g6
+S'\xa03\xb2!\xe8\x01\xd1?'
+p1339
+tp1340
+Rp1341
+tp1342
+a(S'christmas tree (disambiguation)'
+p1343
+g2
+(g6
+S'/\xe4\xaaL_\xfe\xd0?'
+p1344
+tp1345
+Rp1346
+tp1347
+a(S'gloucester tree'
+p1348
+g2
+(g6
+S'\x8e\x87\xd7\x9c\x0f\xfd\xd0?'
+p1349
+tp1350
+Rp1351
+tp1352
+a(S'nl (complexity)'
+p1353
+g2
+(g6
+S'\xa0\x18\xbc\xd3e\xfc\xd0?'
+p1354
+tp1355
+Rp1356
+tp1357
+a(S'tree automaton'
+p1358
+g2
+(g6
+S'\xab\x057\x8f\x9f\xf9\xd0?'
+p1359
+tp1360
+Rp1361
+tp1362
+a(S'strahler number'
+p1363
+g2
+(g6
+S'r\xdaTD\xba\xf8\xd0?'
+p1364
+tp1365
+Rp1366
+tp1367
+a(S'lone tree corners, illinois'
+p1368
+g2
+(g6
+S'1M\xa5:\xdf\xf6\xd0?'
+p1369
+tp1370
+Rp1371
+tp1372
+a(S'time complexity'
+p1373
+g2
+(g6
+S'\x91^L\xb5(\xf4\xd0?'
+p1374
+tp1375
+Rp1376
+tp1377
+a(S'our casuarina tree'
+p1378
+g2
+(g6
+S'\xdb\xff\x80{\x94\xf3\xd0?'
+p1379
+tp1380
+Rp1381
+tp1382
+a(S'k-d-b-tree'
+p1383
+g2
+(g6
+S'\x17c\\Z\xf6\xee\xd0?'
+p1384
+tp1385
+Rp1386
+tp1387
+a(S'peace tree day'
+p1388
+g2
+(g6
+S'l\xd3\xe3k\xf6\xe9\xd0?'
+p1389
+tp1390
+Rp1391
+tp1392
+a(S'maior cajueiro do mundo'
+p1393
+g2
+(g6
+S'\xc7\x84\xf2\x8c\x8d\xdf\xd0?'
+p1394
+tp1395
+Rp1396
+tp1397
+a(S'split decision (disambiguation)'
+p1398
+g2
+(g6
+S'/\xab\xf2e\x11\xdf\xd0?'
+p1399
+tp1400
+Rp1401
+tp1402
+a(S'aa tree'
+p1403
+g2
+(g6
+S'/>\x9d\x9aF\xda\xd0?'
+p1404
+tp1405
+Rp1406
+tp1407
+a(S'the care of trees'
+p1408
+g2
+(g6
+S'>zH\xc3\xaf\xd2\xd0?'
+p1409
+tp1410
+Rp1411
+tp1412
+a(S'command decision'
+p1413
+g2
+(g6
+S'\x8b\xf9(\xa0\xa8\xd0\xd0?'
+p1414
+tp1415
+Rp1416
+tp1417
+a(S'monte carlo tree search'
+p1418
+g2
+(g6
+S'\xd0\x95cJd\xc6\xd0?'
+p1419
+tp1420
+Rp1421
+tp1422
+a(S'general group problem solving (ggps) model'
+p1423
+g2
+(g6
+S'}:\xc9\xe1\xd6\xc2\xd0?'
+p1424
+tp1425
+Rp1426
+tp1427
+a(S'shared decision-making'
+p1428
+g2
+(g6
+S'\x0c\x840\xfc\x00\xc2\xd0?'
+p1429
+tp1430
+Rp1431
+tp1432
+a(S'witch tree'
+p1433
+g2
+(g6
+S'\xe1\xc0\x9b\xda[\xbb\xd0?'
+p1434
+tp1435
+Rp1436
+tp1437
+a(S'w tree, victoria'
+p1438
+g2
+(g6
+S"\xc0'C\x06\xf7\xb6\xd0?"
+p1439
+tp1440
+Rp1441
+tp1442
+a(S'infinite tree automaton'
+p1443
+g2
+(g6
+S',yn\xfey\xb5\xd0?'
+p1444
+tp1445
+Rp1446
+tp1447
+a(S'savandurga'
+p1448
+g2
+(g6
+S';\x1d\xfd\xa8\xd2\xb2\xd0?'
+p1449
+tp1450
+Rp1451
+tp1452
+a(S'decide'
+p1453
+g2
+(g6
+S'1\xe5eK=\xae\xd0?'
+p1454
+tp1455
+Rp1456
+tp1457
+a(S'jaap wessels'
+p1458
+g2
+(g6
+S'S24\xba\xea\xad\xd0?'
+p1459
+tp1460
+Rp1461
+tp1462
+a(S'monte carlo algorithm'
+p1463
+g2
+(g6
+S'\xe6\x14R\x9dw\xac\xd0?'
+p1464
+tp1465
+Rp1466
+tp1467
+a(S'cotylelobium melanoxylon'
+p1468
+g2
+(g6
+S'\xa5\xc2\\Cc\xaa\xd0?'
+p1469
+tp1470
+Rp1471
+tp1472
+a(S'money tree (myth)'
+p1473
+g2
+(g6
+S'cI\xc9\xe4B\xa9\xd0?'
+p1474
+tp1475
+Rp1476
+tp1477
+a(S'gehyra variegata'
+p1478
+g2
+(g6
+S'F\xdb\xee\xdb\xb2\xa7\xd0?'
+p1479
+tp1480
+Rp1481
+tp1482
+a(S'helen maud holt'
+p1483
+g2
+(g6
+S'\x03s\xcb\xae\x8e\x9f\xd0?'
+p1484
+tp1485
+Rp1486
+tp1487
+a(S'palis\xc3\xa1dy street'
+p1488
+g2
+(g6
+S'\xeaa\xb9\x8f\\\x9d\xd0?'
+p1489
+tp1490
+Rp1491
+tp1492
+a(S'structural complexity theory'
+p1493
+g2
+(g6
+S'\xe6\xec\x19m\x8f\x9a\xd0?'
+p1494
+tp1495
+Rp1496
+tp1497
+a(S'old jarrah tree'
+p1498
+g2
+(g6
+S'\xe5\xeeZ\x17\x1c\x9a\xd0?'
+p1499
+tp1500
+Rp1501
+tp1502
+a(S'boab prison tree, wyndham'
+p1503
+g2
+(g6
+S'\x88\xa4\x19\x05a\x95\xd0?'
+p1504
+tp1505
+Rp1506
+tp1507
+a(S'radande'
+p1508
+g2
+(g6
+S'\xd1I\xfd.\xb7\x94\xd0?'
+p1509
+tp1510
+Rp1511
+tp1512
+a.

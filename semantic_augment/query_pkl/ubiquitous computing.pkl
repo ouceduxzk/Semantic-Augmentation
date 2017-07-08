@@ -1,0 +1,2728 @@
+(lp0
+(S'ubiquitous computing'
+p1
+cnumpy.core.multiarray
+scalar
+p2
+(cnumpy
+dtype
+p3
+(S'f8'
+p4
+I0
+I1
+tp5
+Rp6
+(I3
+S'<'
+p7
+NNNI-1
+I-1
+I0
+tp8
+bS'\xfb\xff\xff\xff\xff\xff\xef?'
+p9
+tp10
+Rp11
+tp12
+a(S'gregory abowd'
+p13
+g2
+(g6
+S'O\xdf\xfb\x15\x8d\x1e\xe2?'
+p14
+tp15
+Rp16
+tp17
+a(S'smart device'
+p18
+g2
+(g6
+S'\xbf6\xe6\xd1\xc0\xf9\xe1?'
+p19
+tp20
+Rp21
+tp22
+a(S'paul dourish'
+p23
+g2
+(g6
+S'\xcc\x01\xa6\x02\x13\x81\xe1?'
+p24
+tp25
+Rp26
+tp27
+a(S'list of ubiquitous computing research centers'
+p28
+g2
+(g6
+S'\x92\x8a\xaa\xceJg\xe1?'
+p29
+tp30
+Rp31
+tp32
+a(S'anind dey'
+p33
+g2
+(g6
+S'\xe4\xf7O\xfc\x937\xe0?'
+p34
+tp35
+Rp36
+tp37
+a(S'elizabeth mynatt'
+p38
+g2
+(g6
+S'\xd3\xa2_}\xc8\xa1\xdf?'
+p39
+tp40
+Rp41
+tp42
+a(S'context-aware pervasive systems'
+p43
+g2
+(g6
+S'\x9a\xf9\xb9\xc9"\xeb\xde?'
+p44
+tp45
+Rp46
+tp47
+a(S'index of history of computing articles'
+p48
+g2
+(g6
+S'\t9\xa2\xdf\x94\x98\xde?'
+p49
+tp50
+Rp51
+tp52
+a(S'unconventional computing'
+p53
+g2
+(g6
+S'\xbd\xaa\xee\xd7\x1br\xde?'
+p54
+tp55
+Rp56
+tp57
+a(S'albrecht schmidt (computer scientist)'
+p58
+g2
+(g6
+S'\xc0(\xc3U6\xb0\xdd?'
+p59
+tp60
+Rp61
+tp62
+a(S'sigmobile'
+p63
+g2
+(g6
+S'\x05\\9\xe6\xef\x8e\xdd?'
+p64
+tp65
+Rp66
+tp67
+a(S'edge computing'
+p68
+g2
+(g6
+S'I\x84\x91\xabL\x8a\xdd?'
+p69
+tp70
+Rp71
+tp72
+a(S'sentient computing'
+p73
+g2
+(g6
+S'\xbe\x1a\xd5\xa5R|\xdd?'
+p74
+tp75
+Rp76
+tp77
+a(S'utility computing'
+p78
+g2
+(g6
+S'\x82\xcc\xa2\x85\xef\x0e\xdd?'
+p79
+tp80
+Rp81
+tp82
+a(S'bachelor of computing'
+p83
+g2
+(g6
+S'T\xdb\x80\xbd\xa9\xe7\xdc?'
+p84
+tp85
+Rp86
+tp87
+a(S'tassl'
+p88
+g2
+(g6
+S'\t\xdb\xc5\xf0#\x91\xdc?'
+p89
+tp90
+Rp91
+tp92
+a(S'lateral computing'
+p93
+g2
+(g6
+S'\xe5\xd9\x99\x19*n\xdc?'
+p94
+tp95
+Rp96
+tp97
+a(S'equiveillance'
+p98
+g2
+(g6
+S'\xca\xaa\xb7C\xb7\xbe\xdb?'
+p99
+tp100
+Rp101
+tp102
+a(S'blaine price'
+p103
+g2
+(g6
+S'\t\xa3\x9c7\xc5\xb6\xdb?'
+p104
+tp105
+Rp106
+tp107
+a(S'end-user computing'
+p108
+g2
+(g6
+S'D\x89\x830\xbd\x9e\xdb?'
+p109
+tp110
+Rp111
+tp112
+a(S'metacomputing'
+p113
+g2
+(g6
+S'\xb5\xc2\xfa\xd5\xb1\x92\xdb?'
+p114
+tp115
+Rp116
+tp117
+a(S'interactive computing'
+p118
+g2
+(g6
+S'\xafL]\xb73\x87\xdb?'
+p119
+tp120
+Rp121
+tp122
+a(S'techila grid'
+p123
+g2
+(g6
+S'5:\xc8\x91L\\\xdb?'
+p124
+tp125
+Rp126
+tp127
+a(S'sumi helal'
+p128
+g2
+(g6
+S'*_\xd9\xd7-+\xdb?'
+p129
+tp130
+Rp131
+tp132
+a(S'friedemann mattern'
+p133
+g2
+(g6
+S'\xcc)\x0eh\xd2&\xdb?'
+p134
+tp135
+Rp136
+tp137
+a(S'physical computing'
+p138
+g2
+(g6
+S'\xfa\xe1\x17\xac{\xd2\xda?'
+p139
+tp140
+Rp141
+tp142
+a(S'georgia institute of technology school of interactive computing'
+p143
+g2
+(g6
+S'\xcc \xf7\xbaE\xbb\xda?'
+p144
+tp145
+Rp146
+tp147
+a(S'ubiquitous robot'
+p148
+g2
+(g6
+S'\xfe\xbe\x1d\xc4o\xa3\xda?'
+p149
+tp150
+Rp151
+tp152
+a(S'computer performance by orders of magnitude'
+p153
+g2
+(g6
+S'w\xb7\xef\xb3e\x8e\xda?'
+p154
+tp155
+Rp156
+tp157
+a(S'ubiquitous communicator'
+p158
+g2
+(g6
+S'\x1a(\x0fz\xde\x81\xda?'
+p159
+tp160
+Rp161
+tp162
+a(S'technical computing'
+p163
+g2
+(g6
+S'\xe9\xed25\xc7G\xda?'
+p164
+tp165
+Rp166
+tp167
+a(S'social computing'
+p168
+g2
+(g6
+S'\xd5\xe3\xa6\x10\x07/\xda?'
+p169
+tp170
+Rp171
+tp172
+a(S'high performance computing center'
+p173
+g2
+(g6
+S'\xfb\x8c\x12\xb9^$\xda?'
+p174
+tp175
+Rp176
+tp177
+a(S'list of companies involved in quantum computing or communication'
+p178
+g2
+(g6
+S'\n\x84\xe7j@\x1c\xda?'
+p179
+tp180
+Rp181
+tp182
+a(S'international conference on high performance computing'
+p183
+g2
+(g6
+S'\x84t\xab-x\x19\xda?'
+p184
+tp185
+Rp186
+tp187
+a(S'timeline of computing'
+p188
+g2
+(g6
+S'\xc7\x87Q\xea!\xf3\xd9?'
+p189
+tp190
+Rp191
+tp192
+a(S'dit school of computing'
+p193
+g2
+(g6
+S'T\x83}6\xba\xe2\xd9?'
+p194
+tp195
+Rp196
+tp197
+a(S'task computing'
+p198
+g2
+(g6
+S'\xef1\x00\xfc\xc6\x99\xd9?'
+p199
+tp200
+Rp201
+tp202
+a(S'mark guzdial'
+p203
+g2
+(g6
+S'\x1e\xf7,\xdby\x8c\xd9?'
+p204
+tp205
+Rp206
+tp207
+a(S'mobile computing'
+p208
+g2
+(g6
+S',\xf6\xcc\xf7\xed\x87\xd9?'
+p209
+tp210
+Rp211
+tp212
+a(S'mobile cloud computing'
+p213
+g2
+(g6
+S'\xaa\xee\xd9Z\xbal\xd9?'
+p214
+tp215
+Rp216
+tp217
+a(S'computing (magazine)'
+p218
+g2
+(g6
+S'vY70\xc9=\xd9?'
+p219
+tp220
+Rp221
+tp222
+a(S'liquid computing'
+p223
+g2
+(g6
+S'\xf6\x03\xa2=\x0c1\xd9?'
+p224
+tp225
+Rp226
+tp227
+a(S'soft computing'
+p228
+g2
+(g6
+S'\x13J\xc6\x85\xcd\xe1\xd8?'
+p229
+tp230
+Rp231
+tp232
+a(S'urban computing'
+p233
+g2
+(g6
+S'\xf1\xb9\xd2\x01\xeb\xe0\xd8?'
+p234
+tp235
+Rp236
+tp237
+a(S'creative computing'
+p238
+g2
+(g6
+S'\xf5\xe89\xf9f\xd7\xd8?'
+p239
+tp240
+Rp241
+tp242
+a(S'volunteer computing'
+p243
+g2
+(g6
+S'e\xd1\x98\xc1\x01\xc9\xd8?'
+p244
+tp245
+Rp246
+tp247
+a(S'mobile life centre'
+p248
+g2
+(g6
+S'X\xd1\x14\x97g\xc3\xd8?'
+p249
+tp250
+Rp251
+tp252
+a(S'association for women in computing'
+p253
+g2
+(g6
+S'p\xcbxYL\xb0\xd8?'
+p254
+tp255
+Rp256
+tp257
+a(S'creative computing'
+p258
+g2
+(g6
+S'L\xb6\x8c\xcd9\x96\xd8?'
+p259
+tp260
+Rp261
+tp262
+a(S'liquid computing'
+p263
+g2
+(g6
+S'\xb0\x9b~\xc5\xc7\x95\xd8?'
+p264
+tp265
+Rp266
+tp267
+a(S'natural computing (journal)'
+p268
+g2
+(g6
+S'\xd4\xf1\x0f\xa0\x87}\xd8?'
+p269
+tp270
+Rp271
+tp272
+a(S'sideband computing'
+p273
+g2
+(g6
+S'\xe5\x08\x90\xf4\xb1_\xd8?'
+p274
+tp275
+Rp276
+tp277
+a(S'centralized computing'
+p278
+g2
+(g6
+S'\n4\xf8w\xdcF\xd8?'
+p279
+tp280
+Rp281
+tp282
+a(S'organic computing'
+p283
+g2
+(g6
+S'\t\x04\xb5\xa1\xce9\xd8?'
+p284
+tp285
+Rp286
+tp287
+a(S'telecooperation office'
+p288
+g2
+(g6
+S')\x9a\x0bJ2&\xd8?'
+p289
+tp290
+Rp291
+tp292
+a(S'oxford university computing services'
+p293
+g2
+(g6
+S'\xf2\xe8\xa6\xfd\xd8\x18\xd8?'
+p294
+tp295
+Rp296
+tp297
+a(S'social cloud computing'
+p298
+g2
+(g6
+S' \x16\x03\x8c\x86\x16\xd8?'
+p299
+tp300
+Rp301
+tp302
+a(S'computon'
+p303
+g2
+(g6
+S'cE\xf9u\xce\x05\xd8?'
+p304
+tp305
+Rp306
+tp307
+a(S'supercomputer education research centre'
+p308
+g2
+(g6
+S'k^+\x8b/\x01\xd8?'
+p309
+tp310
+Rp311
+tp312
+a(S'smart environment'
+p313
+g2
+(g6
+S'S\xe0\x12gw\xf4\xd7?'
+p314
+tp315
+Rp316
+tp317
+a(S'history of computing'
+p318
+g2
+(g6
+S'\x80h\xe23\xa2\xea\xd7?'
+p319
+tp320
+Rp321
+tp322
+a(S'frank zhigang wang'
+p323
+g2
+(g6
+S'b;TZo\xdc\xd7?'
+p324
+tp325
+Rp326
+tp327
+a(S'ieee rebooting computing'
+p328
+g2
+(g6
+S'0+\xbf\xf9\x14\xcd\xd7?'
+p329
+tp330
+Rp331
+tp332
+a(S'ian foster'
+p333
+g2
+(g6
+S'&9;\n\xd0{\xd7?'
+p334
+tp335
+Rp336
+tp337
+a(S'gillian lovegrove'
+p338
+g2
+(g6
+S'\x9b\xd9\xf8\x8c4s\xd7?'
+p339
+tp340
+Rp341
+tp342
+a(S'georgia institute of technology school of computer science'
+p343
+g2
+(g6
+S'\xf2C\x01\x8c\xb1D\xd7?'
+p344
+tp345
+Rp346
+tp347
+a(S'american super computing leadership act'
+p348
+g2
+(g6
+S'\xe0Zw6\xe9@\xd7?'
+p349
+tp350
+Rp351
+tp352
+a(S'jungle computing'
+p353
+g2
+(g6
+S'>\x04\xef\x91e(\xd7?'
+p354
+tp355
+Rp356
+tp357
+a(S'albert zomaya'
+p358
+g2
+(g6
+S'\x15\xf0\x18\x04\x9a#\xd7?'
+p359
+tp360
+Rp361
+tp362
+a(S'gstock'
+p363
+g2
+(g6
+S'\xf2\xb1\xc15{ \xd7?'
+p364
+tp365
+Rp366
+tp367
+a(S'browser-based computing'
+p368
+g2
+(g6
+S'\xa3\x1fI\x08\x01\xfc\xd6?'
+p369
+tp370
+Rp371
+tp372
+a(S'crypto cloud computing'
+p373
+g2
+(g6
+S')[\x17\xb8\xc0\xab\xd6?'
+p374
+tp375
+Rp376
+tp377
+a(S'sunshine publications'
+p378
+g2
+(g6
+S'\x02o\x02|x\x9e\xd6?'
+p379
+tp380
+Rp381
+tp382
+a(S'qoscos grid'
+p383
+g2
+(g6
+S'Y\xef"a\xdaw\xd6?'
+p384
+tp385
+Rp386
+tp387
+a(S'open computing facility'
+p388
+g2
+(g6
+S'\x1e\xd7\x1e\xf6\x0es\xd6?'
+p389
+tp390
+Rp391
+tp392
+a(S'chalermek intanagonwiwat'
+p393
+g2
+(g6
+S'J\xdb\xb7<\x19Z\xd6?'
+p394
+tp395
+Rp396
+tp397
+a(S'computing'
+p398
+g2
+(g6
+S'\x89\xc0\xe69\xfaI\xd6?'
+p399
+tp400
+Rp401
+tp402
+a(S'fabric computing'
+p403
+g2
+(g6
+S'\xbcw\xac\xa0\x9b;\xd6?'
+p404
+tp405
+Rp406
+tp407
+a(S'practical computing'
+p408
+g2
+(g6
+S'6\x7f\x86\xdfu0\xd6?'
+p409
+tp410
+Rp411
+tp412
+a(S'research computing services'
+p413
+g2
+(g6
+S'V\xf6\xab\xfd\xbf\x15\xd6?'
+p414
+tp415
+Rp416
+tp417
+a(S'penguin computing'
+p418
+g2
+(g6
+S'\xd4||\xbeS\x10\xd6?'
+p419
+tp420
+Rp421
+tp422
+a(S'national center for women & information technology'
+p423
+g2
+(g6
+S'\xf2\xa3\xcd\x18\x1a\x0b\xd6?'
+p424
+tp425
+Rp426
+tp427
+a(S'cell computing'
+p428
+g2
+(g6
+S'\x93\x84\xdc\xf6\xcf\x05\xd6?'
+p429
+tp430
+Rp431
+tp432
+a(S'international conference on services computing'
+p433
+g2
+(g6
+S'\x0e\x16)?\x8d\xce\xd5?'
+p434
+tp435
+Rp436
+tp437
+a(S'georgia institute of technology college of computing'
+p438
+g2
+(g6
+S'\xe9\xf2n\xd7\xd7\xb0\xd5?'
+p439
+tp440
+Rp441
+tp442
+a(S'bracket computing'
+p443
+g2
+(g6
+S'&FR=\x80k\xd5?'
+p444
+tp445
+Rp446
+tp447
+a(S'business and computing'
+p448
+g2
+(g6
+S'7S\xbe\x01\xe8i\xd5?'
+p449
+tp450
+Rp451
+tp452
+a(S'university of cambridge computing service'
+p453
+g2
+(g6
+S'\xfd\x1d\x08\x9b\xb8]\xd5?'
+p454
+tp455
+Rp456
+tp457
+a(S'fog computing'
+p458
+g2
+(g6
+S't\xfd\x1b\xee\xb5\\\xd5?'
+p459
+tp460
+Rp461
+tp462
+a(S'ubiquitous commerce'
+p463
+g2
+(g6
+S'\x8e\xa7\xc7Mf\\\xd5?'
+p464
+tp465
+Rp466
+tp467
+a(S'marilyn wolf'
+p468
+g2
+(g6
+S'\xe7s]- E\xd5?'
+p469
+tp470
+Rp471
+tp472
+a(S'mitac computing technology corp.'
+p473
+g2
+(g6
+S'{\xc0\x16\xff\xbf\x18\xd5?'
+p474
+tp475
+Rp476
+tp477
+a(S'mobile device'
+p478
+g2
+(g6
+S'\x9d\xc9L9\xd0\xdf\xd4?'
+p479
+tp480
+Rp481
+tp482
+a(S'australian partnership for advanced computing'
+p483
+g2
+(g6
+S'v\x056\xf2w\xc6\xd4?'
+p484
+tp485
+Rp486
+tp487
+a(S'symposium on principles of distributed computing'
+p488
+g2
+(g6
+S'w\xe0\x90\x19\xdf\xbf\xd4?'
+p489
+tp490
+Rp491
+tp492
+a(S'hands-on computing'
+p493
+g2
+(g6
+S'\x99\xe4\xcf\xe8\xa4\xbe\xd4?'
+p494
+tp495
+Rp496
+tp497
+a(S'acm computing reviews'
+p498
+g2
+(g6
+S'\xfa\xee\xac\x04\x9f\xb1\xd4?'
+p499
+tp500
+Rp501
+tp502
+a(S'school of computing (robert gordon university)'
+p503
+g2
+(g6
+S'\xf9\x05\xe5=W\xaf\xd4?'
+p504
+tp505
+Rp506
+tp507
+a(S'high-throughput computing'
+p508
+g2
+(g6
+S'\n\xf2\xb8.u\x98\xd4?'
+p509
+tp510
+Rp511
+tp512
+a(S'united devices'
+p513
+g2
+(g6
+S'\x92c\x16\x87\x93\x90\xd4?'
+p514
+tp515
+Rp516
+tp517
+a(S'context awareness'
+p518
+g2
+(g6
+S'\x12\xe6\x85\xfaG|\xd4?'
+p519
+tp520
+Rp521
+tp522
+a(S'sethuraman panchanathan'
+p523
+g2
+(g6
+S'\xda\x01F\xf3c{\xd4?'
+p524
+tp525
+Rp526
+tp527
+a(S'network computing system'
+p528
+g2
+(g6
+S'\xadD\x08Q\rx\xd4?'
+p529
+tp530
+Rp531
+tp532
+a(S'henry kautz'
+p533
+g2
+(g6
+S'y\x82-\x7fcr\xd4?'
+p534
+tp535
+Rp536
+tp537
+a(S'ken sakamura'
+p538
+g2
+(g6
+S'\x8dt\xea\x95Tp\xd4?'
+p539
+tp540
+Rp541
+tp542
+a(S'mark weiser'
+p543
+g2
+(g6
+S'\xf2w(a4c\xd4?'
+p544
+tp545
+Rp546
+tp547
+a(S'grid computing'
+p548
+g2
+(g6
+S'\xbc\xc6\xf0\xdbpO\xd4?'
+p549
+tp550
+Rp551
+tp552
+a(S'abc@home'
+p553
+g2
+(g6
+S'k}\xe8\xe0OF\xd4?'
+p554
+tp555
+Rp556
+tp557
+a(S'hyperscale'
+p558
+g2
+(g6
+S'JL\xdeL]B\xd4?'
+p559
+tp560
+Rp561
+tp562
+a(S'visual computing'
+p563
+g2
+(g6
+S'\xf13\x9a\x06\n7\xd4?'
+p564
+tp565
+Rp566
+tp567
+a(S'power computing corporation'
+p568
+g2
+(g6
+S' ,\xe9\xbf50\xd4?'
+p569
+tp570
+Rp571
+tp572
+a(S'policypitch'
+p573
+g2
+(g6
+S'\\\xbbm\x0f\xdf*\xd4?'
+p574
+tp575
+Rp576
+tp577
+a(S'wendy kellogg'
+p578
+g2
+(g6
+S'\x16\xffC\x88o\x16\xd4?'
+p579
+tp580
+Rp581
+tp582
+a(S'sajal k. das'
+p583
+g2
+(g6
+S'\x0f\xd9/\xf9o\x13\xd4?'
+p584
+tp585
+Rp586
+tp587
+a(S'computing (urdu magazine)'
+p588
+g2
+(g6
+S'\x9d\xa3\xaa\x9c\x84\x03\xd4?'
+p589
+tp590
+Rp591
+tp592
+a(S'literary and linguistic computing'
+p593
+g2
+(g6
+S'e\xa2\xf2yk\x01\xd4?'
+p594
+tp595
+Rp596
+tp597
+a(S'outline of computing'
+p598
+g2
+(g6
+S'\xd7?q\xe8\xa7\xfd\xd3?'
+p599
+tp600
+Rp601
+tp602
+a(S'association for history and computing'
+p603
+g2
+(g6
+S'\xb4\x03a\xd8T\xfc\xd3?'
+p604
+tp605
+Rp606
+tp607
+a(S'cycle computing'
+p608
+g2
+(g6
+S'\x8e\r\xe7\xca\xa2\xfb\xd3?'
+p609
+tp610
+Rp611
+tp612
+a(S'mathematics and computing college'
+p613
+g2
+(g6
+S'\xbf\x00\xa5\xd8\xb3\xf3\xd3?'
+p614
+tp615
+Rp616
+tp617
+a(S'human-centered computing'
+p618
+g2
+(g6
+S'\xf3\x9d pi\xf0\xd3?'
+p619
+tp620
+Rp621
+tp622
+a(S'victorian partnership for advanced computing'
+p623
+g2
+(g6
+S'W\x04\xa6\xd3Z\xe3\xd3?'
+p624
+tp625
+Rp626
+tp627
+a(S'adrian david cheok'
+p628
+g2
+(g6
+S'\xb4\xe4z\x01\x85\xda\xd3?'
+p629
+tp630
+Rp631
+tp632
+a(S"koomey's law"
+p633
+g2
+(g6
+S'Y\xe7\x0c/\xd8\xd8\xd3?'
+p634
+tp635
+Rp636
+tp637
+a(S'redshift (theory)'
+p638
+g2
+(g6
+S'<\xea\x80&\xfd\xd7\xd3?'
+p639
+tp640
+Rp641
+tp642
+a(S'pervasive informatics'
+p643
+g2
+(g6
+S'+,\xe3>\x17\xcf\xd3?'
+p644
+tp645
+Rp646
+tp647
+a(S'acm computing surveys'
+p648
+g2
+(g6
+S'f#\xb8E\xbd\xca\xd3?'
+p649
+tp650
+Rp651
+tp652
+a(S'africa@home'
+p653
+g2
+(g6
+S'\x03\xa2*Bc\xca\xd3?'
+p654
+tp655
+Rp656
+tp657
+a(S'epcc'
+p658
+g2
+(g6
+S'\xd4\xa3q5\xa9\xbe\xd3?'
+p659
+tp660
+Rp661
+tp662
+a(S'windows for pen computing'
+p663
+g2
+(g6
+S'\x8e5\xcf\xe9s\xba\xd3?'
+p664
+tp665
+Rp666
+tp667
+a(S'virtual museum of computing'
+p668
+g2
+(g6
+S"b\xf8G'v\xb9\xd3?"
+p669
+tp670
+Rp671
+tp672
+a(S'hans petter langtangen'
+p673
+g2
+(g6
+S'\xbf\xb52/g\xae\xd3?'
+p674
+tp675
+Rp676
+tp677
+a(S'coalition to diversify computing'
+p678
+g2
+(g6
+S'\xa8\xdf\xf22q\xad\xd3?'
+p679
+tp680
+Rp681
+tp682
+a(S'cloud computing'
+p683
+g2
+(g6
+S'\xa9\xbd3^e\x9b\xd3?'
+p684
+tp685
+Rp686
+tp687
+a(S'victoria bellotti'
+p688
+g2
+(g6
+S'm\xbe\xfbI@\x95\xd3?'
+p689
+tp690
+Rp691
+tp692
+a(S'natural computing'
+p693
+g2
+(g6
+S'k\xef\xb1\xcf\x1c\x87\xd3?'
+p694
+tp695
+Rp696
+tp697
+a(S'symposium on parallelism in algorithms and architectures'
+p698
+g2
+(g6
+S'\x1d\xddK\x98\xfeq\xd3?'
+p699
+tp700
+Rp701
+tp702
+a(S'sound and music computing'
+p703
+g2
+(g6
+S'\x80\x9a\x9fe\xacg\xd3?'
+p704
+tp705
+Rp706
+tp707
+a(S'instituto superior santo domingo'
+p708
+g2
+(g6
+S'\xde\x87\xdb\x93\x00`\xd3?'
+p709
+tp710
+Rp711
+tp712
+a(S'semantic computing'
+p713
+g2
+(g6
+S'\x9b\xc9\xb6\x19\xecW\xd3?'
+p714
+tp715
+Rp716
+tp717
+a(S'computing with memory'
+p718
+g2
+(g6
+S'\xda\x1c\x05\xf4\x07V\xd3?'
+p719
+tp720
+Rp721
+tp722
+a(S'index of computing articles'
+p723
+g2
+(g6
+S'\xee\x0bbV\xb66\xd3?'
+p724
+tp725
+Rp726
+tp727
+a(S'hagit attiya'
+p728
+g2
+(g6
+S'R\x04\xfc\x10|!\xd3?'
+p729
+tp730
+Rp731
+tp732
+a(S'subscription computing'
+p733
+g2
+(g6
+S'w\xbf\x99c\xe0\x0f\xd3?'
+p734
+tp735
+Rp736
+tp737
+a(S'center for minorities and people with disabilities in information technology'
+p738
+g2
+(g6
+S'\xce\xe8\xa9\x87\xf5\x06\xd3?'
+p739
+tp740
+Rp741
+tp742
+a(S'spatial contextual awareness'
+p743
+g2
+(g6
+S'E_\xc2\x1cE\xde\xd2?'
+p744
+tp745
+Rp746
+tp747
+a(S'women in computing in canada'
+p748
+g2
+(g6
+S'\x06\x99g\x9b\xfd\xd9\xd2?'
+p749
+tp750
+Rp751
+tp752
+a(S'carlos becker westphall'
+p753
+g2
+(g6
+S'\x82\x0eN\r\x9f\xd3\xd2?'
+p754
+tp755
+Rp756
+tp757
+a(S'network computing devices'
+p758
+g2
+(g6
+S'\x8d\xc3\x00\xc2M\xcd\xd2?'
+p759
+tp760
+Rp761
+tp762
+a(S'aaron bobick'
+p763
+g2
+(g6
+S'\xa8\xc8Y\x82\x8b\xcb\xd2?'
+p764
+tp765
+Rp766
+tp767
+a(S'edward d. lazowska'
+p768
+g2
+(g6
+S']K\xed-J\xca\xd2?'
+p769
+tp770
+Rp771
+tp772
+a(S'scott kurowski'
+p773
+g2
+(g6
+S'\x89\xf7\xb9\xb7N\xc7\xd2?'
+p774
+tp775
+Rp776
+tp777
+a(S'school of computing and information sciences, saint louis university, baguio'
+p778
+g2
+(g6
+S'\x9c\xbc\x8bg\x82\xc1\xd2?'
+p779
+tp780
+Rp781
+tp782
+a(S'green computing'
+p783
+g2
+(g6
+S'i\x95\x01t4\xc0\xd2?'
+p784
+tp785
+Rp786
+tp787
+a(S'dharma agrawal'
+p788
+g2
+(g6
+S'B>>\xe3\x9a\xba\xd2?'
+p789
+tp790
+Rp791
+tp792
+a(S'intelligence advanced research projects activity'
+p793
+g2
+(g6
+S'\x8bM\x05F\x87\xb7\xd2?'
+p794
+tp795
+Rp796
+tp797
+a(S'planetquest'
+p798
+g2
+(g6
+S'B\xe62\x07g\xb1\xd2?'
+p799
+tp800
+Rp801
+tp802
+a(S'ambient intelligence'
+p803
+g2
+(g6
+S'\x9f@`\xfcj\xa8\xd2?'
+p804
+tp805
+Rp806
+tp807
+a(S'german climate computing centre'
+p808
+g2
+(g6
+S'}_\x8d\x95A\xa2\xd2?'
+p809
+tp810
+Rp811
+tp812
+a(S'srinidhi varadarajan'
+p813
+g2
+(g6
+S'\xba\xa8\x16\xc9\x86\x99\xd2?'
+p814
+tp815
+Rp816
+tp817
+a(S'martyn amos'
+p818
+g2
+(g6
+S'?-\xe5Af\x8f\xd2?'
+p819
+tp820
+Rp821
+tp822
+a(S'services computing'
+p823
+g2
+(g6
+S'$W\xbd\xfc\xd1\x87\xd2?'
+p824
+tp825
+Rp826
+tp827
+a(S'indian association for research in computing science'
+p828
+g2
+(g6
+S'Z\x7f\x9a+ds\xd2?'
+p829
+tp830
+Rp831
+tp832
+a(S'peter j. denning'
+p833
+g2
+(g6
+S'\x8e\xfa\xb41\xe0p\xd2?'
+p834
+tp835
+Rp836
+tp837
+a(S'mobile interaction'
+p838
+g2
+(g6
+S'\x0f_Y\xa6\x17p\xd2?'
+p839
+tp840
+Rp841
+tp842
+a(S'cloudtran'
+p843
+g2
+(g6
+S']_\xda\x05\xbek\xd2?'
+p844
+tp845
+Rp846
+tp847
+a(S'a. j. bernheim brush'
+p848
+g2
+(g6
+S'%\xe3Z1\xe3h\xd2?'
+p849
+tp850
+Rp851
+tp852
+a(S'high-performance technical computing'
+p853
+g2
+(g6
+S'\xad\xee\xf9\x9e\x96h\xd2?'
+p854
+tp855
+Rp856
+tp857
+a(S'distributed networking'
+p858
+g2
+(g6
+S'\xc1\xe9@\xa6\xa9R\xd2?'
+p859
+tp860
+Rp861
+tp862
+a(S'b. thomas golisano college of computing and information sciences'
+p863
+g2
+(g6
+S'\x1a\xf6e\x8f\xadG\xd2?'
+p864
+tp865
+Rp866
+tp867
+a(S'cognitive computing'
+p868
+g2
+(g6
+S'\x03\xa3-\xfd\x10E\xd2?'
+p869
+tp870
+Rp871
+tp872
+a(S'donald bren school of information and computer sciences'
+p873
+g2
+(g6
+S'\x18\xc2\xc2~*C\xd2?'
+p874
+tp875
+Rp876
+tp877
+a(S'dieter fox'
+p878
+g2
+(g6
+S'\xa9\xbc0!\x18<\xd2?'
+p879
+tp880
+Rp881
+tp882
+a(S'username'
+p883
+g2
+(g6
+S'\xff\xc9Z(\x1f7\xd2?'
+p884
+tp885
+Rp886
+tp887
+a(S'experimental computing facility'
+p888
+g2
+(g6
+S'm\xc7\x06d;$\xd2?'
+p889
+tp890
+Rp891
+tp892
+a(S'computer science'
+p893
+g2
+(g6
+S'\x11\xe9\t\xa7\xf4 \xd2?'
+p894
+tp895
+Rp896
+tp897
+a(S'urban informatics'
+p898
+g2
+(g6
+S'\x87e\xfc\xccB\x1f\xd2?'
+p899
+tp900
+Rp901
+tp902
+a(S'grzegorz rozenberg'
+p903
+g2
+(g6
+S'{\x07k\xe1\x9a\x1c\xd2?'
+p904
+tp905
+Rp906
+tp907
+a(S'symposium on applied computing'
+p908
+g2
+(g6
+S'B\x8c\xf4\xe5v\x0b\xd2?'
+p909
+tp910
+Rp911
+tp912
+a(S'computer science teachers association'
+p913
+g2
+(g6
+S'D\xfb\xc1}\t\xfa\xd1?'
+p914
+tp915
+Rp916
+tp917
+a(S'joymaker'
+p918
+g2
+(g6
+S'\xf3\xe4\x89\xfe\xda\xe8\xd1?'
+p919
+tp920
+Rp921
+tp922
+a(S'symphony (software)'
+p923
+g2
+(g6
+S'._\x94\xac.\xe0\xd1?'
+p924
+tp925
+Rp926
+tp927
+a(S'internet area network'
+p928
+g2
+(g6
+S'Z,\xaev\x05\xde\xd1?'
+p929
+tp930
+Rp931
+tp932
+a(S'trustworthy computing'
+p933
+g2
+(g6
+S'\x9f\xcf\xa8L\x1c\xd6\xd1?'
+p934
+tp935
+Rp936
+tp937
+a(S'national strategic computing initiative'
+p938
+g2
+(g6
+S'\xad\xca]$\xe0\xcf\xd1?'
+p939
+tp940
+Rp941
+tp942
+a(S'joanne m. cohoon'
+p943
+g2
+(g6
+S'\xdd\x14\x0b\x12\x1f\xc4\xd1?'
+p944
+tp945
+Rp946
+tp947
+a(S'm. satyanarayanan'
+p948
+g2
+(g6
+S'{UG,\x1b\xc1\xd1?'
+p949
+tp950
+Rp951
+tp952
+a(S'hartree centre'
+p953
+g2
+(g6
+S'\xb5D\xd2X\x9c\xbc\xd1?'
+p954
+tp955
+Rp956
+tp957
+a(S'rich mobile application'
+p958
+g2
+(g6
+S'\x9e\x9d\xd6\xb9\xca\xba\xd1?'
+p959
+tp960
+Rp961
+tp962
+a(S'adam greenfield'
+p963
+g2
+(g6
+S'\xe0\x92\xed\x9a\xa6\xb5\xd1?'
+p964
+tp965
+Rp966
+tp967
+a(S'family computing'
+p968
+g2
+(g6
+S'|w\xac\xb6\xe0\xb4\xd1?'
+p969
+tp970
+Rp971
+tp972
+a(S'ibm/google cloud computing university initiative'
+p973
+g2
+(g6
+S'\xaf\xbd\xc4\x93\xcb\xab\xd1?'
+p974
+tp975
+Rp976
+tp977
+a(S'willis ware'
+p978
+g2
+(g6
+S'\xff$u=\xd4\xa5\xd1?'
+p979
+tp980
+Rp981
+tp982
+a(S'exascale computing'
+p983
+g2
+(g6
+S'\x85V\xa0\xb81\x9d\xd1?'
+p984
+tp985
+Rp986
+tp987
+a(S'compello'
+p988
+g2
+(g6
+S'\xc7\x1e?O\xcd\x8f\xd1?'
+p989
+tp990
+Rp991
+tp992
+a(S'ravishankar k. iyer'
+p993
+g2
+(g6
+S'\xc9A\xc4\xff-\x8a\xd1?'
+p994
+tp995
+Rp996
+tp997
+a(S'gender disparity in computing'
+p998
+g2
+(g6
+S'\x18\x0fh\xc2\x7f\x81\xd1?'
+p999
+tp1000
+Rp1001
+tp1002
+a(S'entropia, inc. (company)'
+p1003
+g2
+(g6
+S'\xeb\x81H\x89C\x81\xd1?'
+p1004
+tp1005
+Rp1006
+tp1007
+a(S'thea d. hodge'
+p1008
+g2
+(g6
+S'?E\xcf\x1a\xf2y\xd1?'
+p1009
+tp1010
+Rp1011
+tp1012
+a(S'j. c. r. licklider'
+p1013
+g2
+(g6
+S'\xbd\xef\xe4\xa4)u\xd1?'
+p1014
+tp1015
+Rp1016
+tp1017
+a(S'human\xe2\x80\x93computer interaction'
+p1018
+g2
+(g6
+S'q\x9d\xfe\xeaB[\xd1?'
+p1019
+tp1020
+Rp1021
+tp1022
+a(S'cristina lopes'
+p1023
+g2
+(g6
+S'\xdb\x88\xf74\rZ\xd1?'
+p1024
+tp1025
+Rp1026
+tp1027
+a(S'qatar computing research institute'
+p1028
+g2
+(g6
+S'W\x8f\x8d\xdaeO\xd1?'
+p1029
+tp1030
+Rp1031
+tp1032
+a(S'continuous computing'
+p1033
+g2
+(g6
+S'\x9f@Sn\xe37\xd1?'
+p1034
+tp1035
+Rp1036
+tp1037
+a(S'bio-inspired computing'
+p1038
+g2
+(g6
+S'hA-\x92\xe76\xd1?'
+p1039
+tp1040
+Rp1041
+tp1042
+a(S'crowd computing'
+p1043
+g2
+(g6
+S'\x98\x84h\xfa\xcd6\xd1?'
+p1044
+tp1045
+Rp1046
+tp1047
+a(S'calm technology'
+p1048
+g2
+(g6
+S"~\xe7\xda(z'\xd1?"
+p1049
+tp1050
+Rp1051
+tp1052
+a(S'david hartley (computer scientist)'
+p1053
+g2
+(g6
+S"{\xd92Tm'\xd1?"
+p1054
+tp1055
+Rp1056
+tp1057
+a(S'mindmodeling@home'
+p1058
+g2
+(g6
+S'2SP(E \xd1?'
+p1059
+tp1060
+Rp1061
+tp1062
+a(S'san diego supercomputer center'
+p1063
+g2
+(g6
+S't\xda\xb2\x08\xc6\x1b\xd1?'
+p1064
+tp1065
+Rp1066
+tp1067
+a(S'paul e. ceruzzi'
+p1068
+g2
+(g6
+S'[HYMj\x00\xd1?'
+p1069
+tp1070
+Rp1071
+tp1072
+a(S'distributed computing'
+p1073
+g2
+(g6
+S'K\xb8\xb0\xbd\xef\xef\xd0?'
+p1074
+tp1075
+Rp1076
+tp1077
+a(S'wearable computing group'
+p1078
+g2
+(g6
+S' \xaf\xa3\x14~\xeb\xd0?'
+p1079
+tp1080
+Rp1081
+tp1082
+a(S'cluster manager'
+p1083
+g2
+(g6
+S'\x00\xa2|\x86\xe7\xe6\xd0?'
+p1084
+tp1085
+Rp1086
+tp1087
+a(S'david de roure'
+p1088
+g2
+(g6
+S'\xb7o\x9b\xa3A\xe1\xd0?'
+p1089
+tp1090
+Rp1091
+tp1092
+a(S'gvu center at georgia tech'
+p1093
+g2
+(g6
+S'\xcf\xf2\xaa\x00_\xdf\xd0?'
+p1094
+tp1095
+Rp1096
+tp1097
+a(S'secure computing corporation'
+p1098
+g2
+(g6
+S'\x95K\xb6\xb4\x88\xda\xd0?'
+p1099
+tp1100
+Rp1101
+tp1102
+a(S'one to one computing (education)'
+p1103
+g2
+(g6
+S'\xb8t\xc8:k\xd2\xd0?'
+p1104
+tp1105
+Rp1106
+tp1107
+a(S'selim akl'
+p1108
+g2
+(g6
+S'\xd0WX\xcb\xf7\xae\xd0?'
+p1109
+tp1110
+Rp1111
+tp1112
+a(S'peptide computing'
+p1113
+g2
+(g6
+S'k\x01\x11o\xe1\xae\xd0?'
+p1114
+tp1115
+Rp1116
+tp1117
+a(S'gloria townsend'
+p1118
+g2
+(g6
+S'`\xe3\x08\x8f}\xae\xd0?'
+p1119
+tp1120
+Rp1121
+tp1122
+a(S'geoffrey c. fox'
+p1123
+g2
+(g6
+S'\x82\x8b\x15\xed7\xa8\xd0?'
+p1124
+tp1125
+Rp1126
+tp1127
+a(S'free on-line dictionary of computing'
+p1128
+g2
+(g6
+S'\xcf`\xd6\xb7{\xa1\xd0?'
+p1129
+tp1130
+Rp1131
+tp1132
+a(S'richard tapia celebration of diversity in computing'
+p1133
+g2
+(g6
+S'\x9c\x97\xd1e&\x9e\xd0?'
+p1134
+tp1135
+Rp1136
+tp1137
+a(S'surface computing'
+p1138
+g2
+(g6
+S'\xdf\xe6\xb7\xa9\x1d\x9b\xd0?'
+p1139
+tp1140
+Rp1141
+tp1142
+a(S'prize for innovation in distributed computing'
+p1143
+g2
+(g6
+S'\xf5\xb9\x04\x16\x0f\x90\xd0?'
+p1144
+tp1145
+Rp1146
+tp1147
+a(S'thad starner'
+p1148
+g2
+(g6
+S'S\xdb\xb6g.\x8b\xd0?'
+p1149
+tp1150
+Rp1151
+tp1152
+a(S'rebecca grinter'
+p1153
+g2
+(g6
+S'\xdfnc1\x1e\x86\xd0?'
+p1154
+tp1155
+Rp1156
+tp1157
+a(S'evolution@home'
+p1158
+g2
+(g6
+S'\x1do"[\xe5u\xd0?'
+p1159
+tp1160
+Rp1161
+tp1162
+a(S'commodity computing'
+p1163
+g2
+(g6
+S'gq{Qig\xd0?'
+p1164
+tp1165
+Rp1166
+tp1167
+a(S'cloud computing issues'
+p1168
+g2
+(g6
+S"k\xc3\xd4\xe5'f\xd0?"
+p1169
+tp1170
+Rp1171
+tp1172
+a(S'mobile computing and communications review'
+p1173
+g2
+(g6
+S'\xdf\x99\xf6\xb0\xb6d\xd0?'
+p1174
+tp1175
+Rp1176
+tp1177
+a(S'international conference on parallel and distributed systems'
+p1178
+g2
+(g6
+S'\x85\xbcP\xdf?c\xd0?'
+p1179
+tp1180
+Rp1181
+tp1182
+a(S'international society for nanoscale science, computation, and engineering'
+p1183
+g2
+(g6
+S"L\xd9\x13`'c\xd0?"
+p1184
+tp1185
+Rp1186
+tp1187
+a(S'design computing'
+p1188
+g2
+(g6
+S'\n\x0c}\xb8X^\xd0?'
+p1189
+tp1190
+Rp1191
+tp1192
+a(S'stefano ceri'
+p1193
+g2
+(g6
+S'\xdb4\xa8\x16.U\xd0?'
+p1194
+tp1195
+Rp1196
+tp1197
+a(S'memetic computing society'
+p1198
+g2
+(g6
+S'\xe2\xd4.Y\x11O\xd0?'
+p1199
+tp1200
+Rp1201
+tp1202
+a(S'acm-w'
+p1203
+g2
+(g6
+S'\x8e\x9ag+bM\xd0?'
+p1204
+tp1205
+Rp1206
+tp1207
+a(S'enterprise cognitive system'
+p1208
+g2
+(g6
+S'$\xadDq\xdbI\xd0?'
+p1209
+tp1210
+Rp1211
+tp1212
+a(S'ieee annals of the history of computing'
+p1213
+g2
+(g6
+S'\xc3dvp\rH\xd0?'
+p1214
+tp1215
+Rp1216
+tp1217
+a(S'rosalind picard'
+p1218
+g2
+(g6
+S'Z\x82y\x15\xe4G\xd0?'
+p1219
+tp1220
+Rp1221
+tp1222
+a(S'robot as a service'
+p1223
+g2
+(g6
+S'r\xb9r\xd2\xc7@\xd0?'
+p1224
+tp1225
+Rp1226
+tp1227
+a(S'michel raynal'
+p1228
+g2
+(g6
+S'\xdb\x1a\xaf\xeb\xf7>\xd0?'
+p1229
+tp1230
+Rp1231
+tp1232
+a(S'context-aware services'
+p1233
+g2
+(g6
+S'\x84\xff3\xed\xb8:\xd0?'
+p1234
+tp1235
+Rp1236
+tp1237
+a(S'zhengxu zhao'
+p1238
+g2
+(g6
+S'\xc5\xd9i\xf2\xc59\xd0?'
+p1239
+tp1240
+Rp1241
+tp1242
+a(S'quasi-opportunistic supercomputing'
+p1243
+g2
+(g6
+S'\xbb\x88Wol4\xd0?'
+p1244
+tp1245
+Rp1246
+tp1247
+a(S'ageless computing'
+p1248
+g2
+(g6
+S'\xfe?\xa18 4\xd0?'
+p1249
+tp1250
+Rp1251
+tp1252
+a(S'roger wattenhofer'
+p1253
+g2
+(g6
+S'\xdd\x0f\xcb\x1e\xde/\xd0?'
+p1254
+tp1255
+Rp1256
+tp1257
+a(S'ulster university faculty of computing and engineering'
+p1258
+g2
+(g6
+S'<\xeb\xae\x8d\x0b(\xd0?'
+p1259
+tp1260
+Rp1261
+tp1262
+a(S'stella atkins'
+p1263
+g2
+(g6
+S'\xa1\x93\xe2\x9dP"\xd0?'
+p1264
+tp1265
+Rp1266
+tp1267
+a(S'non-silicon robot'
+p1268
+g2
+(g6
+S'\n\xc43f\xcc\x19\xd0?'
+p1269
+tp1270
+Rp1271
+tp1272
+a(S'acenet'
+p1273
+g2
+(g6
+S'\xb6s\xb6\x9d\xc7\x18\xd0?'
+p1274
+tp1275
+Rp1276
+tp1277
+a(S'botfighters'
+p1278
+g2
+(g6
+S'\x16\x8er\xf8^\x18\xd0?'
+p1279
+tp1280
+Rp1281
+tp1282
+a(S'project oxygen'
+p1283
+g2
+(g6
+S'\x97\x83\xa9k\xd2\x15\xd0?'
+p1284
+tp1285
+Rp1286
+tp1287
+a(S'ellen w. zegura'
+p1288
+g2
+(g6
+S'\xcb&\r\x14u\r\xd0?'
+p1289
+tp1290
+Rp1291
+tp1292
+a(S'diversity in computing'
+p1293
+g2
+(g6
+S'\xd4\xed\x04\xabe\n\xd0?'
+p1294
+tp1295
+Rp1296
+tp1297
+a(S'boles\xc5\x82aw szyma\xc5\x84ski'
+p1298
+g2
+(g6
+S'\x91\xd7\xf75\x88\x07\xd0?'
+p1299
+tp1300
+Rp1301
+tp1302
+a(S'holland computing center'
+p1303
+g2
+(g6
+S'\t\xf6\xed-7\x00\xd0?'
+p1304
+tp1305
+Rp1306
+tp1307
+a(S'computationally enhanced craft item'
+p1308
+g2
+(g6
+S',,7\xaa)\xfc\xcf?'
+p1309
+tp1310
+Rp1311
+tp1312
+a(S'outline of computer science'
+p1313
+g2
+(g6
+S'\xf3\xd0\x1bH\x1f\xf8\xcf?'
+p1314
+tp1315
+Rp1316
+tp1317
+a(S'william mark'
+p1318
+g2
+(g6
+S'N\xda\xbaf\x8f\xee\xcf?'
+p1319
+tp1320
+Rp1321
+tp1322
+a(S'grand challenges'
+p1323
+g2
+(g6
+S'\x00\x82\xee\x15y\xe8\xcf?'
+p1324
+tp1325
+Rp1326
+tp1327
+a(S'list of computer science journals'
+p1328
+g2
+(g6
+S'\xc9O\x85\xe6t\xe7\xcf?'
+p1329
+tp1330
+Rp1331
+tp1332
+a(S'acm transactions on multimedia computing, communications, and applications'
+p1333
+g2
+(g6
+S'<\xa7\x8a\xaf\x80\xe3\xcf?'
+p1334
+tp1335
+Rp1336
+tp1337
+a(S'susan hockey'
+p1338
+g2
+(g6
+S'\x8f\xc5V\xe0W\xd3\xcf?'
+p1339
+tp1340
+Rp1341
+tp1342
+a(S'ieee transactions on mobile computing'
+p1343
+g2
+(g6
+S'&\x08\xbf\xcd\xe9\xb6\xcf?'
+p1344
+tp1345
+Rp1346
+tp1347
+a(S'outline of human\xe2\x80\x93computer interaction'
+p1348
+g2
+(g6
+S'\xd07\x99\x87\x1e\xb6\xcf?'
+p1349
+tp1350
+Rp1351
+tp1352
+a(S'docking@home'
+p1353
+g2
+(g6
+S'b\x82\x9a\xc35\xa8\xcf?'
+p1354
+tp1355
+Rp1356
+tp1357
+a(S'3tera'
+p1358
+g2
+(g6
+S'\x95*\x87\xc6\xf8\x9a\xcf?'
+p1359
+tp1360
+Rp1361
+tp1362
+a(S'computer: a history of the information machine'
+p1363
+g2
+(g6
+S'\xee\xb1\xf3\x1b\x96\x90\xcf?'
+p1364
+tp1365
+Rp1366
+tp1367
+a(S'pencept'
+p1368
+g2
+(g6
+S'3+\xaabn\x90\xcf?'
+p1369
+tp1370
+Rp1371
+tp1372
+a(S'trusted computing group'
+p1373
+g2
+(g6
+S'\xbcbv\xba\x83\x84\xcf?'
+p1374
+tp1375
+Rp1376
+tp1377
+a(S'aslak tveito'
+p1378
+g2
+(g6
+S'M\x1a\xee\xf3\xb0\x82\xcf?'
+p1379
+tp1380
+Rp1381
+tp1382
+a(S'ethnocomputing'
+p1383
+g2
+(g6
+S'\x8a\xac\x99\xdb>w\xcf?'
+p1384
+tp1385
+Rp1386
+tp1387
+a(S'lingcloud'
+p1388
+g2
+(g6
+S'(\xa5\xf2\x193u\xcf?'
+p1389
+tp1390
+Rp1391
+tp1392
+a(S'ambient device'
+p1393
+g2
+(g6
+S'Ol\xf8\x0c=l\xcf?'
+p1394
+tp1395
+Rp1396
+tp1397
+a(S'trusted computing'
+p1398
+g2
+(g6
+S'T\x16\xa4M\xce]\xcf?'
+p1399
+tp1400
+Rp1401
+tp1402
+a(S'western australian regional computing centre'
+p1403
+g2
+(g6
+S'\xf1Z\x01\xfb\x97U\xcf?'
+p1404
+tp1405
+Rp1406
+tp1407
+a(S'the lattice project'
+p1408
+g2
+(g6
+S'\xb2D&[xM\xcf?'
+p1409
+tp1410
+Rp1411
+tp1412
+a(S'construction field computing'
+p1413
+g2
+(g6
+S'\xc9<\xdf0\x19E\xcf?'
+p1414
+tp1415
+Rp1416
+tp1417
+a(S'de la salle university college of computer studies'
+p1418
+g2
+(g6
+S'w\xc3\xa3\xd4,D\xcf?'
+p1419
+tp1420
+Rp1421
+tp1422
+a(S'hands-free computing'
+p1423
+g2
+(g6
+S'\xee\tX\xb9,<\xcf?'
+p1424
+tp1425
+Rp1426
+tp1427
+a(S'ubiquitous energy'
+p1428
+g2
+(g6
+S'\xa2\xa3\xa7\x0bT3\xcf?'
+p1429
+tp1430
+Rp1431
+tp1432
+a(S'nalini venkatasubramanian'
+p1433
+g2
+(g6
+S'~\x8e\x0c\xacx!\xcf?'
+p1434
+tp1435
+Rp1436
+tp1437
+a(S'ferdinand peper'
+p1438
+g2
+(g6
+S'\xbe\x01H\x1d\xb4\x1f\xcf?'
+p1439
+tp1440
+Rp1441
+tp1442
+a(S'list of computer scientists'
+p1443
+g2
+(g6
+S'\xb2\xe4Y\xd5&\x0e\xcf?'
+p1444
+tp1445
+Rp1446
+tp1447
+a(S'java heterogeneous distributed computing'
+p1448
+g2
+(g6
+S'b\x9c\x18\x98\x15\x02\xcf?'
+p1449
+tp1450
+Rp1451
+tp1452
+a(S'interdisciplinary center for scientific computing'
+p1453
+g2
+(g6
+S'\xd8T \xf3\x12\xff\xce?'
+p1454
+tp1455
+Rp1456
+tp1457
+a(S'platform computing'
+p1458
+g2
+(g6
+S'\x1e\x0e4\xb7\x8b\xf7\xce?'
+p1459
+tp1460
+Rp1461
+tp1462
+a(S'international conference on mobile computing and networking'
+p1463
+g2
+(g6
+S'0T\x1c\xad\x89\xed\xce?'
+p1464
+tp1465
+Rp1466
+tp1467
+a(S'location awareness'
+p1468
+g2
+(g6
+S'\xd366\x04\x99\xcc\xce?'
+p1469
+tp1470
+Rp1471
+tp1472
+a(S'daniel a. reed (computer scientist)'
+p1473
+g2
+(g6
+S'\xa9;P\x14\x8e\xc1\xce?'
+p1474
+tp1475
+Rp1476
+tp1477
+a(S'parallel computing'
+p1478
+g2
+(g6
+S'\xcd\xa8\xc0\xa2m\xb6\xce?'
+p1479
+tp1480
+Rp1481
+tp1482
+a(S'computer bureau'
+p1483
+g2
+(g6
+S'f\xa3\x1c\xdb\xc3\xa4\xce?'
+p1484
+tp1485
+Rp1486
+tp1487
+a(S'ignacio m. llorente'
+p1488
+g2
+(g6
+S'\xfcf\x7f\x1f\xb2\xa0\xce?'
+p1489
+tp1490
+Rp1491
+tp1492
+a(S'ibm research \xe2\x80\x93 ireland'
+p1493
+g2
+(g6
+S'\xb2\x85/%H\x98\xce?'
+p1494
+tp1495
+Rp1496
+tp1497
+a(S'margaret martonosi'
+p1498
+g2
+(g6
+S'\x94H\x988\x9b\x92\xce?'
+p1499
+tp1500
+Rp1501
+tp1502
+a(S'peter a. freeman'
+p1503
+g2
+(g6
+S'\x0e\xdcR$[\x85\xce?'
+p1504
+tp1505
+Rp1506
+tp1507
+a(S'computer museum'
+p1508
+g2
+(g6
+S'D\xa8\xe5s3s\xce?'
+p1509
+tp1510
+Rp1511
+tp1512
+a.

@@ -1,0 +1,2728 @@
+(lp0
+(S'north american chapter of the association for computational linguistics'
+p1
+cnumpy.core.multiarray
+scalar
+p2
+(cnumpy
+dtype
+p3
+(S'f8'
+p4
+I0
+I1
+tp5
+Rp6
+(I3
+S'<'
+p7
+NNNI-1
+I-1
+I0
+tp8
+bS'\x01\x00\x00\x00\x00\x00\xf0?'
+p9
+tp10
+Rp11
+tp12
+a(S'association for computational linguistics'
+p13
+g2
+(g6
+S'\x1f\xc6\xb9p\xbe\xd6\xe6?'
+p14
+tp15
+Rp16
+tp17
+a(S'acl2'
+p18
+g2
+(g6
+S'1\xf6\x14\x19\xbeR\xe6?'
+p19
+tp20
+Rp21
+tp22
+a(S'acl (software company)'
+p23
+g2
+(g6
+S'|\x14\xb9\xaf\x04\xb0\xe3?'
+p24
+tp25
+Rp26
+tp27
+a(S'australian christian lobby'
+p28
+g2
+(g6
+S'\xf8\xae\xe1\xec\xd3.\xe3?'
+p29
+tp30
+Rp31
+tp32
+a(S'atlantic coast line railroad'
+p33
+g2
+(g6
+S'\xa7\xe8"\xeb\xaf\x0e\xe1?'
+p34
+tp35
+Rp36
+tp37
+a(S'acl'
+p38
+g2
+(g6
+S'l\x998y\x13\x0c\xe1?'
+p39
+tp40
+Rp41
+tp42
+a(S'acl injuries in the australian football league'
+p43
+g2
+(g6
+S'\xce\xf3\x1e\xdc7\xd9\xe0?'
+p44
+tp45
+Rp46
+tp47
+a(S'anterior cruciate ligament injury'
+p48
+g2
+(g6
+S'\xeb"1\x9bW\x90\xe0?'
+p49
+tp50
+Rp51
+tp52
+a(S'anterior cruciate ligament'
+p53
+g2
+(g6
+S'\xa6\xfc\xbdw\t\x84\xdf?'
+p54
+tp55
+Rp56
+tp57
+a(S'access control list'
+p58
+g2
+(g6
+S'\x00r\x0e\xbeF\x03\xdd?'
+p59
+tp60
+Rp61
+tp62
+a(S'2009\xe2\x80\x9310 newcastle jets fc season'
+p63
+g2
+(g6
+S'J\x92\xa8\x8d\xad\xda\xdc?'
+p64
+tp65
+Rp66
+tp67
+a(S'administration for community living'
+p68
+g2
+(g6
+S'\x06k\x15?\x13\xa1\xdb?'
+p69
+tp70
+Rp71
+tp72
+a(S'association of christian librarians'
+p73
+g2
+(g6
+S'\x02n\x1e\xdaM\xc8\xda?'
+p74
+tp75
+Rp76
+tp77
+a(S'ateliers et chantiers de la loire'
+p78
+g2
+(g6
+S'\xad<@\xf2\xf8\xbb\xd9?'
+p79
+tp80
+Rp81
+tp82
+a(S'liberal citizens action'
+p83
+g2
+(g6
+S'\xc4\x00\x86\xfc2\xb3\xd7?'
+p84
+tp85
+Rp86
+tp87
+a(S'block 21'
+p88
+g2
+(g6
+S"\xce'nd\t)\xd7?"
+p89
+tp90
+Rp91
+tp92
+a(S'anterior cruciate ligament reconstruction'
+p93
+g2
+(g6
+S"\x83\x0f\xcb'YC\xd5?"
+p94
+tp95
+Rp96
+tp97
+a(S'asynchronous connection-less'
+p98
+g2
+(g6
+S'lB\xf6\xcd\xb1\xff\xd4?'
+p99
+tp100
+Rp101
+tp102
+a(S'lepor'
+p103
+g2
+(g6
+S'e\x19\x92\xbbs\xe3\xd4?'
+p104
+tp105
+Rp106
+tp107
+a(S'lauri karttunen'
+p108
+g2
+(g6
+S'\xc1\x8a?F4r\xd4?'
+p109
+tp110
+Rp111
+tp112
+a(S'gtri advanced concepts laboratory'
+p113
+g2
+(g6
+S'\x1e!G\x0b\xd1j\xd4?'
+p114
+tp115
+Rp116
+tp117
+a(S'schenck classification'
+p118
+g2
+(g6
+S'\xa9\x7f\x0f\xfeX\n\xd4?'
+p119
+tp120
+Rp121
+tp122
+a(S'charles vardis'
+p123
+g2
+(g6
+S'\x08=\xec\x10Y\xed\xd3?'
+p124
+tp125
+Rp126
+tp127
+a(S'anterior cruciate ligament reconstruction with contralateral autogenous patellar tendon graft'
+p128
+g2
+(g6
+S'\xcd\x8c\xfa\xd2V\xc8\xd3?'
+p129
+tp130
+Rp131
+tp132
+a(S"jun'ichi tsujii"
+p133
+g2
+(g6
+S'u}\x80\x98\xf1y\xd3?'
+p134
+tp135
+Rp136
+tp137
+a(S'lachman test'
+p138
+g2
+(g6
+S'\xd5\x02\xdcL\x84a\xd3?'
+p139
+tp140
+Rp141
+tp142
+a(S'sanford station (sunrail)'
+p143
+g2
+(g6
+S'\xc3g]D\x04\x0c\xd3?'
+p144
+tp145
+Rp146
+tp147
+a(S'agent communications language'
+p148
+g2
+(g6
+S'xb~\x1cj\xed\xd2?'
+p149
+tp150
+Rp151
+tp152
+a(S'kendall beck'
+p153
+g2
+(g6
+S'\x06\x1d\xba\xae\xf3\xcb\xd2?'
+p154
+tp155
+Rp156
+tp157
+a(S'queen of the west (ship)'
+p158
+g2
+(g6
+S'3\x04\xb8\x9c\xbf\x9e\xd2?'
+p159
+tp160
+Rp161
+tp162
+a(S'america (2016) (ship)'
+p163
+g2
+(g6
+S'\xde\xbe1\xb7\xe1\x9b\xd2?'
+p164
+tp165
+Rp166
+tp167
+a(S'american spirit (ship)'
+p168
+g2
+(g6
+S'\x82\xd3\xe6\xb7\xeaR\xd2?'
+p169
+tp170
+Rp171
+tp172
+a(S'old dundee atlantic coast line railroad depot'
+p173
+g2
+(g6
+S'\x03\x12\x82\xaaI\x0b\xd2?'
+p174
+tp175
+Rp176
+tp177
+a(S'computational linguistics (journal)'
+p178
+g2
+(g6
+S'\x08\x9e~B\xab\xfe\xd1?'
+p179
+tp180
+Rp181
+tp182
+a(S'customary law in south africa'
+p183
+g2
+(g6
+S'@]\x9c\xf1\xd8\xe9\xd1?'
+p184
+tp185
+Rp186
+tp187
+a(S'ashley brown (footballer)'
+p188
+g2
+(g6
+S'\xa2\xbc,,\xe3\xdf\xd1?'
+p189
+tp190
+Rp191
+tp192
+a(S'list of south carolina railroads'
+p193
+g2
+(g6
+S'\x7f9\xec\xaei\xd1\xd1?'
+p194
+tp195
+Rp196
+tp197
+a(S'austin city limits music festival'
+p198
+g2
+(g6
+S';Pt\tRu\xd1?'
+p199
+tp200
+Rp201
+tp202
+a(S'afnlp'
+p203
+g2
+(g6
+S'KN\xac\xceVP\xd1?'
+p204
+tp205
+Rp206
+tp207
+a(S"hau'oli kikaha"
+p208
+g2
+(g6
+S'Tlr\xf6\xe1K\xd1?'
+p209
+tp210
+Rp211
+tp212
+a(S'atlanta, birmingham and coast railroad'
+p213
+g2
+(g6
+S")\xefU%'E\xd1?"
+p214
+tp215
+Rp216
+tp217
+a(S'australian consumer law'
+p218
+g2
+(g6
+S'U\x17\x05\xd0\x0b\xe1\xd0?'
+p219
+tp220
+Rp221
+tp222
+a(S'richacls'
+p223
+g2
+(g6
+S'\xe4\x1bv\x86\x07\xb1\xd0?'
+p224
+tp225
+Rp226
+tp227
+a(S'american classical league'
+p228
+g2
+(g6
+S'\xf86\x85\xf1\xf8\x99\xd0?'
+p229
+tp230
+Rp231
+tp232
+a(S'dade city atlantic coast line railroad depot'
+p233
+g2
+(g6
+S'\xa5+Pm\x90\x87\xd0?'
+p234
+tp235
+Rp236
+tp237
+a(S'asbestos corporation limited'
+p238
+g2
+(g6
+S'\xdbn\xb6:MO\xd0?'
+p239
+tp240
+Rp241
+tp242
+a(S'trilacoochee, florida'
+p243
+g2
+(g6
+S'V\xa6\xc2\xac\x87M\xd0?'
+p244
+tp245
+Rp246
+tp247
+a(S'dexter janke'
+p248
+g2
+(g6
+S'g*DBwI\xd0?'
+p249
+tp250
+Rp251
+tp252
+a(S'petersburg station'
+p253
+g2
+(g6
+S'\x9d\x9f\xde\x9c9+\xd0?'
+p254
+tp255
+Rp256
+tp257
+a(S'aravind joshi'
+p258
+g2
+(g6
+S'\xbf\xb5\xa85\xe9\x14\xd0?'
+p259
+tp260
+Rp261
+tp262
+a(S'computational lexicology'
+p263
+g2
+(g6
+S'|^ Z\xd8\x14\xd0?'
+p264
+tp265
+Rp266
+tp267
+a(S'morphotactics'
+p268
+g2
+(g6
+S'\xb0\xd4\x0b7s\xc0\xcf?'
+p269
+tp270
+Rp271
+tp272
+a(S'champion (train)'
+p273
+g2
+(g6
+S't->Z$\x9d\xcf?'
+p274
+tp275
+Rp276
+tp277
+a(S'dragomir r. radev'
+p278
+g2
+(g6
+S'<GST2\xf4\xce?'
+p279
+tp280
+Rp281
+tp282
+a(S'computational linguistics'
+p283
+g2
+(g6
+S'\x0f1u\xddZ\xe5\xce?'
+p284
+tp285
+Rp286
+tp287
+a(S'winston-salem southbound railway'
+p288
+g2
+(g6
+S'4\xdb\xc9\xd9\xe5\xcf\xce?'
+p289
+tp290
+Rp291
+tp292
+a(S'anna rupprecht'
+p293
+g2
+(g6
+S'\xbc\xa5i\x188D\xce?'
+p294
+tp295
+Rp296
+tp297
+a(S'eclair (company)'
+p298
+g2
+(g6
+S'\xfd\xe4\xbf,\x00\x17\xce?'
+p299
+tp300
+Rp301
+tp302
+a(S'list of bluetooth protocols'
+p303
+g2
+(g6
+S'\xb0"\x8e\xcfP\xad\xcd?'
+p304
+tp305
+Rp306
+tp307
+a(S'international committee on computational linguistics'
+p308
+g2
+(g6
+S'pN\xf1\x9f\x11\x98\xcd?'
+p309
+tp310
+Rp311
+tp312
+a(S'closed subscriber group'
+p313
+g2
+(g6
+S'8$\xac\xc6\x82H\xcd?'
+p314
+tp315
+Rp316
+tp317
+a(S'caroline queen'
+p318
+g2
+(g6
+S'\xd9\xd6\x1dA;5\xcd?'
+p319
+tp320
+Rp321
+tp322
+a(S'mark steedman'
+p323
+g2
+(g6
+S'\x04~_}+z\xcc?'
+p324
+tp325
+Rp326
+tp327
+a(S'mike vilimek'
+p328
+g2
+(g6
+S'\xfaM\x0e\x1d\x1dz\xcc?'
+p329
+tp330
+Rp331
+tp332
+a(S'u.s. navy and u.s. marine corps aircraft tail codes'
+p333
+g2
+(g6
+S'\x00u\xfa<WW\xcc?'
+p334
+tp335
+Rp336
+tp337
+a(S'list of linguistics conferences'
+p338
+g2
+(g6
+S'Xa\xa44\xbfP\xcb?'
+p339
+tp340
+Rp341
+tp342
+a(S'mariya livchikova'
+p343
+g2
+(g6
+S'\xd5;\n%\x10D\xcb?'
+p344
+tp345
+Rp346
+tp347
+a(S'academia catarinense de letras'
+p348
+g2
+(g6
+S'(c\x92\x89R?\xcb?'
+p349
+tp350
+Rp351
+tp352
+a(S'american pride (ship)'
+p353
+g2
+(g6
+S"\xd7\x87'\xd1\xdc\xe4\xca?"
+p354
+tp355
+Rp356
+tp357
+a(S'2014\xe2\x80\x9315 brisbane roar fc season'
+p358
+g2
+(g6
+S'\xf2\xc0\xc5\xe5\xb9`\xca?'
+p359
+tp360
+Rp361
+tp362
+a(S'british rail class 82'
+p363
+g2
+(g6
+S'i\xdf\xd7\x89W<\xca?'
+p364
+tp365
+Rp366
+tp367
+a(S'canadian linguistic association'
+p368
+g2
+(g6
+S"\xc6t\xe8'\x9ao\xc9?"
+p369
+tp370
+Rp371
+tp372
+a(S'atlantic coast league'
+p373
+g2
+(g6
+S'\xfaXT\xbc\x92i\xc9?'
+p374
+tp375
+Rp376
+tp377
+a(S'firewalk (computing)'
+p378
+g2
+(g6
+S'`J\xb9)\xe2\xcf\xc8?'
+p379
+tp380
+Rp381
+tp382
+a(S'north american conference on chinese linguistics'
+p383
+g2
+(g6
+S'\xc2\\/\x06\\\xaf\xc8?'
+p384
+tp385
+Rp386
+tp387
+a(S"sione po'uha"
+p388
+g2
+(g6
+S'\x8b\nb\xd0\xfa\x9c\xc8?'
+p389
+tp390
+Rp391
+tp392
+a(S'adam kilgarriff'
+p393
+g2
+(g6
+S'A\xfd\x0f\x00\xb6\x8e\xc8?'
+p394
+tp395
+Rp396
+tp397
+a(S'arnold josiah ford'
+p398
+g2
+(g6
+S'\x98 \xaa\x92\x04\x8a\xc8?'
+p399
+tp400
+Rp401
+tp402
+a(S'freddie fu'
+p403
+g2
+(g6
+S'O\xa9Nu\xb6H\xc8?'
+p404
+tp405
+Rp406
+tp407
+a(S'students for life of america'
+p408
+g2
+(g6
+S'\xc2r\xe8\x8b\x91\x1e\xc8?'
+p409
+tp410
+Rp411
+tp412
+a(S'martin kay'
+p413
+g2
+(g6
+S"f'\x8f\n$\xec\xc7?"
+p414
+tp415
+Rp416
+tp417
+a(S'henrietta vinton davis'
+p418
+g2
+(g6
+S'\x1f\x98\xec\x9cq\xd3\xc7?'
+p419
+tp420
+Rp421
+tp422
+a(S'australasian language technology association'
+p423
+g2
+(g6
+S'p\x13\x8cE\xadM\xc7?'
+p424
+tp425
+Rp426
+tp427
+a(S'e. j. whitley'
+p428
+g2
+(g6
+S'\xe3hy\x1d&E\xc7?'
+p429
+tp430
+Rp431
+tp432
+a(S'michael hammond'
+p433
+g2
+(g6
+S'\xa7oy\x1c\xc8\x1c\xc7?'
+p434
+tp435
+Rp436
+tp437
+a(S'david coderre'
+p438
+g2
+(g6
+S'R\xce\xb7]a\x0b\xc7?'
+p439
+tp440
+Rp441
+tp442
+a(S'list of north carolina railroads'
+p443
+g2
+(g6
+S'\xcf$\xa2\xf2m\n\xc7?'
+p444
+tp445
+Rp446
+tp447
+a(S'law costs draftsman'
+p448
+g2
+(g6
+S'\xf9\x1d\xbf\xcc\xfd\xf2\xc6?'
+p449
+tp450
+Rp451
+tp452
+a(S'drawer test'
+p453
+g2
+(g6
+S'L\xe1\x0cmW\xe1\xc6?'
+p454
+tp455
+Rp456
+tp457
+a(S'alexis manaster ramer'
+p458
+g2
+(g6
+S'RS\x1c\xaf\x8c\xd8\xc6?'
+p459
+tp460
+Rp461
+tp462
+a(S'computational semantics'
+p463
+g2
+(g6
+S'.\x13\x04$\xf5\xd6\xc6?'
+p464
+tp465
+Rp466
+tp467
+a(S'seaboard coast line railroad station (st. petersburg, florida)'
+p468
+g2
+(g6
+S'\xb4\x818lR\xce\xc6?'
+p469
+tp470
+Rp471
+tp472
+a(S'lamarr houston'
+p473
+g2
+(g6
+S'\xdc\xec\xd8%T\xc1\xc6?'
+p474
+tp475
+Rp476
+tp477
+a(S'graham mccoll'
+p478
+g2
+(g6
+S'\x9ex\x00\x9dk\x9c\xc6?'
+p479
+tp480
+Rp481
+tp482
+a(S'competition and consumer act 2010'
+p483
+g2
+(g6
+S'\xd1B\xcd\xec\xae\x82\xc6?'
+p484
+tp485
+Rp486
+tp487
+a(S'international conference on computational linguistics and intelligent text processing'
+p488
+g2
+(g6
+S'B\xcd\xd7\xc6S>\xc6?'
+p489
+tp490
+Rp491
+tp492
+a(S'travis long'
+p493
+g2
+(g6
+S'\x8d2\xa2\xde\xe74\xc6?'
+p494
+tp495
+Rp496
+tp497
+a(S'outline of linguistics'
+p498
+g2
+(g6
+S'\x16\x97~[|+\xc6?'
+p499
+tp500
+Rp501
+tp502
+a(S'wendy francis'
+p503
+g2
+(g6
+S'\xb6\xd2\x93:7*\xc6?'
+p504
+tp505
+Rp506
+tp507
+a(S'hans uszkoreit'
+p508
+g2
+(g6
+S'\xe1^*o\xbe \xc6?'
+p509
+tp510
+Rp511
+tp512
+a(S'majed al-marshedi'
+p513
+g2
+(g6
+S'?U\x9f\xcd\x03\x02\xc6?'
+p514
+tp515
+Rp516
+tp517
+a(S'2004 girabola'
+p518
+g2
+(g6
+S'\xbagv\xcd\x9e\x00\xc6?'
+p519
+tp520
+Rp521
+tp522
+a(S'2010 j.league division 1'
+p523
+g2
+(g6
+S'\xa2%o\x13\xb6\xf5\xc5?'
+p524
+tp525
+Rp526
+tp527
+a(S'renault primaquatre'
+p528
+g2
+(g6
+S'\x84\xba5\xeem\xd0\xc5?'
+p529
+tp530
+Rp531
+tp532
+a(S'applied linguistics'
+p533
+g2
+(g6
+S'}\xde\x16\xb6\xd7\xcc\xc5?'
+p534
+tp535
+Rp536
+tp537
+a(S'mike seidman'
+p538
+g2
+(g6
+S'*\xba|K\xe3\xc9\xc5?'
+p539
+tp540
+Rp541
+tp542
+a(S'max bailey'
+p543
+g2
+(g6
+S'\x19j\xc9\x16\x15\xbb\xc5?'
+p544
+tp545
+Rp546
+tp547
+a(S'computational x'
+p548
+g2
+(g6
+S'Sv\xbb5\x85\xac\xc5?'
+p549
+tp550
+Rp551
+tp552
+a(S'deep lateral femoral notch sign'
+p553
+g2
+(g6
+S'<\xdaj\r0\x89\xc5?'
+p554
+tp555
+Rp556
+tp557
+a(S'anglian college london'
+p558
+g2
+(g6
+S'\x1c\xeex\xcac{\xc5?'
+p559
+tp560
+Rp561
+tp562
+a(S'list of florida railroads'
+p563
+g2
+(g6
+S'v\x1b\xac\xd3Oq\xc5?'
+p564
+tp565
+Rp566
+tp567
+a(S'international association of applied linguistics'
+p568
+g2
+(g6
+S'\x9d\x7f\xc2\xb0#W\xc5?'
+p569
+tp570
+Rp571
+tp572
+a(S'diane litman'
+p573
+g2
+(g6
+S'Y\xad\x8d\xaajF\xc5?'
+p574
+tp575
+Rp576
+tp577
+a(S'2011\xe2\x80\x9312 sepahan f.c. season'
+p578
+g2
+(g6
+S'\xa7\x05\x08j\x9a1\xc5?'
+p579
+tp580
+Rp581
+tp582
+a(S'polish cognitive linguistics association'
+p583
+g2
+(g6
+S'\xe8#\xb7\xdd\x93(\xc5?'
+p584
+tp585
+Rp586
+tp587
+a(S'british association for applied linguistics'
+p588
+g2
+(g6
+S'[;\xa5\xfb\xb0&\xc5?'
+p589
+tp590
+Rp591
+tp592
+a(S'computational science'
+p593
+g2
+(g6
+S'Dx\xda\xd7\xb0\x00\xc5?'
+p594
+tp595
+Rp596
+tp597
+a(S'role-based access control'
+p598
+g2
+(g6
+S'e\x86fK\x00\xee\xc4?'
+p599
+tp600
+Rp601
+tp602
+a(S'2016\xe2\x80\x9317 esteghlal f.c. season'
+p603
+g2
+(g6
+S'9\x1e\xb7\xa4A\xe4\xc4?'
+p604
+tp605
+Rp606
+tp607
+a(S'2012 afc champions league'
+p608
+g2
+(g6
+S'A\xe9o\xb1\x85\xe2\xc4?'
+p609
+tp610
+Rp611
+tp612
+a(S'joan bresnan'
+p613
+g2
+(g6
+S'\x10\x1a\xee3\x81\xdd\xc4?'
+p614
+tp615
+Rp616
+tp617
+a(S'shane watts'
+p618
+g2
+(g6
+S'\xe8\xe8a\xcb.\xce\xc4?'
+p619
+tp620
+Rp621
+tp622
+a(S'goldsboro union station'
+p623
+g2
+(g6
+S'\xcepu\xd8D\xb9\xc4?'
+p624
+tp625
+Rp626
+tp627
+a(S'list of railroads in georgia (u.s. state)'
+p628
+g2
+(g6
+S'\xadD\xed\xec\xd9\xb1\xc4?'
+p629
+tp630
+Rp631
+tp632
+a(S'franz guenthner'
+p633
+g2
+(g6
+S'\xbd\xa3\xd2\xedI\xa5\xc4?'
+p634
+tp635
+Rp636
+tp637
+a(S'irish association for applied linguistics'
+p638
+g2
+(g6
+S'\xc7\xa2;\xfc\x8c\x92\xc4?'
+p639
+tp640
+Rp641
+tp642
+a(S'jonathan webster'
+p643
+g2
+(g6
+S'lv\xaev\x1aR\xc4?'
+p644
+tp645
+Rp646
+tp647
+a(S'canadian civil liberties association'
+p648
+g2
+(g6
+S'\x94\x82\x1e\xa7\x89Q\xc4?'
+p649
+tp650
+Rp651
+tp652
+a(S'international cognitive linguistics association'
+p653
+g2
+(g6
+S'l\x07K\nH7\xc4?'
+p654
+tp655
+Rp656
+tp657
+a(S'royal institute for cultural heritage'
+p658
+g2
+(g6
+S'\xc4\x8a\xbdaf)\xc4?'
+p659
+tp660
+Rp661
+tp662
+a(S'notes on linguistics'
+p663
+g2
+(g6
+S'\xe7~\r\x97\x19\r\xc4?'
+p664
+tp665
+Rp666
+tp667
+a(S'2012\xe2\x80\x9313 sepahan f.c. season'
+p668
+g2
+(g6
+S'2\xfd\xf7 \xfe\xf8\xc3?'
+p669
+tp670
+Rp671
+tp672
+a(S'j strother moore'
+p673
+g2
+(g6
+S'\x00R\x07X\x1d\xf1\xc3?'
+p674
+tp675
+Rp676
+tp677
+a(S'association of architecture school librarians'
+p678
+g2
+(g6
+S'\xb4E\xefp7\xef\xc3?'
+p679
+tp680
+Rp681
+tp682
+a(S'panchanan mohanty'
+p683
+g2
+(g6
+S'\xa8\x8e\xe8\x86+\xef\xc3?'
+p684
+tp685
+Rp686
+tp687
+a(S'enry juan barale'
+p688
+g2
+(g6
+S'\xf3D\x9aY*\xee\xc3?'
+p689
+tp690
+Rp691
+tp692
+a(S'national institute on disability, independent living, and rehabilitation research'
+p693
+g2
+(g6
+S'\xe4\x04\xa6\x1aO\xed\xc3?'
+p694
+tp695
+Rp696
+tp697
+a(S'international society for computational biology'
+p698
+g2
+(g6
+S'sc\x98\xa8\xed\xde\xc3?'
+p699
+tp700
+Rp701
+tp702
+a(S'computational biology'
+p703
+g2
+(g6
+S'\x16\xe3"\xf6\xe5\xde\xc3?'
+p704
+tp705
+Rp706
+tp707
+a(S'keith reaser'
+p708
+g2
+(g6
+S'\x14W\x1cd\xc0\xd8\xc3?'
+p709
+tp710
+Rp711
+tp712
+a(S'negro factories corporation'
+p713
+g2
+(g6
+S'\xdd\xbd\x0bg#\xd2\xc3?'
+p714
+tp715
+Rp716
+tp717
+a(S'paris hamilton'
+p718
+g2
+(g6
+S'\xbd\x18\xab\xe6\x04\xd1\xc3?'
+p719
+tp720
+Rp721
+tp722
+a(S'mark fischer'
+p723
+g2
+(g6
+S'D2W|\xd2\xcf\xc3?'
+p724
+tp725
+Rp726
+tp727
+a(S'robert marve'
+p728
+g2
+(g6
+S'\x0e\xe7\x1as\x01\xbe\xc3?'
+p729
+tp730
+Rp731
+tp732
+a(S'drew carter'
+p733
+g2
+(g6
+S'\x1e\xb0\xd0\x7f\xd9\xba\xc3?'
+p734
+tp735
+Rp736
+tp737
+a(S'mat gamel'
+p738
+g2
+(g6
+S'\xdb\x84a\xb4\xf5\xb4\xc3?'
+p739
+tp740
+Rp741
+tp742
+a(S'david g. hays'
+p743
+g2
+(g6
+S'$B\x07nh\xaf\xc3?'
+p744
+tp745
+Rp746
+tp747
+a(S'electronic cultural atlas initiative'
+p748
+g2
+(g6
+S'0\x11\x85m\x01\xae\xc3?'
+p749
+tp750
+Rp751
+tp752
+a(S'acle railway station'
+p753
+g2
+(g6
+S'\xfavMr\xdd\xad\xc3?'
+p754
+tp755
+Rp756
+tp757
+a(S'andr\xc3\xa1s kornai'
+p758
+g2
+(g6
+S'}\xfe\xa2\x10\x0c\x9c\xc3?'
+p759
+tp760
+Rp761
+tp762
+a(S'dan kendra'
+p763
+g2
+(g6
+S'z&\x95|\x12v\xc3?'
+p764
+tp765
+Rp766
+tp767
+a(S'christian liberal alliance'
+p768
+g2
+(g6
+S'D\x1fz\x1a\xecl\xc3?'
+p769
+tp770
+Rp771
+tp772
+a(S'chetan ghimire'
+p773
+g2
+(g6
+S'\xe9\x81\xf3~\xe9g\xc3?'
+p774
+tp775
+Rp776
+tp777
+a(S'david andreoff evans'
+p778
+g2
+(g6
+S'!\xcd:\xd8\xdeY\xc3?'
+p779
+tp780
+Rp781
+tp782
+a(S'2009 j.league division 1'
+p783
+g2
+(g6
+S'\xffjO\xe3cO\xc3?'
+p784
+tp785
+Rp786
+tp787
+a(S'sports physical examination'
+p788
+g2
+(g6
+S'\xd3\xd7\x88\xd9\x12<\xc3?'
+p789
+tp790
+Rp791
+tp792
+a(S'james r. stewart'
+p793
+g2
+(g6
+S'\x91pMB1#\xc3?'
+p794
+tp795
+Rp796
+tp797
+a(S'ben ijalana'
+p798
+g2
+(g6
+S'\t<\xd5G\xcc\x1f\xc3?'
+p799
+tp800
+Rp801
+tp802
+a(S'linguistics association of great britain'
+p803
+g2
+(g6
+S'\x18t\x12\xf9_\x19\xc3?'
+p804
+tp805
+Rp806
+tp807
+a(S'studies in natural language processing'
+p808
+g2
+(g6
+S'R:\x12c\x12\x18\xc3?'
+p809
+tp810
+Rp811
+tp812
+a(S'julie croket'
+p813
+g2
+(g6
+S'Pq\xb9t(\x16\xc3?'
+p814
+tp815
+Rp816
+tp817
+a(S'annual conferences of the united methodist church'
+p818
+g2
+(g6
+S'n$\x93t\xfd\r\xc3?'
+p819
+tp820
+Rp821
+tp822
+a(S'jimmy hitchcock (cornerback)'
+p823
+g2
+(g6
+S'\xb7e!\x9c\x8f\x03\xc3?'
+p824
+tp825
+Rp826
+tp827
+a(S'encyclopedia of language and linguistics'
+p828
+g2
+(g6
+S'\xde\xe5\x8d\xaaO\x00\xc3?'
+p829
+tp830
+Rp831
+tp832
+a(S'robert ssejjemba'
+p833
+g2
+(g6
+S'8\x06\xaa\xe3Z\xeb\xc2?'
+p834
+tp835
+Rp836
+tp837
+a(S'dante fowler jr.'
+p838
+g2
+(g6
+S'\xf4\xff\xda\xa0\x19\xdc\xc2?'
+p839
+tp840
+Rp841
+tp842
+a(S'isabelle harrison'
+p843
+g2
+(g6
+S'g\xe9\xb0\xa4\xe8\xd7\xc2?'
+p844
+tp845
+Rp846
+tp847
+a(S'matthew scharenberg'
+p848
+g2
+(g6
+S'hA\xba\xe7\xd1\xc6\xc2?'
+p849
+tp850
+Rp851
+tp852
+a(S'tracy abrams'
+p853
+g2
+(g6
+S'\xf5\n\xd9\xe1\\\xc2\xc2?'
+p854
+tp855
+Rp856
+tp857
+a(S'queen of the mississippi (2017 ship)'
+p858
+g2
+(g6
+S'\x07\t\xfb\xaf\xc2\xbd\xc2?'
+p859
+tp860
+Rp861
+tp862
+a(S'greta small'
+p863
+g2
+(g6
+S'x\xa4H\x95\xae\xbb\xc2?'
+p864
+tp865
+Rp866
+tp867
+a(S'austin city limits'
+p868
+g2
+(g6
+S'\x81\x01\xe7\x0f\xe9\xac\xc2?'
+p869
+tp870
+Rp871
+tp872
+a(S'duke hashimoto'
+p873
+g2
+(g6
+S'\x7f\x8dJ\xc5}\xac\xc2?'
+p874
+tp875
+Rp876
+tp877
+a(S'australian computational and linguistics olympiad'
+p878
+g2
+(g6
+S'\x8a\xe4\t5\xf1\xa2\xc2?'
+p879
+tp880
+Rp881
+tp882
+a(S'victor raskin'
+p883
+g2
+(g6
+S'\xcd\xd7\xfd\x83\x8c\x9b\xc2?'
+p884
+tp885
+Rp886
+tp887
+a(S'shehzad ahmed'
+p888
+g2
+(g6
+S'C\xe0\xc2\x8e\xa2\x89\xc2?'
+p889
+tp890
+Rp891
+tp892
+a(S'ryan hancock'
+p893
+g2
+(g6
+S'\xc0\x0f\x95E:|\xc2?'
+p894
+tp895
+Rp896
+tp897
+a(S'jessica gaspar'
+p898
+g2
+(g6
+S'\xca\x08b\x17ks\xc2?'
+p899
+tp900
+Rp901
+tp902
+a(S'ocala union station'
+p903
+g2
+(g6
+S'u\xd5IT\xa8d\xc2?'
+p904
+tp905
+Rp906
+tp907
+a(S'beau muston'
+p908
+g2
+(g6
+S':\xa0\xf7\xa1\xa1Y\xc2?'
+p909
+tp910
+Rp911
+tp912
+a(S'language and communication technologies'
+p913
+g2
+(g6
+S'\xc5\x8dxl<;\xc2?'
+p914
+tp915
+Rp916
+tp917
+a(S'mitch golby'
+p918
+g2
+(g6
+S'[\x9b\xed\xbd\xd38\xc2?'
+p919
+tp920
+Rp921
+tp922
+a(S'scott scharff'
+p923
+g2
+(g6
+S'\xca\xe2H-\xd40\xc2?'
+p924
+tp925
+Rp926
+tp927
+a(S'2011 j.league division 1'
+p928
+g2
+(g6
+S't\x19\x1cw~0\xc2?'
+p929
+tp930
+Rp931
+tp932
+a(S'bryce retzlaff'
+p933
+g2
+(g6
+S'\x7f\xa3\xaa\xd4\\!\xc2?'
+p934
+tp935
+Rp936
+tp937
+a(S'zwiki'
+p938
+g2
+(g6
+S'x\x8f\xbb+\xbb\x15\xc2?'
+p939
+tp940
+Rp941
+tp942
+a(S'basel computational biology conference'
+p943
+g2
+(g6
+S'\xf6i\xd4xv\x14\xc2?'
+p944
+tp945
+Rp946
+tp947
+a(S'myrrhanda jones'
+p948
+g2
+(g6
+S'\x15\xc6\xe1\xb3 \x00\xc2?'
+p949
+tp950
+Rp951
+tp952
+a(S'terry beckner'
+p953
+g2
+(g6
+S'\xab\xe9\x9c\xb1I\xf9\xc1?'
+p954
+tp955
+Rp956
+tp957
+a(S'american linguistics'
+p958
+g2
+(g6
+S'@\xdf<3\xc7\xf7\xc1?'
+p959
+tp960
+Rp961
+tp962
+a(S'cody slate'
+p963
+g2
+(g6
+S'0{v\xf6l\xf6\xc1?'
+p964
+tp965
+Rp966
+tp967
+a(S'a. j. edds'
+p968
+g2
+(g6
+S'\xe3\x9c\xe0\xe0\xd2\xeb\xc1?'
+p969
+tp970
+Rp971
+tp972
+a(S'yatil green'
+p973
+g2
+(g6
+S'x\xfb\x9e:~\xeb\xc1?'
+p974
+tp975
+Rp976
+tp977
+a(S'eugene charniak'
+p978
+g2
+(g6
+S'\x03K\x86\xb2\xcd\xe4\xc1?'
+p979
+tp980
+Rp981
+tp982
+a(S'bridgeport hungaria'
+p983
+g2
+(g6
+S')\x0e\x0b\x99+\xe1\xc1?'
+p984
+tp985
+Rp986
+tp987
+a(S'lydia lassila'
+p988
+g2
+(g6
+S'\x8e]~\x17\xb8\xd9\xc1?'
+p989
+tp990
+Rp991
+tp992
+a(S'clinical linguistics'
+p993
+g2
+(g6
+S'IY\xfc\x89n\xd8\xc1?'
+p994
+tp995
+Rp996
+tp997
+a(S'lauren ervin'
+p998
+g2
+(g6
+S'\xf0\xf5\x13\xbe=\xd7\xc1?'
+p999
+tp1000
+Rp1001
+tp1002
+a(S'piek vossen'
+p1003
+g2
+(g6
+S'\x170\x15o\xb9\xce\xc1?'
+p1004
+tp1005
+Rp1006
+tp1007
+a(S'hans henrich hock'
+p1008
+g2
+(g6
+S'U\xe489\n\xad\xc1?'
+p1009
+tp1010
+Rp1011
+tp1012
+a(S'donna gerdts'
+p1013
+g2
+(g6
+S'\xc9{\nN\xe5\xab\xc1?'
+p1014
+tp1015
+Rp1016
+tp1017
+a(S'homeopathy plus!'
+p1018
+g2
+(g6
+S'\xe3h1(\x91\xa8\xc1?'
+p1019
+tp1020
+Rp1021
+tp1022
+a(S'mariela j\xc3\xa1come'
+p1023
+g2
+(g6
+S'\xbf\x08%{\xba\xa4\xc1?'
+p1024
+tp1025
+Rp1026
+tp1027
+a(S'old mount dora atlantic coast line railroad station'
+p1028
+g2
+(g6
+S'\x8dS\xe4s\x7f\xa0\xc1?'
+p1029
+tp1030
+Rp1031
+tp1032
+a(S'list of persepolis f.c. seasons'
+p1033
+g2
+(g6
+S'\xae\xce{\x1eF\x92\xc1?'
+p1034
+tp1035
+Rp1036
+tp1037
+a(S'charleston and western carolina railway'
+p1038
+g2
+(g6
+S'\xe9\x83\x08r\xd8\x8a\xc1?'
+p1039
+tp1040
+Rp1041
+tp1042
+a(S'byron w. bender'
+p1043
+g2
+(g6
+S'?2\xa2\x9f\xd7\x8a\xc1?'
+p1044
+tp1045
+Rp1046
+tp1047
+a(S'annia hatch'
+p1048
+g2
+(g6
+S'O\xbd\xa5I\xa7\x7f\xc1?'
+p1049
+tp1050
+Rp1051
+tp1052
+a(S'computational theology'
+p1053
+g2
+(g6
+S'\xef.\xaa\xbb ~\xc1?'
+p1054
+tp1055
+Rp1056
+tp1057
+a(S'michael witbrock'
+p1058
+g2
+(g6
+S'\x92\xf5k4\xabj\xc1?'
+p1059
+tp1060
+Rp1061
+tp1062
+a(S'antun kovacic'
+p1063
+g2
+(g6
+S'\x18I\xaa1\x1fh\xc1?'
+p1064
+tp1065
+Rp1066
+tp1067
+a(S'luke spencer (soccer)'
+p1068
+g2
+(g6
+S'\x82)\x86\x02\xa0G\xc1?'
+p1069
+tp1070
+Rp1071
+tp1072
+a(S'computational economics'
+p1073
+g2
+(g6
+S'\xc9\x89\xed\xc6\xe6F\xc1?'
+p1074
+tp1075
+Rp1076
+tp1077
+a(S'larry trask'
+p1078
+g2
+(g6
+S'H(\xcc\xechE\xc1?'
+p1079
+tp1080
+Rp1081
+tp1082
+a(S'adam hinshelwood'
+p1083
+g2
+(g6
+S'\x88i[\xe2\x11:\xc1?'
+p1084
+tp1085
+Rp1086
+tp1087
+a(S'declaration of the rights of the negro peoples of the world'
+p1088
+g2
+(g6
+S'vo\x13\x06\xfb0\xc1?'
+p1089
+tp1090
+Rp1091
+tp1092
+a(S'lucas pantelis'
+p1093
+g2
+(g6
+S'\xb1\x89\xe0R%$\xc1?'
+p1094
+tp1095
+Rp1096
+tp1097
+a(S'linda s\xc3\xa4llstr\xc3\xb6m'
+p1098
+g2
+(g6
+S'9 \xa7\xa1\xd6\x1e\xc1?'
+p1099
+tp1100
+Rp1101
+tp1102
+a(S'adam kieft'
+p1103
+g2
+(g6
+S'\xd5\xe6*\xddY\x14\xc1?'
+p1104
+tp1105
+Rp1106
+tp1107
+a(S'winter park station'
+p1108
+g2
+(g6
+S'\xdc\x07\xe1\x14\x91\x13\xc1?'
+p1109
+tp1110
+Rp1111
+tp1112
+a(S'henriette gezundhajt'
+p1113
+g2
+(g6
+S'\xc9\xd6\xf1w\xc7\x0c\xc1?'
+p1114
+tp1115
+Rp1116
+tp1117
+a(S'olga strazheva'
+p1118
+g2
+(g6
+S'#H\xe4\x9c\x86\x05\xc1?'
+p1119
+tp1120
+Rp1121
+tp1122
+a(S'paul b. coremans'
+p1123
+g2
+(g6
+S'\xb8\xf0\xefw3\x00\xc1?'
+p1124
+tp1125
+Rp1126
+tp1127
+a(S'dan roth'
+p1128
+g2
+(g6
+S'E\xee9\xc8\x1e\xf9\xc0?'
+p1129
+tp1130
+Rp1131
+tp1132
+a(S'niutrans'
+p1133
+g2
+(g6
+S'\xa1\xcb\x07\x033\xf2\xc0?'
+p1134
+tp1135
+Rp1136
+tp1137
+a(S'foundations of computational mathematics'
+p1138
+g2
+(g6
+S'BSw&\xb9\xf1\xc0?'
+p1139
+tp1140
+Rp1141
+tp1142
+a(S'research in computational molecular biology'
+p1143
+g2
+(g6
+S'TL\x9d\xda\x1c\xf1\xc0?'
+p1144
+tp1145
+Rp1146
+tp1147
+a(S'belfield-emporia historic district'
+p1148
+g2
+(g6
+S')\x1d\x98,\xa9\xec\xc0?'
+p1149
+tp1150
+Rp1151
+tp1152
+a(S'richard hadley'
+p1153
+g2
+(g6
+S'0\xe8hk\x82\xe4\xc0?'
+p1154
+tp1155
+Rp1156
+tp1157
+a(S'rebecca greenwell'
+p1158
+g2
+(g6
+S'\xd5Di"\x85\xdc\xc0?'
+p1159
+tp1160
+Rp1161
+tp1162
+a(S'progresso da lunda sul'
+p1163
+g2
+(g6
+S'U\x17\xaf\xf2,\xd0\xc0?'
+p1164
+tp1165
+Rp1166
+tp1167
+a(S'computational mathematics'
+p1168
+g2
+(g6
+S'RFM\x9d\t\xca\xc0?'
+p1169
+tp1170
+Rp1171
+tp1172
+a(S'tcp wrapper'
+p1173
+g2
+(g6
+S'6b\x88\xcf\xf8\xc8\xc0?'
+p1174
+tp1175
+Rp1176
+tp1177
+a(S'k\xc3\xa9vin oliveira'
+p1178
+g2
+(g6
+S'\x02\x92\xed\x80,\xc8\xc0?'
+p1179
+tp1180
+Rp1181
+tp1182
+a(S'derek buttles'
+p1183
+g2
+(g6
+S'\x1a@\xa1\x88B\xc2\xc0?'
+p1184
+tp1185
+Rp1186
+tp1187
+a(S'keith brown (linguist)'
+p1188
+g2
+(g6
+S'\xfb\xe4f=\xe2\xbd\xc0?'
+p1189
+tp1190
+Rp1191
+tp1192
+a(S'generalized ttl security mechanism'
+p1193
+g2
+(g6
+S'\xd5"\x8c=A\xbc\xc0?'
+p1194
+tp1195
+Rp1196
+tp1197
+a(S'western conference'
+p1198
+g2
+(g6
+S'\xa7\x88u\xa6\xe5\xaa\xc0?'
+p1199
+tp1200
+Rp1201
+tp1202
+a(S'jason richards (basketball)'
+p1203
+g2
+(g6
+S'@\x9f\xb3.\x0c\xa6\xc0?'
+p1204
+tp1205
+Rp1206
+tp1207
+a(S'computational physics'
+p1208
+g2
+(g6
+S'+\xb4\xc3f\xcf\xa3\xc0?'
+p1209
+tp1210
+Rp1211
+tp1212
+a(S'daisuke asahi'
+p1213
+g2
+(g6
+S'\xb0e\x01*\xcb\x94\xc0?'
+p1214
+tp1215
+Rp1216
+tp1217
+a(S'page (surname)'
+p1218
+g2
+(g6
+S'y\xa2\x9a\xa0C\x8d\xc0?'
+p1219
+tp1220
+Rp1221
+tp1222
+a(S'jussi karlgren'
+p1223
+g2
+(g6
+S'\x17N\xc5@\xca\x87\xc0?'
+p1224
+tp1225
+Rp1226
+tp1227
+a(S'home page (disambiguation)'
+p1228
+g2
+(g6
+S'\xfe\xd5/~\xd2\x83\xc0?'
+p1229
+tp1230
+Rp1231
+tp1232
+a(S'itl \xe2\x80\x93 international journal of applied linguistics'
+p1233
+g2
+(g6
+S'\xa9O\xbdj\x9e\x83\xc0?'
+p1234
+tp1235
+Rp1236
+tp1237
+a(S'programming language design and implementation'
+p1238
+g2
+(g6
+S'u\xf0\x11\xc2yz\xc0?'
+p1239
+tp1240
+Rp1241
+tp1242
+a(S'civsa'
+p1243
+g2
+(g6
+S'\x18\nc\xdd=z\xc0?'
+p1244
+tp1245
+Rp1246
+tp1247
+a(S'international association for philosophy and literature'
+p1248
+g2
+(g6
+S'\xd5e|@\x07w\xc0?'
+p1249
+tp1250
+Rp1251
+tp1252
+a(S'uzi landman'
+p1253
+g2
+(g6
+S'Zy\x8d=\x08v\xc0?'
+p1254
+tp1255
+Rp1256
+tp1257
+a(S'wagr adh class'
+p1258
+g2
+(g6
+S',\xceA\x15\x96r\xc0?'
+p1259
+tp1260
+Rp1261
+tp1262
+a(S'atl\xc3\xa9tico petr\xc3\xb3leos do namibe'
+p1263
+g2
+(g6
+S'I\xcdh\xf6Vo\xc0?'
+p1264
+tp1265
+Rp1266
+tp1267
+a(S'quanterus smith'
+p1268
+g2
+(g6
+S'C\x98\xe0fBn\xc0?'
+p1269
+tp1270
+Rp1271
+tp1272
+a(S'david dodd (footballer)'
+p1273
+g2
+(g6
+S'i\xd1\xe0\x8a\xfbk\xc0?'
+p1274
+tp1275
+Rp1276
+tp1277
+a(S'index of cognitive science articles'
+p1278
+g2
+(g6
+S'X\x1e\xc9\xe0\x0bi\xc0?'
+p1279
+tp1280
+Rp1281
+tp1282
+a(S'computational thinking'
+p1283
+g2
+(g6
+S'4\x00\x88\xf5\ti\xc0?'
+p1284
+tp1285
+Rp1286
+tp1287
+a(S'international society for the linguistics of english'
+p1288
+g2
+(g6
+S'\xbd\x12\x06f\ti\xc0?'
+p1289
+tp1290
+Rp1291
+tp1292
+a(S'semantic analysis (computational)'
+p1293
+g2
+(g6
+S"$.\x16'\xddd\xc0?"
+p1294
+tp1295
+Rp1296
+tp1297
+a(S'kristin thornton'
+p1298
+g2
+(g6
+S'l\x87\x8b\xdc\xa4d\xc0?'
+p1299
+tp1300
+Rp1301
+tp1302
+a(S'esperion therapeutics'
+p1303
+g2
+(g6
+S'A!\x99\x1f\x80`\xc0?'
+p1304
+tp1305
+Rp1306
+tp1307
+a(S'dusty dvoracek'
+p1308
+g2
+(g6
+S'\x1f(\xd1)tY\xc0?'
+p1309
+tp1310
+Rp1311
+tp1312
+a(S'proteus conversational interface'
+p1313
+g2
+(g6
+S'\x9c\xb5ENrR\xc0?'
+p1314
+tp1315
+Rp1316
+tp1317
+a(S'sarah bouhaddi'
+p1318
+g2
+(g6
+S'\xc7\xebZ.\xbdL\xc0?'
+p1319
+tp1320
+Rp1321
+tp1322
+a(S'graeme davis (mediaevalist)'
+p1323
+g2
+(g6
+S'\xd8M\xa1\xca\x15I\xc0?'
+p1324
+tp1325
+Rp1326
+tp1327
+a(S'moscow student conference on linguistics'
+p1328
+g2
+(g6
+S'\x9c%\x93\x92\x8dH\xc0?'
+p1329
+tp1330
+Rp1331
+tp1332
+a(S'tony wroten'
+p1333
+g2
+(g6
+S'WYB\xd4\xabA\xc0?'
+p1334
+tp1335
+Rp1336
+tp1337
+a(S'svenja adolphs'
+p1338
+g2
+(g6
+S'@\x81Y|\x138\xc0?'
+p1339
+tp1340
+Rp1341
+tp1342
+a(S'journal of english linguistics'
+p1343
+g2
+(g6
+S'f\xbe\xeb\xf4#7\xc0?'
+p1344
+tp1345
+Rp1346
+tp1347
+a(S'dan klein'
+p1348
+g2
+(g6
+S'\xe1\xc5\x9a\x9e8!\xc0?'
+p1349
+tp1350
+Rp1351
+tp1352
+a(S'computational resource'
+p1353
+g2
+(g6
+S'H\x1d\\g} \xc0?'
+p1354
+tp1355
+Rp1356
+tp1357
+a(S'hayley mccall'
+p1358
+g2
+(g6
+S'\x0f\xf9\xc9\xb8B\x17\xc0?'
+p1359
+tp1360
+Rp1361
+tp1362
+a(S'susan hunston'
+p1363
+g2
+(g6
+S'`\xff\x0f\xb3\xe5\x10\xc0?'
+p1364
+tp1365
+Rp1366
+tp1367
+a(S'john goldsmith (linguist)'
+p1368
+g2
+(g6
+S'\x14\xd6\xdbF\x90\x0f\xc0?'
+p1369
+tp1370
+Rp1371
+tp1372
+a(S'rare books and manuscripts section'
+p1373
+g2
+(g6
+S'B-LY\xd2\x0e\xc0?'
+p1374
+tp1375
+Rp1376
+tp1377
+a(S'american cruise lines'
+p1378
+g2
+(g6
+S'\x07+5\xb8A\n\xc0?'
+p1379
+tp1380
+Rp1381
+tp1382
+a(S'2013 j.league division 1'
+p1383
+g2
+(g6
+S'\xee`I\x05\xb7\x00\xc0?'
+p1384
+tp1385
+Rp1386
+tp1387
+a(S'hans brase'
+p1388
+g2
+(g6
+S'\x14S\x8drj\xf3\xbf?'
+p1389
+tp1390
+Rp1391
+tp1392
+a(S'art libraries society of north america'
+p1393
+g2
+(g6
+S'=\xec\xd3\xc7\xd8\xeb\xbf?'
+p1394
+tp1395
+Rp1396
+tp1397
+a(S'association qu\xc3\xa9b\xc3\xa9coise de linguistique'
+p1398
+g2
+(g6
+S'\xde\x02E\x89Z\xeb\xbf?'
+p1399
+tp1400
+Rp1401
+tp1402
+a(S'fil file'
+p1403
+g2
+(g6
+S'K\xa0\x96K\xb3\xe9\xbf?'
+p1404
+tp1405
+Rp1406
+tp1407
+a(S'computational chemistry list'
+p1408
+g2
+(g6
+S'r>\x14w;\xdb\xbf?'
+p1409
+tp1410
+Rp1411
+tp1412
+a(S'american aging association'
+p1413
+g2
+(g6
+S'\x82tB\xec\x1b\xd2\xbf?'
+p1414
+tp1415
+Rp1416
+tp1417
+a(S'2007 sun bowl'
+p1418
+g2
+(g6
+S'\xd9r\xd0L\xd5\xcb\xbf?'
+p1419
+tp1420
+Rp1421
+tp1422
+a(S'csx a-line bridge'
+p1423
+g2
+(g6
+S'wf\xd8\xab\x1d\xc9\xbf?'
+p1424
+tp1425
+Rp1426
+tp1427
+a(S'ian sangalang'
+p1428
+g2
+(g6
+S'\x03g\xafr{\xbd\xbf?'
+p1429
+tp1430
+Rp1431
+tp1432
+a(S'microlinguistics'
+p1433
+g2
+(g6
+S'W;\xc7\xbf\x1c\xa2\xbf?'
+p1434
+tp1435
+Rp1436
+tp1437
+a(S'research institute for linguistics of the hungarian academy of sciences'
+p1438
+g2
+(g6
+S'\xb7\x8c\x01wD\x99\xbf?'
+p1439
+tp1440
+Rp1441
+tp1442
+a(S'unhappy triad'
+p1443
+g2
+(g6
+S'VA\xdb\xb2\xdd\x92\xbf?'
+p1444
+tp1445
+Rp1446
+tp1447
+a(S'claire rafferty'
+p1448
+g2
+(g6
+S'\xb7_h\xc1\xcd\x8a\xbf?'
+p1449
+tp1450
+Rp1451
+tp1452
+a(S'jalan west'
+p1453
+g2
+(g6
+S'\xa0\xd5\x04\xb5\xda\x88\xbf?'
+p1454
+tp1455
+Rp1456
+tp1457
+a(S'scott evans (lacrosse)'
+p1458
+g2
+(g6
+S'S\xdffg\x9a\x88\xbf?'
+p1459
+tp1460
+Rp1461
+tp1462
+a(S'media linguistics'
+p1463
+g2
+(g6
+S'\x9e*E\x99l\x83\xbf?'
+p1464
+tp1465
+Rp1466
+tp1467
+a(S'brandon john'
+p1468
+g2
+(g6
+S'\x12\xc3!\xe8\xdc\x80\xbf?'
+p1469
+tp1470
+Rp1471
+tp1472
+a(S"blumensaat's line"
+p1473
+g2
+(g6
+S'\x99\x1a\xcdo\xb9\x7f\xbf?'
+p1474
+tp1475
+Rp1476
+tp1477
+a(S'ahmed ali kamel'
+p1478
+g2
+(g6
+S'\xc8\xe4\x11*vx\xbf?'
+p1479
+tp1480
+Rp1481
+tp1482
+a(S'liberal youth england'
+p1483
+g2
+(g6
+S'\x18\xd43F(p\xbf?'
+p1484
+tp1485
+Rp1486
+tp1487
+a(S'alec gibson'
+p1488
+g2
+(g6
+S'\xd6\x9b\xab\xd3\xd8n\xbf?'
+p1489
+tp1490
+Rp1491
+tp1492
+a(S'roy walton'
+p1493
+g2
+(g6
+S'CR\xfbi\xbd]\xbf?'
+p1494
+tp1495
+Rp1496
+tp1497
+a(S'alex grendi'
+p1498
+g2
+(g6
+S'\x8c\x04\xe8\xab\xf6D\xbf?'
+p1499
+tp1500
+Rp1501
+tp1502
+a(S'symposium on computational geometry'
+p1503
+g2
+(g6
+S'\xa9\x0e\xf6y\xaa5\xbf?'
+p1504
+tp1505
+Rp1506
+tp1507
+a(S'central conferences (united methodist church)'
+p1508
+g2
+(g6
+S'GH\xdaKj#\xbf?'
+p1509
+tp1510
+Rp1511
+tp1512
+a.

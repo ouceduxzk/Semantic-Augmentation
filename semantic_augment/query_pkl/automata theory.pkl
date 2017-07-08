@@ -1,0 +1,2728 @@
+(lp0
+(S'automata theory'
+p1
+cnumpy.core.multiarray
+scalar
+p2
+(cnumpy
+dtype
+p3
+(S'f8'
+p4
+I0
+I1
+tp5
+Rp6
+(I3
+S'<'
+p7
+NNNI-1
+I-1
+I0
+tp8
+bS'\xfc\xff\xff\xff\xff\xff\xef?'
+p9
+tp10
+Rp11
+tp12
+a(S'b\xc3\xbcchi automaton'
+p13
+g2
+(g6
+S'J\x99\xcd\xden%\xec?'
+p14
+tp15
+Rp16
+tp17
+a(S'automaton (disambiguation)'
+p18
+g2
+(g6
+S'\x9a4y\\(\xd4\xea?'
+p19
+tp20
+Rp21
+tp22
+a(S'\xce\xa9-automaton'
+p23
+g2
+(g6
+S'7\x80\x8a\xd8\xa7"\xea?'
+p24
+tp25
+Rp26
+tp27
+a(S'automata construction'
+p28
+g2
+(g6
+S'\x08\x81\xadb>\x0b\xea?'
+p29
+tp30
+Rp31
+tp32
+a(S'co-b\xc3\xbcchi automaton'
+p33
+g2
+(g6
+S'\xe0h\xd4~\x02\xf1\xe9?'
+p34
+tp35
+Rp36
+tp37
+a(S'permutation automaton'
+p38
+g2
+(g6
+S's[\xb6:\x12\x8f\xe9?'
+p39
+tp40
+Rp41
+tp42
+a(S"maillardet's automaton"
+p43
+g2
+(g6
+S'\xce\xc5\xe0)\xc1F\xe9?'
+p44
+tp45
+Rp46
+tp47
+a(S'tree automaton'
+p48
+g2
+(g6
+S'\xb8"\xf6\xc2\x93\xaa\xe8?'
+p49
+tp50
+Rp51
+tp52
+a(S'weak b\xc3\xbcchi automaton'
+p53
+g2
+(g6
+S'\xa2?\x9a1X\xa1\xe8?'
+p54
+tp55
+Rp56
+tp57
+a(S'deterministic automaton'
+p58
+g2
+(g6
+S'\xee/\xf3v\xb3\x8b\xe8?'
+p59
+tp60
+Rp61
+tp62
+a(S'muller automaton'
+p63
+g2
+(g6
+S'4o\r\xae\xd8K\xe8?'
+p64
+tp65
+Rp66
+tp67
+a(S'movable cellular automaton'
+p68
+g2
+(g6
+S'\xa6r\xc35\xe9-\xe8?'
+p69
+tp70
+Rp71
+tp72
+a(S'henri maillardet'
+p73
+g2
+(g6
+S'\xafE\xdc\xa8\xa8\xd2\xe7?'
+p74
+tp75
+Rp76
+tp77
+a(S'reversible cellular automaton'
+p78
+g2
+(g6
+S'\xd6W\xdd\x93Rc\xe7?'
+p79
+tp80
+Rp81
+tp82
+a(S'second-order cellular automaton'
+p83
+g2
+(g6
+S'\x06\xe9\xa6L8(\xe7?'
+p84
+tp85
+Rp86
+tp87
+a(S'levenshtein automaton'
+p88
+g2
+(g6
+S'\xf6\xf3\xad\r\x98\x18\xe7?'
+p89
+tp90
+Rp91
+tp92
+a(S'learning automata'
+p93
+g2
+(g6
+S'\xfcL\x1b:\x9f\xff\xe6?'
+p94
+tp95
+Rp96
+tp97
+a(S'aperiodic finite state automaton'
+p98
+g2
+(g6
+S'\xf6&Uc\x88\xa6\xe6?'
+p99
+tp100
+Rp101
+tp102
+a(S'counter automaton'
+p103
+g2
+(g6
+S'^\x95\x05\xef\x12\x92\xe6?'
+p104
+tp105
+Rp106
+tp107
+a(S'two-way deterministic finite automaton'
+p108
+g2
+(g6
+S'\xcd\xe3c\xc2\xd3x\xe6?'
+p109
+tp110
+Rp111
+tp112
+a(S'induction of regular languages'
+p113
+g2
+(g6
+S'\xcb\x13\\\xf4\x17s\xe6?'
+p114
+tp115
+Rp116
+tp117
+a(S'network automaton'
+p118
+g2
+(g6
+S's|W\x02m8\xe6?'
+p119
+tp120
+Rp121
+tp122
+a(S'input/output automaton'
+p123
+g2
+(g6
+S'\xe41~\xfc\xce0\xe6?'
+p124
+tp125
+Rp126
+tp127
+a(S'automaton'
+p128
+g2
+(g6
+S'\xaa\x03<n\xb8 \xe6?'
+p129
+tp130
+Rp131
+tp132
+a(S'pushdown automaton'
+p133
+g2
+(g6
+S'\x113\x11l\x86\xd5\xe5?'
+p134
+tp135
+Rp136
+tp137
+a(S'quantum finite automata'
+p138
+g2
+(g6
+S'\xe4\xd3(\xfeb\x0e\xe5?'
+p139
+tp140
+Rp141
+tp142
+a(S'infinite tree automaton'
+p143
+g2
+(g6
+S'j\xc0\x90b:\xe4\xe4?'
+p144
+tp145
+Rp146
+tp147
+a(S'generalized b\xc3\xbcchi automaton'
+p148
+g2
+(g6
+S'\xa7\xec\xac\x14\n\xc4\xe4?'
+p149
+tp150
+Rp151
+tp152
+a(S'timed automaton'
+p153
+g2
+(g6
+S'T\xd6\x00`\x7f\x92\xe4?'
+p154
+tp155
+Rp156
+tp157
+a(S'automata-based programming'
+p158
+g2
+(g6
+S'\x98\xfce\x8f\x88a\xe4?'
+p159
+tp160
+Rp161
+tp162
+a(S'streett'
+p163
+g2
+(g6
+S'\x83\xc4\xe32\x9eS\xe4?'
+p164
+tp165
+Rp166
+tp167
+a(S'jflap'
+p168
+g2
+(g6
+S'\x1dm\xd5s\x0e\x1e\xe4?'
+p169
+tp170
+Rp171
+tp172
+a(S'unambiguous finite automaton'
+p173
+g2
+(g6
+S'R\x10W\x0e\xb3\xa9\xe3?'
+p174
+tp175
+Rp176
+tp177
+a(S'tree walking automaton'
+p178
+g2
+(g6
+S'E\xa3\xa6\x1e\xbf\xa8\xe3?'
+p179
+tp180
+Rp181
+tp182
+a(S"glushkov's construction algorithm"
+p183
+g2
+(g6
+S'\x95\xe1\xe2\xe5\t\xa4\xe3?'
+p184
+tp185
+Rp186
+tp187
+a(S'cyclic cellular automaton'
+p188
+g2
+(g6
+S'\x01,\xe5\xbc\xab\x81\xe3?'
+p189
+tp190
+Rp191
+tp192
+a(S'mobile automaton'
+p193
+g2
+(g6
+S'bir\xee\xc2;\xe3?'
+p194
+tp195
+Rp196
+tp197
+a(S'cellular automaton'
+p198
+g2
+(g6
+S'\x87\x9au=\xd8\r\xe3?'
+p199
+tp200
+Rp201
+tp202
+a(S'probabilistic automaton'
+p203
+g2
+(g6
+S'q\x9c\x8ee\xf8\xf3\xe2?'
+p204
+tp205
+Rp206
+tp207
+a(S'alternating finite automaton'
+p208
+g2
+(g6
+S'\x94\xa5r\xe1M\xdb\xe2?'
+p209
+tp210
+Rp211
+tp212
+a(S'blaise bontems'
+p213
+g2
+(g6
+S'\xfb\xfa\xaf\xab\xd4\x9b\xe2?'
+p214
+tp215
+Rp216
+tp217
+a(S'quotient automaton'
+p218
+g2
+(g6
+S'?h\x89/\xa3\x18\xe2?'
+p219
+tp220
+Rp221
+tp222
+a(S"mcnaughton's theorem"
+p223
+g2
+(g6
+S'\xf0w\xcb\xaa!\xe6\xe1?'
+p224
+tp225
+Rp226
+tp227
+a(S'block cellular automaton'
+p228
+g2
+(g6
+S'\x8azy\xe0\xc7\xe3\xe1?'
+p229
+tp230
+Rp231
+tp232
+a(S'pebble automaton'
+p233
+g2
+(g6
+S'H0\xe6\xff@\xb8\xe1?'
+p234
+tp235
+Rp236
+tp237
+a(S'separating words problem'
+p238
+g2
+(g6
+S'\x99\xd8\xff4e\x86\xe1?'
+p239
+tp240
+Rp241
+tp242
+a(S'linear bounded automaton'
+p243
+g2
+(g6
+S'\x97\x16\x17\x0eGw\xe1?'
+p244
+tp245
+Rp246
+tp247
+a(S'deterministic finite automaton'
+p248
+g2
+(g6
+S"u\xcf\xaf%'F\xe1?"
+p249
+tp250
+Rp251
+tp252
+a(S'automata (disambiguation)'
+p253
+g2
+(g6
+S"\x9b\xa2\x84\xab\xfc'\xe1?"
+p254
+tp255
+Rp256
+tp257
+a(S'curtis\xe2\x80\x93hedlund\xe2\x80\x93lyndon theorem'
+p258
+g2
+(g6
+S'\x8d\xe1`\x8a\xf3\xcb\xe0?'
+p259
+tp260
+Rp261
+tp262
+a(S'gugusse and the automaton'
+p263
+g2
+(g6
+S'PH\x9c\xb1\x95\xc9\xe0?'
+p264
+tp265
+Rp266
+tp267
+a(S'el ajedrecista'
+p268
+g2
+(g6
+S'\x92\xfc[AY\xc4\xe0?'
+p269
+tp270
+Rp271
+tp272
+a(S'constraint automaton'
+p273
+g2
+(g6
+S'\x1a\x8e\x1e\xb6\x8eG\xe0?'
+p274
+tp275
+Rp276
+tp277
+a(S'replicator (cellular automaton)'
+p278
+g2
+(g6
+S'\x1c5\x8b\xce\x08\xf0\xdf?'
+p279
+tp280
+Rp281
+tp282
+a(S'garden of eden (cellular automaton)'
+p283
+g2
+(g6
+S'\xfd\xf6b\x81%\xc0\xdf?'
+p284
+tp285
+Rp286
+tp287
+a(S'nested stack automaton'
+p288
+g2
+(g6
+S'[\xe6\xd6\xa6X\x9e\xdf?'
+p289
+tp290
+Rp291
+tp292
+a(S'hybrid automaton'
+p293
+g2
+(g6
+S'\x15\r"\x87\xdf\x1b\xdf?'
+p294
+tp295
+Rp296
+tp297
+a(S'continuous automaton'
+p298
+g2
+(g6
+S'lB;+\x9b\xd6\xde?'
+p299
+tp300
+Rp301
+tp302
+a(S'norman margolus'
+p303
+g2
+(g6
+S'\x86\x9b\x89\xe9"\xd5\xde?'
+p304
+tp305
+Rp306
+tp307
+a(S'semi-deterministic b\xc3\xbcchi automaton'
+p308
+g2
+(g6
+S'\xc5\x87O\xa4\xea\xd0\xde?'
+p309
+tp310
+Rp311
+tp312
+a(S'computation history'
+p313
+g2
+(g6
+S'\x7f\xb16/\xb0\x8e\xdd?'
+p314
+tp315
+Rp316
+tp317
+a(S'suffix automaton'
+p318
+g2
+(g6
+S'Pm\x89>\x10\x01\xdd?'
+p319
+tp320
+Rp321
+tp322
+a(S"byl's loop"
+p323
+g2
+(g6
+S'\xa8 r\x16\xc4\xda\xdc?'
+p324
+tp325
+Rp326
+tp327
+a(S"automata-based programming (shalyto's approach)"
+p328
+g2
+(g6
+S'\xc6A\x0br\x81P\xdc?'
+p329
+tp330
+Rp331
+tp332
+a(S'automaton clock'
+p333
+g2
+(g6
+S'X\x88^\x1bbI\xdc?'
+p334
+tp335
+Rp336
+tp337
+a(S'life-like cellular automaton'
+p338
+g2
+(g6
+S'\x0f\x0f\xb3H\xb27\xdc?'
+p339
+tp340
+Rp341
+tp342
+a(S'majority problem (cellular automaton)'
+p343
+g2
+(g6
+S'\xa6\xc7\xd9\x08\xdaO\xdb?'
+p344
+tp345
+Rp346
+tp347
+a(S'buchi'
+p348
+g2
+(g6
+S'\xac\x0e<^\xec\xda\xda?'
+p349
+tp350
+Rp351
+tp352
+a(S'list of computability and complexity topics'
+p353
+g2
+(g6
+S'\x14\xfd\x9d\xf0\x9bz\xda?'
+p354
+tp355
+Rp356
+tp357
+a(S'stochastic cellular automaton'
+p358
+g2
+(g6
+S'\t\x90r\n\xf6f\xda?'
+p359
+tp360
+Rp361
+tp362
+a(S'deterministic pushdown automaton'
+p363
+g2
+(g6
+S'\xb0 \x1e\x063\xe1\xd9?'
+p364
+tp365
+Rp366
+tp367
+a(S'omega-regular language'
+p368
+g2
+(g6
+S'R\x93\x1f%\x1c\xbb\xd9?'
+p369
+tp370
+Rp371
+tp372
+a(S'krohn\xe2\x80\x93rhodes theory'
+p373
+g2
+(g6
+S'\xb86\n\x02}\xb1\xd9?'
+p374
+tp375
+Rp376
+tp377
+a(S'jacquemart (bellstriker)'
+p378
+g2
+(g6
+S'\xf2\xa4\x0c\xf0\x84\x80\xd9?'
+p379
+tp380
+Rp381
+tp382
+a(S'the invention of hugo cabret'
+p383
+g2
+(g6
+S'&V\x9c\x1e\xc1N\xd9?'
+p384
+tp385
+Rp386
+tp387
+a(S'quantum cellular automaton'
+p388
+g2
+(g6
+S'?\x99e\xcb\xe59\xd9?'
+p389
+tp390
+Rp391
+tp392
+a(S'myhill\xe2\x80\x93nerode theorem'
+p393
+g2
+(g6
+S':\xf9@\xee\xe10\xd9?'
+p394
+tp395
+Rp396
+tp397
+a(S'generalized nondeterministic finite automaton'
+p398
+g2
+(g6
+S',\x04\x04Z\x98\x11\xd9?'
+p399
+tp400
+Rp401
+tp402
+a(S'rule 90'
+p403
+g2
+(g6
+S'\x90A\x00\xfa\xf2V\xd8?'
+p404
+tp405
+Rp406
+tp407
+a(S'innocenzo manzetti'
+p408
+g2
+(g6
+S'$\xba8\x81\xc96\xd8?'
+p409
+tp410
+Rp411
+tp412
+a(S'wolfram code'
+p413
+g2
+(g6
+S'\xa1\xae\x16\xce\xdc \xd8?'
+p414
+tp415
+Rp416
+tp417
+a(S'thread automaton'
+p418
+g2
+(g6
+S'\x96\xda\xb4\xf0\x99\x10\xd8?'
+p419
+tp420
+Rp421
+tp422
+a(S'automaton transfusion'
+p423
+g2
+(g6
+S'\xca\xda\x84B\xfd\xdb\xd7?'
+p424
+tp425
+Rp426
+tp427
+a(S'jaquet-droz automata'
+p428
+g2
+(g6
+S'\x17\x99\x8a7\xf5\xcc\xd7?'
+p429
+tp430
+Rp431
+tp432
+a(S'regular language'
+p433
+g2
+(g6
+S'\x01c\xe5s-\xc4\xd7?'
+p434
+tp435
+Rp436
+tp437
+a(S'surjunctive group'
+p438
+g2
+(g6
+S'd\x1a\x10\xa0\x94\xb3\xd7?'
+p439
+tp440
+Rp441
+tp442
+a(S'julius richard b\xc3\xbcchi'
+p443
+g2
+(g6
+S'o\xe5\xeclA\x94\xd7?'
+p444
+tp445
+Rp446
+tp447
+a(S'read-only turing machine'
+p448
+g2
+(g6
+S'dR\x197\x8bF\xd7?'
+p449
+tp450
+Rp451
+tp452
+a(S'nfta'
+p453
+g2
+(g6
+S'\x92F\xa3\xfd\t\xec\xd6?'
+p454
+tp455
+Rp456
+tp457
+a(S'enigmarelle'
+p458
+g2
+(g6
+S'6\x03I\x8b%\xe7\xd6?'
+p459
+tp460
+Rp461
+tp462
+a(S'redos'
+p463
+g2
+(g6
+S'\xb5H\x8b>D\xc3\xd6?'
+p464
+tp465
+Rp466
+tp467
+a(S'sheila greibach'
+p468
+g2
+(g6
+S'\xa0Y;WW|\xd6?'
+p469
+tp470
+Rp471
+tp472
+a(S'theory of computation'
+p473
+g2
+(g6
+S'\xf1\xa1\xc9\xcc\xdbz\xd6?'
+p474
+tp475
+Rp476
+tp477
+a(S'automata uk'
+p478
+g2
+(g6
+S'l\xe4\xce\xb8\xbb!\xd6?'
+p479
+tp480
+Rp481
+tp482
+a(S'tree stack automaton'
+p483
+g2
+(g6
+S'\xd92`$\x12\x0b\xd6?'
+p484
+tp485
+Rp486
+tp487
+a(S'finite-state transducer'
+p488
+g2
+(g6
+S'\xe9\xb9\xc6v\xed\xf3\xd5?'
+p489
+tp490
+Rp491
+tp492
+a(S'nondeterministic finite automaton'
+p493
+g2
+(g6
+S'\xec\xfe\x85\xb0u\xd2\xd5?'
+p494
+tp495
+Rp496
+tp497
+a(S'finite-state machine'
+p498
+g2
+(g6
+S'\xb6\xa2\xc9\xdf\xec\xc1\xd5?'
+p499
+tp500
+Rp501
+tp502
+a(S'rule 184'
+p503
+g2
+(g6
+S'?\xb7\x9f\x15\x15\x87\xd5?'
+p504
+tp505
+Rp506
+tp507
+a(S'deterministic context-free language'
+p508
+g2
+(g6
+S'\xc5\xa3\xef:\xc0s\xd5?'
+p509
+tp510
+Rp511
+tp512
+a(S'nested word'
+p513
+g2
+(g6
+S'\xbf\x82W\xf9\x93g\xd5?'
+p514
+tp515
+Rp516
+tp517
+a(S'juanelo turriano'
+p518
+g2
+(g6
+S'\xa3Hq\x08\xa6_\xd5?'
+p519
+tp520
+Rp521
+tp522
+a(S'growcut algorithm'
+p523
+g2
+(g6
+S'f\x99\x07\xa5\x86L\xd5?'
+p524
+tp525
+Rp526
+tp527
+a(S'list of unbreakable machine-doll characters'
+p528
+g2
+(g6
+S'\xd1\xc2\x15\xb4\xb9D\xd5?'
+p529
+tp530
+Rp531
+tp532
+a(S'pimania'
+p533
+g2
+(g6
+S"P\x1cj\xda\xbf'\xd5?"
+p534
+tp535
+Rp536
+tp537
+a(S'seeds (cellular automaton)'
+p538
+g2
+(g6
+S'\x15N|\xc8\x0f\xa6\xd4?'
+p539
+tp540
+Rp541
+tp542
+a(S'state transition table'
+p543
+g2
+(g6
+S'\x11\x07|\x8e\xb4h\xd4?'
+p544
+tp545
+Rp546
+tp547
+a(S"kleene's algorithm"
+p548
+g2
+(g6
+S'\x11\x07\x88\x8d\x08a\xd4?'
+p549
+tp550
+Rp551
+tp552
+a(S'nobili cellular automata'
+p553
+g2
+(g6
+S'\x19\xb8\x0b\xd8\xc0[\xd4?'
+p554
+tp555
+Rp556
+tp557
+a(S'complementation of b\xc3\xbcchi automaton'
+p558
+g2
+(g6
+S'\x04\xe1\xcb\x072,\xd4?'
+p559
+tp560
+Rp561
+tp562
+a(S'the writing hand'
+p563
+g2
+(g6
+S'k\xc0M\x8aR\xea\xd3?'
+p564
+tp565
+Rp566
+tp567
+a(S'alphabet (formal languages)'
+p568
+g2
+(g6
+S'\x01)\x90gT\xdb\xd3?'
+p569
+tp570
+Rp571
+tp572
+a(S'shmuel safra'
+p573
+g2
+(g6
+S']\xde\x11\x97\xef\xbd\xd3?'
+p574
+tp575
+Rp576
+tp577
+a(S'asynchronous cellular automaton'
+p578
+g2
+(g6
+S'\xa2\x1b\x1b\xc3\x8d\x93\xd3?'
+p579
+tp580
+Rp581
+tp582
+a(S'conference on implementation and application of automata'
+p583
+g2
+(g6
+S'\xear\xd1\xe5\xfau\xd3?'
+p584
+tp585
+Rp586
+tp587
+a(S'history of artificial life'
+p588
+g2
+(g6
+S'\xb7(\xc8\xb4_r\xd3?'
+p589
+tp590
+Rp591
+tp592
+a(S"arden's rule"
+p593
+g2
+(g6
+S'\xe2\xb8\x18\xbd\x83`\xd3?'
+p594
+tp595
+Rp596
+tp597
+a(S"codd's cellular automaton"
+p598
+g2
+(g6
+S'\x1f\xee\xd2\x12\x04Z\xd3?'
+p599
+tp600
+Rp601
+tp602
+a(S'chomsky hierarchy'
+p603
+g2
+(g6
+S'j\xd3\n\xdb\xdf(\xd3?'
+p604
+tp605
+Rp606
+tp607
+a(S'modern automata museum'
+p608
+g2
+(g6
+S']\xe9\x1a(\x9f\xdd\xd2?'
+p609
+tp610
+Rp611
+tp612
+a(S'introduction to automata theory, languages, and computation'
+p613
+g2
+(g6
+S'\xea(\x01\t\xa6\xc4\xd2?'
+p614
+tp615
+Rp616
+tp617
+a(S'automonopoli'
+p618
+g2
+(g6
+S'\xbe\xd2\x16\x19\x95\xb1\xd2?'
+p619
+tp620
+Rp621
+tp622
+a(S'wireworld'
+p623
+g2
+(g6
+S')v;\xad|[\xd2?'
+p624
+tp625
+Rp626
+tp627
+a(S'the master mystery'
+p628
+g2
+(g6
+S'\x01K\xa0\\\xa4M\xd2?'
+p629
+tp630
+Rp631
+tp632
+a(S'list of pspace-complete problems'
+p633
+g2
+(g6
+S'\xe9R\xad<\xdeF\xd2?'
+p634
+tp635
+Rp636
+tp637
+a(S'computability'
+p638
+g2
+(g6
+S'\xa4\xae\xc3\xa2\x172\xd2?'
+p639
+tp640
+Rp641
+tp642
+a(S'local language (formal language)'
+p643
+g2
+(g6
+S'\xe4asY?\xe5\xd1?'
+p644
+tp645
+Rp646
+tp647
+a(S'highlife (cellular automaton)'
+p648
+g2
+(g6
+S'h\xd2J\x97M\xdc\xd1?'
+p649
+tp650
+Rp651
+tp652
+a(S'john joseph merlin'
+p653
+g2
+(g6
+S'\x02T\x9d"z\xd4\xd1?'
+p654
+tp655
+Rp656
+tp657
+a(S'william schlumberger'
+p658
+g2
+(g6
+S'\xed $\r\xeb\xce\xd1?'
+p659
+tp660
+Rp661
+tp662
+a(S'powerset construction'
+p663
+g2
+(g6
+S'\xdb\xb6\xde\xb2Z\xce\xd1?'
+p664
+tp665
+Rp666
+tp667
+a(S'rule 110'
+p668
+g2
+(g6
+S'M\xddWh\x81\x98\xd1?'
+p669
+tp670
+Rp671
+tp672
+a(S'journal of automata, languages and combinatorics'
+p673
+g2
+(g6
+S'E\xf6a9L\x93\xd1?'
+p674
+tp675
+Rp676
+tp677
+a(S'star height'
+p678
+g2
+(g6
+S'\x7fid\x0c/\x87\xd1?'
+p679
+tp680
+Rp681
+tp682
+a(S'rational series'
+p683
+g2
+(g6
+S'\nw\x8eD\x97y\xd1?'
+p684
+tp685
+Rp686
+tp687
+a(S'lazy linear hybrid automaton'
+p688
+g2
+(g6
+S'\xb8\xf2g\xa0;w\xd1?'
+p689
+tp690
+Rp691
+tp692
+a(S"moxon's master"
+p693
+g2
+(g6
+S'\xc0\xea\xb8_\xeak\xd1?'
+p694
+tp695
+Rp696
+tp697
+a(S'richard e. stearns'
+p698
+g2
+(g6
+S'\x8cK\xba\xf7r2\xd1?'
+p699
+tp700
+Rp701
+tp702
+a(S'steven c. miller'
+p703
+g2
+(g6
+S"\xfe\xf6P\x04\xc7'\xd1?"
+p704
+tp705
+Rp706
+tp707
+a(S'joseph friedrich freiherr von racknitz'
+p708
+g2
+(g6
+S'\xf2\xae\x937+\x14\xd1?'
+p709
+tp710
+Rp711
+tp712
+a(S'quantum dot cellular automaton'
+p713
+g2
+(g6
+S'\x06\x15lG\x98\x10\xd1?'
+p714
+tp715
+Rp716
+tp717
+a(S'jacques fran\xc3\xa7ois mouret'
+p718
+g2
+(g6
+S'FN\xbe\x05#\x03\xd1?'
+p719
+tp720
+Rp721
+tp722
+a(S'andrei toom'
+p723
+g2
+(g6
+S'\x97\xb0\x97\xc0\xad\xef\xd0?'
+p724
+tp725
+Rp726
+tp727
+a(S'rule 30'
+p728
+g2
+(g6
+S'\x02\xbd\x06:/\xe0\xd0?'
+p729
+tp730
+Rp731
+tp732
+a(S'ss city of rome'
+p733
+g2
+(g6
+S'\x96\xfe\xac\xd2\x1b\xc6\xd0?'
+p734
+tp735
+Rp736
+tp737
+a(S'lga'
+p738
+g2
+(g6
+S'\xb3\xcf\xd4\xa7&\x87\xd0?'
+p739
+tp740
+Rp741
+tp742
+a(S'ismail al-jazari'
+p743
+g2
+(g6
+S'&E\xafY\xfe|\xd0?'
+p744
+tp745
+Rp746
+tp747
+a(S'los angeles conference on magic history'
+p748
+g2
+(g6
+S'\xc3\xad\xf2g\xcfh\xd0?'
+p749
+tp750
+Rp751
+tp752
+a(S'automatic group'
+p753
+g2
+(g6
+S'\xb1\xb4z\x809V\xd0?'
+p754
+tp755
+Rp756
+tp757
+a(S'transition function'
+p758
+g2
+(g6
+S'\n\x18Z\x17|M\xd0?'
+p759
+tp760
+Rp761
+tp762
+a(S'the chess player'
+p763
+g2
+(g6
+S'\xd0\x98\xcb\x9d\xe01\xd0?'
+p764
+tp765
+Rp766
+tp767
+a(S'omega language'
+p768
+g2
+(g6
+S'\xd5|\x1e\x84\x1d!\xd0?'
+p769
+tp770
+Rp771
+tp772
+a(S'noncommutative signal-flow graph'
+p773
+g2
+(g6
+S'\x8e\x82\xb2\x0b\xba\x07\xd0?'
+p774
+tp775
+Rp776
+tp777
+a(S'cycle rank'
+p778
+g2
+(g6
+S'\xfc3\x8f\xe8R\x04\xd0?'
+p779
+tp780
+Rp781
+tp782
+a(S'critters (block cellular automaton)'
+p783
+g2
+(g6
+S'b\x1b\x98\x8a\xad\x03\xd0?'
+p784
+tp785
+Rp786
+tp787
+a(S'karakuri puppet'
+p788
+g2
+(g6
+S'\x87C\x15\x7f\x95\xea\xcf?'
+p789
+tp790
+Rp791
+tp792
+a(S'sergey psakhie'
+p793
+g2
+(g6
+S'\x8d!\xe5\x82\x1b\xdd\xcf?'
+p794
+tp795
+Rp796
+tp797
+a(S'life without death'
+p798
+g2
+(g6
+S'\xc3\xdc\x88\x90\x9e\xda\xcf?'
+p799
+tp800
+Rp801
+tp802
+a(S'minds, machines and g\xc3\xb6del'
+p803
+g2
+(g6
+S'Fzg\xa1M\xb7\xcf?'
+p804
+tp805
+Rp806
+tp807
+a(S'finite automata (band)'
+p808
+g2
+(g6
+S')\xb9\xead#h\xcf?'
+p809
+tp810
+Rp811
+tp812
+a(S'automatic sequence'
+p813
+g2
+(g6
+S'\x98\xbd\xb4D\xc4W\xcf?'
+p814
+tp815
+Rp816
+tp817
+a(S'3d life'
+p818
+g2
+(g6
+S'\x10X8j\xe3&\xcf?'
+p819
+tp820
+Rp821
+tp822
+a(S"conway's game of life"
+p823
+g2
+(g6
+S'\xc2\xb0\x01\xf9\x04\xe2\xce?'
+p824
+tp825
+Rp826
+tp827
+a(S'arto salomaa'
+p828
+g2
+(g6
+S"'\x1e\x02\xb2`\xa4\xce?"
+p829
+tp830
+Rp831
+tp832
+a(S'qca'
+p833
+g2
+(g6
+S'\x89t\xa8\x870\x97\xce?'
+p834
+tp835
+Rp836
+tp837
+a(S'von neumann cellular automaton'
+p838
+g2
+(g6
+S'\x85\x0fn=@y\xce?'
+p839
+tp840
+Rp841
+tp842
+a(S'sofic group'
+p843
+g2
+(g6
+S'\x004\xcdP\xbbS\xce?'
+p844
+tp845
+Rp846
+tp847
+a(S'jacques de vaucanson'
+p848
+g2
+(g6
+S'\xe25pA\x0f>\xce?'
+p849
+tp850
+Rp851
+tp852
+a(S"maelzel's chess player"
+p853
+g2
+(g6
+S'\xceB%\x9f\xcf(\xce?'
+p854
+tp855
+Rp856
+tp857
+a(S'spaceship (cellular automaton)'
+p858
+g2
+(g6
+S' E\xdeCc\x1d\xce?'
+p859
+tp860
+Rp861
+tp862
+a(S'rake (cellular automaton)'
+p863
+g2
+(g6
+S'\xee\x87Z-\x07\x11\xce?'
+p864
+tp865
+Rp866
+tp867
+a(S'continuous spatial automaton'
+p868
+g2
+(g6
+S'\xa3u}\x97\x0c\n\xce?'
+p869
+tp870
+Rp871
+tp872
+a(S'klaus sutner'
+p873
+g2
+(g6
+S'}\xa1\xd26\xb2\xfe\xcd?'
+p874
+tp875
+Rp876
+tp877
+a(S'factor oracle'
+p878
+g2
+(g6
+S'@\xee\x9f$\xed\xdd\xcd?'
+p879
+tp880
+Rp881
+tp882
+a(S'talose'
+p883
+g2
+(g6
+S'T`\xa7\xc4\xbb\xc6\xcd?'
+p884
+tp885
+Rp886
+tp887
+a(S'summitx snowboarding'
+p888
+g2
+(g6
+S'm6F\x16\x11\xc0\xcd?'
+p889
+tp890
+Rp891
+tp892
+a(S'partition refinement'
+p893
+g2
+(g6
+S'\xf7\xee\xc4\xac\xcd\xbe\xcd?'
+p894
+tp895
+Rp896
+tp897
+a(S'context-free language'
+p898
+g2
+(g6
+S'!\x80\xd0\x0b.\xa6\xcd?'
+p899
+tp900
+Rp901
+tp902
+a(S'supratik chakraborty'
+p903
+g2
+(g6
+S'\xe4\x9e\x01\x802L\xcd?'
+p904
+tp905
+Rp906
+tp907
+a(S'tree (automata theory)'
+p908
+g2
+(g6
+S'\x1a\xd8\rJ1L\xcd?'
+p909
+tp910
+Rp911
+tp912
+a(S'configuration graph'
+p913
+g2
+(g6
+S'K!\x8f\xaa\x957\xcd?'
+p914
+tp915
+Rp916
+tp917
+a(S'von neumann universal constructor'
+p918
+g2
+(g6
+S'\x97\xf2~\xfc\x06\x12\xcd?'
+p919
+tp920
+Rp921
+tp922
+a(S'edward f. moore'
+p923
+g2
+(g6
+S'l\x9f\x19\xdb\x86\x07\xcd?'
+p924
+tp925
+Rp926
+tp927
+a(S'f-fcsr'
+p928
+g2
+(g6
+S'\x90\xd1\xb09\x8b\x05\xcd?'
+p929
+tp930
+Rp931
+tp932
+a(S'yuri petrovich ofman'
+p933
+g2
+(g6
+S'<\x00\xf2\x1f\x8e\x01\xcd?'
+p934
+tp935
+Rp936
+tp937
+a(S'computational gene'
+p938
+g2
+(g6
+S'\xa3kV1g\xca\xcc?'
+p939
+tp940
+Rp941
+tp942
+a(S'firing squad synchronization problem'
+p943
+g2
+(g6
+S'R\xadXL\xdd\xb1\xcc?'
+p944
+tp945
+Rp946
+tp947
+a(S'mehryar mohri'
+p948
+g2
+(g6
+S'\xd2\xde\x93\xbe\xb6\x9f\xcc?'
+p949
+tp950
+Rp951
+tp952
+a(S'embedded pushdown automaton'
+p953
+g2
+(g6
+S'd-\xe20N\x9e\xcc?'
+p954
+tp955
+Rp956
+tp957
+a(S"thompson's construction"
+p958
+g2
+(g6
+S'\xe6|z\x8fkn\xcc?'
+p959
+tp960
+Rp961
+tp962
+a(S'lattice gas automaton'
+p963
+g2
+(g6
+S'\x9e~\xa0\xc7\xda\x0b\xcc?'
+p964
+tp965
+Rp966
+tp967
+a(S'state diagram'
+p968
+g2
+(g6
+S'-\x85\xce|\xa9\t\xcc?'
+p969
+tp970
+Rp971
+tp972
+a(S'ludwig staiger'
+p973
+g2
+(g6
+S'\x02\xd8\x19\xe4\x1b\xf9\xcb?'
+p974
+tp975
+Rp976
+tp977
+a(S'cam-6'
+p978
+g2
+(g6
+S'P\x9e\xc0\xcfj\xf8\xcb?'
+p979
+tp980
+Rp981
+tp982
+a(S'abstract family of languages'
+p983
+g2
+(g6
+S'\x8a@\xa9\ti\xe8\xcb?'
+p984
+tp985
+Rp986
+tp987
+a(S'descriptional complexity of formal systems'
+p988
+g2
+(g6
+S'\x9b\xdd6)\n\xd8\xcb?'
+p989
+tp990
+Rp991
+tp992
+a(S'deterministic context-free grammar'
+p993
+g2
+(g6
+S'\xcd\x11\xcf\xf4\x12\xb9\xcb?'
+p994
+tp995
+Rp996
+tp997
+a(S'cone (formal languages)'
+p998
+g2
+(g6
+S'\xd3\xf1\x8b\x0fF\x86\xcb?'
+p999
+tp1000
+Rp1001
+tp1002
+a(S'the crooked hinge'
+p1003
+g2
+(g6
+S'My\xba\xf0\xce\x82\xcb?'
+p1004
+tp1005
+Rp1006
+tp1007
+a(S'greibach normal form'
+p1008
+g2
+(g6
+S'b\xd9\x9f7[{\xcb?'
+p1009
+tp1010
+Rp1011
+tp1012
+a(S'john myhill'
+p1013
+g2
+(g6
+S'\x149\xeaD`h\xcb?'
+p1014
+tp1015
+Rp1016
+tp1017
+a(S'where no one knows my name'
+p1018
+g2
+(g6
+S'&s\xc3\x9f;g\xcb?'
+p1019
+tp1020
+Rp1021
+tp1022
+a(S'tommaso toffoli'
+p1023
+g2
+(g6
+S'\x9b(\xa7\x97\xfcG\xcb?'
+p1024
+tp1025
+Rp1026
+tp1027
+a(S'samuel eilenberg'
+p1028
+g2
+(g6
+S'\xf66GRx\x0c\xcb?'
+p1029
+tp1030
+Rp1031
+tp1032
+a(S'generative science'
+p1033
+g2
+(g6
+S'\xc8,q\xed\xce\x07\xcb?'
+p1034
+tp1035
+Rp1036
+tp1037
+a(S"toom's rule"
+p1038
+g2
+(g6
+S'\x95\xbd\x81;\x1b\xe0\xca?'
+p1039
+tp1040
+Rp1041
+tp1042
+a(S'context-sensitive language'
+p1043
+g2
+(g6
+S'\xb2\xa5\xd1\x0f\xaf\xb7\xca?'
+p1044
+tp1045
+Rp1046
+tp1047
+a(S'subshift of finite type'
+p1048
+g2
+(g6
+S'\xa9\xbb5\x18>\xb1\xca?'
+p1049
+tp1050
+Rp1051
+tp1052
+a(S'sablecc'
+p1053
+g2
+(g6
+S'S\x05\x90c\x19\xb0\xca?'
+p1054
+tp1055
+Rp1056
+tp1057
+a(S'formal language'
+p1058
+g2
+(g6
+S'\xe3\xf8\x96\xe0\x11\x8e\xca?'
+p1059
+tp1060
+Rp1061
+tp1062
+a(S'janusz brzozowski (computer scientist)'
+p1063
+g2
+(g6
+S'\xe5\xc7\x88\xfd\xcf\x85\xca?'
+p1064
+tp1065
+Rp1066
+tp1067
+a(S'minsoo kang'
+p1068
+g2
+(g6
+S'\xaf\xe5\n0\xe6x\xca?'
+p1069
+tp1070
+Rp1071
+tp1072
+a(S'jihad (points of order)'
+p1073
+g2
+(g6
+S'\xd6\xdbo\xf6\xb6m\xca?'
+p1074
+tp1075
+Rp1076
+tp1077
+a(S'b\xc3\xbcchi arithmetic'
+p1078
+g2
+(g6
+S'\xc5\xd2&n-c\xca?'
+p1079
+tp1080
+Rp1081
+tp1082
+a(S'day and night (cellular automaton)'
+p1083
+g2
+(g6
+S'\x92\xe8\xcc\x9c\xb8S\xca?'
+p1084
+tp1085
+Rp1086
+tp1087
+a(S'greenberg\xe2\x80\x93hastings cellular automaton'
+p1088
+g2
+(g6
+S'\xc5u1\x8d\xc5\x15\xca?'
+p1089
+tp1090
+Rp1091
+tp1092
+a(S'queue automaton'
+p1093
+g2
+(g6
+S'\xe5\x0f\xe2g\x04\xda\xc9?'
+p1094
+tp1095
+Rp1096
+tp1097
+a(S"langton's loops"
+p1098
+g2
+(g6
+S'\x93v\xc6\xa7\x83\xb9\xc9?'
+p1099
+tp1100
+Rp1101
+tp1102
+a(S'fsa utilities'
+p1103
+g2
+(g6
+S'\x8dxx\xe7[\xb4\xc9?'
+p1104
+tp1105
+Rp1106
+tp1107
+a(S'digesting duck'
+p1108
+g2
+(g6
+S'\xff\xa5\xa7`\xde\xb3\xc9?'
+p1109
+tp1110
+Rp1111
+tp1112
+a(S'a new kind of science'
+p1113
+g2
+(g6
+S'v*\xc4j?\xb3\xc9?'
+p1114
+tp1115
+Rp1116
+tp1117
+a(S'deterministic acyclic finite state automaton'
+p1118
+g2
+(g6
+S'\xf6\xe92\x7fy\x97\xc9?'
+p1119
+tp1120
+Rp1121
+tp1122
+a(S'mel croucher'
+p1123
+g2
+(g6
+S'\x1aHD\x90\xbbm\xc9?'
+p1124
+tp1125
+Rp1126
+tp1127
+a(S'anatoly shalyto'
+p1128
+g2
+(g6
+S'\xa3\xe4\xe7\xb8\xc2D\xc9?'
+p1129
+tp1130
+Rp1131
+tp1132
+a(S'fran\xc3\xa7ois pelletier'
+p1133
+g2
+(g6
+S'\xdb\xe1\t\xf7\x00\x0b\xc9?'
+p1134
+tp1135
+Rp1136
+tp1137
+a(S'pattern theory'
+p1138
+g2
+(g6
+S'\xc1\xb4\x84\xb4\x90\xfc\xc8?'
+p1139
+tp1140
+Rp1141
+tp1142
+a(S"brian's brain"
+p1143
+g2
+(g6
+S'\xbc\xcadg\x0e\xf7\xc8?'
+p1144
+tp1145
+Rp1146
+tp1147
+a(S'second circle'
+p1148
+g2
+(g6
+S'\xa0\xe5\x9e\xfaR\xc8\xc8?'
+p1149
+tp1150
+Rp1151
+tp1152
+a(S'breeder (disambiguation)'
+p1153
+g2
+(g6
+S'\x08\x011E6\xa3\xc8?'
+p1154
+tp1155
+Rp1156
+tp1157
+a(S'rule 34'
+p1158
+g2
+(g6
+S'30\x8f\xc2\xca~\xc8?'
+p1159
+tp1160
+Rp1161
+tp1162
+a(S'semiautomaton'
+p1163
+g2
+(g6
+S'\xf6\\\xb1=\xb0\\\xc8?'
+p1164
+tp1165
+Rp1166
+tp1167
+a(S'markov decision process'
+p1168
+g2
+(g6
+S'\xf3\x02\x9c\xa3`W\xc8?'
+p1169
+tp1170
+Rp1171
+tp1172
+a(S'museum of toys and automata'
+p1173
+g2
+(g6
+S'c\xdf\xa5\xf5\x82C\xc8?'
+p1174
+tp1175
+Rp1176
+tp1177
+a(S'paul douglas tougaw'
+p1178
+g2
+(g6
+S'\x9c\xeb\x00\xa6\xd2B\xc8?'
+p1179
+tp1180
+Rp1181
+tp1182
+a(S'doctor in a cell'
+p1183
+g2
+(g6
+S'\nL(%S\x1a\xc8?'
+p1184
+tp1185
+Rp1186
+tp1187
+a(S'110 (number)'
+p1188
+g2
+(g6
+S'\xa6\xa2\xbb\x02\xa3\x03\xc8?'
+p1189
+tp1190
+Rp1191
+tp1192
+a(S'vessel (video game)'
+p1193
+g2
+(g6
+S'S\xaf\xe3N\xdc\xe9\xc7?'
+p1194
+tp1195
+Rp1196
+tp1197
+a(S'dfa minimization'
+p1198
+g2
+(g6
+S"\xff'@\x14n\xb0\xc7?"
+p1199
+tp1200
+Rp1201
+tp1202
+a(S'trenchard more'
+p1203
+g2
+(g6
+S'\x84\x7f\xf5\x9f\x0b\xa8\xc7?'
+p1204
+tp1205
+Rp1206
+tp1207
+a(S'recursive language'
+p1208
+g2
+(g6
+S'\x1dq\xf9\xe2\xffW\xc7?'
+p1209
+tp1210
+Rp1211
+tp1212
+a(S'history of robots'
+p1213
+g2
+(g6
+S'5|\xa0\x1d\xeaS\xc7?'
+p1214
+tp1215
+Rp1216
+tp1217
+a(S'abstract family of acceptors'
+p1218
+g2
+(g6
+S's\xc8\x1fh\xac@\xc7?'
+p1219
+tp1220
+Rp1221
+tp1222
+a(S'mechanical galleon'
+p1223
+g2
+(g6
+S'\xbb\xd3\x9e\xdb\x99@\xc7?'
+p1224
+tp1225
+Rp1226
+tp1227
+a(S"solomonoff's theory of inductive inference"
+p1228
+g2
+(g6
+S'\xd6\x8f,\x9a\xf92\xc7?'
+p1229
+tp1230
+Rp1231
+tp1232
+a(S'digital philosophy'
+p1233
+g2
+(g6
+S'V>\x1c\x01%0\xc7?'
+p1234
+tp1235
+Rp1236
+tp1237
+a(S'swan (faberg\xc3\xa9 egg)'
+p1238
+g2
+(g6
+S'\x92\x07{x/"\xc7?'
+p1239
+tp1240
+Rp1241
+tp1242
+a(S'speed of light (disambiguation)'
+p1243
+g2
+(g6
+S'\x7f\xd2\x05\x87\x7f\xfb\xc6?'
+p1244
+tp1245
+Rp1246
+tp1247
+a(S'dream into action'
+p1248
+g2
+(g6
+S'\xd2\xc0#\x83\xac\xd0\xc6?'
+p1249
+tp1250
+Rp1251
+tp1252
+a(S'live a little (pernice brothers album)'
+p1253
+g2
+(g6
+S'\n9\xf2]/\xc8\xc6?'
+p1254
+tp1255
+Rp1256
+tp1257
+a(S'ufa'
+p1258
+g2
+(g6
+S'\xa8r\x1b\xcfb\xb8\xc6?'
+p1259
+tp1260
+Rp1261
+tp1262
+a(S'charles moehle'
+p1263
+g2
+(g6
+S'\xfe`\xf3\xce\t\x95\xc6?'
+p1264
+tp1265
+Rp1266
+tp1267
+a(S'ferdinand peper'
+p1268
+g2
+(g6
+S'\xa0q\xc6\x0c\x8b\x8b\xc6?'
+p1269
+tp1270
+Rp1271
+tp1272
+a(S'jane m. hawkins'
+p1273
+g2
+(g6
+S'1\x02\xe0\xdb\xa0x\xc6?'
+p1274
+tp1275
+Rp1276
+tp1277
+a(S'vereofy'
+p1278
+g2
+(g6
+S"a%\x14\\'w\xc6?"
+p1279
+tp1280
+Rp1281
+tp1282
+a(S'moore machine'
+p1283
+g2
+(g6
+S'w\x9a\x90\x9e\xe9o\xc6?'
+p1284
+tp1285
+Rp1286
+tp1287
+a(S'johns hopkins beast'
+p1288
+g2
+(g6
+S'\xfe\xe6\xf8\xc4\x00l\xc6?'
+p1289
+tp1290
+Rp1291
+tp1292
+a(S'star height problem'
+p1293
+g2
+(g6
+S'\x13\x0c\xbd5\xaa[\xc6?'
+p1294
+tp1295
+Rp1296
+tp1297
+a(S'list of terms relating to algorithms and data structures'
+p1298
+g2
+(g6
+S'\x87[\x01L\x81=\xc6?'
+p1299
+tp1300
+Rp1301
+tp1302
+a(S'nondeterministic algorithm'
+p1303
+g2
+(g6
+S'\xceAF\xe6\xa7\x1d\xc6?'
+p1304
+tp1305
+Rp1306
+tp1307
+a(S'nier: automata'
+p1308
+g2
+(g6
+S'\x93\x16\xe3sr\x12\xc6?'
+p1309
+tp1310
+Rp1311
+tp1312
+a(S'mealy machine'
+p1313
+g2
+(g6
+S'\x89!\xcb\xa8C\x0f\xc6?'
+p1314
+tp1315
+Rp1316
+tp1317
+a(S'microscopic traffic flow model'
+p1318
+g2
+(g6
+S'\xb5l\n\xcc\xe5\xd9\xc5?'
+p1319
+tp1320
+Rp1321
+tp1322
+a(S'von neumann neighborhood'
+p1323
+g2
+(g6
+S']\x80\xdbx\xe9\xd1\xc5?'
+p1324
+tp1325
+Rp1326
+tp1327
+a(S'chv\xc3\xa1tal\xe2\x80\x93sankoff constants'
+p1328
+g2
+(g6
+S'\xdd\xcb\xbe\xf3*\xd1\xc5?'
+p1329
+tp1330
+Rp1331
+tp1332
+a(S'jarkko kari'
+p1333
+g2
+(g6
+S'\x8d&\xadk\x08\xc8\xc5?'
+p1334
+tp1335
+Rp1336
+tp1337
+a(S'pointer machine'
+p1338
+g2
+(g6
+S'\xe1\xe5\x10\xc5D\x9a\xc5?'
+p1339
+tp1340
+Rp1341
+tp1342
+a(S'qui arr\xc3\xaatera cyanure?'
+p1343
+g2
+(g6
+S'\x15\x89%\xa2\x07\x87\xc5?'
+p1344
+tp1345
+Rp1346
+tp1347
+a(S'excitable medium'
+p1348
+g2
+(g6
+S'\xe2_\xa0o\x86m\xc5?'
+p1349
+tp1350
+Rp1351
+tp1352
+a(S'john rhodes (mathematician)'
+p1353
+g2
+(g6
+S'\xf9\xc0\xc1\n"G\xc5?'
+p1354
+tp1355
+Rp1356
+tp1357
+a(S'linear temporal logic'
+p1358
+g2
+(g6
+S'G\xd2\x842\xf72\xc5?'
+p1359
+tp1360
+Rp1361
+tp1362
+a(S'deterministic algorithm'
+p1363
+g2
+(g6
+S'\xdc\x91\xe3\x10\x1d)\xc5?'
+p1364
+tp1365
+Rp1366
+tp1367
+a(S'w110'
+p1368
+g2
+(g6
+S'\xb8\xab\xa3k\x9d\x1d\xc5?'
+p1369
+tp1370
+Rp1371
+tp1372
+a(S'anil nerode'
+p1373
+g2
+(g6
+S'v\x01\x9d\x98\xb9\x16\xc5?'
+p1374
+tp1375
+Rp1376
+tp1377
+a(S'diamond trellis egg'
+p1378
+g2
+(g6
+S'Ft)^\xff\x0e\xc5?'
+p1379
+tp1380
+Rp1381
+tp1382
+a(S'linear temporal logic to b\xc3\xbcchi automaton'
+p1383
+g2
+(g6
+S'\xd0\x1ahP\xd4\xff\xc4?'
+p1384
+tp1385
+Rp1386
+tp1387
+a(S'gekk\xc5\x8d no carnevale'
+p1388
+g2
+(g6
+S'\xa1Z\xef\xc9\xa6\xd0\xc4?'
+p1389
+tp1390
+Rp1391
+tp1392
+a(S'still life (disambiguation)'
+p1393
+g2
+(g6
+S'\x13\x83\xc7\xeeR\xd0\xc4?'
+p1394
+tp1395
+Rp1396
+tp1397
+a(S'international colloquium on automata, languages and programming'
+p1398
+g2
+(g6
+S'\x9f\xa4/\x82\xe9\xcd\xc4?'
+p1399
+tp1400
+Rp1401
+tp1402
+a(S'recognizable set'
+p1403
+g2
+(g6
+S'\xb6(\x19B\x91\xc9\xc4?'
+p1404
+tp1405
+Rp1406
+tp1407
+a(S'picture language'
+p1408
+g2
+(g6
+S'\xbbc\x0c\x05\xf4\xc4\xc4?'
+p1409
+tp1410
+Rp1411
+tp1412
+a(S'turing completeness'
+p1413
+g2
+(g6
+S'\xe9xz\x00\xa6\xba\xc4?'
+p1414
+tp1415
+Rp1416
+tp1417
+a(S'quantum turing machine'
+p1418
+g2
+(g6
+S'$\x83\xc1Z\x86\xb2\xc4?'
+p1419
+tp1420
+Rp1421
+tp1422
+a(S'synchronizing word'
+p1423
+g2
+(g6
+S'p\xd9S\xac]\xac\xc4?'
+p1424
+tp1425
+Rp1426
+tp1427
+a(S'murat ses'
+p1428
+g2
+(g6
+S'\xba\x987OE\xab\xc4?'
+p1429
+tp1430
+Rp1431
+tp1432
+a(S'brian silverman'
+p1433
+g2
+(g6
+S'\x96\x1f\xa9\xce\xb8\xa9\xc4?'
+p1434
+tp1435
+Rp1436
+tp1437
+a(S'matthew cook'
+p1438
+g2
+(g6
+S'E\x8f\x93\x0b\x93\x9b\xc4?'
+p1439
+tp1440
+Rp1441
+tp1442
+a(S'video life'
+p1443
+g2
+(g6
+S"h\x7f'\x13\x01l\xc4?"
+p1444
+tp1445
+Rp1446
+tp1447
+a(S'ntime'
+p1448
+g2
+(g6
+S'\xb8(7u\xa6k\xc4?'
+p1449
+tp1450
+Rp1451
+tp1452
+a(S'introduction to the theory of computation'
+p1453
+g2
+(g6
+S'\xa0\xd5\xdd\x15\xc8N\xc4?'
+p1454
+tp1455
+Rp1456
+tp1457
+a(S'johann nepomuk maelzel'
+p1458
+g2
+(g6
+S'\x97\x93n\xe4\xd7H\xc4?'
+p1459
+tp1460
+Rp1461
+tp1462
+a(S'union of two regular languages'
+p1463
+g2
+(g6
+S'*\x91\x0c\xc2kG\xc4?'
+p1464
+tp1465
+Rp1466
+tp1467
+a(S'christopher langton'
+p1468
+g2
+(g6
+S'\xf4\x00\xcf\x1d~E\xc4?'
+p1469
+tp1470
+Rp1471
+tp1472
+a(S'pierre jaquet-droz'
+p1473
+g2
+(g6
+S'\x92\x17[\x02\xb3<\xc4?'
+p1474
+tp1475
+Rp1476
+tp1477
+a(S'pierre wolper'
+p1478
+g2
+(g6
+S'\xdd\xbaa\xda\x0c:\xc4?'
+p1479
+tp1480
+Rp1481
+tp1482
+a(S'astrochicken'
+p1483
+g2
+(g6
+S'\xef\xc6,N\xbf\x1e\xc4?'
+p1484
+tp1485
+Rp1486
+tp1487
+a(S'geoffrey james clark'
+p1488
+g2
+(g6
+S'\xae\x84M\xe7\xf5\x15\xc4?'
+p1489
+tp1490
+Rp1491
+tp1492
+a(S'hpp model'
+p1493
+g2
+(g6
+S'kVH"M\xbc\xc3?'
+p1494
+tp1495
+Rp1496
+tp1497
+a(S'exploration problem'
+p1498
+g2
+(g6
+S'\x96>\t\xf2,\xb7\xc3?'
+p1499
+tp1500
+Rp1501
+tp1502
+a(S'brazil (men at work album)'
+p1503
+g2
+(g6
+S'\x93%\xb2\x1f>\xa8\xc3?'
+p1504
+tp1505
+Rp1506
+tp1507
+a(S"courcelle's theorem"
+p1508
+g2
+(g6
+S'\xe82\xdb\xe6\x8b\xa0\xc3?'
+p1509
+tp1510
+Rp1511
+tp1512
+a.

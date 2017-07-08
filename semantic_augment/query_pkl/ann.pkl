@@ -1,0 +1,2728 @@
+(lp0
+(S'ann'
+p1
+cnumpy.core.multiarray
+scalar
+p2
+(cnumpy
+dtype
+p3
+(S'f8'
+p4
+I0
+I1
+tp5
+Rp6
+(I3
+S'<'
+p7
+NNNI-1
+I-1
+I0
+tp8
+bS'\x01\x00\x00\x00\x00\x00\xf0?'
+p9
+tp10
+Rp11
+tp12
+a(S"st ann's"
+p13
+g2
+(g6
+S'\x0e\xcb\x15\x1c\x1f\x0e\xe9?'
+p14
+tp15
+Rp16
+tp17
+a(S'ann street'
+p18
+g2
+(g6
+S'\xb7\x10)\xdb\xd2&\xe6?'
+p19
+tp20
+Rp21
+tp22
+a(S'ngee ann'
+p23
+g2
+(g6
+S'\xbe\xe7\xd2\xae\x1b\xb7\xe4?'
+p24
+tp25
+Rp26
+tp27
+a(S'ann perkins'
+p28
+g2
+(g6
+S'\x98\xb1\x9dP\xea\xa9\xe4?'
+p29
+tp30
+Rp31
+tp32
+a(S'la biographie de luka philipsen'
+p33
+g2
+(g6
+S'\x99\xe0\x9dt\xb20\xe4?'
+p34
+tp35
+Rp36
+tp37
+a(S'mary ann'
+p38
+g2
+(g6
+S'_[KH\x7f\x93\xe3?'
+p39
+tp40
+Rp41
+tp42
+a(S'the butterfly room'
+p43
+g2
+(g6
+S'\x8d\xc5h\x95\x96g\xe3?'
+p44
+tp45
+Rp46
+tp47
+a(S"st. ann's well"
+p48
+g2
+(g6
+S'\x0e\x10\xed\xb3\x00/\xe3?'
+p49
+tp50
+Rp51
+tp52
+a(S'the stranger within'
+p53
+g2
+(g6
+S'\xa9\xa6\xaf[\xbb\x0c\xe3?'
+p54
+tp55
+Rp56
+tp57
+a(S'ann-maria'
+p58
+g2
+(g6
+S'\x81)\xdb\xd1q\xb0\xe2?'
+p59
+tp60
+Rp61
+tp62
+a(S'william and ann'
+p63
+g2
+(g6
+S'\x86\xa7z\xeb\x01<\xe2?'
+p64
+tp65
+Rp66
+tp67
+a(S'ann thomas'
+p68
+g2
+(g6
+S'\x8d\x1c\xea`\xa9\x17\xe2?'
+p69
+tp70
+Rp71
+tp72
+a(S'queen ann (pamunkey chief)'
+p73
+g2
+(g6
+S'\xf3U\xa7Bm\xfb\xe1?'
+p74
+tp75
+Rp76
+tp77
+a(S'ngee ann kongsi'
+p78
+g2
+(g6
+S'\x8c\x8b \x9e\x16\xb8\xe1?'
+p79
+tp80
+Rp81
+tp82
+a(S"saint ann's bay, jamaica"
+p83
+g2
+(g6
+S'\xb6\xfd\xb6\x94\x8e\x90\xe1?'
+p84
+tp85
+Rp86
+tp87
+a(S'ann street, brisbane'
+p88
+g2
+(g6
+S'\xa7\xd0f\xef\xd1t\xe1?'
+p89
+tp90
+Rp91
+tp92
+a(S'ngee ann city'
+p93
+g2
+(g6
+S'\x7f\xec\xae\xcf\xd0o\xe1?'
+p94
+tp95
+Rp96
+tp97
+a(S"st. ann's cathedral, la pocati\xc3\xa8re"
+p98
+g2
+(g6
+S'2\x9d\xd4\x8bRk\xe1?'
+p99
+tp100
+Rp101
+tp102
+a(S'st ann'
+p103
+g2
+(g6
+S'i#1;\x7fS\xe1?'
+p104
+tp105
+Rp106
+tp107
+a(S'ann street (manhattan)'
+p108
+g2
+(g6
+S'Un\x17Y_7\xe1?'
+p109
+tp110
+Rp111
+tp112
+a(S"st. ann's warehouse"
+p113
+g2
+(g6
+S'=\xbc\xf9\x13\x95#\xe1?'
+p114
+tp115
+Rp116
+tp117
+a(S'ann (singer)'
+p118
+g2
+(g6
+S'\x86\x0e\xd7/R \xe1?'
+p119
+tp120
+Rp121
+tp122
+a(S"st. ann's academy (kamloops)"
+p123
+g2
+(g6
+S'\x97\xc7o^B\xf5\xe0?'
+p124
+tp125
+Rp126
+tp127
+a(S'160 ann street, brisbane'
+p128
+g2
+(g6
+S'\x96U\xf7E\xfe\xd3\xe0?'
+p129
+tp130
+Rp131
+tp132
+a(S'ann-louise'
+p133
+g2
+(g6
+S'\xa3M\x8c>\xa6\xbb\xe0?'
+p134
+tp135
+Rp136
+tp137
+a(S'sand chronicles'
+p138
+g2
+(g6
+S'\x99\xb0Mv\n\xad\xe0?'
+p139
+tp140
+Rp141
+tp142
+a(S'the melody lingers on (film)'
+p143
+g2
+(g6
+S'2\xfdz\xe4\xe0n\xe0?'
+p144
+tp145
+Rp146
+tp147
+a(S'ann turner'
+p148
+g2
+(g6
+S'(\xf8\xd76\xb6A\xe0?'
+p149
+tp150
+Rp151
+tp152
+a(S'ann williams'
+p153
+g2
+(g6
+S'\xef\xf3\xb3hN\x0b\xe0?'
+p154
+tp155
+Rp156
+tp157
+a(S'sally ann'
+p158
+g2
+(g6
+S'\xe4\xf6;\xd1"\x02\xe0?'
+p159
+tp160
+Rp161
+tp162
+a(S'ann hamilton'
+p163
+g2
+(g6
+S'\x92\xcd7\xebp\xcf\xdf?'
+p164
+tp165
+Rp166
+tp167
+a(S'ann wilson (disambiguation)'
+p168
+g2
+(g6
+S'\xc4\x8e\x83_f\xac\xdf?'
+p169
+tp170
+Rp171
+tp172
+a(S'ann lee'
+p173
+g2
+(g6
+S'\x8c\x87\xd6V\xe3\xa5\xdf?'
+p174
+tp175
+Rp176
+tp177
+a(S'lisa ann'
+p178
+g2
+(g6
+S'\xe0\xf2\x01\x87\xce\x8c\xdf?'
+p179
+tp180
+Rp181
+tp182
+a(S'st. ann (electoral district)'
+p183
+g2
+(g6
+S'\xf2\xf6pF\xf5O\xdf?'
+p184
+tp185
+Rp186
+tp187
+a(S'mary ann acevedo'
+p188
+g2
+(g6
+S'\xef\xd1/\xdf\x07O\xdf?'
+p189
+tp190
+Rp191
+tp192
+a(S'dalet, myanmar'
+p193
+g2
+(g6
+S"'\xa2\x05$\xe0\x1f\xdf?"
+p194
+tp195
+Rp196
+tp197
+a(S'anna little'
+p198
+g2
+(g6
+S'\xed4\x01\x89\x83\xfd\xde?'
+p199
+tp200
+Rp201
+tp202
+a(S'miss ann'
+p203
+g2
+(g6
+S'\x8d\x1cQ\x02\x8b\xfb\xde?'
+p204
+tp205
+Rp206
+tp207
+a(S'little ann (singer)'
+p208
+g2
+(g6
+S'\x99\x82=\x8b\xe0\xf5\xde?'
+p209
+tp210
+Rp211
+tp212
+a(S'st. ann, missouri'
+p213
+g2
+(g6
+S'\x19\xa0\x98\xf6\xe4\xf2\xde?'
+p214
+tp215
+Rp216
+tp217
+a(S'ann inc.'
+p218
+g2
+(g6
+S'\xc7\xd6Z\x0f\xa0\xd9\xde?'
+p219
+tp220
+Rp221
+tp222
+a(S'ann lovett'
+p223
+g2
+(g6
+S'\xa8c\xe1>\x14\x8b\xde?'
+p224
+tp225
+Rp226
+tp227
+a(S'ann hatton'
+p228
+g2
+(g6
+S'N\xbf\xc7\x95\xef\x17\xde?'
+p229
+tp230
+Rp231
+tp232
+a(S'sapai glai peun tiang'
+p233
+g2
+(g6
+S'\xaf\xbf\xd5\\\x16\x02\xde?'
+p234
+tp235
+Rp236
+tp237
+a(S'channel a (tv series)'
+p238
+g2
+(g6
+S'\x18\xb0;\xc7\x01\xff\xdd?'
+p239
+tp240
+Rp241
+tp242
+a(S'ann hraychuck'
+p243
+g2
+(g6
+S'\xb2\xcb8\x8c\xeb\xbb\xdd?'
+p244
+tp245
+Rp246
+tp247
+a(S'lady ann warden spencer'
+p248
+g2
+(g6
+S'\xdf\xa8\xba\xa3V\xb6\xdd?'
+p249
+tp250
+Rp251
+tp252
+a(S"st. ann's center for children, youth and families"
+p253
+g2
+(g6
+S'\xe0}\x0f\x8a\xe2\xa3\xdd?'
+p254
+tp255
+Rp256
+tp257
+a(S'my life without me'
+p258
+g2
+(g6
+S'V\x14\x82B\x0e\x84\xdd?'
+p259
+tp260
+Rp261
+tp262
+a(S'ann winblad'
+p263
+g2
+(g6
+S'\xe7\xf2\xeb\xdb\x08\x84\xdd?'
+p264
+tp265
+Rp266
+tp267
+a(S'ann arbor (disambiguation)'
+p268
+g2
+(g6
+S'QM3f\xbc\x82\xdd?'
+p269
+tp270
+Rp271
+tp272
+a(S'ann rachlin'
+p273
+g2
+(g6
+S'u=Za\x95Z\xdd?'
+p274
+tp275
+Rp276
+tp277
+a(S'hoodoo ann'
+p278
+g2
+(g6
+S'+\xfcx\xd9\xb1W\xdd?'
+p279
+tp280
+Rp281
+tp282
+a(S'phoebe ann patten'
+p283
+g2
+(g6
+S'\x8f\xdfz5\x05R\xdd?'
+p284
+tp285
+Rp286
+tp287
+a(S'things i never told you'
+p288
+g2
+(g6
+S'\x9e\x99\xd3C`N\xdd?'
+p289
+tp290
+Rp291
+tp292
+a(S'ann arbor, michigan'
+p293
+g2
+(g6
+S'\x86\x12\xc8\xc2\xa05\xdd?'
+p294
+tp295
+Rp296
+tp297
+a(S'felicity ann'
+p298
+g2
+(g6
+S'S\xebF\x8d\x1a\xfb\xdc?'
+p299
+tp300
+Rp301
+tp302
+a(S'g\xc3\xa9nesis (album)'
+p303
+g2
+(g6
+S'\xc4\x1c\xb1\x13\x0c\xd5\xdc?'
+p304
+tp305
+Rp306
+tp307
+a(S'mr. & mrs. smith (1941 film)'
+p308
+g2
+(g6
+S'\x04r\xb8\xf8\xbb\xd4\xdc?'
+p309
+tp310
+Rp311
+tp312
+a(S'ann laura stoler'
+p313
+g2
+(g6
+S'#\x845\xb4\xfa\xa1\xdc?'
+p314
+tp315
+Rp316
+tp317
+a(S'cape ann'
+p318
+g2
+(g6
+S'\xfbH\xcfE\x9e\x9f\xdc?'
+p319
+tp320
+Rp321
+tp322
+a(S'5 steps to danger'
+p323
+g2
+(g6
+S'-\xc7h\xde\xb9\x8e\xdc?'
+p324
+tp325
+Rp326
+tp327
+a(S'lily ann granderson'
+p328
+g2
+(g6
+S';\xb2W\xc1\x17\x80\xdc?'
+p329
+tp330
+Rp331
+tp332
+a(S'ann robinson (disambiguation)'
+p333
+g2
+(g6
+S'o\x9a]\n\xf0m\xdc?'
+p334
+tp335
+Rp336
+tp337
+a(S'history of ann arbor, michigan'
+p338
+g2
+(g6
+S'm\xc4\xc6<\x8fc\xdc?'
+p339
+tp340
+Rp341
+tp342
+a(S'ann graham'
+p343
+g2
+(g6
+S'F\xa9e\xe1\x85S\xdc?'
+p344
+tp345
+Rp346
+tp347
+a(S'mary ann cotton'
+p348
+g2
+(g6
+S'OA\xd9\xc8\xb4P\xdc?'
+p349
+tp350
+Rp351
+tp352
+a(S'operation ann'
+p353
+g2
+(g6
+S'd`\x9b\x8b.\x18\xdc?'
+p354
+tp355
+Rp356
+tp357
+a(S'ann & hope'
+p358
+g2
+(g6
+S"\x05'uZ\xb2\x0f\xdc?"
+p359
+tp360
+Rp361
+tp362
+a(S'ann roberts'
+p363
+g2
+(g6
+S'\x12\xaa\r\x11\xca\x06\xdc?'
+p364
+tp365
+Rp366
+tp367
+a(S"st. ann's academy (victoria, british columbia)"
+p368
+g2
+(g6
+S'\xdd\x89G7\xe8\xfe\xdb?'
+p369
+tp370
+Rp371
+tp372
+a(S'evening (film)'
+p373
+g2
+(g6
+S'\xfd\x1b\xa0tc\xed\xdb?'
+p374
+tp375
+Rp376
+tp377
+a(S'stevie ann'
+p378
+g2
+(g6
+S'A\x10\xe6\xc3g\xda\xdb?'
+p379
+tp380
+Rp381
+tp382
+a(S'johnny doughboy'
+p383
+g2
+(g6
+S'\x99j\t\x16v\xb2\xdb?'
+p384
+tp385
+Rp386
+tp387
+a(S'john allen (pioneer)'
+p388
+g2
+(g6
+S'\xdb\x03\x87\xec2t\xdb?'
+p389
+tp390
+Rp391
+tp392
+a(S'ann township'
+p393
+g2
+(g6
+S'}\xe5}\xdaBK\xdb?'
+p394
+tp395
+Rp396
+tp397
+a(S'nancy wilson (rock musician)'
+p398
+g2
+(g6
+S'\x02\x1c<l\xa2+\xdb?'
+p399
+tp400
+Rp401
+tp402
+a(S'dangerous innocence'
+p403
+g2
+(g6
+S'dB\x9e\xe9}*\xdb?'
+p404
+tp405
+Rp406
+tp407
+a(S'ann arbor and ypsilanti street railway'
+p408
+g2
+(g6
+S'\x1e\x913\xa8\xba\n\xdb?'
+p409
+tp410
+Rp411
+tp412
+a(S'tropical storm ann'
+p413
+g2
+(g6
+S':[\x98\xae\x1c\t\xdb?'
+p414
+tp415
+Rp416
+tp417
+a(S'ann harvey'
+p418
+g2
+(g6
+S'\x9f`\xd1aD\x05\xdb?'
+p419
+tp420
+Rp421
+tp422
+a(S'culture of ann arbor, michigan'
+p423
+g2
+(g6
+S'\xd1\xd6\xaf\x95\xc9\xf9\xda?'
+p424
+tp425
+Rp426
+tp427
+a(S'ruby ann'
+p428
+g2
+(g6
+S'7$\xccp=\xea\xda?'
+p429
+tp430
+Rp431
+tp432
+a(S'ann ewing (dallas)'
+p433
+g2
+(g6
+S'\x13"(|-\xe1\xda?'
+p434
+tp435
+Rp436
+tp437
+a(S'hired armed cutter ann'
+p438
+g2
+(g6
+S'Ne)#\xc9\xdc\xda?'
+p439
+tp440
+Rp441
+tp442
+a(S'ann taylor'
+p443
+g2
+(g6
+S'\xc0;W\xd5\x16\xcd\xda?'
+p444
+tp445
+Rp446
+tp447
+a(S'abbotts ann'
+p448
+g2
+(g6
+S'"\xd7\xa1\xeb7\xbe\xda?'
+p449
+tp450
+Rp451
+tp452
+a(S'french ship st ann (1755)'
+p453
+g2
+(g6
+S'\xae\x97b\x86\xd3\xbc\xda?'
+p454
+tp455
+Rp456
+tp457
+a(S'ann martin'
+p458
+g2
+(g6
+S'=Z\xc1\xb1\x0b\x8d\xda?'
+p459
+tp460
+Rp461
+tp462
+a(S'dark angel (2016 tv series)'
+p463
+g2
+(g6
+S'\xf2:A\x9a\xe4{\xda?'
+p464
+tp465
+Rp466
+tp467
+a(S'st ann with emmanuel, nottingham'
+p468
+g2
+(g6
+S'e\x9bR[Mn\xda?'
+p469
+tp470
+Rp471
+tp472
+a(S'jo-ann stores'
+p473
+g2
+(g6
+S'\x96r\x1e\xa2\xfdg\xda?'
+p474
+tp475
+Rp476
+tp477
+a(S'ann forrest'
+p478
+g2
+(g6
+S'j\xe1\xed\x8d\rf\xda?'
+p479
+tp480
+Rp481
+tp482
+a(S'ann street historic district'
+p483
+g2
+(g6
+S'\xf9\xf31IR`\xda?'
+p484
+tp485
+Rp486
+tp487
+a(S'the curse of the jade scorpion'
+p488
+g2
+(g6
+S'n\x9c\x97\x1a\xeaU\xda?'
+p489
+tp490
+Rp491
+tp492
+a(S'ann taylor (poet)'
+p493
+g2
+(g6
+S'F{!\xbbd\x19\xda?'
+p494
+tp495
+Rp496
+tp497
+a(S'shirley ann place'
+p498
+g2
+(g6
+S'\x9dlA\x83\xda\x13\xda?'
+p499
+tp500
+Rp501
+tp502
+a(S'ann summers'
+p503
+g2
+(g6
+S'\xbd\xa5<\x1e\xbb\xfc\xd9?'
+p504
+tp505
+Rp506
+tp507
+a(S'ann moore'
+p508
+g2
+(g6
+S'E\xbd1\xb1D\xf9\xd9?'
+p509
+tp510
+Rp511
+tp512
+a(S'slugger ann'
+p513
+g2
+(g6
+S'o\xb5W\xd5\x05\xf7\xd9?'
+p514
+tp515
+Rp516
+tp517
+a(S"st ann's church, manchester"
+p518
+g2
+(g6
+S'/\x10\x9c("\xef\xd9?'
+p519
+tp520
+Rp521
+tp522
+a(S'ann pudeator'
+p523
+g2
+(g6
+S'\xa1JORX\xd8\xd9?'
+p524
+tp525
+Rp526
+tp527
+a(S'desert of the heart'
+p528
+g2
+(g6
+S'\xcb!&c\x88\xd2\xd9?'
+p529
+tp530
+Rp531
+tp532
+a(S'cecil o. creal'
+p533
+g2
+(g6
+S'H{N\x91\xea\xcb\xd9?'
+p534
+tp535
+Rp536
+tp537
+a(S'ann richards school for young women leaders'
+p538
+g2
+(g6
+S'A\x80\xeeT\\\xb7\xd9?'
+p539
+tp540
+Rp541
+tp542
+a(S'kidnapping of peggy ann bradnick'
+p543
+g2
+(g6
+S'\x1co\xb5\xef\x01\xb1\xd9?'
+p544
+tp545
+Rp546
+tp547
+a(S'ann jillian (tv series)'
+p548
+g2
+(g6
+S'\xc9\x19\xff\xc0B\x9d\xd9?'
+p549
+tp550
+Rp551
+tp552
+a(S'ann kennedy'
+p553
+g2
+(g6
+S'\x03-\xf7\x9e\\w\xd9?'
+p554
+tp555
+Rp556
+tp557
+a(S"st. ann's well, malvern"
+p558
+g2
+(g6
+S'\x85\x05\x8eZ\xa8q\xd9?'
+p559
+tp560
+Rp561
+tp562
+a(S'mother ann (rock formation)'
+p563
+g2
+(g6
+S'\xd3\xd9l\xfe\xe3P\xd9?'
+p564
+tp565
+Rp566
+tp567
+a(S'ann bilansky'
+p568
+g2
+(g6
+S'\xf7,3\x15\xc1M\xd9?'
+p569
+tp570
+Rp571
+tp572
+a(S'ann carroll fitzhugh'
+p573
+g2
+(g6
+S'1,"\x8b\xda?\xd9?'
+p574
+tp575
+Rp576
+tp577
+a(S'sure of you'
+p578
+g2
+(g6
+S'\x00l8\xbf\xf7\n\xd9?'
+p579
+tp580
+Rp581
+tp582
+a(S'the steel mirror'
+p583
+g2
+(g6
+S'\x0b\xca^\xda\xaa\t\xd9?'
+p584
+tp585
+Rp586
+tp587
+a(S'anne cook'
+p588
+g2
+(g6
+S'ESE\x89\xa9\xff\xd8?'
+p589
+tp590
+Rp591
+tp592
+a(S'ann veronica'
+p593
+g2
+(g6
+S'}\xc0(\x80[\xff\xd8?'
+p594
+tp595
+Rp596
+tp597
+a(S"st. ann's college for women"
+p598
+g2
+(g6
+S'\xda\xa8\xfd\x05c\xe0\xd8?'
+p599
+tp600
+Rp601
+tp602
+a(S'eastern confederation super league'
+p603
+g2
+(g6
+S'i\xd1\x1c\x0fa\x9f\xd8?'
+p604
+tp605
+Rp606
+tp607
+a(S"st ann's, nottingham"
+p608
+g2
+(g6
+S"\x81\x90x'x\x92\xd8?"
+p609
+tp610
+Rp611
+tp612
+a(S'ann7'
+p613
+g2
+(g6
+S'\x80\xbd\x90\xda\xc6\x8f\xd8?'
+p614
+tp615
+Rp616
+tp617
+a(S'julie-ann jones'
+p618
+g2
+(g6
+S'\xe8\xc9\xcc\x19m\x8c\xd8?'
+p619
+tp620
+Rp621
+tp622
+a(S'our dancing daughters'
+p623
+g2
+(g6
+S'\x81\x84\xc3\xd9{\x87\xd8?'
+p624
+tp625
+Rp626
+tp627
+a(S"2010 world junior championships in athletics \xe2\x80\x93 women's 4 \xc3\x97 400 metres relay"
+p628
+g2
+(g6
+S'Ow\xc6@\xa4{\xd8?'
+p629
+tp630
+Rp631
+tp632
+a(S'edith ann: a few pieces of the puzzle'
+p633
+g2
+(g6
+S'\x9b\xd2\xb3\xbe5v\xd8?'
+p634
+tp635
+Rp636
+tp637
+a(S'kay krill'
+p638
+g2
+(g6
+S'\xe2\x81V3Eq\xd8?'
+p639
+tp640
+Rp641
+tp642
+a(S'sue ann nivens'
+p643
+g2
+(g6
+S'\x128\x12,\xdaH\xd8?'
+p644
+tp645
+Rp646
+tp647
+a(S'z for zachariah'
+p648
+g2
+(g6
+S'\xd8\xd6f\xc3\xbb;\xd8?'
+p649
+tp650
+Rp651
+tp652
+a(S'bunny lake is missing'
+p653
+g2
+(g6
+S'\x7f\xee\x04\xf1\x15\x1e\xd8?'
+p654
+tp655
+Rp656
+tp657
+a(S'saint ann parish'
+p658
+g2
+(g6
+S'_\x9f?\x9f\xd9\x02\xd8?'
+p659
+tp660
+Rp661
+tp662
+a(S'ann fox'
+p663
+g2
+(g6
+S'\xe8.W~\xd1\xfb\xd7?'
+p664
+tp665
+Rp666
+tp667
+a(S'ann glanville'
+p668
+g2
+(g6
+S'\xa0&\xae\t\xf5\xe5\xd7?'
+p669
+tp670
+Rp671
+tp672
+a(S'a kiss for my prince'
+p673
+g2
+(g6
+S'\x12\xe3j\xeb\x85\xd8\xd7?'
+p674
+tp675
+Rp676
+tp677
+a(S'ann maddocks'
+p678
+g2
+(g6
+S'\xa1:n\xe8A\xc1\xd7?'
+p679
+tp680
+Rp681
+tp682
+a(S'something wild (1961 film)'
+p683
+g2
+(g6
+S'y\xcb\xb7\x98v\xc0\xd7?'
+p684
+tp685
+Rp686
+tp687
+a(S'hired armed brig ann'
+p688
+g2
+(g6
+S'\x06l\x91@\x1d\xac\xd7?'
+p689
+tp690
+Rp691
+tp692
+a(S'40 carats (film)'
+p693
+g2
+(g6
+S'4\xfb\x92\x946\x9c\xd7?'
+p694
+tp695
+Rp696
+tp697
+a(S'what about us? (ruth-ann boyle album)'
+p698
+g2
+(g6
+S'\x16\xd0!\xee\x8d\x97\xd7?'
+p699
+tp700
+Rp701
+tp702
+a(S'king kong (2013 musical)'
+p703
+g2
+(g6
+S'T\x05;g\xf6\x90\xd7?'
+p704
+tp705
+Rp706
+tp707
+a(S"mary ann m'clintock"
+p708
+g2
+(g6
+S'\xdd\x19\xcb\x89M~\xd7?'
+p709
+tp710
+Rp711
+tp712
+a(S'anne'
+p713
+g2
+(g6
+S'~\x91<\x11\x1eR\xd7?'
+p714
+tp715
+Rp716
+tp717
+a(S'anne brown (disambiguation)'
+p718
+g2
+(g6
+S'h?\x986uH\xd7?'
+p719
+tp720
+Rp721
+tp722
+a(S'ann paludan'
+p723
+g2
+(g6
+S'W\xb8=P\xd4.\xd7?'
+p724
+tp725
+Rp726
+tp727
+a(S'ann parker'
+p728
+g2
+(g6
+S"\x91\xef \\~'\xd7?"
+p729
+tp730
+Rp731
+tp732
+a(S"ann carver's profession"
+p733
+g2
+(g6
+S'3TK\xb1\xf3\x0f\xd7?'
+p734
+tp735
+Rp736
+tp737
+a(S'church of st. ann'
+p738
+g2
+(g6
+S'\xce\x8d\xbd\xf3\xa3\x0f\xd7?'
+p739
+tp740
+Rp741
+tp742
+a(S'treats'
+p743
+g2
+(g6
+S'\x1a\x9d\r\xc0G\x0e\xd7?'
+p744
+tp745
+Rp746
+tp747
+a(S'crow hollow'
+p748
+g2
+(g6
+S'a\xcc\xf6\xba\x95\x06\xd7?'
+p749
+tp750
+Rp751
+tp752
+a(S'robin gloag'
+p753
+g2
+(g6
+S'\xf4/\xcf\xed:\xff\xd6?'
+p754
+tp755
+Rp756
+tp757
+a(S'the ann arbor news'
+p758
+g2
+(g6
+S'\x9c\x03\xa6\x8d\x93\xfb\xd6?'
+p759
+tp760
+Rp761
+tp762
+a(S'unearthly (manga)'
+p763
+g2
+(g6
+S'\xb7G\xe5\xe8@\xe5\xd6?'
+p764
+tp765
+Rp766
+tp767
+a(S'john hieftje'
+p768
+g2
+(g6
+S'\x86l\xc1-\x96\xd6\xd6?'
+p769
+tp770
+Rp771
+tp772
+a(S'st ann without'
+p773
+g2
+(g6
+S'\x84O=5s\xc3\xd6?'
+p774
+tp775
+Rp776
+tp777
+a(S"a girl's story"
+p778
+g2
+(g6
+S'\x9f%\x1b\xb7S\xaa\xd6?'
+p779
+tp780
+Rp781
+tp782
+a(S'ann arbor open school'
+p783
+g2
+(g6
+S'\xb9\x12\x1cd \xa2\xd6?'
+p784
+tp785
+Rp786
+tp787
+a(S'murder of riley ann sawyers'
+p788
+g2
+(g6
+S'\x19B\xbd\xa3Y\xa1\xd6?'
+p789
+tp790
+Rp791
+tp792
+a(S'mary ann bugg'
+p793
+g2
+(g6
+S'\x84ay(_\xa0\xd6?'
+p794
+tp795
+Rp796
+tp797
+a(S'ann hunt and elizabeth hamel'
+p798
+g2
+(g6
+S'/\x93\x860\x7f\x9e\xd6?'
+p799
+tp800
+Rp801
+tp802
+a(S'ann jones'
+p803
+g2
+(g6
+S'\xa3Y\xa5}\xe8\x7f\xd6?'
+p804
+tp805
+Rp806
+tp807
+a(S'ann hasseltine judson'
+p808
+g2
+(g6
+S'1\xab6\xa8\xdds\xd6?'
+p809
+tp810
+Rp811
+tp812
+a(S'ann park'
+p813
+g2
+(g6
+S'\x84\xb8\x01\xee\x92n\xd6?'
+p814
+tp815
+Rp816
+tp817
+a(S'the turn of the screw (2009 film)'
+p818
+g2
+(g6
+S'\xec\xf5\xfb"\x02`\xd6?'
+p819
+tp820
+Rp821
+tp822
+a(S'fort ann'
+p823
+g2
+(g6
+S'\xba\x04P\t\xeaZ\xd6?'
+p824
+tp825
+Rp826
+tp827
+a(S'william s. maynard'
+p828
+g2
+(g6
+S'\x06\xc4\xc6\xcd\x85X\xd6?'
+p829
+tp830
+Rp831
+tp832
+a(S'ann taylor, baroness taylor of bolton'
+p833
+g2
+(g6
+S'\xc2\xbb\xaf\x92\xcdB\xd6?'
+p834
+tp835
+Rp836
+tp837
+a(S'ann govednik'
+p838
+g2
+(g6
+S'\xcf&zX.A\xd6?'
+p839
+tp840
+Rp841
+tp842
+a(S'men are not gods'
+p843
+g2
+(g6
+S'\x04\xa2\\C\xfb9\xd6?'
+p844
+tp845
+Rp846
+tp847
+a(S'christopher taylor (politician)'
+p848
+g2
+(g6
+S'\xae\xc8\xca\x13\xf5%\xd6?'
+p849
+tp850
+Rp851
+tp852
+a(S'mary ann frost stearns pratt'
+p853
+g2
+(g6
+S'\x99\xf9\xc8\xcf\xe6%\xd6?'
+p854
+tp855
+Rp856
+tp857
+a(S'ann arbor (automobile)'
+p858
+g2
+(g6
+S'\xc7\x04\x8eRK \xd6?'
+p859
+tp860
+Rp861
+tp862
+a(S'ann pitt'
+p863
+g2
+(g6
+S'\x19\xe5\xd0\x03\x81\x13\xd6?'
+p864
+tp865
+Rp866
+tp867
+a(S'she went to the races'
+p868
+g2
+(g6
+S'%\x12\x86CP\x0c\xd6?'
+p869
+tp870
+Rp871
+tp872
+a(S'elisha rumsey'
+p873
+g2
+(g6
+S'\xe9\x1a\x84\r\x8e\xfc\xd5?'
+p874
+tp875
+Rp876
+tp877
+a(S'list of pepper ann characters'
+p878
+g2
+(g6
+S'\xd4_\xbc+\x92\xf9\xd5?'
+p879
+tp880
+Rp881
+tp882
+a(S'that girl'
+p883
+g2
+(g6
+S'\n\xbdJF\x9e\xf4\xd5?'
+p884
+tp885
+Rp886
+tp887
+a(S'ann mandrella'
+p888
+g2
+(g6
+S'?\xe1\xf4\x84\xc7\xeb\xd5?'
+p889
+tp890
+Rp891
+tp892
+a(S'mary ann heacock'
+p893
+g2
+(g6
+S';\xbe"F\x12\xe9\xd5?'
+p894
+tp895
+Rp896
+tp897
+a(S'ann arbor business review'
+p898
+g2
+(g6
+S'\xad\xa0\x81\xf2\x9a\xe7\xd5?'
+p899
+tp900
+Rp901
+tp902
+a(S'ccgs ann harvey'
+p903
+g2
+(g6
+S'\x1b\x80\xb67l\xe1\xd5?'
+p904
+tp905
+Rp906
+tp907
+a(S'mary ann in autumn'
+p908
+g2
+(g6
+S'o$\x97\xa3\x1a\xda\xd5?'
+p909
+tp910
+Rp911
+tp912
+a(S'ann arbor symphony orchestra'
+p913
+g2
+(g6
+S'<\x17\xa4\x8a(\xd2\xd5?'
+p914
+tp915
+Rp916
+tp917
+a(S'ann thwaytes'
+p918
+g2
+(g6
+S'7\x90\xf5\xdd\x9b\xce\xd5?'
+p919
+tp920
+Rp921
+tp922
+a(S'maurice auguste r\xc3\xa9gimbart'
+p923
+g2
+(g6
+S'\x98&\x1b\xd0\x1a\xcd\xd5?'
+p924
+tp925
+Rp926
+tp927
+a(S"st ann's ground"
+p928
+g2
+(g6
+S'\x9c28\x90Z\xb9\xd5?'
+p929
+tp930
+Rp931
+tp932
+a(S'lake ann, michigan'
+p933
+g2
+(g6
+S'\xd1\xbeS8\x14\xb2\xd5?'
+p934
+tp935
+Rp936
+tp937
+a(S'anne davies'
+p938
+g2
+(g6
+S'\x80\x1aF\x84\xf4\xa5\xd5?'
+p939
+tp940
+Rp941
+tp942
+a(S"st. ann's church, dawson street"
+p943
+g2
+(g6
+S'\xe7\xee\x06\xe1\x84\xa1\xd5?'
+p944
+tp945
+Rp946
+tp947
+a(S'ann davison'
+p948
+g2
+(g6
+S'c$W\x15H\x98\xd5?'
+p949
+tp950
+Rp951
+tp952
+a(S"st. ann's rangers f.c."
+p953
+g2
+(g6
+S'\x9e\xe2u?\x9f\x90\xd5?'
+p954
+tp955
+Rp956
+tp957
+a(S'chestnuts park'
+p958
+g2
+(g6
+S'\xfe~\xe9\xdc\xf3\x8b\xd5?'
+p959
+tp960
+Rp961
+tp962
+a(S'ann (1797 ship)'
+p963
+g2
+(g6
+S'A{.L\xe7|\xd5?'
+p964
+tp965
+Rp966
+tp967
+a(S"saint ann's school (new york city)"
+p968
+g2
+(g6
+S"\x93s'\xdb\xacp\xd5?"
+p969
+tp970
+Rp971
+tp972
+a(S'erik whittington'
+p973
+g2
+(g6
+S'5\x10\x1f\x8bak\xd5?'
+p974
+tp975
+Rp976
+tp977
+a(S'chocolate (2007 film)'
+p978
+g2
+(g6
+S'w]\x06\x06\xc3j\xd5?'
+p979
+tp980
+Rp981
+tp982
+a(S'white house (rock hill, south carolina)'
+p983
+g2
+(g6
+S'=ux\xb2\xd8b\xd5?'
+p984
+tp985
+Rp986
+tp987
+a(S'ann arbor art fairs'
+p988
+g2
+(g6
+S'j\xfb\x8df\xda[\xd5?'
+p989
+tp990
+Rp991
+tp992
+a(S'm-132 (michigan highway)'
+p993
+g2
+(g6
+S'J\x98Q\xaf\x8fZ\xd5?'
+p994
+tp995
+Rp996
+tp997
+a(S'the enchanted square'
+p998
+g2
+(g6
+S'k\xfdT\xa1\xe1T\xd5?'
+p999
+tp1000
+Rp1001
+tp1002
+a(S'robinsonekspedisjonen 2002'
+p1003
+g2
+(g6
+S'\x9cT_\xefSJ\xd5?'
+p1004
+tp1005
+Rp1006
+tp1007
+a(S'afc ann arbor'
+p1008
+g2
+(g6
+S'\xbd\x99\xf5\xec\xacA\xd5?'
+p1009
+tp1010
+Rp1011
+tp1012
+a(S'ann arbor charter township, michigan'
+p1013
+g2
+(g6
+S'`0\x98\x02\xf6=\xd5?'
+p1014
+tp1015
+Rp1016
+tp1017
+a(S'rose ann vuich'
+p1018
+g2
+(g6
+S'\x8c\x08\xa8\xbd\xa28\xd5?'
+p1019
+tp1020
+Rp1021
+tp1022
+a(S'anne anderson'
+p1023
+g2
+(g6
+S'\xfa\xf1\x85b"\x1f\xd5?'
+p1024
+tp1025
+Rp1026
+tp1027
+a(S'malvinne alcala'
+p1028
+g2
+(g6
+S'1\x97\xb6Z\xed\x13\xd5?'
+p1029
+tp1030
+Rp1031
+tp1032
+a(S'ann blaykling'
+p1033
+g2
+(g6
+S'\xe1\xe7\x97\x94$\x0b\xd5?'
+p1034
+tp1035
+Rp1036
+tp1037
+a(S'sarah ann, west virginia'
+p1038
+g2
+(g6
+S'{$\xcc`\x10\x04\xd5?'
+p1039
+tp1040
+Rp1041
+tp1042
+a(S'robert j. harris'
+p1043
+g2
+(g6
+S'\xddi\x8e\x96>\xfe\xd4?'
+p1044
+tp1045
+Rp1046
+tp1047
+a(S'the singing nun (film)'
+p1048
+g2
+(g6
+S'\xfbY\x86^\x14\xfd\xd4?'
+p1049
+tp1050
+Rp1051
+tp1052
+a(S'ann-margret'
+p1053
+g2
+(g6
+S'\xff\xddi\x95@\xe9\xd4?'
+p1054
+tp1055
+Rp1056
+tp1057
+a(S'mary ann radcliffe'
+p1058
+g2
+(g6
+S'\xfc\x81=\x92@\xde\xd4?'
+p1059
+tp1060
+Rp1061
+tp1062
+a(S'raton pass (film)'
+p1063
+g2
+(g6
+S'\\\xbb\xdf\x15\x90\xd7\xd4?'
+p1064
+tp1065
+Rp1066
+tp1067
+a(S'jo-anne'
+p1068
+g2
+(g6
+S'\x05r\xebS\x9f\xd4\xd4?'
+p1069
+tp1070
+Rp1071
+tp1072
+a(S'chaos at the chateau'
+p1073
+g2
+(g6
+S'!\xd4b\xe5\xbc\xd0\xd4?'
+p1074
+tp1075
+Rp1076
+tp1077
+a(S'the call (the twilight zone)'
+p1078
+g2
+(g6
+S'\x0cM\xd6\xc3\xd7\xc8\xd4?'
+p1079
+tp1080
+Rp1081
+tp1082
+a(S'ann ferguson'
+p1083
+g2
+(g6
+S'\xa0\x8fz\x14f\xc4\xd4?'
+p1084
+tp1085
+Rp1086
+tp1087
+a(S'ann eliza young'
+p1088
+g2
+(g6
+S';\xacP\xbb\x87\xbe\xd4?'
+p1089
+tp1090
+Rp1091
+tp1092
+a(S'pam rose'
+p1093
+g2
+(g6
+S'm\xa0a\x9d\xca\xb8\xd4?'
+p1094
+tp1095
+Rp1096
+tp1097
+a(S'ann river'
+p1098
+g2
+(g6
+S'\xcaP\xfc\xed8\xb4\xd4?'
+p1099
+tp1100
+Rp1101
+tp1102
+a(S'roads of destiny'
+p1103
+g2
+(g6
+S'{\x17\x0f\x08\x10\xab\xd4?'
+p1104
+tp1105
+Rp1106
+tp1107
+a(S'ann stevens house'
+p1108
+g2
+(g6
+S'=\x97\xf5lB\xaa\xd4?'
+p1109
+tp1110
+Rp1111
+tp1112
+a(S'ann bateman'
+p1113
+g2
+(g6
+S'\xcd\xa0\xee#j\xa4\xd4?'
+p1114
+tp1115
+Rp1116
+tp1117
+a(S'pillhill brook'
+p1118
+g2
+(g6
+S'G9\xa2\xa3\xc4\xa2\xd4?'
+p1119
+tp1120
+Rp1121
+tp1122
+a(S'radio lover'
+p1123
+g2
+(g6
+S'P\xcd\xb8\x12>\x99\xd4?'
+p1124
+tp1125
+Rp1126
+tp1127
+a(S'ann foster'
+p1128
+g2
+(g6
+S'\xda\xae\xdf,\xb0\x98\xd4?'
+p1129
+tp1130
+Rp1131
+tp1132
+a(S'anne crawford (disambiguation)'
+p1133
+g2
+(g6
+S'ILR\tG\x94\xd4?'
+p1134
+tp1135
+Rp1136
+tp1137
+a(S'samuel beakes'
+p1138
+g2
+(g6
+S'\x19\xef\x16(\x0e\x94\xd4?'
+p1139
+tp1140
+Rp1141
+tp1142
+a(S"an alarc'h"
+p1143
+g2
+(g6
+S'{(\x91\xeb\xbf\x91\xd4?'
+p1144
+tp1145
+Rp1146
+tp1147
+a(S'the lady objects'
+p1148
+g2
+(g6
+S'\x88\xce2\xd4t\x8f\xd4?'
+p1149
+tp1150
+Rp1151
+tp1152
+a(S'ann calvello'
+p1153
+g2
+(g6
+S'\x04\x07{[\xb3\x86\xd4?'
+p1154
+tp1155
+Rp1156
+tp1157
+a(S'funny games (2007 film)'
+p1158
+g2
+(g6
+S'd\x81[\xbd\xc7\x82\xd4?'
+p1159
+tp1160
+Rp1161
+tp1162
+a(S'republic with ann bezulyk'
+p1163
+g2
+(g6
+S'$\xe8\xff\xa3~\x82\xd4?'
+p1164
+tp1165
+Rp1166
+tp1167
+a(S'fall into darkness'
+p1168
+g2
+(g6
+S'oc\xd7\x83\x1c~\xd4?'
+p1169
+tp1170
+Rp1171
+tp1172
+a(S'aata'
+p1173
+g2
+(g6
+S'\xee\x9ai\xd5\x9b|\xd4?'
+p1174
+tp1175
+Rp1176
+tp1177
+a(S'fort ann, new york'
+p1178
+g2
+(g6
+S'\xcecmz\x97r\xd4?'
+p1179
+tp1180
+Rp1181
+tp1182
+a(S'ann browne'
+p1183
+g2
+(g6
+S')B\xe7\xe7\x85h\xd4?'
+p1184
+tp1185
+Rp1186
+tp1187
+a(S"st ann's chapel, cornwall"
+p1188
+g2
+(g6
+S'<\xdf\xaf\xc3`e\xd4?'
+p1189
+tp1190
+Rp1191
+tp1192
+a(S'c.c. and company'
+p1193
+g2
+(g6
+S'[\xbf\xa5\x86\x95]\xd4?'
+p1194
+tp1195
+Rp1196
+tp1197
+a(S'ann reed'
+p1198
+g2
+(g6
+S'\x983f\xd6\x89X\xd4?'
+p1199
+tp1200
+Rp1201
+tp1202
+a(S'anne allen'
+p1203
+g2
+(g6
+S'\xd06_8&O\xd4?'
+p1204
+tp1205
+Rp1206
+tp1207
+a(S"dic ann's hamburgers"
+p1208
+g2
+(g6
+S'\xc6\xacf\xd1#H\xd4?'
+p1209
+tp1210
+Rp1211
+tp1212
+a(S'ann arbor bus depot'
+p1213
+g2
+(g6
+S':\xb1\x16\xc5\x08@\xd4?'
+p1214
+tp1215
+Rp1216
+tp1217
+a(S'mary ann mccall'
+p1218
+g2
+(g6
+S'\xfb\x84\x12e?&\xd4?'
+p1219
+tp1220
+Rp1221
+tp1222
+a(S'ralph gold'
+p1223
+g2
+(g6
+S'\xb0\x8a\xad\x94\xad\x1e\xd4?'
+p1224
+tp1225
+Rp1226
+tp1227
+a(S'james kingsley'
+p1228
+g2
+(g6
+S"\xcdn\xec\xe0'\x1e\xd4?"
+p1229
+tp1230
+Rp1231
+tp1232
+a(S"life's work"
+p1233
+g2
+(g6
+S'Zc?\x04\xf6\x16\xd4?'
+p1234
+tp1235
+Rp1236
+tp1237
+a(S'this was paris'
+p1238
+g2
+(g6
+S'_\x02\x99~\xc6\x16\xd4?'
+p1239
+tp1240
+Rp1241
+tp1242
+a(S'ann arbor district library'
+p1243
+g2
+(g6
+S'\xc8\xd5@\x9b\x95\x10\xd4?'
+p1244
+tp1245
+Rp1246
+tp1247
+a(S'ann mitchai'
+p1248
+g2
+(g6
+S'\x97\x94\nt*\x06\xd4?'
+p1249
+tp1250
+Rp1251
+tp1252
+a(S"st anne's cathedral"
+p1253
+g2
+(g6
+S'{\xff\x8f\x85A\xfe\xd3?'
+p1254
+tp1255
+Rp1256
+tp1257
+a(S'buckaroo (song)'
+p1258
+g2
+(g6
+S'\xf3LI&\xf4\xfd\xd3?'
+p1259
+tp1260
+Rp1261
+tp1262
+a(S"st. ann's episcopal church"
+p1263
+g2
+(g6
+S"\x06\xf8\x87'r\xf3\xd3?"
+p1264
+tp1265
+Rp1266
+tp1267
+a(S'ann lewis (disambiguation)'
+p1268
+g2
+(g6
+S'\x94\t~W\x86\xee\xd3?'
+p1269
+tp1270
+Rp1271
+tp1272
+a(S'ann yearsley'
+p1273
+g2
+(g6
+S',Z\x07\xc2\xe9\xe6\xd3?'
+p1274
+tp1275
+Rp1276
+tp1277
+a(S'ann griffiths'
+p1278
+g2
+(g6
+S'X\xb1+\x15e\xd1\xd3?'
+p1279
+tp1280
+Rp1281
+tp1282
+a(S"st. ann's well gardens, hove"
+p1283
+g2
+(g6
+S'\xd5pe\x00\x84\xce\xd3?'
+p1284
+tp1285
+Rp1286
+tp1287
+a(S'night unto night'
+p1288
+g2
+(g6
+S'\x81V\x911\xd0\xc8\xd3?'
+p1289
+tp1290
+Rp1291
+tp1292
+a(S'ann'
+p1293
+g2
+(g6
+S'vp\xb5n\xf7\xad\xd3?'
+p1294
+tp1295
+Rp1296
+tp1297
+a(S'ss rose ann'
+p1298
+g2
+(g6
+S'+\x90M\xbf\xfa\xa1\xd3?'
+p1299
+tp1300
+Rp1301
+tp1302
+a(S"historic st. ann's (greenwood, taylor county, wisconsin)"
+p1303
+g2
+(g6
+S'\x0f\xf6 K\xa3\x99\xd3?'
+p1304
+tp1305
+Rp1306
+tp1307
+a(S'ann siang hill'
+p1308
+g2
+(g6
+S'\xd9\t\xbc\x81E\x97\xd3?'
+p1309
+tp1310
+Rp1311
+tp1312
+a(S'finn \xc3\x93 haughluinn'
+p1313
+g2
+(g6
+S'/3\xc38\xd9\x94\xd3?'
+p1314
+tp1315
+Rp1316
+tp1317
+a(S'anne hunter popkin'
+p1318
+g2
+(g6
+S'\x00\x88\xd1r?\x91\xd3?'
+p1319
+tp1320
+Rp1321
+tp1322
+a(S'abi ann'
+p1323
+g2
+(g6
+S'\xe8\\\xd2Ep}\xd3?'
+p1324
+tp1325
+Rp1326
+tp1327
+a(S'woman possessed'
+p1328
+g2
+(g6
+S'\xd2\x03\x7f\xa7\x93z\xd3?'
+p1329
+tp1330
+Rp1331
+tp1332
+a(S'scarisbrick hall'
+p1333
+g2
+(g6
+S'\xf6D\\\xee\xe2\\\xd3?'
+p1334
+tp1335
+Rp1336
+tp1337
+a(S'the shrike (play)'
+p1338
+g2
+(g6
+S'Slu\xf4%\\\xd3?'
+p1339
+tp1340
+Rp1341
+tp1342
+a(S'mary ann black'
+p1343
+g2
+(g6
+S'\xf8\x81/\xb0LW\xd3?'
+p1344
+tp1345
+Rp1346
+tp1347
+a(S'ann demeulemeester'
+p1348
+g2
+(g6
+S'\xc9\xd1q\xb0\xefP\xd3?'
+p1349
+tp1350
+Rp1351
+tp1352
+a(S'lai ann'
+p1353
+g2
+(g6
+S'\xa9\xd9\x00\x91\x99J\xd3?'
+p1354
+tp1355
+Rp1356
+tp1357
+a(S'sludden'
+p1358
+g2
+(g6
+S'46w\x95.I\xd3?'
+p1359
+tp1360
+Rp1361
+tp1362
+a(S'anne lee'
+p1363
+g2
+(g6
+S'\x0f\xdc\x9aXzH\xd3?'
+p1364
+tp1365
+Rp1366
+tp1367
+a(S'mary ann sullivan'
+p1368
+g2
+(g6
+S'\\\x8b\xc23\x19G\xd3?'
+p1369
+tp1370
+Rp1371
+tp1372
+a(S'fred fassert'
+p1373
+g2
+(g6
+S'o\x87f\x962@\xd3?'
+p1374
+tp1375
+Rp1376
+tp1377
+a(S'loose ankles'
+p1378
+g2
+(g6
+S'D\xef\x01\xb1\x18=\xd3?'
+p1379
+tp1380
+Rp1381
+tp1382
+a(S'orphan of the pecos'
+p1383
+g2
+(g6
+S'\xefZ\xbd\xe9\xf37\xd3?'
+p1384
+tp1385
+Rp1386
+tp1387
+a(S'theatre in michigan'
+p1388
+g2
+(g6
+S'\xa1\xb4\x9d\xc4\xaf6\xd3?'
+p1389
+tp1390
+Rp1391
+tp1392
+a(S"st ann's, london"
+p1393
+g2
+(g6
+S'+B\xb4\x00\xdb(\xd3?'
+p1394
+tp1395
+Rp1396
+tp1397
+a(S'related'
+p1398
+g2
+(g6
+S"S\xff\r\x0c\xc6'\xd3?"
+p1399
+tp1400
+Rp1401
+tp1402
+a(S'mary ann oatman'
+p1403
+g2
+(g6
+S'8\xba\x0cOy\x1e\xd3?'
+p1404
+tp1405
+Rp1406
+tp1407
+a(S'ann morning'
+p1408
+g2
+(g6
+S'\xd6\xa2\xc0_\xe3\x1c\xd3?'
+p1409
+tp1410
+Rp1411
+tp1412
+a(S'any body...any way'
+p1413
+g2
+(g6
+S'G\rI\xeet\x1c\xd3?'
+p1414
+tp1415
+Rp1416
+tp1417
+a(S'ann, missouri'
+p1418
+g2
+(g6
+S'\xe2*:\x90\xf9\x19\xd3?'
+p1419
+tp1420
+Rp1421
+tp1422
+a(S'z for zachariah (film)'
+p1423
+g2
+(g6
+S'W\xf2\xe0\xd40\x19\xd3?'
+p1424
+tp1425
+Rp1426
+tp1427
+a(S'antwaun stanley'
+p1428
+g2
+(g6
+S'\\M\xfc\x0b\x16\x14\xd3?'
+p1429
+tp1430
+Rp1431
+tp1432
+a(S'da thadiya'
+p1433
+g2
+(g6
+S'1-a\xc9\x85\x13\xd3?'
+p1434
+tp1435
+Rp1436
+tp1437
+a(S'mary ann mccracken'
+p1438
+g2
+(g6
+S'\xa0\xe4\x00\x1eC\x13\xd3?'
+p1439
+tp1440
+Rp1441
+tp1442
+a(S'sarah ann gill'
+p1443
+g2
+(g6
+S'\xaf\xa9\xb8;.\r\xd3?'
+p1444
+tp1445
+Rp1446
+tp1447
+a(S'raggedy ann'
+p1448
+g2
+(g6
+S'\x85\x02\x1d\xfb\x1f\x0c\xd3?'
+p1449
+tp1450
+Rp1451
+tp1452
+a(S'ch\xc3\xac mi na m\xc3\xb2rbheanna'
+p1453
+g2
+(g6
+S'\xb5}\xc7\x817\x08\xd3?'
+p1454
+tp1455
+Rp1456
+tp1457
+a(S'the antics of ann'
+p1458
+g2
+(g6
+S'\xa0\x89?7\xa3\xf1\xd2?'
+p1459
+tp1460
+Rp1461
+tp1462
+a(S'ann devroy'
+p1463
+g2
+(g6
+S'3l\xe4\xa62\xe4\xd2?'
+p1464
+tp1465
+Rp1466
+tp1467
+a(S'ann swisshelm'
+p1468
+g2
+(g6
+S'\xa8i\x82\xe7\xea\xe3\xd2?'
+p1469
+tp1470
+Rp1471
+tp1472
+a(S'ann ayscough sands'
+p1473
+g2
+(g6
+S'm\xbd\xb5\xd1\x83\xe0\xd2?'
+p1474
+tp1475
+Rp1476
+tp1477
+a(S'lucy ann polk'
+p1478
+g2
+(g6
+S'\xd6/\xcc\xca\x06\xe0\xd2?'
+p1479
+tp1480
+Rp1481
+tp1482
+a(S'ann of the airlanes'
+p1483
+g2
+(g6
+S'\x14NKs\xed\xd7\xd2?'
+p1484
+tp1485
+Rp1486
+tp1487
+a(S'kearns-saint ann catholic school'
+p1488
+g2
+(g6
+S's\x10\xa5cO\xd1\xd2?'
+p1489
+tp1490
+Rp1491
+tp1492
+a(S'cape ann museum'
+p1493
+g2
+(g6
+S'L\x89\x84`\xf4\xcf\xd2?'
+p1494
+tp1495
+Rp1496
+tp1497
+a(S'miss america 1962'
+p1498
+g2
+(g6
+S'\x8d\xb9\xe8\x81\xff\xc9\xd2?'
+p1499
+tp1500
+Rp1501
+tp1502
+a(S'smoker protection law'
+p1503
+g2
+(g6
+S'\xdd\xf7\xf2k\xea\xc2\xd2?'
+p1504
+tp1505
+Rp1506
+tp1507
+a(S"st. ann's church complex (woonsocket, rhode island)"
+p1508
+g2
+(g6
+S'\xd5\r\xe1\xd2\x18\xbf\xd2?'
+p1509
+tp1510
+Rp1511
+tp1512
+a.

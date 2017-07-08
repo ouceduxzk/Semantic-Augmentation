@@ -1,0 +1,2728 @@
+(lp0
+(S'iran'
+p1
+cnumpy.core.multiarray
+scalar
+p2
+(cnumpy
+dtype
+p3
+(S'f8'
+p4
+I0
+I1
+tp5
+Rp6
+(I3
+S'<'
+p7
+NNNI-1
+I-1
+I0
+tp8
+bS'\x03\x00\x00\x00\x00\x00\xf0?'
+p9
+tp10
+Rp11
+tp12
+a(S'outline of iran'
+p13
+g2
+(g6
+S'\x96bG}1M\xeb?'
+p14
+tp15
+Rp16
+tp17
+a(S'iran\xe2\x80\x93united states relations'
+p18
+g2
+(g6
+S'\xe41D[WL\xeb?'
+p19
+tp20
+Rp21
+tp22
+a(S'iran (disambiguation)'
+p23
+g2
+(g6
+S'o\x06\xb8nmD\xeb?'
+p24
+tp25
+Rp26
+tp27
+a(S'foreign relations of iran'
+p28
+g2
+(g6
+S't\x82\x1c\x1c_\x82\xea?'
+p29
+tp30
+Rp31
+tp32
+a(S'arab league\xe2\x80\x93iran relations'
+p33
+g2
+(g6
+S'hz\xc5\x07\xf4\x18\xea?'
+p34
+tp35
+Rp36
+tp37
+a(S'history of iran'
+p38
+g2
+(g6
+S'\x1e\xae\tl\xc4\x11\xea?'
+p39
+tp40
+Rp41
+tp42
+a(S'science and technology in iran'
+p43
+g2
+(g6
+S'L\x88\x1bJ\x92\x89\xe9?'
+p44
+tp45
+Rp46
+tp47
+a(S'hussainabad'
+p48
+g2
+(g6
+S'\xc5`\xf7\x02}}\xe9?'
+p49
+tp50
+Rp51
+tp52
+a(S'list of iran-related topics'
+p53
+g2
+(g6
+S'\xd75\xf3[K@\xe9?'
+p54
+tp55
+Rp56
+tp57
+a(S'culture of iran'
+p58
+g2
+(g6
+S']\xd4\xb9\x00\xca\xb4\xe8?'
+p59
+tp60
+Rp61
+tp62
+a(S'economy of iran'
+p63
+g2
+(g6
+S'{D\xddxi\xb4\xe8?'
+p64
+tp65
+Rp66
+tp67
+a(S'industry of iran'
+p68
+g2
+(g6
+S'3n\x9c\xf6-?\xe8?'
+p69
+tp70
+Rp71
+tp72
+a(S'media of iran'
+p73
+g2
+(g6
+S'\xaf*E\x85\xca\x10\xe8?'
+p74
+tp75
+Rp76
+tp77
+a(S'armed forces of the islamic republic of iran'
+p78
+g2
+(g6
+S'q\xa4\x11E\xb1\xfd\xe7?'
+p79
+tp80
+Rp81
+tp82
+a(S'2006 in iran'
+p83
+g2
+(g6
+S'5oM\xf1T\xc0\xe7?'
+p84
+tp85
+Rp86
+tp87
+a(S'opposition to military action against iran'
+p88
+g2
+(g6
+S'0\xed\xbf\xbc\x01\xc0\xe7?'
+p89
+tp90
+Rp91
+tp92
+a(S'iran\xe2\x80\x93united kingdom relations'
+p93
+g2
+(g6
+S'C\n\x91\x13\xd9\xa8\xe7?'
+p94
+tp95
+Rp96
+tp97
+a(S'iran aviation industries organization'
+p98
+g2
+(g6
+S'\xd42\xfe&\xdd\x98\xe7?'
+p99
+tp100
+Rp101
+tp102
+a(S'sharafabad'
+p103
+g2
+(g6
+S'W\x18\xc7A\x93\x84\xe7?'
+p104
+tp105
+Rp106
+tp107
+a(S'iran\xe2\x80\x93united states relations after 1979'
+p108
+g2
+(g6
+S'\n\x8f\x87"\xf5v\xe7?'
+p109
+tp110
+Rp111
+tp112
+a(S'united nations security council resolution 1747'
+p113
+g2
+(g6
+S'\xf2\xc5\x17\xa3Pm\xe7?'
+p114
+tp115
+Rp116
+tp117
+a(S'ethnicities in iran'
+p118
+g2
+(g6
+S'\xc8#I\xaehS\xe7?'
+p119
+tp120
+Rp121
+tp122
+a(S'defense industry of iran'
+p123
+g2
+(g6
+S'd\xd5\xb5#\x9cM\xe7?'
+p124
+tp125
+Rp126
+tp127
+a(S'tourism in iran'
+p128
+g2
+(g6
+S'm`\x93\xb2\x89K\xe7?'
+p129
+tp130
+Rp131
+tp132
+a(S'ethnic minorities in iran'
+p133
+g2
+(g6
+S'S\xa2H4\x80\n\xe7?'
+p134
+tp135
+Rp136
+tp137
+a(S'demographics of iran'
+p138
+g2
+(g6
+S'\xb7\x0c\x14W\x19\xfd\xe6?'
+p139
+tp140
+Rp141
+tp142
+a(S'tondar'
+p143
+g2
+(g6
+S'O^\xb6\xea\x9e\xf7\xe6?'
+p144
+tp145
+Rp146
+tp147
+a(S'financial tribune'
+p148
+g2
+(g6
+S'\xe1S{\xc7i\x89\xe6?'
+p149
+tp150
+Rp151
+tp152
+a(S'germany\xe2\x80\x93iran relations'
+p153
+g2
+(g6
+S'l{$a\xfb\x7f\xe6?'
+p154
+tp155
+Rp156
+tp157
+a(S'majid adibzadeh'
+p158
+g2
+(g6
+S'-a\x1c ra\xe6?'
+p159
+tp160
+Rp161
+tp162
+a(S'seyyed hossein mousavian'
+p163
+g2
+(g6
+S'-\xfc\x0ei\xfeY\xe6?'
+p164
+tp165
+Rp166
+tp167
+a(S'tarom, iran'
+p168
+g2
+(g6
+S'e\xed\x9fB\xf1W\xe6?'
+p169
+tp170
+Rp171
+tp172
+a(S'2012 in iran'
+p173
+g2
+(g6
+S'\x8c\x91\xa9\x8btQ\xe6?'
+p174
+tp175
+Rp176
+tp177
+a(S'sanctions against iran'
+p178
+g2
+(g6
+S'\x19\xbc\xc0Z\x9eD\xe6?'
+p179
+tp180
+Rp181
+tp182
+a(S'wildlife of iran'
+p183
+g2
+(g6
+S"('\xd2\x0f#(\xe6?"
+p184
+tp185
+Rp186
+tp187
+a(S'economic history of iran'
+p188
+g2
+(g6
+S'<\xaa\xe4w\x17\x18\xe6?'
+p189
+tp190
+Rp191
+tp192
+a(S'china\xe2\x80\x93iran relations'
+p193
+g2
+(g6
+S'\xab1\xbbk\xe7\x16\xe6?'
+p194
+tp195
+Rp196
+tp197
+a(S'history of the islamic republic of iran'
+p198
+g2
+(g6
+S'\xe2X\xf9\nk\x10\xe6?'
+p199
+tp200
+Rp201
+tp202
+a(S'india\xe2\x80\x93iran relations'
+p203
+g2
+(g6
+S'\xd4q\x888\xcb\x0e\xe6?'
+p204
+tp205
+Rp206
+tp207
+a(S'sport in iran'
+p208
+g2
+(g6
+S'?\xa9=N\x8b\x03\xe6?'
+p209
+tp210
+Rp211
+tp212
+a(S'fariborz lachini'
+p213
+g2
+(g6
+S'\xd0\xb1\xf0\xf9\x84\x01\xe6?'
+p214
+tp215
+Rp216
+tp217
+a(S'history of the iranian navy'
+p218
+g2
+(g6
+S'\xed\xd0\xa0%[\xfc\xe5?'
+p219
+tp220
+Rp221
+tp222
+a(S'historical equipment of the iranian army'
+p223
+g2
+(g6
+S'_\xa4\x1fY\xb5\xfa\xe5?'
+p224
+tp225
+Rp226
+tp227
+a(S'healthcare in iran'
+p228
+g2
+(g6
+S'\x97\xbcc\xab\x00\xee\xe5?'
+p229
+tp230
+Rp231
+tp232
+a(S'greater iran'
+p233
+g2
+(g6
+S'\xe6W\x95\xd7\xaa\xe0\xe5?'
+p234
+tp235
+Rp236
+tp237
+a(S'shush'
+p238
+g2
+(g6
+S'\xf6N\xbcQ\xf9\xda\xe5?'
+p239
+tp240
+Rp241
+tp242
+a(S'iran\xe2\x80\x93european union relations'
+p243
+g2
+(g6
+S'\xff\x98_EV\xd8\xe5?'
+p244
+tp245
+Rp246
+tp247
+a(S'nasrollah kasraian'
+p248
+g2
+(g6
+S'\xb2\x18\x975@\xcc\xe5?'
+p249
+tp250
+Rp251
+tp252
+a(S'iran\xe2\x80\x93russia relations'
+p253
+g2
+(g6
+S'\x0f`\xff\xb1\xf3\xc1\xe5?'
+p254
+tp255
+Rp256
+tp257
+a(S'communications in iran'
+p258
+g2
+(g6
+S'=\x06\xb8\xf6\xc2\xbc\xe5?'
+p259
+tp260
+Rp261
+tp262
+a(S'iaeste iran'
+p263
+g2
+(g6
+S'!I5\x856\xb5\xe5?'
+p264
+tp265
+Rp266
+tp267
+a(S'military history of iran'
+p268
+g2
+(g6
+S'\xd1\x95\x7f\x1eS\x9e\xe5?'
+p269
+tp270
+Rp271
+tp272
+a(S'fereshteh taerpour'
+p273
+g2
+(g6
+S'\x1a\x14\xdb>b{\xe5?'
+p274
+tp275
+Rp276
+tp277
+a(S'united against nuclear iran'
+p278
+g2
+(g6
+S'\xcd=\xe0\x86\x9eo\xe5?'
+p279
+tp280
+Rp281
+tp282
+a(S'france\xe2\x80\x93iran relations'
+p283
+g2
+(g6
+S'\x88\xa6C\xb7Fl\xe5?'
+p284
+tp285
+Rp286
+tp287
+a(S'vossug ed dowleh'
+p288
+g2
+(g6
+S'\x8b\xfa\xd7\xe6\xc4j\xe5?'
+p289
+tp290
+Rp291
+tp292
+a(S'timeline of the nuclear program of iran'
+p293
+g2
+(g6
+S'\x00\xa6\xadP\xd3h\xe5?'
+p294
+tp295
+Rp296
+tp297
+a(S'ministry of welfare and social security (iran)'
+p298
+g2
+(g6
+S'\x93\x8c\x7f\r\xcbe\xe5?'
+p299
+tp300
+Rp301
+tp302
+a(S'hossein abadian'
+p303
+g2
+(g6
+S'\x0e\xdd\x8fk*c\xe5?'
+p304
+tp305
+Rp306
+tp307
+a(S'human capital flight from iran'
+p308
+g2
+(g6
+S'\x15\x13!T;_\xe5?'
+p309
+tp310
+Rp311
+tp312
+a(S'canada\xe2\x80\x93iran relations'
+p313
+g2
+(g6
+S'\x7f2\x93`\x84\\\xe5?'
+p314
+tp315
+Rp316
+tp317
+a(S'foreign direct investment in iran'
+p318
+g2
+(g6
+S'(*\x80b\xe9V\xe5?'
+p319
+tp320
+Rp321
+tp322
+a(S'iran\xe2\x80\x93israel relations'
+p323
+g2
+(g6
+S'\x90W{\xbd\xf3R\xe5?'
+p324
+tp325
+Rp326
+tp327
+a(S'abdolhossein teymourtash'
+p328
+g2
+(g6
+S'2K\x1aE\xf1P\xe5?'
+p329
+tp330
+Rp331
+tp332
+a(S'iran chamber of commerce, industries, mines & agriculture'
+p333
+g2
+(g6
+S'\x1fJP\xb3iN\xe5?'
+p334
+tp335
+Rp336
+tp337
+a(S'p5+1'
+p338
+g2
+(g6
+S'[\xda\x0e\x9e"J\xe5?'
+p339
+tp340
+Rp341
+tp342
+a(S'list of iranian assassinations'
+p343
+g2
+(g6
+S'\xf9\x86\xbe\xc3\xed<\xe5?'
+p344
+tp345
+Rp346
+tp347
+a(S'alex vatanka'
+p348
+g2
+(g6
+S'\x97\xbc\xcc\x13_<\xe5?'
+p349
+tp350
+Rp351
+tp352
+a(S'2011 in iran'
+p353
+g2
+(g6
+S'\x17`\xe8\xf7\xed;\xe5?'
+p354
+tp355
+Rp356
+tp357
+a(S'mohammad sattarifar'
+p358
+g2
+(g6
+S'\xb8.Y\x0f\x037\xe5?'
+p359
+tp360
+Rp361
+tp362
+a(S'sardarabad'
+p363
+g2
+(g6
+S'G\xfdi\xa8#/\xe5?'
+p364
+tp365
+Rp366
+tp367
+a(S'georgia\xe2\x80\x93iran relations'
+p368
+g2
+(g6
+S'-4B\x08\xba,\xe5?'
+p369
+tp370
+Rp371
+tp372
+a(S'gholam reza afkhami'
+p373
+g2
+(g6
+S'?\x9b*\xd8\xa1&\xe5?'
+p374
+tp375
+Rp376
+tp377
+a(S'views on the nuclear program of iran'
+p378
+g2
+(g6
+S'P\x87\xc5\xf7\x06\x1f\xe5?'
+p379
+tp380
+Rp381
+tp382
+a(S'anglo-soviet invasion of iran'
+p383
+g2
+(g6
+S'\xaa\x08\x11\xac\xf7\x12\xe5?'
+p384
+tp385
+Rp386
+tp387
+a(S'haleh esfandiari'
+p388
+g2
+(g6
+S'dj-\x126\x11\xe5?'
+p389
+tp390
+Rp391
+tp392
+a(S'amir mohebbian'
+p393
+g2
+(g6
+S'\xca\xee\x96\xa0v\x07\xe5?'
+p394
+tp395
+Rp396
+tp397
+a(S'iranian nationalism'
+p398
+g2
+(g6
+S'\xd6\x887\xb0\xa8\xfd\xe4?'
+p399
+tp400
+Rp401
+tp402
+a(S'national council of iran'
+p403
+g2
+(g6
+S'\xe8\xff\xb7U\xd0\xfc\xe4?'
+p404
+tp405
+Rp406
+tp407
+a(S'iran human rights documentation center'
+p408
+g2
+(g6
+S'\x8f\xc0\xbee5\xf7\xe4?'
+p409
+tp410
+Rp411
+tp412
+a(S'list of airlines of iran'
+p413
+g2
+(g6
+S'\xb1M\x10*\xe5\xee\xe4?'
+p414
+tp415
+Rp416
+tp417
+a(S'iran and the west'
+p418
+g2
+(g6
+S'y\xf9\xa0w\xa3\xe6\xe4?'
+p419
+tp420
+Rp421
+tp422
+a(S'rezvan'
+p423
+g2
+(g6
+S'M\xb3Bj\x07\xd6\xe4?'
+p424
+tp425
+Rp426
+tp427
+a(S'kalak'
+p428
+g2
+(g6
+S'\xa8\x9c\x99%\xe9\xd1\xe4?'
+p429
+tp430
+Rp431
+tp432
+a(S'hossein derakhshan'
+p433
+g2
+(g6
+S'@\xea1\x15+\xc1\xe4?'
+p434
+tp435
+Rp436
+tp437
+a(S'energy in iran'
+p438
+g2
+(g6
+S'\x88^\xbb\x81\xe2\xbe\xe4?'
+p439
+tp440
+Rp441
+tp442
+a(S'campaign against sanctions and military intervention in iran'
+p443
+g2
+(g6
+S'T\xe7\xfd\xd3\xb4\xbc\xe4?'
+p444
+tp445
+Rp446
+tp447
+a(S'ahmadreza baharloo'
+p448
+g2
+(g6
+S'\x9d6\x0b\x8c\x06\xac\xe4?'
+p449
+tp450
+Rp451
+tp452
+a(S'ministry of roads and urban development (iran)'
+p453
+g2
+(g6
+S'\xbcG\x14\xe5\x17\xaa\xe4?'
+p454
+tp455
+Rp456
+tp457
+a(S'religious music in iran'
+p458
+g2
+(g6
+S'n\xebQ\xdcK\xa2\xe4?'
+p459
+tp460
+Rp461
+tp462
+a(S'automotive industry in iran'
+p463
+g2
+(g6
+S'\xe7\xe5\xac\x029\x95\xe4?'
+p464
+tp465
+Rp466
+tp467
+a(S'central bank of the islamic republic of iran'
+p468
+g2
+(g6
+S'-*\xbf\x05\x88\x91\xe4?'
+p469
+tp470
+Rp471
+tp472
+a(S'timeline of iranian history'
+p473
+g2
+(g6
+S'6,er\xf1\x8f\xe4?'
+p474
+tp475
+Rp476
+tp477
+a(S'human rights in the islamic republic of iran'
+p478
+g2
+(g6
+S'\n\x10_?R\x8c\xe4?'
+p479
+tp480
+Rp481
+tp482
+a(S'iran\xe2\x80\x93pakistan relations'
+p483
+g2
+(g6
+S'-uG\x030\x87\xe4?'
+p484
+tp485
+Rp486
+tp487
+a(S'political parties in iran'
+p488
+g2
+(g6
+S'r\x18\x85F\x99\x80\xe4?'
+p489
+tp490
+Rp491
+tp492
+a(S'nesar (disambiguation)'
+p493
+g2
+(g6
+S' NT\x90\x7f\x80\xe4?'
+p494
+tp495
+Rp496
+tp497
+a(S'brazil\xe2\x80\x93iran relations'
+p498
+g2
+(g6
+S'![\x19\xf2\x10\x80\xe4?'
+p499
+tp500
+Rp501
+tp502
+a(S'shahrestan'
+p503
+g2
+(g6
+S'\xdb\xef\xb1\xa2\x08u\xe4?'
+p504
+tp505
+Rp506
+tp507
+a(S'iran\xe2\x80\x93south korea relations'
+p508
+g2
+(g6
+S'\xa8\xb6\xc9\x81\x82q\xe4?'
+p509
+tp510
+Rp511
+tp512
+a(S'2010 in iran'
+p513
+g2
+(g6
+S'\xc1o\xb4\xb8\x81p\xe4?'
+p514
+tp515
+Rp516
+tp517
+a(S'iran teymourtash'
+p518
+g2
+(g6
+S'3\xd6\xccG~l\xe4?'
+p519
+tp520
+Rp521
+tp522
+a(S'iran and weapons of mass destruction'
+p523
+g2
+(g6
+S"\xab\x86:'\xf7i\xe4?"
+p524
+tp525
+Rp526
+tp527
+a(S'mohammad reza adelkhani'
+p528
+g2
+(g6
+S'\xb6\x81\x10R\x83_\xe4?'
+p529
+tp530
+Rp531
+tp532
+a(S'jundallah (iran)'
+p533
+g2
+(g6
+S'\xf4/P/j[\xe4?'
+p534
+tp535
+Rp536
+tp537
+a(S'u.s. sanctions against iran'
+p538
+g2
+(g6
+S'\xf5\xf6\xe0\x1dAY\xe4?'
+p539
+tp540
+Rp541
+tp542
+a(S'asgarabad'
+p543
+g2
+(g6
+S'<\x9d\xe1\xd8eU\xe4?'
+p544
+tp545
+Rp546
+tp547
+a(S'health in iran'
+p548
+g2
+(g6
+S'\xc0\xc9\x89\xb1\xd1Q\xe4?'
+p549
+tp550
+Rp551
+tp552
+a(S'society for the national heritage of iran'
+p553
+g2
+(g6
+S'p7\x9f\x04\\Q\xe4?'
+p554
+tp555
+Rp556
+tp557
+a(S'iran\xe2\x80\x93philippines relations'
+p558
+g2
+(g6
+S'\xb6\xe4\x07\x86\xf7L\xe4?'
+p559
+tp560
+Rp561
+tp562
+a(S'iran\xe2\x80\x93iraq relations'
+p563
+g2
+(g6
+S'\x80\xf5\x82\xe8rE\xe4?'
+p564
+tp565
+Rp566
+tp567
+a(S'human rights in iran'
+p568
+g2
+(g6
+S'6,\x83\xf7(A\xe4?'
+p569
+tp570
+Rp571
+tp572
+a(S'ministry of infrastructure (iran)'
+p573
+g2
+(g6
+S'%\xa9\xb4\x9a\xaa=\xe4?'
+p574
+tp575
+Rp576
+tp577
+a(S'iran\xe2\x80\x93turkey relations'
+p578
+g2
+(g6
+S'\xf1F\x08\x16\x7f(\xe4?'
+p579
+tp580
+Rp581
+tp582
+a(S'asadollah asgaroladi'
+p583
+g2
+(g6
+S'k\x8e\x13\xa1 &\xe4?'
+p584
+tp585
+Rp586
+tp587
+a(S'alireza jafarzadeh'
+p588
+g2
+(g6
+S'\x0e\xcc=\xd8F\x1c\xe4?'
+p589
+tp590
+Rp591
+tp592
+a(S'liberalism in iran'
+p593
+g2
+(g6
+S'\xc0\xf1\xce\x84`\x0c\xe4?'
+p594
+tp595
+Rp596
+tp597
+a(S'negotiations leading to the joint comprehensive plan of action'
+p598
+g2
+(g6
+S'\x0f\xedq\xb6\xbe\x04\xe4?'
+p599
+tp600
+Rp601
+tp602
+a(S'2011 iran assassination plot'
+p603
+g2
+(g6
+S'\x1fW\x0c\xa9g\x03\xe4?'
+p604
+tp605
+Rp606
+tp607
+a(S'meva'
+p608
+g2
+(g6
+S'\x02\nPb\xb5\x01\xe4?'
+p609
+tp610
+Rp611
+tp612
+a(S'islam in iran'
+p613
+g2
+(g6
+S'\x10\x9f\xdd\x82T\xfd\xe3?'
+p614
+tp615
+Rp616
+tp617
+a(S'john limbert'
+p618
+g2
+(g6
+S'\xf45&A\xc0\xf8\xe3?'
+p619
+tp620
+Rp621
+tp622
+a(S'freydun (disambiguation)'
+p623
+g2
+(g6
+S'#zw\xbd\xf9\xf6\xe3?'
+p624
+tp625
+Rp626
+tp627
+a(S'university of chicago persian antiquities dispute'
+p628
+g2
+(g6
+S'\x0f\xf8\xbc-X\xf2\xe3?'
+p629
+tp630
+Rp631
+tp632
+a(S'list of economic laws in iran'
+p633
+g2
+(g6
+S'\xf44\xea\xbb\x7f\xed\xe3?'
+p634
+tp635
+Rp636
+tp637
+a(S'football in iran'
+p638
+g2
+(g6
+S'\xd4\xdc\xa3\xa9\xbc\xe5\xe3?'
+p639
+tp640
+Rp641
+tp642
+a(S'roozbeh farahanipour'
+p643
+g2
+(g6
+S'JV\x18\xf7p\xde\xe3?'
+p644
+tp645
+Rp646
+tp647
+a(S'religion in iran'
+p648
+g2
+(g6
+S'\xe3\x9c,\x1e\xe6\xdb\xe3?'
+p649
+tp650
+Rp651
+tp652
+a(S'iran\xe2\x80\x93north korea relations'
+p653
+g2
+(g6
+S'\xed\xbf|\xa3\x9b\xdb\xe3?'
+p654
+tp655
+Rp656
+tp657
+a(S"women's rights in iran"
+p658
+g2
+(g6
+S'\xebed3\xcd\xd7\xe3?'
+p659
+tp660
+Rp661
+tp662
+a(S'iran\xe2\x80\x93japan relations'
+p663
+g2
+(g6
+S'+e\x9cD-\xd6\xe3?'
+p664
+tp665
+Rp666
+tp667
+a(S'kuran'
+p668
+g2
+(g6
+S'\x96\xde\x1d.\xb0\xd2\xe3?'
+p669
+tp670
+Rp671
+tp672
+a(S'mohammad mehdi behkish'
+p673
+g2
+(g6
+S'\xa4\x1b\x0fw\x9f\xbe\xe3?'
+p674
+tp675
+Rp676
+tp677
+a(S'ghafour jeddi'
+p678
+g2
+(g6
+S'\x99/\xc9\xd2:\xbb\xe3?'
+p679
+tp680
+Rp681
+tp682
+a(S'iranian'
+p683
+g2
+(g6
+S'i\xe9\x9e\x80X\xba\xe3?'
+p684
+tp685
+Rp686
+tp687
+a(S'bonyad'
+p688
+g2
+(g6
+S'g\xea\x889E\xb8\xe3?'
+p689
+tp690
+Rp691
+tp692
+a(S'circumstance (2011 film)'
+p693
+g2
+(g6
+S"'\x91\xc3\x8e~\xb3\xe3?"
+p694
+tp695
+Rp696
+tp697
+a(S'iranshahr'
+p698
+g2
+(g6
+S'\xc1\xe6[\x12r\xaf\xe3?'
+p699
+tp700
+Rp701
+tp702
+a(S'environmental issues in iran'
+p703
+g2
+(g6
+S'[\xdb\xe3\xf7\xf4\xa6\xe3?'
+p704
+tp705
+Rp706
+tp707
+a(S'iran air'
+p708
+g2
+(g6
+S'\xa5\x19pq\xd6\xa1\xe3?'
+p709
+tp710
+Rp711
+tp712
+a(S'egypt\xe2\x80\x93iran relations'
+p713
+g2
+(g6
+S'\xa1Ho\xb7N\x9e\xe3?'
+p714
+tp715
+Rp716
+tp717
+a(S'amir-abbas fakhravar'
+p718
+g2
+(g6
+S'\xed\xc5\x1b\xb2(\x9c\xe3?'
+p719
+tp720
+Rp721
+tp722
+a(S'defense industries organization'
+p723
+g2
+(g6
+S'\\\xd6#A\x96\x9b\xe3?'
+p724
+tp725
+Rp726
+tp727
+a(S'islamic republic of iran navy'
+p728
+g2
+(g6
+S'\x82\x9bY\x8a\xd4\x9a\xe3?'
+p729
+tp730
+Rp731
+tp732
+a(S'2009 in iran'
+p733
+g2
+(g6
+S'"\xb8#m\xba\x98\xe3?'
+p734
+tp735
+Rp736
+tp737
+a(S'higher education in iran'
+p738
+g2
+(g6
+S'k\xb9\x05s\xc3\x92\xe3?'
+p739
+tp740
+Rp741
+tp742
+a(S'khodadad'
+p743
+g2
+(g6
+S'+\xb6\x9e&\x9b\x92\xe3?'
+p744
+tp745
+Rp746
+tp747
+a(S'khorram'
+p748
+g2
+(g6
+S'\xf80|f\x97\x82\xe3?'
+p749
+tp750
+Rp751
+tp752
+a(S'name of iran'
+p753
+g2
+(g6
+S'\xd4\x12S\x1b\xf5\x80\xe3?'
+p754
+tp755
+Rp756
+tp757
+a(S'agriculture in iran'
+p758
+g2
+(g6
+S'\x9d\xb3\x10\xaf\xe1|\xe3?'
+p759
+tp760
+Rp761
+tp762
+a(S"israel's role in the iran\xe2\x80\x93iraq war"
+p763
+g2
+(g6
+S'}"\xaeD\x9b|\xe3?'
+p764
+tp765
+Rp766
+tp767
+a(S'iran\xe2\x80\x93united states copyright relations'
+p768
+g2
+(g6
+S'aW\x02w4z\xe3?'
+p769
+tp770
+Rp771
+tp772
+a(S'iran\xe2\x80\x93netherlands relations'
+p773
+g2
+(g6
+S'7\x0f\x82vQx\xe3?'
+p774
+tp775
+Rp776
+tp777
+a(S'iran airports company'
+p778
+g2
+(g6
+S'\xa7\xc7\xf6\xc3\xabr\xe3?'
+p779
+tp780
+Rp781
+tp782
+a(S'iran civil aviation organization'
+p783
+g2
+(g6
+S'\xebUH\xc6\xd1i\xe3?'
+p784
+tp785
+Rp786
+tp787
+a(S'transport in iran'
+p788
+g2
+(g6
+S'\xbc\xaa\x86\xd9\xbbg\xe3?'
+p789
+tp790
+Rp791
+tp792
+a(S'fazelabad'
+p793
+g2
+(g6
+S'\x0f\xbf\xb9\x975e\xe3?'
+p794
+tp795
+Rp796
+tp797
+a(S'propaganda in iran'
+p798
+g2
+(g6
+S'}\x84W\x02\x8eX\xe3?'
+p799
+tp800
+Rp801
+tp802
+a(S'list of years in iran'
+p803
+g2
+(g6
+S'\xd7\x8c\x12\xb2\xf6W\xe3?'
+p804
+tp805
+Rp806
+tp807
+a(S'iran national football team'
+p808
+g2
+(g6
+S'\xb1\x04\x88\xacSR\xe3?'
+p809
+tp810
+Rp811
+tp812
+a(S'hassan taqizadeh'
+p813
+g2
+(g6
+S'\xcd\x7f1d\x0bP\xe3?'
+p814
+tp815
+Rp816
+tp817
+a(S'cultural heritage, handicrafts and tourism organization of iran'
+p818
+g2
+(g6
+S'R\xf9r\xb5xN\xe3?'
+p819
+tp820
+Rp821
+tp822
+a(S'hassan pirnia'
+p823
+g2
+(g6
+S'|\xfb\x0c0wL\xe3?'
+p824
+tp825
+Rp826
+tp827
+a(S'iran and state-sponsored terrorism'
+p828
+g2
+(g6
+S'\x1d\xe5Q\xf8\xaaF\xe3?'
+p829
+tp830
+Rp831
+tp832
+a(S'arthur millspaugh'
+p833
+g2
+(g6
+S'\xcb\x9c\x92b2?\xe3?'
+p834
+tp835
+Rp836
+tp837
+a(S'karvansara'
+p838
+g2
+(g6
+S'\xf8\xdaK\xbe\xa0>\xe3?'
+p839
+tp840
+Rp841
+tp842
+a(S'elaheh koulaei'
+p843
+g2
+(g6
+S'\x9f\xd3<\x9bK>\xe3?'
+p844
+tp845
+Rp846
+tp847
+a(S'joint comprehensive plan of action'
+p848
+g2
+(g6
+S'L\x96Y:\x83<\xe3?'
+p849
+tp850
+Rp851
+tp852
+a(S'abdolali bazargan'
+p853
+g2
+(g6
+S'\xfdG\xd3Z+:\xe3?'
+p854
+tp855
+Rp856
+tp857
+a(S'nayereh tohidi'
+p858
+g2
+(g6
+S'\xfc\xff\xbe\x1e\xbc8\xe3?'
+p859
+tp860
+Rp861
+tp862
+a(S'australia\xe2\x80\x93iran relations'
+p863
+g2
+(g6
+S'}\xb3\xe1"\x938\xe3?'
+p864
+tp865
+Rp866
+tp867
+a(S'privatization in iran'
+p868
+g2
+(g6
+S':\x18%\x8cx2\xe3?'
+p869
+tp870
+Rp871
+tp872
+a(S'censorship in iran'
+p873
+g2
+(g6
+S'\x81\xdbt\x0ef0\xe3?'
+p874
+tp875
+Rp876
+tp877
+a(S'intellectual movements in iran'
+p878
+g2
+(g6
+S'\x98\x7fIsM/\xe3?'
+p879
+tp880
+Rp881
+tp882
+a(S'2014 in iran'
+p883
+g2
+(g6
+S'\xba\\W\xcaj,\xe3?'
+p884
+tp885
+Rp886
+tp887
+a(S'internet censorship in iran'
+p888
+g2
+(g6
+S"\x909\x08\x1c\xe7'\xe3?"
+p889
+tp890
+Rp891
+tp892
+a(S'torkaman'
+p893
+g2
+(g6
+S'D\x92\x89\xac\xcd$\xe3?'
+p894
+tp895
+Rp896
+tp897
+a(S'irisl group'
+p898
+g2
+(g6
+S'\x9d\x95[I\xb7 \xe3?'
+p899
+tp900
+Rp901
+tp902
+a(S'bahador kharazmi'
+p903
+g2
+(g6
+S'\xbf\xe7c\x986\x1b\xe3?'
+p904
+tp905
+Rp906
+tp907
+a(S'iraqi invasion of iran (1980)'
+p908
+g2
+(g6
+S'C\xe3Rn\xa0\x15\xe3?'
+p909
+tp910
+Rp911
+tp912
+a(S'alireza naghizadeh'
+p913
+g2
+(g6
+S'\xbdwm\x17\xf1\x11\xe3?'
+p914
+tp915
+Rp916
+tp917
+a(S'iran and the world trade organization'
+p918
+g2
+(g6
+S'\xe7\xc7J\xdf\x9c\x11\xe3?'
+p919
+tp920
+Rp921
+tp922
+a(S'family planning in iran'
+p923
+g2
+(g6
+S'\x1bbL\xae\x7f\x0f\xe3?'
+p924
+tp925
+Rp926
+tp927
+a(S'the puzzle of the fish canal'
+p928
+g2
+(g6
+S'\x9e>XS+\t\xe3?'
+p929
+tp930
+Rp931
+tp932
+a(S'iran (newspaper)'
+p933
+g2
+(g6
+S'\x03r}t\x1b\t\xe3?'
+p934
+tp935
+Rp936
+tp937
+a(S'geography of iran'
+p938
+g2
+(g6
+S'F\xdf\xfa\xa7f\x04\xe3?'
+p939
+tp940
+Rp941
+tp942
+a(S'manutchehr salimi'
+p943
+g2
+(g6
+S'\xb2ov1\xff\x01\xe3?'
+p944
+tp945
+Rp946
+tp947
+a(S'islamic republic of iran army'
+p948
+g2
+(g6
+S'\xcc\xe8\xc6\xf1*\x00\xe3?'
+p949
+tp950
+Rp951
+tp952
+a(S'iran\xe2\x80\x93sweden relations'
+p953
+g2
+(g6
+S'\x9f[\xbf\x90\x19\x00\xe3?'
+p954
+tp955
+Rp956
+tp957
+a(S'moslem eskandar-filabi'
+p958
+g2
+(g6
+S'\x86\xd6NAL\xff\xe2?'
+p959
+tp960
+Rp961
+tp962
+a(S'armenia\xe2\x80\x93iran relations'
+p963
+g2
+(g6
+S'\xcc\xb9\x08\xf1\x86\xf8\xe2?'
+p964
+tp965
+Rp966
+tp967
+a(S'cia activities in iran'
+p968
+g2
+(g6
+S'\x1b\xa4Q\x9dr\xf7\xe2?'
+p969
+tp970
+Rp971
+tp972
+a(S'indians in iran'
+p973
+g2
+(g6
+S'\x89\x1bkl%\xf6\xe2?'
+p974
+tp975
+Rp976
+tp977
+a(S'fereidoun biglari'
+p978
+g2
+(g6
+S'O2f\x07Q\xf5\xe2?'
+p979
+tp980
+Rp981
+tp982
+a(S'iranian frozen assets'
+p983
+g2
+(g6
+S'\x04\xb0\x869#\xf0\xe2?'
+p984
+tp985
+Rp986
+tp987
+a(S'iran\xe2\x80\x93iraq war'
+p988
+g2
+(g6
+S'\xb6\xb2\xe3\x0e6\xee\xe2?'
+p989
+tp990
+Rp991
+tp992
+a(S'construction industry of iran'
+p993
+g2
+(g6
+S'\x8d\x9c]\x0c\x13\xe6\xe2?'
+p994
+tp995
+Rp996
+tp997
+a(S'television in iran'
+p998
+g2
+(g6
+S'\x90d\xff\xb4\xa6\xde\xe2?'
+p999
+tp1000
+Rp1001
+tp1002
+a(S'razi university'
+p1003
+g2
+(g6
+S'\xc7\x08\xa7\xba\xd3\xda\xe2?'
+p1004
+tp1005
+Rp1006
+tp1007
+a(S'support for military action against iran'
+p1008
+g2
+(g6
+S'\xa2\x80\x8d\x08I\xd7\xe2?'
+p1009
+tp1010
+Rp1011
+tp1012
+a(S'christianity in iran'
+p1013
+g2
+(g6
+S'4*\x81\xe2\xe7\xcc\xe2?'
+p1014
+tp1015
+Rp1016
+tp1017
+a(S'list of khorasani footballers'
+p1018
+g2
+(g6
+S'~\xbc\x15\n\xec\xc9\xe2?'
+p1019
+tp1020
+Rp1021
+tp1022
+a(S'denmark\xe2\x80\x93iran relations'
+p1023
+g2
+(g6
+S'\xa0\xa3Ky\xa5\xc3\xe2?'
+p1024
+tp1025
+Rp1026
+tp1027
+a(S'crime in iran'
+p1028
+g2
+(g6
+S'\x97\x02\xa5o\xb7\xb9\xe2?'
+p1029
+tp1030
+Rp1031
+tp1032
+a(S'iran: religion, politics and society'
+p1033
+g2
+(g6
+S'{_\x80\xf8+\xb9\xe2?'
+p1034
+tp1035
+Rp1036
+tp1037
+a(S'shohada'
+p1038
+g2
+(g6
+S'\x9dS\x0c\xe7p\xb5\xe2?'
+p1039
+tp1040
+Rp1041
+tp1042
+a(S'shur'
+p1043
+g2
+(g6
+S'\\\x10\xce\x89\xbc\xb3\xe2?'
+p1044
+tp1045
+Rp1046
+tp1047
+a(S'iranian space agency'
+p1048
+g2
+(g6
+S'\xd21Y]g\xb2\xe2?'
+p1049
+tp1050
+Rp1051
+tp1052
+a(S'iranian nationality law'
+p1053
+g2
+(g6
+S'GM\xe2\xbf\x17\xb1\xe2?'
+p1054
+tp1055
+Rp1056
+tp1057
+a(S'nuclear program of iran'
+p1058
+g2
+(g6
+S'\x16j\xb9\x85\xf9\xb0\xe2?'
+p1059
+tp1060
+Rp1061
+tp1062
+a(S"1953 iranian coup d'\xc3\xa9tat"
+p1063
+g2
+(g6
+S"\xe6I'g\xff\xad\xe2?"
+p1064
+tp1065
+Rp1066
+tp1067
+a(S'amir mirza hekmati'
+p1068
+g2
+(g6
+S'4D\xdb\x80\xeb\xad\xe2?'
+p1069
+tp1070
+Rp1071
+tp1072
+a(S'korani'
+p1073
+g2
+(g6
+S'\x05L\x85\x0b\xbf\xac\xe2?'
+p1074
+tp1075
+Rp1076
+tp1077
+a(S'iran\xe2\x80\x93italy relations'
+p1078
+g2
+(g6
+S'\xee+\x85]o\xa9\xe2?'
+p1079
+tp1080
+Rp1081
+tp1082
+a(S'mohammad hassan ganji'
+p1083
+g2
+(g6
+S'\x1d?\xc9el\xa7\xe2?'
+p1084
+tp1085
+Rp1086
+tp1087
+a(S'list of iranian aviation accidents and incidents'
+p1088
+g2
+(g6
+S'-\xc9\xa2\x87\x0b\xa2\xe2?'
+p1089
+tp1090
+Rp1091
+tp1092
+a(S'hassan dehqani-tafti'
+p1093
+g2
+(g6
+S'\xd3Dc\xc8\x0b\xa1\xe2?'
+p1094
+tp1095
+Rp1096
+tp1097
+a(S'saeed abedini'
+p1098
+g2
+(g6
+S'\xbc\xe8\x03\x8a\xba\x9f\xe2?'
+p1099
+tp1100
+Rp1101
+tp1102
+a(S'petroleum industry in iran'
+p1103
+g2
+(g6
+S'\x03\xa6I$\xc3\x9c\xe2?'
+p1104
+tp1105
+Rp1106
+tp1107
+a(S'national museum of iran'
+p1108
+g2
+(g6
+S'\xb0C\xfa\x94\xed\x99\xe2?'
+p1109
+tp1110
+Rp1111
+tp1112
+a(S'sadra'
+p1113
+g2
+(g6
+S'\x906\x7fp\x87\x98\xe2?'
+p1114
+tp1115
+Rp1116
+tp1117
+a(S'iran insurance company'
+p1118
+g2
+(g6
+S'\x8d\xe1y{\xfe\x97\xe2?'
+p1119
+tp1120
+Rp1121
+tp1122
+a(S'iran\xe2\x80\x93oman relations'
+p1123
+g2
+(g6
+S'\xdc\xfc\xa4\x8b\xb5\x90\xe2?'
+p1124
+tp1125
+Rp1126
+tp1127
+a(S'mohammad-reza hekmat'
+p1128
+g2
+(g6
+S'\xff\xc1\xe9\xf4 \x8a\xe2?'
+p1129
+tp1130
+Rp1131
+tp1132
+a(S'ministry of petroleum (iran)'
+p1133
+g2
+(g6
+S'\\\xae\r=\x9e\x86\xe2?'
+p1134
+tp1135
+Rp1136
+tp1137
+a(S'mohammad hossein adeli'
+p1138
+g2
+(g6
+S'&\xf46\x04\x18\x84\xe2?'
+p1139
+tp1140
+Rp1141
+tp1142
+a(S'amir mohammad mazloum'
+p1143
+g2
+(g6
+S'dN<\xfbN~\xe2?'
+p1144
+tp1145
+Rp1146
+tp1147
+a(S'ali shakeri'
+p1148
+g2
+(g6
+S'G\xb71\x16\xae}\xe2?'
+p1149
+tp1150
+Rp1151
+tp1152
+a(S'khatam-al anbiya construction headquarters'
+p1153
+g2
+(g6
+S'\xb4c_8\xbaz\xe2?'
+p1154
+tp1155
+Rp1156
+tp1157
+a(S'iran\xe2\x80\x93switzerland relations'
+p1158
+g2
+(g6
+S'\r{\xd3\xe9\xc3x\xe2?'
+p1159
+tp1160
+Rp1161
+tp1162
+a(S'babak zanjani'
+p1163
+g2
+(g6
+S'\xe5c\xe1kOx\xe2?'
+p1164
+tp1165
+Rp1166
+tp1167
+a(S'mozzafar baghai'
+p1168
+g2
+(g6
+S'\xb5\xe7\xbe\x0b\xa8s\xe2?'
+p1169
+tp1170
+Rp1171
+tp1172
+a(S'nowabad'
+p1173
+g2
+(g6
+S'z\xf0\x06\xbe\xc4r\xe2?'
+p1174
+tp1175
+Rp1176
+tp1177
+a(S'sangar'
+p1178
+g2
+(g6
+S'\xdbGO\xd0\xf4n\xe2?'
+p1179
+tp1180
+Rp1181
+tp1182
+a(S'list of iranian commanders in the iran\xe2\x80\x93iraq war'
+p1183
+g2
+(g6
+S'k\x8d#\x9f\x83m\xe2?'
+p1184
+tp1185
+Rp1186
+tp1187
+a(S'sadegh kharazi'
+p1188
+g2
+(g6
+S'\r;s\xf6\xa1k\xe2?'
+p1189
+tp1190
+Rp1191
+tp1192
+a(S'mv iran shahr-e-kord'
+p1193
+g2
+(g6
+S'{\x06\xf4\xdaPf\xe2?'
+p1194
+tp1195
+Rp1196
+tp1197
+a(S'2005 in iran'
+p1198
+g2
+(g6
+S'\xe9\xee\x0b\x8a\xdde\xe2?'
+p1199
+tp1200
+Rp1201
+tp1202
+a(S'afghanistan\xe2\x80\x93iran relations'
+p1203
+g2
+(g6
+S'g\xed5|\xf3d\xe2?'
+p1204
+tp1205
+Rp1206
+tp1207
+a(S'ali haghshenas'
+p1208
+g2
+(g6
+S'\xc8X\x8b\xf0\xf8b\xe2?'
+p1209
+tp1210
+Rp1211
+tp1212
+a(S'jalal jalalizadeh'
+p1213
+g2
+(g6
+S'\xc7\xdf\xc8\xcd\xcc`\xe2?'
+p1214
+tp1215
+Rp1216
+tp1217
+a(S'dashtak'
+p1218
+g2
+(g6
+S'\x96N\xd9\x90\x05_\xe2?'
+p1219
+tp1220
+Rp1221
+tp1222
+a(S'list of iran national football team managers'
+p1223
+g2
+(g6
+S'\xbdq\xce\x03\x8e]\xe2?'
+p1224
+tp1225
+Rp1226
+tp1227
+a(S'iran at the 1998 fifa world cup'
+p1228
+g2
+(g6
+S"\xfd\xa1'\xc6\xb9[\xe2?"
+p1229
+tp1230
+Rp1231
+tp1232
+a(S'iran air tours'
+p1233
+g2
+(g6
+S' 3}\xdf\xc9Y\xe2?'
+p1234
+tp1235
+Rp1236
+tp1237
+a(S'organization of iranian american communities'
+p1238
+g2
+(g6
+S'\x95\xaa\x9a\x1d\x11V\xe2?'
+p1239
+tp1240
+Rp1241
+tp1242
+a(S'bagher najafi'
+p1243
+g2
+(g6
+S'\xc0\xdc\t\xaf\xcaU\xe2?'
+p1244
+tp1245
+Rp1246
+tp1247
+a(S'croatia\xe2\x80\x93iran relations'
+p1248
+g2
+(g6
+S'\xc0\xe0\x16D\x16S\xe2?'
+p1249
+tp1250
+Rp1251
+tp1252
+a(S'islamic consultative assembly'
+p1253
+g2
+(g6
+S'\xac\x168\xcb\x91K\xe2?'
+p1254
+tp1255
+Rp1256
+tp1257
+a(S'ahmad zirakzadeh'
+p1258
+g2
+(g6
+S'd\xd4]\x11DH\xe2?'
+p1259
+tp1260
+Rp1261
+tp1262
+a(S'iran\xe2\x80\x93syria relations'
+p1263
+g2
+(g6
+S'r@74\x8eB\xe2?'
+p1264
+tp1265
+Rp1266
+tp1267
+a(S'public law 113-100'
+p1268
+g2
+(g6
+S'\x98\xc8\x94\xb9e4\xe2?'
+p1269
+tp1270
+Rp1271
+tp1272
+a(S'irancode'
+p1273
+g2
+(g6
+S'n\xec5\xa8p3\xe2?'
+p1274
+tp1275
+Rp1276
+tp1277
+a(S'2007 iranian seizure of royal navy personnel'
+p1278
+g2
+(g6
+S'\xf2wr\xc2\xa20\xe2?'
+p1279
+tp1280
+Rp1281
+tp1282
+a(S'anti-iranian sentiment'
+p1283
+g2
+(g6
+S'\xf5_&\xd2M.\xe2?'
+p1284
+tp1285
+Rp1286
+tp1287
+a(S'jalilabad (disambiguation)'
+p1288
+g2
+(g6
+S'\x1cKz0+)\xe2?'
+p1289
+tp1290
+Rp1291
+tp1292
+a(S'mahmoud goudarzi'
+p1293
+g2
+(g6
+S"%\x86-\xf5B'\xe2?"
+p1294
+tp1295
+Rp1296
+tp1297
+a(S'iran focus'
+p1298
+g2
+(g6
+S'\xa4\xd9\xd3\xa7E"\xe2?'
+p1299
+tp1300
+Rp1301
+tp1302
+a(S'bank of industry and mine'
+p1303
+g2
+(g6
+S'\xfd\xd5\x00o\x98!\xe2?'
+p1304
+tp1305
+Rp1306
+tp1307
+a(S'maziar behrooz'
+p1308
+g2
+(g6
+S'\xe9Ly\xfd>\x1f\xe2?'
+p1309
+tp1310
+Rp1311
+tp1312
+a(S'iran\xe2\x80\x93kenya relations'
+p1313
+g2
+(g6
+S'\x1b\xa2\xa7\xba1\x1d\xe2?'
+p1314
+tp1315
+Rp1316
+tp1317
+a(S'mohammad mosaddegh'
+p1318
+g2
+(g6
+S'\x02\xe0\xe2t\xd7\x1c\xe2?'
+p1319
+tp1320
+Rp1321
+tp1322
+a(S'government of islamic republic of iran'
+p1323
+g2
+(g6
+S'\xc7\xea\x17\xacx\x18\xe2?'
+p1324
+tp1325
+Rp1326
+tp1327
+a(S'abdollah ramezanzadeh'
+p1328
+g2
+(g6
+S'W\x17\xf4s\xe1\x14\xe2?'
+p1329
+tp1330
+Rp1331
+tp1332
+a(S'iranian business school'
+p1333
+g2
+(g6
+S'\xbd\xe9\xa4\xcd\xae\x14\xe2?'
+p1334
+tp1335
+Rp1336
+tp1337
+a(S'doulatabad'
+p1338
+g2
+(g6
+S'\x94\xc5g\xe8$\x12\xe2?'
+p1339
+tp1340
+Rp1341
+tp1342
+a(S'behzadi'
+p1343
+g2
+(g6
+S't\xf4\xb9\xad\x0f\x0e\xe2?'
+p1344
+tp1345
+Rp1346
+tp1347
+a(S'muhammad sahimi'
+p1348
+g2
+(g6
+S'b\x19\xa0:\x0b\x0c\xe2?'
+p1349
+tp1350
+Rp1351
+tp1352
+a(S'majid sharif'
+p1353
+g2
+(g6
+S'\xff\xf5\xd1\x89\xdb\x0b\xe2?'
+p1354
+tp1355
+Rp1356
+tp1357
+a(S'list of newspapers in iran'
+p1358
+g2
+(g6
+S'\xeaO\xd7\xe9-\x0b\xe2?'
+p1359
+tp1360
+Rp1361
+tp1362
+a(S'arrest of abdolmalek rigi'
+p1363
+g2
+(g6
+S'\x10\x88-\x04\xa1\x08\xe2?'
+p1364
+tp1365
+Rp1366
+tp1367
+a(S'parviz varjavand'
+p1368
+g2
+(g6
+S'\xd6%\xe57\x9c\x06\xe2?'
+p1369
+tp1370
+Rp1371
+tp1372
+a(S'noor-ol-hoda mangeneh'
+p1373
+g2
+(g6
+S'j\x939@8\x04\xe2?'
+p1374
+tp1375
+Rp1376
+tp1377
+a(S'khosrow shakeri zand'
+p1378
+g2
+(g6
+S'\x7f\xe6\xeb.V\x00\xe2?'
+p1379
+tp1380
+Rp1381
+tp1382
+a(S'kamal sajjadi'
+p1383
+g2
+(g6
+S'\xfb6\x14\x9bX\xfc\xe1?'
+p1384
+tp1385
+Rp1386
+tp1387
+a(S'operation staunch'
+p1388
+g2
+(g6
+S'\xa0wy\x0b$\xfa\xe1?'
+p1389
+tp1390
+Rp1391
+tp1392
+a(S'southern iran'
+p1393
+g2
+(g6
+S'\x98\x96\xb9px\xf8\xe1?'
+p1394
+tp1395
+Rp1396
+tp1397
+a(S'roxana saberi'
+p1398
+g2
+(g6
+S'`$\x1fg\x95\xf7\xe1?'
+p1399
+tp1400
+Rp1401
+tp1402
+a(S'paravaran asseman (paaviation)'
+p1403
+g2
+(g6
+S'\x7fK\x95\xe8\x81\xf7\xe1?'
+p1404
+tp1405
+Rp1406
+tp1407
+a(S'bazargan'
+p1408
+g2
+(g6
+S's\xce\xab\xa8\xef\xf4\xe1?'
+p1409
+tp1410
+Rp1411
+tp1412
+a(S'stance of marjas on the 2009 presidential election in iran'
+p1413
+g2
+(g6
+S'(c\xcc\x9f\xa0\xf4\xe1?'
+p1414
+tp1415
+Rp1416
+tp1417
+a(S'irreligion in iran'
+p1418
+g2
+(g6
+S'\xf2\xd8\xc4\xb1\xb0\xed\xe1?'
+p1419
+tp1420
+Rp1421
+tp1422
+a(S'ezzatollah pourghaz'
+p1423
+g2
+(g6
+S'\x02\x84\xf5\\\xe6\xec\xe1?'
+p1424
+tp1425
+Rp1426
+tp1427
+a(S'negar mortazavi'
+p1428
+g2
+(g6
+S'9\xb6u\x08\xeb\xe9\xe1?'
+p1429
+tp1430
+Rp1431
+tp1432
+a(S'list of ambassadors of new zealand to iran'
+p1433
+g2
+(g6
+S'\xde\x12\xa1\xca\xcd\xe8\xe1?'
+p1434
+tp1435
+Rp1436
+tp1437
+a(S'iran nuclear deal framework'
+p1438
+g2
+(g6
+S'\xa19|\xfdy\xe8\xe1?'
+p1439
+tp1440
+Rp1441
+tp1442
+a(S'ferdows (disambiguation)'
+p1443
+g2
+(g6
+S'\x99\xb9\x00r\x00\xe6\xe1?'
+p1444
+tp1445
+Rp1446
+tp1447
+a(S'2011 executions in iran'
+p1448
+g2
+(g6
+S'\xef\x81\xdflD\xe2\xe1?'
+p1449
+tp1450
+Rp1451
+tp1452
+a(S'islamic republic of iran air force'
+p1453
+g2
+(g6
+S'\x9ccuDR\xdd\xe1?'
+p1454
+tp1455
+Rp1456
+tp1457
+a(S'dan rabkin'
+p1458
+g2
+(g6
+S'\x94\xb9wKB\xdb\xe1?'
+p1459
+tp1460
+Rp1461
+tp1462
+a(S'akbar ganji'
+p1463
+g2
+(g6
+S'b\xd7\xaav\x8c\xd6\xe1?'
+p1464
+tp1465
+Rp1466
+tp1467
+a(S'azerbaijan\xe2\x80\x93iran relations'
+p1468
+g2
+(g6
+S'\x07\x9e\x1c\x00\xf0\xcf\xe1?'
+p1469
+tp1470
+Rp1471
+tp1472
+a(S'sahand (disambiguation)'
+p1473
+g2
+(g6
+S'G\xf5W^\x14\xce\xe1?'
+p1474
+tp1475
+Rp1476
+tp1477
+a(S'peoples of the caucasus in iran'
+p1478
+g2
+(g6
+S'\x93k#\xd6\xe3\xcc\xe1?'
+p1479
+tp1480
+Rp1481
+tp1482
+a(S'mohammad reza heydari'
+p1483
+g2
+(g6
+S'*\x86F\xf7Y\xc9\xe1?'
+p1484
+tp1485
+Rp1486
+tp1487
+a(S'hassan shariatmadari'
+p1488
+g2
+(g6
+S'dFU\n\xb2\xc7\xe1?'
+p1489
+tp1490
+Rp1491
+tp1492
+a(S'iraj kalantari taleghani'
+p1493
+g2
+(g6
+S'\xbf\x19\xd2\xfbA\xc5\xe1?'
+p1494
+tp1495
+Rp1496
+tp1497
+a(S'ebrahim hakimi'
+p1498
+g2
+(g6
+S'\x19\x89F\xc9-\xc1\xe1?'
+p1499
+tp1500
+Rp1501
+tp1502
+a(S'banking and insurance in iran'
+p1503
+g2
+(g6
+S'\xb0\xe0\xc3/o\xbe\xe1?'
+p1504
+tp1505
+Rp1506
+tp1507
+a(S'contents of the united states diplomatic cables leak (iran)'
+p1508
+g2
+(g6
+S'\xee\x02\xc5,/\xbb\xe1?'
+p1509
+tp1510
+Rp1511
+tp1512
+a.

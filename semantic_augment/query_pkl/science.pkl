@@ -1,0 +1,2728 @@
+(lp0
+(S'science'
+p1
+cnumpy.core.multiarray
+scalar
+p2
+(cnumpy
+dtype
+p3
+(S'f8'
+p4
+I0
+I1
+tp5
+Rp6
+(I3
+S'<'
+p7
+NNNI-1
+I-1
+I0
+tp8
+bS'\x01\x00\x00\x00\x00\x00\xf0?'
+p9
+tp10
+Rp11
+tp12
+a(S'history of science'
+p13
+g2
+(g6
+S'\x02W\x93\xef\xf0\x92\xe6?'
+p14
+tp15
+Rp16
+tp17
+a(S'philosophy of science'
+p18
+g2
+(g6
+S'\xa5\x94\xda\xa89o\xe5?'
+p19
+tp20
+Rp21
+tp22
+a(S'antiscience'
+p23
+g2
+(g6
+S'\x0c\x85\x90\x91\xd31\xe4?'
+p24
+tp25
+Rp26
+tp27
+a(S'branches of science'
+p28
+g2
+(g6
+S'\x0c\xc8\x99\xfa\xec-\xe4?'
+p29
+tp30
+Rp31
+tp32
+a(S'science communication'
+p33
+g2
+(g6
+S'|\xfe\x82z\xfd\x15\xe4?'
+p34
+tp35
+Rp36
+tp37
+a(S'natural science'
+p38
+g2
+(g6
+S'\xa0\x83\x161t\xdc\xe3?'
+p39
+tp40
+Rp41
+tp42
+a(S'science (disambiguation)'
+p43
+g2
+(g6
+S'\x10\xea\xaf\xb9\xd9\xcd\xe3?'
+p44
+tp45
+Rp46
+tp47
+a(S'criticism of science'
+p48
+g2
+(g6
+S'\xd2n0o\xae`\xe3?'
+p49
+tp50
+Rp51
+tp52
+a(S'public awareness of science'
+p53
+g2
+(g6
+S'\xbdI\xa2zU\x1a\xe3?'
+p54
+tp55
+Rp56
+tp57
+a(S'scientism'
+p58
+g2
+(g6
+S'\xd8\x92\xef\xe4@\xfc\xe2?'
+p59
+tp60
+Rp61
+tp62
+a(S'science education'
+p63
+g2
+(g6
+S'\x82\xe1\t\x92\xb4\xe5\xe2?'
+p64
+tp65
+Rp66
+tp67
+a(S'relationship between religion and science'
+p68
+g2
+(g6
+S'\x00\xd7\x95\xe3\xeb\xcf\xe2?'
+p69
+tp70
+Rp71
+tp72
+a(S'science communication observatory'
+p73
+g2
+(g6
+S'_\xeb\xd4\xb6C\xc9\xe2?'
+p74
+tp75
+Rp76
+tp77
+a(S'outline of science'
+p78
+g2
+(g6
+S'\xf9\x9f`\x99\xc6\xa7\xe2?'
+p79
+tp80
+Rp81
+tp82
+a(S'scientific method'
+p83
+g2
+(g6
+S'*\x1b@8\x9bQ\xe2?'
+p84
+tp85
+Rp86
+tp87
+a(S'sociology of the history of science'
+p88
+g2
+(g6
+S'\xdcz\t\x8b\x075\xe2?'
+p89
+tp90
+Rp91
+tp92
+a(S'e-science'
+p93
+g2
+(g6
+S'e\x9f\x0c\x82\xdd)\xe2?'
+p94
+tp95
+Rp96
+tp97
+a(S'logology (science of science)'
+p98
+g2
+(g6
+S'\xf9#E7R\x1f\xe2?'
+p99
+tp100
+Rp101
+tp102
+a(S'list of years in science'
+p103
+g2
+(g6
+S'zs\x19\x0b\x91\x01\xe2?'
+p104
+tp105
+Rp106
+tp107
+a(S'historiography of science'
+p108
+g2
+(g6
+S'E\xe0\xc6\x8d\xcf\xf0\xe1?'
+p109
+tp110
+Rp111
+tp112
+a(S'science studies'
+p113
+g2
+(g6
+S'\xfc\xa8C\x13\xe3\xbc\xe1?'
+p114
+tp115
+Rp116
+tp117
+a(S'popular science'
+p118
+g2
+(g6
+S'6a\xdc\xa8\xee\xb0\xe1?'
+p119
+tp120
+Rp121
+tp122
+a(S'history of scientific method'
+p123
+g2
+(g6
+S'\x1b\x81C3\xd1\xaa\xe1?'
+p124
+tp125
+Rp126
+tp127
+a(S'basic research'
+p128
+g2
+(g6
+S'\x8b\xd1#\xd5\xf4\x97\xe1?'
+p129
+tp130
+Rp131
+tp132
+a(S'science 2.0'
+p133
+g2
+(g6
+S'^\xd1\xc2\xf3\xa8o\xe1?'
+p134
+tp135
+Rp136
+tp137
+a(S'paul feyerabend'
+p138
+g2
+(g6
+S'\xae\xd0\xa7\x8btO\xe1?'
+p139
+tp140
+Rp141
+tp142
+a(S'history of science policy'
+p143
+g2
+(g6
+S'\xbe\x05c\xcd\xf79\xe1?'
+p144
+tp145
+Rp146
+tp147
+a(S'christian attitudes towards science'
+p148
+g2
+(g6
+S'a\x08\x91m\xb37\xe1?'
+p149
+tp150
+Rp151
+tp152
+a(S'science of team science'
+p153
+g2
+(g6
+S'B\x8a\xe6\xc0\xb54\xe1?'
+p154
+tp155
+Rp156
+tp157
+a(S'science policy'
+p158
+g2
+(g6
+S'\\-\xb7R\xed2\xe1?'
+p159
+tp160
+Rp161
+tp162
+a(S'scientific community'
+p163
+g2
+(g6
+S'\x05\xc0\xa6\xd3i \xe1?'
+p164
+tp165
+Rp166
+tp167
+a(S'nature of science'
+p168
+g2
+(g6
+S'\xfa\xe1_\xde/\x11\xe1?'
+p169
+tp170
+Rp171
+tp172
+a(S'international council for science'
+p173
+g2
+(g6
+S'\xf7K\xdb\x94Y\n\xe1?'
+p174
+tp175
+Rp176
+tp177
+a(S'science wars'
+p178
+g2
+(g6
+S'!jZ\xe4\xce\xe3\xe0?'
+p179
+tp180
+Rp181
+tp182
+a(S'open science'
+p183
+g2
+(g6
+S'\xd7\xe2QE\x93\xd8\xe0?'
+p184
+tp185
+Rp186
+tp187
+a(S'science in newly industrialized countries'
+p188
+g2
+(g6
+S':\x81\xd2\xd4\x82\xd8\xe0?'
+p189
+tp190
+Rp191
+tp192
+a(S'science of science policy'
+p193
+g2
+(g6
+S'\xc5\x17\x9e\x86f\xc9\xe0?'
+p194
+tp195
+Rp196
+tp197
+a(S'society for science and the public'
+p198
+g2
+(g6
+S'\xae\x84\xda\xa4\xc2\xbf\xe0?'
+p199
+tp200
+Rp201
+tp202
+a(S'big science'
+p203
+g2
+(g6
+S'CQ\xeb(\xee\xb1\xe0?'
+p204
+tp205
+Rp206
+tp207
+a(S'outline of scientific method'
+p208
+g2
+(g6
+S'\xce\x95;YY\xb0\xe0?'
+p209
+tp210
+Rp211
+tp212
+a(S'applied science'
+p213
+g2
+(g6
+S'\x05e\xd0\xdb\x13\xaf\xe0?'
+p214
+tp215
+Rp216
+tp217
+a(S'science, technology, society and environment education'
+p218
+g2
+(g6
+S'k\x1b\xb4\xb4\x1a\x85\xe0?'
+p219
+tp220
+Rp221
+tp222
+a(S'inductivism'
+p223
+g2
+(g6
+S'z\x92\x8b\x00*\x82\xe0?'
+p224
+tp225
+Rp226
+tp227
+a(S'scientific knowledge and its social problems'
+p228
+g2
+(g6
+S'/\x11\xadU=x\xe0?'
+p229
+tp230
+Rp231
+tp232
+a(S'human science'
+p233
+g2
+(g6
+S'\xf0\x16Msgr\xe0?'
+p234
+tp235
+Rp236
+tp237
+a(S'scientific revolution'
+p238
+g2
+(g6
+S'\n\xf9\xfb\x0c\xaci\xe0?'
+p239
+tp240
+Rp241
+tp242
+a(S'politicization of science'
+p243
+g2
+(g6
+S'0\x96X\xdb;c\xe0?'
+p244
+tp245
+Rp246
+tp247
+a(S'scientific method and religion'
+p248
+g2
+(g6
+S'\x8a\xf2DE|]\xe0?'
+p249
+tp250
+Rp251
+tp252
+a(S'list of science magazines'
+p253
+g2
+(g6
+S'\t\xc8#0?F\xe0?'
+p254
+tp255
+Rp256
+tp257
+a(S'history of science and technology'
+p258
+g2
+(g6
+S's\xfd\xd7\xe2\x069\xe0?'
+p259
+tp260
+Rp261
+tp262
+a(S'public science'
+p263
+g2
+(g6
+S'\xa5\x95\xed\x80;6\xe0?'
+p264
+tp265
+Rp266
+tp267
+a(S'demarcation problem'
+p268
+g2
+(g6
+S'\x12o\x123\x8d"\xe0?'
+p269
+tp270
+Rp271
+tp272
+a(S'national science day'
+p273
+g2
+(g6
+S'\x7f\xbd\xad9\x82\r\xe0?'
+p274
+tp275
+Rp276
+tp277
+a(S'epistemological anarchism'
+p278
+g2
+(g6
+S'X\xeaom\xc1\x07\xe0?'
+p279
+tp280
+Rp281
+tp282
+a(S'public welfare medal'
+p283
+g2
+(g6
+S'\x89bzxs\xa2\xdf?'
+p284
+tp285
+Rp286
+tp287
+a(S'indian science congress association'
+p288
+g2
+(g6
+S'\xfaNb\x11\xdd\x91\xdf?'
+p289
+tp290
+Rp291
+tp292
+a(S'jerome ravetz'
+p293
+g2
+(g6
+S'\x9cla\xe8\x18R\xdf?'
+p294
+tp295
+Rp296
+tp297
+a(S'list of colleges and universities with history of science programs'
+p298
+g2
+(g6
+S'TA\x80-\x8d \xdf?'
+p299
+tp300
+Rp301
+tp302
+a(S'small science'
+p303
+g2
+(g6
+S'\xda\xbf?\xcf\x1b\x18\xdf?'
+p304
+tp305
+Rp306
+tp307
+a(S'pseudoscience'
+p308
+g2
+(g6
+S'\x8e-u\xf14\x12\xdf?'
+p309
+tp310
+Rp311
+tp312
+a(S'science school'
+p313
+g2
+(g6
+S'|-\xb7\xfd\xe5\xfa\xde?'
+p314
+tp315
+Rp316
+tp317
+a(S'science journalism'
+p318
+g2
+(g6
+S'c\xee\xf0%\x8d\xee\xde?'
+p319
+tp320
+Rp321
+tp322
+a(S'world science forum'
+p323
+g2
+(g6
+S'k\x8c\xc6@\x14\xb9\xde?'
+p324
+tp325
+Rp326
+tp327
+a(S'creation science'
+p328
+g2
+(g6
+S'd\xaaN\xb6\xce\xb2\xde?'
+p329
+tp330
+Rp331
+tp332
+a(S'protoscience'
+p333
+g2
+(g6
+S'\xcc\xd5\xeaD\xef\xaf\xde?'
+p334
+tp335
+Rp336
+tp337
+a(S'helen longino'
+p338
+g2
+(g6
+S'b,lQ\xe5y\xde?'
+p339
+tp340
+Rp341
+tp342
+a(S'mariette dichristina'
+p343
+g2
+(g6
+S'\xb0`\xf4\xf7\xael\xde?'
+p344
+tp345
+Rp346
+tp347
+a(S'social science'
+p348
+g2
+(g6
+S'WZ\x98U\x81D\xde?'
+p349
+tp350
+Rp351
+tp352
+a(S'history and philosophy of science'
+p353
+g2
+(g6
+S'p\xd4@\x87\xf4?\xde?'
+p354
+tp355
+Rp356
+tp357
+a(S'dobrov research center on scientific and technological potential and science history'
+p358
+g2
+(g6
+S'\xaf\xd3#?m;\xde?'
+p359
+tp360
+Rp361
+tp362
+a(S'scientist'
+p363
+g2
+(g6
+S'\x14\xf0\xb8\xfe^!\xde?'
+p364
+tp365
+Rp366
+tp367
+a(S'no nonsense guide to science'
+p368
+g2
+(g6
+S'\xfc\xeb\xfa\xbd/\x0e\xde?'
+p369
+tp370
+Rp371
+tp372
+a(S'fringe science'
+p373
+g2
+(g6
+S'\xf1\xf6\xcf\x19F\t\xde?'
+p374
+tp375
+Rp376
+tp377
+a(S'science high school'
+p378
+g2
+(g6
+S'\xc4\xce\xb3K|\xf7\xdd?'
+p379
+tp380
+Rp381
+tp382
+a(S'national science teachers association'
+p383
+g2
+(g6
+S'\x1a\x01\xa9\x7f\xe0\xa2\xdd?'
+p384
+tp385
+Rp386
+tp387
+a(S'science in the age of enlightenment'
+p388
+g2
+(g6
+S'V\x7f\xef\xa6t\x91\xdd?'
+p389
+tp390
+Rp391
+tp392
+a(S"history of science and technology in the people's republic of china"
+p393
+g2
+(g6
+S'-(\xd9\x95\xf1B\xdd?'
+p394
+tp395
+Rp396
+tp397
+a(S'science center'
+p398
+g2
+(g6
+S'\x05f\x0f\x8c=6\xdd?'
+p399
+tp400
+Rp401
+tp402
+a(S'science in society'
+p403
+g2
+(g6
+S'\xefH8q6.\xdd?'
+p404
+tp405
+Rp406
+tp407
+a(S'psychology of science'
+p408
+g2
+(g6
+S'\x19\xb6\x17\xf5\xa0$\xdd?'
+p409
+tp410
+Rp411
+tp412
+a(S'national science week'
+p413
+g2
+(g6
+S'Co\xd1\xcd\xf5\x1e\xdd?'
+p414
+tp415
+Rp416
+tp417
+a(S'national medal of science'
+p418
+g2
+(g6
+S'\xe6Mz;\x0b\xf4\xdc?'
+p419
+tp420
+Rp421
+tp422
+a(S'david m. knight'
+p423
+g2
+(g6
+S'D\xdd\xcd\x93X\xe1\xdc?'
+p424
+tp425
+Rp426
+tp427
+a(S'criticisms of anti-scientific viewpoints'
+p428
+g2
+(g6
+S';\xcdp\x97\xb4\xb5\xdc?'
+p429
+tp430
+Rp431
+tp432
+a(S'science world (magazine)'
+p433
+g2
+(g6
+S'\x85\x98F5\x9a\x9b\xdc?'
+p434
+tp435
+Rp436
+tp437
+a(S'science council'
+p438
+g2
+(g6
+S'\xd4C\x02*\xe7\x99\xdc?'
+p439
+tp440
+Rp441
+tp442
+a(S'ronald giere'
+p443
+g2
+(g6
+S'\x97s[\x9d{\x87\xdc?'
+p444
+tp445
+Rp446
+tp447
+a(S'the science of...'
+p448
+g2
+(g6
+S'/^\xceGg\x84\xdc?'
+p449
+tp450
+Rp451
+tp452
+a(S'index of philosophy of science articles'
+p453
+g2
+(g6
+S'T\x00\xcd.\xaen\xdc?'
+p454
+tp455
+Rp456
+tp457
+a(S'european science in the middle ages'
+p458
+g2
+(g6
+S'\xc9!\xaak\xf1Y\xdc?'
+p459
+tp460
+Rp461
+tp462
+a(S'science diplomacy'
+p463
+g2
+(g6
+S'a\xebe\xe8\xadT\xdc?'
+p464
+tp465
+Rp466
+tp467
+a(S'science (magazine)'
+p468
+g2
+(g6
+S't\xc6\xf4\x8a\x01O\xdc?'
+p469
+tp470
+Rp471
+tp472
+a(S'islamic attitudes towards science'
+p473
+g2
+(g6
+S't\xfe\xcfA\xa9C\xdc?'
+p474
+tp475
+Rp476
+tp477
+a(S'scientific realism'
+p478
+g2
+(g6
+S'1\x8f\xa6\x1ds>\xdc?'
+p479
+tp480
+Rp481
+tp482
+a(S'australian national centre for the public awareness of science'
+p483
+g2
+(g6
+S'\x0czGCp2\xdc?'
+p484
+tp485
+Rp486
+tp487
+a(S'science (journal)'
+p488
+g2
+(g6
+S'\xeb\xdc\xb3\xd4\xde-\xdc?'
+p489
+tp490
+Rp491
+tp492
+a(S'science festival'
+p493
+g2
+(g6
+S'\xe7\xeeL\x17\xaa-\xdc?'
+p494
+tp495
+Rp496
+tp497
+a(S'junk science'
+p498
+g2
+(g6
+S'\xa3fo\x0e*\xf5\xdb?'
+p499
+tp500
+Rp501
+tp502
+a(S'the merger of knowledge with power: essays in critical science'
+p503
+g2
+(g6
+S'\x13\x11\x80P<\xf4\xdb?'
+p504
+tp505
+Rp506
+tp507
+a(S'mehdi golshani'
+p508
+g2
+(g6
+S'\x17A\xb6\x89\x04\xd9\xdb?'
+p509
+tp510
+Rp511
+tp512
+a(S'dorothy nelkin'
+p513
+g2
+(g6
+S'\x89U`\xdba\xd7\xdb?'
+p514
+tp515
+Rp516
+tp517
+a(S'history of the social sciences'
+p518
+g2
+(g6
+S'#\xd9a/\xea\xd0\xdb?'
+p519
+tp520
+Rp521
+tp522
+a(S'continuity thesis'
+p523
+g2
+(g6
+S'\tC\xdf\x1ap\xc3\xdb?'
+p524
+tp525
+Rp526
+tp527
+a(S'knowledge deficit'
+p528
+g2
+(g6
+S'\x85i_H\xef\xbf\xdb?'
+p529
+tp530
+Rp531
+tp532
+a(S'science advice'
+p533
+g2
+(g6
+S'\xf1x\x00\x1c\xb8\xae\xdb?'
+p534
+tp535
+Rp536
+tp537
+a(S'science buddies'
+p538
+g2
+(g6
+S'\xe5!\x96.$\xa0\xdb?'
+p539
+tp540
+Rp541
+tp542
+a(S'science europe'
+p543
+g2
+(g6
+S'\x8f\xe0+\xc2\x9d\x8e\xdb?'
+p544
+tp545
+Rp546
+tp547
+a(S'science city'
+p548
+g2
+(g6
+S'\xd5\xc9\xa5\xf1j\x8b\xdb?'
+p549
+tp550
+Rp551
+tp552
+a(S'aant elzinga'
+p553
+g2
+(g6
+S'y\x8f\xd4\xaf\xfa\x87\xdb?'
+p554
+tp555
+Rp556
+tp557
+a(S'sheila jasanoff'
+p558
+g2
+(g6
+S'\x18\xe7\x18\xf4\xb8}\xdb?'
+p559
+tp560
+Rp561
+tp562
+a(S'science attach\xc3\xa9'
+p563
+g2
+(g6
+S'`\x14w\x84\x8aq\xdb?'
+p564
+tp565
+Rp566
+tp567
+a(S'national consortium for specialized secondary schools of mathematics, science and technology'
+p568
+g2
+(g6
+S'\xd2\xdaV\xd9\xd6k\xdb?'
+p569
+tp570
+Rp571
+tp572
+a(S'sociedade brasileira para o progresso da ci\xc3\xaancia'
+p573
+g2
+(g6
+S'\x8a\x12\xe5$?D\xdb?'
+p574
+tp575
+Rp576
+tp577
+a(S'science shop'
+p578
+g2
+(g6
+S'\xf73\xea\x13\xd6:\xdb?'
+p579
+tp580
+Rp581
+tp582
+a(S'voodoo science'
+p583
+g2
+(g6
+S'\xcb\xe3+\x02:&\xdb?'
+p584
+tp585
+Rp586
+tp587
+a(S'definitions of science fiction'
+p588
+g2
+(g6
+S'\x97\xd9|\xb1{\x1e\xdb?'
+p589
+tp590
+Rp591
+tp592
+a(S"ward's natural science"
+p593
+g2
+(g6
+S'\xac4m\xe2j\x1b\xdb?'
+p594
+tp595
+Rp596
+tp597
+a(S'science museum'
+p598
+g2
+(g6
+S'\xe2\xc1\x9d\xdf"\x19\xdb?'
+p599
+tp600
+Rp601
+tp602
+a(S'list of christians in science and technology'
+p603
+g2
+(g6
+S'\xc3m\xfcf"\x19\xdb?'
+p604
+tp605
+Rp606
+tp607
+a(S'scientometrics'
+p608
+g2
+(g6
+S'\x1d\x14\\\xe3\xbd\x16\xdb?'
+p609
+tp610
+Rp611
+tp612
+a(S'office of science'
+p613
+g2
+(g6
+S'm\x0b"\xe4\xb4\x13\xdb?'
+p614
+tp615
+Rp616
+tp617
+a(S'citizen science'
+p618
+g2
+(g6
+S'\x8d\x1a\x1e^\x92\x11\xdb?'
+p619
+tp620
+Rp621
+tp622
+a(S'darlene cavalier'
+p623
+g2
+(g6
+S'\r:QX\xa6\x0e\xdb?'
+p624
+tp625
+Rp626
+tp627
+a(S'ateneo school of science and engineering'
+p628
+g2
+(g6
+S'\x9ap\xee\x8a\xa3\x0e\xdb?'
+p629
+tp630
+Rp631
+tp632
+a(S'john desmond bernal prize'
+p633
+g2
+(g6
+S'v\x94\xd1\xe5U\x0e\xdb?'
+p634
+tp635
+Rp636
+tp637
+a(S'steven shapin'
+p638
+g2
+(g6
+S'u \x98\x90\x92\r\xdb?'
+p639
+tp640
+Rp641
+tp642
+a(S'science week ireland'
+p643
+g2
+(g6
+S'\x81\x08\xe1\xfaH\x0c\xdb?'
+p644
+tp645
+Rp646
+tp647
+a(S'bad science'
+p648
+g2
+(g6
+S'\x82\x17\x999\x85\x07\xdb?'
+p649
+tp650
+Rp651
+tp652
+a(S'vladimir de semir'
+p653
+g2
+(g6
+S'Q\x9a\x13\xfd\xbd\xf7\xda?'
+p654
+tp655
+Rp656
+tp657
+a(S'larry laudan'
+p658
+g2
+(g6
+S'\xaf\x0e\xb6\xd6\x82\xef\xda?'
+p659
+tp660
+Rp661
+tp662
+a(S'john henry (historian)'
+p663
+g2
+(g6
+S'\xc8\xb9xIa\xe5\xda?'
+p664
+tp665
+Rp666
+tp667
+a(S'science society of china'
+p668
+g2
+(g6
+S'3\xb7tDF\xe2\xda?'
+p669
+tp670
+Rp671
+tp672
+a(S'mertonian norms'
+p673
+g2
+(g6
+S"'\xf2\xa2\x1cu\xdf\xda?"
+p674
+tp675
+Rp676
+tp677
+a(S'the beginnings of western science'
+p678
+g2
+(g6
+S'=\x07a\x1aZ\xd8\xda?'
+p679
+tp680
+Rp681
+tp682
+a(S'national academy of science and technology'
+p683
+g2
+(g6
+S'\x92,\xcb\r\x9a\xd5\xda?'
+p684
+tp685
+Rp686
+tp687
+a(S'john marburger'
+p688
+g2
+(g6
+S'\x8c\xbe\xa5|\xed\xbf\xda?'
+p689
+tp690
+Rp691
+tp692
+a(S'hard and soft science'
+p693
+g2
+(g6
+S'\t\x90QA\xbb\xa6\xda?'
+p694
+tp695
+Rp696
+tp697
+a(S'list of scientific bodies explicitly rejecting intelligent design'
+p698
+g2
+(g6
+S'\xaaA\x90\x1f\xfa\x98\xda?'
+p699
+tp700
+Rp701
+tp702
+a(S'international union of history and philosophy of science'
+p703
+g2
+(g6
+S'\xf8\x90\x15\x15\xaa\x87\xda?'
+p704
+tp705
+Rp706
+tp707
+a(S'my science career'
+p708
+g2
+(g6
+S'\x82%.^Y\x81\xda?'
+p709
+tp710
+Rp711
+tp712
+a(S'science and technology'
+p713
+g2
+(g6
+S'\xca\xb1\\\xcec|\xda?'
+p714
+tp715
+Rp716
+tp717
+a(S'science fair'
+p718
+g2
+(g6
+S'\x1d\x02\x9a\x16Mx\xda?'
+p719
+tp720
+Rp721
+tp722
+a(S'university of copenhagen center for the philosophy of nature and science studies'
+p723
+g2
+(g6
+S'\x97Q\x92\xa6\x1fr\xda?'
+p724
+tp725
+Rp726
+tp727
+a(S'science and technology in asia'
+p728
+g2
+(g6
+S'\x8c\xa8\xce\xfa\xb2p\xda?'
+p729
+tp730
+Rp731
+tp732
+a(S'jim baggott'
+p733
+g2
+(g6
+S'\xfea$ \x99`\xda?'
+p734
+tp735
+Rp736
+tp737
+a(S'nehru science centre'
+p738
+g2
+(g6
+S'"\xa9\x0c\x9d\xfdX\xda?'
+p739
+tp740
+Rp741
+tp742
+a(S'coalition on the public understanding of science'
+p743
+g2
+(g6
+S'\xf2eM4\x95U\xda?'
+p744
+tp745
+Rp746
+tp747
+a(S'regional science high school union'
+p748
+g2
+(g6
+S'\x1e<867U\xda?'
+p749
+tp750
+Rp751
+tp752
+a(S'national museum of science and technology (bangladesh)'
+p753
+g2
+(g6
+S'C9<P\x8eL\xda?'
+p754
+tp755
+Rp756
+tp757
+a(S'scientific consensus'
+p758
+g2
+(g6
+S'\xf7\xd4G?\xc9D\xda?'
+p759
+tp760
+Rp761
+tp762
+a(S'science policy of the united states'
+p763
+g2
+(g6
+S'N6\xc1\x13q)\xda?'
+p764
+tp765
+Rp766
+tp767
+a(S'discover science & engineering'
+p768
+g2
+(g6
+S'*R\x08\xa5\xe2#\xda?'
+p769
+tp770
+Rp771
+tp772
+a(S'formal science'
+p773
+g2
+(g6
+S'\x95\xc7\xb9\x8fy!\xda?'
+p774
+tp775
+Rp776
+tp777
+a(S'philosophy of social science'
+p778
+g2
+(g6
+S'\x1a\xa3}ti\x1a\xda?'
+p779
+tp780
+Rp781
+tp782
+a(S'romanticism in science'
+p783
+g2
+(g6
+S'jK\x08I\xbb\n\xda?'
+p784
+tp785
+Rp786
+tp787
+a(S'list of science and technology articles by continent'
+p788
+g2
+(g6
+S'\xfe\xfe \x8a\x92\t\xda?'
+p789
+tp790
+Rp791
+tp792
+a(S'social studies of science'
+p793
+g2
+(g6
+S'M\xbfL\x90\x9b\xfb\xd9?'
+p794
+tp795
+Rp796
+tp797
+a(S'public understanding of science'
+p798
+g2
+(g6
+S'\xf1UF\xe03\xf1\xd9?'
+p799
+tp800
+Rp801
+tp802
+a(S'catholic church and science'
+p803
+g2
+(g6
+S'%a\xb0m/\xf1\xd9?'
+p804
+tp805
+Rp806
+tp807
+a(S'science first'
+p808
+g2
+(g6
+S'_DF\x1c\xda\xf0\xd9?'
+p809
+tp810
+Rp811
+tp812
+a(S'science policy support group'
+p813
+g2
+(g6
+S'\xc1\xd3\xd5`\xc1\xed\xd9?'
+p814
+tp815
+Rp816
+tp817
+a(S'parascience'
+p818
+g2
+(g6
+S'\x9c\xbf\xd7\xe2\xb9\xe0\xd9?'
+p819
+tp820
+Rp821
+tp822
+a(S'ira flatow'
+p823
+g2
+(g6
+S'\xf8\x1a\x0f\x17\xeb\xd1\xd9?'
+p824
+tp825
+Rp826
+tp827
+a(S'science in science fiction'
+p828
+g2
+(g6
+S'\xc0\x1a\xd4$\x89\xb2\xd9?'
+p829
+tp830
+Rp831
+tp832
+a(S'scientific theory'
+p833
+g2
+(g6
+S'\r(\xb5\x9d-\xa7\xd9?'
+p834
+tp835
+Rp836
+tp837
+a(S'national research institute for science policy'
+p838
+g2
+(g6
+S'\x1f\xfb\x7f\xa2\x90\xa6\xd9?'
+p839
+tp840
+Rp841
+tp842
+a(S'scientific progress'
+p843
+g2
+(g6
+S'\xb2\xdc\xf1\xfd[\xa6\xd9?'
+p844
+tp845
+Rp846
+tp847
+a(S'science & entertainment exchange'
+p848
+g2
+(g6
+S'\x8e\xad\xa8\xcd)\xa5\xd9?'
+p849
+tp850
+Rp851
+tp852
+a(S'the science academy society of turkey'
+p853
+g2
+(g6
+S'\xb92\x00\xcb-\x9f\xd9?'
+p854
+tp855
+Rp856
+tp857
+a(S'making social science matter'
+p858
+g2
+(g6
+S')\xe4\x07l0\x9a\xd9?'
+p859
+tp860
+Rp861
+tp862
+a(S'political science'
+p863
+g2
+(g6
+S'\xed\x886wA\x87\xd9?'
+p864
+tp865
+Rp866
+tp867
+a(S'society for social studies of science'
+p868
+g2
+(g6
+S'\xdb\xec\xc0&(\x80\xd9?'
+p869
+tp870
+Rp871
+tp872
+a(S'outline of information science'
+p873
+g2
+(g6
+S'\x036 "\x13}\xd9?'
+p874
+tp875
+Rp876
+tp877
+a(S'china association for science and technology'
+p878
+g2
+(g6
+S"\xb7\x8e\xc8'op\xd9?"
+p879
+tp880
+Rp881
+tp882
+a(S'society for literature, science, and the arts'
+p883
+g2
+(g6
+S'\xeeW\xf4\x84\xbem\xd9?'
+p884
+tp885
+Rp886
+tp887
+a(S'shanghai science association for young talents'
+p888
+g2
+(g6
+S'\xc6Ui\\\x81d\xd9?'
+p889
+tp890
+Rp891
+tp892
+a(S'international years of science'
+p893
+g2
+(g6
+S'\xe5\xf7!\x95\x9eW\xd9?'
+p894
+tp895
+Rp896
+tp897
+a(S'graham farmelo'
+p898
+g2
+(g6
+S'd\x1e\x9e\xd3\xa3S\xd9?'
+p899
+tp900
+Rp901
+tp902
+a(S'comrefas'
+p903
+g2
+(g6
+S' ]J\x8aWN\xd9?'
+p904
+tp905
+Rp906
+tp907
+a(S'science, money, and politics'
+p908
+g2
+(g6
+S'mFp\x96SI\xd9?'
+p909
+tp910
+Rp911
+tp912
+a(S'science book'
+p913
+g2
+(g6
+S'koV\xc3eG\xd9?'
+p914
+tp915
+Rp916
+tp917
+a(S'national council for science and the environment'
+p918
+g2
+(g6
+S'\xc9\xf9\r`\xefF\xd9?'
+p919
+tp920
+Rp921
+tp922
+a(S'post-normal science'
+p923
+g2
+(g6
+S'n@}\xe1^E\xd9?'
+p924
+tp925
+Rp926
+tp927
+a(S'descriptive knowledge'
+p928
+g2
+(g6
+S'j\x93\xd0\x04\xeeD\xd9?'
+p929
+tp930
+Rp931
+tp932
+a(S'american men and women of science'
+p933
+g2
+(g6
+S'\x8f\xb5Q[\xd8A\xd9?'
+p934
+tp935
+Rp936
+tp937
+a(S'conflict thesis'
+p938
+g2
+(g6
+S'\xdd\x1aG\x0b\xf8:\xd9?'
+p939
+tp940
+Rp941
+tp942
+a(S'women in science'
+p943
+g2
+(g6
+S'\xe7{\xe6\x1f\xf41\xd9?'
+p944
+tp945
+Rp946
+tp947
+a(S'alan i. leshner'
+p948
+g2
+(g6
+S']\xed\xae_5\x12\xd9?'
+p949
+tp950
+Rp951
+tp952
+a(S'science for the people'
+p953
+g2
+(g6
+S'\xe1\xb2||(\x0c\xd9?'
+p954
+tp955
+Rp956
+tp957
+a(S'medway school of science'
+p958
+g2
+(g6
+S'r\x15\xc4{\x8b\x0b\xd9?'
+p959
+tp960
+Rp961
+tp962
+a(S'list of academic databases and search engines'
+p963
+g2
+(g6
+S'\x01#\x0e\xff<\n\xd9?'
+p964
+tp965
+Rp966
+tp967
+a(S'jonathan r. cole'
+p968
+g2
+(g6
+S'\x9bB\xd4H\xe4\x00\xd9?'
+p969
+tp970
+Rp971
+tp972
+a(S'scientific dissent'
+p973
+g2
+(g6
+S'A\x14\x04\xc4\xe9\xfe\xd8?'
+p974
+tp975
+Rp976
+tp977
+a(S'story of science'
+p978
+g2
+(g6
+S'7\xff\xee\xa3-\xfc\xd8?'
+p979
+tp980
+Rp981
+tp982
+a(S'chang chun-yen'
+p983
+g2
+(g6
+S'\xea\x08d\xa8\xb4\xf9\xd8?'
+p984
+tp985
+Rp986
+tp987
+a(S'e-social science'
+p988
+g2
+(g6
+S'\xcc\xbci\xda\xa1\xf5\xd8?'
+p989
+tp990
+Rp991
+tp992
+a(S'sidney perkowitz'
+p993
+g2
+(g6
+S'\x9b\x0f$6\xea\xf0\xd8?'
+p994
+tp995
+Rp996
+tp997
+a(S'rubber science'
+p998
+g2
+(g6
+S'\xd5X5\x06\xdb\xec\xd8?'
+p999
+tp1000
+Rp1001
+tp1002
+a(S'parody science'
+p1003
+g2
+(g6
+S'\x89\x14T\xd6v\xdc\xd8?'
+p1004
+tp1005
+Rp1006
+tp1007
+a(S'sciencedebate.org'
+p1008
+g2
+(g6
+S'1\x1d\xdf\xc6\xf6\xda\xd8?'
+p1009
+tp1010
+Rp1011
+tp1012
+a(S'the story of science in america'
+p1013
+g2
+(g6
+S'`/\xdd\xcd\xd6\xda\xd8?'
+p1014
+tp1015
+Rp1016
+tp1017
+a(S'economics of science'
+p1018
+g2
+(g6
+S':L`\x95\x94\xd7\xd8?'
+p1019
+tp1020
+Rp1021
+tp1022
+a(S'tokyo university of science'
+p1023
+g2
+(g6
+S'G\xcf\xb3fz\xd2\xd8?'
+p1024
+tp1025
+Rp1026
+tp1027
+a(S'unity of science'
+p1028
+g2
+(g6
+S'\x9d\x7f\xa7E\xb3\xd1\xd8?'
+p1029
+tp1030
+Rp1031
+tp1032
+a(S'peter achinstein'
+p1033
+g2
+(g6
+S'\xa9\xb5\x1c\x1bg\xcb\xd8?'
+p1034
+tp1035
+Rp1036
+tp1037
+a(S'e-science librarianship'
+p1038
+g2
+(g6
+S'!\xc9\x12a\x82\xbd\xd8?'
+p1039
+tp1040
+Rp1041
+tp1042
+a(S'reijer hooykaas'
+p1043
+g2
+(g6
+S'3\t\x93\xb8B\xb3\xd8?'
+p1044
+tp1045
+Rp1046
+tp1047
+a(S'history of science fiction'
+p1048
+g2
+(g6
+S'\xc1\xca\xe4\xb3\x97\xab\xd8?'
+p1049
+tp1050
+Rp1051
+tp1052
+a(S'graphism thesis'
+p1053
+g2
+(g6
+S'\xc4\xb9\x8eu\xf6\xa5\xd8?'
+p1054
+tp1055
+Rp1056
+tp1057
+a(S'chinese science bulletin'
+p1058
+g2
+(g6
+S'\xba\xa8\xa8\xaa\xe0\xa0\xd8?'
+p1059
+tp1060
+Rp1061
+tp1062
+a(S'timeline of the history of scientific method'
+p1063
+g2
+(g6
+S'\x06=\xda\x17\xae\x9e\xd8?'
+p1064
+tp1065
+Rp1066
+tp1067
+a(S'british society for the philosophy of science'
+p1068
+g2
+(g6
+S'\xfd\xfd\x04\xd1B\x9e\xd8?'
+p1069
+tp1070
+Rp1071
+tp1072
+a(S'virginia association of science teachers'
+p1073
+g2
+(g6
+S'>&\xd0\xeb\xa3\x95\xd8?'
+p1074
+tp1075
+Rp1076
+tp1077
+a(S'iowa academy of science'
+p1078
+g2
+(g6
+S'\xfd\xf8$O\xa4\x8f\xd8?'
+p1079
+tp1080
+Rp1081
+tp1082
+a(S'varadaraja v. raman'
+p1083
+g2
+(g6
+S'n\xd9\xfb\\_\x8f\xd8?'
+p1084
+tp1085
+Rp1086
+tp1087
+a(S'heritage science'
+p1088
+g2
+(g6
+S'\xf3W\xcd\x9b\xbc\x8b\xd8?'
+p1089
+tp1090
+Rp1091
+tp1092
+a(S'natural philosophy'
+p1093
+g2
+(g6
+S'\xcfI\xaczp\x8b\xd8?'
+p1094
+tp1095
+Rp1096
+tp1097
+a(S'committee on the public understanding of science'
+p1098
+g2
+(g6
+S'PX\x17#O\x83\xd8?'
+p1099
+tp1100
+Rp1101
+tp1102
+a(S'deductive-nomological model'
+p1103
+g2
+(g6
+S'L\x9a\x17\xbc\xa8\x7f\xd8?'
+p1104
+tp1105
+Rp1106
+tp1107
+a(S'scientific controversy'
+p1108
+g2
+(g6
+S'J\x13\xb6\xd5\xc3u\xd8?'
+p1109
+tp1110
+Rp1111
+tp1112
+a(S'martin apple'
+p1113
+g2
+(g6
+S'\xb6\xb4\x1al\xd8n\xd8?'
+p1114
+tp1115
+Rp1116
+tp1117
+a(S'science reporter'
+p1118
+g2
+(g6
+S'\xbe\x1d#^9a\xd8?'
+p1119
+tp1120
+Rp1121
+tp1122
+a(S'stathis psillos'
+p1123
+g2
+(g6
+S'\x8e\xe1%\xefo`\xd8?'
+p1124
+tp1125
+Rp1126
+tp1127
+a(S'truth in science'
+p1128
+g2
+(g6
+S'c\x18AhQ]\xd8?'
+p1129
+tp1130
+Rp1131
+tp1132
+a(S'science and technology in spain'
+p1133
+g2
+(g6
+S'S{\xf3Q3W\xd8?'
+p1134
+tp1135
+Rp1136
+tp1137
+a(S'state committee for scientific research'
+p1138
+g2
+(g6
+S'u+\xcf\xe09S\xd8?'
+p1139
+tp1140
+Rp1141
+tp1142
+a(S'brian wynne'
+p1143
+g2
+(g6
+S'{\xf3\xf3\xec\xcbQ\xd8?'
+p1144
+tp1145
+Rp1146
+tp1147
+a(S'women in science (disambiguation)'
+p1148
+g2
+(g6
+S'E\xdf\xb3\xf5\x80Q\xd8?'
+p1149
+tp1150
+Rp1151
+tp1152
+a(S'association of science-technology centers'
+p1153
+g2
+(g6
+S'\x8d\xfb\x07\x1bpL\xd8?'
+p1154
+tp1155
+Rp1156
+tp1157
+a(S'holism in science'
+p1158
+g2
+(g6
+S'\x88=\x87\x8c#J\xd8?'
+p1159
+tp1160
+Rp1161
+tp1162
+a(S'list of books about the politics of science'
+p1163
+g2
+(g6
+S')\x7fd\xfe\x0eJ\xd8?'
+p1164
+tp1165
+Rp1166
+tp1167
+a(S'questacon'
+p1168
+g2
+(g6
+S'\xa0\xf8|JiG\xd8?'
+p1169
+tp1170
+Rp1171
+tp1172
+a(S'issues in science and religion'
+p1173
+g2
+(g6
+S'\xf8\xfd\rP\xdd@\xd8?'
+p1174
+tp1175
+Rp1176
+tp1177
+a(S'dainton report'
+p1178
+g2
+(g6
+S"\x1cp\xdc\xe9'?\xd8?"
+p1179
+tp1180
+Rp1181
+tp1182
+a(S'institute for the promotion of teaching science and technology'
+p1183
+g2
+(g6
+S'\xe7\xea<\xac\xdf;\xd8?'
+p1184
+tp1185
+Rp1186
+tp1187
+a(S'list of scholars on the relationship between religion and science'
+p1188
+g2
+(g6
+S'\x8aLIL\xd17\xd8?'
+p1189
+tp1190
+Rp1191
+tp1192
+a(S'george sarton'
+p1193
+g2
+(g6
+S'\xae?ih\xd5*\xd8?'
+p1194
+tp1195
+Rp1196
+tp1197
+a(S'f. sherwood taylor'
+p1198
+g2
+(g6
+S'\xeb\x17d$\xe5(\xd8?'
+p1199
+tp1200
+Rp1201
+tp1202
+a(S'marshall clagett'
+p1203
+g2
+(g6
+S'\x10\x8e\xa3\x95j%\xd8?'
+p1204
+tp1205
+Rp1206
+tp1207
+a(S'norman p. neureiter'
+p1208
+g2
+(g6
+S'\x81sYQ\xfb$\xd8?'
+p1209
+tp1210
+Rp1211
+tp1212
+a(S'outline of big science'
+p1213
+g2
+(g6
+S'>c=\xffR \xd8?'
+p1214
+tp1215
+Rp1216
+tp1217
+a(S'national science foundation of sri lanka'
+p1218
+g2
+(g6
+S'U;a\x1c\x94\x1c\xd8?'
+p1219
+tp1220
+Rp1221
+tp1222
+a(S'science rendezvous'
+p1223
+g2
+(g6
+S'\xeb\xc9\x86\x87\xbb\x18\xd8?'
+p1224
+tp1225
+Rp1226
+tp1227
+a(S'state science and technology prizes'
+p1228
+g2
+(g6
+S'I\x19\xe1\xeb\x19\x14\xd8?'
+p1229
+tp1230
+Rp1231
+tp1232
+a(S'boundary-work'
+p1233
+g2
+(g6
+S'\xa2e\x1f~\x14\x08\xd8?'
+p1234
+tp1235
+Rp1236
+tp1237
+a(S'david c. lindberg'
+p1238
+g2
+(g6
+S"'\xfd\xaa\x9d\xa3\xfb\xd7?"
+p1239
+tp1240
+Rp1241
+tp1242
+a(S'katy b\xc3\xb6rner'
+p1243
+g2
+(g6
+S'\x8cJ\xf5\xb00\xfb\xd7?'
+p1244
+tp1245
+Rp1246
+tp1247
+a(S'michigan state university college of natural science'
+p1248
+g2
+(g6
+S'm\x8eh\xf2%\xf9\xd7?'
+p1249
+tp1250
+Rp1251
+tp1252
+a(S'amsterdam science park'
+p1253
+g2
+(g6
+S'\x9a\xa9\xd4\xe9\x91\xf7\xd7?'
+p1254
+tp1255
+Rp1256
+tp1257
+a(S'actua'
+p1258
+g2
+(g6
+S'd\x01\xd1\xd8\xd1\xf6\xd7?'
+p1259
+tp1260
+Rp1261
+tp1262
+a(S'design science'
+p1263
+g2
+(g6
+S'\xf1?\xd3T%\xef\xd7?'
+p1264
+tp1265
+Rp1266
+tp1267
+a(S'alan chalmers'
+p1268
+g2
+(g6
+S'\xca\x87\x14HK\xec\xd7?'
+p1269
+tp1270
+Rp1271
+tp1272
+a(S'national centre for e-social science'
+p1273
+g2
+(g6
+S'\xae\x1d6\xc5 \xe6\xd7?'
+p1274
+tp1275
+Rp1276
+tp1277
+a(S'goa science centre'
+p1278
+g2
+(g6
+S'\xafK\n\xfc\x1a\xdf\xd7?'
+p1279
+tp1280
+Rp1281
+tp1282
+a(S'roderick weir home'
+p1283
+g2
+(g6
+S'\xb7\x83\xcdh\xce\xd4\xd7?'
+p1284
+tp1285
+Rp1286
+tp1287
+a(S'sally gregory kohlstedt'
+p1288
+g2
+(g6
+S'\nayR\n\xce\xd7?'
+p1289
+tp1290
+Rp1291
+tp1292
+a(S'outline of applied science'
+p1293
+g2
+(g6
+S'\x8b9\x81\n\xe0\xcc\xd7?'
+p1294
+tp1295
+Rp1296
+tp1297
+a(S'science and technology policy institute'
+p1298
+g2
+(g6
+S"\x19\xd9HR'\xc9\xd7?"
+p1299
+tp1300
+Rp1301
+tp1302
+a(S'edward grant'
+p1303
+g2
+(g6
+S'\x0b\xfa\x11\x0e\xcc\xc7\xd7?'
+p1304
+tp1305
+Rp1306
+tp1307
+a(S'university of science and technology'
+p1308
+g2
+(g6
+S"Zx\x94\x91'\xc7\xd7?"
+p1309
+tp1310
+Rp1311
+tp1312
+a(S'charles coulston gillispie'
+p1313
+g2
+(g6
+S'I<\xfd\xaa\xd1\xc6\xd7?'
+p1314
+tp1315
+Rp1316
+tp1317
+a(S'steve mirsky'
+p1318
+g2
+(g6
+S'w\xd0\x94\x0cv\xc3\xd7?'
+p1319
+tp1320
+Rp1321
+tp1322
+a(S'scientific american'
+p1323
+g2
+(g6
+S'\x06@\x00\xf6\xd3\xc1\xd7?'
+p1324
+tp1325
+Rp1326
+tp1327
+a(S'scott l. montgomery'
+p1328
+g2
+(g6
+S"\xbb\x98\xe4'\xcc\xc0\xd7?"
+p1329
+tp1330
+Rp1331
+tp1332
+a(S'michael j. padilla'
+p1333
+g2
+(g6
+S'\xa0\x88\x81(\xb9\xbc\xd7?'
+p1334
+tp1335
+Rp1336
+tp1337
+a(S'popular science'
+p1338
+g2
+(g6
+S'\xb3\xda\xf2o\xfa\xb2\xd7?'
+p1339
+tp1340
+Rp1341
+tp1342
+a(S'gns science'
+p1343
+g2
+(g6
+S'(\x92\x02T:\xac\xd7?'
+p1344
+tp1345
+Rp1346
+tp1347
+a(S'arizona science center'
+p1348
+g2
+(g6
+S'`l\xa8L\xcc\x8e\xd7?'
+p1349
+tp1350
+Rp1351
+tp1352
+a(S'national science education standards'
+p1353
+g2
+(g6
+S'\xcf\xae8Y\x8d\x8e\xd7?'
+p1354
+tp1355
+Rp1356
+tp1357
+a(S'scientific literacy'
+p1358
+g2
+(g6
+S'\xdb\xd4\xaf\x8eI\x88\xd7?'
+p1359
+tp1360
+Rp1361
+tp1362
+a(S'science theatre'
+p1363
+g2
+(g6
+S'\xae1\xddD\xe9\x86\xd7?'
+p1364
+tp1365
+Rp1366
+tp1367
+a(S'the structure of scientific revolutions'
+p1368
+g2
+(g6
+S'\x1a\x13\x05\xdc\xb0\x85\xd7?'
+p1369
+tp1370
+Rp1371
+tp1372
+a(S'association of british science writers'
+p1373
+g2
+(g6
+S'\xcf\rx\x85\x08\x85\xd7?'
+p1374
+tp1375
+Rp1376
+tp1377
+a(S'research institute'
+p1378
+g2
+(g6
+S'\xe8\x81\xcc_:\x83\xd7?'
+p1379
+tp1380
+Rp1381
+tp1382
+a(S'list of scientific occupations'
+p1383
+g2
+(g6
+S'\xc3\xfa\x86\x7f\xe8\x7f\xd7?'
+p1384
+tp1385
+Rp1386
+tp1387
+a(S'ayyappanpillai ajayaghosh'
+p1388
+g2
+(g6
+S'OI\xde\xeb\xb7w\xd7?'
+p1389
+tp1390
+Rp1391
+tp1392
+a(S'falsifiability'
+p1393
+g2
+(g6
+S'\xfay\xbc\xbeat\xd7?'
+p1394
+tp1395
+Rp1396
+tp1397
+a(S'information science'
+p1398
+g2
+(g6
+S'\xa8\xe5\xfb\x0b,p\xd7?'
+p1399
+tp1400
+Rp1401
+tp1402
+a(S'ministry of science and higher education (poland)'
+p1403
+g2
+(g6
+S'_Q\xff\xd0qo\xd7?'
+p1404
+tp1405
+Rp1406
+tp1407
+a(S'science, technology and society'
+p1408
+g2
+(g6
+S'\x9b\x9a\xb8\ruf\xd7?'
+p1409
+tp1410
+Rp1411
+tp1412
+a(S'science spectrum'
+p1413
+g2
+(g6
+S'a\x9a\x9e\xe8\xed`\xd7?'
+p1414
+tp1415
+Rp1416
+tp1417
+a(S'regional science high school for region 1'
+p1418
+g2
+(g6
+S'\x90\xbcN\x18\x07_\xd7?'
+p1419
+tp1420
+Rp1421
+tp1422
+a(S'purdue university college of science'
+p1423
+g2
+(g6
+S'O\xa5\xc7\xdc\n^\xd7?'
+p1424
+tp1425
+Rp1426
+tp1427
+a(S'kirikkale science high school'
+p1428
+g2
+(g6
+S'\x9a\x84\x17\xad\xe4]\xd7?'
+p1429
+tp1430
+Rp1431
+tp1432
+a(S'eureka prizes'
+p1433
+g2
+(g6
+S'\xe2p)\xe0\xdc\\\xd7?'
+p1434
+tp1435
+Rp1436
+tp1437
+a(S'science fiction'
+p1438
+g2
+(g6
+S'\xaf_\xafm\xb6W\xd7?'
+p1439
+tp1440
+Rp1441
+tp1442
+a(S'patrick aidan heelan'
+p1443
+g2
+(g6
+S'c\xfd\x8a9\rU\xd7?'
+p1444
+tp1445
+Rp1446
+tp1447
+a(S'university of edinburgh college of science and engineering'
+p1448
+g2
+(g6
+S"'@q\xc6\x0eQ\xd7?"
+p1449
+tp1450
+Rp1451
+tp1452
+a(S'londa schiebinger'
+p1453
+g2
+(g6
+S'\x81!mgYO\xd7?'
+p1454
+tp1455
+Rp1456
+tp1457
+a(S'history of military technology'
+p1458
+g2
+(g6
+S'\x8e\xf3\xb9\x19\xc8N\xd7?'
+p1459
+tp1460
+Rp1461
+tp1462
+a(S'rhetoric of science'
+p1463
+g2
+(g6
+S'\xb3\xbe.\xc9\xabD\xd7?'
+p1464
+tp1465
+Rp1466
+tp1467
+a(S'science debate 2008'
+p1468
+g2
+(g6
+S'\xe8\x9b\xca\xff7C\xd7?'
+p1469
+tp1470
+Rp1471
+tp1472
+a(S'history of political science'
+p1473
+g2
+(g6
+S'\x1e;\x92\xc3%A\xd7?'
+p1474
+tp1475
+Rp1476
+tp1477
+a(S'list of fields of doctoral studies in the united states'
+p1478
+g2
+(g6
+S'vv\x89\x9a(:\xd7?'
+p1479
+tp1480
+Rp1481
+tp1482
+a(S'chief science officer'
+p1483
+g2
+(g6
+S'\x05\xb5\xc2\x8bu8\xd7?'
+p1484
+tp1485
+Rp1486
+tp1487
+a(S'the mr. science show'
+p1488
+g2
+(g6
+S'\x97^\xdfV\x111\xd7?'
+p1489
+tp1490
+Rp1491
+tp1492
+a(S'international academy of the history of science'
+p1493
+g2
+(g6
+S'\xea\x1e\xb3d\x1d/\xd7?'
+p1494
+tp1495
+Rp1496
+tp1497
+a(S"the hedgehog, the fox, and the magister's pox"
+p1498
+g2
+(g6
+S'\xdd\x9f\xa9W\xd5-\xd7?'
+p1499
+tp1500
+Rp1501
+tp1502
+a(S'science and technology in the philippines'
+p1503
+g2
+(g6
+S'W\xf1>\xc42*\xd7?'
+p1504
+tp1505
+Rp1506
+tp1507
+a(S'inspiring australia'
+p1508
+g2
+(g6
+S'\xc9\xdc\x8b9\xdf&\xd7?'
+p1509
+tp1510
+Rp1511
+tp1512
+a.
